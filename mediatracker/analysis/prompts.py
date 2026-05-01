@@ -24,7 +24,14 @@ For each article you receive, return a structured analysis with:
 - angle: a short phrase capturing the narrative framing (≤ 12 words)
 - key_claims: up to 5 factual claims the article makes about the brand
 - people_quoted: anyone directly or indirectly quoted; paraphrase the quote, do not copy verbatim
-- risk_flags: any of legal, financial, controversy, exec_statement, product_issue. Use ["none"] if nothing applies.
+- risk_flags: topic categories. Tag liberally — these are not "risks" only, they're descriptors of what the article is *about*. Apply each that fits. Use ["none"] only when literally none of these descriptors apply.
+    - legal:           any legal, regulatory, or compliance angle (lawsuits, investigations, government rules, sanctions, certification)
+    - financial:       earnings, revenue, M&A, funding rounds, valuation, profit, loss, segment results — positive or negative
+    - controversy:     public criticism, NGO campaigns, social-media backlash, activist letters, journalistic exposés
+    - exec_statement:  any quote or attributed statement from a named BioMar / Schouw executive (interviews, keynotes, press-release quotes)
+    - product_issue:   product complaints, recalls, mortality events tied to feed, contamination, performance shortfalls
+    - none:            none of the above descriptors apply
+  Multiple flags are normal: a Q1-results piece quoting the CEO is ["financial", "exec_statement"]. An NGO report criticising salmon farming that mentions BioMar is ["controversy"].
 - summary: two neutral sentences
 
 Rules:

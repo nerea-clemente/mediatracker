@@ -38,7 +38,7 @@ const RISK_BADGE: Record<RiskFlag, string> = {
   none: "bg-gray-100 text-gray-600 ring-gray-200",
 };
 
-type DateRange = "7d" | "14d" | "30d" | "all";
+type DateRange = "7d" | "14d" | "30d" | "3m" | "qtd" | "ytd" | "1y" | "all";
 type Language = "all" | "en" | "da" | "no" | "es";
 
 const LANGUAGE_LABELS: Record<Exclude<Language, "all">, string> = {
@@ -51,11 +51,40 @@ type SortKey = "last_seen" | "pickup_count" | "sentiment";
 
 const REFERENCE_NOW = new Date("2026-05-01T08:00:00Z");
 
+// Reference for "today" — always now() so windows roll forward without a redeploy.
+function rangeCutoff(range: DateRange): Date | null {
+  if (range === "all") return null;
+  const now = new Date();
+  const cutoff = new Date(now);
+  switch (range) {
+    case "7d":
+      cutoff.setUTCDate(now.getUTCDate() - 7);
+      break;
+    case "14d":
+      cutoff.setUTCDate(now.getUTCDate() - 14);
+      break;
+    case "30d":
+      cutoff.setUTCDate(now.getUTCDate() - 30);
+      break;
+    case "3m":
+      cutoff.setUTCMonth(now.getUTCMonth() - 3);
+      break;
+    case "1y":
+      cutoff.setUTCFullYear(now.getUTCFullYear() - 1);
+      break;
+    case "qtd": {
+      const q = Math.floor(now.getUTCMonth() / 3) * 3;
+      return new Date(Date.UTC(now.getUTCFullYear(), q, 1));
+    }
+    case "ytd":
+      return new Date(Date.UTC(now.getUTCFullYear(), 0, 1));
+  }
+  return cutoff;
+}
+
 function withinRange(iso: string, range: DateRange): boolean {
-  if (range === "all") return true;
-  const days = range === "7d" ? 7 : range === "14d" ? 14 : 30;
-  const cutoff = new Date(REFERENCE_NOW);
-  cutoff.setUTCDate(cutoff.getUTCDate() - days);
+  const cutoff = rangeCutoff(range);
+  if (!cutoff) return true;
   return new Date(iso) >= cutoff;
 }
 
@@ -269,6 +298,10 @@ export default function Page() {
               <option value="7d">Last 7 days</option>
               <option value="14d">Last 14 days</option>
               <option value="30d">Last 30 days</option>
+              <option value="3m">Last 3 months</option>
+              <option value="qtd">Quarter to date</option>
+              <option value="ytd">Year to date</option>
+              <option value="1y">Last year</option>
               <option value="all">All time</option>
             </select>
           </FilterBox>
