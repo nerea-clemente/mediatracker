@@ -148,8 +148,12 @@ def main(argv: list[str] | None = None) -> int:
     try:
         init_schema(conn)
         if args.reset:
-            n = conn.execute("UPDATE mentions SET processed = 0").rowcount
-            log.info("--reset: %d mention(s) flagged for re-analysis", n)
+            placeholders = ",".join("?" * len(BIOMAR_KEYWORDS))
+            n = conn.execute(
+                f"UPDATE mentions SET processed = 0 WHERE matched_keyword IN ({placeholders})",
+                tuple(BIOMAR_KEYWORDS),
+            ).rowcount
+            log.info("--reset: %d BioMar mention(s) flagged for re-analysis", n)
         rows = conn.execute(
             SELECT_UNPROCESSED, (*BIOMAR_KEYWORDS, args.limit)
         ).fetchall()

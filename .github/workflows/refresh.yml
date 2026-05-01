@@ -92,12 +92,12 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           REANALYZE_ALL: ${{ github.event.inputs.reanalyze_all }}
         run: |
-          ARGS="--limit $ANALYZER_LIMIT"
           if [[ "$REANALYZE_ALL" == "true" ]]; then
-            echo "::warning::reanalyze_all=true — re-analyzing every mention. Watch your Anthropic spend."
-            ARGS="$ARGS --reset --limit 5000"
+            echo "::warning::reanalyze_all=true — re-analyzing every BioMar mention. Watch your Anthropic spend."
+            python -m mediatracker.analysis.analyzer --reset --limit 5000
+          else
+            python -m mediatracker.analysis.analyzer --limit "$ANALYZER_LIMIT"
           fi
-          python -m mediatracker.analysis.analyzer $ARGS
 
       - name: Cluster into stories
         if: env.RUN_PIPELINE == 'true'
