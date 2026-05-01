@@ -27,8 +27,13 @@ PRIMARY_VARIATIONS = ["BioMar", "Bio Mar", "BioMar Group", "Biomar"]
 PRIMARY_EXCLUDE = ["biomarker", "biomarkers", "biomarine"]
 
 # Parent company — tagged separately so we can split BioMar vs. parent volume.
+# Danish coverage just says "Schouw"; the strict "Schouw & Co" form was
+# returning 3 hits/30d in Danish vs 59 in English. Widen to bare "Schouw"
+# scoped to BioMar / Aarhus context so we don't pick up unrelated Schouw
+# surnames.
 PARENT_KEYWORD = "Schouw"
-PARENT_VARIATIONS = ["Schouw & Co", "Schouw og Co", "Schouw & Co."]
+PARENT_VARIATIONS = ["Schouw"]
+PARENT_CONTEXT_TERMS = ["BioMar", "Aarhus", "Schouw & Co"]
 
 # Named executives. Searched as exact-quoted phrases.
 EXEC_QUERIES = [
@@ -62,6 +67,27 @@ COMPETITOR_QUERIES = [
 ]
 
 
+# ---------------------------------------------------------------------------
+# Site-scoped queries — surface paywalled / locally-indexed outlets that
+# Google News' generic locale doesn't return. Each runs against ONE
+# specified locale only.
+# ---------------------------------------------------------------------------
+
+SITE_SCOPED_QUERIES = [
+    # Børsen — Denmark's main business paper. Paywalled but indexed by
+    # Google News at the headline+lede level.
+    {"keyword": "BioMar (borsen.dk)",  "phrase": "BioMar",  "site": "borsen.dk",  "locale": "da", "company": "BioMar"},
+    {"keyword": "Schouw (borsen.dk)",  "phrase": "Schouw",  "site": "borsen.dk",  "locale": "da", "company": "BioMar"},
+    # Finans.dk — Jyllands-Posten's business arm.
+    {"keyword": "BioMar (finans.dk)",  "phrase": "BioMar",  "site": "finans.dk",  "locale": "da", "company": "BioMar"},
+    {"keyword": "Schouw (finans.dk)",  "phrase": "Schouw",  "site": "finans.dk",  "locale": "da", "company": "BioMar"},
+    # Berlingske Business
+    {"keyword": "BioMar (berlingske.dk)", "phrase": "BioMar", "site": "berlingske.dk", "locale": "da", "company": "BioMar"},
+    # Norway: Sysla / E24 are good business outlets but well-indexed already.
+    # Add only if specific gaps appear.
+]
+
+
 # Map a ``matched_keyword`` (as stored in mentions.matched_keyword) to a
 # canonical company display name. Used by the export step to bucket
 # mentions into share-of-voice series.
@@ -70,6 +96,7 @@ KEYWORD_TO_COMPANY: dict[str, str] = {
     PARENT_KEYWORD: "BioMar",  # Schouw articles roll up under BioMar
     **{ex["keyword"]: "BioMar" for ex in EXEC_QUERIES},
     **{cq["keyword"]: cq["company"] for cq in COMPETITOR_QUERIES},
+    **{ss["keyword"]: ss["company"] for ss in SITE_SCOPED_QUERIES},
 }
 
 BIOMAR_KEYWORDS: set[str] = {
@@ -169,7 +196,12 @@ def build_google_news_queries() -> list[tuple[str, str]]:
     primary_q = f"({_quote_or(PRIMARY_VARIATIONS)}) {_exclude(PRIMARY_EXCLUDE)}".strip()
     queries.append((PRIMARY_KEYWORD, primary_q))
 
-    parent_q = f"({_quote_or(PARENT_VARIATIONS)})"
+    # Schouw: bare name AND any context term (BioMar / Aarhus / "Schouw & Co").
+    # Avoids matching unrelated Schouw surnames while catching Danish-only
+    # coverage that just writes "Schouw".
+    parent_q = (
+        f"({_quote_or(PARENT_VARIATIONS)}) AND ({_quote_or(PARENT_CONTEXT_TERMS)})"
+    )
     queries.append((PARENT_KEYWORD, parent_q))
 
     for ex in EXEC_QUERIES:
@@ -206,6 +238,24 @@ def all_feeds() -> list[FeedSpec]:
                     locale=locale,
                 )
             )
+
+    # Site-scoped queries: each runs against one locale only.
+    locale_by_code = {l.code: l for l in GOOGLE_NEWS_LOCALES}
+    for ss in SITE_SCOPED_QUERIES:
+        locale = locale_by_code.get(ss["locale"])
+        if not locale:
+            continue
+        q = f'"{ss["phrase"]}" site:{ss["site"]}'
+        feeds.append(
+            FeedSpec(
+                source_type="google_news",
+                source_name=f"Google News ({locale.code} · {ss['site']})",
+                feed_query=q,
+                matched_keyword=ss["keyword"],
+                language=locale.code,
+                locale=locale,
+            )
+        )
 
     for tf in TRADE_PRESS_FEEDS:
         feeds.append(
