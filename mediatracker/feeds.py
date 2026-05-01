@@ -60,9 +60,15 @@ GOOGLE_NEWS_LOCALES: list[GoogleNewsLocale] = [
 # ---------------------------------------------------------------------------
 # Trade press direct RSS feeds.
 #
-# IMPORTANT: these URLs are best-effort defaults. Some publications change or
-# remove their RSS endpoints. If a feed 404s the ingest will log a warning
-# and continue. Verify URLs at first run and edit here as needed.
+# Most trade-press sites sit behind Cloudflare bot protection that rejects
+# the GitHub Actions runner with a 403 (verified 2026-05). The Google News
+# pipeline above already surfaces their articles indirectly — and since we
+# now extract the per-item publisher from Google News (see ``rss.py``), the
+# dropdown shows "IntraFish", "Fish Farming Expert", etc. as the source
+# name without us having to scrape those sites directly.
+#
+# We keep SalmonBusiness here because its feed serves cleanly. Add new
+# entries only after verifying the URL responds 200 to a non-browser UA.
 # ---------------------------------------------------------------------------
 
 @dataclass(frozen=True)
@@ -86,28 +92,8 @@ _DEFAULT_FILTER = [
 
 TRADE_PRESS_FEEDS: list[TradePressFeed] = [
     TradePressFeed(
-        name="Undercurrent News",
-        url="https://www.undercurrentnews.com/feed/",
-        keyword_filter=_DEFAULT_FILTER,
-    ),
-    TradePressFeed(
         name="SalmonBusiness",
         url="https://www.salmonbusiness.com/feed/",
-        keyword_filter=_DEFAULT_FILTER,
-    ),
-    TradePressFeed(
-        name="Fish Farming Expert",
-        url="https://www.fishfarmingexpert.com/rss",
-        keyword_filter=_DEFAULT_FILTER,
-    ),
-    TradePressFeed(
-        name="Hatchery International",
-        url="https://www.hatcheryinternational.com/feed/",
-        keyword_filter=_DEFAULT_FILTER,
-    ),
-    TradePressFeed(
-        name="IntraFish",
-        url="https://www.intrafish.com/?service=rss",
         keyword_filter=_DEFAULT_FILTER,
     ),
 ]

@@ -50,4 +50,8 @@ def fetch(
         feed_query=query,
         matched_keyword=matched_keyword,
         language=locale.code,
+        # Google News wraps each item with the real publisher in <source>;
+        # use that as source_name so the dashboard shows "Reuters", not
+        # "Google News (en)".
+        use_per_entry_publisher=True,
     )

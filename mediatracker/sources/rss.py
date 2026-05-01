@@ -51,6 +51,54 @@ def fetch_feed(
     return parsed
 
 
+# Outlet name normalization. Same publisher sometimes shows up as bare
+# domain (when <source> is missing) and as a clean brand name; merge them.
+PUBLISHER_ALIASES: dict[str, str] = {
+    "intrafish.com":           "IntraFish",
+    "Intrafish":               "IntraFish",
+    "undercurrentnews.com":    "Undercurrent News",
+    "salmonbusiness.com":      "SalmonBusiness",
+    "fishfarmingexpert.com":   "Fish Farming Expert",
+    "Fishfarming expert":      "Fish Farming Expert",
+    "hatcheryinternational.com": "Hatchery International",
+    "thefishsite.com":         "The Fish Site",
+    "seafoodsource.com":       "SeafoodSource",
+    "ilaks.no":                "iLaks",
+    "kyst.no":                 "Kyst.no",
+    "salmonexpert.no":         "Salmonexpert",
+    "salmonexpert.cl":         "Salmonexpert",
+    "aquafeed.com":            "Aquafeed.com",
+}
+
+
+def _publisher_from_entry(entry, fallback_url: str) -> str | None:
+    """Best-effort extraction of the actual publisher from an RSS entry.
+
+    Google News RSS wraps each item with a ``<source>`` element naming the
+    real publisher (Reuters, IntraFish, Bloomberg, …). feedparser exposes
+    that as ``entry.source.title`` or sometimes ``entry.source['title']``.
+    Falls back to the link domain if the source field is missing. The
+    result is normalized through ``PUBLISHER_ALIASES`` so domain and
+    brand-name forms collapse into one bucket.
+    """
+    name: str | None = None
+    src = entry.get("source")
+    if src:
+        title = src.get("title") if isinstance(src, dict) else getattr(src, "title", None)
+        if title:
+            name = str(title).strip()
+    if not name and fallback_url:
+        from urllib.parse import urlparse
+
+        host = urlparse(fallback_url).netloc.lower()
+        if host.startswith("www."):
+            host = host[4:]
+        name = host or None
+    if not name:
+        return None
+    return PUBLISHER_ALIASES.get(name, name)
+
+
 def entries_to_mentions(
     parsed: feedparser.FeedParserDict,
     *,
@@ -59,6 +107,7 @@ def entries_to_mentions(
     feed_query: str,
     matched_keyword: str,
     language: str | None,
+    use_per_entry_publisher: bool = False,
 ) -> Iterable[RawMention]:
     for entry in parsed.entries:
         url = (entry.get("link") or "").strip()
@@ -87,11 +136,17 @@ def entries_to_mentions(
             "source": dict(entry.get("source", {})) if entry.get("source") else None,
         }
 
+        entry_source_name = source_name
+        if use_per_entry_publisher:
+            publisher = _publisher_from_entry(entry, url)
+            if publisher:
+                entry_source_name = publisher
+
         yield RawMention(
             url=url,
             title=title,
             source_type=source_type,
-            source_name=source_name,
+            source_name=entry_source_name,
             feed_query=feed_query,
             matched_keyword=matched_keyword,
             language=language,
