@@ -306,7 +306,9 @@ export default function Page() {
           </p>
           <p className="text-xs text-slate-500 mt-2 italic max-w-2xl">
             Pilot / test version. Coverage refreshes four times daily Danish time
-            (07:30, 11:30, 18:00, 00:00). Questions or feedback?{" "}
+            (07:30, 11:30, 18:00, 00:00). Hard-paywalled Danish business outlets
+            (Børsen, Finans.dk, Berlingske premium) are not indexed by Google
+            News and are <span className="not-italic font-semibold">not</span> covered by this build. Questions or feedback?{" "}
             <a href="mailto:nerpa@biomar.com" className="text-sky-700 hover:underline not-italic">
               nerpa@biomar.com
             </a>

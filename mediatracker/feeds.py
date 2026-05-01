@@ -68,24 +68,17 @@ COMPETITOR_QUERIES = [
 
 
 # ---------------------------------------------------------------------------
-# Site-scoped queries — surface paywalled / locally-indexed outlets that
-# Google News' generic locale doesn't return. Each runs against ONE
-# specified locale only.
+# Site-scoped queries (currently empty).
+#
+# Børsen, Finans.dk and Berlingske were tried here as ``site:borsen.dk``
+# style searches against Google News' Danish locale; verified empty (zero
+# hits, including via plain google.com search). Those outlets opt out of
+# Google indexing because they're paywalled. Adding new entries here is
+# only worthwhile after verifying ``"BRAND" site:DOMAIN`` returns hits in
+# a normal Google News query.
 # ---------------------------------------------------------------------------
 
-SITE_SCOPED_QUERIES = [
-    # Børsen — Denmark's main business paper. Paywalled but indexed by
-    # Google News at the headline+lede level.
-    {"keyword": "BioMar (borsen.dk)",  "phrase": "BioMar",  "site": "borsen.dk",  "locale": "da", "company": "BioMar"},
-    {"keyword": "Schouw (borsen.dk)",  "phrase": "Schouw",  "site": "borsen.dk",  "locale": "da", "company": "BioMar"},
-    # Finans.dk — Jyllands-Posten's business arm.
-    {"keyword": "BioMar (finans.dk)",  "phrase": "BioMar",  "site": "finans.dk",  "locale": "da", "company": "BioMar"},
-    {"keyword": "Schouw (finans.dk)",  "phrase": "Schouw",  "site": "finans.dk",  "locale": "da", "company": "BioMar"},
-    # Berlingske Business
-    {"keyword": "BioMar (berlingske.dk)", "phrase": "BioMar", "site": "berlingske.dk", "locale": "da", "company": "BioMar"},
-    # Norway: Sysla / E24 are good business outlets but well-indexed already.
-    # Add only if specific gaps appear.
-]
+SITE_SCOPED_QUERIES: list[dict] = []
 
 
 # Map a ``matched_keyword`` (as stored in mentions.matched_keyword) to a
