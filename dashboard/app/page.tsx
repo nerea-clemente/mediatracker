@@ -2,7 +2,6 @@
 
 import { useMemo, useState } from "react";
 import {
-  ALL_OUTLETS,
   GENERATED_AT,
   IS_MOCK,
   MENTIONS,
@@ -40,6 +39,14 @@ const RISK_BADGE: Record<RiskFlag, string> = {
 };
 
 type DateRange = "7d" | "14d" | "30d" | "all";
+type Language = "all" | "en" | "da" | "no" | "es";
+
+const LANGUAGE_LABELS: Record<Exclude<Language, "all">, string> = {
+  en: "English",
+  da: "Danish",
+  no: "Norwegian",
+  es: "Spanish",
+};
 type SortKey = "last_seen" | "pickup_count" | "sentiment";
 
 const REFERENCE_NOW = new Date("2026-05-01T08:00:00Z");
@@ -150,7 +157,7 @@ function StoryRow({ story, mentions, expanded, onToggle }: {
 
 export default function Page() {
   const [dateRange, setDateRange] = useState<DateRange>("30d");
-  const [outlet, setOutlet] = useState<string>("all");
+  const [language, setLanguage] = useState<Language>("all");
   const [sentiment, setSentiment] = useState<Sentiment | "all">("all");
   const [risk, setRisk] = useState<RiskFlag | "all">("all");
   const [sortKey, setSortKey] = useState<SortKey>("last_seen");
@@ -159,12 +166,12 @@ export default function Page() {
   const filteredMentions = useMemo(() => {
     return MENTIONS.filter((m) => {
       if (!withinRange(m.published_at, dateRange)) return false;
-      if (outlet !== "all" && m.source_name !== outlet) return false;
+      if (language !== "all" && m.language !== language) return false;
       if (sentiment !== "all" && m.sentiment !== sentiment) return false;
       if (risk !== "all" && !m.risk_flags.includes(risk)) return false;
       return true;
     });
-  }, [dateRange, outlet, sentiment, risk]);
+  }, [dateRange, language, sentiment, risk]);
 
   const filteredStories = useMemo(() => {
     const visibleStoryIds = new Set(filteredMentions.map((m) => m.story_id));
@@ -261,11 +268,11 @@ export default function Page() {
               <option value="all">All time</option>
             </select>
           </FilterBox>
-          <FilterBox label="Outlet">
-            <select className="filter-select" value={outlet} onChange={(e) => setOutlet(e.target.value)}>
-              <option value="all">All outlets</option>
-              {ALL_OUTLETS.map((o) => (
-                <option key={o} value={o}>{o}</option>
+          <FilterBox label="Language">
+            <select className="filter-select" value={language} onChange={(e) => setLanguage(e.target.value as Language)}>
+              <option value="all">All languages</option>
+              {(Object.keys(LANGUAGE_LABELS) as (keyof typeof LANGUAGE_LABELS)[]).map((code) => (
+                <option key={code} value={code}>{LANGUAGE_LABELS[code]}</option>
               ))}
             </select>
           </FilterBox>
