@@ -77,10 +77,10 @@ function StoryRow({ story, mentions, expanded, onToggle }: {
     <>
       <tr className="border-t border-slate-200 hover:bg-slate-50 cursor-pointer" onClick={onToggle}>
         <td className="px-3 py-3 align-top">
-          <div className="flex items-center gap-2">
-            <span className="text-slate-400 text-xs w-3">{expanded ? "▾" : "▸"}</span>
-            <div>
-              <div className="font-medium text-slate-900">{story.headline}</div>
+          <div className="flex items-start gap-2 min-w-0">
+            <span className="text-slate-400 text-xs w-3 mt-0.5 shrink-0">{expanded ? "▾" : "▸"}</span>
+            <div className="min-w-0 flex-1">
+              <div className="font-medium text-slate-900 line-clamp-2">{story.headline}</div>
               <div className="text-xs text-slate-500 mt-0.5 line-clamp-1">{story.story_summary}</div>
             </div>
           </div>
@@ -327,14 +327,21 @@ export default function Page() {
             </select>
           </div>
         </div>
-        <table className="w-full text-sm">
+        <table className="w-full text-sm table-fixed">
+          <colgroup>
+            <col />
+            <col className="w-24" />
+            <col className="w-40" />
+            <col className="w-16" />
+            <col className="w-24" />
+          </colgroup>
           <thead className="bg-slate-50 text-xs uppercase tracking-wide text-slate-500">
             <tr>
               <th className="px-3 py-2 text-left">Headline</th>
-              <th className="px-3 py-2 text-left w-24">Sentiment</th>
-              <th className="px-3 py-2 text-left w-48">Risk flags</th>
-              <th className="px-3 py-2 text-left w-20">Pickups</th>
-              <th className="px-3 py-2 text-left w-28">Last seen</th>
+              <th className="px-3 py-2 text-left">Sentiment</th>
+              <th className="px-3 py-2 text-left">Risk flags</th>
+              <th className="px-3 py-2 text-left">Pickups</th>
+              <th className="px-3 py-2 text-left">Last seen</th>
             </tr>
           </thead>
           <tbody>
