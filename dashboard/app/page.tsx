@@ -304,6 +304,14 @@ export default function Page() {
             {" "}
             {filteredMentions.length} mentions in view across {filteredStories.length} stories.
           </p>
+          <p className="text-xs text-slate-500 mt-2 italic max-w-2xl">
+            Pilot / test version. Coverage refreshes four times daily Danish time
+            (07:30, 11:30, 18:00, 00:00). Questions or feedback?{" "}
+            <a href="mailto:nerpa@biomar.com" className="text-sky-700 hover:underline not-italic">
+              nerpa@biomar.com
+            </a>
+            .
+          </p>
         </div>
         <div className="text-xs text-slate-400">mediatracker</div>
       </header>
