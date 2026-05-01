@@ -106,6 +106,9 @@ function StoryRow({ story, mentions, expanded, onToggle }: {
                 <div className="text-xs font-semibold uppercase tracking-wide text-slate-500 mb-1">
                   Pickups ({mentions.length})
                 </div>
+                <div className="text-[11px] text-slate-400 mb-2 italic">
+                  Mock data: links open the outlet homepage, not a real article.
+                </div>
                 <ul className="space-y-2">
                   {mentions.map((m) => (
                     <li key={m.id} className="text-sm">

@@ -178,6 +178,23 @@ const O = {
   seafoodsource: "SeafoodSource",
 };
 
+// Real outlet homepages. Links from mock mentions point here — story
+// content is fabricated, so we don't pretend to have a real article URL.
+const OUTLET_HOMEPAGE: Record<string, string> = {
+  "Undercurrent News": "https://www.undercurrentnews.com/",
+  "SalmonBusiness": "https://www.salmonbusiness.com/",
+  "IntraFish": "https://www.intrafish.com/",
+  "Reuters": "https://www.reuters.com/",
+  "Bloomberg": "https://www.bloomberg.com/",
+  "Fish Farming Expert": "https://www.fishfarmingexpert.com/",
+  "Hatchery International": "https://www.hatcheryinternational.com/",
+  "Aftenposten": "https://www.aftenposten.no/",
+  "Børsen": "https://borsen.dk/",
+  "El Mercurio": "https://www.elmercurio.com/",
+  "The Fish Site": "https://thefishsite.com/",
+  "SeafoodSource": "https://www.seafoodsource.com/",
+};
+
 let _id = 0;
 const m = (
   story_id: number,
@@ -189,7 +206,7 @@ const m = (
 ): Mention => ({
   id: ++_id,
   story_id,
-  url: `https://${source_name.toLowerCase().replace(/\s+/g, "")}.example/article-${++_id}`,
+  url: OUTLET_HOMEPAGE[source_name] || "#",
   title: partial.title || "untitled",
   source_name,
   language,
