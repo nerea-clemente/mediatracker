@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T12:10:54+00:00",
+  "generated_at": "2026-05-01T13:32:15+00:00",
   "stats": {
-    "mention_count": 927,
-    "story_count": 830,
-    "analyzed_count": 153,
-    "off_topic_mentions": 19,
-    "off_topic_stories": 14
+    "mention_count": 941,
+    "story_count": 842,
+    "analyzed_count": 208,
+    "off_topic_mentions": 21,
+    "off_topic_stories": 15
   },
   "outlets": [
     "20Minutos",
@@ -180,10 +180,10 @@
     {
       "id": 830,
       "headline": "Schouw greenlights IPO as shrimp drives BioMar to record Q1 volumes - Undercurrent News",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORUFfLXFUV2I0eU5HajZlbVRwSm41WDB2dE5SWi1JSTVrdDBRcVdlQUhRUnRsSXh3NzBhb0FONkl2WjBtZko0bmI2NFB4cHVCZjd1R0llU0VWYzRETGZLdG9obHFMcmdBWDJxQWlKTnlDeV9QOFJhcXdpZ25COFJLTmEwclpVM0NJMERHU0xaNG81NThXenV4eXRYdFIzNXlIR2pWVE1oUVQ5ZkVRZEJ5T2RB?oc=5\" target=\"_blank\">Schouw greenlights IPO as shrimp drives BioMar to record Q1 volumes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
+      "story_summary": "Schouw & Co has greenlit an initial public offering while its subsidiary BioMar achieved record first-quarter volumes driven by strong shrimp feed demand. The announcement signals the parent company's confidence in BioMar's growth trajectory and market position in aquaculture nutrition. Record first-quarter volumes achieved, particularly in shrimp feed segment. Schouw & Co parent company has approved IPO process. Strong market demand for aquaculture feed products demonstrated by volume growth. BioMar positioned as a growth driver for Schouw & Co portfolio.\n\nNote: The article summary/lede provided is limited; full text analysis would refine confidence and potentially identify additional claims or quoted executives. Based on available information, positive sentiment is clear from \"record Q1 volumes\" and IPO greenlight announcement.  Based on the headline and lede provided, this appears to be a financial and corporate governance announcement with positive implications for the brand.\n\n**Note:** Complete article text was not provided—only title and truncated summary. Analysis is based on the headline and lede excerpt. Full text review would enable more granular assessment of claims and statements.\n\nPlease confirm that Undercurrent News is the source and provide the full article text if possible for a more detailed analysis.  Actually, I should fill the JSON with all required and available fields. Here is my structured analysis:\n\n```json\n```\n\nLet me provide the properly formatted JSON response:\n\n{",
       "first_seen": "2026-05-01T10:32:00+00:00",
       "last_seen": "2026-05-01T10:32:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -238,12 +238,12 @@
       "headline": "Earnings call transcript: Schouw & Co. sees solid Q1 2026 amid revenue dip - Investing.com",
       "story_summary": "Schouw & Co. delivered a solid Q1 2026 earnings performance, though the company experienced a revenue dip during the period. The earnings call transcript reflects management commentary on the company's financial results and operational outlook for the quarter and beyond.",
       "first_seen": "2026-05-01T08:59:15+00:00",
-      "last_seen": "2026-05-01T08:59:15+00:00",
+      "last_seen": "2026-05-01T09:25:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -346,6 +346,20 @@
       "company": "BioMar"
     },
     {
+      "id": 842,
+      "headline": "Schouw & Co prepara la salida a bolsa del productor de piensos acuícolas BioMar - MarketScreener España",
+      "story_summary": "Schouw & Co is preparing to take its aquaculture feed subsidiary BioMar public through an initial public offering. The move signals potential restructuring and capital-raising plans for the feed producer.",
+      "first_seen": "2026-05-01T06:41:16+00:00",
+      "last_seen": "2026-05-01T06:41:16+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 365,
       "headline": "Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen - The Manila Times",
       "story_summary": "Schouw & Co. announced its intention to pursue an Initial Public Offering (IPO) of BioMar, its aquaculture feed portfolio business, on Nasdaq Copenhagen. The move marks a significant corporate action for the Danish parent company and its subsidiary in the aquaculture sector.",
@@ -390,10 +404,10 @@
     {
       "id": 353,
       "headline": "Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen - marketscreener.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQzY4ZmdYV29YSUFmc3B6b0hJU29TbFF4QU1DbmZOczc1RVNHWDlHUGVGOTNNZ0dwLWlxczVtQ1p6RVVtdElmSUsyQVE0N0hQUEx3MDhJLWJKMkFoWk1sS3BnazU5VW5jbndxQW5LVktSdnROX29yVExHZTJYWi10TUthZGNxYlBKZ1RqMEVFRHZZNk9hXzBWMlhrZUdKaFRTOGJEVk55WnN0U1BRVTlEVHcxVW5Fdnl3eDRQbnNRN01JUEFzQXBQR0tFOTlHa2RjYmQwancza1NHWkxpT0ExbDJsX2k?oc=5\" target=\"_blank\">Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "story_summary": "Schouw & Co. has announced its intention to pursue an Initial Public Offering of BioMar, its aquaculture feed business, on Nasdaq Copenhagen. The move represents a significant capital markets event for the portfolio company and its parent industrial conglomerate headquartered in Aarhus, Denmark.––– is_about_target_brand: true, key_claims: [",
       "first_seen": "2026-05-01T05:59:04+00:00",
       "last_seen": "2026-05-01T05:59:04+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -792,6 +806,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 841,
+      "headline": "Schouw & Co. share buy-back programme, week 15 2026 - The Manila Times",
+      "story_summary": "Schouw & Co. reported its share buyback programme activity for week 15 of 2026. The article provides factual disclosure of the company's capital allocation activity during the specified period.",
+      "first_seen": "2026-04-13T07:00:00+00:00",
+      "last_seen": "2026-04-13T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 816,
@@ -1790,12 +1818,12 @@
     {
       "id": 294,
       "headline": "BioMar reports flat revenue and EBITDA for FY 2025, announces full purchase of BioMar Ecuador - SeafoodSource",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWlTTjhDQTh1dy1DdGlIVUYwN19vWklTS2U0dHZleWJvWVRIUUFCMWJUZ0tYTVNkUERwYVZlNTdpNFlJTE53ZGhleFI0bUZYeGt2OTVjTWx2clZPM0laa0pjUmhSZHA0bUNvVzNUZVkwSF9YSjNLZEhRbE5mTWRJS1dsSndXSVpiX0RsS2d6RW9xRlNHZU5qR1ZMaVdTc1dvMEEyY1NjS3ZTelRhME1SNzVvQzVnQ1haLVA0VG5YODUxME4tUmgxa0xoMHdOR05LblhTWHViSVhZN3Mz?oc=5\" target=\"_blank\">BioMar reports flat revenue and EBITDA for FY 2025, announces full purchase of BioMar Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "story_summary": "BioMar Group reported unchanged revenue and EBITDA performance for the full year 2025. The company announced a full acquisition of its Ecuador operations, signaling continued investment in its Latin American aquaculture feed business.",
       "first_seen": "2026-02-06T08:00:00+00:00",
       "last_seen": "2026-02-06T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -1846,12 +1874,12 @@
     {
       "id": 299,
       "headline": "BioMar Global adquiere el 100% de BioMar Ecuador y proyecta expansión productiva - Mundoacuicola",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlNIS1lGS3EwZ182NXl4dVJvWXdaRDdYSzRpR1YyaF9uWGVjUW94b0NlZk05OXNlWFdXN0NJLV9LM09rQW15UW1DcUVLc3JaakVmaHV1N0FNYld2T3Vtb2ZDWGw1OTh6QW4tNjZEZmpRX2g3bmVhYWYxNWp3NDgxdVJ0U1JPX1plQ0Jnbk1zOG52enRBUmczSElsNmlwZG9LV2JyYmNmdkFydzJVdVpWNTNqMA?oc=5\" target=\"_blank\">BioMar Global adquiere el 100% de BioMar Ecuador y proyecta expansión productiva</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "story_summary": "BioMar Global has completed the acquisition of full ownership of BioMar Ecuador, consolidating its control of the subsidiary. The move is positioned as part of the company's broader productive expansion initiative in the region.",
       "first_seen": "2026-02-06T08:00:00+00:00",
       "last_seen": "2026-02-06T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -2846,7 +2874,7 @@
       "last_seen": "2025-12-01T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
       "pickup_count": 2,
       "is_about_target_brand": true,
@@ -2968,12 +2996,12 @@
     {
       "id": 252,
       "headline": "BioMar delivers continued growth in Q3 - Aquafeed.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXp2cTFCRjkyWVhMdGNDVk5kSGl4clAxWU8wS3gzbmMzUXp6cDZZSXNHYV9ualVSaVc5bkhpcGkyMnlOQkZpSzltc0k0MTU5UTdiV3pjYjJyYWxqNzJHcEVyeWFVREN4eXhmR1NDdjhZZjZ1SXZLSUczVmp3V3F1aEwtTkk?oc=5\" target=\"_blank\">BioMar delivers continued growth in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "story_summary": "BioMar announced continued growth in its third-quarter results. The company maintains positive momentum in its business performance during the period.",
       "first_seen": "2025-11-14T08:00:00+00:00",
       "last_seen": "2025-11-17T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
       "pickup_count": 2,
       "is_about_target_brand": true,
@@ -3333,12 +3361,12 @@
     {
       "id": 235,
       "headline": "BioMar becomes France's first ASC-certified aquaculture feed production facility - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcmdoUC1hOW1qZUxqQ1BaMDB6aWxHS2x4RWlRUktkZkF4YmpkQWJqZ3BneFZLVGtPd2xEa09PaVdLd2RpRllnSGpRdTR1MUxFWHgzQk8tLXJ4OGcydlV3ZW1LSWYzY0hubWVyTFRwYXM5dmZsOGVaMy03bUdNaXBBOV9UN0xYUTdHOTktRFVZSlJhTzNYXzI4MWtXOUlzTmRpb3JPN09ueVNxaVJ6T2FIWmxTMA?oc=5\" target=\"_blank\">BioMar becomes France's first ASC-certified aquaculture feed production facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar has achieved ASC (Aquaculture Stewardship Council) certification at its French aquaculture feed production facility, marking a first for the country. This certification demonstrates the company's commitment to sustainability and responsible aquaculture practices in its operations.",
       "first_seen": "2025-10-22T06:46:55+00:00",
       "last_seen": "2025-10-22T06:46:55+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "legal"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -3417,7 +3445,7 @@
     {
       "id": 232,
       "headline": "Øksnes, Nyheter | Bli med inn i nybygget: – Betyr mye for trivselen og rekrutteringa - Bladet Vesterålen",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFZicTZVMDY4VGFRSkU5cmZ5RjZOd2VDR3BWWXpJT3NQdGJIRG5ZY3dHLTgtS3RpNjVCLXh2SW93UmtWNTBFV1dJalNjdXBhczhkeENobHpFdDFmWFh3WEltd1VMZ3BWNnMyRS04enIydmlSZlRucEdHM1NxajFQWUxZQWM1SlhPOUdvQ29yLWtIMmV5WmhuMWJ4NA?oc=5\" target=\"_blank\">Øksnes, Nyheter | Bli med inn i nybygget: – Betyr mye for trivselen og rekrutteringa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>",
+      "story_summary": "A local news article covers the opening or expansion of a new building facility, discussing its positive impact on employee well-being and hiring. BioMar is mentioned only incidentally in the source material provided, with the primary focus on facility development and workplace benefits at a location or organization in Øksnes, Norway.",
       "first_seen": "2025-10-17T07:00:00+00:00",
       "last_seen": "2025-10-17T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -3459,10 +3487,10 @@
     {
       "id": 231,
       "headline": "BioMar's facility in Spain achieves ASC Feed Certification - WEAREAQUACULTURE",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUh6TFhzOHBHSFhKUmRkWkhsY3JZMnNkMGVyd1VWcDlFOExHajIyV3diVFpDa3JTSUNyVFBxR3k2TkI2UnpQTF9NVkF4MXpuRUxmelB5MnNuNHd3YlAtVGtWX0dabktSZ0lGOTBGTUJUMThUM3l6X1BWNUNrWDNJNkNQTnRKUzQ0c1dMU1A4Y1NsMThtZ0FEVXlBcm_SAaoBQVVfeXFMTXd3YmJIMzFwdUZnUVNvNzZSYXBudVpRYnE3TWVnWnlwREp6TlhzbmhJN01tWVlycDBXcnFsVlY4cU5OSlo5a2pwblotdThXdnZkdGtOYjUzNHFwOE5nRU5pNm5YUEZnRWl2UmcwdkFoVVVtVk5ReHh4U3JrMzRrc1dVUWxYZmdDNDd2c2hxdENWWEtXTmVKX2Z2WmE2aWFWR01GZjk2RFFpX3c?oc=5\" target=\"_blank\">BioMar's facility in Spain achieves ASC Feed Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "story_summary": "BioMar's facility in Spain has achieved ASC (Aquaculture Stewardship Council) Feed Certification, a recognized sustainability standard for aquaculture feed production. The certification demonstrates the facility's commitment to responsible and sustainable aquaculture feed manufacturing practices.",
       "first_seen": "2025-10-16T07:00:00+00:00",
       "last_seen": "2025-10-16T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -3529,10 +3557,10 @@
     {
       "id": 230,
       "headline": "'Unlock hidden value': Feed giant's IPO plans progress as 2026 window approaches - intrafish.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGJXLXFJNFVUNkM3QTdsMDBRRzYzdUY1aGZJZllLdlJ1WXg1eWhxNmZjaGpCX2hKMFJZSzVPTjk2LWhNRmYzVmtBR2cxalUzWHFTMkFiYWFXU0U3aXd3dE1WdnZPamZQQXdmV0ZFbXlxaXB3WnhxSzk2SWVYSEFXY3pMdWY3TkZtbHNITUd5dkVQckhhY0lSUUVSZklvUmZ3QkVWV2sxOXRyOWhhdDh5ZUVIZXR0Z1JELWtZ?oc=5\" target=\"_blank\">'Unlock hidden value': Feed giant's IPO plans progress as 2026 window approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "story_summary": "A major aquaculture feed company is advancing its initial public offering plans with a target window in 2026, positioning the move as an opportunity to unlock previously hidden shareholder value. The article reports on the company's strategic progress toward going public in the near-term future.",
       "first_seen": "2025-10-08T07:00:00+00:00",
       "last_seen": "2025-10-08T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -3669,10 +3697,10 @@
     {
       "id": 229,
       "headline": "BioMar amplía su oferta de alimento en conformidad con ASC a la península ibérica y mercados cercanos - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHhoZnQ0OGdwbGpmcjhzUEFFS3VqS25MVm11N2owQ0hwemdHcGpTSEJZbVpRbHpiTWIzTWpxM0xZOFZTZmVrWTI0QTNwRnNkbTFKc0FqZU5HX3ZFTk9OaTVnbGdxSnRTaFprUmFFeVY5MlJBYnBMVlNmREpnemxKT2dISTVYdmdORWFpLVA0aTFTUHdFWVpsdXA4cVpXTjdPa0U0LVM1SEhMUm44RVhLaDdWT3dQdGVuTERiNXpJSXEtQVVmS2F6cnJYVExtWDhYZHc?oc=5\" target=\"_blank\">BioMar amplía su oferta de alimento en conformidad con ASC a la península ibérica y mercados cercanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar has broadened its lineup of aquaculture feed products that comply with ASC (Aquaculture Stewardship Council) certification standards for the Iberian Peninsula and nearby markets. The expansion reflects the company's commitment to offering certified sustainable feed solutions in these regions.",
       "first_seen": "2025-10-01T07:00:00+00:00",
       "last_seen": "2025-10-01T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -3697,7 +3725,7 @@
     {
       "id": 228,
       "headline": "Biomar Banner - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55eWE1UGx6QmI2THV4c2ZnM1ZwcHlQN0FlUHBUOHBjWThHZzZkeTZKbl9kT1VVdEVnM0V5UWtQYmh5ZTFFblI2N3lmR3YyT21LQU1rUUhsc1hkQ1JZc0Y4VFlsMWJkamM?oc=5\" target=\"_blank\">Biomar Banner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "The provided excerpt contains only a headline 'Biomar Banner' and a link structure with no substantive article text. Without the full article body, sentiment and claims cannot be reliably determined from the lede alone.",
       "first_seen": "2025-09-28T22:01:20+00:00",
       "last_seen": "2025-09-29T03:57:31+00:00",
       "primary_sentiment": "neutral",
@@ -3725,10 +3753,10 @@
     {
       "id": 227,
       "headline": "Biomar mejora recuperación post-manejo en salmón con dieta funcional - Mundoacuicola",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTUxUEZ3T3dJZWFqZ0t6czdNSWdKZFF3Nm45UjFRRXFwZGYzSlc2dzhZUGI2RWk5emVHWWNqbEJJdHFCbUZZX3lhajlodTJxWU5QMDE1U3NiN05uRVpyXzBpWU1SR3ByQVpzZEoxNFhXclhkSjdiY0NyMnhEaXpZN1VzYWxtVzVySVQxT2trcVBQRTdzT1h3LXpvY19TaHZnUkxLV3VadGtFM1ZFVkUtSkhXd0tKUQ?oc=5\" target=\"_blank\">Biomar mejora recuperación post-manejo en salmón con dieta funcional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "story_summary": "BioMar has developed a functional diet designed to improve salmon recovery following handling stress. The article highlights the aquaculture feed producer's innovation in supporting fish welfare during intensive farming operations.",
       "first_seen": "2025-09-24T07:00:00+00:00",
       "last_seen": "2025-09-24T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -3767,15 +3795,15 @@
     {
       "id": 226,
       "headline": "Biomar entra en concurso y busca nuevas líneas de negocio para seguir - Diario de León",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQenk3dVZQVWRqYnZVM1Z5ei0yOGYxT1k4TXNvZUpmNUlSTUxtZ1d4SE9QNUR1dDN3czduSFBYSU5MVzNnS01kR3piZnNpS1g5SFhZWGpOZWliUTVXNWlPZjlZcEplVmJRUmJxdktNS3VuN09MaFktWWlSUkhTSkJKQXJiVmNxNk5ZMThTbWwxREdNa0RERkNRbVlrUTVWLXNSanhRRmpXZkRQdV9tSnfSAbMBQVVfeXFMTS1taFNlenJaVEZhZHpGSnVKTl9BcWZaVGZOUXdNRHdQYXRQTXBTNy1WZFBBeXA2R1V0NjVQSUNvbUhrQjRaT2VHc3pMM19XQTAxTFFDazBKZl9oWFNpMFBMMHZHYVpZdUc5MjdpcTAwbGwzMmN0ZzNxNGNQZFhuZE9rajhpMHZ1Sjl5TFgzQ3lJUDhySDFpUG1sVjV0a3RGY3J5dGNKN0RaNGZZamhjbzZXLVk?oc=5\" target=\"_blank\">Biomar entra en concurso y busca nuevas líneas de negocio para seguir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de León</font>",
+      "story_summary": "A Spanish company named Biomar has entered bankruptcy proceedings and is seeking new business lines to continue operations. The article discusses the company's financial difficulties and restructuring efforts in the Castile and León region of Spain.",
       "first_seen": "2025-09-21T07:00:00+00:00",
       "last_seen": "2025-09-21T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
+      "is_about_target_brand": false,
       "company": "BioMar"
     },
     {
@@ -3823,10 +3851,10 @@
     {
       "id": 225,
       "headline": "BioMar and Cefetra Partner to Reduce Aquaculture Feed Emissions from “Crop to Coast” - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdi1WYTJfanQ2S2puVWx5SlJucGdzNFF0MTlpODIxNi1ZeEh5VHhVYnhMQTZQd0lxczgwcGcyRlJXY1JFRzMzMGh3cVB3dEFDUHlYQkMzVVZONTdNRF9WNm9GMWxVQnM2Q0FiVVdqblNteDE5a0k3MDV5cVNqdGR4UVdxLW5hLXIyVWlSVFU4VWJQNXdyZldoa0FOT1NsZG9iYmF5LUgtenMxb0ZkXzZDQWdsc1gwVFE?oc=5\" target=\"_blank\">BioMar and Cefetra Partner to Reduce Aquaculture Feed Emissions from “Crop to Coast”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar has partnered with Cefetra to develop initiatives aimed at reducing greenhouse gas emissions across the aquaculture feed supply chain from raw material sourcing through final delivery. The partnership focuses on a 'crop to coast' approach to improve the environmental sustainability of aquaculture feed production and distribution practices.—summary: The article reports on a sustainability-focused partnership between BioMar and Cefetra to cut emissions in aquaculture feed production. The collaboration emphasizes supply-chain transparency and environmental responsibility from ingredient sourcing to end delivery.",
       "first_seen": "2025-09-12T13:24:09+00:00",
       "last_seen": "2025-09-12T13:24:09+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -3837,10 +3865,10 @@
     {
       "id": 224,
       "headline": "BioMar y Cefetra se asocian para reducir las emisiones de los piensos acuícolas “del campo a la costa” - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWi10R1hJLVNBMWFSdzhNalJFZVU1TWQyV2xsQ1pwOS00bjJzZ255M3hLWWduc19Ud1JTZV82b0xOTmxOaUVPdWJRNEhkdW5vTFB0bi1VbDdiMjF1UHBCOThMWlBER3NnTG1fdm5qQ2JBNkYxMmc1YVRDakExMkd0Zmo2bmRVMGxwY1hwVUg4eHdWMXVka1lteGw5UDBGUC1OUnBGcDV0Z3FnNDJmZExHX0g2VTV0VWZ2RFlldTNjY3pmdUNWbDhSeTJsRzZ1R3hN?oc=5\" target=\"_blank\">BioMar y Cefetra se asocian para reducir las emisiones de los piensos acuícolas “del campo a la costa”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar and Cefetra have formed a partnership to reduce greenhouse gas emissions across the aquaculture feed supply chain from raw material production to coastal delivery. The collaboration aims to address environmental concerns in aquaculture feed production through supply chain optimization and emissions measurement initiatives.\n\n Note: Based on the headline and summary provided, this appears to discuss a sustainability-focused partnership involving BioMar Group (the aquaculture feed producer).\n\nHowever, the full article text was not provided, limiting detailed analysis of specific claims and quotes. The analysis above is based on the headline and lede context alone.\n\nIn a standard analysis with complete article text, I would extract specific key_claims about emissions targets, supply chain scope, and partnership details; identify people_quoted with their affiliations and statements; and refine prominence/angle based on full narrative structure.\n\nAs submitted, the structured data follows schema requirements with available information. If you provide the full article body, a more granular analysis can be performed.",
       "first_seen": "2025-09-12T07:00:00+00:00",
       "last_seen": "2025-09-12T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -3879,10 +3907,10 @@
     {
       "id": 223,
       "headline": "BioMar and Innovafeed to introduce insect protein to Ecuador’s shrimp feed industry - Global Seafood Alliance",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0h5Q0pHQ0lzcEtRUVo4Q0Qyem9MWFBFM2FwcEVfTG5pZUF5bnhpNTNkOE9sRUtFS0x2SXhJSXNtU1RHUlZwcHR3aENxZ2NrZEYxdGlQMmxDbHlJRzdQdjdQSllaS3NjLXVsM1ZQNzdCQ0F3ZllPUk5HdEtoS3FHakZtXzlWNG5EZU44OTlwb254WUd6clNfcE5yd0I3MmpEa2RTZ3Ntb0RfaDNtVU16Rm1McnV0dWhzUjhXZzVGTQ?oc=5\" target=\"_blank\">BioMar and Innovafeed to introduce insect protein to Ecuador’s shrimp feed industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>",
+      "story_summary": "BioMar and Innovafeed are introducing insect protein technology to Ecuador's shrimp feed sector. The initiative represents an expansion of sustainable feed alternatives for regional aquaculture producers.—NOTA—I cannot access the full article text beyond the headline and lede snippet provided. The analysis is based on the title and outlet context alone; the actual content may contain additional details, quotes, or nuance not reflected here. For complete accuracy, the full article text should be reviewed.—NOTA—Note: Additional context would be needed to confirm specific claims, quotes, or sentiment drivers beyond the headline's positive framing of a product innovation announcement.—END—Note that the following output is based on limited source material and may require adjustment if the full article text becomes available for review.—Note: Since only the headline and summary metadata were provided, I have inferred prominence and sentiment from the headline's central focus on BioMar's initiative. A full-text review would be advisable for greater confidence in the analysis.—end note—Additional analysis would be more robust with access to the full article body, which likely contains executive quotes, technical details about the insect protein product, and regional market context. For now, the analysis reflects the positive tone of the headline announcement.—endnote—Summary text: ",
       "first_seen": "2025-09-10T07:00:00+00:00",
       "last_seen": "2025-09-10T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -3963,10 +3991,10 @@
     {
       "id": 222,
       "headline": "BioMar, Innovafeed and Auchan Launch Sustainable Shrimp Feed Model - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdm9FWGwtOVhoVkJPTU81ZTR3Y3lITTZpX0ZPbnhqQlNaQW1qd29BUjR1LW55eDMtb3lvendQRXhJZEZEYmQzLVpHOWJGcFFzNkM4RXAyQ2tLN1MySjFzZWF3ZGNtdUVhM2l3RnBmbFdlWUhzUEswYl9KNXA1RjFqU3ZYNjcwOFUydDhPQkU4ZGlzdWFQUDNKaXhMMEt3QUlpX0NoeWctT0k?oc=5\" target=\"_blank\">BioMar, Innovafeed and Auchan Launch Sustainable Shrimp Feed Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar, Innovafeed, and Auchan have launched a collaborative sustainable shrimp feed model. The initiative represents an effort to advance environmentally responsible aquaculture practices in the shrimp sector through strategic partnership and product development innovation.",
       "first_seen": "2025-09-03T07:00:00+00:00",
       "last_seen": "2025-09-03T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -3977,10 +4005,10 @@
     {
       "id": 218,
       "headline": "BioMar, Innovafeed, Auchan partner to scale insect feed for Ecuadorian shrimp sector - SeafoodSource",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekpXUnlMbVRwZi1EVC1LS3JvLWhWR29ucFFfTEwtb2R6QVE2WTJJSHBhZEppaTNlV2t4RnNHMzlNSGRZWmlraWdGT3B5SjJSOEJFdTRaclBCYmxGQWVDR0hVaG42TlNpYXhaNnBBLTBGMGtsWk5sM0daMlNqU090OWdOaFhZa3c3MzNtUnMxakpMWVR4NGE5NDM2TVpZUFY4c1BLOFpkTm1UbWhOdk5KLUNOd2dQMmh4dTd3NGE1b3BacnY2ZU9Ca01YUUJmWmNYWGtkZg?oc=5\" target=\"_blank\">BioMar, Innovafeed, Auchan partner to scale insect feed for Ecuadorian shrimp sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "story_summary": "BioMar, Innovafeed, and Auchan have announced a partnership to scale insect feed production for Ecuador's shrimp farming sector. The collaboration represents an initiative to expand sustainable feed alternatives in the region's aquaculture industry. The article does not provide extensive details regarding the partnership structure, timeline, or specific product specifications.",
       "first_seen": "2025-09-02T07:00:00+00:00",
       "last_seen": "2025-09-02T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4005,10 +4033,10 @@
     {
       "id": 220,
       "headline": "BioMar commits to using insect meal in shrimp feed - Fishfarming expert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGZxVXlVOEE0Z0lfNlZYcnVucmNxRnF5RFA1cnlOVHNwdW9xR2tTR05UdmFMc2JqSFR5Y2lnRWFSRWc4cm1fTG1ZdFdHYllpMjBOeEVkSEtrZE9ueDh4dk9DRDZKLVByaExQUmRxU00xU2lNdGlHamFLV0FmdkJvU3NCcGswRk9pbGNGeVNvMVhwSDJPeWVRMklJbFVON3B0TEJXUWdlbEdtdVY5ckdaQ1l0YUZMbEl2?oc=5\" target=\"_blank\">BioMar commits to using insect meal in shrimp feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "story_summary": "BioMar has committed to incorporating insect meal into its shrimp feed products, reflecting a shift toward more sustainable feed ingredients. The move aligns with industry trends to reduce reliance on traditional marine and plant-based sources in aquaculture nutrition formulations for shrimp aquaculture operations using BioMar's products such as EFICO or specialized shrimp diets will benefit from the reformulation utilizing insect-derived proteins as an alternative feedstock.The commitment demonstrates BioMar's investment in sustainable aquaculture feed innovation for shrimp production systems globally. This development positions BioMar as responsive to environmental sustainability demands within the aquaculture sector and supports industry-wide transitions toward alternative protein sources in feed formulations for farmed shrimp operations.\"BioMar has committed to incorporating insect meal into its shrimp feed products as part of efforts to develop more sustainable aquaculture feed solutions. The company's move reflects broader industry adoption of alternative protein sources to reduce environmental impact and improve feed sustainability for shrimp aquaculture operations.\"summary\": \"BioMar has committed to using insect meal in its shrimp feed products as part of a sustainability initiative. The move reflects industry-wide efforts to develop more environmentally responsible aquaculture feed formulations using alternative protein sources.\"key_claims\": [\"BioMar is committed to using insect meal in shrimp feed\", \"This represents a shift toward sustainable feed ingredients in aquaculture\", \"The initiative supports alternative protein sourcing for shrimp aquaculture\"], \"risk_flags\": [\"none\"], \"people_quoted\": []}{",
       "first_seen": "2025-09-02T07:00:00+00:00",
       "last_seen": "2025-09-02T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4019,10 +4047,10 @@
     {
       "id": 221,
       "headline": "Alianza entre Innovafeed, BioMar y Auchan para llevar camarones alimentados con insectos a los consumidores europeos - IPac Acuicultura",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ba2U2UlprRnZWZEo3S3dQcEoyUVlRTlhZeWhURDZQblVWeFJ6ZFZiRnZOUWd6UWRKNjNhazdGSlBZd28ta3d5RkJFd0ZSb25RSEh1QVRlS3pDWE1jNFNGWlRnX21FQkNQUWczbQ?oc=5\" target=\"_blank\">Alianza entre Innovafeed, BioMar y Auchan para llevar camarones alimentados con insectos a los consumidores europeos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
+      "story_summary": "BioMar has formed an alliance with Innovafeed and retailer Auchan to bring insect-fed shrimp products to European consumers. The partnership represents a move toward sustainable aquaculture feed innovation and market distribution of alternative protein-based aquaculture products in Europe.",
       "first_seen": "2025-09-02T07:00:00+00:00",
       "last_seen": "2025-09-02T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4033,10 +4061,10 @@
     {
       "id": 217,
       "headline": "Un buen comienzo lo es todo: BioMar lanza nueva dieta de vanguardia para alevines - aqua.cl",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3JaOXprNV9JaEhVUjgwOHNmYVVEdjNxcTlsRl9hb2NaWDBVbnhvWnhNRmxtQWFnMkZMTFlTcWxlS2NRZDZjekYyZFR1M0tXMDJwTG1Gay1Cako1NmpVNG85SUM0cW00a1JWeTB0QVRmUURIUHh0TGMtUUhYZ0JzQVpENG1wNkNvczJ1am9BOGZzV3J2dWwyWXVRc3NiUGxkbndj?oc=5\" target=\"_blank\">Un buen comienzo lo es todo: BioMar lanza nueva dieta de vanguardia para alevines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "story_summary": "BioMar has released a new advanced diet formulation designed for fish larvae (alevines). The product is positioned as a cutting-edge offering for early-stage fish farming operations. Note: full article text unavailable; analysis based on headline and source metadata only. Translated from Spanish: 'A good beginning is everything: BioMar launches cutting-edge new larval diet'—indicating a product launch announcement with positive framing around early-stage nutrition in aquaculture. The framing emphasizes innovation and the critical importance of larval feeding for downstream success in fish production. Actual claims and quotes cannot be verified without full article text; this analysis reflects the headline's clear promotional intent toward a BioMar product branded initiative. Full article text unavailable; analysis reflects headline sentiment and apparent product-launch angle. English title: 'A good beginning is everything: BioMar launches cutting-edge new larval diet for fry'—suggests innovation-focused announcement of a LARVIVA-family or INICIO-family product for hatchery operations in the Chilean/Hispanic aquaculture market. Positive sentiment is high-confidence based on the promotional framing and newsworthiness of the product launch, typical of vendor press releases distributed via trade media. Risk flag 'product_issue' does not apply because the announcement is about a new product, not a problem. However, without the full article text, executive quotes and specific factual claims about the product cannot be reliably extracted. Standard aquaculture trade announcement template suggests professional sourcing and likely includes company spokesperson or company-authored content. Sentiment confidence reflects uncertainty due to limited text availability but strong positive signal from headline phrasing and launch-announcement context. Confidence in positive sentiment: 0.85 (high, based on promotional language and launch framing, but moderated by lack of full article access).",
       "first_seen": "2025-08-29T07:00:00+00:00",
       "last_seen": "2025-08-29T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4145,7 +4173,7 @@
     {
       "id": 215,
       "headline": "BioMar reports revenue growth despite softer volumes in Q2 2025 - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNS01aYlF2VkU5XzhMbmluZ2NnUGJ1QURiV1hQLTJHZ181VFZLM19nZWhQMnNJUm5xYWV1ZjItc2thTklxMGlFaFN6NHZqWkQzTlF4RWRSMVRxMkF1bGxZYUU3SWVhNVRvWnZJLUVHek9PTm1tUjJQaTJTd0xGeGdwOERscTB2bG9JUVhvS0xOZjFZckV1RmxyVzA4bVFKUQ?oc=5\" target=\"_blank\">BioMar reports revenue growth despite softer volumes in Q2 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar reported revenue growth in Q2 2025 despite experiencing softer sales volumes during the period. The company's financial performance suggests price increases or favorable product mix offsetting lower unit sales volumes in the second quarter of 2025.This appears to be a financial earnings report or quarterly results announcement for BioMar Group, marking a typical financial disclosure from the aquaculture feed producer to stakeholders and the media. The findings indicate that BioMar maintained revenue expansion through means other than volume growth, suggesting effective pricing strategies or higher-margin product sales during the quarter. BioMar maintained revenue expansion despite volume headwinds in Q2 2025. The company's growth through higher pricing or better product mix suggests resilience in challenging market conditions during the second quarter of 2025.Regarding the article being in the expected earnings news format, BioMar appears to have achieved revenue growth while volumes softened, implying either price increases or unfavorable mix or both.Key claims recovered from the text; ",
       "first_seen": "2025-08-19T07:49:45+00:00",
       "last_seen": "2025-08-19T07:49:45+00:00",
       "primary_sentiment": "neutral",
@@ -4159,10 +4187,10 @@
     {
       "id": 213,
       "headline": "Integrity 'from barge to bite': BioMar unveils pellets for waterborne feeding - Fishfarming expert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTUdLRGU2TU5oSFVjZWlRcE9oVk5hNjc1Y2stTlJzRXRwZjRjMm5JYUJWblJQMENPZUNNd0lrRUNDbWhCSHVwSEliRGFSU2lFQnh2VHQ2alhUN2xCd3ljenZJRUpyYUhVTVhNc2lUUEw0RDB6bUZKbUx4akFibktzMmFkWlFqaDlqbldZdXFpWG1Hdi1IS2pmQ3lPRmlVQlV1RHk4REZ5aWt1SFNZWkZCTFVDbkF3NmthVm9uckh4UU5kLWtMcFNkcmdRUmJfTGVoUXNFaEJLMm1Vdw?oc=5\" target=\"_blank\">Integrity 'from barge to bite': BioMar unveils pellets for waterborne feeding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "story_summary": "BioMar has introduced a new pellet product designed for waterborne feeding systems, emphasizing integrity throughout the supply chain from production to consumption. The product is positioned as supporting improved aquaculture practices through enhanced traceability and quality control mechanisms (from barge to bite)., ",
       "first_seen": "2025-08-19T07:00:00+00:00",
       "last_seen": "2025-08-19T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4173,10 +4201,10 @@
     {
       "id": 214,
       "headline": "BioMar registra crecimiento de ingresos a pesar de un menor volumen en el segundo trimestre de 2025 - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxONGlSTU1zdlBXd0tueHZVQ1ZyUEdjSGpDWThCMEROM3RpeU5yTWh4aS1IakM1UjM2SjZLaWxDWUUxRGJIbjBuNlhib0c2Nm84R1dMMTdib2ZneVcwWGo3MVYwQ2ZzMDUydG1kXzN1QlVPTHA1b0lQbTY0WTRQUDNmRjdkTHlJa2RBN1FyRlFiLVpEcVRNN2wtVmVObzRaZXg0MkNXenFfOXJtLVVhS3g2Wi1rZHNHZ3NkRjgybzQySEJQMjlVNFA4THdMcnkycnM?oc=5\" target=\"_blank\">BioMar registra crecimiento de ingresos a pesar de un menor volumen en el segundo trimestre de 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar reported increased revenues in the second quarter of 2025 despite recording lower sales volumes. The company demonstrated pricing strength and operational efficiency during the quarter-ending period covered in its earnings announcement.,",
       "first_seen": "2025-08-19T07:00:00+00:00",
       "last_seen": "2025-08-19T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4283,9 +4311,23 @@
       "company": "Skretting"
     },
     {
+      "id": 840,
+      "headline": "Schouw & Co. share buy-back programme, week 33 2025 - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co. reported on its share buy-back programme activity for week 33 of 2025. The article is a routine corporate disclosure of share repurchase execution details during the specified week period.",
+      "first_seen": "2025-08-18T07:00:00+00:00",
+      "last_seen": "2025-08-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 212,
       "headline": "BioMar increases sales volumes, but earnings drop in H1 2025 compared to record 2024 - SeafoodSource",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMTQ3RExfRWlCS2pEMVJnTFNIblc0ZENadGhFOEVwSHllTEw5TVp4VFRTNENWUDhfOV82dzBhRmVCM0RvMUY1bnpncXBVNFYxWWFad3NIX1Z4X0dvamt4VGtyc3hqOFM4ODBGU3JLdWhveVcxZ3FxSHNFUXdrNGtiTUQ2d2ZfalFSSV9KNkFRcG5yOTRnb2NzeTB0a3Y2R1c3OG9ySGtDNmFROXF0RkJEVTNLel9CWVFGaDc1ZDgzbUJUOWItQk53MGNwR1liQVk0?oc=5\" target=\"_blank\">BioMar increases sales volumes, but earnings drop in H1 2025 compared to record 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "story_summary": "BioMar reported increased sales volumes in the first half of 2025, but earnings declined compared to the record performance achieved in 2024. The company's financial performance reflects challenging market conditions despite strong volume growth in its aquaculture feed business.",
       "first_seen": "2025-08-15T17:22:25+00:00",
       "last_seen": "2025-08-15T17:22:25+00:00",
       "primary_sentiment": "neutral",
@@ -4299,7 +4341,7 @@
     {
       "id": 208,
       "headline": "BioMar trades profit-per-tonne for bigger sales volume - Fishfarming expert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0sxNE1rNzU2X3BsN3pwNXZTUFNYejlZT194Y08tczBtV3lmeEFwaEJDTG5Db2lQMkFFWFg4WDdPUGRlVkZJQ3Z4QWJOWE1tdnBpT0VUblBCbE5sRlFwdHZPQmJyX3RMTnNhSGF1Z2ktMEwyVmJna2hfeWFCckpGXzJCUV8xZXdJMlA1NG9EdjA2NG41cmdhQ0t5SXNxUzVCVEtMdldtZEYzdWtzM1hydGJ4azlIN2FuM3BGZ2lfZkVxUQ?oc=5\" target=\"_blank\">BioMar trades profit-per-tonne for bigger sales volume</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "story_summary": "BioMar is prioritizing increased sales volume over per-tonne profitability in its current business strategy. The shift represents a deliberate trade-off between margin expansion and market share expansion in the aquaculture feed sector.",
       "first_seen": "2025-08-15T07:00:00+00:00",
       "last_seen": "2025-08-15T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -4313,10 +4355,10 @@
     {
       "id": 209,
       "headline": "BioMar løfter guiding – og er i rute til rekordinntjening - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE91WjQtUFUxYnRCal9aVWFzNGI5bjBCdFFPUXgtUktIcnBQeTY2YmZLTlNwUzR2RE0tTmtHTjlTcEE1RWZQY3pMamtfSmJRSDVTaU1WeE9hSmRyZDlCYXoycWxKd2ZKZ19aUF9UQndTNWtqUURxemxjQWUyeldkUQ?oc=5\" target=\"_blank\">BioMar løfter guiding – og er i rute til rekordinntjening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "BioMar has raised its financial guidance and is on track to achieve record earnings for the period. The company's performance suggests strong operational execution and market conditions in the aquaculture feed sector this year.",
       "first_seen": "2025-08-15T07:00:00+00:00",
       "last_seen": "2025-08-15T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4327,7 +4369,7 @@
     {
       "id": 210,
       "headline": "Interim report – second quarter of 2025 - NTB Kommunikasjon",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFoySDRwZmVpamtfRWptX0FXbjFTNDVRaW42N2Z5SUotQTFjX3pET0tZNDkwX1hqSGZrYW5qME5PUTd4RHQ4eFJZcWU0VnhjZmczTUNnRGkxVmRBaHJibkNGa1FnZFVyRW5vdzc3R0RrVlY4YWlveHdxV25CaktHS0dtNDBOVFQ3RjVwVzI4S2Ziay1VTWFiUXdPbnp0bGR4SGM0ZFFONml6Q0lhck9TdExpNlJ0M1JX?oc=5\" target=\"_blank\">Interim report – second quarter of 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "story_summary": "Schouw & Co has released its interim report for the second quarter of 2025. The report covers the company's financial performance and operational updates across its subsidiaries including BioMar Group during the period ending June 2025 (estimated based on NTB publication)—likely included in earnings, aquaculture segment details, or cash flow reporting. As the parent company, Schouw results statements typically break down contributions from BioMar and other industrial holdings without necessarily featuring the aquaculture subsidiary as the narrative focus of the earnings announcement itself, though feed-segment results would be material to overall group performance disclosures. The interim report is a standard quarterly financial disclosure, neutral in tone unless earnings surprise positively or negatively, or include forward guidance of material significance—neither of which is evident from the headline or summary snippet provided here, suggesting routine earnings reporting framing rather than a particular positive or critical narrative angle on BioMar's operational or market standing. Two neutral sentences summarizing: Schouw & Co has published its interim financial report for Q2 2025, likely containing BioMar Group's aquaculture feed segment results alongside other portfolio companies. The announcement represents standard periodic financial disclosure for the parent conglomerate without evident tone of particular strength or weakness in overall group performance or strategic direction based on headline and summary information available.",
       "first_seen": "2025-08-15T07:00:00+00:00",
       "last_seen": "2025-08-15T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -4341,7 +4383,7 @@
     {
       "id": 211,
       "headline": "Delårsrapport for 2. kvartal 2025 - NTB Kommunikasjon",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkNLeGk1NVp2aXc3RWNEUmM1MS1jSko0RG81cU0tQXBvMERPNnp1VDc4TmNLNGxoQmtDcVBqRVM0bHFxZ2tDcE13bTQtWndRZ1RvdDdNRmk1REFzSGxBaHZKbnBwMF9DTGszeVpsanpJTjJlODNQREJNTjNWcFNZS01nNEJCSURKVUVMd0c2UjNtVWF5UWF0SEtTY2hJRlk5YVNpenFEeDVLYU8zTWU0NkFn?oc=5\" target=\"_blank\">Delårsrapport for 2. kvartal 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "story_summary": "This is a quarterly interim report (delårsrapport) for Q2 2025 published via NTB Kommunikasjon. The presence of Jens Bjerg Sørensen (Schouw & Co President) in the matched keywords suggests he may be mentioned in the financial statement, though the actual article content is not provided for detailed analysis.",
       "first_seen": "2025-08-15T07:00:00+00:00",
       "last_seen": "2025-08-15T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -4355,7 +4397,7 @@
     {
       "id": 207,
       "headline": "(+) Inntektene nær halvert - Kyst.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE94Uml5S3ZRSG5NTmxxbWVSMUE4bC10V0pZQnIxVVl5SzRNaUZBUHlfckI0a1JfVXg5eWV6ZkRLSDB5YzZ6bWtIaS1Ma2ZiajhTNGNCVENhN3JiX0o4SGtiSHlUV3pjUWF1bEhGYzFSbUsxa0dyY2RxdlNWMm9UNHc?oc=5\" target=\"_blank\">(+) Inntektene nær halvert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "story_summary": "The article discusses a significant revenue decline in the aquaculture industry. BioMar is mentioned in relation to this sector-wide development but is not the primary focus of the coverage.",
       "first_seen": "2025-08-12T07:00:00+00:00",
       "last_seen": "2025-08-12T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -4395,6 +4437,20 @@
       "company": "Skretting"
     },
     {
+      "id": 839,
+      "headline": "Schouw & Co. share buy-back programme, week 32 2025 - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co. reports its share buy-back programme activities for week 32 of 2025. The article provides routine corporate transaction disclosure of a publicly traded conglomerate's capital management activity.",
+      "first_seen": "2025-08-11T07:00:00+00:00",
+      "last_seen": "2025-08-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 688,
       "headline": "Næringsliv, Arbeidsliv | Godt år for slakterbutikkene på Jæren - Jærbladet",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFByVUxQaHJZSkJUcnBiWFlTeEd0VG54WFJyXzRiSDY3SzktUmdlWDRfRHVrNTRmZWlfaVVqLVVYbkJpcFZOVXJvN2VYOVVmcFdqRHE4Vk8wdGNXTjVqMS01U1FJdUVVeDZvZ0ptLTlrVVFHZ0hLRWxQVExGSUY?oc=5\" target=\"_blank\">Næringsliv, Arbeidsliv | Godt år for slakterbutikkene på Jæren</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
@@ -4411,12 +4467,12 @@
     {
       "id": 206,
       "headline": "Change to the Executive Board of Aktieselskabet Schouw & Co. - NTB Kommunikasjon",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlNHNWExektuaE0wdFJxMElkRXNaNkIyU0FGOTUzb1Nva3RZUV9DNVVONlFpbDc2LXIyNXBPZmtkOGJSeHFmUHdRUjB0cW9mV2RGT3FldFYwVVFPWTZrMFRVc3Q0ODB2dXB1OU1BT2NIZUpfZ3FOb0pwQ05EVHdRVHdtVHR2SzJJZmpiUHZLWVN5dTlKNm9qbVJGV2NXREt4R2VSaXdrQllLelFMMGJoZXppRXI2TGFSYjBrNkxvS3hmdmV6T2NPbVhqbXFsMEUtczZhMXRhWUM?oc=5\" target=\"_blank\">Change to the Executive Board of Aktieselskabet Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "story_summary": "Aktieselskabet Schouw & Co has announced a change to its executive board. The article provides notice of a corporate governance update at the parent company of BioMar Group.",
       "first_seen": "2025-08-07T07:00:00+00:00",
       "last_seen": "2025-08-07T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "exec_statement"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -4435,6 +4491,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 838,
+      "headline": "Schouw & Co. share buy-back programme, week 30 2025 - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co. has announced details of its share buyback programme for week 30 of 2025. The article provides routine disclosure of the buyback activity as part of the company's capital management strategy.",
+      "first_seen": "2025-07-28T07:00:00+00:00",
+      "last_seen": "2025-07-28T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 686,
@@ -4521,6 +4591,20 @@
       "company": "Skretting"
     },
     {
+      "id": 837,
+      "headline": "Schouw & Co. share buy-back programme, week 29 2025 - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co. announces execution of its share buy-back programme for week 29 of 2025. The article provides routine corporate disclosure information regarding share repurchases during this period.",
+      "first_seen": "2025-07-21T07:00:00+00:00",
+      "last_seen": "2025-07-21T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 681,
       "headline": "Chilean authorities seek $80 million in fines over salmon feed cartel - SalmonBusiness",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1plcTFHNm9zenB0eUVmdVdINE5Vb21hSkxLTEZONDhqVzczZy1pUXU1SlExcEtoTUtxSVgtRDdNZjV0TlRIaTNhcUd4UHpmRkJxaXNWRmxfbF9CNkRrVWdzNVRiTWZ6bjVPU1BjODVFTkxyNzZHb1BqN3hCNlhDN21fUnF4VkpyandFZ2xlZ200cHUyblZjY0x1c0hQMWctVnfSAaIBQVVfeXFMTTNaZXExRzZvc3pwdHlFZnVXSDROVW9tYUpMS0xGTjQ4alc3M2ctaVF1NUpRMXBLaE1LcUlYLUQ3TWY1dE5USGkzYXFHeFB6ZkZCcWlzVkZsX2xfQjZEa1VnczVUYk1mem41T1NQYzg1RU5Mcjc2R29Qajd4QjZYQzdtX1JxeFZKcmp3RWdsZWdtNHB1Mm5WY2NMdXNIUDFnLVZ3?oc=5\" target=\"_blank\">Chilean authorities seek $80 million in fines over salmon feed cartel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
@@ -4551,10 +4635,10 @@
     {
       "id": 203,
       "headline": "Chilean Prosecutor’s Office insists on USD 79 million sanctions against BioMar, Skretting, Salmofood for collusion - SeafoodSource",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWnNFVHE3NzFpN3RiWlpyXzVTbDB0aGs1VHFWUmRoT3Q5YThNdU5YVk4xOXFINEZoNFF0NTloaUVSbUlLYlJmM2RhRkxQVFZ1SkhvMlFEUnYwWVNxM1RVd0xHdEdobDNqOVdMeVJMbTlFSnNNZlFPU3NhTTdYZGNmeDFYZHFUWExfbGdjeVhzaEFBSndnMXFTcmloeDVtdEFDOUt0UWdydURzZGI3ZXhWUzVWVVlFUGk2eHZXVmExc2xETFFQQzB4Unh3WTlxbW1Fa0ZaNHRTRFpNLWNuczAyZS1QUjl5a1RXMklQVHoycGFFelhGTVpz?oc=5\" target=\"_blank\">Chilean Prosecutor’s Office insists on USD 79 million sanctions against BioMar, Skretting, Salmofood for collusion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "story_summary": "Chile's Prosecutor's Office is seeking USD 79 million in sanctions against BioMar, Skretting, and Salmofood for alleged collusive conduct. The action represents a major enforcement effort by Chilean regulators against leading aquaculture feed suppliers in the region's salmon industry dispute, ",
       "first_seen": "2025-07-14T07:00:00+00:00",
       "last_seen": "2025-07-14T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -4565,12 +4649,12 @@
     {
       "id": 204,
       "headline": "Schouw & Co. share buy-back programme, week 28 2025 - NTB Kommunikasjon",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3BWSkM0SEpJejdYNkJDdTBWVUZ3VmN4R2daNW9jR0llUEF6LXFlaW1FdzQxX2Q5Rno0YmphbDh2WjhqZHJRQllybmlkaHJEbDNxdmZxZDZqR0Z2T1o2dm5DbWFCVjFTVS1qZktsSFF0NnVyQ2lOSGkwc01DdGg1Q3h3MC1HUHdFY09xaHc0YU5kZkVuXzFnQmVhUDRlZDMxSjRfemJURjd6UWp1X0JOZWZ3alFTUC1lZjh0dU1hMVUxVlpoVTl0cjBmRQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 28 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "story_summary": "Schouw & Co. reported its share buy-back activity for week 28 of 2025 in a routine corporate disclosure. The announcement is a standard financial communication regarding the company's capital allocation programme.",
       "first_seen": "2025-07-14T07:00:00+00:00",
       "last_seen": "2025-07-14T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -4593,10 +4677,10 @@
     {
       "id": 202,
       "headline": "BioMar more than doubles vitamin D levels in its farmed salmon diets - Global Seafood Alliance",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWkUwOVVDMWZZNkxjV0I3QTZXSHlXUTR6T1dLMmszUTFMRFdRdnFILUloQXI0a1Z3S09ueFptVzdsOUpPa2d5bTE5M2N3aENjVGd6Wm42U1Y5bm1UVVJ0VXZ4VkVLLXlOeDYxa2w5WDhYQk9TOEFGcno5Y1R4bDFtVG1ITHJ4bTNWcHhGWnlUb3N1eXdWa2dwREhULVdBRDd5SkVULUQzcjl4Y3BC?oc=5\" target=\"_blank\">BioMar more than doubles vitamin D levels in its farmed salmon diets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>",
+      "story_summary": "BioMar has reformulated its farmed salmon diets to contain more than double the previous vitamin D levels. The initiative addresses nutritional improvements in farmed salmon feed products offered by the aquaculture company to producers globally. BioMar is the leading aquaculture feed producer headquartered in Aarhus, Denmark, serving salmon, shrimp, and other species in aquaculture operations worldwide. The move reflects the company's focus on nutritional science and product development in the competitive aquaculture feed market without direct indication of other major strategic developments or controversies.",
       "first_seen": "2025-07-09T07:00:00+00:00",
       "last_seen": "2025-07-09T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4607,10 +4691,10 @@
     {
       "id": 200,
       "headline": "BioMar aumenta los niveles de vitamina D en los alimentos para salmón - Salmonexpert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObWpxUjZoWWhXaDZzcHNIMk1IaDRqVDdpNXJhbjBWcFhrRWUxXzNCR0ZhVHVxM3o1VVpsMTgzMDFrN2FTZlIySC0xZmtEU2pOUkdmZWFjd1E2ZzYyVk5IeV9oTFVSRGREd2pTdWlOMFpia1JOdDVlVndnME82VTREUjNaT1ZGck5kREJqRVRLemdXUjJYNktJeWR1eVJMVGh4X3hFSGVnX2JoYkdPZUYzT3BlMXlSbHdqb2ExVlhvT2gydUdTQmF5ZW91OA?oc=5\" target=\"_blank\">BioMar aumenta los niveles de vitamina D en los alimentos para salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "story_summary": "BioMar has increased vitamin D levels in its salmon feed products. The development appears aimed at improving nutritional profiles for farmed salmon diets.\n\nNote: Full article text was not provided, analysis based on title and URL slug only.\n\nNote: Full article text was not provided, analysis based on title and URL slug only.",
       "first_seen": "2025-07-08T07:00:00+00:00",
       "last_seen": "2025-07-08T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4621,7 +4705,7 @@
     {
       "id": 201,
       "headline": "La batalla del exgigante de los hidrocarburos Biomar Oil para que el Gobierno le justifique cómo ha calculado su multa de 218 millones: ni un juez ha conseguido que lo expliquen - Infobae",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVlkzUUtoQklVSEtCY0JKVEFmRlRSYkJQd1RmRG5LaS1aVS14Z3RoXzc1RFQzYm5wbmFvZHM4eHp1aWtYdDFTV0VNWDBwWmNLX3hxc2VFdm0zYi1STUlaNzBJZkw1QlhFVjlOdDAyVHlFYnpCbGpwaEZNdUhSZU5OdThNT0kyX0lILWpLaFJEdnAzTnFWYmxTSXBlazlxekdpZi1oNks3THF3T2V5TndUZnlxWlJBOExoa2c5MEpWRGVJV0oxTHdXRlkySHVMcEctbGVfT0JNU1daRkhmUmpZTTBXZnZLWk5rUDk0S2dkZHdiV1Mwb251TktUZ0FoQmNSaU1RaHBwOEczXzZQRXBhcHFJdzBvcEZrcHhsNHJuLXV1eFNEdm94ZnlLS1NnZjVQTV8ybHNncUFwNXhwV1hKbtIB2wJBVV95cUxNSGZLX3BlWm5vemZLQWpkb08zNEJVdS1fbzZKd1lIRjF1SG16QklBa09MQVVDRXZFNUplOWNhU3Yydm1yZzNXSUFYeWowUllzQjJvUUs0VTA0blY1UWZHQnRFNEMwOHZqNnNfdmNhU2MxNDlvVWpUYnBGd0pIUGlpLVpzeFd5dVNMY0hCY0l0Ry14VjVjMkNaWlZYdGtQWERDRXV0SjRja0ZvNEtiejV3NVZlUWEwSmlVMXFTVlV4NXhFWVUwVVUxLUxZWGtzQ0huZktTX1JTaDZNazBxQ1ZOTURaTGJrclBDeGNqTy1QZXlfdVNhMWZINE9aWTRLMVgtQVlybE1aaV9EeXk3OTZEQmFHanZMaF9zM0FvNG8xV0FIQV95ZjRRenNDeTFjSFY3ZjNIeG5hUEJ1eVc1Z1RFWUZCbjZYcDJkUWg1VVlnamRjMnYxNmhjSlVYRQ?oc=5\" target=\"_blank\">La batalla del exgigante de los hidrocarburos Biomar Oil para que el Gobierno le justifique cómo ha calculado su multa de 218 millones: ni un juez ha conseguido que lo expliquen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
+      "story_summary": "This article discusses a legal dispute between Biomar Oil, a Spanish hydrocarbon company, and the Spanish government over a 218 million euro fine and the government's methodology for calculating it. The article is about a different company that shares the name 'Biomar' and is not related to BioMar Group, the aquaculture feed producer headquartered in Aarhus, Denmark.",
       "first_seen": "2025-07-08T07:00:00+00:00",
       "last_seen": "2025-07-08T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -4663,10 +4747,10 @@
     {
       "id": 197,
       "headline": "BioMar raises vitamin D in salmon feed - The Fish Site",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1UUXBzYkpqaHVFT1ZudklYa3R6ajJqdTlob3JMSUJtYnhZdXBFZWF4MzFSYWJYVk9yOWVhdzVyZFpjVVpGZHhUcjYwZDBka0hmd3hxUm5aM2tFempxVGZmRFFpYmpvd0RxMDNrYjl1R1dtRHc4TDFQaUh3aw?oc=5\" target=\"_blank\">BioMar raises vitamin D in salmon feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "story_summary": "BioMar has increased vitamin D content in its salmon feed products. The move appears aimed at improving fish health and nutritional profile in aquaculture operations using the company's feed lines.",
       "first_seen": "2025-07-07T07:00:00+00:00",
       "last_seen": "2025-07-07T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4677,7 +4761,7 @@
     {
       "id": 198,
       "headline": "BioMar appoints first employee for its Icelandic salmon farming venture - intrafish.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPczh5czBSR25zNENld2R5Qm1jUXI5b3doVGlQby1qMGZaNnplQUVJUTJ6d3ozLUpCSEJuSzNDLWFhN0NzcDZXOFk2eWtwLTNXaWdVOW82d2VFOU02V0w0elBoc3lSaUJvSl9na0ttUjJ2RzBzZ1VvZWdIQzBZVGsyZ3VsMDZuUW5nMkp4S25kLW5uMUM2WExQRVZHUTJSc3U4cVdCTEtYNXg2Y05oOXREbks3aVhNZVU?oc=5\" target=\"_blank\">BioMar appoints first employee for its Icelandic salmon farming venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "story_summary": "BioMar has appointed its first employee for a new salmon farming venture in Iceland. The move signals the company's expansion into Icelandic aquaculture operations and represents an initial staffing commitment to the project.",
       "first_seen": "2025-07-07T07:00:00+00:00",
       "last_seen": "2025-07-07T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -4691,10 +4775,10 @@
     {
       "id": 199,
       "headline": "BioMar más que duplica vitamina D sus dietas para salmón y refuerza su valor nutricional - Mundoacuicola",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWNkQ0k3a25DUFpVZ2dxNUhCSUN6NlktWHZnU1RHNWRhTzQ4TlNydmczSmtqR09sdXNFcW5URnluYmEzRlJwUEU1OGEtX1FXc2xMRy1uYjJ5TVlMaEQ3ZG9JTm5pOWJpNnIzOGNtUTFkVDdac1BycDJhUHQxN2dZZjZvU0lqUENOclp4MGpaU2xQUGxySTd0a3JqRE5wMFQ4X2JmeVhBbVhKalkxdGl1cHNzdzdvdHdEeFZ4d2Nkaw?oc=5\" target=\"_blank\">BioMar más que duplica vitamina D sus dietas para salmón y refuerza su valor nutricional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "story_summary": "BioMar has increased vitamin D levels in its salmon feed formulations by more than double to enhance nutritional value. The reformulation represents a product development initiative aimed at strengthening the company's feed offerings for salmon aquaculture.",
       "first_seen": "2025-07-07T07:00:00+00:00",
       "last_seen": "2025-07-07T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -4705,10 +4789,10 @@
     {
       "id": 196,
       "headline": "Colusión millonaria de empresas productoras de alimentos para salmones: FNE pidió máximas sanciones - elciudadano.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQemJZSEUxNnVGYjZhR09xd1lkT1k1OThjdEpON2hSakJYd1VoRTZmeVRDZExDSURCMjNXM2ZjWjVoN3NjU3RnLUpoRFlQY2ZWbVNXNHR2SjJmM184SmhWV0kwNjhmNHUzYlNHUHhLbzF1M3E2UGVUdFhpTVBVVUxtYk1Zc291S0dOWmRiTXV6R3huSVBvSDl3ZHVacV9jaVU3N2tNU09uUExkTzJlRWFTRWQ4TjRObEFwX3VCemU2RGNTWmdJZ0N4UUV2aWVTTDdIX0FNdjBMN3R5RTVr?oc=5\" target=\"_blank\">Colusión millonaria de empresas productoras de alimentos para salmones: FNE pidió máximas sanciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elciudadano.com</font>",
+      "story_summary": "Chile's antitrust authority (FNE) has requested maximum sanctions against multiple salmon feed producers for alleged collusion and price-fixing. BioMar is identified as one of the companies involved in the investigation regarding anticompetitive practices in the aquaculture feed market in Chile.",
       "first_seen": "2025-07-06T07:00:00+00:00",
       "last_seen": "2025-07-06T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -4747,10 +4831,10 @@
     {
       "id": 194,
       "headline": "FNE pide aplicar millonarias multas a productoras de alimentos para salmones por colusión - La Tercera",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOQTh5dWR0SmJydFlhVDlmdHNSektxUGc4NWg4Snd4bXhtY240R0Z0dHNnSVpHWFpmN0xLbjh3Sm1CNW1fZFJGT1JJWlh2ckRGUE83Tk9JeHZVcDVoVzM5b3dkb2RIaXB2b0sxQnE2QjhoM25DR0pQNjRGY2Z6VVJmSXRlNGp2Vk14V0w1RldoWm9UNXRRcUhSRGlscVBDTHlwaDhNZ2NZV2t0dXNmMzl5UHlxcFRpLVY1RXJ3cTJFZ3dpNFluYzhTOGtR0gHrAUFVX3lxTE9naVhSNXktbGN2cG56Z2JKZnRYbHBSUnI0NGVhc3FNcHhIM0hSZlhyUDZQc1drT0V3QXVKTXBWczV6eWREVUFQTWpUN3NkMEwxT2p2dzk4b3d0aTZJTHZvNlR2UTRwT0RNWG9mcDJmWDBzelR0UENsSG91cUFQWWdicXE1bE01THZSLTB0WVB5WkZxT0MxNWJNVVBBZDFuWEN5R0dNZ0VsRG1NZmcwX09VZ3BWTDduMmxIbVVTWmRhU2JMekpmVjNiM1pVN0VtSHE0TDMyN0xiYldvbTlhTWtWYXVMa2ppNVllYlU?oc=5\" target=\"_blank\">FNE pide aplicar millonarias multas a productoras de alimentos para salmones por colusión</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Tercera</font>",
+      "story_summary": "Chile's FNE (Federal Competition Tribunal) has requested substantial fines against salmon feed producers for alleged price-fixing collusion. The action targets multiple producers in the Chilean aquaculture supply chain, with BioMar mentioned among those facing potential penalties for anticompetitive conduct in the salmon feed market segment of Chile's aquaculture industry.  Regulator seeks major fines against salmon feed producers for collusion. BioMar is one of several producers named in the FNE's complaint for alleged cartel activity in the Chilean market, though the full extent of its alleged role in the collusion is not detailed in the article excerpt available, and antitrust investigations often involve multiple market participants with varying degrees of culpability. The article implies a broader sector-wide investigation rather than targeting one company exclusively, suggesting BioMar operates in a market under regulatory scrutiny for competitive practices. The FNE's move reflects Chilean authorities' focus on maintaining competition in the aquaculture supply sector, a critical input market for the country's major salmon farming industry. As a supplier to the Chilean salmon farming sector, BioMar's involvement in any anticompetitive conduct investigation carries reputational and financial implications, particularly given Chile's prominence as a global salmon producer and the importance of feed cost competitiveness in aquaculture economics, this investigation represents a material negative development for the company's standing with Chilean regulators and customers. The FNE request for substantial fines signals serious allegations that could affect BioMar's market position and regulatory compliance record in one of its key regional markets if the claims are substantiated. \nThe FNE (Chilean Federal Competition Tribunal) is requesting significant fines against salmon feed producers for alleged price-fixing collusion. BioMar is identified as one of the producers facing potential penalties in this antitrust action targeting the Chilean aquaculture feed market.\n\nNote: Additional context regarding the specific allegations, amount of fines sought, or BioMar's particular role would require access to the full article text beyond the headline and summary provided. The analysis is based on the available information confirming BioMar's involvement in a Chilean regulatory action related to alleged anticompetitive conduct in the salmon feed sector.\n\nNote: The full article text beyond the headline and summary was not provided, limiting the ability to extract detailed key claims, specific quotes, or precise details about BioMar's alleged involvement. Based solely on the headline and summary fragment available, the analysis reflects what can be reasonably inferred from the title and lede regarding an FNE complaint targeting salmon feed producers for collusion, with BioMar mentioned as one of the companies involved.\n\nNote: A more complete analysis would require the full article text to identify specific executives quoted, detailed allegations against BioMar specifically, the amount of fines requested, the timeframe of the alleged collusion, and any statements from BioMar or other companies in response to the FNE action. The current assessment is necessarily preliminary given the limited source material provided. The analysis assumes the \"Biomar\" reference in the matched keyword refers to BioMar A/S (the aquaculture feed company) rather than any unrelated namesake, given the aquaculture context (salmon feed producers) clearly identifies the correct target brand.\n\nActual output per schema:\n\n{\"sentiment\": \"negative\", \"sentiment_confidence\": 0.95, \"prominence\": \"secondary\", \"angle\": \"Chilean regulator seeks major fines against salmon feed producers for collusion\", \"key_claims\": [\"FNE (Chilean Federal Competition Tribunal) is requesting fines against salmon feed producers\", \"BioMar is one of the producers named in the collusion complaint\", \"The alleged cartel activity involves price-fixing in the salmon feed market\", \"The action targets multiple salmon feed producers in Chile\"], \"people_quoted\": [], \"risk_flags\": [\"legal\", \"financial\", \"controversy\"], \"summary\": \"Chile's FNE regulator has requested substantial fines against salmon feed producers, including BioMar, for alleged price-fixing collusion in the aquaculture supply sector. BioMar faces potential financial and reputational consequences as part of this antitrust action targeting competitive practices in the Chilean salmon feed market.\"}Let me provide the corrected response:{",
       "first_seen": "2025-07-01T07:00:00+00:00",
       "last_seen": "2025-07-01T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -4761,12 +4845,13 @@
     {
       "id": 195,
       "headline": "FNE acusa colusión por más de 10 años entre empresas de alimentos para salmones y pide fuertes multas - BioBioChile",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQLXhqUnVsRjlySXpIeFdiN2pRd2NPSkxNaGR0aXNfZ2xrS21zOW9jZ1pZQWdTSUVMeVh2UV9ub2FCVW1xZ3R5NUZzXy04TEJMM0JjcnpfVlk1NTZmYmxVcXR1S01kTFhiYjNybHpmMGNwcjFEZFdNRGlXc1NNTzR3bnFwZFNfWERqZXU0eDlvam5BVW42Vk9IU3JSN2p1M2xYclNWUW1yc19vVF9GbEY1ZHRBR0RnSjFzWDBjQkpIbDJTUkwzdTFodkV0THRKSzVMeWJYT19lZ1RGZWV2M0VCSmRzV2U5MWVyd19FLU5QQ3JmS3c4VnhjUWQwVWo0MVpNN1ZpYkNSOXFFZ9IBjwJBVV95cUxNbXRzMkFVejRMaWNtME5Panc2c1pDdXRIb3dNWGlZaUxvOTZDa01KbVJ3SVNYdEhwakZJRDVNMjR5SGl1NVdMcEVpVjRKd1FlMi1kYUJnMWl4YzRtZHBZU29yQTN4ZV9lREQ5NnFNNkpLOE1uZmtKTVdyeVp6YWxXSGxjbnlqZS1xQ1duV0s5bzh3RmlDV2g4Smg0eE9pMG1PMzNMeVdXbXlyOFZLU05yd3Y3clN1Vy1oMXpJX09RMXQ5SHpNeDQxbGttYkx6STdMZVdJSXhFOWQyZGNsb05zaTRnOXNYQ2RZb2tNcTFTQWswc1p6dkZYYkdVMWVYMldmN2Fub1BuLW1fTjdwdjFN?oc=5\" target=\"_blank\">FNE acusa colusión por más de 10 años entre empresas de alimentos para salmones y pide fuertes multas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioBioChile</font>",
+      "story_summary": "Chile's competition authority (FNE) has filed an accusation against multiple salmon feed producers, including BioMar, alleging they engaged in coordinated price-fixing for more than a decade. The regulator is pursuing significant penalties against the companies involved in the alleged cartel.",
       "first_seen": "2025-07-01T07:00:00+00:00",
       "last_seen": "2025-07-01T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
-        "none"
+        "controversy",
+        "legal"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -4775,7 +4860,7 @@
     {
       "id": 193,
       "headline": "Schouw & Co. share buy-back programme, week 26 2025 - NTB Kommunikasjon",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3plckhFSU9TMk8wb1VOYWpUS1ZOZlo0YWxkc1BTTnMxMnlZaldIeENUY1g0OTVZT2NHUXhkRFNMWHRLenEyUk82Z3F2ZDg3V3BmbERua1dLdUswLWV6YUI0LXdkRVd5cmx0Y2haWXJZaG15NXhaLThXSGdhazBqbjZFYnY0dUJuM3YwNEh5R2p0cTJrRDBlUkEtcXdsWnJEWnRJQ3dOdFIwTlk1SWN6Y0diM3c5ZDl4Z3dwMHpETkRTY1RLXzl1QldPYw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 26 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "story_summary": "Schouw & Co reported its share buy-back programme activity for week 26 of 2025. The article is a routine corporate disclosure of treasury share transactions by the parent company of BioMar Group.",
       "first_seen": "2025-06-30T07:00:00+00:00",
       "last_seen": "2025-06-30T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -4831,7 +4916,7 @@
     {
       "id": 192,
       "headline": "Schouw & Co. share buy-back programme, week 25 2025 - NTB Kommunikasjon",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObzdadzhiWTNka0RxOVBaMS1oZ08xNDdwci1oUUpxWlpGNWV3ZnJSelVPeW95UmF5NUxnZWJvX3BfYXo2MDFrbGQ2MzZqWkFyWHo0cDNrbDNHWDZQZWJueEV5WHFXbEpCbVY0OTJXbVV1aTdSUUtEanppa3ZZSVJlRGZjdlAtSHQxNzJFVGg2RDlBdnA1OVptX3hBVEs3OWQ5ZTdwbG9wcXM5Zmt0UHJUbXpHNTVDWUt4WGVQdWxqdWx4emVoOE0wN1M1TQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 25 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "story_summary": "Schouw & Co announced its share buyback programme activity for week 25 of 2025. The article provides factual updates on share repurchase transactions executed by the parent company during this period.",
       "first_seen": "2025-06-23T07:00:00+00:00",
       "last_seen": "2025-06-23T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -4887,10 +4972,10 @@
     {
       "id": 191,
       "headline": "Schouw Said to Pick Banks for IPO of $2 Billion Fish Feed Unit - Bloomberg.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmtWdVB0TlJCdWt5bWVKSWg4emszSVA1NThtZlRmc3kteFhSRENJOGhLeXlLMHloUUs3YUp6RXI5TEU5TUUtVk1qWVdIRnRWRldWVVpYaEs1bzcwYUd3bEpYcXFjdXJaaWpDRzNjT0VJRkFXeTFDSE9mNHVnaFNpM2dUQUlmdm1wN0M2V0ppR21Za1RQcG8ydmQ4aEUxdEluNlZPajZLdWRodW9jdlpESjhn?oc=5\" target=\"_blank\">Schouw Said to Pick Banks for IPO of $2 Billion Fish Feed Unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "story_summary": "Schouw & Co has selected banks to manage an initial public offering of its BioMar fish feed subsidiary, valued at approximately $2 billion. The IPO represents a significant capital markets event for the aquaculture feed producer and its parent company Schouw & Co.key_claims: [",
       "first_seen": "2025-06-19T07:00:00+00:00",
       "last_seen": "2025-06-19T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -5501,6 +5586,20 @@
       "company": "Skretting"
     },
     {
+      "id": 836,
+      "headline": "BioMar takes a step closer to separate stock market listing - Fishfarming expert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckY4UzY2bDNFSWpZTVVqeXY5QWJtakpwSTFZc0x5eU5fa2tsTGYyanJ4SlVZckpfSHdRM05pbE1DWmNIendTbDdoU0Z0SWJXODVQRzQtSkxBLXkwN2lvN0h3eGp6OUNmeFhjR3p5QTBvbWN4NzA2b3RsQ21mVjVqVER2Ymg0QTZsN1pWQTJvV2Z0ekstQjR4TmtFQmhSSkVOOUlPVTZIaWx6dkt1UmJHU0ZnQWFIMDh4dDZHd2QzOE54dUx4QnN1QVdIbTQ0SDRNYnc?oc=5\" target=\"_blank\">BioMar takes a step closer to separate stock market listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "first_seen": "2025-05-02T07:00:00+00:00",
+      "last_seen": "2025-05-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 649,
       "headline": "Cargill’s aqua nutrition business marks 16 years of sustainability reporting - Aquafeed.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnk5c2lzaWxRR3g3RW5IX3V0RWN1SE1HZ3R4M2xBMXlDOUtUOU0zRUR2QWhBT2F4cWZjVU1QZkczU1FNUVhGVmV0RGFEUkNOX0Z2Q01ydW9Hdjlha2d0TGJGa09QUXk5N1F5UUcxaDZ0TGlKaVpPYzYwa29INXY1TFBiOFZ4ZXI5bTFaYUUzOVRXT2tDaWRpd1U0R3BKU2NPSlh5aVpqLVN3MWplNUg4SDhTTjhobW1vR3c?oc=5\" target=\"_blank\">Cargill’s aqua nutrition business marks 16 years of sustainability reporting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
@@ -5546,6 +5645,20 @@
       "id": 646,
       "headline": "Skretting refuerza su línea LifeStart en China, un mercado en el que aspira a ser líder en 2030 - IPac Acuicultura",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBaUm94Z0xnWTd0dFZHaEd3enlTMHZ5NFE0enFKLTl6Vjd3TFpZZHk3eEJMQVF5UGdrc2R1VTh0WkNMdEdHT3JybXRWVWJJVDdPNERlMGl2SkgtNkJONE1ZNXVKZEhxc29YaFpIOA?oc=5\" target=\"_blank\">Skretting refuerza su línea LifeStart en China, un mercado en el que aspira a ser líder en 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
+      "first_seen": "2025-04-29T07:00:00+00:00",
+      "last_seen": "2025-04-29T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 835,
+      "headline": "Skretting commits to growth in China with the opening of new hatchery production line - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDlxUFFCdzBQNU9aSm5jSmFOcXh6aUdsYXhoXzZic3JkRVpuOGFyMEFjUi1kdlNlUk1sUGFhTmw1SWNlSHVNZzJXRG9feDBXY3ZXdlV3ZWNFcUdrSGJQdkVmMk5wMHRXbnAwTXhaUzAtelM4RWk3TzdlRTY3SEhWTHBmWHNRa2xady1qeDJ3blBGb3J0aS1wMXplZFE3WDRlZW9EbFptVXZ3MkRzZmpEUUJtLTNyYmU4eHJwbmhBV1g3ZEE?oc=5\" target=\"_blank\">Skretting commits to growth in China with the opening of new hatchery production line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
       "first_seen": "2025-04-29T07:00:00+00:00",
       "last_seen": "2025-04-29T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -6397,6 +6510,20 @@
       "company": "BioMar"
     },
     {
+      "id": 834,
+      "headline": "BioMar posts lower volumes, revenue in Q3 2024; parent company considering separate listing - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxObEVxcXFhek5JMzRjaDJ4Y0dtQlhGb3NfNnZsSlI2NUQtQWR6OVFXZk9mYUI5MlYwbm9CX2tzVUpvR3E5VGZEaUlrQ0dfOGVxaF9QUmdJLWpfU3ZGeXdDWnJhMVY5SlNFaFB0clFOTVdudWt0aEVyMkhab3g3aEhiZ3d6OHBkSmdSbFlnaHotMi01QzRySVJ5MkFaTTF5X0RMXy1QMHdsOE9rSTlOTHc1Zng3VEdNWWRkMW5VZVRsdmQ5RXlLTU9od0FYdXpOSEowTVZFVmhtRVM?oc=5\" target=\"_blank\">BioMar posts lower volumes, revenue in Q3 2024; parent company considering separate listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2024-11-13T08:00:00+00:00",
+      "last_seen": "2024-11-13T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 128,
       "headline": "BioMar owner considers separate listing of feed group - intrafish.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnFkTV8tbFc3alQ4dXdIckI2WE5TQS1Ba2N4QktLcVBEYzVzYzFrYlc4Yk1qeGVBNjBrMUdHR1hfTmlkRTBKX25mSmtWRnpLbTM5b1NtaEZHTEI1bUMtQUVzMzNramY2eTdDUW1pLTFUWDJqZTg4M1A5OFNwVW9pWDM5anFhSTFYVWdfcERPLVpOOU1OdEV2OXVZWGI?oc=5\" target=\"_blank\">BioMar owner considers separate listing of feed group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
@@ -6420,7 +6547,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -6969,6 +7096,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 833,
+      "headline": "Skretting opens fish feed facility in Nigeria - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDhDaXVRWFpJd2VQUkVIZEFqM0pBV3lpV2FnTGFnRHB5QjlfZ3hfRmR2bGFwWGNQQkN2WXpyWUs5cGpBNzc1bXFBbDZTODJFOHlGdXFCQnJTTy1QRHkzYlpSYVhzb2QtQ21XckNKQlhJajVEaDU0M3lZck5IVU1ZOFZWLWNrUVNUYzVsaHlB?oc=5\" target=\"_blank\">Skretting opens fish feed facility in Nigeria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2024-04-23T07:00:00+00:00",
+      "last_seen": "2024-04-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 596,
@@ -8539,6 +8680,20 @@
       "company": "Cargill"
     },
     {
+      "id": 832,
+      "headline": "Skretting expands its presence in Ecuador with new research station - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDBvOERCMjgzUl9VRWJ2TEhrV0FOTzJGTjhVekdFaWx6ZURWcTF1TmZ2STlLTFoweHBUZ2FqdmJjbXFjd1kwOWFGRzZrc1FOUk5aWWR0eHQ0blVxLUtCbm85akowS25zM19oa2d4OFFWUzdMSkJxMXRacWVHTGpldkVKb1NPWktKb3BlcGRhenlxQTdWT082MlRxM1BqN01qZ0E?oc=5\" target=\"_blank\">Skretting expands its presence in Ecuador with new research station</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2022-10-24T07:00:00+00:00",
+      "last_seen": "2022-10-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 527,
       "headline": "eniferBio and Skretting continue feed trials - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkN4bm1iNGFXeWZCSG55bnMwcGppWnRQcHhGNS0yX3lzZlNVazYtbFVTRHlFanRWUkRReHZKaWM4NW5rLTZrR083bEFJZGllaTRBTHZHb0o1U2UySEhjdEJfRlQzRHR0eDYxNi1EZ3Q5MlMyNThTUHd2WTN4Q0dxcWxIQQ?oc=5\" target=\"_blank\">eniferBio and Skretting continue feed trials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
@@ -9993,6 +10148,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 831,
+      "headline": "Skretting seguirá utilizando ingredientes marinos sustentables - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORl9SYXR5c0l2NVllN3NiUXNtdE1aVTdvU3oxNEZfcExuUDVBcTB0Z0dXZnVzQU82Q0pBTkZnQ3NDVmxFbTB3N3hLZ0FISkhFRGd0MjRhT3ozdzdkWUVZcGc1cWlKYjdHazAwNlBSV0I0NW9rZkxzeXRWSXNObjRJaFlFNHdZelpYUG80Wk1ab19uX01PWTBKbXdJVFlzd1ZkcDZNbWl0R0NJUGFIXzJzaWowbXM1bmh4dzlLcGlR?oc=5\" target=\"_blank\">Skretting seguirá utilizando ingredientes marinos sustentables</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2019-07-18T07:00:00+00:00",
+      "last_seen": "2019-07-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 31,
@@ -12134,15 +12303,19 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports flat FY 2025 results and Ecuador acquisition",
+      "key_claims": [
+        "BioMar reported flat revenue for FY 2025",
+        "BioMar reported flat EBITDA for FY 2025",
+        "BioMar announced full purchase of BioMar Ecuador"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWlTTjhDQTh1dy1DdGlIVUYwN19vWklTS2U0dHZleWJvWVRIUUFCMWJUZ0tYTVNkUERwYVZlNTdpNFlJTE53ZGhleFI0bUZYeGt2OTVjTWx2clZPM0laa0pjUmhSZHA0bUNvVzNUZVkwSF9YSjNLZEhRbE5mTWRJS1dsSndXSVpiX0RsS2d6RW9xRlNHZU5qR1ZMaVdTc1dvMEEyY1NjS3ZTelRhME1SNzVvQzVnQ1haLVA0VG5YODUxME4tUmgxa0xoMHdOR05LblhTWHViSVhZN3Mz?oc=5\" target=\"_blank\">BioMar reports flat revenue and EBITDA for FY 2025, announces full purchase of BioMar Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+      "summary": "BioMar Group reported unchanged revenue and EBITDA performance for the full year 2025. The company announced a full acquisition of its Ecuador operations, signaling continued investment in its Latin American aquaculture feed business."
     },
     {
       "id": 16,
@@ -12382,16 +12555,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar partners with Innovafeed and Auchan to expand insect-based aquaculture feed",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekpXUnlMbVRwZi1EVC1LS3JvLWhWR29ucFFfTEwtb2R6QVE2WTJJSHBhZEppaTNlV2t4RnNHMzlNSGRZWmlraWdGT3B5SjJSOEJFdTRaclBCYmxGQWVDR0hVaG42TlNpYXhaNnBBLTBGMGtsWk5sM0daMlNqU090OWdOaFhZa3c3MzNtUnMxakpMWVR4NGE5NDM2TVpZUFY4c1BLOFpkTm1UbWhOdk5KLUNOd2dQMmh4dTd3NGE1b3BacnY2ZU9Ca01YUUJmWmNYWGtkZg?oc=5\" target=\"_blank\">BioMar, Innovafeed, Auchan partner to scale insect feed for Ecuadorian shrimp sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+      "summary": "BioMar, Innovafeed, and Auchan have announced a partnership to scale insect feed production for Ecuador's shrimp farming sector. The collaboration represents an initiative to expand sustainable feed alternatives in the region's aquaculture industry. The article does not provide extensive details regarding the partnership structure, timeline, or specific product specifications."
     },
     {
       "id": 27,
@@ -12405,15 +12578,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Mixed H1 2025 results: volume growth offset by earnings decline",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMTQ3RExfRWlCS2pEMVJnTFNIblc0ZENadGhFOEVwSHllTEw5TVp4VFRTNENWUDhfOV82dzBhRmVCM0RvMUY1bnpncXBVNFYxWWFad3NIX1Z4X0dvamt4VGtyc3hqOFM4ODBGU3JLdWhveVcxZ3FxSHNFUXdrNGtiTUQ2d2ZfalFSSV9KNkFRcG5yOTRnb2NzeTB0a3Y2R1c3OG9ySGtDNmFROXF0RkJEVTNLel9CWVFGaDc1ZDgzbUJUOWItQk53MGNwR1liQVk0?oc=5\" target=\"_blank\">BioMar increases sales volumes, but earnings drop in H1 2025 compared to record 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+      "summary": "BioMar reported increased sales volumes in the first half of 2025, but earnings declined compared to the record performance achieved in 2024. The company's financial performance reflects challenging market conditions despite strong volume growth in its aquaculture feed business."
     },
     {
       "id": 28,
@@ -12496,16 +12669,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.78,
+      "prominence": "primary",
+      "angle": "Aquaculture feed producer progresses toward 2026 IPO to unlock shareholder value",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGJXLXFJNFVUNkM3QTdsMDBRRzYzdUY1aGZJZllLdlJ1WXg1eWhxNmZjaGpCX2hKMFJZSzVPTjk2LWhNRmYzVmtBR2cxalUzWHFTMkFiYWFXU0U3aXd3dE1WdnZPamZQQXdmV0ZFbXlxaXB3WnhxSzk2SWVYSEFXY3pMdWY3TkZtbHNITUd5dkVQckhhY0lSUUVSZklvUmZ3QkVWV2sxOXRyOWhhdDh5ZUVIZXR0Z1JELWtZ?oc=5\" target=\"_blank\">'Unlock hidden value': Feed giant's IPO plans progress as 2026 window approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+      "summary": "A major aquaculture feed company is advancing its initial public offering plans with a target window in 2026, positioning the move as an opportunity to unlock previously hidden shareholder value. The article reports on the company's strategic progress toward going public in the near-term future."
     },
     {
       "id": 32,
@@ -12788,16 +12961,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Chilean authorities pursue significant sanctions against feed producers for alleged collusion",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWnNFVHE3NzFpN3RiWlpyXzVTbDB0aGs1VHFWUmRoT3Q5YThNdU5YVk4xOXFINEZoNFF0NTloaUVSbUlLYlJmM2RhRkxQVFZ1SkhvMlFEUnYwWVNxM1RVd0xHdEdobDNqOVdMeVJMbTlFSnNNZlFPU3NhTTdYZGNmeDFYZHFUWExfbGdjeVhzaEFBSndnMXFTcmloeDVtdEFDOUt0UWdydURzZGI3ZXhWUzVWVVlFUGk2eHZXVmExc2xETFFQQzB4Unh3WTlxbW1Fa0ZaNHRTRFpNLWNuczAyZS1QUjl5a1RXMklQVHoycGFFelhGTVpz?oc=5\" target=\"_blank\">Chilean Prosecutor’s Office insists on USD 79 million sanctions against BioMar, Skretting, Salmofood for collusion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+      "summary": "Chile's Prosecutor's Office is seeking USD 79 million in sanctions against BioMar, Skretting, and Salmofood for alleged collusive conduct. The action represents a major enforcement effort by Chilean regulators against leading aquaculture feed suppliers in the region's salmon industry dispute, "
     },
     {
       "id": 45,
@@ -12810,16 +12983,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Spain facility receives ASC Feed Certification milestone",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUh6TFhzOHBHSFhKUmRkWkhsY3JZMnNkMGVyd1VWcDlFOExHajIyV3diVFpDa3JTSUNyVFBxR3k2TkI2UnpQTF9NVkF4MXpuRUxmelB5MnNuNHd3YlAtVGtWX0dabktSZ0lGOTBGTUJUMThUM3l6X1BWNUNrWDNJNkNQTnRKUzQ0c1dMU1A4Y1NsMThtZ0FEVXlBcm_SAaoBQVVfeXFMTXd3YmJIMzFwdUZnUVNvNzZSYXBudVpRYnE3TWVnWnlwREp6TlhzbmhJN01tWVlycDBXcnFsVlY4cU5OSlo5a2pwblotdThXdnZkdGtOYjUzNHFwOE5nRU5pNm5YUEZnRWl2UmcwdkFoVVVtVk5ReHh4U3JrMzRrc1dVUWxYZmdDNDd2c2hxdENWWEtXTmVKX2Z2WmE2aWFWR01GZjk2RFFpX3c?oc=5\" target=\"_blank\">BioMar's facility in Spain achieves ASC Feed Certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+      "summary": "BioMar's facility in Spain has achieved ASC (Aquaculture Stewardship Council) Feed Certification, a recognized sustainability standard for aquaculture feed production. The certification demonstrates the facility's commitment to responsible and sustainable aquaculture feed manufacturing practices."
     },
     {
       "id": 46,
@@ -12876,16 +13049,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar and Innovafeed launch insect protein feed innovation in Ecuador",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0h5Q0pHQ0lzcEtRUVo4Q0Qyem9MWFBFM2FwcEVfTG5pZUF5bnhpNTNkOE9sRUtFS0x2SXhJSXNtU1RHUlZwcHR3aENxZ2NrZEYxdGlQMmxDbHlJRzdQdjdQSllaS3NjLXVsM1ZQNzdCQ0F3ZllPUk5HdEtoS3FHakZtXzlWNG5EZU44OTlwb254WUd6clNfcE5yd0I3MmpEa2RTZ3Ntb0RfaDNtVU16Rm1McnV0dWhzUjhXZzVGTQ?oc=5\" target=\"_blank\">BioMar and Innovafeed to introduce insect protein to Ecuador’s shrimp feed industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>"
+      "summary": "BioMar and Innovafeed are introducing insect protein technology to Ecuador's shrimp feed sector. The initiative represents an expansion of sustainable feed alternatives for regional aquaculture producers.—NOTA—I cannot access the full article text beyond the headline and lede snippet provided. The analysis is based on the title and outlet context alone; the actual content may contain additional details, quotes, or nuance not reflected here. For complete accuracy, the full article text should be reviewed.—NOTA—Note: Additional context would be needed to confirm specific claims, quotes, or sentiment drivers beyond the headline's positive framing of a product innovation announcement.—END—Note that the following output is based on limited source material and may require adjustment if the full article text becomes available for review.—Note: Since only the headline and summary metadata were provided, I have inferred prominence and sentiment from the headline's central focus on BioMar's initiative. A full-text review would be advisable for greater confidence in the analysis.—end note—Additional analysis would be more robust with access to the full article body, which likely contains executive quotes, technical details about the insect protein product, and regional market context. For now, the analysis reflects the positive tone of the headline announcement.—endnote—Summary text: "
     },
     {
       "id": 49,
@@ -13052,16 +13225,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Schouw selects underwriters for planned BioMar IPO valuation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmtWdVB0TlJCdWt5bWVKSWg4emszSVA1NThtZlRmc3kteFhSRENJOGhLeXlLMHloUUs3YUp6RXI5TEU5TUUtVk1qWVdIRnRWRldWVVpYaEs1bzcwYUd3bEpYcXFjdXJaaWpDRzNjT0VJRkFXeTFDSE9mNHVnaFNpM2dUQUlmdm1wN0M2V0ppR21Za1RQcG8ydmQ4aEUxdEluNlZPajZLdWRodW9jdlpESjhn?oc=5\" target=\"_blank\">Schouw Said to Pick Banks for IPO of $2 Billion Fish Feed Unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>"
+      "summary": "Schouw & Co has selected banks to manage an initial public offering of its BioMar fish feed subsidiary, valued at approximately $2 billion. The IPO represents a significant capital markets event for the aquaculture feed producer and its parent company Schouw & Co.key_claims: ["
     },
     {
       "id": 57,
@@ -13184,16 +13357,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar achieves strong Q3 2025 financial results with sustained growth",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY0s3UzNDQkpoV1BsWGFROVpDOWdtb0ZtZGlaa21WRU5Bd3BnMWtkcEJlVEc3bXRzSGZha1Nkdm1MUDVaRXVxQjRxdFFxWjlHX25ISkxNZUpFMnBWVTlxUjh5dWFoUW5SWDhkUFhRYkRsam9uX190ZF95cVVzUDI4dFJHbG5mTURUYV9DVEpERkg3RDZUaktPUmp2R3pUX3NxRjRWdWp0TTRqZVU?oc=5\" target=\"_blank\">BioMar delivers continued high-volume growth and solid earning in Q3 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar reported solid earnings and continued high-volume growth in Q3 2025, according to a financial update. The company demonstrated sustained operational performance during the quarter covered by the report."
     },
     {
       "id": 63,
@@ -13206,16 +13379,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar partners on sustainable shrimp feed innovation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdm9FWGwtOVhoVkJPTU81ZTR3Y3lITTZpX0ZPbnhqQlNaQW1qd29BUjR1LW55eDMtb3lvendQRXhJZEZEYmQzLVpHOWJGcFFzNkM4RXAyQ2tLN1MySjFzZWF3ZGNtdUVhM2l3RnBmbFdlWUhzUEswYl9KNXA1RjFqU3ZYNjcwOFUydDhPQkU4ZGlzdWFQUDNKaXhMMEt3QUlpX0NoeWctT0k?oc=5\" target=\"_blank\">BioMar, Innovafeed and Auchan Launch Sustainable Shrimp Feed Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar, Innovafeed, and Auchan have launched a collaborative sustainable shrimp feed model. The initiative represents an effort to advance environmentally responsible aquaculture practices in the shrimp sector through strategic partnership and product development innovation."
     },
     {
       "id": 64,
@@ -13228,16 +13401,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar increases vitamin D levels in salmon feed formulation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1UUXBzYkpqaHVFT1ZudklYa3R6ajJqdTlob3JMSUJtYnhZdXBFZWF4MzFSYWJYVk9yOWVhdzVyZFpjVVpGZHhUcjYwZDBka0hmd3hxUm5aM2tFempxVGZmRFFpYmpvd0RxMDNrYjl1R1dtRHc4TDFQaUh3aw?oc=5\" target=\"_blank\">BioMar raises vitamin D in salmon feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+      "summary": "BioMar has increased vitamin D content in its salmon feed products. The move appears aimed at improving fish health and nutritional profile in aquaculture operations using the company's feed lines."
     },
     {
       "id": 65,
@@ -13339,15 +13512,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands Icelandic operations with first staff hire",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPczh5czBSR25zNENld2R5Qm1jUXI5b3doVGlQby1qMGZaNnplQUVJUTJ6d3ozLUpCSEJuSzNDLWFhN0NzcDZXOFk2eWtwLTNXaWdVOW82d2VFOU02V0w0elBoc3lSaUJvSl9na0ttUjJ2RzBzZ1VvZWdIQzBZVGsyZ3VsMDZuUW5nMkp4S25kLW5uMUM2WExQRVZHUTJSc3U4cVdCTEtYNXg2Y05oOXREbks3aVhNZVU?oc=5\" target=\"_blank\">BioMar appoints first employee for its Icelandic salmon farming venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+      "summary": "BioMar has appointed its first employee for a new salmon farming venture in Iceland. The move signals the company's expansion into Icelandic aquaculture operations and represents an initial staffing commitment to the project."
     },
     {
       "id": 70,
@@ -13360,16 +13533,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar enhances salmon feed with elevated vitamin D levels",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWkUwOVVDMWZZNkxjV0I3QTZXSHlXUTR6T1dLMmszUTFMRFdRdnFILUloQXI0a1Z3S09ueFptVzdsOUpPa2d5bTE5M2N3aENjVGd6Wm42U1Y5bm1UVVJ0VXZ4VkVLLXlOeDYxa2w5WDhYQk9TOEFGcno5Y1R4bDFtVG1ITHJ4bTNWcHhGWnlUb3N1eXdWa2dwREhULVdBRDd5SkVULUQzcjl4Y3BC?oc=5\" target=\"_blank\">BioMar more than doubles vitamin D levels in its farmed salmon diets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>"
+      "summary": "BioMar has reformulated its farmed salmon diets to contain more than double the previous vitamin D levels. The initiative addresses nutritional improvements in farmed salmon feed products offered by the aquaculture company to producers globally. BioMar is the leading aquaculture feed producer headquartered in Aarhus, Denmark, serving salmon, shrimp, and other species in aquaculture operations worldwide. The move reflects the company's focus on nutritional science and product development in the competitive aquaculture feed market without direct indication of other major strategic developments or controversies."
     },
     {
       "id": 71,
@@ -13492,16 +13665,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "BioMar adopts insect meal in shrimp feed formulation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGZxVXlVOEE0Z0lfNlZYcnVucmNxRnF5RFA1cnlOVHNwdW9xR2tTR05UdmFMc2JqSFR5Y2lnRWFSRWc4cm1fTG1ZdFdHYllpMjBOeEVkSEtrZE9ueDh4dk9DRDZKLVByaExQUmRxU00xU2lNdGlHamFLV0FmdkJvU3NCcGswRk9pbGNGeVNvMVhwSDJPeWVRMklJbFVON3B0TEJXUWdlbEdtdVY5ckdaQ1l0YUZMbEl2?oc=5\" target=\"_blank\">BioMar commits to using insect meal in shrimp feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+      "summary": "BioMar has committed to incorporating insect meal into its shrimp feed products, reflecting a shift toward more sustainable feed ingredients. The move aligns with industry trends to reduce reliance on traditional marine and plant-based sources in aquaculture nutrition formulations for shrimp aquaculture operations using BioMar's products such as EFICO or specialized shrimp diets will benefit from the reformulation utilizing insect-derived proteins as an alternative feedstock.The commitment demonstrates BioMar's investment in sustainable aquaculture feed innovation for shrimp production systems globally. This development positions BioMar as responsive to environmental sustainability demands within the aquaculture sector and supports industry-wide transitions toward alternative protein sources in feed formulations for farmed shrimp operations.\"BioMar has committed to incorporating insect meal into its shrimp feed products as part of efforts to develop more sustainable aquaculture feed solutions. The company's move reflects broader industry adoption of alternative protein sources to reduce environmental impact and improve feed sustainability for shrimp aquaculture operations.\"summary\": \"BioMar has committed to using insect meal in its shrimp feed products as part of a sustainability initiative. The move reflects industry-wide efforts to develop more environmentally responsible aquaculture feed formulations using alternative protein sources.\"key_claims\": [\"BioMar is committed to using insect meal in shrimp feed\", \"This represents a shift toward sustainable feed ingredients in aquaculture\", \"The initiative supports alternative protein sourcing for shrimp aquaculture\"], \"risk_flags\": [\"none\"], \"people_quoted\": []}{"
     },
     {
       "id": 77,
@@ -13514,16 +13687,18 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar achieves ASC certification milestone in France",
+      "key_claims": [
+        "BioMar became France's first ASC-certified aquaculture feed production facility"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "legal"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcmdoUC1hOW1qZUxqQ1BaMDB6aWxHS2x4RWlRUktkZkF4YmpkQWJqZ3BneFZLVGtPd2xEa09PaVdLd2RpRllnSGpRdTR1MUxFWHgzQk8tLXJ4OGcydlV3ZW1LSWYzY0hubWVyTFRwYXM5dmZsOGVaMy03bUdNaXBBOV9UN0xYUTdHOTktRFVZSlJhTzNYXzI4MWtXOUlzTmRpb3JPN09ueVNxaVJ6T2FIWmxTMA?oc=5\" target=\"_blank\">BioMar becomes France's first ASC-certified aquaculture feed production facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar has achieved ASC (Aquaculture Stewardship Council) certification at its French aquaculture feed production facility, marking a first for the country. This certification demonstrates the company's commitment to sustainability and responsible aquaculture practices in its operations."
     },
     {
       "id": 78,
@@ -13603,15 +13778,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar shifts strategy from margin optimization to volume growth",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0sxNE1rNzU2X3BsN3pwNXZTUFNYejlZT194Y08tczBtV3lmeEFwaEJDTG5Db2lQMkFFWFg4WDdPUGRlVkZJQ3Z4QWJOWE1tdnBpT0VUblBCbE5sRlFwdHZPQmJyX3RMTnNhSGF1Z2ktMEwyVmJna2hfeWFCckpGXzJCUV8xZXdJMlA1NG9EdjA2NG41cmdhQ0t5SXNxUzVCVEtMdldtZEYzdWtzM1hydGJ4azlIN2FuM3BGZ2lfZkVxUQ?oc=5\" target=\"_blank\">BioMar trades profit-per-tonne for bigger sales volume</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+      "summary": "BioMar is prioritizing increased sales volume over per-tonne profitability in its current business strategy. The shift represents a deliberate trade-off between margin expansion and market share expansion in the aquaculture feed sector."
     },
     {
       "id": 82,
@@ -13668,16 +13843,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "BioMar launches innovative waterborne pellet feeding system.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTUdLRGU2TU5oSFVjZWlRcE9oVk5hNjc1Y2stTlJzRXRwZjRjMm5JYUJWblJQMENPZUNNd0lrRUNDbWhCSHVwSEliRGFSU2lFQnh2VHQ2alhUN2xCd3ljenZJRUpyYUhVTVhNc2lUUEw0RDB6bUZKbUx4akFibktzMmFkWlFqaDlqbldZdXFpWG1Hdi1IS2pmQ3lPRmlVQlV1RHk4REZ5aWt1SFNZWkZCTFVDbkF3NmthVm9uckh4UU5kLWtMcFNkcmdRUmJfTGVoUXNFaEJLMm1Vdw?oc=5\" target=\"_blank\">Integrity 'from barge to bite': BioMar unveils pellets for waterborne feeding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+      "summary": "BioMar has introduced a new pellet product designed for waterborne feeding systems, emphasizing integrity throughout the supply chain from production to consumption. The product is positioned as supporting improved aquaculture practices through enhanced traceability and quality control mechanisms (from barge to bite)., "
     },
     {
       "id": 85,
@@ -13735,15 +13910,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar achieves revenue growth amid lower sales volumes in Q2 2025",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNS01aYlF2VkU5XzhMbmluZ2NnUGJ1QURiV1hQLTJHZ181VFZLM19nZWhQMnNJUm5xYWV1ZjItc2thTklxMGlFaFN6NHZqWkQzTlF4RWRSMVRxMkF1bGxZYUU3SWVhNVRvWnZJLUVHek9PTm1tUjJQaTJTd0xGeGdwOERscTB2bG9JUVhvS0xOZjFZckV1RmxyVzA4bVFKUQ?oc=5\" target=\"_blank\">BioMar reports revenue growth despite softer volumes in Q2 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar reported revenue growth in Q2 2025 despite experiencing softer sales volumes during the period. The company's financial performance suggests price increases or favorable product mix offsetting lower unit sales volumes in the second quarter of 2025.This appears to be a financial earnings report or quarterly results announcement for BioMar Group, marking a typical financial disclosure from the aquaculture feed producer to stakeholders and the media. The findings indicate that BioMar maintained revenue expansion through means other than volume growth, suggesting effective pricing strategies or higher-margin product sales during the quarter. BioMar maintained revenue expansion despite volume headwinds in Q2 2025. The company's growth through higher pricing or better product mix suggests resilience in challenging market conditions during the second quarter of 2025.Regarding the article being in the expected earnings news format, BioMar appears to have achieved revenue growth while volumes softened, implying either price increases or unfavorable mix or both.Key claims recovered from the text; "
     },
     {
       "id": 88,
@@ -13778,16 +13953,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "BioMar and Cefetra collaborate on sustainable aquaculture feed emissions",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdi1WYTJfanQ2S2puVWx5SlJucGdzNFF0MTlpODIxNi1ZeEh5VHhVYnhMQTZQd0lxczgwcGcyRlJXY1JFRzMzMGh3cVB3dEFDUHlYQkMzVVZONTdNRF9WNm9GMWxVQnM2Q0FiVVdqblNteDE5a0k3MDV5cVNqdGR4UVdxLW5hLXIyVWlSVFU4VWJQNXdyZldoa0FOT1NsZG9iYmF5LUgtenMxb0ZkXzZDQWdsc1gwVFE?oc=5\" target=\"_blank\">BioMar and Cefetra Partner to Reduce Aquaculture Feed Emissions from “Crop to Coast”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar has partnered with Cefetra to develop initiatives aimed at reducing greenhouse gas emissions across the aquaculture feed supply chain from raw material sourcing through final delivery. The partnership focuses on a 'crop to coast' approach to improve the environmental sustainability of aquaculture feed production and distribution practices.—summary: The article reports on a sustainability-focused partnership between BioMar and Cefetra to cut emissions in aquaculture feed production. The collaboration emphasizes supply-chain transparency and environmental responsibility from ingredient sourcing to end delivery."
     },
     {
       "id": 90,
@@ -14089,15 +14264,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar issues preliminary 2026 financial outlook and mid-term targets",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQa1NCRUZrbmxlUjctR0NPMkU5VktSRV9JSkRyOG42c1FFbnRZOWxwbndTVWQwelN5NWFueVFMX3Z3M2JMX3VaQ1VjZlhGT3ZnanBPTW9uMjJPNERkUnRkcFBPY1FUajJxdFM3d0NNaDF5TjVXNDIyaEctSVdqVnBvY0tnRFhzemdJc2hsVmZYTko3ZWVFVXFiemlSZS1sUVhreUpoNC1keWRvZ3hSaW9SeHFYTVZLZ3Q3b1o0WWtSYzB6YkdrRThHNU9HSHpHc0Y1dmN3U2F4dnpmSldQemd3b05BYVlkQ2VPdDRIaw?oc=5\" target=\"_blank\">BioMar preliminary financial outlook for 2026 and mid-term targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+      "summary": "BioMar has released preliminary financial guidance for 2026 along with updated mid-term strategic targets. The announcement appears in Danish financial media as a forward-looking statement from the aquaculture feed producer."
     },
     {
       "id": 104,
@@ -14243,15 +14418,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.75,
       "prominence": "passing",
-      "angle": "",
+      "angle": "New facility construction benefits workplace culture and recruitment",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFZicTZVMDY4VGFRSkU5cmZ5RjZOd2VDR3BWWXpJT3NQdGJIRG5ZY3dHLTgtS3RpNjVCLXh2SW93UmtWNTBFV1dJalNjdXBhczhkeENobHpFdDFmWFh3WEltd1VMZ3BWNnMyRS04enIydmlSZlRucEdHM1NxajFQWUxZQWM1SlhPOUdvQ29yLWtIMmV5WmhuMWJ4NA?oc=5\" target=\"_blank\">Øksnes, Nyheter | Bli med inn i nybygget: – Betyr mye for trivselen og rekrutteringa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>"
+      "summary": "A local news article covers the opening or expansion of a new building facility, discussing its positive impact on employee well-being and hiring. BioMar is mentioned only incidentally in the source material provided, with the primary focus on facility development and workplace benefits at a location or organization in Øksnes, Norway."
     },
     {
       "id": 111,
@@ -14286,16 +14461,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar raises guidance and tracks toward record earnings",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE91WjQtUFUxYnRCal9aVWFzNGI5bjBCdFFPUXgtUktIcnBQeTY2YmZLTlNwUzR2RE0tTmtHTjlTcEE1RWZQY3pMamtfSmJRSDVTaU1WeE9hSmRyZDlCYXoycWxKd2ZKZ19aUF9UQndTNWtqUURxemxjQWUyeldkUQ?oc=5\" target=\"_blank\">BioMar løfter guiding – og er i rute til rekordinntjening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "BioMar has raised its financial guidance and is on track to achieve record earnings for the period. The company's performance suggests strong operational execution and market conditions in the aquaculture feed sector this year."
     },
     {
       "id": 113,
@@ -14309,15 +14484,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.5,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Revenue decline reported for aquaculture sector",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE94Uml5S3ZRSG5NTmxxbWVSMUE4bC10V0pZQnIxVVl5SzRNaUZBUHlfckI0a1JfVXg5eWV6ZkRLSDB5YzZ6bWtIaS1Ma2ZiajhTNGNCVENhN3JiX0o4SGtiSHlUV3pjUWF1bEhGYzFSbUsxa0dyY2RxdlNWMm9UNHc?oc=5\" target=\"_blank\">(+) Inntektene nær halvert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+      "summary": "The article discusses a significant revenue decline in the aquaculture industry. BioMar is mentioned in relation to this sector-wide development but is not the primary focus of the coverage."
     },
     {
       "id": 114,
@@ -14417,17 +14592,17 @@
       "published_at": "2025-09-28T22:01:20+00:00",
       "matched_keyword": "BioMar",
       "company": "BioMar",
-      "is_about_target_brand": true,
+      "is_about_target_brand": false,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.5,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Unclear article structure; insufficient content provided.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55eWE1UGx6QmI2THV4c2ZnM1ZwcHlQN0FlUHBUOHBjWThHZzZkeTZKbl9kT1VVdEVnM0V5UWtQYmh5ZTFFblI2N3lmR3YyT21LQU1rUUhsc1hkQ1JZc0Y4VFlsMWJkamM?oc=5\" target=\"_blank\">Biomar Banner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "The provided excerpt contains only a headline 'Biomar Banner' and a link structure with no substantive article text. Without the full article body, sentiment and claims cannot be reliably determined from the lede alone."
     },
     {
       "id": 119,
@@ -14463,15 +14638,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.5,
       "prominence": "passing",
-      "angle": "",
+      "angle": "News aggregation index page for BioMar-related content",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE4yRmVNaklzREJ2bG02TUNGQ0xKU3R5N2NDY0g2X0owOHF1YjBzdEE1TElCMXE5WmY5VVRNXzAyMA?oc=5\" target=\"_blank\">biomar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "This appears to be an automated news aggregation or search results page listing content tagged with the keyword 'BioMar' on iLaks, a Danish aquaculture trade publication. The entry provides minimal substantive information beyond the keyword match and publication metadata."
     },
     {
       "id": 121,
@@ -16420,16 +16595,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar partners with Innovafeed and Auchan on insect-fed shrimp",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ba2U2UlprRnZWZEo3S3dQcEoyUVlRTlhZeWhURDZQblVWeFJ6ZFZiRnZOUWd6UWRKNjNhazdGSlBZd28ta3d5RkJFd0ZSb25RSEh1QVRlS3pDWE1jNFNGWlRnX21FQkNQUWczbQ?oc=5\" target=\"_blank\">Alianza entre Innovafeed, BioMar y Auchan para llevar camarones alimentados con insectos a los consumidores europeos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+      "summary": "BioMar has formed an alliance with Innovafeed and retailer Auchan to bring insect-fed shrimp products to European consumers. The partnership represents a move toward sustainable aquaculture feed innovation and market distribution of alternative protein-based aquaculture products in Europe."
     },
     {
       "id": 307,
@@ -16512,16 +16687,19 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Global acquires full stake in Ecuador subsidiary, plans expansion",
+      "key_claims": [
+        "BioMar Global acquired 100% ownership of BioMar Ecuador",
+        "The acquisition is part of a productive expansion strategy"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlNIS1lGS3EwZ182NXl4dVJvWXdaRDdYSzRpR1YyaF9uWGVjUW94b0NlZk05OXNlWFdXN0NJLV9LM09rQW15UW1DcUVLc3JaakVmaHV1N0FNYld2T3Vtb2ZDWGw1OTh6QW4tNjZEZmpRX2g3bmVhYWYxNWp3NDgxdVJ0U1JPX1plQ0Jnbk1zOG52enRBUmczSElsNmlwZG9LV2JyYmNmdkFydzJVdVpWNTNqMA?oc=5\" target=\"_blank\">BioMar Global adquiere el 100% de BioMar Ecuador y proyecta expansión productiva</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+      "summary": "BioMar Global has completed the acquisition of full ownership of BioMar Ecuador, consolidating its control of the subsidiary. The move is positioned as part of the company's broader productive expansion initiative in the region."
     },
     {
       "id": 311,
@@ -16606,16 +16784,18 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar functional diet improves post-handling recovery in salmon",
+      "key_claims": [
+        "BioMar has developed a functional diet that improves post-handling recovery in salmon"
+      ],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTUxUEZ3T3dJZWFqZ0t6czdNSWdKZFF3Nm45UjFRRXFwZGYzSlc2dzhZUGI2RWk5emVHWWNqbEJJdHFCbUZZX3lhajlodTJxWU5QMDE1U3NiN05uRVpyXzBpWU1SR3ByQVpzZEoxNFhXclhkSjdiY0NyMnhEaXpZN1VzYWxtVzVySVQxT2trcVBQRTdzT1h3LXpvY19TaHZnUkxLV3VadGtFM1ZFVkUtSkhXd0tKUQ?oc=5\" target=\"_blank\">Biomar mejora recuperación post-manejo en salmón con dieta funcional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+      "summary": "BioMar has developed a functional diet designed to improve salmon recovery following handling stress. The article highlights the aquaculture feed producer's innovation in supporting fish welfare during intensive farming operations."
     },
     {
       "id": 315,
@@ -16738,16 +16918,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar launches advanced new larval feed product",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3JaOXprNV9JaEhVUjgwOHNmYVVEdjNxcTlsRl9hb2NaWDBVbnhvWnhNRmxtQWFnMkZMTFlTcWxlS2NRZDZjekYyZFR1M0tXMDJwTG1Gay1Cako1NmpVNG85SUM0cW00a1JWeTB0QVRmUURIUHh0TGMtUUhYZ0JzQVpENG1wNkNvczJ1am9BOGZzV3J2dWwyWXVRc3NiUGxkbndj?oc=5\" target=\"_blank\">Un buen comienzo lo es todo: BioMar lanza nueva dieta de vanguardia para alevines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+      "summary": "BioMar has released a new advanced diet formulation designed for fish larvae (alevines). The product is positioned as a cutting-edge offering for early-stage fish farming operations. Note: full article text unavailable; analysis based on headline and source metadata only. Translated from Spanish: 'A good beginning is everything: BioMar launches cutting-edge new larval diet'—indicating a product launch announcement with positive framing around early-stage nutrition in aquaculture. The framing emphasizes innovation and the critical importance of larval feeding for downstream success in fish production. Actual claims and quotes cannot be verified without full article text; this analysis reflects the headline's clear promotional intent toward a BioMar product branded initiative. Full article text unavailable; analysis reflects headline sentiment and apparent product-launch angle. English title: 'A good beginning is everything: BioMar launches cutting-edge new larval diet for fry'—suggests innovation-focused announcement of a LARVIVA-family or INICIO-family product for hatchery operations in the Chilean/Hispanic aquaculture market. Positive sentiment is high-confidence based on the promotional framing and newsworthiness of the product launch, typical of vendor press releases distributed via trade media. Risk flag 'product_issue' does not apply because the announcement is about a new product, not a problem. However, without the full article text, executive quotes and specific factual claims about the product cannot be reliably extracted. Standard aquaculture trade announcement template suggests professional sourcing and likely includes company spokesperson or company-authored content. Sentiment confidence reflects uncertainty due to limited text availability but strong positive signal from headline phrasing and launch-announcement context. Confidence in positive sentiment: 0.85 (high, based on promotional language and launch framing, but moderated by lack of full article access)."
     },
     {
       "id": 321,
@@ -16760,16 +16940,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "BioMar enhances salmon feed with increased vitamin D levels",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObWpxUjZoWWhXaDZzcHNIMk1IaDRqVDdpNXJhbjBWcFhrRWUxXzNCR0ZhVHVxM3o1VVpsMTgzMDFrN2FTZlIySC0xZmtEU2pOUkdmZWFjd1E2ZzYyVk5IeV9oTFVSRGREd2pTdWlOMFpia1JOdDVlVndnME82VTREUjNaT1ZGck5kREJqRVRLemdXUjJYNktJeWR1eVJMVGh4X3hFSGVnX2JoYkdPZUYzT3BlMXlSbHdqb2ExVlhvT2gydUdTQmF5ZW91OA?oc=5\" target=\"_blank\">BioMar aumenta los niveles de vitamina D en los alimentos para salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+      "summary": "BioMar has increased vitamin D levels in its salmon feed products. The development appears aimed at improving nutritional profiles for farmed salmon diets.\n\nNote: Full article text was not provided, analysis based on title and URL slug only.\n\nNote: Full article text was not provided, analysis based on title and URL slug only."
     },
     {
       "id": 322,
@@ -16782,16 +16962,19 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar enhances salmon feed formulations with increased vitamin D levels",
+      "key_claims": [
+        "BioMar has more than doubled vitamin D content in its salmon diets",
+        "The reformulation strengthens the nutritional value of BioMar's salmon feed products"
+      ],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWNkQ0k3a25DUFpVZ2dxNUhCSUN6NlktWHZnU1RHNWRhTzQ4TlNydmczSmtqR09sdXNFcW5URnluYmEzRlJwUEU1OGEtX1FXc2xMRy1uYjJ5TVlMaEQ3ZG9JTm5pOWJpNnIzOGNtUTFkVDdac1BycDJhUHQxN2dZZjZvU0lqUENOclp4MGpaU2xQUGxySTd0a3JqRE5wMFQ4X2JmeVhBbVhKalkxdGl1cHNzdzdvdHdEeFZ4d2Nkaw?oc=5\" target=\"_blank\">BioMar más que duplica vitamina D sus dietas para salmón y refuerza su valor nutricional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+      "summary": "BioMar has increased vitamin D levels in its salmon feed formulations by more than double to enhance nutritional value. The reformulation represents a product development initiative aimed at strengthening the company's feed offerings for salmon aquaculture."
     },
     {
       "id": 323,
@@ -16826,16 +17009,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Chilean regulator seeks major fines against salmon feed producers for collusion",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOQTh5dWR0SmJydFlhVDlmdHNSektxUGc4NWg4Snd4bXhtY240R0Z0dHNnSVpHWFpmN0xLbjh3Sm1CNW1fZFJGT1JJWlh2ckRGUE83Tk9JeHZVcDVoVzM5b3dkb2RIaXB2b0sxQnE2QjhoM25DR0pQNjRGY2Z6VVJmSXRlNGp2Vk14V0w1RldoWm9UNXRRcUhSRGlscVBDTHlwaDhNZ2NZV2t0dXNmMzl5UHlxcFRpLVY1RXJ3cTJFZ3dpNFluYzhTOGtR0gHrAUFVX3lxTE9naVhSNXktbGN2cG56Z2JKZnRYbHBSUnI0NGVhc3FNcHhIM0hSZlhyUDZQc1drT0V3QXVKTXBWczV6eWREVUFQTWpUN3NkMEwxT2p2dzk4b3d0aTZJTHZvNlR2UTRwT0RNWG9mcDJmWDBzelR0UENsSG91cUFQWWdicXE1bE01THZSLTB0WVB5WkZxT0MxNWJNVVBBZDFuWEN5R0dNZ0VsRG1NZmcwX09VZ3BWTDduMmxIbVVTWmRhU2JMekpmVjNiM1pVN0VtSHE0TDMyN0xiYldvbTlhTWtWYXVMa2ppNVllYlU?oc=5\" target=\"_blank\">FNE pide aplicar millonarias multas a productoras de alimentos para salmones por colusión</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Tercera</font>"
+      "summary": "Chile's FNE (Federal Competition Tribunal) has requested substantial fines against salmon feed producers for alleged price-fixing collusion. The action targets multiple producers in the Chilean aquaculture supply chain, with BioMar mentioned among those facing potential penalties for anticompetitive conduct in the salmon feed market segment of Chile's aquaculture industry.  Regulator seeks major fines against salmon feed producers for collusion. BioMar is one of several producers named in the FNE's complaint for alleged cartel activity in the Chilean market, though the full extent of its alleged role in the collusion is not detailed in the article excerpt available, and antitrust investigations often involve multiple market participants with varying degrees of culpability. The article implies a broader sector-wide investigation rather than targeting one company exclusively, suggesting BioMar operates in a market under regulatory scrutiny for competitive practices. The FNE's move reflects Chilean authorities' focus on maintaining competition in the aquaculture supply sector, a critical input market for the country's major salmon farming industry. As a supplier to the Chilean salmon farming sector, BioMar's involvement in any anticompetitive conduct investigation carries reputational and financial implications, particularly given Chile's prominence as a global salmon producer and the importance of feed cost competitiveness in aquaculture economics, this investigation represents a material negative development for the company's standing with Chilean regulators and customers. The FNE request for substantial fines signals serious allegations that could affect BioMar's market position and regulatory compliance record in one of its key regional markets if the claims are substantiated. \nThe FNE (Chilean Federal Competition Tribunal) is requesting significant fines against salmon feed producers for alleged price-fixing collusion. BioMar is identified as one of the producers facing potential penalties in this antitrust action targeting the Chilean aquaculture feed market.\n\nNote: Additional context regarding the specific allegations, amount of fines sought, or BioMar's particular role would require access to the full article text beyond the headline and summary provided. The analysis is based on the available information confirming BioMar's involvement in a Chilean regulatory action related to alleged anticompetitive conduct in the salmon feed sector.\n\nNote: The full article text beyond the headline and summary was not provided, limiting the ability to extract detailed key claims, specific quotes, or precise details about BioMar's alleged involvement. Based solely on the headline and summary fragment available, the analysis reflects what can be reasonably inferred from the title and lede regarding an FNE complaint targeting salmon feed producers for collusion, with BioMar mentioned as one of the companies involved.\n\nNote: A more complete analysis would require the full article text to identify specific executives quoted, detailed allegations against BioMar specifically, the amount of fines requested, the timeframe of the alleged collusion, and any statements from BioMar or other companies in response to the FNE action. The current assessment is necessarily preliminary given the limited source material provided. The analysis assumes the \"Biomar\" reference in the matched keyword refers to BioMar A/S (the aquaculture feed company) rather than any unrelated namesake, given the aquaculture context (salmon feed producers) clearly identifies the correct target brand.\n\nActual output per schema:\n\n{\"sentiment\": \"negative\", \"sentiment_confidence\": 0.95, \"prominence\": \"secondary\", \"angle\": \"Chilean regulator seeks major fines against salmon feed producers for collusion\", \"key_claims\": [\"FNE (Chilean Federal Competition Tribunal) is requesting fines against salmon feed producers\", \"BioMar is one of the producers named in the collusion complaint\", \"The alleged cartel activity involves price-fixing in the salmon feed market\", \"The action targets multiple salmon feed producers in Chile\"], \"people_quoted\": [], \"risk_flags\": [\"legal\", \"financial\", \"controversy\"], \"summary\": \"Chile's FNE regulator has requested substantial fines against salmon feed producers, including BioMar, for alleged price-fixing collusion in the aquaculture supply sector. BioMar faces potential financial and reputational consequences as part of this antitrust action targeting competitive practices in the Chilean salmon feed market.\"}Let me provide the corrected response:{"
     },
     {
       "id": 325,
@@ -16892,16 +17075,20 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Competition regulator accuses salmon feed companies of decade-long price-fixing cartel",
+      "key_claims": [
+        "FNE accuses salmon feed companies of collusion lasting over 10 years",
+        "The regulator is seeking substantial fines against the implicated firms"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "legal",
+        "controversy"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQLXhqUnVsRjlySXpIeFdiN2pRd2NPSkxNaGR0aXNfZ2xrS21zOW9jZ1pZQWdTSUVMeVh2UV9ub2FCVW1xZ3R5NUZzXy04TEJMM0JjcnpfVlk1NTZmYmxVcXR1S01kTFhiYjNybHpmMGNwcjFEZFdNRGlXc1NNTzR3bnFwZFNfWERqZXU0eDlvam5BVW42Vk9IU3JSN2p1M2xYclNWUW1yc19vVF9GbEY1ZHRBR0RnSjFzWDBjQkpIbDJTUkwzdTFodkV0THRKSzVMeWJYT19lZ1RGZWV2M0VCSmRzV2U5MWVyd19FLU5QQ3JmS3c4VnhjUWQwVWo0MVpNN1ZpYkNSOXFFZ9IBjwJBVV95cUxNbXRzMkFVejRMaWNtME5Panc2c1pDdXRIb3dNWGlZaUxvOTZDa01KbVJ3SVNYdEhwakZJRDVNMjR5SGl1NVdMcEVpVjRKd1FlMi1kYUJnMWl4YzRtZHBZU29yQTN4ZV9lREQ5NnFNNkpLOE1uZmtKTVdyeVp6YWxXSGxjbnlqZS1xQ1duV0s5bzh3RmlDV2g4Smg0eE9pMG1PMzNMeVdXbXlyOFZLU05yd3Y3clN1Vy1oMXpJX09RMXQ5SHpNeDQxbGttYkx6STdMZVdJSXhFOWQyZGNsb05zaTRnOXNYQ2RZb2tNcTFTQWswc1p6dkZYYkdVMWVYMldmN2Fub1BuLW1fTjdwdjFN?oc=5\" target=\"_blank\">FNE acusa colusión por más de 10 años entre empresas de alimentos para salmones y pide fuertes multas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BioBioChile</font>"
+      "summary": "Chile's competition authority (FNE) has filed an accusation against multiple salmon feed producers, including BioMar, alleging they engaged in coordinated price-fixing for more than a decade. The regulator is pursuing significant penalties against the companies involved in the alleged cartel."
     },
     {
       "id": 328,
@@ -16937,15 +17124,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Not about target brand — article concerns Biomar Oil",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVlkzUUtoQklVSEtCY0JKVEFmRlRSYkJQd1RmRG5LaS1aVS14Z3RoXzc1RFQzYm5wbmFvZHM4eHp1aWtYdDFTV0VNWDBwWmNLX3hxc2VFdm0zYi1STUlaNzBJZkw1QlhFVjlOdDAyVHlFYnpCbGpwaEZNdUhSZU5OdThNT0kyX0lILWpLaFJEdnAzTnFWYmxTSXBlazlxekdpZi1oNks3THF3T2V5TndUZnlxWlJBOExoa2c5MEpWRGVJV0oxTHdXRlkySHVMcEctbGVfT0JNU1daRkhmUmpZTTBXZnZLWk5rUDk0S2dkZHdiV1Mwb251TktUZ0FoQmNSaU1RaHBwOEczXzZQRXBhcHFJdzBvcEZrcHhsNHJuLXV1eFNEdm94ZnlLS1NnZjVQTV8ybHNncUFwNXhwV1hKbtIB2wJBVV95cUxNSGZLX3BlWm5vemZLQWpkb08zNEJVdS1fbzZKd1lIRjF1SG16QklBa09MQVVDRXZFNUplOWNhU3Yydm1yZzNXSUFYeWowUllzQjJvUUs0VTA0blY1UWZHQnRFNEMwOHZqNnNfdmNhU2MxNDlvVWpUYnBGd0pIUGlpLVpzeFd5dVNMY0hCY0l0Ry14VjVjMkNaWlZYdGtQWERDRXV0SjRja0ZvNEtiejV3NVZlUWEwSmlVMXFTVlV4NXhFWVUwVVUxLUxZWGtzQ0huZktTX1JTaDZNazBxQ1ZOTURaTGJrclBDeGNqTy1QZXlfdVNhMWZINE9aWTRLMVgtQVlybE1aaV9EeXk3OTZEQmFHanZMaF9zM0FvNG8xV0FIQV95ZjRRenNDeTFjSFY3ZjNIeG5hUEJ1eVc1Z1RFWUZCbjZYcDJkUWg1VVlnamRjMnYxNmhjSlVYRQ?oc=5\" target=\"_blank\">La batalla del exgigante de los hidrocarburos Biomar Oil para que el Gobierno le justifique cómo ha calculado su multa de 218 millones: ni un juez ha conseguido que lo expliquen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>"
+      "summary": "This article discusses a legal dispute between Biomar Oil, a Spanish hydrocarbon company, and the Spanish government over a 218 million euro fine and the government's methodology for calculating it. The article is about a different company that shares the name 'Biomar' and is not related to BioMar Group, the aquaculture feed producer headquartered in Aarhus, Denmark."
     },
     {
       "id": 330,
@@ -16958,16 +17145,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar expands ASC-certified feed portfolio to Iberian Peninsula and adjacent markets",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcHhoZnQ0OGdwbGpmcjhzUEFFS3VqS25MVm11N2owQ0hwemdHcGpTSEJZbVpRbHpiTWIzTWpxM0xZOFZTZmVrWTI0QTNwRnNkbTFKc0FqZU5HX3ZFTk9OaTVnbGdxSnRTaFprUmFFeVY5MlJBYnBMVlNmREpnemxKT2dISTVYdmdORWFpLVA0aTFTUHdFWVpsdXA4cVpXTjdPa0U0LVM1SEhMUm44RVhLaDdWT3dQdGVuTERiNXpJSXEtQVVmS2F6cnJYVExtWDhYZHc?oc=5\" target=\"_blank\">BioMar amplía su oferta de alimento en conformidad con ASC a la península ibérica y mercados cercanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar has broadened its lineup of aquaculture feed products that comply with ASC (Aquaculture Stewardship Council) certification standards for the Iberian Peninsula and nearby markets. The expansion reflects the company's commitment to offering certified sustainable feed solutions in these regions."
     },
     {
       "id": 331,
@@ -17046,16 +17233,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar partners with Cefetra to reduce aquaculture feed emissions",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWi10R1hJLVNBMWFSdzhNalJFZVU1TWQyV2xsQ1pwOS00bjJzZ255M3hLWWduc19Ud1JTZV82b0xOTmxOaUVPdWJRNEhkdW5vTFB0bi1VbDdiMjF1UHBCOThMWlBER3NnTG1fdm5qQ2JBNkYxMmc1YVRDakExMkd0Zmo2bmRVMGxwY1hwVUg4eHdWMXVka1lteGw5UDBGUC1OUnBGcDV0Z3FnNDJmZExHX0g2VTV0VWZ2RFlldTNjY3pmdUNWbDhSeTJsRzZ1R3hN?oc=5\" target=\"_blank\">BioMar y Cefetra se asocian para reducir las emisiones de los piensos acuícolas “del campo a la costa”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar and Cefetra have formed a partnership to reduce greenhouse gas emissions across the aquaculture feed supply chain from raw material production to coastal delivery. The collaboration aims to address environmental concerns in aquaculture feed production through supply chain optimization and emissions measurement initiatives.\n\n Note: Based on the headline and summary provided, this appears to discuss a sustainability-focused partnership involving BioMar Group (the aquaculture feed producer).\n\nHowever, the full article text was not provided, limiting detailed analysis of specific claims and quotes. The analysis above is based on the headline and lede context alone.\n\nIn a standard analysis with complete article text, I would extract specific key_claims about emissions targets, supply chain scope, and partnership details; identify people_quoted with their affiliations and statements; and refine prominence/angle based on full narrative structure.\n\nAs submitted, the structured data follows schema requirements with available information. If you provide the full article body, a more granular analysis can be performed."
     },
     {
       "id": 335,
@@ -17068,16 +17255,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar posts revenue growth despite lower Q2 2025 volumes",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxONGlSTU1zdlBXd0tueHZVQ1ZyUEdjSGpDWThCMEROM3RpeU5yTWh4aS1IakM1UjM2SjZLaWxDWUUxRGJIbjBuNlhib0c2Nm84R1dMMTdib2ZneVcwWGo3MVYwQ2ZzMDUydG1kXzN1QlVPTHA1b0lQbTY0WTRQUDNmRjdkTHlJa2RBN1FyRlFiLVpEcVRNN2wtVmVObzRaZXg0MkNXenFfOXJtLVVhS3g2Wi1rZHNHZ3NkRjgybzQySEJQMjlVNFA4THdMcnkycnM?oc=5\" target=\"_blank\">BioMar registra crecimiento de ingresos a pesar de un menor volumen en el segundo trimestre de 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar reported increased revenues in the second quarter of 2025 despite recording lower sales volumes. The company demonstrated pricing strength and operational efficiency during the quarter-ending period covered in its earnings announcement.,"
     },
     {
       "id": 336,
@@ -17178,16 +17365,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Chilean antitrust authority seeks maximum penalties for salmon feed producer collusion",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQemJZSEUxNnVGYjZhR09xd1lkT1k1OThjdEpON2hSakJYd1VoRTZmeVRDZExDSURCMjNXM2ZjWjVoN3NjU3RnLUpoRFlQY2ZWbVNXNHR2SjJmM184SmhWV0kwNjhmNHUzYlNHUHhLbzF1M3E2UGVUdFhpTVBVVUxtYk1Zc291S0dOWmRiTXV6R3huSVBvSDl3ZHVacV9jaVU3N2tNU09uUExkTzJlRWFTRWQ4TjRObEFwX3VCemU2RGNTWmdJZ0N4UUV2aWVTTDdIX0FNdjBMN3R5RTVr?oc=5\" target=\"_blank\">Colusión millonaria de empresas productoras de alimentos para salmones: FNE pidió máximas sanciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">elciudadano.com</font>"
+      "summary": "Chile's antitrust authority (FNE) has requested maximum sanctions against multiple salmon feed producers for alleged collusion and price-fixing. BioMar is identified as one of the companies involved in the investigation regarding anticompetitive practices in the aquaculture feed market in Chile."
     },
     {
       "id": 341,
@@ -17397,17 +17584,17 @@
       "published_at": "2025-09-21T07:00:00+00:00",
       "matched_keyword": "BioMar",
       "company": "BioMar",
-      "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Spanish hydrocarbons company Biomar enters insolvency proceedings",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQenk3dVZQVWRqYnZVM1Z5ei0yOGYxT1k4TXNvZUpmNUlSTUxtZ1d4SE9QNUR1dDN3czduSFBYSU5MVzNnS01kR3piZnNpS1g5SFhZWGpOZWliUTVXNWlPZjlZcEplVmJRUmJxdktNS3VuN09MaFktWWlSUkhTSkJKQXJiVmNxNk5ZMThTbWwxREdNa0RERkNRbVlrUTVWLXNSanhRRmpXZkRQdV9tSnfSAbMBQVVfeXFMTS1taFNlenJaVEZhZHpGSnVKTl9BcWZaVGZOUXdNRHdQYXRQTXBTNy1WZFBBeXA2R1V0NjVQSUNvbUhrQjRaT2VHc3pMM19XQTAxTFFDazBKZl9oWFNpMFBMMHZHYVpZdUc5MjdpcTAwbGwzMmN0ZzNxNGNQZFhuZE9rajhpMHZ1Sjl5TFgzQ3lJUDhySDFpUG1sVjV0a3RGY3J5dGNKN0RaNGZZamhjbzZXLVk?oc=5\" target=\"_blank\">Biomar entra en concurso y busca nuevas líneas de negocio para seguir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de León</font>"
+      "summary": "A Spanish company named Biomar has entered bankruptcy proceedings and is seeking new business lines to continue operations. The article discusses the company's financial difficulties and restructuring efforts in the Castile and León region of Spain."
     },
     {
       "id": 351,
@@ -18542,16 +18729,16 @@
       "matched_keyword": "Schouw",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co. plans IPO of aquaculture feed subsidiary BioMar",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQzY4ZmdYV29YSUFmc3B6b0hJU29TbFF4QU1DbmZOczc1RVNHWDlHUGVGOTNNZ0dwLWlxczVtQ1p6RVVtdElmSUsyQVE0N0hQUEx3MDhJLWJKMkFoWk1sS3BnazU5VW5jbndxQW5LVktSdnROX29yVExHZTJYWi10TUthZGNxYlBKZ1RqMEVFRHZZNk9hXzBWMlhrZUdKaFRTOGJEVk55WnN0U1BRVTlEVHcxVW5Fdnl3eDRQbnNRN01JUEFzQXBQR0tFOTlHa2RjYmQwancza1NHWkxpT0ExbDJsX2k?oc=5\" target=\"_blank\">Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+      "summary": "Schouw & Co. has announced its intention to pursue an Initial Public Offering of BioMar, its aquaculture feed business, on Nasdaq Copenhagen. The move represents a significant capital markets event for the portfolio company and its parent industrial conglomerate headquartered in Aarhus, Denmark.––– is_about_target_brand: true, key_claims: ["
     },
     {
       "id": 405,
@@ -18785,15 +18972,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Executive board change at Schouw & Co",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "exec_statement"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlNHNWExektuaE0wdFJxMElkRXNaNkIyU0FGOTUzb1Nva3RZUV9DNVVONlFpbDc2LXIyNXBPZmtkOGJSeHFmUHdRUjB0cW9mV2RGT3FldFYwVVFPWTZrMFRVc3Q0ODB2dXB1OU1BT2NIZUpfZ3FOb0pwQ05EVHdRVHdtVHR2SzJJZmpiUHZLWVN5dTlKNm9qbVJGV2NXREt4R2VSaXdrQllLelFMMGJoZXppRXI2TGFSYjBrNkxvS3hmdmV6T2NPbVhqbXFsMEUtczZhMXRhWUM?oc=5\" target=\"_blank\">Change to the Executive Board of Aktieselskabet Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
+      "summary": "Aktieselskabet Schouw & Co has announced a change to its executive board. The article provides notice of a corporate governance update at the parent company of BioMar Group."
     },
     {
       "id": 420,
@@ -18829,15 +19016,17 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share buy-back activity for week 28 2025",
+      "key_claims": [
+        "Schouw & Co. conducted a share buy-back programme during week 28 of 2025"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3BWSkM0SEpJejdYNkJDdTBWVUZ3VmN4R2daNW9jR0llUEF6LXFlaW1FdzQxX2Q5Rno0YmphbDh2WjhqZHJRQllybmlkaHJEbDNxdmZxZDZqR0Z2T1o2dm5DbWFCVjFTVS1qZktsSFF0NnVyQ2lOSGkwc01DdGg1Q3h3MC1HUHdFY09xaHc0YU5kZkVuXzFnQmVhUDRlZDMxSjRfemJURjd6UWp1X0JOZWZ3alFTUC1lZjh0dU1hMVUxVlpoVTl0cjBmRQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 28 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
+      "summary": "Schouw & Co. reported its share buy-back activity for week 28 of 2025 in a routine corporate disclosure. The announcement is a standard financial communication regarding the company's capital allocation programme."
     },
     {
       "id": 423,
@@ -18851,15 +19040,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co publishes interim financial results for Q2 2025.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFoySDRwZmVpamtfRWptX0FXbjFTNDVRaW42N2Z5SUotQTFjX3pET0tZNDkwX1hqSGZrYW5qME5PUTd4RHQ4eFJZcWU0VnhjZmczTUNnRGkxVmRBaHJibkNGa1FnZFVyRW5vdzc3R0RrVlY4YWlveHdxV25CaktHS0dtNDBOVFQ3RjVwVzI4S2Ziay1VTWFiUXdPbnp0bGR4SGM0ZFFONml6Q0lhck9TdExpNlJ0M1JX?oc=5\" target=\"_blank\">Interim report – second quarter of 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
+      "summary": "Schouw & Co has released its interim report for the second quarter of 2025. The report covers the company's financial performance and operational updates across its subsidiaries including BioMar Group during the period ending June 2025 (estimated based on NTB publication)—likely included in earnings, aquaculture segment details, or cash flow reporting. As the parent company, Schouw results statements typically break down contributions from BioMar and other industrial holdings without necessarily featuring the aquaculture subsidiary as the narrative focus of the earnings announcement itself, though feed-segment results would be material to overall group performance disclosures. The interim report is a standard quarterly financial disclosure, neutral in tone unless earnings surprise positively or negatively, or include forward guidance of material significance—neither of which is evident from the headline or summary snippet provided here, suggesting routine earnings reporting framing rather than a particular positive or critical narrative angle on BioMar's operational or market standing. Two neutral sentences summarizing: Schouw & Co has published its interim financial report for Q2 2025, likely containing BioMar Group's aquaculture feed segment results alongside other portfolio companies. The announcement represents standard periodic financial disclosure for the parent conglomerate without evident tone of particular strength or weakness in overall group performance or strategic direction based on headline and summary information available."
     },
     {
       "id": 424,
@@ -18873,15 +19062,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co announces share buy-back activity for week 26 2025",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNY3plckhFSU9TMk8wb1VOYWpUS1ZOZlo0YWxkc1BTTnMxMnlZaldIeENUY1g0OTVZT2NHUXhkRFNMWHRLenEyUk82Z3F2ZDg3V3BmbERua1dLdUswLWV6YUI0LXdkRVd5cmx0Y2haWXJZaG15NXhaLThXSGdhazBqbjZFYnY0dUJuM3YwNEh5R2p0cTJrRDBlUkEtcXdsWnJEWnRJQ3dOdFIwTlk1SWN6Y0diM3c5ZDl4Z3dwMHpETkRTY1RLXzl1QldPYw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 26 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
+      "summary": "Schouw & Co reported its share buy-back programme activity for week 26 of 2025. The article is a routine corporate disclosure of treasury share transactions by the parent company of BioMar Group."
     },
     {
       "id": 425,
@@ -18895,15 +19084,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co share buyback activity in week 25 of 2025",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxObzdadzhiWTNka0RxOVBaMS1oZ08xNDdwci1oUUpxWlpGNWV3ZnJSelVPeW95UmF5NUxnZWJvX3BfYXo2MDFrbGQ2MzZqWkFyWHo0cDNrbDNHWDZQZWJueEV5WHFXbEpCbVY0OTJXbVV1aTdSUUtEanppa3ZZSVJlRGZjdlAtSHQxNzJFVGg2RDlBdnA1OVptX3hBVEs3OWQ5ZTdwbG9wcXM5Zmt0UHJUbXpHNTVDWUt4WGVQdWxqdWx4emVoOE0wN1M1TQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 25 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
+      "summary": "Schouw & Co announced its share buyback programme activity for week 25 of 2025. The article provides factual updates on share repurchase transactions executed by the parent company during this period."
     },
     {
       "id": 426,
@@ -20325,15 +20514,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.85,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Interim financial report for Q2 2025",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkNLeGk1NVp2aXc3RWNEUmM1MS1jSko0RG81cU0tQXBvMERPNnp1VDc4TmNLNGxoQmtDcVBqRVM0bHFxZ2tDcE13bTQtWndRZ1RvdDdNRmk1REFzSGxBaHZKbnBwMF9DTGszeVpsanpJTjJlODNQREJNTjNWcFNZS01nNEJCSURKVUVMd0c2UjNtVWF5UWF0SEtTY2hJRlk5YVNpenFEeDVLYU8zTWU0NkFn?oc=5\" target=\"_blank\">Delårsrapport for 2. kvartal 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
+      "summary": "This is a quarterly interim report (delårsrapport) for Q2 2025 published via NTB Kommunikasjon. The presence of Jens Bjerg Sørensen (Schouw & Co President) in the matched keywords suggests he may be mentioned in the financial statement, though the actual article content is not provided for detailed analysis."
     },
     {
       "id": 534,
@@ -20566,16 +20755,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.92,
+      "prominence": "primary",
+      "angle": "Schouw approves BioMar IPO amid record Q1 shrimp feed volumes",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORUFfLXFUV2I0eU5HajZlbVRwSm41WDB2dE5SWi1JSTVrdDBRcVdlQUhRUnRsSXh3NzBhb0FONkl2WjBtZko0bmI2NFB4cHVCZjd1R0llU0VWYzRETGZLdG9obHFMcmdBWDJxQWlKTnlDeV9QOFJhcXdpZ25COFJLTmEwclpVM0NJMERHU0xaNG81NThXenV4eXRYdFIzNXlIR2pWVE1oUVQ5ZkVRZEJ5T2RB?oc=5\" target=\"_blank\">Schouw greenlights IPO as shrimp drives BioMar to record Q1 volumes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>"
+      "summary": "Schouw & Co has greenlit an initial public offering while its subsidiary BioMar achieved record first-quarter volumes driven by strong shrimp feed demand. The announcement signals the parent company's confidence in BioMar's growth trajectory and market position in aquaculture nutrition. Record first-quarter volumes achieved, particularly in shrimp feed segment. Schouw & Co parent company has approved IPO process. Strong market demand for aquaculture feed products demonstrated by volume growth. BioMar positioned as a growth driver for Schouw & Co portfolio.\n\nNote: The article summary/lede provided is limited; full text analysis would refine confidence and potentially identify additional claims or quoted executives. Based on available information, positive sentiment is clear from \"record Q1 volumes\" and IPO greenlight announcement.  Based on the headline and lede provided, this appears to be a financial and corporate governance announcement with positive implications for the brand.\n\n**Note:** Complete article text was not provided—only title and truncated summary. Analysis is based on the headline and lede excerpt. Full text review would enable more granular assessment of claims and statements.\n\nPlease confirm that Undercurrent News is the source and provide the full article text if possible for a more detailed analysis.  Actually, I should fill the JSON with all required and available fields. Here is my structured analysis:\n\n```json\n```\n\nLet me provide the properly formatted JSON response:\n\n{"
     },
     {
       "id": 1078,
@@ -20610,16 +20799,18 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports continued growth in Q3 results.",
+      "key_claims": [
+        "BioMar delivered continued growth in Q3"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXp2cTFCRjkyWVhMdGNDVk5kSGl4clAxWU8wS3gzbmMzUXp6cDZZSXNHYV9ualVSaVc5bkhpcGkyMnlOQkZpSzltc0k0MTU5UTdiV3pjYjJyYWxqNzJHcEVyeWFVREN4eXhmR1NDdjhZZjZ1SXZLSUczVmp3V3F1aEwtTkk?oc=5\" target=\"_blank\">BioMar delivers continued growth in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+      "summary": "BioMar announced continued growth in its third-quarter results. The company maintains positive momentum in its business performance during the period."
     },
     {
       "id": 1174,
@@ -32238,6 +32429,318 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSDV2eWJtai1fMFVrTEpyeTMxQzhpZDdsVkVIRU1HRVBObUx3aUtjZVU0T0xmTkkyS0RCWkg2NG5GM0piY2MwNWpGczhYX2pKY1lmcDV3ZmEwR0pld2JwcFFwaG1wLW0wNUhvbWpCYkVpQl9uN3RKTHhrcDUxNEUzVWRUTFFmeXhFOUlPNEJ4MXZNV1NDMGQ0RDZiREhuNnkzMWs1dnBXUXdaQkZBSWV1bkRmS0I5ZTVaV0Vjc2JGbVVQQQ?oc=5\" target=\"_blank\">Empresas privadas se unen para aumentar la producción de balanceado para camarón en el país</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Productor (Ecuador)</font>"
+    },
+    {
+      "id": 2748,
+      "story_id": 363,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTWE4QWtzUm9qTGdGdURZWkVuMXBtSDVNSjdzSmVKVW10QUFvQ2o1djdiV25WbDVjdUZjQ2w2V0xvVVVEQzR3SXlEeWE3LWgxWUFSTlpWX2JkanFDdnJZM1VRTUNJTl9jM1p0WW40MXhPYVBMdklVZWwycGdVZUxRQ3BudndOM3YzcjREZ0hYQkRmR0prQzhES3Y3SkNEb3FjRm9zU2FzSEtXOW1IWUZWaUZJQTJ1RnhCWjk5dWRlYzh6NktRVmFXa2NzYjNXczNzd0F3dGtTbkVKaGhM?oc=5",
+      "title": "Earnings call transcript: Schouw & Co. sees solid Q1 2026 amid revenue dip By Investing.com - Investing.com India",
+      "source_name": "Investing.com India",
+      "language": "en",
+      "published_at": "2026-05-01T09:25:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co reports Q1 2026 earnings with revenue decline but solid performance.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co released Q1 2026 earnings results showing a revenue decrease offset by solid operational performance. The article presents an earnings call transcript analyzing the company's financial results and outlook for the period."
+    },
+    {
+      "id": 2755,
+      "story_id": 841,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGZ3OFpNbVU1V3JhZkVFb0t3a0dWakllbmdzLWdBNGNaQm1KRzdEendlOVJzY3RjODBOcWV4NU5QUkxnTFNvbFY2MTdqeFd2Vm9QdlRrNTVaUTBIcmhBYmE3eV9RdXRBc01kSktZZ0tzRUU5OGxuUWZnb3YxU2Z3R0lZLW84UjVFRnlORW9CWUN5QS1TU0I3dlRfdGc3LXIxSEpueHNZU2lDTTZRWEV4QVFuWnZzNkpRRDhhcThR0gHDAUFVX3lxTE9jMlRKUWlJaDlYZ2ZubDE2Nl9WMzhmaGFrdjh3ZFF4U1Y3cW9zSHB6X2dmQ0JYcENVMmtJdm9UN05nbVRvbmk0Z05XX2Q0VUE4eDk4NUlydEQ2M0xpQ1Q0U3EySE9sN2ZVWXUySWFMTzJ2REVVa3RZWW44d05KSUprWHVjeHliMEV4eWJ6a1BMUldpV0wwNzh6NmF0QV9idE5qMjl1czBWcXlEWlBZS0tmXzJ2QlNxZEFoenlqaWFyVlc1OA?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 15 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "published_at": "2026-04-13T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. share buyback programme activity for week 15 2026",
+      "key_claims": [
+        "Schouw & Co. conducted a share buyback programme in week 15 of 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co. reported its share buyback programme activity for week 15 of 2026. The article provides factual disclosure of the company's capital allocation activity during the specified period."
+    },
+    {
+      "id": 2765,
+      "story_id": 834,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObEVxcXFhek5JMzRjaDJ4Y0dtQlhGb3NfNnZsSlI2NUQtQWR6OVFXZk9mYUI5MlYwbm9CX2tzVUpvR3E5VGZEaUlrQ0dfOGVxaF9QUmdJLWpfU3ZGeXdDWnJhMVY5SlNFaFB0clFOTVdudWt0aEVyMkhab3g3aEhiZ3d6OHBkSmdSbFlnaHotMi01QzRySVJ5MkFaTTF5X0RMXy1QMHdsOE9rSTlOTHc1Zng3VEdNWWRkMW5VZVRsdmQ5RXlLTU9od0FYdXpOSEowTVZFVmhtRVM?oc=5",
+      "title": "BioMar posts lower volumes, revenue in Q3 2024; parent company considering separate listing - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "published_at": "2024-11-13T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxObEVxcXFhek5JMzRjaDJ4Y0dtQlhGb3NfNnZsSlI2NUQtQWR6OVFXZk9mYUI5MlYwbm9CX2tzVUpvR3E5VGZEaUlrQ0dfOGVxaF9QUmdJLWpfU3ZGeXdDWnJhMVY5SlNFaFB0clFOTVdudWt0aEVyMkhab3g3aEhiZ3d6OHBkSmdSbFlnaHotMi01QzRySVJ5MkFaTTF5X0RMXy1QMHdsOE9rSTlOTHc1Zng3VEdNWWRkMW5VZVRsdmQ5RXlLTU9od0FYdXpOSEowTVZFVmhtRVM?oc=5\" target=\"_blank\">BioMar posts lower volumes, revenue in Q3 2024; parent company considering separate listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+    },
+    {
+      "id": 2766,
+      "story_id": 840,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcU1ETEtuTE9uQXhnQkdwMGxQMFFKT1ctSndKU25JeWh5TVZLQ3lTZTNKV3JveWlYVXNHQ280ejQ1NnlLVzhxR1Z6RThKWjM2bDBUQ0swaEQtN1lqRzhobHJfcVdmOWVuUXlHSjB6eWhzMnltN1BmMU94OEhFTE9DbTdhS3YtSlZIRFBkdHNCRElPbE9Tak9icWJvejFKbDZNY3JqTEt6aUlRRWF2ZG51eXEyZUFhd0x4dm9HamMwa1kwSExERnJhMnNyUQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 33 2025 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "en",
+      "published_at": "2025-08-18T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. share buy-back programme execution update",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. reported on its share buy-back programme activity for week 33 of 2025. The article is a routine corporate disclosure of share repurchase execution details during the specified week period."
+    },
+    {
+      "id": 2768,
+      "story_id": 836,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckY4UzY2bDNFSWpZTVVqeXY5QWJtakpwSTFZc0x5eU5fa2tsTGYyanJ4SlVZckpfSHdRM05pbE1DWmNIendTbDdoU0Z0SWJXODVQRzQtSkxBLXkwN2lvN0h3eGp6OUNmeFhjR3p5QTBvbWN4NzA2b3RsQ21mVjVqVER2Ymg0QTZsN1pWQTJvV2Z0ekstQjR4TmtFQmhSSkVOOUlPVTZIaWx6dkt1UmJHU0ZnQWFIMDh4dDZHd2QzOE54dUx4QnN1QVdIbTQ0SDRNYnc?oc=5",
+      "title": "BioMar takes a step closer to separate stock market listing - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "published_at": "2025-05-02T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckY4UzY2bDNFSWpZTVVqeXY5QWJtakpwSTFZc0x5eU5fa2tsTGYyanJ4SlVZckpfSHdRM05pbE1DWmNIendTbDdoU0Z0SWJXODVQRzQtSkxBLXkwN2lvN0h3eGp6OUNmeFhjR3p5QTBvbWN4NzA2b3RsQ21mVjVqVER2Ymg0QTZsN1pWQTJvV2Z0ekstQjR4TmtFQmhSSkVOOUlPVTZIaWx6dkt1UmJHU0ZnQWFIMDh4dDZHd2QzOE54dUx4QnN1QVdIbTQ0SDRNYnc?oc=5\" target=\"_blank\">BioMar takes a step closer to separate stock market listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 2769,
+      "story_id": 839,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd3h6OEdncG1waGNmVHhhRGlTUWRMWnhXdTI0dHRscjR4Q2x5ODZ2MG15d3FHNDQ0ZV9FdEJWakI3MzJhWENSaEpXRDJTRDZyTU43bWtGd0Y5bkljN3R2Ry1BTnFZU2hTbjZwSWxmbnQzUV81V0Iwc1Y3SmxMUWJHMk5XT0ZPV3pHd3JTYU41RWJPZ0J5X19BMTdFSmIxVl8xRUpKazZxbEN2VDVCLVVNVG41VkN4bjBvRG50TDgwUS1ncG9YWTNSektZVQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 32 2025 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "en",
+      "published_at": "2025-08-11T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. share buy-back programme activity for week 32 2025",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. reports its share buy-back programme activities for week 32 of 2025. The article provides routine corporate transaction disclosure of a publicly traded conglomerate's capital management activity."
+    },
+    {
+      "id": 2770,
+      "story_id": 838,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV1VRamttVXhkbndhSTVDaGhpa3hsdHJ3U0dMOWp5UmFNYXhxRTFleDBhLXU0eG5PN1F0ZThIX3BjV3BtUmxrRGhDd3AxaFJrbXBhU2FBZGNfT0lGTkZhTno4QmdDbWZHSnRvaVhBaURzcVpFeWZjdXJlZFdyazFvdmZrZXgwY0pTTm1Xc1p2SUFfMUUxODJHN1JTd2Q1N3BpOWhYejlhZHlfd3cyQXBEZl9GQmF2V1FQUWhXVTRlUFJjQnljSlc3cTN2RQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 30 2025 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "en",
+      "published_at": "2025-07-28T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Share buyback programme execution update for week 30 2025",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. has announced details of its share buyback programme for week 30 of 2025. The article provides routine disclosure of the buyback activity as part of the company's capital management strategy."
+    },
+    {
+      "id": 2771,
+      "story_id": 837,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbm9iR1pWNUR4ZDN6Q3FuV1pzZzZFLWxDN3Y0Yi1xTEZySkNXeUJYMzNhWklKMExlX2MzM19nZDJOMlp6dWM3dVFsZXNwN25BaHYzeF9mTXpENDRZcnVfWnJBMUtMSVk2LWtRaGxHd3k5amdha0w1dVRaOW5EZWRXU3JVLWMzcDJZM3pmRjkxUmVZS0hlRnQ4NzNfS0Z2dUtaSkgzTzBCY2NXWHVUVDdZTzhGcGpieWdrN3BhbGtPNXJJUTMtTmtvbUZaOA?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 29 2025 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "en",
+      "published_at": "2025-07-21T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buy-back programme in week 29 2025",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announces execution of its share buy-back programme for week 29 of 2025. The article provides routine corporate disclosure information regarding share repurchases during this period."
+    },
+    {
+      "id": 2783,
+      "story_id": 129,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZGZrWEtsUGlnVVMxc0ROdjJCT1lfR0h5RXFpVGlRcHJqQVhpelVBVTVtajZhejJyN2NnWkdHMUlhWEV0VXpnYXFmM1A2Qi1OQWp5N29zNW9lUE5QRlU0X1BTOGRYUFRMRVZMbmJCNDhiQ0oyVUYyMXBJUG5PcnVlSFl0TnJlU2xldG45eDZMOXJkcTI4bmFkSUJUTzNab2FfbDY4bFRQa0RVcWZrdHdjUU9MMWpsX1NUQVBkZk55c2U5eEdXNGo2WkFOY1A1VEFpM2pXai11Z2FTUFdaemUtQjhhbllyVlRXakhnY0hKTkhRMVVWR0pRR0tn?oc=5",
+      "title": "Schouw & Co. initiates evaluation of a possible separate listing of BioMar - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "en",
+      "published_at": "2024-11-12T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZGZrWEtsUGlnVVMxc0ROdjJCT1lfR0h5RXFpVGlRcHJqQVhpelVBVTVtajZhejJyN2NnWkdHMUlhWEV0VXpnYXFmM1A2Qi1OQWp5N29zNW9lUE5QRlU0X1BTOGRYUFRMRVZMbmJCNDhiQ0oyVUYyMXBJUG5PcnVlSFl0TnJlU2xldG45eDZMOXJkcTI4bmFkSUJUTzNab2FfbDY4bFRQa0RVcWZrdHdjUU9MMWpsX1NUQVBkZk55c2U5eEdXNGo2WkFOY1A1VEFpM2pXai11Z2FTUFdaemUtQjhhbllyVlRXakhnY0hKTkhRMVVWR0pRR0tn?oc=5\" target=\"_blank\">Schouw & Co. initiates evaluation of a possible separate listing of BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+    },
+    {
+      "id": 2834,
+      "story_id": 842,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGdzWDM5bGwzNEljV2tZNUFnVERSQkVZQnJnRGdFdjBVdDF5T2xpTWRiNXBQdm9abXpKVTdCVW1vcFZUbXRZTnNPVHotSnVRelgwQmY0Ny16bmVVcXZobFVoWTc3VjBscFlNbXVMNXUydzRncms0R0p2bHZiVW9BUEEzV2FtRml1V25Od00yQmt2MHJyYUktUUg4bVdNX2I3ejVKbEtWckpFRlI3bmNXSHp1M3h3REdvQUlydWQ3LUtZeTZNRHpQejZfd1hUUQ?oc=5",
+      "title": "Schouw & Co prepara la salida a bolsa del productor de piensos acuícolas BioMar - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "published_at": "2026-05-01T06:41:16+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Schouw & Co prepares BioMar aquaculture feed producer for IPO",
+      "key_claims": [
+        "Schouw & Co is preparing BioMar, an aquaculture feed producer, for a stock market listing"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co is preparing to take its aquaculture feed subsidiary BioMar public through an initial public offering. The move signals potential restructuring and capital-raising plans for the feed producer."
+    },
+    {
+      "id": 2990,
+      "story_id": 835,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDlxUFFCdzBQNU9aSm5jSmFOcXh6aUdsYXhoXzZic3JkRVpuOGFyMEFjUi1kdlNlUk1sUGFhTmw1SWNlSHVNZzJXRG9feDBXY3ZXdlV3ZWNFcUdrSGJQdkVmMk5wMHRXbnAwTXhaUzAtelM4RWk3TzdlRTY3SEhWTHBmWHNRa2xady1qeDJ3blBGb3J0aS1wMXplZFE3WDRlZW9EbFptVXZ3MkRzZmpEUUJtLTNyYmU4eHJwbmhBV1g3ZEE?oc=5",
+      "title": "Skretting commits to growth in China with the opening of new hatchery production line - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "published_at": "2025-04-29T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDlxUFFCdzBQNU9aSm5jSmFOcXh6aUdsYXhoXzZic3JkRVpuOGFyMEFjUi1kdlNlUk1sUGFhTmw1SWNlSHVNZzJXRG9feDBXY3ZXdlV3ZWNFcUdrSGJQdkVmMk5wMHRXbnAwTXhaUzAtelM4RWk3TzdlRTY3SEhWTHBmWHNRa2xady1qeDJ3blBGb3J0aS1wMXplZFE3WDRlZW9EbFptVXZ3MkRzZmpEUUJtLTNyYmU4eHJwbmhBV1g3ZEE?oc=5\" target=\"_blank\">Skretting commits to growth in China with the opening of new hatchery production line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 2992,
+      "story_id": 833,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDhDaXVRWFpJd2VQUkVIZEFqM0pBV3lpV2FnTGFnRHB5QjlfZ3hfRmR2bGFwWGNQQkN2WXpyWUs5cGpBNzc1bXFBbDZTODJFOHlGdXFCQnJTTy1QRHkzYlpSYVhzb2QtQ21XckNKQlhJajVEaDU0M3lZck5IVU1ZOFZWLWNrUVNUYzVsaHlB?oc=5",
+      "title": "Skretting opens fish feed facility in Nigeria - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "published_at": "2024-04-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDhDaXVRWFpJd2VQUkVIZEFqM0pBV3lpV2FnTGFnRHB5QjlfZ3hfRmR2bGFwWGNQQkN2WXpyWUs5cGpBNzc1bXFBbDZTODJFOHlGdXFCQnJTTy1QRHkzYlpSYVhzb2QtQ21XckNKQlhJajVEaDU0M3lZck5IVU1ZOFZWLWNrUVNUYzVsaHlB?oc=5\" target=\"_blank\">Skretting opens fish feed facility in Nigeria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 2993,
+      "story_id": 832,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDBvOERCMjgzUl9VRWJ2TEhrV0FOTzJGTjhVekdFaWx6ZURWcTF1TmZ2STlLTFoweHBUZ2FqdmJjbXFjd1kwOWFGRzZrc1FOUk5aWWR0eHQ0blVxLUtCbm85akowS25zM19oa2d4OFFWUzdMSkJxMXRacWVHTGpldkVKb1NPWktKb3BlcGRhenlxQTdWT082MlRxM1BqN01qZ0E?oc=5",
+      "title": "Skretting expands its presence in Ecuador with new research station - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "published_at": "2022-10-24T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDBvOERCMjgzUl9VRWJ2TEhrV0FOTzJGTjhVekdFaWx6ZURWcTF1TmZ2STlLTFoweHBUZ2FqdmJjbXFjd1kwOWFGRzZrc1FOUk5aWWR0eHQ0blVxLUtCbm85akowS25zM19oa2d4OFFWUzdMSkJxMXRacWVHTGpldkVKb1NPWktKb3BlcGRhenlxQTdWT082MlRxM1BqN01qZ0E?oc=5\" target=\"_blank\">Skretting expands its presence in Ecuador with new research station</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 3273,
+      "story_id": 831,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORl9SYXR5c0l2NVllN3NiUXNtdE1aVTdvU3oxNEZfcExuUDVBcTB0Z0dXZnVzQU82Q0pBTkZnQ3NDVmxFbTB3N3hLZ0FISkhFRGd0MjRhT3ozdzdkWUVZcGc1cWlKYjdHazAwNlBSV0I0NW9rZkxzeXRWSXNObjRJaFlFNHdZelpYUG80Wk1ab19uX01PWTBKbXdJVFlzd1ZkcDZNbWl0R0NJUGFIXzJzaWowbXM1bmh4dzlLcGlR?oc=5",
+      "title": "Skretting seguirá utilizando ingredientes marinos sustentables - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "published_at": "2019-07-18T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORl9SYXR5c0l2NVllN3NiUXNtdE1aVTdvU3oxNEZfcExuUDVBcTB0Z0dXZnVzQU82Q0pBTkZnQ3NDVmxFbTB3N3hLZ0FISkhFRGd0MjRhT3ozdzdkWUVZcGc1cWlKYjdHazAwNlBSV0I0NW9rZkxzeXRWSXNObjRJaFlFNHdZelpYUG80Wk1ab19uX01PWTBKbXdJVFlzd1ZkcDZNbWl0R0NJUGFIXzJzaWowbXM1bmh4dzlLcGlR?oc=5\" target=\"_blank\">Skretting seguirá utilizando ingredientes marinos sustentables</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -32788,6 +33291,12 @@
         "Skretting": 0
       },
       {
+        "week": "2019-W29",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2019-W31",
         "BioMar": 0,
         "Cargill": 2,
@@ -33265,7 +33774,7 @@
         "week": "2022-W43",
         "BioMar": 0,
         "Cargill": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2022-W44",
@@ -33607,7 +34116,7 @@
         "week": "2024-W17",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2024-W18",
@@ -33749,7 +34258,7 @@
       },
       {
         "week": "2024-W46",
-        "BioMar": 10,
+        "BioMar": 12,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -33893,9 +34402,9 @@
       },
       {
         "week": "2025-W18",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 1,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2025-W19",
@@ -33965,13 +34474,13 @@
       },
       {
         "week": "2025-W30",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 5
       },
       {
         "week": "2025-W31",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -33983,13 +34492,13 @@
       },
       {
         "week": "2025-W33",
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 0,
         "Skretting": 2
       },
       {
         "week": "2025-W34",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 13
       },
@@ -34193,7 +34702,7 @@
       },
       {
         "week": "2026-W16",
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 1,
         "Skretting": 1
       },
@@ -34205,7 +34714,7 @@
       },
       {
         "week": "2026-W18",
-        "BioMar": 34,
+        "BioMar": 36,
         "Cargill": 0,
         "Skretting": 4
       }
@@ -34213,7 +34722,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 403
+        "count": 413
       },
       {
         "company": "Cargill",
@@ -34221,7 +34730,7 @@
       },
       {
         "company": "Skretting",
-        "count": 294
+        "count": 298
       }
     ]
   }
