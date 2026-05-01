@@ -1,0 +1,27 @@
+[project]
+name = "mediatracker"
+version = "0.1.0"
+description = "Media monitoring tool: ingest, analyze, and report mentions of a brand."
+requires-python = ">=3.11"
+dependencies = [
+  "feedparser>=6.0.11",
+  "httpx>=0.27",
+  "python-dateutil>=2.9",
+  "python-dotenv>=1.0",
+  "anthropic>=0.40",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+
+[project.scripts]
+mediatracker-ingest = "mediatracker.ingest:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["mediatracker*"]
