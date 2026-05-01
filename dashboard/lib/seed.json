@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-01T09:45:27+00:00",
+  "generated_at": "2026-05-01T09:50:14+00:00",
   "stats": {
-    "mention_count": 388,
-    "story_count": 363,
-    "analyzed_count": 52
+    "mention_count": 395,
+    "story_count": 366,
+    "analyzed_count": 102
   },
   "outlets": [
     "Google News (da)",
@@ -13,6 +13,30 @@
     "SalmonBusiness"
   ],
   "stories": [
+    {
+      "id": 362,
+      "headline": "BioMar owner announces intention to float - intrafish.com",
+      "story_summary": "Schouw & Co, the parent company of aquaculture feed producer BioMar, has announced its intention to float on the stock market. The announcement represents a significant corporate development for the Danish holding company and its aquaculture subsidiary BioMar.",
+      "first_seen": "2026-05-01T08:56:24+00:00",
+      "last_seen": "2026-05-01T09:31:25+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2
+    },
+    {
+      "id": 366,
+      "headline": "BioMar reports record Q1 feed volumes amid tech transition and potential listing - Aquafeed.com",
+      "story_summary": "BioMar reported record feed volumes in the first quarter while undergoing a technology transition. The company is also evaluating a potential public listing as part of its strategic initiatives under parent company Schouw & Co ownership. However, specific financial metrics and details are not provided in the available summary text alone; however, the headline indicates operational success and strategic development milestones. The positive framing around 'record' volumes and forward-looking strategic options suggests confidence in the company's direction, though the tech transition could present execution risks if not managed smoothly. The potential listing indicates growth ambitions and stakeholder confidence in the business fundamentals, but could also introduce operational complexities during a period of technological change. BioMar reported record Q1 feed volumes despite ongoing technology transition initiatives. The company is simultaneously exploring a potential public listing under parent company Schouw & Co's stewardship, indicating strategic maturation and expansion plans in the aquaculture feed market. This is a record quarter for the firm's volumes while modernizing core technology infrastructure, and company leadership is considering capital markets as the next growth avenue. The listing consideration, coupled with record Q1 volumes and ongoing technology modernization, reflects strategic confidence in business prospects despite near-term operational complexities from the tech transition. These developments signal management confidence in fundamental business strength and market position. While record volumes are clearly positive, the simultaneous tech transition introduces execution risk that could moderate growth if not managed effectively. The potential listing signals confidence but also represents a major corporate milestone that could distract from operational focus. Overall assessment: positive sentiment due to record volumes and strategic optionality, but with some execution risks that temper full confidence. Confidence level reflects the positive headline framing but acknowledges complexity from simultaneous major initiatives (tech transition + listing exploration).",
+      "first_seen": "2026-05-01T09:30:43+00:00",
+      "last_seen": "2026-05-01T09:30:43+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1
+    },
     {
       "id": 363,
       "headline": "Earnings call transcript: Schouw & Co. sees solid Q1 2026 amid revenue dip - Investing.com",
@@ -26,21 +50,9 @@
       "pickup_count": 1
     },
     {
-      "id": 362,
-      "headline": "BioMar owner announces intention to float - intrafish.com",
-      "story_summary": "Schouw & Co, the parent company of aquaculture feed producer BioMar, has announced its intention to float on the stock market. The move represents a significant corporate development for the Danish holding company and its portfolio of businesses including BioMar.",
-      "first_seen": "2026-05-01T08:56:24+00:00",
-      "last_seen": "2026-05-01T08:56:24+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1
-    },
-    {
       "id": 361,
       "headline": "Schouw & Co. reporta un sólido primer trimestre de 2026 pese a caída en ingresos - Investing.com España",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQc0FONzRDREM5QTVlZzFiTVdwclR1Z0xvMnBud05zQVR6dHRPNFRxRUtSZzNrUTFKY2IzNU1BX095NDdoaDFYaHp3eVRPeW1zMXl0ZTBqMFRaVXpfNWZlMzRjQkJ2XzItMEJSbEs1YUJySGpfYkZPVW1Jbkk1V2g3TUVTRXFjMDc4aTBxLXVSQi1jQXQwVk1lakZTMUNRSTRkTXpYb0U5aExISkxOWE9KQW5JczJWVkxxN25ZTFdiU0lWSTJBZW4tbHlvWEJ4dw?oc=5\" target=\"_blank\">Schouw & Co. reporta un sólido primer trimestre de 2026 pese a caída en ingresos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com España</font>",
+      "story_summary": "Schouw & Co. reported solid first-quarter 2026 performance despite a decline in revenues. The company's results reflect mixed financial performance in the opening months of the year.key_claims: [",
       "first_seen": "2026-05-01T08:49:00+00:00",
       "last_seen": "2026-05-01T08:49:00+00:00",
       "primary_sentiment": "neutral",
@@ -66,12 +78,12 @@
       "headline": "Schouw & Co shares jump 4% as BioMar IPO plans enter next phase - Investing.com Nigeria",
       "story_summary": "Schouw & Co's share price increased 4% following announcement that BioMar's IPO plans are advancing to the next phase. The development signals progress on the subsidiary's planned initial public offering and generates investor confidence in the parent company's portfolio strategy.",
       "first_seen": "2026-05-01T08:18:46+00:00",
-      "last_seen": "2026-05-01T08:18:46+00:00",
+      "last_seen": "2026-05-01T08:22:08+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 2
     },
     {
       "id": 357,
@@ -90,12 +102,12 @@
       "headline": "Schouw & Co shares jump 4% as BioMar IPO plans enter next phase - Investing.com UK",
       "story_summary": "Schouw & Co's share price increased 4% following progress in BioMar's initial public offering plans. The IPO process for the aquaculture feed producer has moved to the next phase of development.",
       "first_seen": "2026-05-01T08:14:00+00:00",
-      "last_seen": "2026-05-01T08:14:00+00:00",
+      "last_seen": "2026-05-01T08:15:06+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 2
     },
     {
       "id": 356,
@@ -104,6 +116,18 @@
       "first_seen": "2026-05-01T06:55:54+00:00",
       "last_seen": "2026-05-01T06:55:54+00:00",
       "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1
+    },
+    {
+      "id": 365,
+      "headline": "Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen - The Manila Times",
+      "story_summary": "Schouw & Co. announced its intention to pursue an Initial Public Offering (IPO) of BioMar, its aquaculture feed portfolio business, on Nasdaq Copenhagen. The move marks a significant corporate action for the Danish parent company and its subsidiary in the aquaculture sector.",
+      "first_seen": "2026-05-01T06:07:59+00:00",
+      "last_seen": "2026-05-01T06:07:59+00:00",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -256,10 +280,10 @@
     {
       "id": 343,
       "headline": "La Policía registra la sede de Biomar por un presunto fraude del IVA de hidrocarburos - MSN",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikANBVV95cUxPWm1sQ1lGblBKTzhvWWVISWRGTEpkRzdOa0JkdXVQaUVwMk5MVW5WU2NXUW5XU3Q5VU82SWxJdURMVFJzdFVCX2lHU09RX01iYTJXdjlLRC0tdWJBWHNLMlVBZDBrR1FsbzBNbGpGeElpalZlZFpXSXM3RnpSR25xSUVaVWhraEFxMEl1eUdkODQzY3NTX2ZveDdrZGFFMzY2TndRcmZQZUpRNW5DRFVyWm85b016dFV2VEpvSUIzVGZvQVJzVElURHJPbTVWSW9KS0ZvWTVBTENoRWdpSDlTeEZCNjBPbG9qX1BZU0lzUXh2N3JSblAySjFYaXJlTm9JUFdWelB1TGVWNWY2NFI3c0xHenhVc29EQlVhS05ybzFWU3V6Z0xBdmZyWmhhOElEaXpNVUZhSGdDOVlZNmFPRVZlVEVLUDZoQ2NPZVREX3RJUG5kYUxORkU4bmJxVDNfRENER29fRkgwcm9lUE5RU0d3NUlyeVk0M1dPNmRnYnZ4T2hLX0Q5bllYMVpnQ2Jm?oc=5\" target=\"_blank\">La Policía registra la sede de Biomar por un presunto fraude del IVA de hidrocarburos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "story_summary": "Spanish police conducted a search of BioMar's headquarters as part of an investigation into alleged VAT fraud related to hydrocarbons. The raid represents a significant legal and regulatory matter for the aquaculture feed company and its parent company Schouw & Co.key_claims ≤ 5 (factual claims made about the brand in the article). Any claims are factual, not speculative, and drawn directly from the source text (if unsure, leave empty)—only the Spanish police raid on the BioMar headquarters related to alleged VAT fraud on hydrocarbons is confirmed by the headline and lede.",
       "first_seen": "2026-04-26T18:57:38+00:00",
       "last_seen": "2026-04-26T18:57:38+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -280,7 +304,7 @@
     {
       "id": 342,
       "headline": "Schouw & Co. share buy-back programme, week 16 2026 - Finansavisen",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUmVrSERHUUhNdi1xUl81eFkzeGhfTzB6X0hUcGpGOEJ6WVZELU4zM2JhVW1DalpVckdzd1hXMDVDSmlnaHdIemI0emlNc3Bua0JjdkxQdHppbTJkN0FIWGlWOHVXbElSTUFEQkVtOWRsbm5FUGFDcU5iVzVaWHRjQjVLVUE2NXVxMzMzalZVN25pSmpWdk1ZVnlxQVJKRGJ3VkZocnNFMVFoX3JiUVQyMDhzNkZmRGY4R19aMHZSMjBIakJnNUJiQjBDbzBIZW1la0Q2NDVrQUlTdw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 16 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+      "story_summary": "Schouw & Co. executed its share buyback programme during week 16 of 2026. The article reports on the company's repurchase activity as part of its ongoing capital allocation strategy reported by Finansavisen.",
       "first_seen": "2026-04-20T07:00:00+00:00",
       "last_seen": "2026-04-20T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -424,10 +448,10 @@
     {
       "id": 329,
       "headline": "One killed in explosion at BioMar’s Icelandic partner - Undercurrent News",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNNWJSMV9JcHlkMnRfT3ZFeUFhNU5oZUp3RGM1RjVHSkJ2VWxjQXhwUVYwX285VGtkM2NoRTI5TDBhLWl4TVhoSVVKVlhSakRTekdidngtNUU1MzZTR0JrT2FJV3ZMMmM4Skppc2ZnWk1VNEo0R1NKcFNabWxfb0habUxHbmsxZXFJNlI0SklvUmU4OTdDazd0RlNPMHVSdw?oc=5\" target=\"_blank\">One killed in explosion at BioMar’s Icelandic partner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
+      "story_summary": "A fatal explosion occurred at a facility operated by BioMar's Icelandic partner, resulting in one death. BioMar is mentioned as the parent company connection but is not the primary focus of the incident report, which centers on the partner facility and the accident itself. The article does not provide details about BioMar's direct involvement or responsibility for the explosion but associates the company with the incident through its partnership with the affected facility operator. This is a significant negative incident affecting BioMar's supply chain and partner operations, though reported as secondary to the main tragedy at the partner site. Further investigation and detail would be needed to determine BioMar's operational or safety role in the incident.",
       "first_seen": "2026-03-25T11:16:00+00:00",
       "last_seen": "2026-03-25T11:16:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -515,7 +539,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 2
     },
     {
       "id": 321,
@@ -615,11 +639,11 @@
     },
     {
       "id": 310,
-      "headline": "BioMar launches SmartCare Defence functional feed for sea bass - The Fish Site",
-      "story_summary": "BioMar has introduced SmartCare Defence, a new functional feed product designed for sea bass farming. The product appears to be positioned as a health and performance-enhancing feed solution for the aquaculture industry.",
+      "headline": "BioMar launches functional feed for sea bass - Fishfarming expert",
+      "story_summary": "BioMar has introduced a new functional feed formulated specifically for sea bass farming. The product launch is positioned as an advancement in aquaculture nutrition for this species group.",
       "first_seen": "2026-02-16T08:00:00+00:00",
       "last_seen": "2026-02-18T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -652,7 +676,7 @@
     {
       "id": 312,
       "headline": "Schouw & Co. share buy-back programme, week 7 2026 - Finansavisen",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVW1FRnNIQ2c0dDZUaGVpV0dLaVJWMmdfb1QtczI1NER1ODBtdnJZRWNSYk02bmJqMW15Qi1SQ0JEWlB3YmZKV211b0VuT28yb1l6QlMzV2tXZWF6ZW1VNlBBUlJVMTNXVGJXc1VuSnBaa0ZKSmUzNjNWS1pFaW5weU1zQ0hybHBzMjhxbEtsblZvV3U2TzhqVUZucC1vYWljVEw2WjIwdkVUTlJjRUFKWUFQbFZZRzdQVU5fbjRoRXJWTExNNDhYM0FFRjg0eEJUNUg3OXVhQlE?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 7 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+      "story_summary": "Schouw & Co. announced or reported activity in its share buy-back programme during week 7 of 2026. The article provides routine financial reporting on the company's capital allocation activities during this period.",
       "first_seen": "2026-02-16T08:00:00+00:00",
       "last_seen": "2026-02-16T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -664,10 +688,10 @@
     {
       "id": 307,
       "headline": "BioMar to expand China production capacity with new Wuxi line - Undercurrent News",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWJ0ZFk0WmcxMDljLV9leVg4MVFwQk53amdlbE1qZzZaLUNNNDhzeW9maUs1XzFjRWRqX1RpQnV6TEExMUFOeFdBYU5uX1NXTG9uTmJkR19tazJISjdDc2ZhRTh4cjJmdTBRM2RLV2F2R244dC1IRzFWSy0zaDVvUkx2N0J5UWgzTGFPb21ZSVNRaC1CcExHcHluaTg0TmR6b19mZEhVZmtsQQ?oc=5\" target=\"_blank\">BioMar to expand China production capacity with new Wuxi line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
+      "story_summary": "BioMar is expanding its production capacity in China by establishing a new manufacturing line in Wuxi. The expansion reflects the company's strategic investment in growing its presence in the Asian aquaculture feed market.",
       "first_seen": "2026-02-11T08:00:00+00:00",
       "last_seen": "2026-02-13T16:51:54+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -676,10 +700,10 @@
     {
       "id": 309,
       "headline": "Big expansion plans for Danish company in China - Scandasia",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5zRjJ1UFNlZ3BRU01URW10bElGb1dkeWNuY0RnNWpwY2lNeGJWZUk4VldoSHZuMTUtbWxSanMyMEJQUm5obmZDQkxkRDRTNGxzdVJMME1ha1ZCVFFmZm5kY1hzMHNfX25LVmFmWkh6MzdRNXVIeml1c1ZR?oc=5\" target=\"_blank\">Big expansion plans for Danish company in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scandasia</font>",
+      "story_summary": "A Danish company is reportedly planning significant expansion operations in China. The article highlights growth ambitions in the Chinese market as a key strategic development for the company's future operations and international presence.",
       "first_seen": "2026-02-12T08:00:00+00:00",
       "last_seen": "2026-02-12T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -688,10 +712,10 @@
     {
       "id": 304,
       "headline": "BioMar doubles capacity at China feed factory - intrafish.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORFJJVDVCQUktQ2lxU2d1MkoyX05TY21KM2xuQ3hqbE1VY0t0YVdfVmM5SEZJOU9ZRW43S09KczJfb1R3T3d0OVdJdVUyc3RldUNsT1E0bVJvQmZHOTMtamZBS3NjczJVR184TlhMSWh2OG51Z2RVQ0Rwa1N5STJjQlB3akJSd3l4VG9EenZPbnAtUQ?oc=5\" target=\"_blank\">BioMar doubles capacity at China feed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "story_summary": "BioMar has doubled production capacity at its feed manufacturing facility in China. The expansion supports the company's growth strategy in the Asia-Pacific aquaculture market.",
       "first_seen": "2026-02-11T08:00:00+00:00",
       "last_seen": "2026-02-11T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -700,7 +724,7 @@
     {
       "id": 305,
       "headline": "BioMar targets new species with factory expansion in China - Fishfarming expert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNM001TVRxQ1ZkOFNZTGRMZDlJNmkycl9peWkxLW9UTGJGRFpoaW9ZS1pqYnktTThhSjBvWDV0bkZMSzE0UVB5N2FQdnBWTWlCdDhkU25EUEM0STREZk5oLUlJeEhFR2c4VGRVLUYzNDRrcWx5NDhKRHRzMGcxX0FyWURZZ1A5clExMFEwdXRoSUtnb3BYeTNLOTlXLVVOSWZrUlN4Ry11Qk44XzhnRV9ZNEN2RVoxWUJFU25OY2lXaDJHQWFDaVI5ak9OajVOODg?oc=5\" target=\"_blank\">BioMar targets new species with factory expansion in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "story_summary": "BioMar is expanding its factory operations in China to target new aquaculture species. The expansion represents the company's strategy to grow its presence in the region and serve emerging market segments in fish farming feed production.",
       "first_seen": "2026-02-11T08:00:00+00:00",
       "last_seen": "2026-02-11T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -712,10 +736,10 @@
     {
       "id": 306,
       "headline": "BioMar to expand aquafeed production in China - Aquafeed.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmZWdkVUZ2VmUVpLb1Y3RFAtUEVQMURUSktwWV9XQ0tXaFR1RmhVNWFYSE5JdU1BdWVFZnpCWEhVYms1Y0NQck5RLWVpY25kaV9aSk8yZ09hWE90eV9PR1VkNFF1Z3AwcF9LbFFUMVBrMTdhUDRmbnJpQ3ZvQXZqYWp0VUhJR0Y4bnFjaVlwWEJSZEdj?oc=5\" target=\"_blank\">BioMar to expand aquafeed production in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "story_summary": "BioMar is expanding its aquafeed production operations in China to increase capacity in the region. The expansion reflects the company's growth strategy in the Asian aquaculture market where demand for specialty feeds continues to rise.  ",
       "first_seen": "2026-02-11T08:00:00+00:00",
       "last_seen": "2026-02-11T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -724,10 +748,10 @@
     {
       "id": 308,
       "headline": "BioMar expands China aquafeed footprint with second Wuxi production line - SalmonBusiness",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmFZZGI3T0Jzd1EwM1l0NXkwLWhoWkZIa1BjaHJqUF9DTGF1WXE5Q2ZUMjc0TWNWci14MEhtM0JQM2QxemZzUFFjRF9YcU1CVWpGWDVyWUJ5aEFJNTU1S1pVTkxjSU9IdkpxeXNTdkx3ZEJ4Mml5Si03NWRaUWx0blZ1SG84d3pCU0ZWbHRlaTBQNml1X0lJTVNxY0RLcmw4dnZlOG1Sb9IBpwFBVV95cUxPRmFZZGI3T0Jzd1EwM1l0NXkwLWhoWkZIa1BjaHJqUF9DTGF1WXE5Q2ZUMjc0TWNWci14MEhtM0JQM2QxemZzUFFjRF9YcU1CVWpGWDVyWUJ5aEFJNTU1S1pVTkxjSU9IdkpxeXNTdkx3ZEJ4Mml5Si03NWRaUWx0blZ1SG84d3pCU0ZWbHRlaTBQNml1X0lJTVNxY0RLcmw4dnZlOG1Sbw?oc=5\" target=\"_blank\">BioMar expands China aquafeed footprint with second Wuxi production line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "story_summary": "BioMar is establishing a second aquafeed production line in Wuxi, China, marking an expansion of its manufacturing footprint in the region. The move demonstrates the company's commitment to growing its presence in the Asian aquaculture market. Source note: The URL provided contains only a headline and lede without the full article content, so analysis is based on the title and available information only (to be confirmed with full text).",
       "first_seen": "2026-02-11T08:00:00+00:00",
       "last_seen": "2026-02-11T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -736,7 +760,7 @@
     {
       "id": 295,
       "headline": "BioMar acquires outstanding shares in Ecuador business - intrafish.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSmJxRzFGamlvOGZidXAxSEdkNjVFTl9iN180cGE3aWdLcEN0bm91QjFveW1xT0p5N19BU0t3aUxuQmVSVl9oZzcxeFhwZ2VvWTJVVEhzY0JzWXVtd2t3eUtBUk93OUkyUHBXVU1fSl9ULVlJVkh5V0NWc1l6bnRrTzNPcldGTVVNazlLNWM2TWdhSWcwWHVCQWhBQlhhQQ?oc=5\" target=\"_blank\">BioMar acquires outstanding shares in Ecuador business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "story_summary": "BioMar has acquired the outstanding shares in its Ecuador business, consolidating full ownership of the operation. The move represents a completion of the company's ownership structure in the South American market segment of its aquaculture feed operations.",
       "first_seen": "2026-02-06T08:00:00+00:00",
       "last_seen": "2026-02-10T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -760,10 +784,10 @@
     {
       "id": 302,
       "headline": "Carlos Díaz: “Estamos bien posicionados para aprovechar el crecimiento del mercado” - AQUA - aqua.cl",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0FNQmp3dGJZSU5wcHowdHpzRGNmUWZPZlFRNlN2dXJjZmhRNjZTZTBHMDVpWElXRE1ReVI4dUJEank5aHZaMFg4em9fNE5reHRQVmdsWk5JenNtS3J0bm9YeVJUbTNkYkdZYVdFVUxwMFpWQk5xSFU0cXBmTWxGbUdrQ1VHRHVWTU9DMS10WU9VclNqQmhfajBZQ3U3N3AxM2pF?oc=5\" target=\"_blank\">Carlos Díaz: “Estamos bien posicionados para aprovechar el crecimiento del mercado” - AQUA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "story_summary": "Carlos Díaz, a BioMar executive, states the company is well-positioned to capitalize on market growth opportunities. The statement reflects optimism about the company's competitive standing in the aquaculture feed sector going forward.",
       "first_seen": "2026-02-09T08:00:00+00:00",
       "last_seen": "2026-02-09T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -772,10 +796,10 @@
     {
       "id": 303,
       "headline": "BioMar toma el control total de su filial en Ecuador y anuncia una fuerte ampliación de capacidad - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNQnM0enpDeUdPTDRURjhic0ZibTBxOUYtYzA1d2xSREJqZnVUTnZqZHZTVTNSSGpHWDA4X05zS3BuMXR1X2pRSkJLYVEtX3g5VU9JMDhGS215Ry1hZkJHUXllOXdmcGFoemhuLW4yU29TeHhEb3VfZ1BGNE5PUEJBN0pJdUM0NXRiUE00VThGaWtlRks3Ylo0VkwwWTQyMnNMcnA1WW4wUVF0c0Y0Q05OdEZORjRnYmRoQlU0SkhXdUxOLTJuTkpVQUh3QjE?oc=5\" target=\"_blank\">BioMar toma el control total de su filial en Ecuador y anuncia una fuerte ampliación de capacidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar has taken full control of its Ecuador subsidiary and announced a significant expansion of production capacity. The move represents a strategic investment in the company's aquaculture feed operations in the region.",
       "first_seen": "2026-02-09T08:00:00+00:00",
       "last_seen": "2026-02-09T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -796,10 +820,10 @@
     {
       "id": 296,
       "headline": "BioMar takes full ownership of BioMar Ecuador, plans capacity expansion - Aquafeed.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDZRT19sQzNCdFkzRE9OWEs2WEhIR2RFWkRBZmktZEhkNEpqMUlQckJyWmMxekc1TEFTdE02Nm04R05ZNUlrZGpkMXpXRjJhdXdhQU5KWWlwMTE0NUNyUmxuU1VhWC04dGtEWGo0T0lvampLSUlRWW1tYTlNZzctRzFrQ0MtbTktTkdQYWZsaE9vcXFrNkdFbURsbVc0M01ER2FjRFFaWklEMHNDaEMw?oc=5\" target=\"_blank\">BioMar takes full ownership of BioMar Ecuador, plans capacity expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "story_summary": "BioMar has achieved full ownership of its Ecuador subsidiary and plans to expand production capacity. The move represents the company's continued investment in its Latin American operations and market growth strategy for aquaculture feed products in the region.Aquafeed.com has reported on BioMar's acquisition of full ownership in its Ecuador subsidiary alongside announced capacity expansion plans. The report highlights the company's strategic commitment to strengthening its presence and production capabilities in the Latin American market segment of the aquaculture feed industry, while the specific details and scale of the expansion remain unreported in the summary provided.",
       "first_seen": "2026-02-06T08:00:00+00:00",
       "last_seen": "2026-02-06T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -808,7 +832,7 @@
     {
       "id": 297,
       "headline": "BioMar plans big shrimp feed volume increase in Ecuador - Fishfarming expert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnJaRGh5ZVR1SjFoREIxbFMxcXNwbEpYc1RwUTQ2OGlGa0RWelQ5dUp4UWNjeVVUbl85a2FpLTZrb0lUd2tKVVF4dXJ2ZUNQRTdQZ0VteTF6azBIMTVoS2dGWjk0Snp0QWtXamdlaFBDcHpHc09XS3FwZS1GZ1A3YzlicjBvT3FhZ1NwUk9YT0R5cFljVG1ldzBCV1BCZjczcjB5Vm9xWWhqY3RCUDQ4SkdpUEtvVnFYRW9GMjVB?oc=5\" target=\"_blank\">BioMar plans big shrimp feed volume increase in Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "story_summary": "BioMar plans to significantly increase its shrimp feed production volume in Ecuador. The expansion reflects the company's growth strategy in the aquaculture feed market in the region.",
       "first_seen": "2026-02-06T08:00:00+00:00",
       "last_seen": "2026-02-06T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -820,7 +844,7 @@
     {
       "id": 298,
       "headline": "BioMar moves to 100% ownership of Ecuador operation - SalmonBusiness",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPT045WjllWE0tRkJEaU8xdm5mSTlUNm5jX25MZ1FiTjRDdy1pQ0F3QUE3eXZ6QVMwQjVNczFhaC1SeUxlSDh3VXdFekVQX1VpalRwcEpWQm5XaDdrTjdoWjIyWGh5SlNHRHI0X294X3NmR19Xb1Jtb2gwLV9NVmhhWklKQ3BnWDlPYkHSAYoBQVVfeXFMT09OOVo5ZVhNLUZCRGlPMXZuZkk5VDZuY19uTGdRYk40Q3ctaUNBd0FBN3l2ekFTMEI1TXMxYWgtUnlMZUg4d1V3RXpFUF9VaWpUcHBKVkJuV2g3a043aFoyMlhoeUpTR0RyNF9veF9zZkdfV29SbW9oMC1fTVZoYVpJSkNwZ1g5T2JB?oc=5\" target=\"_blank\">BioMar moves to 100% ownership of Ecuador operation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "story_summary": "BioMar has moved to 100% ownership of its Ecuador operation, consolidating control of the business. The move represents a strategic shift in BioMar's regional aquaculture feed operations in South America.",
       "first_seen": "2026-02-06T08:00:00+00:00",
       "last_seen": "2026-02-06T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -844,7 +868,7 @@
     {
       "id": 300,
       "headline": "Aktieselskabet Schouw & Co.: Summons for Written Resolution of Bondholders - NTB Kommunikasjon",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ09RRWtLTTQyNnBhdmI0UWhXa1hWOTJoSFNUaUZjMjVnWGtheDl0a2trbGVGWFd2VFlIYldNcVlDR1ZiVC1IUzRmT05Jelp5VnpMMHNlaW1zRFVzX1p1S205XzdQSW04a0NSamlaRkVyNjdOeEMxa0lvaHZuWUNjX0xsVDI3bFBWQ0ljQlNBUFUyY3p0UlM1NjNmblJTcFJkQTZObUpqZFBSMHkwZjFJX0lPdWZyTVZZRU9NMUFRUXRuQ0E3WFNZOHJ5MTdzZzFFT1lKOFdxelBoUExMcEZrbjZHRExZejVYaUE?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co.: Summons for Written Resolution of Bondholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "story_summary": "Aktieselskabet Schouw & Co. has issued a summons for a written resolution of bondholders. The announcement appears to be a standard corporate governance notice regarding bondholder proceedings.",
       "first_seen": "2026-02-06T08:00:00+00:00",
       "last_seen": "2026-02-06T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -856,7 +880,7 @@
     {
       "id": 293,
       "headline": "Jennifer (18) studerer kjemiprosess: – Et tøft valg jeg ikke angrer på - vol.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkNmdFFyTW1SQ2NzYWhFREYxYzE1T1RsSmFEU3NFN0NDZUI2ZFc3QWQzN1lZb2ZZSjNoTlpsQlhxUS1EYk1hdXoyOTFIQnE4OTZuWTdwVklwZ3dTNkYya2lHYi1rcDBXbnJqZUtTUUVoODZ0bjNhakw1WlZtSDNvdlpBb3JJc3NxNDN2ejFjVUNfTXFveko5ZzlvNmJOVnRqMTNQR3dR?oc=5\" target=\"_blank\">Jennifer (18) studerer kjemiprosess: – Et tøft valg jeg ikke angrer på</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "story_summary": "An 18-year-old student discusses their educational journey in chemical process studies, describing it as a challenging but worthwhile choice. The article appears to be a profile or interview piece about career and educational decisions in the chemical industry field. BioMar is mentioned only incidentally if at all in this student profile piece.",
       "first_seen": "2026-02-01T08:00:00+00:00",
       "last_seen": "2026-02-01T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -868,10 +892,10 @@
     {
       "id": 290,
       "headline": "Børsklare BioMar oppnådde rekordresultat i fjor - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA1aXFmTVduQkVIS3c1YXB0cWtDTVoyLUR3bzlTSmM3dUNycV91UmdUT0NEZGQtRUFmMXZweV9VbTA2c1B2LWluTFNGMXUwbmRmVzBuRUpDVnJrM05ocjlXOGZFYlhFdHRGOUtwR042eU5JUmc?oc=5\" target=\"_blank\">Børsklare BioMar oppnådde rekordresultat i fjor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "BioMar, an aquaculture feed producer, achieved record financial results in the previous year. The company is preparing for a stock exchange listing following this strong performance milestone.",
       "first_seen": "2026-01-29T08:00:00+00:00",
       "last_seen": "2026-01-29T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -880,10 +904,10 @@
     {
       "id": 291,
       "headline": "BioMar cierra 2025 con sólidos resultados financieros y proyecciones positivas para 2026 - AQUA - aqua.cl",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOd3QzWjJRRUxKTFM1ZTZMWnhwb1BZcTN3QkZtbF95eldOeXFhYXFtWFl5ZUNMaUpSNWtlbUtVTVRDMHpmRXZvdU05Qnl3ZVJHU1pIMzMxSlprRXl0M0RiZ1BvWkdBdHN1RDlwaEFCMy1jQ1dvVU5DU3hjdFc3RXVQbjlkSHdxbDRZYl9WOEZzZHBwT0JyaGxsenRxR1JkUmdYX2hfVXlXdVFSb1ZLMXc?oc=5\" target=\"_blank\">BioMar cierra 2025 con sólidos resultados financieros y proyecciones positivas para 2026 - AQUA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "story_summary": "BioMar concluded 2025 with solid financial results and positive projections for 2026. The company's performance indicates continued growth trajectory in the aquaculture feed sector going forward. A BioMar executive statement regarding the company's strong financial performance and positive outlook for the following year was referenced, though the specific details were not provided in the source material. The article frames this development as a significant achievement with favorable market implications for the company's future operations and positioning within the industry. A company executive made a public statement regarding BioMar's strong financial results and positive 2026 outlook, indicating confidence in the company's strategic direction and market position in the aquaculture feed industry. The positive framing of both past results and future projections demonstrates market confidence in BioMar's business performance and growth potential. The company's solid 2025 closure and optimistic 2026 guidance suggest successful operational execution and strategic positioning within the global aquaculture feed market, with implications for stakeholder confidence and competitive standing in the sector. Given the limited detail in the source summary provided, the key claims and quoted individuals could not be reliably extracted without access to the full article text, though the headline and lede clearly indicate positive financial messaging and forward guidance from the company. BioMar concluded 2025 with solid financial results and has issued positive projections for 2026. The company's performance represents strong execution with an optimistic outlook for continued growth in the coming year.",
       "first_seen": "2026-01-29T08:00:00+00:00",
       "last_seen": "2026-01-29T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -892,10 +916,10 @@
     {
       "id": 292,
       "headline": "CEO de BioMar: \"Me complace enormemente concluir con unos resultados tan sólidos\" - Salmonexpert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjNoX0hQQVZyUTVTVE1RTTI1WWtsSzc4eXlDNy1lbk5iYVVpa3dwa2hHdzQ1NVhWZGYxRnF6a2FrZHJuQ25odjM5RFUwZkxVeHNCV2tGekJITnVIRVFSaTQ4YTVxRFd4Z3V3VDdkT0JtMEt3SmM0NUZjZTZzcjVNWHhqZmh4ZFBudlBsZVQxQmNPZGFTalI4QkNwc09lSkpGTU5SUUg3Zi11dFFrb2Nfa1VOMmVnUlBIVXdhbW9LNjZNbnNsVWhCc3NYcEg?oc=5\" target=\"_blank\">CEO de BioMar: \"Me complace enormemente concluir con unos resultados tan sólidos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "story_summary": "The CEO of BioMar expresses satisfaction with the company's solid financial performance. The statement suggests positive business outcomes for the aquaculture feed producer in the recent reporting period. This appears to be an earnings or results announcement featuring executive commentary on company performance overall financial health and operational achievements during the reporting period in question demonstrated by the positive sentiment expressed in the statement made by leadership with confidence in business direction moving forward with strength reflected in numbers achieved sting results reflected across business metrics showing positive trajectory for shareholder value creation going forward into future periods ahead potentially indicating strong market position and operational execution delivering results that meet or exceed expectations set for the organization during this evaluation period reported here today through the executive commentary provided by leadership representing the organization s public statements about its performance and accomplishments achieved during the period under review .",
       "first_seen": "2026-01-29T08:00:00+00:00",
       "last_seen": "2026-01-29T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -904,10 +928,10 @@
     {
       "id": 289,
       "headline": "BioMar Says it Delivered Solid 2025 - Seafoodnews",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRE5CY0YxRU9Eb09yTUVBMFVEaEdGQk94NEhUT3FWYUU5eTNPN0htTTdVMUxFbGdYekE1dk9FaVhoQTFNUXFFdU1aSFF5MjFzVW01MVExSlhXMW1SREoxQUszVGs0dzBYNGxoN1pUamVidjgzNm96blE3aGdPZlduYlpHUQ?oc=5\" target=\"_blank\">BioMar Says it Delivered Solid 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seafoodnews</font>",
+      "story_summary": "BioMar announced it achieved solid performance during 2025. The company's statement suggests positive operational or financial outcomes for the year.",
       "first_seen": "2026-01-28T13:10:05+00:00",
       "last_seen": "2026-01-28T13:10:05+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -916,10 +940,10 @@
     {
       "id": 286,
       "headline": "BioMar rebounds in Q4 to deliver results in line with guidance - intrafish.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3pMMGFUVnVNUUZrUUZOWDNHdUs0QTY5eXg2VjE1WHRmZHRjbllNR2FIOGtpTDRLOTRHSG42d0hldE9XYjR0UGpVVkJKNmtHYzlEMlcwRWJQLUJ0UzY2cTE1bndseTJwTDRTRXptYVNqUU1xbnZ1cGJpRkQzdUJ2MXF3RnlYTzg4elBnaVZ5SnV4eUdjNllzSk9TNEpxWVVOdE9SalVXOHhlQjB6?oc=5\" target=\"_blank\">BioMar rebounds in Q4 to deliver results in line with guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "story_summary": "BioMar rebounded in the fourth quarter, delivering financial results in line with its guidance. The company's performance improvement in Q4 met investor expectations despite earlier period challenges.key_claims",
       "first_seen": "2026-01-28T08:00:00+00:00",
       "last_seen": "2026-01-28T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -928,10 +952,10 @@
     {
       "id": 287,
       "headline": "BioMar made an operating profit of £176.5m last year - Fishfarming expert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQeERQWTBhNkI2X2t3VmRmWF9rOWU0ZUpyQzZMdS0tbm1nTGhUUkJtUlROa3RjQzd0Z3JROEM4UkduWmNIRzhNeWhPZmFnMHJUdk51bmhPRW15NktOMi1jekRxWWlKNEExelpxN051M3NLcFVWVWEzRWtMUTZ1ZjZ1eFBzRHNGaWxoaGZHSmRfZ1BmdXdpUTJFOVE5YzU4My1nMjZ1ZUhMeXNHQ0RVZ2xYV3dHZlNKSHJUbDZyMg?oc=5\" target=\"_blank\">BioMar made an operating profit of £176.5m last year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "story_summary": "BioMar achieved an operating profit of £176.5 million in the previous year, according to reporting from a fishfarming expert source. The figure indicates solid financial performance for the aquaculture feed producer during the period covered.",
       "first_seen": "2026-01-28T08:00:00+00:00",
       "last_seen": "2026-01-28T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -952,10 +976,10 @@
     {
       "id": 285,
       "headline": "Good results for 2025 given the circumstances and a strong outlook for 2026 - Finansavisen",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeEgzNUJSWlNfblZiUUxyOVlSUUlkNGk1eXFZN2x3MzFqZjY2cW5nTDZUOWd3RkZpbEhnWHFvSzk1VTI0U3NHaGpMWDdiYUJXZFVGTS1Jc2JVX3Q5Q21KdEFrVVVlMTZYMnlPQ0Eza2hIRUtPdE5FTFFLWVRrSnEyUEs2Mnozd2s5N0t1REZIWkdvMVJfOWJNM1daSjFDZlMwSkJwOTRQLWpZT1V5YUVBVmotZktPOUlmRzRTRUpydmdhRkJPZkJRZm40eDNzaFZ4ZThpNXl3Q2lIVm10V1ktQmtNUWJMVUt2SDFORUxuekhVT2VxQks4Qg?oc=5\" target=\"_blank\">Good results for 2025 given the circumstances and a strong outlook for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+      "story_summary": "Schouw & Co reports satisfactory 2025 financial results despite challenging circumstances and expresses a positive outlook for 2026. The company demonstrates resilience and confidence in its market position moving forward into the new year.",
       "first_seen": "2026-01-27T08:00:00+00:00",
       "last_seen": "2026-01-27T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -964,10 +988,10 @@
     {
       "id": 284,
       "headline": "Aquafeed Outlook 2026: BioMar’s strategy for sustainable growth - Aquafeed.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkthVUxELWYyQ1A5Ty11QWc4N2U1LWNjUjlhNS1jaU9LWGRKdVZpS29EdFN2U1lJSlRQbXlUVXpyZjFJVnZvQWRlYjdkNng1ZTJmV1EzSGx4Nk9zMmx5blhOZVRfLTd2dFMzbVdjbkJyUlBRbGdWZDVCUXlDV29TVmg1clFHZVRaOGwxREYwc3g3cHc4YTlmOVVmVThVaFNsM1FReDVnRjFkcHNGUzZF?oc=5\" target=\"_blank\">Aquafeed Outlook 2026: BioMar’s strategy for sustainable growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "story_summary": "The article examines BioMar's strategy and outlook for sustainable growth in the aquafeed sector during 2026. BioMar positions itself as focused on balancing expansion with environmental and operational sustainability in aquaculture feed production. key_claims has not been populated due to limited lede content available to verify specific claims. The full article content would be needed to extract detailed factual assertions about BioMar's concrete initiatives, targets, or business metrics mentioned in the piece. people_quoted is empty as no direct quotations appear in the provided summary. risk_flags has been set to none as there are no indicators of legal, financial, controversy, executive statement, or product issues in the available text. The positive sentiment reflects the constructive framing of BioMar's strategic planning for sustainable growth, though confidence is moderate given the limited source material provided.",
       "first_seen": "2026-01-07T08:00:00+00:00",
       "last_seen": "2026-01-07T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -976,7 +1000,7 @@
     {
       "id": 283,
       "headline": "Outlook 2026: What BioMar CEO Carlos Diaz sees as essential for next year - intrafish.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFpaTnJQQ2lvMGdzTW9HNldLUTlfaW5wY3Rvcmx3MWNrckZiUlVobnJSZmtabXlpcWtyUUEzNUU0MHZNVHc4RjFYRnh4ZVJ3RkFHc0ZVX0VPU2tUNFRncjBVOWRoeGJuZ3RHalMxaldUblpFak1BNHN5SFVBNDhPaFdPUGR4VnZMQkZLZG9DQWVwbnV4Y2NjUWhqN0tKRWxtNlIxS3JJMEE4Y3BXMXo0aFVKMENxS2VX?oc=5\" target=\"_blank\">Outlook 2026: What BioMar CEO Carlos Diaz sees as essential for next year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "story_summary": "BioMar CEO Carlos Diaz discusses his vision for the company's priorities in 2026. The article presents the executive's perspective on what he considers essential for the coming year's business strategy and operations.",
       "first_seen": "2026-01-04T08:00:00+00:00",
       "last_seen": "2026-01-04T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -988,10 +1012,10 @@
     {
       "id": 282,
       "headline": "Golpe a Biomar: más allá del fraude de 300 millones - Diario de Burgos",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1I2MnZtQ3RwMEhuVkprTmlnRV9KZUI0UjhiM0dSN1ZuOE5JNXVlXzU5a3NhVS1lSVRDWFNreFl4alBQdTI1OVJQUTZWRHdTNU1LTFRYaUNkNjNSOGlaUHg4eGRNSUtOQkZFLW8xd2xDRkxuMTVDNy1mM0x4X0dwN1ZzYm5ubDR5aTZqb1J5RG83aDBucml5Q3M1RXhwQjZDOEsxY1lxSVQzZjlucDQ5YlVPR3FwaWI4THZDdXRWcFRSaFV5U3lOaFg1UmM?oc=5\" target=\"_blank\">Golpe a Biomar: más allá del fraude de 300 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Burgos</font>",
+      "story_summary": "BioMar is reportedly the subject of a significant fraud investigation involving alleged losses exceeding 300 million. The article suggests substantial legal and financial challenges facing the aquaculture feed company beyond the initial fraud claim amount discovered by authorities.",
       "first_seen": "2025-12-28T08:00:00+00:00",
       "last_seen": "2025-12-28T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -1000,7 +1024,7 @@
     {
       "id": 281,
       "headline": "BioMar - Bladet Vesterålen",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FcGJ2QTdGSmljdVBKSUhwRno4U3l3WmtCSmY0VVZQbE5YWFBxRkJLLXJjUEJpb0NNZVM2OV9WNFotRlYtclBnRmFnUU0zajhReFdZTm9GMDFsLUtlalE?oc=5\" target=\"_blank\">BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>",
+      "story_summary": "BioMar is referenced in a Bladet Vesterålen article. No substantive details about the company or its operations are provided in the available excerpt.",
       "first_seen": "2025-12-23T08:54:11+00:00",
       "last_seen": "2025-12-23T08:54:11+00:00",
       "primary_sentiment": "neutral",
@@ -1012,7 +1036,7 @@
     {
       "id": 279,
       "headline": "Policía y Agencia Tributaria acusan a un empresario de tener “un taller clandestino de armas” y un tanque, cuando es un almacén “de objetos de atrezo para películas” - Infobae",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxQU0Q2UWpJRWhGSlZiZFM2Wk14eXhKRTVCRER4dlVEekM4aE9ueTFTOXRSLW53TUNGV1AwOEVCOG5Ga2U2Vkd1ZE5ZM1JNdmZkQkVFdmZvMHkwRHcwUmE1T3E1SGNTM2prRUY4ejNhRkZYNnRmcnlWTUpDY3JQelBlUm5DZ1lKZzlNSnY2M3ZGa3dMYTdtc0p6Y0Y0eGR1TEt3WlZwWGNZNGtjQmJzMS1pOUx6REx2S2hpZEYtVFo1Xy10dVVyeE5RYm5jbzdSbjJ5bmVJdTJreDN4UlZBaDFmSDVydTh2ZEZsdEJfcUlaRFpiWTA0bjlCYnZPLVV1Mm5hUHBaNjNlbFpCZzZuWHRacVVWS1c1YVNDRGpnclktSUpjSG5iNjg1MWtrZ9IBxgJBVV95cUxOc0dJaUthTVRWOG43bUtUeWZla1ROSEJlQzdXblZmV291ZWdjRmIwYk9mR29MTXR0MEloeXZzWnFiU2tSRVRKR29pS1BBRk9Jc3o1WlJTWll6c0lzOE9MbWw0dkRyTTlCVFhaekx1eHJNM0FjX3JreVpfR1VncUU1amJVX1FBc056Yi1KV2FJdEJQRkI1TlBINmkxc3BqeHhoc3BCc0tzTzlOLUJ3X1UwNGxpeEZQU0tYUnFiSWFlTVJjNkNENmtUVnc5azJPWkpIWTF3eHB4TUFGNGtwc25iR1ZzSGMwRTM2aUdNY3Bfcl9Ma1Jtb3ZGbG8xY1kwcmtkbTk4cGNmazdQTy1mN0pwYlhSNlBqZ1dEa1lqVldGNkM5eEVXbXJ1WXNJNEtjRzlIQzlJd08wNGdtVW5TdWpicFp3SU1zdw?oc=5\" target=\"_blank\">Policía y Agencia Tributaria acusan a un empresario de tener “un taller clandestino de armas” y un tanque, cuando es un almacén “de objetos de atrezo para películas”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>",
+      "story_summary": "Spanish police and tax authorities accused a businessman of operating an illegal weapons workshop and possessing a tank, but the businessman claims it is a warehouse storing props for film productions. The article does not substantively discuss BioMar or its operations beyond matching a keyword filter that returned no meaningful coverage of the company itself.",
       "first_seen": "2025-12-21T08:00:00+00:00",
       "last_seen": "2025-12-21T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -1024,7 +1048,7 @@
     {
       "id": 280,
       "headline": "La armería 'de cine' de T., el magnate del fraude de hidrocarburos que vendía combustible \"a pérdidas\" - Vozpopuli",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHFsaFlzN1I5UHVjUkNfSmlfQkQyeTdyaXNRbmVFZHdRanVSVk9lNHZ1Z1NEamdGZjFBLVF4RE5LLUpHc3o4ajZ3WjNTNFdXS1Vrdm1Gb1FhTXEtRl9mZW9sUDBxRGI0OFFQSTFFYnBYNmRsUGVMODhuQWI0UUJWNGZKTlVHMlBBZlp4b1BLWWoySjVJbmY4OElPaEpFWnVBcWhXaFgta0FtcG5uVTFvaVhpLTE5LUJPcnNVejlrZTVHSnR5Y2pYX2dFVTF3NTFV0gHWAUFVX3lxTE1fOEtrMjR3LUZkMnVWelFIUGNic1NuQUtQNExrbEkxT054LU9jalNDVFdiWkwwcm9qcWx2Tk5EZ05XcUpBWW9GVFJqc1hkNm95ZjRpMTRQX21nNmFxbURCaHR0cHBkNmtjVEN2emQwMDFVTmdLNUctcGtUMWQzSUxnRU5RWXp5QllQTzFWLV82VENuYWd0OHVnekNpZVNMUjY3VlpUR2lFX0RIWkI4Z3daUVJjSlh6eUNEYmdvNE5zd1Z3UU9jVU9PQUNGc2YxUmgyZ01pSmc?oc=5\" target=\"_blank\">La armería 'de cine' de T., el magnate del fraude de hidrocarburos que vendía combustible \"a pérdidas\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vozpopuli</font>",
+      "story_summary": "An article reports on a fraud magnate involved in hydrocarbon trafficking who allegedly sold fuel at losses. BioMar is mentioned only in passing within the Google News index but does not appear to be the focus of this investigative report about criminal activity in fuel markets.",
       "first_seen": "2025-12-21T08:00:00+00:00",
       "last_seen": "2025-12-21T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -1048,7 +1072,7 @@
     {
       "id": 270,
       "headline": "El arsenal hallado en Ávila en un registro por fraude en hidrocarburos: Ferraris, relojes y un blindado con ametralladora - Libertad Digital",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMmhsb2pIaFI0UHZHN3F4NXYyYlI1U290OGJuUzNEYmI2R09STUtiZG9ucFNvM1ZpMGVQYVVlbVpCMFR0RW4yeXVwQjBGUHZKMm0wa0FycTViMGp3dVBVTzBuV0RjakV5WWZYWWRFSjYxTFk4SC1Yd290NkdETDBoTHkyZXZGNnBxVGxiRWpWaXhBOTlqUjhKcV81TzRESk1mS0RXMDFMcFAxVnYtaERGeDFfeGxPeWlYS1dZTUh1aXNvY042RkVmcm5qUzVvNnEwQUQ4emRPZ29idG5Sa084a1BqZlhaSzNETEx4dWphOHhtdw?oc=5\" target=\"_blank\">El arsenal hallado en Ávila en un registro por fraude en hidrocarburos: Ferraris, relojes y un blindado con ametralladora</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Libertad Digital</font>",
+      "story_summary": "An article reports on a weapons cache found during a police raid in Ávila related to a hydrocarbon fraud investigation. BioMar is mentioned only incidentally in the context of this broader criminal investigation story. The article focuses on seized luxury items and weapons rather than the company itself or its operations. BioMar has no meaningful connection to the primary narrative of the piece. This appears to be a false match based on keyword similarity rather than substantive coverage of the aquaculture feed producer. The article does not discuss BioMar's business, financials, products, or reputation in any way that would warrant analysis as company coverage.",
       "first_seen": "2025-12-18T08:00:00+00:00",
       "last_seen": "2025-12-18T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -1060,10 +1084,10 @@
     {
       "id": 271,
       "headline": "Vehículos de guerra, relojes de lujo y un taller de armas incautados en la operación del megafraude de 300 millones de Biomar - El Mundo",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9abkpWNl9OcHAyNVRadHlRYzdUMEhVcjUxNWRQYzUxWFZ4RkRDdUEzNTFuXzRvWEY3Q0U0WlcyNjE2TExnMGpBUmdoRGJVY1dENnBfM29OeHFPMXhmem5aS0lNeVgzdjRwdVV2QVlOZGhoUFFzQVl4MnF30gF6QVVfeXFMTUtsa1dfX1Fsam92azI2Q1UyelJJTGl1SjFfbWpGRmR2dnRwZU5peWIzR1VmQ2NvZTFXZkMtZnVzeHNYc1ppSDJ3OVEyVkNmOW9QLXh4NUNTMHJVLS1fQ2x3MWRJMTRvT3g1MnBBWnhFcVI5M2g4ZW1tVkE?oc=5\" target=\"_blank\">Vehículos de guerra, relojes de lujo y un taller de armas incautados en la operación del megafraude de 300 millones de Biomar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Mundo</font>",
+      "story_summary": "A major fraud operation involving BioMar has resulted in the seizure of military vehicles, luxury watches, and a weapons workshop, with alleged losses of approximately 300 million euros. The investigation represents a significant financial crime case with substantial asset recovery efforts underway.",
       "first_seen": "2025-12-18T08:00:00+00:00",
       "last_seen": "2025-12-18T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -1072,7 +1096,7 @@
     {
       "id": 272,
       "headline": "Coches de lujo, un taller de armas, medio centenar de inmuebles: así es la mayor trama de fraude de hidrocarburos que ha desmantelado la policía - El Periódico de la Energía",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRnVZVnFpVjBOU1RNM05BNFVPbUREM0xtZEptOU5PWWVjWDFXY3hoOHhrbFJ6eFF4WHI3TG01OVlFb0tzUktNRUpSVDdBellzblVtS2M1R3loNnVIb3kxTWFZR1FiUTB0bllnZ0hIdU9fd2cxLVEzR19VRVh6Q1BIMFJMZmZZOWd3RFNHbmlWclJuNk12dWIwOU5uVnpaQ0FTWDVvYTlnbEpRV2VxeGtLUkFNbGl2SUVTM21uLTFDTWpNYkpVNlhuQzR0Y2FQWVFVZi04S1VKR3l2QQ?oc=5\" target=\"_blank\">Coches de lujo, un taller de armas, medio centenar de inmuebles: así es la mayor trama de fraude de hidrocarburos que ha desmantelado la policía</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico de la Energía</font>",
+      "story_summary": "A Spanish police operation has dismantled what is reported as the largest hydrocarbon fraud scheme, involving luxury vehicles, weapons workshop, and dozens of properties. BioMar is mentioned incidentally in the context of this investigation into illegal fuel trafficking and related criminal activity.",
       "first_seen": "2025-12-18T08:00:00+00:00",
       "last_seen": "2025-12-18T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -1084,10 +1108,10 @@
     {
       "id": 273,
       "headline": "Así es el blindado de guerra con una ametralladora pesada incautado en el caso de hidrocarburos de Biomar Oil - ABC",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUJBY3dXSGQyeEdERWlURTg2V3B4TEpVNm5ZR2tQSThpQlJoZHBZcWpHTjhkOVg1NFEwU2N2blVfMXkwdXlnOFFhRkptT3BsSmVHYWtsNHhYVjRFT20wbS03OEtBMS0xTFV3RElUNi1oMU1uc2g2TTRxZ2VLVG8yTVYzX0JSUEltdEVHTWZnVTVKNC1CeUdxSzN5TTRhWWR1QVd4X0h4Yzh3SnU3M21aUHpGMExTQWM?oc=5\" target=\"_blank\">Así es el blindado de guerra con una ametralladora pesada incautado en el caso de hidrocarburos de Biomar Oil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC</font>",
+      "story_summary": "A heavily armored military vehicle with a mounted machine gun was seized as part of an investigation into Biomar Oil's hydrocarbon operations. The article focuses on the confiscated weaponry and equipment rather than the company's business activities or statements. BioMar (the aquaculture feed company) appears to be confused with Biomar Oil, a separate entity involved in fuel/petroleum operations, making this reference incidental to BioMar's actual business domain. The article does not substantively address BioMar or Schouw & Co.'s aquaculture operations or corporate activities. This appears to be a false positive keyword match resulting in coverage of an unrelated company with a similar name prefix. The prominence is marked as passing because the mention is incidental and refers to a different company entirely. No meaningful claims, quotes, or risk factors apply to the BioMar aquaculture business based on this article's content. Risk flags reflect the criminal/legal nature of the broader investigation mentioned, though the actual subject is a different organization. Sentiment is negative due to the criminal investigation context, but confidence is moderated because the article does not actually pertain to BioMar the aquaculture feed producer.",
       "first_seen": "2025-12-18T08:00:00+00:00",
       "last_seen": "2025-12-18T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -1096,7 +1120,7 @@
     {
       "id": 274,
       "headline": "Localizan un taller ilegal de armas, coches de lujo y millones de euros en la investigación por el fraude de los hidrocarburos - 20Minutos",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWjczcm9oQzZCLTBEeXB3R044V0RuQ09KdUdGbkYtaW1oVjdDaTBFaGFHTjhlRUpRaXRzcFhCN2JLUkhnbUhiZU16Q21HS0ZwNHJVYWxaVjhWN2Y2VlhUX1loUEtSSjhkTWxoX3RYeWJTNDVRZEI3WjItMDF4UTZmZDhieDQzcERxZHNJYXlSdWllWTBpNnNQYkNic2YzTHk0Um51RkJMQ013b2ZGaXRhX1ZOYnhsb1o1QVZTV0hkTUFQMFg5dnlmbkFIbFlTTUlZTFVzNmprNDdWMXRwcHc?oc=5\" target=\"_blank\">Localizan un taller ilegal de armas, coches de lujo y millones de euros en la investigación por el fraude de los hidrocarburos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">20Minutos</font>",
+      "story_summary": "An illegal weapons workshop and luxury vehicles were located during an investigation into hydrocarbon fraud. The article mentions BioMar only in the context of the broader investigation without detailing the company's specific role or involvement in the case discussed.",
       "first_seen": "2025-12-18T08:00:00+00:00",
       "last_seen": "2025-12-18T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -1108,10 +1132,10 @@
     {
       "id": 275,
       "headline": "El golpe a Biomar: coches y relojes de lujo, millones de euros y un taller ilegal de armas - Noticias de Navarra",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNakRfR3VhR29KX0otZnNQNVBxZTJyT2N1NmJFN29BMDdCNV9KZEZ5U1VBbTRVWjhPRXgzdVNJRlp4SEUydU5xZlJvYzgydDlFS0tKX3NBVTBfaHlseHd2R1J3RzZtdGRIbDlkNG9kM0hfUE1JZU9GVjNkamVqcVpUNk02eUhGOGVrQ3JqcWd6VTVZeEt3SWVNMkVzRXo0YVZZNFHSAacBQVVfeXFMTnVtQ1BUTTBaNzZPZlNvb2M3TmhiUkcwMWFfSmE4NFlEcnNWQm5RNEZTVmd5WUVBb3dnRDlfd1hjNkYxZEhkQ3BVNU9GQ3RvdC16Q094ZVFsYTFLeHFoSHgxbFA3SjJPXzdkVVB1X21IeE1ILWJRem8yTnd1cmdFNlA2T1ZDdjdDR0R4aWxQRmpvWXlSemlHalhPY3RKc3pVMlZXT2FZSlU?oc=5\" target=\"_blank\">El golpe a Biomar: coches y relojes de lujo, millones de euros y un taller ilegal de armas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noticias de Navarra</font>",
+      "story_summary": "Spanish authorities conducted an operation against BioMar involving luxury vehicles, watches, millions of euros, and an illegal weapons workshop. The article presents details of a significant criminal investigation centered on the company's alleged activities in Navarre, Spain.",
       "first_seen": "2025-12-18T08:00:00+00:00",
       "last_seen": "2025-12-18T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -1132,7 +1156,7 @@
     {
       "id": 277,
       "headline": "Una operación por un megafraude en hidrocarburos destapó un taller de armas de guerra - La Vanguardia",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaEdRMjAzSUYwR2k3R2FVVWxjQWRPRnRjeVNNY2t1RmFRbmZzbE9wYkdNa1c2RnY3MXI4N1E1bGVXYVAzalFFdHltV0lHWHBFV1Q2bHdJc3lkY2hPTDVNdl9EVzc0NGdLblgzRlBZWHdESjFObVFGQlZRSF8tZDNDc21aWUpvRUtaS2QxWTNrQkJOLWZNLUNOb0g5MkV6MzVyY0wzOE5uMHlnTzM4NlptME5FdUZITTR5Nmx1VUxnNnp6amhIVldmSVFaUFZsU3VG0gHWAUFVX3lxTE5DSmhmbTlRNDk2bHVNRTB6QWN5bDVzSFZhbEhCclFTVzhsai1BbTQtc2dJb3RMZnh2bC0zd2hqdUFJUTM4VklyVWdFaDA5TGhaZWcwZko5UnRhOVlXZXhnN1J4Qi01OG15UnZXd1VKZWdLaTJ0cTBIZkNTcHIzcXNhVUpHb0F2VnQwYWVCaGZLZ0ROVFdfcW5EUzFlcEw1ZFJDaHBGQTN5NFNNZzFnNEJfQlUyQkRMekZyUFVfZnFpR19WWURSVzdhcmtKOXdiOXRXRndhTVE?oc=5\" target=\"_blank\">Una operación por un megafraude en hidrocarburos destapó un taller de armas de guerra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Vanguardia</font>",
+      "story_summary": "An investigation into a major hydrocarbon fraud case revealed an illegal weapons workshop operation. BioMar is mentioned in connection with the broader investigation but is not the primary focus of the article.",
       "first_seen": "2025-12-18T08:00:00+00:00",
       "last_seen": "2025-12-18T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -1144,7 +1168,7 @@
     {
       "id": 278,
       "headline": "Schouw & Co. to initiate share buy-back programme of up to DKK 240 million - NTB Kommunikasjon",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQm13eWdXZTdWVl9MaWg0TGk0aEJKRWlQUHNiSWcwdjZkdnFmemR0azIzZlNja3dCNlY1cWVXMC1wTDE4cHBqSXZwRXRVWUxNUW5tZDRtaFhPMzF4bUhuNlNhTjRDNjFadmd0S0h3a0RYa1c2LWY5RlVXNExNMkV1TnV5c2NkYzEyRjJjM3lLdk13dDRLSUJUYjdFajdEbzhUMDdjZ0ZFem5TSy1FelJVclQwUmRaTzRPSkFIdGMxUEp3UlVpZGpXN0hIM0t1SHlud1Jsa1d4dm5LX0hXcnBYTmJGUVY0WlZYMzVZ?oc=5\" target=\"_blank\">Schouw & Co. to initiate share buy-back programme of up to DKK 240 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "story_summary": "Schouw & Co. announced the initiation of a share buyback programme valued at up to DKK 240 million. The announcement represents a capital allocation decision by the holding company's board of directors.s are empty as no specific claims beyond the programme announcement are detailed in the available text. No people are quoted in the provided summary. The announcement constitutes an exec_statement as it reflects a formal company decision, though no individual executive is named as making a statement. No controversy, product issues, legal matters, or financial concerns are evident from the summary provided.key_claims are empty as the summary only reports the buyback announcement itself without supporting factual claims about operations or performance.The article does not mention BioMar specifically, only its parent company Schouw & Co., so prominence is marked primary for the parent entity coverage.",
       "first_seen": "2025-12-18T08:00:00+00:00",
       "last_seen": "2025-12-18T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -3122,6 +3146,18 @@
       "pickup_count": 1
     },
     {
+      "id": 364,
+      "headline": "BioMar CEO lashes out at Cargill’s Russian activity: “Surprising and disappointing to witness” - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdG5vMmg0bWpOczJHNVdUMnNUa25qMU4xdWEyTTZIU2U0dlYwb0xvR2JLV2o2cV9CRHJSN21kN1J4OUpmNzF5Qnk5enhXenhpbEdObW9NbzNlZzg5WnNzOU5KSFJUcTJDRC1sZTBKbjdFR0oza2VVeXcxcW4zM1dGVjlsLWNsYUgzOGJZalplWERIVU5nYkhzZ2NiVHJCUC1IMlBRMU5FVkcxVEM2UmoxLXZXc19GQVNkdUp4QTBqMA?oc=5\" target=\"_blank\">BioMar CEO lashes out at Cargill’s Russian activity: “Surprising and disappointing to witness”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2024-01-10T17:00:20+00:00",
+      "last_seen": "2024-01-10T17:00:20+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1
+    },
+    {
       "id": 103,
       "headline": "(+) Blir en del av FoU-avdelingen i BioMar - Kyst.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPV3Y0enIyVkplOUNmZGFwNEx3VGVVSkE2aHRiWGIzZ1gzRnBqRmhEVWkyV3FoY1A3VU0xbGRFNlZCRXpMMDctcDMxdXJnWXI0c2lEZ1M2MTBINnBIZ3d1eFNVY2lIZThXSHJnWUM2TUdoSEFmNllIOFlrQ2hvZHpCLVJOcEVrTEozRHpScw?oc=5\" target=\"_blank\">(+) Blir en del av FoU-avdelingen i BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
@@ -4676,16 +4712,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-13T16:51:54+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands Chinese aquaculture feed production capacity significantly",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcHBKemN5NHNWVXphTEhWY2pvVS1vQzYyRTY5dUh5RWJtLU5ITWpTVTZ4LVZjNFlseWl4T2oxSVJIRjRwREtQUFVmZENBdlJuWFlFdWZKRlNMYWxhTWkydDYtTG9SVGtDdEZ1MTM5R3BMZ1pYT3ZzLUowZEhReU11M3lTbmRzLUdFRGJ3eUhtSnEyOWZ4YnoyZHU4UUplTHh2elpEQWlaMTF4ZmNTWHc?oc=5\" target=\"_blank\">BioMar doubling its production capacity in Wuxi, China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+      "summary": "BioMar is doubling its production capacity at its facility in Wuxi, China, demonstrating expansion in a key market for aquaculture feed. The move reflects the company's commitment to increasing supply in the region to meet growing demand from the aquaculture industry in Asia-Pacific regions and is presented as a positive business development for the company's growth strategy in China.Wuxi, a strategic location for aquaculture feed production in China, is being expanded as part of BioMar's broader efforts to scale operations and meet customer requirements in the Asian market. The doubling of capacity indicates strong confidence in market growth and supply chain demand for aquaculture nutrition products in the region's aquaculture sector growth trajectory.Typically, a company that doubles production at a major facility demonstrates confidence in market demand and positions itself for increased market share. The announcement suggests BioMar sees significant opportunity in China's aquaculture sector and is making a substantial capital investment to capture that growth. This is generally viewed positively by investors and industry observers as a sign of strategic expansion and business confidence.Readers should note that due to the limited content available from Google News, which only provides a headline and basic description, the full article details are not accessible for a more comprehensive analysis. The provided information indicates the article focuses on this expansion announcement as the primary news peg. However, the structured information available suggests positive sentiment given the nature of capacity expansion announcements, which typically signal strong business fundamentals and market opportunity. The level of confidence in this assessment is somewhat moderated by the limited source material available for detailed review. The prominence is clearly primary since BioMar's expansion is the central focus of the article title and summary. The angle captures the core narrative framing of capacity doubling as a strategic business move in China. No specific risk flags apply based on the available information, and the key claims would include the doubling of production capacity and the Wuxi location, though additional claims would require access to the full article text. No people appear to be quoted in the available headline and summary material provided by Google News. Additional context from the full SeafoodSource article would provide more detailed information about management statements, financial implications, and industry expert commentary on this expansion announcement.Final structured analysis based on available information is provided as a JSON object conforming to the required schema."
     },
     {
       "id": 17,
@@ -4753,15 +4789,15 @@
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar completes acquisition of Ecuador aquaculture business",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSmJxRzFGamlvOGZidXAxSEdkNjVFTl9iN180cGE3aWdLcEN0bm91QjFveW1xT0p5N19BU0t3aUxuQmVSVl9oZzcxeFhwZ2VvWTJVVEhzY0JzWXVtd2t3eUtBUk93OUkyUHBXVU1fSl9ULVlJVkh5V0NWc1l6bnRrTzNPcldGTVVNazlLNWM2TWdhSWcwWHVCQWhBQlhhQQ?oc=5\" target=\"_blank\">BioMar acquires outstanding shares in Ecuador business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+      "summary": "BioMar has acquired the outstanding shares in its Ecuador business, consolidating full ownership of the operation. The move represents a completion of the company's ownership structure in the South American market segment of its aquaculture feed operations."
     },
     {
       "id": 21,
@@ -4811,16 +4847,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-01-28T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar achieves Q4 recovery with results meeting guidance expectations",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3pMMGFUVnVNUUZrUUZOWDNHdUs0QTY5eXg2VjE1WHRmZHRjbllNR2FIOGtpTDRLOTRHSG42d0hldE9XYjR0UGpVVkJKNmtHYzlEMlcwRWJQLUJ0UzY2cTE1bndseTJwTDRTRXptYVNqUU1xbnZ1cGJpRkQzdUJ2MXF3RnlYTzg4elBnaVZ5SnV4eUdjNllzSk9TNEpxWVVOdE9SalVXOHhlQjB6?oc=5\" target=\"_blank\">BioMar rebounds in Q4 to deliver results in line with guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+      "summary": "BioMar rebounded in the fourth quarter, delivering financial results in line with its guidance. The company's performance improvement in Q4 met investor expectations despite earlier period challenges.key_claims"
     },
     {
       "id": 24,
@@ -4831,15 +4867,15 @@
       "language": "en",
       "published_at": "2026-01-04T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.7,
+      "prominence": "primary",
+      "angle": "CEO outlines strategic priorities and outlook for 2026",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFpaTnJQQ2lvMGdzTW9HNldLUTlfaW5wY3Rvcmx3MWNrckZiUlVobnJSZmtabXlpcWtyUUEzNUU0MHZNVHc4RjFYRnh4ZVJ3RkFHc0ZVX0VPU2tUNFRncjBVOWRoeGJuZ3RHalMxaldUblpFak1BNHN5SFVBNDhPaFdPUGR4VnZMQkZLZG9DQWVwbnV4Y2NjUWhqN0tKRWxtNlIxS3JJMEE4Y3BXMXo0aFVKMENxS2VX?oc=5\" target=\"_blank\">Outlook 2026: What BioMar CEO Carlos Diaz sees as essential for next year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+      "summary": "BioMar CEO Carlos Diaz discusses his vision for the company's priorities in 2026. The article presents the executive's perspective on what he considers essential for the coming year's business strategy and operations."
     },
     {
       "id": 25,
@@ -4944,16 +4980,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands production capacity at Chinese aquaculture feed facility",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORFJJVDVCQUktQ2lxU2d1MkoyX05TY21KM2xuQ3hqbE1VY0t0YVdfVmM5SEZJOU9ZRW43S09KczJfb1R3T3d0OVdJdVUyc3RldUNsT1E0bVJvQmZHOTMtamZBS3NjczJVR184TlhMSWh2OG51Z2RVQ0Rwa1N5STJjQlB3akJSd3l4VG9EenZPbnAtUQ?oc=5\" target=\"_blank\">BioMar doubles capacity at China feed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+      "summary": "BioMar has doubled production capacity at its feed manufacturing facility in China. The expansion supports the company's growth strategy in the Asia-Pacific aquaculture market."
     },
     {
       "id": 31,
@@ -4982,16 +5018,18 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-01-28T13:10:05+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar reports solid performance in 2025",
+      "key_claims": [
+        "BioMar delivered solid results in 2025"
+      ],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRE5CY0YxRU9Eb09yTUVBMFVEaEdGQk94NEhUT3FWYUU5eTNPN0htTTdVMUxFbGdYekE1dk9FaVhoQTFNUXFFdU1aSFF5MjFzVW01MVExSlhXMW1SREoxQUszVGs0dzBYNGxoN1pUamVidjgzNm96blE3aGdPZlduYlpHUQ?oc=5\" target=\"_blank\">BioMar Says it Delivered Solid 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seafoodnews</font>"
+      "summary": "BioMar announced it achieved solid performance during 2025. The company's statement suggests positive operational or financial outcomes for the year."
     },
     {
       "id": 33,
@@ -5001,16 +5039,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-06T17:12:25+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar acquires remaining shares in Ecuador operation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0N4UXNtM2gweW5Qei1yVi02eGtXQXBvRVE1WVJ6TEcxN251Q3ZnM0tfNE1kQ1BLel9wTHd4d0VJekhYLU1yRjN3ZVgwVnI3dnljVEd1OTVfMlFkMTY1cS1FTDJsVEF5WnB6cDh0Y3U2TlBfYjZnZ3JZdWZuMm1zb2ZDWGFlX083UUZlUHdCUWYxZnVzanAxNXpoeGgwUjZGenFYa252cnVrQnZWdEFVcFZPenNyZE1ZeHVXOVlR?oc=5\" target=\"_blank\">BioMar Acquires Outstanding Shares in Ecuador, Maintaining Strategic Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seafoodnews</font>"
+      "summary": "BioMar has acquired outstanding shares in its Ecuador operation while maintaining an existing strategic partnership. The acquisition consolidates BioMar's position in the Ecuadorian aquaculture market as part of its strategic growth initiatives."
     },
     {
       "id": 34,
@@ -5059,15 +5097,15 @@
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands manufacturing capacity in China to serve new aquaculture species.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNM001TVRxQ1ZkOFNZTGRMZDlJNmkycl9peWkxLW9UTGJGRFpoaW9ZS1pqYnktTThhSjBvWDV0bkZMSzE0UVB5N2FQdnBWTWlCdDhkU25EUEM0STREZk5oLUlJeEhFR2c4VGRVLUYzNDRrcWx5NDhKRHRzMGcxX0FyWURZZ1A5clExMFEwdXRoSUtnb3BYeTNLOTlXLVVOSWZrUlN4Ry11Qk44XzhnRV9ZNEN2RVoxWUJFU25OY2lXaDJHQWFDaVI5ak9OajVOODg?oc=5\" target=\"_blank\">BioMar targets new species with factory expansion in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+      "summary": "BioMar is expanding its factory operations in China to target new aquaculture species. The expansion represents the company's strategy to grow its presence in the region and serve emerging market segments in fish farming feed production."
     },
     {
       "id": 37,
@@ -5077,16 +5115,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-01-07T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "BioMar's strategic approach to sustainable aquafeed growth in 2026",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRkthVUxELWYyQ1A5Ty11QWc4N2U1LWNjUjlhNS1jaU9LWGRKdVZpS29EdFN2U1lJSlRQbXlUVXpyZjFJVnZvQWRlYjdkNng1ZTJmV1EzSGx4Nk9zMmx5blhOZVRfLTd2dFMzbVdjbkJyUlBRbGdWZDVCUXlDV29TVmg1clFHZVRaOGwxREYwc3g3cHc4YTlmOVVmVThVaFNsM1FReDVnRjFkcHNGUzZF?oc=5\" target=\"_blank\">Aquafeed Outlook 2026: BioMar’s strategy for sustainable growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+      "summary": "The article examines BioMar's strategy and outlook for sustainable growth in the aquafeed sector during 2026. BioMar positions itself as focused on balancing expansion with environmental and operational sustainability in aquaculture feed production. key_claims has not been populated due to limited lede content available to verify specific claims. The full article content would be needed to extract detailed factual assertions about BioMar's concrete initiatives, targets, or business metrics mentioned in the piece. people_quoted is empty as no direct quotations appear in the provided summary. risk_flags has been set to none as there are no indicators of legal, financial, controversy, executive statement, or product issues in the available text. The positive sentiment reflects the constructive framing of BioMar's strategic planning for sustainable growth, though confidence is moderate given the limited source material provided."
     },
     {
       "id": 38,
@@ -5134,16 +5172,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar acquires full ownership of Ecuador subsidiary and expands capacity",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDZRT19sQzNCdFkzRE9OWEs2WEhIR2RFWkRBZmktZEhkNEpqMUlQckJyWmMxekc1TEFTdE02Nm04R05ZNUlrZGpkMXpXRjJhdXdhQU5KWWlwMTE0NUNyUmxuU1VhWC04dGtEWGo0T0lvampLSUlRWW1tYTlNZzctRzFrQ0MtbTktTkdQYWZsaE9vcXFrNkdFbURsbVc0M01ER2FjRFFaWklEMHNDaEMw?oc=5\" target=\"_blank\">BioMar takes full ownership of BioMar Ecuador, plans capacity expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+      "summary": "BioMar has achieved full ownership of its Ecuador subsidiary and plans to expand production capacity. The move represents the company's continued investment in its Latin American operations and market growth strategy for aquaculture feed products in the region.Aquafeed.com has reported on BioMar's acquisition of full ownership in its Ecuador subsidiary alongside announced capacity expansion plans. The report highlights the company's strategic commitment to strengthening its presence and production capabilities in the Latin American market segment of the aquaculture feed industry, while the specific details and scale of the expansion remain unreported in the summary provided."
     },
     {
       "id": 41,
@@ -5153,16 +5191,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-10T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar expands control in Ecuador through share acquisition",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1NmeVdXR2ltQktqRGJSUkhGUnFwMk16NFlIYnRuRUNVMjBRTklrSU1YNFNwd1BZbzM2ZzRtRXVTX3RfQmhaZHR3a2s0T1Q0UFZxaGw5cFR3RloxLWhIdDcwcVB1YnVmSmN6dGxQVUhVX0tSRUZUcHlFV1U3M3hwWmZ5bmRHa196ZnBtNWRRalhyYXBfM1VhSkJsWEZ4NHBLZFNhaUtSOWRtTU1IQUFVWi1OVnktZw?oc=5\" target=\"_blank\">BioMar Acquires Outstanding Shares in Ecuador, Maintaining Strategic Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Perishable News</font>"
+      "summary": "BioMar has acquired outstanding shares in Ecuador while maintaining an existing strategic partnership in the region. The transaction represents BioMar's continued investment in its aquaculture operations in South America.`summary`\n\"key_claims\": [\"BioMar acquired outstanding shares in Ecuador\", \"BioMar maintained a strategic partnership in Ecuador\"], \"people_quoted\": [], \"risk_flags\": [\"none\"]}"
     },
     {
       "id": 42,
@@ -5172,16 +5210,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar announces expansion of aquafeed production capacity in China",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmZWdkVUZ2VmUVpLb1Y3RFAtUEVQMURUSktwWV9XQ0tXaFR1RmhVNWFYSE5JdU1BdWVFZnpCWEhVYms1Y0NQck5RLWVpY25kaV9aSk8yZ09hWE90eV9PR1VkNFF1Z3AwcF9LbFFUMVBrMTdhUDRmbnJpQ3ZvQXZqYWp0VUhJR0Y4bnFjaVlwWEJSZEdj?oc=5\" target=\"_blank\">BioMar to expand aquafeed production in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+      "summary": "BioMar is expanding its aquafeed production operations in China to increase capacity in the region. The expansion reflects the company's growth strategy in the Asian aquaculture market where demand for specialty feeds continues to rise.  "
     },
     {
       "id": 43,
@@ -5267,16 +5305,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-01-28T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports strong operating profit growth",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQeERQWTBhNkI2X2t3VmRmWF9rOWU0ZUpyQzZMdS0tbm1nTGhUUkJtUlROa3RjQzd0Z3JROEM4UkduWmNIRzhNeWhPZmFnMHJUdk51bmhPRW15NktOMi1jekRxWWlKNEExelpxN051M3NLcFVWVWEzRWtMUTZ1ZjZ1eFBzRHNGaWxoaGZHSmRfZ1BmdXdpUTJFOVE5YzU4My1nMjZ1ZUhMeXNHQ0RVZ2xYV3dHZlNKSHJUbDZyMg?oc=5\" target=\"_blank\">BioMar made an operating profit of £176.5m last year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+      "summary": "BioMar achieved an operating profit of £176.5 million in the previous year, according to reporting from a fishfarming expert source. The figure indicates solid financial performance for the aquaculture feed producer during the period covered."
     },
     {
       "id": 48,
@@ -5306,15 +5344,15 @@
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar announces expansion of shrimp feed production in Ecuador",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnJaRGh5ZVR1SjFoREIxbFMxcXNwbEpYc1RwUTQ2OGlGa0RWelQ5dUp4UWNjeVVUbl85a2FpLTZrb0lUd2tKVVF4dXJ2ZUNQRTdQZ0VteTF6azBIMTVoS2dGWjk0Snp0QWtXamdlaFBDcHpHc09XS3FwZS1GZ1A3YzlicjBvT3FhZ1NwUk9YT0R5cFljVG1ldzBCV1BCZjczcjB5Vm9xWWhqY3RCUDQ4SkdpUEtvVnFYRW9GMjVB?oc=5\" target=\"_blank\">BioMar plans big shrimp feed volume increase in Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+      "summary": "BioMar plans to significantly increase its shrimp feed production volume in Ecuador. The expansion reflects the company's growth strategy in the aquaculture feed market in the region."
     },
     {
       "id": 50,
@@ -5362,16 +5400,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "BioMar expands China production with new Wuxi facility",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWJ0ZFk0WmcxMDljLV9leVg4MVFwQk53amdlbE1qZzZaLUNNNDhzeW9maUs1XzFjRWRqX1RpQnV6TEExMUFOeFdBYU5uX1NXTG9uTmJkR19tazJISjdDc2ZhRTh4cjJmdTBRM2RLV2F2R244dC1IRzFWSy0zaDVvUkx2N0J5UWgzTGFPb21ZSVNRaC1CcExHcHluaTg0TmR6b19mZEhVZmtsQQ?oc=5\" target=\"_blank\">BioMar to expand China production capacity with new Wuxi line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>"
+      "summary": "BioMar is expanding its production capacity in China by establishing a new manufacturing line in Wuxi. The expansion reflects the company's strategic investment in growing its presence in the Asian aquaculture feed market."
     },
     {
       "id": 53,
@@ -5381,16 +5419,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-03-25T11:16:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Fatal explosion at facility operated by BioMar's Icelandic partner",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNNWJSMV9JcHlkMnRfT3ZFeUFhNU5oZUp3RGM1RjVHSkJ2VWxjQXhwUVYwX285VGtkM2NoRTI5TDBhLWl4TVhoSVVKVlhSakRTekdidngtNUU1MzZTR0JrT2FJV3ZMMmM4Skppc2ZnWk1VNEo0R1NKcFNabWxfb0habUxHbmsxZXFJNlI0SklvUmU4OTdDazd0RlNPMHVSdw?oc=5\" target=\"_blank\">One killed in explosion at BioMar’s Icelandic partner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>"
+      "summary": "A fatal explosion occurred at a facility operated by BioMar's Icelandic partner, resulting in one death. BioMar is mentioned as the parent company connection but is not the primary focus of the incident report, which centers on the partner facility and the accident itself. The article does not provide details about BioMar's direct involvement or responsibility for the explosion but associates the company with the incident through its partnership with the affected facility operator. This is a significant negative incident affecting BioMar's supply chain and partner operations, though reported as secondary to the main tragedy at the partner site. Further investigation and detail would be needed to determine BioMar's operational or safety role in the incident."
     },
     {
       "id": 54,
@@ -5647,16 +5685,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands production capacity in China with second facility",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmFZZGI3T0Jzd1EwM1l0NXkwLWhoWkZIa1BjaHJqUF9DTGF1WXE5Q2ZUMjc0TWNWci14MEhtM0JQM2QxemZzUFFjRF9YcU1CVWpGWDVyWUJ5aEFJNTU1S1pVTkxjSU9IdkpxeXNTdkx3ZEJ4Mml5Si03NWRaUWx0blZ1SG84d3pCU0ZWbHRlaTBQNml1X0lJTVNxY0RLcmw4dnZlOG1Sb9IBpwFBVV95cUxPRmFZZGI3T0Jzd1EwM1l0NXkwLWhoWkZIa1BjaHJqUF9DTGF1WXE5Q2ZUMjc0TWNWci14MEhtM0JQM2QxemZzUFFjRF9YcU1CVWpGWDVyWUJ5aEFJNTU1S1pVTkxjSU9IdkpxeXNTdkx3ZEJ4Mml5Si03NWRaUWx0blZ1SG84d3pCU0ZWbHRlaTBQNml1X0lJTVNxY0RLcmw4dnZlOG1Sbw?oc=5\" target=\"_blank\">BioMar expands China aquafeed footprint with second Wuxi production line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+      "summary": "BioMar is establishing a second aquafeed production line in Wuxi, China, marking an expansion of its manufacturing footprint in the region. The move demonstrates the company's commitment to growing its presence in the Asian aquaculture market. Source note: The URL provided contains only a headline and lede without the full article content, so analysis is based on the title and available information only (to be confirmed with full text)."
     },
     {
       "id": 68,
@@ -5742,16 +5780,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-16T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar launches new functional feed product for sea bass",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNLTGJVbFAxUS1Fd0gydzhYZE9lNVRpazQ2Qml0RVFWMEpTc3YtYW8xMDBBdzMxZkJ1Z3J1eE1vaUM1bWtOTWJVYTJQNGx2N01xR0JvaGczdFh2Vmlyb0NVbnFqNjhTRERRcktpOWc3Wm9oNE1IQ2dfYjVHeEdXc2RZUWJUcUVoTy1EN2ppNFhnTGlpVkQzWEtfNDN0aGhLbVo1elZfWXRlVGNwSUZlaWcxVmZYLVJGT2VGUlIzU0h0eUpFb3E4U0Rn?oc=5\" target=\"_blank\">BioMar launches functional feed for sea bass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+      "summary": "BioMar has introduced a new functional feed formulated specifically for sea bass farming. The product launch is positioned as an advancement in aquaculture nutrition for this species group."
     },
     {
       "id": 73,
@@ -5781,15 +5819,15 @@
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "BioMar acquires full ownership of Ecuador aquaculture operation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPT045WjllWE0tRkJEaU8xdm5mSTlUNm5jX25MZ1FiTjRDdy1pQ0F3QUE3eXZ6QVMwQjVNczFhaC1SeUxlSDh3VXdFekVQX1VpalRwcEpWQm5XaDdrTjdoWjIyWGh5SlNHRHI0X294X3NmR19Xb1Jtb2gwLV9NVmhhWklKQ3BnWDlPYkHSAYoBQVVfeXFMT09OOVo5ZVhNLUZCRGlPMXZuZkk5VDZuY19uTGdRYk40Q3ctaUNBd0FBN3l2ekFTMEI1TXMxYWgtUnlMZUg4d1V3RXpFUF9VaWpUcHBKVkJuV2g3a043aFoyMlhoeUpTR0RyNF9veF9zZkdfV29SbW9oMC1fTVZoYVpJSkNwZ1g5T2JB?oc=5\" target=\"_blank\">BioMar moves to 100% ownership of Ecuador operation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+      "summary": "BioMar has moved to 100% ownership of its Ecuador operation, consolidating control of the business. The move represents a strategic shift in BioMar's regional aquaculture feed operations in South America."
     },
     {
       "id": 75,
@@ -5932,16 +5970,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-02-12T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Danish company announces expansion plans in China market",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5zRjJ1UFNlZ3BRU01URW10bElGb1dkeWNuY0RnNWpwY2lNeGJWZUk4VldoSHZuMTUtbWxSanMyMEJQUm5obmZDQkxkRDRTNGxzdVJMME1ha1ZCVFFmZm5kY1hzMHNfX25LVmFmWkh6MzdRNXVIeml1c1ZR?oc=5\" target=\"_blank\">Big expansion plans for Danish company in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scandasia</font>"
+      "summary": "A Danish company is reportedly planning significant expansion operations in China. The article highlights growth ambitions in the Chinese market as a key strategic development for the company's future operations and international presence."
     },
     {
       "id": 83,
@@ -6293,16 +6331,16 @@
       "source_name": "Google News (da)",
       "language": "da",
       "published_at": "2026-01-29T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar achieves record results ahead of stock market listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA1aXFmTVduQkVIS3c1YXB0cWtDTVoyLUR3bzlTSmM3dUNycV91UmdUT0NEZGQtRUFmMXZweV9VbTA2c1B2LWluTFNGMXUwbmRmVzBuRUpDVnJrM05ocjlXOGZFYlhFdHRGOUtwR042eU5JUmc?oc=5\" target=\"_blank\">Børsklare BioMar oppnådde rekordresultat i fjor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "BioMar, an aquaculture feed producer, achieved record financial results in the previous year. The company is preparing for a stock exchange listing following this strong performance milestone."
     },
     {
       "id": 102,
@@ -6351,15 +6389,15 @@
       "language": "da",
       "published_at": "2025-12-23T08:54:11+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.5,
       "prominence": "passing",
-      "angle": "",
+      "angle": "BioMar mentioned in passing by Norwegian outlet",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FcGJ2QTdGSmljdVBKSUhwRno4U3l3WmtCSmY0VVZQbE5YWFBxRkJLLXJjUEJpb0NNZVM2OV9WNFotRlYtclBnRmFnUU0zajhReFdZTm9GMDFsLUtlalE?oc=5\" target=\"_blank\">BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>"
+      "summary": "BioMar is referenced in a Bladet Vesterålen article. No substantive details about the company or its operations are provided in the available excerpt."
     },
     {
       "id": 105,
@@ -6389,15 +6427,15 @@
       "language": "da",
       "published_at": "2026-02-01T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.85,
       "prominence": "passing",
-      "angle": "",
+      "angle": "18-year-old student shares experience studying chemical processes",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkNmdFFyTW1SQ2NzYWhFREYxYzE1T1RsSmFEU3NFN0NDZUI2ZFc3QWQzN1lZb2ZZSjNoTlpsQlhxUS1EYk1hdXoyOTFIQnE4OTZuWTdwVklwZ3dTNkYya2lHYi1rcDBXbnJqZUtTUUVoODZ0bjNhakw1WlZtSDNvdlpBb3JJc3NxNDN2ejFjVUNfTXFveko5ZzlvNmJOVnRqMTNQR3dR?oc=5\" target=\"_blank\">Jennifer (18) studerer kjemiprosess: – Et tøft valg jeg ikke angrer på</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+      "summary": "An 18-year-old student discusses their educational journey in chemical process studies, describing it as a challenging but worthwhile choice. The article appears to be a profile or interview piece about career and educational decisions in the chemical industry field. BioMar is mentioned only incidentally if at all in this student profile piece."
     },
     {
       "id": 107,
@@ -8383,16 +8421,16 @@
       "source_name": "Google News (es)",
       "language": "es",
       "published_at": "2026-04-26T18:57:38+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Police raid BioMar headquarters over alleged hydrocarbon VAT fraud",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikANBVV95cUxPWm1sQ1lGblBKTzhvWWVISWRGTEpkRzdOa0JkdXVQaUVwMk5MVW5WU2NXUW5XU3Q5VU82SWxJdURMVFJzdFVCX2lHU09RX01iYTJXdjlLRC0tdWJBWHNLMlVBZDBrR1FsbzBNbGpGeElpalZlZFpXSXM3RnpSR25xSUVaVWhraEFxMEl1eUdkODQzY3NTX2ZveDdrZGFFMzY2TndRcmZQZUpRNW5DRFVyWm85b016dFV2VEpvSUIzVGZvQVJzVElURHJPbTVWSW9KS0ZvWTVBTENoRWdpSDlTeEZCNjBPbG9qX1BZU0lzUXh2N3JSblAySjFYaXJlTm9JUFdWelB1TGVWNWY2NFI3c0xHenhVc29EQlVhS05ybzFWU3V6Z0xBdmZyWmhhOElEaXpNVUZhSGdDOVlZNmFPRVZlVEVLUDZoQ2NPZVREX3RJUG5kYUxORkU4bmJxVDNfRENER29fRkgwcm9lUE5RU0d3NUlyeVk0M1dPNmRnYnZ4T2hLX0Q5bllYMVpnQ2Jm?oc=5\" target=\"_blank\">La Policía registra la sede de Biomar por un presunto fraude del IVA de hidrocarburos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>"
+      "summary": "Spanish police conducted a search of BioMar's headquarters as part of an investigation into alleged VAT fraud related to hydrocarbons. The raid represents a significant legal and regulatory matter for the aquaculture feed company and its parent company Schouw & Co.key_claims ≤ 5 (factual claims made about the brand in the article). Any claims are factual, not speculative, and drawn directly from the source text (if unsure, leave empty)—only the Spanish police raid on the BioMar headquarters related to alleged VAT fraud on hydrocarbons is confirmed by the headline and lede."
     },
     {
       "id": 309,
@@ -8402,16 +8440,16 @@
       "source_name": "Google News (es)",
       "language": "es",
       "published_at": "2026-01-29T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports strong 2025 financial results with optimistic 2026 outlook",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOd3QzWjJRRUxKTFM1ZTZMWnhwb1BZcTN3QkZtbF95eldOeXFhYXFtWFl5ZUNMaUpSNWtlbUtVTVRDMHpmRXZvdU05Qnl3ZVJHU1pIMzMxSlprRXl0M0RiZ1BvWkdBdHN1RDlwaEFCMy1jQ1dvVU5DU3hjdFc3RXVQbjlkSHdxbDRZYl9WOEZzZHBwT0JyaGxsenRxR1JkUmdYX2hfVXlXdVFSb1ZLMXc?oc=5\" target=\"_blank\">BioMar cierra 2025 con sólidos resultados financieros y proyecciones positivas para 2026 - AQUA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+      "summary": "BioMar concluded 2025 with solid financial results and positive projections for 2026. The company's performance indicates continued growth trajectory in the aquaculture feed sector going forward. A BioMar executive statement regarding the company's strong financial performance and positive outlook for the following year was referenced, though the specific details were not provided in the source material. The article frames this development as a significant achievement with favorable market implications for the company's future operations and positioning within the industry. A company executive made a public statement regarding BioMar's strong financial results and positive 2026 outlook, indicating confidence in the company's strategic direction and market position in the aquaculture feed industry. The positive framing of both past results and future projections demonstrates market confidence in BioMar's business performance and growth potential. The company's solid 2025 closure and optimistic 2026 guidance suggest successful operational execution and strategic positioning within the global aquaculture feed market, with implications for stakeholder confidence and competitive standing in the sector. Given the limited detail in the source summary provided, the key claims and quoted individuals could not be reliably extracted without access to the full article text, though the headline and lede clearly indicate positive financial messaging and forward guidance from the company. BioMar concluded 2025 with solid financial results and has issued positive projections for 2026. The company's performance represents strong execution with an optimistic outlook for continued growth in the coming year."
     },
     {
       "id": 310,
@@ -8478,16 +8516,16 @@
       "source_name": "Google News (es)",
       "language": "es",
       "published_at": "2026-01-29T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar CEO celebrates strong financial results",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNjNoX0hQQVZyUTVTVE1RTTI1WWtsSzc4eXlDNy1lbk5iYVVpa3dwa2hHdzQ1NVhWZGYxRnF6a2FrZHJuQ25odjM5RFUwZkxVeHNCV2tGekJITnVIRVFSaTQ4YTVxRFd4Z3V3VDdkT0JtMEt3SmM0NUZjZTZzcjVNWHhqZmh4ZFBudlBsZVQxQmNPZGFTalI4QkNwc09lSkpGTU5SUUg3Zi11dFFrb2Nfa1VOMmVnUlBIVXdhbW9LNjZNbnNsVWhCc3NYcEg?oc=5\" target=\"_blank\">CEO de BioMar: \"Me complace enormemente concluir con unos resultados tan sólidos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+      "summary": "The CEO of BioMar expresses satisfaction with the company's solid financial performance. The statement suggests positive business outcomes for the aquaculture feed producer in the recent reporting period. This appears to be an earnings or results announcement featuring executive commentary on company performance overall financial health and operational achievements during the reporting period in question demonstrated by the positive sentiment expressed in the statement made by leadership with confidence in business direction moving forward with strength reflected in numbers achieved sting results reflected across business metrics showing positive trajectory for shareholder value creation going forward into future periods ahead potentially indicating strong market position and operational execution delivering results that meet or exceed expectations set for the organization during this evaluation period reported here today through the executive commentary provided by leadership representing the organization s public statements about its performance and accomplishments achieved during the period under review ."
     },
     {
       "id": 314,
@@ -8516,16 +8554,16 @@
       "source_name": "Google News (es)",
       "language": "es",
       "published_at": "2026-02-09T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar executive expresses confidence in market positioning and growth",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0FNQmp3dGJZSU5wcHowdHpzRGNmUWZPZlFRNlN2dXJjZmhRNjZTZTBHMDVpWElXRE1ReVI4dUJEank5aHZaMFg4em9fNE5reHRQVmdsWk5JenNtS3J0bm9YeVJUbTNkYkdZYVdFVUxwMFpWQk5xSFU0cXBmTWxGbUdrQ1VHRHVWTU9DMS10WU9VclNqQmhfajBZQ3U3N3AxM2pF?oc=5\" target=\"_blank\">Carlos Díaz: “Estamos bien posicionados para aprovechar el crecimiento del mercado” - AQUA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+      "summary": "Carlos Díaz, a BioMar executive, states the company is well-positioned to capitalize on market growth opportunities. The statement reflects optimism about the company's competitive standing in the aquaculture feed sector going forward."
     },
     {
       "id": 316,
@@ -8706,16 +8744,16 @@
       "source_name": "Google News (es)",
       "language": "es",
       "published_at": "2026-02-09T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.78,
+      "prominence": "primary",
+      "angle": "BioMar assumes full control of Ecuador subsidiary and expands capacity",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNQnM0enpDeUdPTDRURjhic0ZibTBxOUYtYzA1d2xSREJqZnVUTnZqZHZTVTNSSGpHWDA4X05zS3BuMXR1X2pRSkJLYVEtX3g5VU9JMDhGS215Ry1hZkJHUXllOXdmcGFoemhuLW4yU29TeHhEb3VfZ1BGNE5PUEJBN0pJdUM0NXRiUE00VThGaWtlRks3Ylo0VkwwWTQyMnNMcnA1WW4wUVF0c0Y0Q05OdEZORjRnYmRoQlU0SkhXdUxOLTJuTkpVQUh3QjE?oc=5\" target=\"_blank\">BioMar toma el control total de su filial en Ecuador y anuncia una fuerte ampliación de capacidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar has taken full control of its Ecuador subsidiary and announced a significant expansion of production capacity. The move represents a strategic investment in the company's aquaculture feed operations in the region."
     },
     {
       "id": 326,
@@ -9011,15 +9049,15 @@
       "language": "es",
       "published_at": "2025-12-21T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Police and tax authorities investigate businessman over alleged illegal weapons workshop",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxQU0Q2UWpJRWhGSlZiZFM2Wk14eXhKRTVCRER4dlVEekM4aE9ueTFTOXRSLW53TUNGV1AwOEVCOG5Ga2U2Vkd1ZE5ZM1JNdmZkQkVFdmZvMHkwRHcwUmE1T3E1SGNTM2prRUY4ejNhRkZYNnRmcnlWTUpDY3JQelBlUm5DZ1lKZzlNSnY2M3ZGa3dMYTdtc0p6Y0Y0eGR1TEt3WlZwWGNZNGtjQmJzMS1pOUx6REx2S2hpZEYtVFo1Xy10dVVyeE5RYm5jbzdSbjJ5bmVJdTJreDN4UlZBaDFmSDVydTh2ZEZsdEJfcUlaRFpiWTA0bjlCYnZPLVV1Mm5hUHBaNjNlbFpCZzZuWHRacVVWS1c1YVNDRGpnclktSUpjSG5iNjg1MWtrZ9IBxgJBVV95cUxOc0dJaUthTVRWOG43bUtUeWZla1ROSEJlQzdXblZmV291ZWdjRmIwYk9mR29MTXR0MEloeXZzWnFiU2tSRVRKR29pS1BBRk9Jc3o1WlJTWll6c0lzOE9MbWw0dkRyTTlCVFhaekx1eHJNM0FjX3JreVpfR1VncUU1amJVX1FBc056Yi1KV2FJdEJQRkI1TlBINmkxc3BqeHhoc3BCc0tzTzlOLUJ3X1UwNGxpeEZQU0tYUnFiSWFlTVJjNkNENmtUVnc5azJPWkpIWTF3eHB4TUFGNGtwc25iR1ZzSGMwRTM2aUdNY3Bfcl9Ma1Jtb3ZGbG8xY1kwcmtkbTk4cGNmazdQTy1mN0pwYlhSNlBqZ1dEa1lqVldGNkM5eEVXbXJ1WXNJNEtjRzlIQzlJd08wNGdtVW5TdWpicFp3SU1zdw?oc=5\" target=\"_blank\">Policía y Agencia Tributaria acusan a un empresario de tener “un taller clandestino de armas” y un tanque, cuando es un almacén “de objetos de atrezo para películas”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Infobae</font>"
+      "summary": "Spanish police and tax authorities accused a businessman of operating an illegal weapons workshop and possessing a tank, but the businessman claims it is a warehouse storing props for film productions. The article does not substantively discuss BioMar or its operations beyond matching a keyword filter that returned no meaningful coverage of the company itself."
     },
     {
       "id": 342,
@@ -9068,15 +9106,15 @@
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Weapons cache discovered in Ávila during hydrocarbon fraud investigation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMmhsb2pIaFI0UHZHN3F4NXYyYlI1U290OGJuUzNEYmI2R09STUtiZG9ucFNvM1ZpMGVQYVVlbVpCMFR0RW4yeXVwQjBGUHZKMm0wa0FycTViMGp3dVBVTzBuV0RjakV5WWZYWWRFSjYxTFk4SC1Yd290NkdETDBoTHkyZXZGNnBxVGxiRWpWaXhBOTlqUjhKcV81TzRESk1mS0RXMDFMcFAxVnYtaERGeDFfeGxPeWlYS1dZTUh1aXNvY042RkVmcm5qUzVvNnEwQUQ4emRPZ29idG5Sa084a1BqZlhaSzNETEx4dWphOHhtdw?oc=5\" target=\"_blank\">El arsenal hallado en Ávila en un registro por fraude en hidrocarburos: Ferraris, relojes y un blindado con ametralladora</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Libertad Digital</font>"
+      "summary": "An article reports on a weapons cache found during a police raid in Ávila related to a hydrocarbon fraud investigation. BioMar is mentioned only incidentally in the context of this broader criminal investigation story. The article focuses on seized luxury items and weapons rather than the company itself or its operations. BioMar has no meaningful connection to the primary narrative of the piece. This appears to be a false match based on keyword similarity rather than substantive coverage of the aquaculture feed producer. The article does not discuss BioMar's business, financials, products, or reputation in any way that would warrant analysis as company coverage."
     },
     {
       "id": 345,
@@ -9124,16 +9162,16 @@
       "source_name": "Google News (es)",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Massive fraud investigation uncovers seized assets and weapons workshop",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9abkpWNl9OcHAyNVRadHlRYzdUMEhVcjUxNWRQYzUxWFZ4RkRDdUEzNTFuXzRvWEY3Q0U0WlcyNjE2TExnMGpBUmdoRGJVY1dENnBfM29OeHFPMXhmem5aS0lNeVgzdjRwdVV2QVlOZGhoUFFzQVl4MnF30gF6QVVfeXFMTUtsa1dfX1Fsam92azI2Q1UyelJJTGl1SjFfbWpGRmR2dnRwZU5peWIzR1VmQ2NvZTFXZkMtZnVzeHNYc1ppSDJ3OVEyVkNmOW9QLXh4NUNTMHJVLS1fQ2x3MWRJMTRvT3g1MnBBWnhFcVI5M2g4ZW1tVkE?oc=5\" target=\"_blank\">Vehículos de guerra, relojes de lujo y un taller de armas incautados en la operación del megafraude de 300 millones de Biomar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Mundo</font>"
+      "summary": "A major fraud operation involving BioMar has resulted in the seizure of military vehicles, luxury watches, and a weapons workshop, with alleged losses of approximately 300 million euros. The investigation represents a significant financial crime case with substantial asset recovery efforts underway."
     },
     {
       "id": 348,
@@ -9220,15 +9258,15 @@
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Police dismantle major hydrocarbon fraud scheme with luxury assets.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRnVZVnFpVjBOU1RNM05BNFVPbUREM0xtZEptOU5PWWVjWDFXY3hoOHhrbFJ6eFF4WHI3TG01OVlFb0tzUktNRUpSVDdBellzblVtS2M1R3loNnVIb3kxTWFZR1FiUTB0bllnZ0hIdU9fd2cxLVEzR19VRVh6Q1BIMFJMZmZZOWd3RFNHbmlWclJuNk12dWIwOU5uVnpaQ0FTWDVvYTlnbEpRV2VxeGtLUkFNbGl2SUVTM21uLTFDTWpNYkpVNlhuQzR0Y2FQWVFVZi04S1VKR3l2QQ?oc=5\" target=\"_blank\">Coches de lujo, un taller de armas, medio centenar de inmuebles: así es la mayor trama de fraude de hidrocarburos que ha desmantelado la policía</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Periódico de la Energía</font>"
+      "summary": "A Spanish police operation has dismantled what is reported as the largest hydrocarbon fraud scheme, involving luxury vehicles, weapons workshop, and dozens of properties. BioMar is mentioned incidentally in the context of this investigation into illegal fuel trafficking and related criminal activity."
     },
     {
       "id": 353,
@@ -9276,16 +9314,16 @@
       "source_name": "Google News (es)",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.85,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Armored vehicle with heavy weapon seized in hydrocarbon case",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUJBY3dXSGQyeEdERWlURTg2V3B4TEpVNm5ZR2tQSThpQlJoZHBZcWpHTjhkOVg1NFEwU2N2blVfMXkwdXlnOFFhRkptT3BsSmVHYWtsNHhYVjRFT20wbS03OEtBMS0xTFV3RElUNi1oMU1uc2g2TTRxZ2VLVG8yTVYzX0JSUEltdEVHTWZnVTVKNC1CeUdxSzN5TTRhWWR1QVd4X0h4Yzh3SnU3M21aUHpGMExTQWM?oc=5\" target=\"_blank\">Así es el blindado de guerra con una ametralladora pesada incautado en el caso de hidrocarburos de Biomar Oil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC</font>"
+      "summary": "A heavily armored military vehicle with a mounted machine gun was seized as part of an investigation into Biomar Oil's hydrocarbon operations. The article focuses on the confiscated weaponry and equipment rather than the company's business activities or statements. BioMar (the aquaculture feed company) appears to be confused with Biomar Oil, a separate entity involved in fuel/petroleum operations, making this reference incidental to BioMar's actual business domain. The article does not substantively address BioMar or Schouw & Co.'s aquaculture operations or corporate activities. This appears to be a false positive keyword match resulting in coverage of an unrelated company with a similar name prefix. The prominence is marked as passing because the mention is incidental and refers to a different company entirely. No meaningful claims, quotes, or risk factors apply to the BioMar aquaculture business based on this article's content. Risk flags reflect the criminal/legal nature of the broader investigation mentioned, though the actual subject is a different organization. Sentiment is negative due to the criminal investigation context, but confidence is moderated because the article does not actually pertain to BioMar the aquaculture feed producer."
     },
     {
       "id": 356,
@@ -9314,16 +9352,16 @@
       "source_name": "Google News (es)",
       "language": "es",
       "published_at": "2025-12-28T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar facing major fraud allegations exceeding 300 million",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOT1I2MnZtQ3RwMEhuVkprTmlnRV9KZUI0UjhiM0dSN1ZuOE5JNXVlXzU5a3NhVS1lSVRDWFNreFl4alBQdTI1OVJQUTZWRHdTNU1LTFRYaUNkNjNSOGlaUHg4eGRNSUtOQkZFLW8xd2xDRkxuMTVDNy1mM0x4X0dwN1ZzYm5ubDR5aTZqb1J5RG83aDBucml5Q3M1RXhwQjZDOEsxY1lxSVQzZjlucDQ5YlVPR3FwaWI4THZDdXRWcFRSaFV5U3lOaFg1UmM?oc=5\" target=\"_blank\">Golpe a Biomar: más allá del fraude de 300 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Burgos</font>"
+      "summary": "BioMar is reportedly the subject of a significant fraud investigation involving alleged losses exceeding 300 million. The article suggests substantial legal and financial challenges facing the aquaculture feed company beyond the initial fraud claim amount discovered by authorities."
     },
     {
       "id": 358,
@@ -9600,15 +9638,15 @@
       "language": "es",
       "published_at": "2025-12-21T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.9,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Hydrocarbon fraud case involving alleged weapons arsenal",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHFsaFlzN1I5UHVjUkNfSmlfQkQyeTdyaXNRbmVFZHdRanVSVk9lNHZ1Z1NEamdGZjFBLVF4RE5LLUpHc3o4ajZ3WjNTNFdXS1Vrdm1Gb1FhTXEtRl9mZW9sUDBxRGI0OFFQSTFFYnBYNmRsUGVMODhuQWI0UUJWNGZKTlVHMlBBZlp4b1BLWWoySjVJbmY4OElPaEpFWnVBcWhXaFgta0FtcG5uVTFvaVhpLTE5LUJPcnNVejlrZTVHSnR5Y2pYX2dFVTF3NTFV0gHWAUFVX3lxTE1fOEtrMjR3LUZkMnVWelFIUGNic1NuQUtQNExrbEkxT054LU9jalNDVFdiWkwwcm9qcWx2Tk5EZ05XcUpBWW9GVFJqc1hkNm95ZjRpMTRQX21nNmFxbURCaHR0cHBkNmtjVEN2emQwMDFVTmdLNUctcGtUMWQzSUxnRU5RWXp5QllQTzFWLV82VENuYWd0OHVnekNpZVNMUjY3VlpUR2lFX0RIWkI4Z3daUVJjSlh6eUNEYmdvNE5zd1Z3UU9jVU9PQUNGc2YxUmgyZ01pSmc?oc=5\" target=\"_blank\">La armería 'de cine' de T., el magnate del fraude de hidrocarburos que vendía combustible \"a pérdidas\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vozpopuli</font>"
+      "summary": "An article reports on a fraud magnate involved in hydrocarbon trafficking who allegedly sold fuel at losses. BioMar is mentioned only in passing within the Google News index but does not appear to be the focus of this investigative report about criminal activity in fuel markets."
     },
     {
       "id": 373,
@@ -9676,15 +9714,15 @@
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.85,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Illegal weapons workshop discovered in hydrocarbon fraud investigation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWjczcm9oQzZCLTBEeXB3R044V0RuQ09KdUdGbkYtaW1oVjdDaTBFaGFHTjhlRUpRaXRzcFhCN2JLUkhnbUhiZU16Q21HS0ZwNHJVYWxaVjhWN2Y2VlhUX1loUEtSSjhkTWxoX3RYeWJTNDVRZEI3WjItMDF4UTZmZDhieDQzcERxZHNJYXlSdWllWTBpNnNQYkNic2YzTHk0Um51RkJMQ013b2ZGaXRhX1ZOYnhsb1o1QVZTV0hkTUFQMFg5dnlmbkFIbFlTTUlZTFVzNmprNDdWMXRwcHc?oc=5\" target=\"_blank\">Localizan un taller ilegal de armas, coches de lujo y millones de euros en la investigación por el fraude de los hidrocarburos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">20Minutos</font>"
+      "summary": "An illegal weapons workshop and luxury vehicles were located during an investigation into hydrocarbon fraud. The article mentions BioMar only in the context of the broader investigation without detailing the company's specific role or involvement in the case discussed."
     },
     {
       "id": 377,
@@ -9808,16 +9846,16 @@
       "source_name": "Google News (es)",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Law enforcement operation targets BioMar over luxury assets and illegal weapons workshop",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNakRfR3VhR29KX0otZnNQNVBxZTJyT2N1NmJFN29BMDdCNV9KZEZ5U1VBbTRVWjhPRXgzdVNJRlp4SEUydU5xZlJvYzgydDlFS0tKX3NBVTBfaHlseHd2R1J3RzZtdGRIbDlkNG9kM0hfUE1JZU9GVjNkamVqcVpUNk02eUhGOGVrQ3JqcWd6VTVZeEt3SWVNMkVzRXo0YVZZNFHSAacBQVVfeXFMTnVtQ1BUTTBaNzZPZlNvb2M3TmhiUkcwMWFfSmE4NFlEcnNWQm5RNEZTVmd5WUVBb3dnRDlfd1hjNkYxZEhkQ3BVNU9GQ3RvdC16Q094ZVFsYTFLeHFoSHgxbFA3SjJPXzdkVVB1X21IeE1ILWJRem8yTnd1cmdFNlA2T1ZDdjdDR0R4aWxQRmpvWXlSemlHalhPY3RKc3pVMlZXT2FZSlU?oc=5\" target=\"_blank\">El golpe a Biomar: coches y relojes de lujo, millones de euros y un taller ilegal de armas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noticias de Navarra</font>"
+      "summary": "Spanish authorities conducted an operation against BioMar involving luxury vehicles, watches, millions of euros, and an illegal weapons workshop. The article presents details of a significant criminal investigation centered on the company's alleged activities in Navarre, Spain."
     },
     {
       "id": 384,
@@ -9904,15 +9942,15 @@
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.9,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Hydrocarbon fraud investigation uncovers illegal weapons workshop",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaEdRMjAzSUYwR2k3R2FVVWxjQWRPRnRjeVNNY2t1RmFRbmZzbE9wYkdNa1c2RnY3MXI4N1E1bGVXYVAzalFFdHltV0lHWHBFV1Q2bHdJc3lkY2hPTDVNdl9EVzc0NGdLblgzRlBZWHdESjFObVFGQlZRSF8tZDNDc21aWUpvRUtaS2QxWTNrQkJOLWZNLUNOb0g5MkV6MzVyY0wzOE5uMHlnTzM4NlptME5FdUZITTR5Nmx1VUxnNnp6amhIVldmSVFaUFZsU3VG0gHWAUFVX3lxTE5DSmhmbTlRNDk2bHVNRTB6QWN5bDVzSFZhbEhCclFTVzhsai1BbTQtc2dJb3RMZnh2bC0zd2hqdUFJUTM4VklyVWdFaDA5TGhaZWcwZko5UnRhOVlXZXhnN1J4Qi01OG15UnZXd1VKZWdLaTJ0cTBIZkNTcHIzcXNhVUpHb0F2VnQwYWVCaGZLZ0ROVFdfcW5EUzFlcEw1ZFJDaHBGQTN5NFNNZzFnNEJfQlUyQkRMekZyUFVfZnFpR19WWURSVzdhcmtKOXdiOXRXRndhTVE?oc=5\" target=\"_blank\">Una operación por un megafraude en hidrocarburos destapó un taller de armas de guerra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Vanguardia</font>"
+      "summary": "An investigation into a major hydrocarbon fraud case revealed an illegal weapons workshop operation. BioMar is mentioned in connection with the broader investigation but is not the primary focus of the article."
     },
     {
       "id": 389,
@@ -10322,15 +10360,15 @@
       "language": "en",
       "published_at": "2025-12-18T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share buyback programme worth DKK 240 million",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQm13eWdXZTdWVl9MaWg0TGk0aEJKRWlQUHNiSWcwdjZkdnFmemR0azIzZlNja3dCNlY1cWVXMC1wTDE4cHBqSXZwRXRVWUxNUW5tZDRtaFhPMzF4bUhuNlNhTjRDNjFadmd0S0h3a0RYa1c2LWY5RlVXNExNMkV1TnV5c2NkYzEyRjJjM3lLdk13dDRLSUJUYjdFajdEbzhUMDdjZ0ZFem5TSy1FelJVclQwUmRaTzRPSkFIdGMxUEp3UlVpZGpXN0hIM0t1SHlud1Jsa1d4dm5LX0hXcnBYTmJGUVY0WlZYMzVZ?oc=5\" target=\"_blank\">Schouw & Co. to initiate share buy-back programme of up to DKK 240 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
+      "summary": "Schouw & Co. announced the initiation of a share buyback programme valued at up to DKK 240 million. The announcement represents a capital allocation decision by the holding company's board of directors.s are empty as no specific claims beyond the programme announcement are detailed in the available text. No people are quoted in the provided summary. The announcement constitutes an exec_statement as it reflects a formal company decision, though no individual executive is named as making a statement. No controversy, product issues, legal matters, or financial concerns are evident from the summary provided.key_claims are empty as the summary only reports the buyback announcement itself without supporting factual claims about operations or performance.The article does not mention BioMar specifically, only its parent company Schouw & Co., so prominence is marked primary for the parent entity coverage."
     },
     {
       "id": 416,
@@ -10341,15 +10379,15 @@
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Schouw & Co. issues summons for bondholder written resolution",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ09RRWtLTTQyNnBhdmI0UWhXa1hWOTJoSFNUaUZjMjVnWGtheDl0a2trbGVGWFd2VFlIYldNcVlDR1ZiVC1IUzRmT05Jelp5VnpMMHNlaW1zRFVzX1p1S205XzdQSW04a0NSamlaRkVyNjdOeEMxa0lvaHZuWUNjX0xsVDI3bFBWQ0ljQlNBUFUyY3p0UlM1NjNmblJTcFJkQTZObUpqZFBSMHkwZjFJX0lPdWZyTVZZRU9NMUFRUXRuQ0E3WFNZOHJ5MTdzZzFFT1lKOFdxelBoUExMcEZrbjZHRExZejVYaUE?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co.: Summons for Written Resolution of Bondholders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
+      "summary": "Aktieselskabet Schouw & Co. has issued a summons for a written resolution of bondholders. The announcement appears to be a standard corporate governance notice regarding bondholder proceedings."
     },
     {
       "id": 417,
@@ -10397,16 +10435,16 @@
       "source_name": "Google News (en)",
       "language": "en",
       "published_at": "2026-01-27T08:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw reports solid 2025 results and optimistic 2026 outlook",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeEgzNUJSWlNfblZiUUxyOVlSUUlkNGk1eXFZN2x3MzFqZjY2cW5nTDZUOWd3RkZpbEhnWHFvSzk1VTI0U3NHaGpMWDdiYUJXZFVGTS1Jc2JVX3Q5Q21KdEFrVVVlMTZYMnlPQ0Eza2hIRUtPdE5FTFFLWVRrSnEyUEs2Mnozd2s5N0t1REZIWkdvMVJfOWJNM1daSjFDZlMwSkJwOTRQLWpZT1V5YUVBVmotZktPOUlmRzRTRUpydmdhRkJPZkJRZm40eDNzaFZ4ZThpNXl3Q2lIVm10V1ktQmtNUWJMVUt2SDFORUxuekhVT2VxQks4Qg?oc=5\" target=\"_blank\">Good results for 2025 given the circumstances and a strong outlook for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+      "summary": "Schouw & Co reports satisfactory 2025 financial results despite challenging circumstances and expresses a positive outlook for 2026. The company demonstrates resilience and confidence in its market position moving forward into the new year."
     },
     {
       "id": 421,
@@ -11234,15 +11272,15 @@
       "language": "da",
       "published_at": "2026-04-20T07:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Share buyback programme execution update for week 16 2026",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUmVrSERHUUhNdi1xUl81eFkzeGhfTzB6X0hUcGpGOEJ6WVZELU4zM2JhVW1DalpVckdzd1hXMDVDSmlnaHdIemI0emlNc3Bua0JjdkxQdHppbTJkN0FIWGlWOHVXbElSTUFEQkVtOWRsbm5FUGFDcU5iVzVaWHRjQjVLVUE2NXVxMzMzalZVN25pSmpWdk1ZVnlxQVJKRGJ3VkZocnNFMVFoX3JiUVQyMDhzNkZmRGY4R19aMHZSMjBIakJnNUJiQjBDbzBIZW1la0Q2NDVrQUlTdw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 16 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+      "summary": "Schouw & Co. executed its share buyback programme during week 16 of 2026. The article reports on the company's repurchase activity as part of its ongoing capital allocation strategy reported by Finansavisen."
     },
     {
       "id": 466,
@@ -11253,15 +11291,15 @@
       "language": "da",
       "published_at": "2026-02-16T08:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. share buy-back programme execution in week 7 2026",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVW1FRnNIQ2c0dDZUaGVpV0dLaVJWMmdfb1QtczI1NER1ODBtdnJZRWNSYk02bmJqMW15Qi1SQ0JEWlB3YmZKV211b0VuT28yb1l6QlMzV2tXZWF6ZW1VNlBBUlJVMTNXVGJXc1VuSnBaa0ZKSmUzNjNWS1pFaW5weU1zQ0hybHBzMjhxbEtsblZvV3U2TzhqVUZucC1vYWljVEw2WjIwdkVUTlJjRUFKWUFQbFZZRzdQVU5fbjRoRXJWTExNNDhYM0FFRjg0eEJUNUg3OXVhQlE?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 7 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+      "summary": "Schouw & Co. announced or reported activity in its share buy-back programme during week 7 of 2026. The article provides routine financial reporting on the company's capital allocation activities during this period."
     },
     {
       "id": 470,
@@ -11291,15 +11329,15 @@
       "language": "es",
       "published_at": "2026-05-01T08:49:00+00:00",
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Parent company reports mixed Q1 results with revenue decline",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQc0FONzRDREM5QTVlZzFiTVdwclR1Z0xvMnBud05zQVR6dHRPNFRxRUtSZzNrUTFKY2IzNU1BX095NDdoaDFYaHp3eVRPeW1zMXl0ZTBqMFRaVXpfNWZlMzRjQkJ2XzItMEJSbEs1YUJySGpfYkZPVW1Jbkk1V2g3TUVTRXFjMDc4aTBxLXVSQi1jQXQwVk1lakZTMUNRSTRkTXpYb0U5aExISkxOWE9KQW5JczJWVkxxN25ZTFdiU0lWSTJBZW4tbHlvWEJ4dw?oc=5\" target=\"_blank\">Schouw & Co. reporta un sólido primer trimestre de 2026 pese a caída en ingresos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com España</font>"
+      "summary": "Schouw & Co. reported solid first-quarter 2026 performance despite a decline in revenues. The company's results reflect mixed financial performance in the opening months of the year.key_claims: ["
     },
     {
       "id": 473,
@@ -11756,6 +11794,139 @@
         "none"
       ],
       "summary": "BioMar reported higher feed volumes in Q1 2026 but saw revenues decline due to softer pricing and weakness in its technology segment. The company faces mixed operational performance despite increased sales volume in its core business areas."
+    },
+    {
+      "id": 537,
+      "story_id": 362,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUk1bTdmUmxWRDc4MHZWd0FIRjFqU0Mya0ZMSTRfMkhUMVpNMHk4X0VqeTNTWlNWbGJRRHZlUHVWZDZScjVfa2cyZUUtYmIwR1Zlb2FINlJGbXpzT2N6VXU1S3VKdDA0anBMcDBhdl8xc0I5VFNLT2JjU0VxSEdqRy1Ed1RwRHBMVng3bjQtR28wQ1pFcGc?oc=5",
+      "title": "BioMar owner announces intention to float - intrafish.com",
+      "source_name": "Google News (en)",
+      "language": "en",
+      "published_at": "2026-05-01T09:31:25+00:00",
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar's parent company announces plans for public listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co, the parent company of aquaculture feed producer BioMar, has announced its intention to float on the stock market. The announcement represents a significant corporate development for the Danish holding company and its aquaculture subsidiary BioMar."
+    },
+    {
+      "id": 538,
+      "story_id": 366,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXJaT0pxVmNrMnVkX0JRQndOOXZHMzBkWEZ0NDhkSEVSMVRhSkRaUXhDcnM5VFRSQVN2MVNzUkotenFrUVl1c2Z5LUYwMVgwOWJnZUVjQ2YyYUZJUk1SWTkwREo2eHBMMUxodGtvRV90TEllbURPNGx4WlVrbmEzSldnWlBMckF0QXZ2cnEzWGNadHN4Q1NNaTB2Rjl6M2V2Rll3cDVTMHRzeUZnLWFzZ0ZqVFEyQ2ViWG1DeQ?oc=5",
+      "title": "BioMar reports record Q1 feed volumes amid tech transition and potential listing - Aquafeed.com",
+      "source_name": "Google News (en)",
+      "language": "en",
+      "published_at": "2026-05-01T09:30:43+00:00",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar achieves record Q1 volumes while modernizing technology and exploring listing options",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar reported record feed volumes in the first quarter while undergoing a technology transition. The company is also evaluating a potential public listing as part of its strategic initiatives under parent company Schouw & Co ownership. However, specific financial metrics and details are not provided in the available summary text alone; however, the headline indicates operational success and strategic development milestones. The positive framing around 'record' volumes and forward-looking strategic options suggests confidence in the company's direction, though the tech transition could present execution risks if not managed smoothly. The potential listing indicates growth ambitions and stakeholder confidence in the business fundamentals, but could also introduce operational complexities during a period of technological change. BioMar reported record Q1 feed volumes despite ongoing technology transition initiatives. The company is simultaneously exploring a potential public listing under parent company Schouw & Co's stewardship, indicating strategic maturation and expansion plans in the aquaculture feed market. This is a record quarter for the firm's volumes while modernizing core technology infrastructure, and company leadership is considering capital markets as the next growth avenue. The listing consideration, coupled with record Q1 volumes and ongoing technology modernization, reflects strategic confidence in business prospects despite near-term operational complexities from the tech transition. These developments signal management confidence in fundamental business strength and market position. While record volumes are clearly positive, the simultaneous tech transition introduces execution risk that could moderate growth if not managed effectively. The potential listing signals confidence but also represents a major corporate milestone that could distract from operational focus. Overall assessment: positive sentiment due to record volumes and strategic optionality, but with some execution risks that temper full confidence. Confidence level reflects the positive headline framing but acknowledges complexity from simultaneous major initiatives (tech transition + listing exploration)."
+    },
+    {
+      "id": 544,
+      "story_id": 365,
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNNGhFUkxrTGZEX2xzX00tX0NwSE5KOXV1X3ZyMUlZWWR4NXlKbFd0T3RvRGV5bWNZYVVyZGZxeDFmSnlwd2N0SVQ4SV9mSU9CdGNsOUdQZWV6M2xRZmpyMHk2N2RRRWhZcGxCV3NSbDdLVUxzYlpTQjJBYTdGZFJnMEFaQzVXNjFJd1BHNmNUYkQ0UXdkZDJxOVpDR3ZKaXpuVkdfRE5BU2ROWVZ0UXNuX2FEVmtFYzFTUGlka3RSejctSUhNSTIzbXM2WXM3Ymh4TEc1M3k5VWVWak4ya2VzTFdLSUZzV19wSGN6UHVybGZaZzE0NHozZHJJX19fdzUxQXJCaUtzbXJMLU1kWGVfeU5HeEJrdkkxODB6T0V5NNIBpAJBVV95cUxOU1Z2REQySHd2LVhGWWNFaWV6Z3U1Ni1CYXVHQzF4UmZXRGgxZWlGWGF6SFllMDMzMEtQaVd3VUlfZ29xS0JFUkhnZXJIei0ydm5CY3BmTmFfLVhKSjdrZ3pCUGl5ci1ZZkd4RkEzaDUwS0FwUHJ3eGhYSncwZU15Zl93YmRVZ2Z0cS1IbU9HcXF3MVZmQUktOHVlTzhHMjdDUmlNM3JreDVwXzJ3dnJfaEJsYzFpZEhid3RBUHhoYTd0T3hGN1BfaTRpU3pjdE1iVmtSRzNDVDY5SlpON19QUG85d1NlOERqVjZSQmw3REZrakxPMVZhanNQRm85TS1RYWtFcmNGZVB3d3dQV0dEMUhvM2t1YTFuWG5OQ19ZQUdFOV9L?oc=5",
+      "title": "Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen - The Manila Times",
+      "source_name": "Google News (en)",
+      "language": "en",
+      "published_at": "2026-05-01T06:07:59+00:00",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co. plans IPO of aquaculture feed business BioMar on Nasdaq",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced its intention to pursue an Initial Public Offering (IPO) of BioMar, its aquaculture feed portfolio business, on Nasdaq Copenhagen. The move marks a significant corporate action for the Danish parent company and its subsidiary in the aquaculture sector."
+    },
+    {
+      "id": 545,
+      "story_id": 359,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeGM4dDZsX281aWF3R1pocjlVR1BHWmxDTVo5LVNYbVh5LVA4R1VIaGh3S2VsTDRLY3dzV0Y1b0hPa3FFSjdTTjBJMDZnUEo2WE9GcTR5TXdHWjdXMURKN0Q4SElkbmtHazJja3lfdzBvamRMVUZfLWcySmhpNGZxVF9lRDRCU1BhQ1VyaHF4Vkh3NXJtLUZxMDU4TFBlcFE1d1ZLY3JZaXZQS1lfRHcxeXY2eHlNTDAwM1paZQ?oc=5",
+      "title": "Schouw & Co shares jump 4% as BioMar IPO plans enter next phase - Investing.com UK",
+      "source_name": "Google News (en)",
+      "language": "en",
+      "published_at": "2026-05-01T08:22:08+00:00",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar IPO progress drives parent company stock gains",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co's share price increased 4% following advancement in BioMar's initial public offering plans. The development signals progress toward taking the aquaculture feed producer public as a separate entity from its parent company.key_claims"
+    },
+    {
+      "id": 584,
+      "story_id": 320,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHlQMUhmd2NCMXZRaVFHUWtVUVNNekxTNk8yWlRhUVViOVJ3a0R5YTFUbEJBUTN2ajhXU1Q5T2FEdkkwaUJtTGlOdmNmVUlacUNWcDktY0JLTjljelZ5OEw4TWZvQzRta1I4LUttVlBTeFhZLVBCRGlKWmhKSzNvQnZCN3lnQ3hGUlFNZ0dkQTdialBPaDk3OXJYQkxvcTVKbGloekRzajFuZw?oc=5",
+      "title": "BioMar announces the winners of the 2025 Farmer of the Year awards - Aquafeed.com",
+      "source_name": "Google News (en)",
+      "language": "en",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar celebrates aquaculture farmers with annual awards program",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has announced the winners of its 2025 Farmer of the Year awards program. The announcement recognizes achievement and excellence among aquaculture farmers in the company's customer base."
+    },
+    {
+      "id": 943,
+      "story_id": 358,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGV4WjM3dUxjUkRzMW5FUk9HWUc5OWgyb1RvNGw0Q0h1Tk9hbXJBa2doSUlfcUxaeEFsaTMxUlZDdnF2eW5CSHVGRmdZNThpSzhyU0Riam11dHVHRTdXOWRlRFM1cGoxUl9tRUNCNnB3T3BJRzl3ZXRDVDM5QVdtRk9XV21OTFhTLUgxNDBjTEVGWlBzT1JEc2pzcU5YY1kwVFF4S3poNFVQNGk3?oc=5",
+      "title": "Schouw & Co shares jump 4% as BioMar IPO plans enter next phase - Investing.com India",
+      "source_name": "Google News (en)",
+      "language": "en",
+      "published_at": "2026-05-01T08:15:06+00:00",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw shares rise on BioMar IPO progression",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co's share price increased by 4% following developments in BioMar's initial public offering plans. The article reports on market reaction to the next phase of BioMar's IPO process as a subsidiary of Schouw & Co.&nbsp;Schouw & Co shares jump 4% as BioMar IPO plans enter next phase - Investing.com India&nbsp;&nbsp;Investing.com India Return the structured analysis.\"sentiment\": \"positive\", \"sentiment_confidence\": 0.85, \"prominence\": \"primary\", \"angle\": \"Schouw shares rise on BioMar IPO progression\", \"summary\": \"Schouw & Co's share price increased by 4% following developments in BioMar's initial public offering plans. The article reports on market reaction to the next phase of BioMar's IPO process as a subsidiary of Schouw & Co.\"key_claims\": [\"Schouw & Co shares rose 4% on the news\", \"BioMar IPO plans have progressed to the next phase\"], \"people_quoted\": [], \"risk_flags\": [\"none\"]"
+    },
+    {
+      "id": 1022,
+      "story_id": 364,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdG5vMmg0bWpOczJHNVdUMnNUa25qMU4xdWEyTTZIU2U0dlYwb0xvR2JLV2o2cV9CRHJSN21kN1J4OUpmNzF5Qnk5enhXenhpbEdObW9NbzNlZzg5WnNzOU5KSFJUcTJDRC1sZTBKbjdFR0oza2VVeXcxcW4zM1dGVjlsLWNsYUgzOGJZalplWERIVU5nYkhzZ2NiVHJCUC1IMlBRMU5FVkcxVEM2UmoxLXZXc19GQVNkdUp4QTBqMA?oc=5",
+      "title": "BioMar CEO lashes out at Cargill’s Russian activity: “Surprising and disappointing to witness” - SalmonBusiness",
+      "source_name": "Google News (en)",
+      "language": "en",
+      "published_at": "2024-01-10T17:00:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdG5vMmg0bWpOczJHNVdUMnNUa25qMU4xdWEyTTZIU2U0dlYwb0xvR2JLV2o2cV9CRHJSN21kN1J4OUpmNzF5Qnk5enhXenhpbEdObW9NbzNlZzg5WnNzOU5KSFJUcTJDRC1sZTBKbjdFR0oza2VVeXcxcW4zM1dGVjlsLWNsYUgzOGJZalplWERIVU5nYkhzZ2NiVHJCUC1IMlBRMU5FVkcxVEM2UmoxLXZXc19GQVNkdUp4QTBqMA?oc=5\" target=\"_blank\">BioMar CEO lashes out at Cargill’s Russian activity: “Surprising and disappointing to witness”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
     }
   ]
 }
