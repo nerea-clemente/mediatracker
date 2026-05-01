@@ -42,11 +42,13 @@ LIMIT ?
 
 INSERT_ANALYSIS = """
 INSERT OR REPLACE INTO analyses (
-    mention_id, sentiment, sentiment_confidence, prominence, angle,
+    mention_id, is_about_target_brand,
+    sentiment, sentiment_confidence, prominence, angle,
     key_claims, people_quoted, risk_flags, summary,
     model, input_tokens, output_tokens, cost_usd, created_at
 ) VALUES (
-    :mention_id, :sentiment, :sentiment_confidence, :prominence, :angle,
+    :mention_id, :is_about_target_brand,
+    :sentiment, :sentiment_confidence, :prominence, :angle,
     :key_claims, :people_quoted, :risk_flags, :summary,
     :model, :input_tokens, :output_tokens, :cost_usd, :created_at
 )
@@ -88,6 +90,7 @@ def analyze_one(client, conn: sqlite3.Connection, row: sqlite3.Row) -> bool:
             INSERT_ANALYSIS,
             {
                 "mention_id": row["id"],
+                "is_about_target_brand": 1 if analysis.is_about_target_brand else 0,
                 "sentiment": analysis.sentiment,
                 "sentiment_confidence": analysis.sentiment_confidence,
                 "prominence": analysis.prominence,
@@ -117,6 +120,12 @@ def main(argv: list[str] | None = None) -> int:
         "--limit", type=int, default=50,
         help="Max unprocessed mentions to handle this run (default: 50).",
     )
+    parser.add_argument(
+        "--reset", action="store_true",
+        help="Mark every mention as processed=0 first, so the analyzer "
+             "re-processes mentions that have already been analyzed. Useful "
+             "after a prompt change so old analyses pick up the new logic.",
+    )
     parser.add_argument("--verbose", "-v", action="store_true")
     args = parser.parse_args(argv)
 
@@ -131,6 +140,9 @@ def main(argv: list[str] | None = None) -> int:
     conn = connect(cfg.db_path)
     try:
         init_schema(conn)
+        if args.reset:
+            n = conn.execute("UPDATE mentions SET processed = 0").rowcount
+            log.info("--reset: %d mention(s) flagged for re-analysis", n)
         rows = conn.execute(SELECT_UNPROCESSED, (args.limit,)).fetchall()
         log.info("analyzing %d unprocessed mention(s)", len(rows))
 

@@ -27,6 +27,7 @@ export type Mention = {
   source_name: string;
   language: string;
   published_at: string; // ISO
+  is_about_target_brand?: boolean;
   sentiment: Sentiment;
   sentiment_confidence: number;
   prominence: Prominence;
@@ -46,6 +47,7 @@ export type Story = {
   primary_sentiment: Sentiment;
   risk_flags: RiskFlag[];
   pickup_count: number;
+  is_about_target_brand?: boolean;
 };
 
 // Helper to build dates relative to a fixed "today" so the mockup is stable.

@@ -35,6 +35,7 @@ SELECT
     m.id, m.url, m.title, m.source_name, m.source_type, m.matched_keyword,
     m.language, m.published_at, m.fetched_at, m.summary AS rss_summary,
     m.cluster_id,
+    a.is_about_target_brand,
     a.sentiment, a.sentiment_confidence, a.prominence, a.angle,
     a.key_claims, a.people_quoted, a.risk_flags,
     a.summary AS analysis_summary
@@ -57,6 +58,10 @@ def _row_to_mention(row: sqlite3.Row) -> dict[str, Any]:
     if not risk_flags:
         risk_flags = ["none"]
 
+    # NULL means unanalyzed → assume on-topic (innocent until judged otherwise)
+    relevance_raw = row["is_about_target_brand"]
+    is_about_target_brand = bool(relevance_raw) if relevance_raw is not None else True
+
     return {
         "id": row["id"],
         "story_id": row["cluster_id"] or row["id"],  # un-clustered → its own story
@@ -65,6 +70,7 @@ def _row_to_mention(row: sqlite3.Row) -> dict[str, Any]:
         "source_name": row["source_name"],
         "language": row["language"] or "en",
         "published_at": row["published_at"] or row["fetched_at"],
+        "is_about_target_brand": is_about_target_brand,
         "sentiment": row["sentiment"] or "neutral",
         "sentiment_confidence": row["sentiment_confidence"] or 0.0,
         "prominence": row["prominence"] or "passing",
@@ -105,6 +111,8 @@ def _build_story(cluster_id: int, mentions: list[dict[str, Any]]) -> dict[str, A
 
     summary = primary["summary"] or ""
 
+    is_about_target_brand = any(m["is_about_target_brand"] for m in mentions)
+
     return {
         "id": cluster_id,
         "headline": primary["title"],
@@ -114,6 +122,7 @@ def _build_story(cluster_id: int, mentions: list[dict[str, Any]]) -> dict[str, A
         "primary_sentiment": primary_sentiment,
         "risk_flags": risk_list,
         "pickup_count": len(mentions),
+        "is_about_target_brand": is_about_target_brand,
     }
 
 
@@ -130,12 +139,17 @@ def build_payload(conn: sqlite3.Connection) -> dict[str, Any]:
 
     outlets = sorted({m["source_name"] for m in mentions})
 
+    off_topic_stories = sum(1 for s in stories if not s["is_about_target_brand"])
+    off_topic_mentions = sum(1 for m in mentions if not m["is_about_target_brand"])
+
     return {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "stats": {
             "mention_count": len(mentions),
             "story_count": len(stories),
             "analyzed_count": sum(1 for m in mentions if m["sentiment_confidence"] > 0),
+            "off_topic_mentions": off_topic_mentions,
+            "off_topic_stories": off_topic_stories,
         },
         "outlets": outlets,
         "stories": stories,

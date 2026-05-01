@@ -29,6 +29,11 @@ on:
         description: "Max unprocessed mentions to analyze this run"
         required: false
         default: "60"
+      reanalyze_all:
+        description: "Re-analyze every mention from scratch (use after a prompt change)"
+        required: false
+        default: "false"
+        type: boolean
 
 permissions:
   contents: write   # commit DB + seed.json back to the branch
@@ -85,7 +90,14 @@ jobs:
         if: env.RUN_PIPELINE == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -m mediatracker.analysis.analyzer --limit "$ANALYZER_LIMIT"
+          REANALYZE_ALL: ${{ github.event.inputs.reanalyze_all }}
+        run: |
+          ARGS="--limit $ANALYZER_LIMIT"
+          if [[ "$REANALYZE_ALL" == "true" ]]; then
+            echo "::warning::reanalyze_all=true — re-analyzing every mention. Watch your Anthropic spend."
+            ARGS="$ARGS --reset --limit 5000"
+          fi
+          python -m mediatracker.analysis.analyzer $ARGS
 
       - name: Cluster into stories
         if: env.RUN_PIPELINE == 'true'

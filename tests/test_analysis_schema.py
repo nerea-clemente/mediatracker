@@ -101,6 +101,18 @@ def test_partial_person_quoted_rejected() -> None:
         ArticleAnalysis.model_validate(bad)
 
 
+def test_is_about_target_brand_defaults_true_when_absent() -> None:
+    """Backward compatibility: model responses without the field assumed on-topic."""
+    a = ArticleAnalysis.model_validate(_good())
+    assert a.is_about_target_brand is True
+
+
+def test_is_about_target_brand_can_be_false() -> None:
+    payload = _good() | {"is_about_target_brand": False, "sentiment": "neutral"}
+    a = ArticleAnalysis.model_validate(payload)
+    assert a.is_about_target_brand is False
+
+
 def test_round_trip_via_json() -> None:
     """Serialise and reparse — what storage of the analysis row will do."""
     a = ArticleAnalysis.model_validate(_good())

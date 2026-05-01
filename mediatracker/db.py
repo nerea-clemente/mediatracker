@@ -16,9 +16,19 @@ def connect(db_path: Path) -> sqlite3.Connection:
     return conn
 
 
+def _ensure_column(
+    conn: sqlite3.Connection, table: str, column: str, ddl_type: str
+) -> None:
+    cols = {row["name"] for row in conn.execute(f"PRAGMA table_info({table})")}
+    if column not in cols:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {ddl_type}")
+
+
 def init_schema(conn: sqlite3.Connection) -> None:
     sql = SCHEMA_PATH.read_text(encoding="utf-8")
     conn.executescript(sql)
+    # Idempotent migrations for columns added after the initial schema.
+    _ensure_column(conn, "analyses", "is_about_target_brand", "INTEGER NOT NULL DEFAULT 1")
 
 
 @contextmanager

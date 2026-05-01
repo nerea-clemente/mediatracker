@@ -27,10 +27,11 @@ CREATE INDEX IF NOT EXISTS idx_mentions_cluster      ON mentions(cluster_id);
 CREATE INDEX IF NOT EXISTS idx_mentions_source_type  ON mentions(source_type);
 
 CREATE TABLE IF NOT EXISTS analyses (
-    id                   INTEGER PRIMARY KEY AUTOINCREMENT,
-    mention_id           INTEGER NOT NULL UNIQUE REFERENCES mentions(id) ON DELETE CASCADE,
-    sentiment            TEXT,        -- 'positive' | 'neutral' | 'negative'
-    sentiment_confidence REAL,
+    id                     INTEGER PRIMARY KEY AUTOINCREMENT,
+    mention_id             INTEGER NOT NULL UNIQUE REFERENCES mentions(id) ON DELETE CASCADE,
+    is_about_target_brand  INTEGER NOT NULL DEFAULT 1, -- 0 = wrong namesake, 1 = real BioMar
+    sentiment              TEXT,        -- 'positive' | 'neutral' | 'negative'
+    sentiment_confidence   REAL,
     prominence           TEXT,        -- 'primary' | 'secondary' | 'passing'
     angle                TEXT,
     key_claims           TEXT,        -- JSON array

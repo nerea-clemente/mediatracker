@@ -1,9 +1,11 @@
 {
-  "generated_at": "2026-05-01T10:27:52+00:00",
+  "generated_at": "2026-05-01T11:21:00+00:00",
   "stats": {
     "mention_count": 395,
     "story_count": 366,
-    "analyzed_count": 102
+    "analyzed_count": 102,
+    "off_topic_mentions": 0,
+    "off_topic_stories": 0
   },
   "outlets": [
     "20Minutos",
@@ -101,7 +103,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 366,
@@ -113,7 +116,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 363,
@@ -125,7 +129,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 361,
@@ -137,7 +142,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 360,
@@ -149,7 +155,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 359,
@@ -161,7 +168,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 357,
@@ -173,7 +181,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 358,
@@ -185,7 +194,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 356,
@@ -197,7 +207,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 365,
@@ -209,7 +220,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 354,
@@ -221,7 +233,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 355,
@@ -233,7 +246,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 353,
@@ -245,7 +259,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 352,
@@ -257,7 +272,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 344,
@@ -269,7 +285,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 347,
@@ -281,7 +298,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3
+      "pickup_count": 3,
+      "is_about_target_brand": true
     },
     {
       "id": 351,
@@ -293,7 +311,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 350,
@@ -305,7 +324,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 349,
@@ -317,7 +337,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 348,
@@ -329,7 +350,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 346,
@@ -341,7 +363,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 345,
@@ -353,7 +376,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 343,
@@ -365,7 +389,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 339,
@@ -377,7 +402,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 4
+      "pickup_count": 4,
+      "is_about_target_brand": true
     },
     {
       "id": 342,
@@ -389,7 +415,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 341,
@@ -401,7 +428,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 340,
@@ -413,7 +441,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 336,
@@ -425,7 +454,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 337,
@@ -437,7 +467,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 338,
@@ -449,7 +480,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 335,
@@ -461,7 +493,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 333,
@@ -473,7 +506,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 334,
@@ -485,7 +519,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 332,
@@ -497,7 +532,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 331,
@@ -509,7 +545,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 330,
@@ -521,7 +558,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 329,
@@ -533,7 +571,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 328,
@@ -545,7 +584,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 327,
@@ -557,7 +597,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 326,
@@ -569,7 +610,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 325,
@@ -581,7 +623,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 324,
@@ -593,7 +636,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 323,
@@ -605,7 +649,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 320,
@@ -617,7 +662,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 321,
@@ -629,7 +675,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 322,
@@ -641,7 +688,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 319,
@@ -653,7 +701,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 318,
@@ -665,7 +714,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 317,
@@ -677,7 +727,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 316,
@@ -689,7 +740,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 315,
@@ -701,7 +753,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 314,
@@ -713,7 +766,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 310,
@@ -725,7 +779,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 313,
@@ -737,7 +792,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 311,
@@ -749,7 +805,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 312,
@@ -761,7 +818,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 307,
@@ -773,7 +831,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 309,
@@ -785,7 +844,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 304,
@@ -797,7 +857,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 305,
@@ -809,7 +870,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 306,
@@ -821,7 +883,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 308,
@@ -833,7 +896,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 295,
@@ -845,7 +909,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3
+      "pickup_count": 3,
+      "is_about_target_brand": true
     },
     {
       "id": 301,
@@ -857,7 +922,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 302,
@@ -869,7 +935,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 303,
@@ -881,7 +948,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 294,
@@ -893,7 +961,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 296,
@@ -905,7 +974,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 297,
@@ -917,7 +987,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 298,
@@ -929,7 +1000,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 299,
@@ -941,7 +1013,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 300,
@@ -953,7 +1026,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 293,
@@ -965,7 +1039,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 290,
@@ -977,7 +1052,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 291,
@@ -989,7 +1065,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 292,
@@ -1001,7 +1078,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 289,
@@ -1013,7 +1091,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 286,
@@ -1025,7 +1104,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 287,
@@ -1037,7 +1117,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 288,
@@ -1049,7 +1130,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 285,
@@ -1061,7 +1143,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 284,
@@ -1073,7 +1156,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 283,
@@ -1085,7 +1169,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 282,
@@ -1097,7 +1182,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 281,
@@ -1109,7 +1195,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 279,
@@ -1121,7 +1208,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 280,
@@ -1133,7 +1221,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 269,
@@ -1145,7 +1234,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 270,
@@ -1157,7 +1247,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 271,
@@ -1169,7 +1260,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 272,
@@ -1181,7 +1273,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 273,
@@ -1193,7 +1286,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 274,
@@ -1205,7 +1299,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 275,
@@ -1217,7 +1312,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 276,
@@ -1229,7 +1325,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 277,
@@ -1241,7 +1338,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 278,
@@ -1253,7 +1351,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 268,
@@ -1265,7 +1364,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 266,
@@ -1277,7 +1377,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 267,
@@ -1289,7 +1390,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 258,
@@ -1301,7 +1403,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 259,
@@ -1313,7 +1416,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 260,
@@ -1325,7 +1429,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 261,
@@ -1337,7 +1442,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 262,
@@ -1349,7 +1455,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 6
+      "pickup_count": 6,
+      "is_about_target_brand": true
     },
     {
       "id": 263,
@@ -1361,7 +1468,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 264,
@@ -1373,7 +1481,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 265,
@@ -1385,7 +1494,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 255,
@@ -1397,7 +1507,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 256,
@@ -1409,7 +1520,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 257,
@@ -1421,7 +1533,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 254,
@@ -1433,7 +1546,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 253,
@@ -1445,7 +1559,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 251,
@@ -1457,7 +1572,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 252,
@@ -1469,7 +1585,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 248,
@@ -1481,7 +1598,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 249,
@@ -1493,7 +1611,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 250,
@@ -1505,7 +1624,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 246,
@@ -1517,7 +1637,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 247,
@@ -1529,7 +1650,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 244,
@@ -1541,7 +1663,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 245,
@@ -1553,7 +1676,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 242,
@@ -1565,7 +1689,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 243,
@@ -1577,7 +1702,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 241,
@@ -1589,7 +1715,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 238,
@@ -1601,7 +1728,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 239,
@@ -1613,7 +1741,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 240,
@@ -1625,7 +1754,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 237,
@@ -1637,7 +1767,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 236,
@@ -1649,7 +1780,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 235,
@@ -1661,7 +1793,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 234,
@@ -1673,7 +1806,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 232,
@@ -1685,7 +1819,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 233,
@@ -1697,7 +1832,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 231,
@@ -1709,7 +1845,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 230,
@@ -1721,7 +1858,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 229,
@@ -1733,7 +1871,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 228,
@@ -1745,7 +1884,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 227,
@@ -1757,7 +1897,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 226,
@@ -1769,7 +1910,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 225,
@@ -1781,7 +1923,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 224,
@@ -1793,7 +1936,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 223,
@@ -1805,7 +1949,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 222,
@@ -1817,7 +1962,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 218,
@@ -1829,7 +1975,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 219,
@@ -1841,7 +1988,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 220,
@@ -1853,7 +2001,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 221,
@@ -1865,7 +2014,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 217,
@@ -1877,7 +2027,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 216,
@@ -1889,7 +2040,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 215,
@@ -1901,7 +2053,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 213,
@@ -1913,7 +2066,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 214,
@@ -1925,7 +2079,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 212,
@@ -1937,7 +2092,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 208,
@@ -1949,7 +2105,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 209,
@@ -1961,7 +2118,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 210,
@@ -1973,7 +2131,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 211,
@@ -1985,7 +2144,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 207,
@@ -1997,7 +2157,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 206,
@@ -2009,7 +2170,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 205,
@@ -2021,7 +2183,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 203,
@@ -2033,7 +2196,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 204,
@@ -2045,7 +2209,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 202,
@@ -2057,7 +2222,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 200,
@@ -2069,7 +2235,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 201,
@@ -2081,7 +2248,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 197,
@@ -2093,7 +2261,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 198,
@@ -2105,7 +2274,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 199,
@@ -2117,7 +2287,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 196,
@@ -2129,7 +2300,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 194,
@@ -2141,7 +2313,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 195,
@@ -2153,7 +2326,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 193,
@@ -2165,7 +2339,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 192,
@@ -2177,7 +2352,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 191,
@@ -2189,7 +2365,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 189,
@@ -2201,7 +2378,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 190,
@@ -2213,7 +2391,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 188,
@@ -2225,7 +2404,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 186,
@@ -2237,7 +2417,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 187,
@@ -2249,7 +2430,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 185,
@@ -2261,7 +2443,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 183,
@@ -2273,7 +2456,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 184,
@@ -2285,7 +2469,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 182,
@@ -2297,7 +2482,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 176,
@@ -2309,7 +2495,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 181,
@@ -2321,7 +2508,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 180,
@@ -2333,7 +2521,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 177,
@@ -2345,7 +2534,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 178,
@@ -2357,7 +2547,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 179,
@@ -2369,7 +2560,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 175,
@@ -2381,7 +2573,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 174,
@@ -2393,7 +2586,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 173,
@@ -2405,7 +2599,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 172,
@@ -2417,7 +2612,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 171,
@@ -2429,7 +2625,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 169,
@@ -2441,7 +2638,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 170,
@@ -2453,7 +2651,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 167,
@@ -2465,7 +2664,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 168,
@@ -2477,7 +2677,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 166,
@@ -2489,7 +2690,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 165,
@@ -2501,7 +2703,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 164,
@@ -2513,7 +2716,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 163,
@@ -2525,7 +2729,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 157,
@@ -2537,7 +2742,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 158,
@@ -2549,7 +2755,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 159,
@@ -2561,7 +2768,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 160,
@@ -2573,7 +2781,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 161,
@@ -2585,7 +2794,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 162,
@@ -2597,7 +2807,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 155,
@@ -2609,7 +2820,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 156,
@@ -2621,7 +2833,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 154,
@@ -2633,7 +2846,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 153,
@@ -2645,7 +2859,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 152,
@@ -2657,7 +2872,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 151,
@@ -2669,7 +2885,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 150,
@@ -2681,7 +2898,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 149,
@@ -2693,7 +2911,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 148,
@@ -2705,7 +2924,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 147,
@@ -2717,7 +2937,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 146,
@@ -2729,7 +2950,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 143,
@@ -2741,7 +2963,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 144,
@@ -2753,7 +2976,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 145,
@@ -2765,7 +2989,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 142,
@@ -2777,7 +3002,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 141,
@@ -2789,7 +3015,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 140,
@@ -2801,7 +3028,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 139,
@@ -2813,7 +3041,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 138,
@@ -2825,7 +3054,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 136,
@@ -2837,7 +3067,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 137,
@@ -2849,7 +3080,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 135,
@@ -2861,7 +3093,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 133,
@@ -2873,7 +3106,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 134,
@@ -2885,7 +3119,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 131,
@@ -2897,7 +3132,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 132,
@@ -2909,7 +3145,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 128,
@@ -2921,7 +3158,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 129,
@@ -2933,7 +3171,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 130,
@@ -2945,7 +3184,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 127,
@@ -2957,7 +3197,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 126,
@@ -2969,7 +3210,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 125,
@@ -2981,7 +3223,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 124,
@@ -2993,7 +3236,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 123,
@@ -3005,7 +3249,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 122,
@@ -3017,7 +3262,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 121,
@@ -3029,7 +3275,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 120,
@@ -3041,7 +3288,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 119,
@@ -3053,7 +3301,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 118,
@@ -3065,7 +3314,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 117,
@@ -3077,7 +3327,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 116,
@@ -3089,7 +3340,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 115,
@@ -3101,7 +3353,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 114,
@@ -3113,7 +3366,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 113,
@@ -3125,7 +3379,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 112,
@@ -3137,7 +3392,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 111,
@@ -3149,7 +3405,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 110,
@@ -3161,7 +3418,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 109,
@@ -3173,7 +3431,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 107,
@@ -3185,7 +3444,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 108,
@@ -3197,7 +3457,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 106,
@@ -3209,7 +3470,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 105,
@@ -3221,7 +3483,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 364,
@@ -3233,7 +3496,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 103,
@@ -3245,7 +3509,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 104,
@@ -3257,7 +3522,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 102,
@@ -3269,7 +3535,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 101,
@@ -3281,7 +3548,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 100,
@@ -3293,7 +3561,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 99,
@@ -3305,7 +3574,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 97,
@@ -3317,7 +3587,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 98,
@@ -3329,7 +3600,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 96,
@@ -3341,7 +3613,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 95,
@@ -3353,7 +3626,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 94,
@@ -3365,7 +3639,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 93,
@@ -3377,7 +3652,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 92,
@@ -3389,7 +3665,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 91,
@@ -3401,7 +3678,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 90,
@@ -3413,7 +3691,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 89,
@@ -3425,7 +3704,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 88,
@@ -3437,7 +3717,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 87,
@@ -3449,7 +3730,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 86,
@@ -3461,7 +3743,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 85,
@@ -3473,7 +3756,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 84,
@@ -3485,7 +3769,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 83,
@@ -3497,7 +3782,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 81,
@@ -3509,7 +3795,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 82,
@@ -3521,7 +3808,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 80,
@@ -3533,7 +3821,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 79,
@@ -3545,7 +3834,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 78,
@@ -3557,7 +3847,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 76,
@@ -3569,7 +3860,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 77,
@@ -3581,7 +3873,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 75,
@@ -3593,7 +3886,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 74,
@@ -3605,7 +3899,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 73,
@@ -3617,7 +3912,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 72,
@@ -3629,7 +3925,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 71,
@@ -3641,7 +3938,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 70,
@@ -3653,7 +3951,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 69,
@@ -3665,7 +3964,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 68,
@@ -3677,7 +3977,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 67,
@@ -3689,7 +3990,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 66,
@@ -3701,7 +4003,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 65,
@@ -3713,7 +4016,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 64,
@@ -3725,7 +4029,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 63,
@@ -3737,7 +4042,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 62,
@@ -3749,7 +4055,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 61,
@@ -3761,7 +4068,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 60,
@@ -3773,7 +4081,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 59,
@@ -3785,7 +4094,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 58,
@@ -3797,7 +4107,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 57,
@@ -3809,7 +4120,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 56,
@@ -3821,7 +4133,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 55,
@@ -3833,7 +4146,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 54,
@@ -3845,7 +4159,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 53,
@@ -3857,7 +4172,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 52,
@@ -3869,7 +4185,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 51,
@@ -3881,7 +4198,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 50,
@@ -3893,7 +4211,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 49,
@@ -3905,7 +4224,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 48,
@@ -3917,7 +4237,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 47,
@@ -3929,7 +4250,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 46,
@@ -3941,7 +4263,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 45,
@@ -3953,7 +4276,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 44,
@@ -3965,7 +4289,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 43,
@@ -3977,7 +4302,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 42,
@@ -3989,7 +4315,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 41,
@@ -4001,7 +4328,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 40,
@@ -4013,7 +4341,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 39,
@@ -4025,7 +4354,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 38,
@@ -4037,7 +4367,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 36,
@@ -4049,7 +4380,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 37,
@@ -4061,7 +4393,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 35,
@@ -4073,7 +4406,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 33,
@@ -4085,7 +4419,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 34,
@@ -4097,7 +4432,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 32,
@@ -4109,7 +4445,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 31,
@@ -4121,7 +4458,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 30,
@@ -4133,7 +4471,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 29,
@@ -4145,7 +4484,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 27,
@@ -4157,7 +4497,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 28,
@@ -4169,7 +4510,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 26,
@@ -4181,7 +4523,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 25,
@@ -4193,7 +4536,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 23,
@@ -4205,7 +4549,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 24,
@@ -4217,7 +4562,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 22,
@@ -4229,7 +4575,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 21,
@@ -4241,7 +4588,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 20,
@@ -4253,7 +4601,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 19,
@@ -4265,7 +4614,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 17,
@@ -4277,7 +4627,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 18,
@@ -4289,7 +4640,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 16,
@@ -4301,7 +4653,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 15,
@@ -4313,7 +4666,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 14,
@@ -4325,7 +4679,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 13,
@@ -4337,7 +4692,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 12,
@@ -4349,7 +4705,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 11,
@@ -4361,7 +4718,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 10,
@@ -4373,7 +4731,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 9,
@@ -4385,7 +4744,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 8,
@@ -4397,7 +4757,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 7,
@@ -4409,7 +4770,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 6,
@@ -4421,7 +4783,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 5,
@@ -4433,7 +4796,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 3,
@@ -4445,7 +4809,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2
+      "pickup_count": 2,
+      "is_about_target_brand": true
     },
     {
       "id": 4,
@@ -4457,7 +4822,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 2,
@@ -4469,7 +4835,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     },
     {
       "id": 1,
@@ -4481,7 +4848,8 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1
+      "pickup_count": 1,
+      "is_about_target_brand": true
     }
   ],
   "mentions": [
@@ -4493,6 +4861,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-05-01T08:37:55+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -4512,6 +4881,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2026-04-29T18:02:40+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -4534,6 +4904,7 @@
       "source_name": "IndexBox",
       "language": "en",
       "published_at": "2026-04-30T18:10:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -4557,6 +4928,7 @@
       "source_name": "marketscreener.com",
       "language": "en",
       "published_at": "2026-05-01T06:05:34+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -4578,6 +4950,7 @@
       "source_name": "Investing.com Nigeria",
       "language": "en",
       "published_at": "2026-05-01T08:18:46+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -4597,6 +4970,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-05-01T08:56:24+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "secondary",
@@ -4616,6 +4990,7 @@
       "source_name": "Perishable News",
       "language": "en",
       "published_at": "2026-04-28T17:51:02+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.72,
       "prominence": "primary",
@@ -4635,6 +5010,7 @@
       "source_name": "Aquafeed.com",
       "language": "en",
       "published_at": "2026-04-28T12:11:12+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -4654,6 +5030,7 @@
       "source_name": "WEAREAQUACULTURE",
       "language": "en",
       "published_at": "2026-04-28T14:20:21+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -4673,6 +5050,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2026-04-30T13:09:33+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -4692,6 +5070,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2026-04-28T18:01:40+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -4714,6 +5093,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2026-03-06T17:33:06+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -4733,6 +5113,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-04-28T12:18:36+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -4752,6 +5133,7 @@
       "source_name": "Perishable News",
       "language": "en",
       "published_at": "2026-04-21T18:01:31+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -4771,6 +5153,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -4790,6 +5173,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2026-02-13T16:51:54+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -4809,6 +5193,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-04-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -4828,6 +5213,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2025-11-17T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -4847,6 +5233,7 @@
       "source_name": "Aquafeed.com",
       "language": "en",
       "published_at": "2026-04-17T10:48:44+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -4866,6 +5253,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -4885,6 +5273,7 @@
       "source_name": "BioProcess International",
       "language": "en",
       "published_at": "2025-11-19T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -4904,6 +5293,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2026-02-28T07:04:58+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -4925,6 +5315,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-01-28T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -4944,6 +5335,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-01-04T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.7,
       "prominence": "primary",
@@ -4963,6 +5355,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-02-20T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -4982,6 +5375,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2025-09-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5001,6 +5395,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2025-08-15T17:22:25+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5020,6 +5415,7 @@
       "source_name": "Undercurrent News",
       "language": "en",
       "published_at": "2026-04-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.9,
       "prominence": "primary",
@@ -5039,6 +5435,7 @@
       "source_name": "WEAREAQUACULTURE",
       "language": "en",
       "published_at": "2025-11-14T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5058,6 +5455,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -5077,6 +5475,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2025-10-08T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5096,6 +5495,7 @@
       "source_name": "Seafoodnews",
       "language": "en",
       "published_at": "2026-01-28T13:10:05+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -5117,6 +5517,7 @@
       "source_name": "Seafoodnews",
       "language": "en",
       "published_at": "2026-02-06T17:12:25+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -5136,6 +5537,7 @@
       "source_name": "WEAREAQUACULTURE",
       "language": "en",
       "published_at": "2026-04-17T11:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -5155,6 +5557,7 @@
       "source_name": "Seafoodnews",
       "language": "en",
       "published_at": "2026-03-03T12:36:13+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -5174,6 +5577,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -5193,6 +5597,7 @@
       "source_name": "Aquafeed.com",
       "language": "en",
       "published_at": "2026-01-07T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.72,
       "prominence": "primary",
@@ -5212,6 +5617,7 @@
       "source_name": "The Fish Site",
       "language": "en",
       "published_at": "2026-02-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -5231,6 +5637,7 @@
       "source_name": "The Fish Site",
       "language": "en",
       "published_at": "2025-09-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5250,6 +5657,7 @@
       "source_name": "Aquafeed.com",
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -5269,6 +5677,7 @@
       "source_name": "Perishable News",
       "language": "en",
       "published_at": "2026-02-10T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -5288,6 +5697,7 @@
       "source_name": "Aquafeed.com",
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -5307,6 +5717,7 @@
       "source_name": "WEAREAQUACULTURE",
       "language": "en",
       "published_at": "2025-12-01T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5326,6 +5737,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2025-07-14T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5345,6 +5757,7 @@
       "source_name": "WEAREAQUACULTURE",
       "language": "en",
       "published_at": "2025-10-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5364,6 +5777,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2025-11-12T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5383,6 +5797,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2026-01-28T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -5402,6 +5817,7 @@
       "source_name": "Global Seafood Alliance",
       "language": "en",
       "published_at": "2025-09-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5421,6 +5837,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -5440,6 +5857,7 @@
       "source_name": "The Fish Site",
       "language": "en",
       "published_at": "2025-10-28T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5459,6 +5877,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2025-10-27T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5478,6 +5897,7 @@
       "source_name": "Undercurrent News",
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.82,
       "prominence": "primary",
@@ -5497,6 +5917,7 @@
       "source_name": "Undercurrent News",
       "language": "en",
       "published_at": "2026-03-25T11:16:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "negative",
       "sentiment_confidence": 0.95,
       "prominence": "secondary",
@@ -5516,6 +5937,7 @@
       "source_name": "The Fish Site",
       "language": "en",
       "published_at": "2025-11-26T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5535,6 +5957,7 @@
       "source_name": "Aquafeed.com",
       "language": "en",
       "published_at": "2026-03-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -5554,6 +5977,7 @@
       "source_name": "Bloomberg.com",
       "language": "en",
       "published_at": "2025-06-19T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5573,6 +5997,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2026-04-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.9,
       "prominence": "primary",
@@ -5592,6 +6017,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-03-24T04:38:51+00:00",
+      "is_about_target_brand": true,
       "sentiment": "negative",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -5611,6 +6037,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2025-12-01T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5630,6 +6057,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-03-23T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.75,
       "prominence": "secondary",
@@ -5649,6 +6077,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2025-11-13T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5668,6 +6097,7 @@
       "source_name": "misPeces",
       "language": "en",
       "published_at": "2025-11-17T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5687,6 +6117,7 @@
       "source_name": "misPeces",
       "language": "en",
       "published_at": "2025-09-03T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5706,6 +6137,7 @@
       "source_name": "The Fish Site",
       "language": "en",
       "published_at": "2025-07-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5725,6 +6157,7 @@
       "source_name": "russpain.com",
       "language": "en",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5744,6 +6177,7 @@
       "source_name": "RuhrkanalNews",
       "language": "en",
       "published_at": "2026-04-18T05:02:01+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "passing",
@@ -5763,6 +6197,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2026-02-11T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -5782,6 +6217,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2025-05-29T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5801,6 +6237,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2025-07-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5820,6 +6257,7 @@
       "source_name": "Global Seafood Alliance",
       "language": "en",
       "published_at": "2025-07-09T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5839,6 +6277,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2025-06-18T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5858,6 +6297,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2026-02-16T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -5877,6 +6317,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2026-01-28T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5896,6 +6337,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.9,
       "prominence": "primary",
@@ -5915,6 +6357,7 @@
       "source_name": "russpain.com",
       "language": "en",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5934,6 +6377,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2025-09-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5953,6 +6397,7 @@
       "source_name": "misPeces",
       "language": "en",
       "published_at": "2025-10-22T06:46:55+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5972,6 +6417,7 @@
       "source_name": "Undercurrent News",
       "language": "en",
       "published_at": "2025-11-13T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -5991,6 +6437,7 @@
       "source_name": "simplywall.st",
       "language": "en",
       "published_at": "2026-02-16T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6010,6 +6457,7 @@
       "source_name": "Fish Farmer",
       "language": "en",
       "published_at": "2026-02-09T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6029,6 +6477,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2025-08-15T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6048,6 +6497,7 @@
       "source_name": "Scandasia",
       "language": "en",
       "published_at": "2026-02-12T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -6067,6 +6517,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2025-11-14T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6086,6 +6537,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2025-08-19T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6105,6 +6557,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2025-05-26T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6124,6 +6577,7 @@
       "source_name": "RuhrkanalNews",
       "language": "en",
       "published_at": "2026-03-31T02:33:23+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "passing",
@@ -6143,6 +6597,7 @@
       "source_name": "misPeces",
       "language": "en",
       "published_at": "2025-08-19T07:49:45+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6162,6 +6617,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2025-05-05T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6181,6 +6637,7 @@
       "source_name": "misPeces",
       "language": "en",
       "published_at": "2025-09-12T13:24:09+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6200,6 +6657,7 @@
       "source_name": "Seafoodnews",
       "language": "en",
       "published_at": "2025-05-27T17:23:57+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6219,6 +6677,7 @@
       "source_name": "WEAREAQUACULTURE",
       "language": "en",
       "published_at": "2025-10-28T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6238,6 +6697,7 @@
       "source_name": "Fish Farming Expert",
       "language": "en",
       "published_at": "2025-05-26T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6257,6 +6717,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2025-10-28T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6276,6 +6737,7 @@
       "source_name": "The Fish Site",
       "language": "en",
       "published_at": "2025-06-04T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6295,6 +6757,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2025-06-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6314,6 +6777,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2025-05-08T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6333,6 +6797,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2024-03-04T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6352,6 +6817,7 @@
       "source_name": "RuhrkanalNews",
       "language": "en",
       "published_at": "2026-03-25T15:04:21+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "passing",
@@ -6371,6 +6837,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-12-01T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6390,6 +6857,7 @@
       "source_name": "WEAREAQUACULTURE",
       "language": "en",
       "published_at": "2025-05-26T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6409,6 +6877,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2026-01-29T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -6428,6 +6897,7 @@
       "source_name": "IntraFish",
       "language": "da",
       "published_at": "2025-10-20T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6447,6 +6917,7 @@
       "source_name": "Finansavisen",
       "language": "da",
       "published_at": "2025-12-01T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6466,6 +6937,7 @@
       "source_name": "Bladet Vesterålen",
       "language": "da",
       "published_at": "2025-12-23T08:54:11+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.5,
       "prominence": "passing",
@@ -6485,6 +6957,7 @@
       "source_name": "Det Norske Kongehus",
       "language": "da",
       "published_at": "2025-12-17T13:09:53+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6504,6 +6977,7 @@
       "source_name": "vol.no",
       "language": "da",
       "published_at": "2026-02-01T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "passing",
@@ -6523,6 +6997,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2026-03-03T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.75,
       "prominence": "passing",
@@ -6542,6 +7017,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2025-05-30T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6561,6 +7037,7 @@
       "source_name": "Maritimt Magasin",
       "language": "da",
       "published_at": "2025-06-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6580,6 +7057,7 @@
       "source_name": "Bladet Vesterålen",
       "language": "da",
       "published_at": "2025-10-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6599,6 +7077,7 @@
       "source_name": "Finansavisen",
       "language": "da",
       "published_at": "2025-07-23T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6618,6 +7097,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2025-08-15T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6637,6 +7117,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2025-08-12T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6656,6 +7137,7 @@
       "source_name": "IntraFish",
       "language": "da",
       "published_at": "2025-03-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6675,6 +7157,7 @@
       "source_name": "Bladet Vesterålen",
       "language": "da",
       "published_at": "2025-11-08T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6694,6 +7177,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2026-03-20T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "negative",
       "sentiment_confidence": 0.9,
       "prominence": "secondary",
@@ -6713,6 +7197,7 @@
       "source_name": "IntraFish",
       "language": "da",
       "published_at": "2024-11-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6732,6 +7217,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2025-09-28T22:01:20+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6751,6 +7237,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2025-10-27T11:30:03+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6770,6 +7257,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2025-09-29T03:57:31+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6789,6 +7277,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2024-11-13T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6808,6 +7297,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2024-09-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6827,6 +7317,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2025-03-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6846,6 +7337,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2024-08-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6865,6 +7357,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2022-03-05T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6884,6 +7377,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2025-03-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6903,6 +7397,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2017-10-24T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6922,6 +7417,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2021-07-01T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6941,6 +7437,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2025-03-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6960,6 +7457,7 @@
       "source_name": "Bladet Vesterålen",
       "language": "da",
       "published_at": "2024-01-19T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6979,6 +7477,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2024-01-10T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -6998,6 +7497,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2019-01-10T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7017,6 +7517,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2022-05-05T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7036,6 +7537,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2023-05-04T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7055,6 +7557,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2019-03-12T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7074,6 +7577,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2023-03-24T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7093,6 +7597,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2019-03-05T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7112,6 +7617,7 @@
       "source_name": "Havpuls",
       "language": "da",
       "published_at": "2025-03-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7131,6 +7637,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2019-03-14T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7150,6 +7657,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2023-03-03T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7169,6 +7677,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2023-10-09T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7188,6 +7697,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2021-06-24T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7207,6 +7717,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2023-05-24T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7226,6 +7737,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2016-09-09T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7245,6 +7757,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2024-03-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7264,6 +7777,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2023-11-14T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7283,6 +7797,7 @@
       "source_name": "Skipsrevyen",
       "language": "da",
       "published_at": "2017-10-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7302,6 +7817,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2023-10-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7321,6 +7837,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2024-05-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7340,6 +7857,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2022-12-15T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7359,6 +7877,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2023-08-21T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7378,6 +7897,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2022-12-15T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7397,6 +7917,7 @@
       "source_name": "Bladet Vesterålen",
       "language": "da",
       "published_at": "2022-08-12T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7416,6 +7937,7 @@
       "source_name": "Haugesunds Avis",
       "language": "da",
       "published_at": "2025-05-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7435,6 +7957,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2018-06-22T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7454,6 +7977,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2024-01-11T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7473,6 +7997,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2017-10-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7492,6 +8017,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2020-11-05T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7511,6 +8037,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2022-07-21T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7530,6 +8057,7 @@
       "source_name": "NRK",
       "language": "da",
       "published_at": "2023-02-23T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7549,6 +8077,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2019-01-10T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7568,6 +8097,7 @@
       "source_name": "vol.no",
       "language": "da",
       "published_at": "2019-11-23T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7587,6 +8117,7 @@
       "source_name": "Bladet Vesterålen",
       "language": "da",
       "published_at": "2024-09-15T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7606,6 +8137,7 @@
       "source_name": "LandbasedAQ.no",
       "language": "da",
       "published_at": "2022-05-06T21:24:48+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7625,6 +8157,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2019-11-07T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7644,6 +8177,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2021-10-18T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7663,6 +8197,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2015-06-18T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7682,6 +8217,7 @@
       "source_name": "MatvareWatch",
       "language": "da",
       "published_at": "2024-04-19T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7701,6 +8237,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2020-03-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7720,6 +8257,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2015-09-23T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7739,6 +8277,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2020-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7758,6 +8297,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2020-06-29T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7777,6 +8317,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2015-12-21T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7796,6 +8337,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2019-10-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7815,6 +8357,7 @@
       "source_name": "vol.no",
       "language": "da",
       "published_at": "2023-04-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7834,6 +8377,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2022-11-15T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7853,6 +8397,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2015-09-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7872,6 +8417,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2022-04-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7891,6 +8437,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2017-04-25T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7910,6 +8457,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2019-06-03T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7929,6 +8477,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2013-04-15T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7948,6 +8497,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2020-12-09T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7967,6 +8517,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2021-08-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -7986,6 +8537,7 @@
       "source_name": "Bladet Vesterålen",
       "language": "da",
       "published_at": "2025-03-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8005,6 +8557,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2020-05-06T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8024,6 +8577,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2017-03-13T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8043,6 +8597,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2020-02-24T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8062,6 +8617,7 @@
       "source_name": "Vesterålnytt",
       "language": "da",
       "published_at": "2023-10-24T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8081,6 +8637,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2023-10-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8100,6 +8657,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2017-06-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8119,6 +8677,7 @@
       "source_name": "FriFagbevegelse",
       "language": "da",
       "published_at": "2021-10-31T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8138,6 +8697,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2015-11-05T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8157,6 +8717,7 @@
       "source_name": "vol.no",
       "language": "da",
       "published_at": "2025-03-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8176,6 +8737,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2019-04-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8195,6 +8757,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "da",
       "published_at": "2024-06-13T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8214,6 +8777,7 @@
       "source_name": "banett.no",
       "language": "da",
       "published_at": "2025-03-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8233,6 +8797,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2023-03-08T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8252,6 +8817,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2020-12-15T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8271,6 +8837,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2014-05-27T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8290,6 +8857,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2018-03-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8309,6 +8877,7 @@
       "source_name": "vol.no",
       "language": "no",
       "published_at": "2024-04-05T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8328,6 +8897,7 @@
       "source_name": "Kyst.no",
       "language": "no",
       "published_at": "2019-06-06T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8347,6 +8917,7 @@
       "source_name": "Mynewsdesk",
       "language": "no",
       "published_at": "2021-12-09T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8366,6 +8937,7 @@
       "source_name": "Mundoacuicola",
       "language": "es",
       "published_at": "2026-04-30T21:58:50+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -8385,6 +8957,7 @@
       "source_name": "aqua.cl",
       "language": "es",
       "published_at": "2026-04-30T16:41:15+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8404,6 +8977,7 @@
       "source_name": "MarketScreener España",
       "language": "es",
       "published_at": "2026-05-01T06:05:34+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -8423,6 +8997,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2026-02-26T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -8442,6 +9017,7 @@
       "source_name": "Mundoacuicola",
       "language": "es",
       "published_at": "2026-04-08T19:02:50+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -8461,6 +9037,7 @@
       "source_name": "IPac Acuicultura",
       "language": "es",
       "published_at": "2025-09-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8480,6 +9057,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2026-03-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8499,6 +9077,7 @@
       "source_name": "MSN",
       "language": "es",
       "published_at": "2026-04-26T18:57:38+00:00",
+      "is_about_target_brand": true,
       "sentiment": "negative",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -8518,6 +9097,7 @@
       "source_name": "aqua.cl",
       "language": "es",
       "published_at": "2026-01-29T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -8537,6 +9117,7 @@
       "source_name": "Mundoacuicola",
       "language": "es",
       "published_at": "2026-02-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8556,6 +9137,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2025-11-14T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8575,6 +9157,7 @@
       "source_name": "aqua.cl",
       "language": "es",
       "published_at": "2026-02-24T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8594,6 +9177,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2026-01-29T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -8613,6 +9197,7 @@
       "source_name": "Mundoacuicola",
       "language": "es",
       "published_at": "2025-09-24T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8632,6 +9217,7 @@
       "source_name": "aqua.cl",
       "language": "es",
       "published_at": "2026-02-09T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -8651,6 +9237,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2025-11-11T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8670,6 +9257,7 @@
       "source_name": "aqua.cl",
       "language": "es",
       "published_at": "2026-02-17T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -8689,6 +9277,7 @@
       "source_name": "Mundoacuicola",
       "language": "es",
       "published_at": "2025-08-27T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8708,6 +9297,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2026-03-13T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.75,
       "prominence": "passing",
@@ -8727,6 +9317,7 @@
       "source_name": "aqua.cl",
       "language": "es",
       "published_at": "2025-08-29T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8746,6 +9337,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2025-07-08T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8765,6 +9357,7 @@
       "source_name": "Mundoacuicola",
       "language": "es",
       "published_at": "2025-07-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8784,6 +9377,7 @@
       "source_name": "IPac Acuicultura",
       "language": "es",
       "published_at": "2025-10-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8803,6 +9397,7 @@
       "source_name": "La Tercera",
       "language": "es",
       "published_at": "2025-07-01T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8822,6 +9417,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2026-02-09T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.78,
       "prominence": "primary",
@@ -8841,6 +9437,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2025-05-27T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8860,6 +9457,7 @@
       "source_name": "BioBioChile",
       "language": "es",
       "published_at": "2025-07-01T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8879,6 +9477,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2025-05-05T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8898,6 +9497,7 @@
       "source_name": "Infobae",
       "language": "es",
       "published_at": "2025-07-08T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8917,6 +9517,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2025-10-01T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8936,6 +9537,7 @@
       "source_name": "EL PAÍS",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8955,6 +9557,7 @@
       "source_name": "Cadena SER",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8974,6 +9577,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2025-06-18T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -8993,6 +9597,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2025-09-12T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9012,6 +9617,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2025-08-19T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9031,6 +9637,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2024-11-14T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9050,6 +9657,7 @@
       "source_name": "BioBioChile",
       "language": "es",
       "published_at": "2024-11-26T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9069,6 +9677,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2024-11-15T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9088,6 +9697,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2025-02-19T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9107,6 +9717,7 @@
       "source_name": "elciudadano.com",
       "language": "es",
       "published_at": "2025-07-06T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9126,6 +9737,7 @@
       "source_name": "Infobae",
       "language": "es",
       "published_at": "2025-12-21T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "passing",
@@ -9145,6 +9757,7 @@
       "source_name": "Mundoacuicola",
       "language": "es",
       "published_at": "2024-01-10T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9164,6 +9777,7 @@
       "source_name": "Diario Red",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9183,6 +9797,7 @@
       "source_name": "Libertad Digital",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "passing",
@@ -9202,6 +9817,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2024-12-12T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9221,6 +9837,7 @@
       "source_name": "Mundoacuicola",
       "language": "es",
       "published_at": "2025-03-25T08:48:13+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9240,6 +9857,7 @@
       "source_name": "El Mundo",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "negative",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -9259,6 +9877,7 @@
       "source_name": "LaSexta",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9278,6 +9897,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2021-11-15T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9297,6 +9917,7 @@
       "source_name": "Diario de León",
       "language": "es",
       "published_at": "2025-09-21T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9316,6 +9937,7 @@
       "source_name": "La Razón",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9335,6 +9957,7 @@
       "source_name": "El Periódico de la Energía",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "passing",
@@ -9354,6 +9977,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2025-05-22T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9373,6 +9997,7 @@
       "source_name": "El Español",
       "language": "es",
       "published_at": "2025-12-03T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9392,6 +10017,7 @@
       "source_name": "ABC",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "negative",
       "sentiment_confidence": 0.85,
       "prominence": "passing",
@@ -9411,6 +10037,7 @@
       "source_name": "EFE - Agencia de noticias",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9430,6 +10057,7 @@
       "source_name": "Diario de Burgos",
       "language": "es",
       "published_at": "2025-12-28T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "negative",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -9449,6 +10077,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2023-02-15T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9468,6 +10097,7 @@
       "source_name": "El Confidencial",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9487,6 +10117,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2023-11-07T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9506,6 +10137,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2023-12-07T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9525,6 +10157,7 @@
       "source_name": "Demócrata",
       "language": "es",
       "published_at": "2025-12-03T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9544,6 +10177,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2023-04-27T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9563,6 +10197,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2023-04-20T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9582,6 +10217,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2023-09-14T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9601,6 +10237,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2022-04-05T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9620,6 +10257,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2024-10-22T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9639,6 +10277,7 @@
       "source_name": "La Vanguardia",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9658,6 +10297,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2024-03-04T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9677,6 +10317,7 @@
       "source_name": "Onda Vasca",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9696,6 +10337,7 @@
       "source_name": "The Objective",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9715,6 +10357,7 @@
       "source_name": "Vozpopuli",
       "language": "es",
       "published_at": "2025-12-21T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.9,
       "prominence": "passing",
@@ -9734,6 +10377,7 @@
       "source_name": "Diario Red",
       "language": "es",
       "published_at": "2025-11-11T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9753,6 +10397,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2024-04-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9772,6 +10417,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2022-02-09T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9791,6 +10437,7 @@
       "source_name": "20Minutos",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "passing",
@@ -9810,6 +10457,7 @@
       "source_name": "aqua.cl",
       "language": "es",
       "published_at": "2020-11-24T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9829,6 +10477,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2022-01-17T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9848,6 +10497,7 @@
       "source_name": "Demócrata",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9867,6 +10517,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2025-03-24T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9886,6 +10537,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2023-09-27T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9905,6 +10557,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2023-03-08T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9924,6 +10577,7 @@
       "source_name": "Noticias de Navarra",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "negative",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -9943,6 +10597,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2024-11-07T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9962,6 +10617,7 @@
       "source_name": "ABC",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -9981,6 +10637,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2023-03-29T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10000,6 +10657,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2021-04-12T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10019,6 +10677,7 @@
       "source_name": "La Vanguardia",
       "language": "es",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.9,
       "prominence": "passing",
@@ -10038,6 +10697,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2021-03-07T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10057,6 +10717,7 @@
       "source_name": "aqua.cl",
       "language": "es",
       "published_at": "2020-06-30T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10076,6 +10737,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2024-06-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10095,6 +10757,7 @@
       "source_name": "La Tercera",
       "language": "es",
       "published_at": "2019-03-14T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10114,6 +10777,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2022-09-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10133,6 +10797,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2023-09-28T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10152,6 +10817,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2019-11-07T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10171,6 +10837,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2022-01-21T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10190,6 +10857,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2020-07-06T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10209,6 +10877,7 @@
       "source_name": "elDiario.es",
       "language": "es",
       "published_at": "2025-12-02T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10228,6 +10897,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2022-12-07T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10247,6 +10917,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2016-03-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10266,6 +10937,7 @@
       "source_name": "Investing.com",
       "language": "en",
       "published_at": "2026-05-01T08:59:15+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -10285,6 +10957,7 @@
       "source_name": "marketscreener.com",
       "language": "en",
       "published_at": "2026-05-01T05:59:04+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10304,6 +10977,7 @@
       "source_name": "Finansavisen",
       "language": "en",
       "published_at": "2026-04-30T21:05:41+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -10323,6 +10997,7 @@
       "source_name": "GlobeNewswire",
       "language": "en",
       "published_at": "2026-04-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -10342,6 +11017,7 @@
       "source_name": "Investing.com UK",
       "language": "en",
       "published_at": "2026-05-01T08:14:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -10361,6 +11037,7 @@
       "source_name": "marketscreener.com",
       "language": "en",
       "published_at": "2026-04-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -10380,6 +11057,7 @@
       "source_name": "The Manila Times",
       "language": "en",
       "published_at": "2026-04-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -10399,6 +11077,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2026-03-30T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -10418,6 +11097,7 @@
       "source_name": "Via Ritzau",
       "language": "en",
       "published_at": "2026-03-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.5,
       "prominence": "passing",
@@ -10437,6 +11117,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-12-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.9,
       "prominence": "primary",
@@ -10456,6 +11137,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2026-02-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.9,
       "prominence": "primary",
@@ -10475,6 +11157,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-11-12T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10494,6 +11177,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-08-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10513,6 +11197,7 @@
       "source_name": "Finansavisen",
       "language": "en",
       "published_at": "2026-01-27T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -10532,6 +11217,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-07-14T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10551,6 +11237,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-08-15T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10570,6 +11257,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-06-30T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10589,6 +11277,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-06-23T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10608,6 +11297,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-06-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10627,6 +11317,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-06-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10646,6 +11337,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-06-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10665,6 +11357,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-05-26T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10684,6 +11377,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-05-19T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10703,6 +11397,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-05-12T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10722,6 +11417,7 @@
       "source_name": "WEAREAQUACULTURE",
       "language": "en",
       "published_at": "2024-11-13T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10741,6 +11437,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-05-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10760,6 +11457,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2024-11-12T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10779,6 +11477,7 @@
       "source_name": "AgTechNavigator.com",
       "language": "en",
       "published_at": "2024-11-12T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10798,6 +11497,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-12-23T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10817,6 +11517,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-02-24T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10836,6 +11537,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-03-10T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10855,6 +11557,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-03-03T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10874,6 +11577,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-04-01T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10893,6 +11597,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-02-17T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10912,6 +11617,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-01-20T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10931,6 +11637,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-01-27T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10950,6 +11657,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-11-25T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10969,6 +11677,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-11-18T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -10988,6 +11697,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-12-16T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11007,6 +11717,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-02-03T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11026,6 +11737,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-11-11T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11045,6 +11757,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-12-23T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11064,6 +11777,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-10-21T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11083,6 +11797,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-10-28T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11102,6 +11817,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-05-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11121,6 +11837,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-10-14T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11140,6 +11857,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-01-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11159,6 +11877,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-11-12T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11178,6 +11897,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-10-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11197,6 +11917,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-12-09T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11216,6 +11937,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-11-04T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11235,6 +11957,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-09-30T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11254,6 +11977,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-12-23T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11273,6 +11997,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-11-12T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11292,6 +12017,7 @@
       "source_name": "AftermarketNews",
       "language": "en",
       "published_at": "2017-03-21T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11311,6 +12037,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2017-11-13T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11330,6 +12057,7 @@
       "source_name": "Finansavisen",
       "language": "da",
       "published_at": "2026-04-28T11:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -11349,6 +12077,7 @@
       "source_name": "Finansavisen",
       "language": "da",
       "published_at": "2026-04-20T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -11368,6 +12097,7 @@
       "source_name": "Finansavisen",
       "language": "da",
       "published_at": "2026-02-16T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "primary",
@@ -11387,6 +12117,7 @@
       "source_name": "Investing.com España",
       "language": "es",
       "published_at": "2026-05-01T08:11:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.82,
       "prominence": "secondary",
@@ -11406,6 +12137,7 @@
       "source_name": "Investing.com España",
       "language": "es",
       "published_at": "2026-05-01T08:49:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -11425,6 +12157,7 @@
       "source_name": "Investing.com México",
       "language": "es",
       "published_at": "2026-05-01T08:15:07+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -11444,6 +12177,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2024-11-14T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11463,6 +12197,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2019-12-20T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11482,6 +12217,7 @@
       "source_name": "Undercurrent News",
       "language": "en",
       "published_at": "2019-12-20T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11501,6 +12237,7 @@
       "source_name": "The Fish Site",
       "language": "en",
       "published_at": "2021-07-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11520,6 +12257,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2023-05-19T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11539,6 +12277,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2023-10-12T21:35:57+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11558,6 +12297,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2025-04-02T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11577,6 +12317,7 @@
       "source_name": "The Fish Site",
       "language": "en",
       "published_at": "2014-10-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11596,6 +12337,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2025-01-14T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11615,6 +12357,7 @@
       "source_name": "Kyst.no",
       "language": "da",
       "published_at": "2014-09-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11634,6 +12377,7 @@
       "source_name": "iLaks",
       "language": "da",
       "published_at": "2014-09-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11653,6 +12397,7 @@
       "source_name": "Salmonexpert",
       "language": "es",
       "published_at": "2014-09-17T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11672,6 +12417,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2022-03-14T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11691,6 +12437,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2022-05-12T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11710,6 +12457,7 @@
       "source_name": "misPeces",
       "language": "es",
       "published_at": "2022-11-16T07:01:41+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11729,6 +12477,7 @@
       "source_name": "Finansavisen",
       "language": "en",
       "published_at": "2026-03-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "passing",
@@ -11748,6 +12497,7 @@
       "source_name": "SeafoodSource",
       "language": "en",
       "published_at": "2025-03-11T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11767,6 +12517,7 @@
       "source_name": "Finansavisen",
       "language": "en",
       "published_at": "2026-04-16T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.9,
       "prominence": "passing",
@@ -11786,6 +12537,7 @@
       "source_name": "Rubber News",
       "language": "en",
       "published_at": "2022-03-23T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11805,6 +12557,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2024-12-23T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11824,6 +12577,7 @@
       "source_name": "NTB Kommunikasjon",
       "language": "en",
       "published_at": "2025-08-15T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
@@ -11843,6 +12597,7 @@
       "source_name": "Finansavisen",
       "language": "da",
       "published_at": "2026-04-07T07:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.95,
       "prominence": "passing",
@@ -11862,6 +12617,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2026-05-01T06:55:54+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -11881,6 +12637,7 @@
       "source_name": "IntraFish",
       "language": "en",
       "published_at": "2026-05-01T09:31:25+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -11900,6 +12657,7 @@
       "source_name": "Aquafeed.com",
       "language": "en",
       "published_at": "2026-05-01T09:30:43+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.75,
       "prominence": "primary",
@@ -11919,6 +12677,7 @@
       "source_name": "The Manila Times",
       "language": "en",
       "published_at": "2026-05-01T06:07:59+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -11938,6 +12697,7 @@
       "source_name": "Investing.com UK",
       "language": "en",
       "published_at": "2026-05-01T08:22:08+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -11957,6 +12717,7 @@
       "source_name": "Aquafeed.com",
       "language": "en",
       "published_at": "2026-03-06T08:00:00+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -11976,6 +12737,7 @@
       "source_name": "Investing.com India",
       "language": "en",
       "published_at": "2026-05-01T08:15:06+00:00",
+      "is_about_target_brand": true,
       "sentiment": "positive",
       "sentiment_confidence": 0.85,
       "prominence": "primary",
@@ -11995,6 +12757,7 @@
       "source_name": "SalmonBusiness",
       "language": "en",
       "published_at": "2024-01-10T17:00:20+00:00",
+      "is_about_target_brand": true,
       "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",

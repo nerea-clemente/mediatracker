@@ -158,6 +158,7 @@ function StoryRow({ story, mentions, expanded, onToggle }: {
 export default function Page() {
   const [dateRange, setDateRange] = useState<DateRange>("30d");
   const [language, setLanguage] = useState<Language>("all");
+  const [showOffTopic, setShowOffTopic] = useState(false);
   const [sentiment, setSentiment] = useState<Sentiment | "all">("all");
   const [risk, setRisk] = useState<RiskFlag | "all">("all");
   const [sortKey, setSortKey] = useState<SortKey>("last_seen");
@@ -167,11 +168,14 @@ export default function Page() {
     return MENTIONS.filter((m) => {
       if (!withinRange(m.published_at, dateRange)) return false;
       if (language !== "all" && m.language !== language) return false;
+      // Off-topic mentions are hidden unless the user opts in. Default
+      // (no analysis yet, or no field) is treated as "on-topic".
+      if (!showOffTopic && m.is_about_target_brand === false) return false;
       if (sentiment !== "all" && m.sentiment !== sentiment) return false;
       if (risk !== "all" && !m.risk_flags.includes(risk)) return false;
       return true;
     });
-  }, [dateRange, language, sentiment, risk]);
+  }, [dateRange, language, sentiment, risk, showOffTopic]);
 
   const filteredStories = useMemo(() => {
     const visibleStoryIds = new Set(filteredMentions.map((m) => m.story_id));
@@ -296,6 +300,15 @@ export default function Page() {
             </select>
           </FilterBox>
         </div>
+        <label className="flex items-center gap-2 mt-3 text-xs text-slate-600 cursor-pointer select-none">
+          <input
+            type="checkbox"
+            className="rounded border-slate-300"
+            checked={showOffTopic}
+            onChange={(e) => setShowOffTopic(e.target.checked)}
+          />
+          Include off-topic mentions (different companies sharing the &ldquo;Biomar&rdquo; name — Biomar Labs auto badges, Spanish hydrocarbons company, etc.)
+        </label>
       </section>
 
       {/* Charts */}

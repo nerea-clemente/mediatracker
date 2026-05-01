@@ -33,6 +33,19 @@ class PersonQuoted(BaseModel):
 class ArticleAnalysis(BaseModel):
     """Schema Claude must fill in for every article we hand it."""
 
+    is_about_target_brand: bool = Field(
+        default=True,
+        description=(
+            "True if the article is genuinely about BioMar Group / BioMar A/S "
+            "(the aquaculture feed producer headquartered in Aarhus, Denmark, "
+            "subsidiary of Schouw & Co), its product brands (LARVIVA, INICIO, "
+            "EFICO, ORBIT, SIGMA), its parent Schouw & Co, or its named "
+            "executives. False if the article uses 'BioMar', 'Biomar', or "
+            "'Schouw' to refer to a DIFFERENT company that happens to share "
+            "the name (e.g. Biomar Labs the BMW aftermarket-badge maker, "
+            "Spanish hydrocarbons company Biomar S.A., other namesakes)."
+        ),
+    )
     sentiment: Sentiment
     sentiment_confidence: float = Field(ge=0.0, le=1.0)
     prominence: Prominence = Field(
