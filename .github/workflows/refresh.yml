@@ -2,8 +2,19 @@ name: Refresh BioMar coverage and deploy
 
 on:
   schedule:
-    # every 6 hours, on the hour
-    - cron: "0 */6 * * *"
+    # Times below are set for CEST (UTC+2, Danish summer time). They will
+    # be 1 hour late during CET (UTC+1, late Oct–late Mar). To stay exact
+    # year-round, edit when DST flips — or duplicate each line with the
+    # CET equivalent if you want both seasons covered (at 2× run cost).
+    #
+    #   07:30 Danish → 05:30 UTC
+    - cron: "30 5 * * *"
+    #   11:30 Danish → 09:30 UTC
+    - cron: "30 9 * * *"
+    #   18:00 Danish → 16:00 UTC
+    - cron: "0 16 * * *"
+    #   00:00 Danish → 22:00 UTC (previous day)
+    - cron: "0 22 * * *"
   push:
     branches:
       - main
