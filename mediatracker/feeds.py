@@ -60,15 +60,16 @@ GOOGLE_NEWS_LOCALES: list[GoogleNewsLocale] = [
 # ---------------------------------------------------------------------------
 # Trade press direct RSS feeds.
 #
-# Most trade-press sites sit behind Cloudflare bot protection that rejects
-# the GitHub Actions runner with a 403 (verified 2026-05). The Google News
-# pipeline above already surfaces their articles indirectly — and since we
-# now extract the per-item publisher from Google News (see ``rss.py``), the
-# dropdown shows "IntraFish", "Fish Farming Expert", etc. as the source
-# name without us having to scrape those sites directly.
+# Currently empty. Most aquaculture trade-press sites (IntraFish,
+# Undercurrent News, Fish Farming Expert, Hatchery International) sit
+# behind Cloudflare bot protection that 403s automated fetchers — and
+# their BioMar coverage already flows in via Google News, where we
+# extract the per-item publisher (see ``rss.py``). So the dropdown shows
+# "IntraFish", "SalmonBusiness", "Fish Farming Expert" etc. as outlet
+# names without us having to hit those sites directly.
 #
-# We keep SalmonBusiness here because its feed serves cleanly. Add new
-# entries only after verifying the URL responds 200 to a non-browser UA.
+# Add an entry only if (a) the URL responds 200 to a non-browser UA, and
+# (b) the publisher is missing from Google News results.
 # ---------------------------------------------------------------------------
 
 @dataclass(frozen=True)
@@ -76,10 +77,6 @@ class TradePressFeed:
     name: str
     url: str
     language: str = "en"
-    # Trade press feeds aren't keyword-filtered server-side, so we filter
-    # client-side by these keywords (case-insensitive substring match).
-    # Empty list = ingest everything (use only if the publication is fully
-    # on-topic, like a BioMar dedicated newsletter).
     keyword_filter: list[str] = field(default_factory=list)
 
 
@@ -90,13 +87,7 @@ _DEFAULT_FILTER = [
     "jens bjerg",
 ]
 
-TRADE_PRESS_FEEDS: list[TradePressFeed] = [
-    TradePressFeed(
-        name="SalmonBusiness",
-        url="https://www.salmonbusiness.com/feed/",
-        keyword_filter=_DEFAULT_FILTER,
-    ),
-]
+TRADE_PRESS_FEEDS: list[TradePressFeed] = []
 
 
 # ---------------------------------------------------------------------------
