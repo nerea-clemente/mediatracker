@@ -42,6 +42,10 @@ concurrency:
 env:
   MEDIATRACKER_DB: state/mediatracker.db
   ANALYZER_LIMIT: ${{ github.event.inputs.analyzer_limit || '60' }}
+  # On push events, skip the slow ingest/analyze pipeline — we just want
+  # to rebuild the dashboard against whatever seed.json is already
+  # committed. Schedule + manual dispatch run the full thing.
+  RUN_PIPELINE: ${{ github.event_name != 'push' }}
 
 jobs:
   refresh-and-build:
@@ -55,32 +59,39 @@ jobs:
           # Need full history so the push of state changes is non-fast-forward-safe
           fetch-depth: 0
 
-      # ----- Python pipeline -----
-      - uses: actions/setup-python@v5
+      # ----- Python pipeline (skipped on push for fast dashboard-only iterations) -----
+      - if: env.RUN_PIPELINE == 'true'
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
 
       - name: Install Python deps
+        if: env.RUN_PIPELINE == 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -e .
 
       - name: Ingest RSS feeds
+        if: env.RUN_PIPELINE == 'true'
         run: python -m mediatracker.ingest
 
       - name: Analyze unprocessed mentions
+        if: env.RUN_PIPELINE == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m mediatracker.analysis.analyzer --limit "$ANALYZER_LIMIT"
 
       - name: Cluster into stories
+        if: env.RUN_PIPELINE == 'true'
         run: python -m mediatracker.cluster
 
       - name: Export dashboard snapshot
+        if: env.RUN_PIPELINE == 'true'
         run: python -m mediatracker.export
 
       - name: Show summary stats
+        if: env.RUN_PIPELINE == 'true'
         run: |
           echo "::group::DB stats"
           sqlite3 "$MEDIATRACKER_DB" 'SELECT
@@ -93,6 +104,7 @@ jobs:
 
       # ----- commit state back -----
       - name: Commit state and snapshot
+        if: env.RUN_PIPELINE == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
