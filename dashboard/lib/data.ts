@@ -60,11 +60,12 @@ export type ShareOfVoice = {
 };
 
 // Company colour palette — kept in sync between charts.
+// Brand colours requested by the user.
 export const COMPANY_COLORS: Record<string, string> = {
-  BioMar: "#0ea5e9",
-  Skretting: "#f97316",
-  Cargill: "#10b981",
-  Other: "#94a3b8",
+  BioMar:    "#0471ad",
+  Skretting: "#cf000e",
+  Cargill:   "#00843d",
+  Other:     "#94a3b8",
 };
 
 // Helper to build dates relative to a fixed "today" so the mockup is stable.
