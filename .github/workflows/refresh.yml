@@ -36,8 +36,13 @@ permissions:
   id-token: write
 
 concurrency:
-  group: refresh
-  cancel-in-progress: false
+  # Pushes (dashboard-only) supersede each other — no point building a
+  # commit you've already replaced with a newer one. Scheduled and manual
+  # refreshes serialize cleanly and never get cancelled mid-pipeline,
+  # because cancelling them mid-analysis wastes Anthropic tokens on work
+  # that won't be committed.
+  group: ${{ github.event_name == 'push' && 'dashboard-deploy' || 'full-refresh' }}
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 
 env:
   MEDIATRACKER_DB: state/mediatracker.db
