@@ -3,6 +3,8 @@
 import { useMemo, useState } from "react";
 import {
   ALL_OUTLETS,
+  GENERATED_AT,
+  IS_MOCK,
   MENTIONS,
   STORIES,
   mentionsForStory,
@@ -106,9 +108,11 @@ function StoryRow({ story, mentions, expanded, onToggle }: {
                 <div className="text-xs font-semibold uppercase tracking-wide text-slate-500 mb-1">
                   Pickups ({mentions.length})
                 </div>
-                <div className="text-[11px] text-slate-400 mb-2 italic">
-                  Mock data: links open the outlet homepage, not a real article.
-                </div>
+                {IS_MOCK && (
+                  <div className="text-[11px] text-slate-400 mb-2 italic">
+                    Mock data: links open the outlet homepage, not a real article.
+                  </div>
+                )}
                 <ul className="space-y-2">
                   {mentions.map((m) => (
                     <li key={m.id} className="text-sm">
@@ -201,12 +205,24 @@ export default function Page() {
         <div>
           <h1 className="text-2xl font-bold text-slate-900">BioMar coverage</h1>
           <p className="text-sm text-slate-500 mt-1">
-            Mockup with seeded data · reference date 1 May 2026 · {filteredMentions.length} mentions in view across{" "}
-            {filteredStories.length} stories
+            {IS_MOCK
+              ? "Mock data · the scheduled refresh hasn't run yet."
+              : GENERATED_AT
+              ? `Last refreshed ${new Date(GENERATED_AT).toLocaleString()} (UTC build).`
+              : "Live data."}
+            {" "}
+            {filteredMentions.length} mentions in view across {filteredStories.length} stories.
           </p>
         </div>
-        <div className="text-xs text-slate-400">mediatracker · phase 4 preview</div>
+        <div className="text-xs text-slate-400">mediatracker</div>
       </header>
+
+      {IS_MOCK && (
+        <div className="rounded-lg border border-sky-300 bg-sky-50 px-4 py-3 text-sm text-sky-900">
+          <strong>This is mock data.</strong> The first scheduled run will replace it with real
+          BioMar coverage. Trigger it manually from the Actions tab if you don't want to wait.
+        </div>
+      )}
 
       {/* Risk highlights */}
       {riskStoriesLast7d.length > 0 && (
@@ -336,7 +352,9 @@ export default function Page() {
       </section>
 
       <footer className="text-xs text-slate-400 pt-2">
-        All data on this page is fabricated for layout review. Real data lands once Phases 2 (analyzer) and 3 (clustering) are wired up.
+        {IS_MOCK
+          ? "All data on this page is fabricated for layout review."
+          : "Data refreshed by the scheduled GitHub Actions workflow. Click any story for the full pickup list and analysis."}
       </footer>
     </main>
   );

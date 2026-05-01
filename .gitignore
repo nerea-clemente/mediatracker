@@ -13,14 +13,16 @@ venv/
 .env.local
 *.pem
 
-# SQLite database files
+# Local-dev SQLite database. The CI-managed DB lives at state/mediatracker.db
+# and IS committed (binary blob, but small) so scheduled runs persist state.
 data/
 *.sqlite
 *.sqlite3
-*.db
 *.db-journal
 *.db-wal
 *.db-shm
+*.db
+!state/mediatracker.db
 
 # Editor
 .vscode/

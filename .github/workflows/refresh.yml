@@ -1,0 +1,127 @@
+name: Refresh BioMar coverage and deploy
+
+on:
+  schedule:
+    # every 6 hours, on the hour
+    - cron: "0 */6 * * *"
+  push:
+    branches:
+      - main
+      - claude/media-monitoring-tool-zDCcC
+    paths-ignore:
+      # Don't loop on the bot's own state commits
+      - "state/**"
+      - "dashboard/lib/seed.json"
+  workflow_dispatch:
+    inputs:
+      analyzer_limit:
+        description: "Max unprocessed mentions to analyze this run"
+        required: false
+        default: "60"
+
+permissions:
+  contents: write   # commit DB + seed.json back to the branch
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+env:
+  MEDIATRACKER_DB: state/mediatracker.db
+  ANALYZER_LIMIT: ${{ github.event.inputs.analyzer_limit || '60' }}
+
+jobs:
+  refresh-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      # ----- repo + state checkout -----
+      - uses: actions/checkout@v4
+        with:
+          # Bot needs write access to push state commits
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Need full history so the push of state changes is non-fast-forward-safe
+          fetch-depth: 0
+
+      # ----- Python pipeline -----
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Ingest RSS feeds
+        run: python -m mediatracker.ingest
+
+      - name: Analyze unprocessed mentions
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m mediatracker.analysis.analyzer --limit "$ANALYZER_LIMIT"
+
+      - name: Cluster into stories
+        run: python -m mediatracker.cluster
+
+      - name: Export dashboard snapshot
+        run: python -m mediatracker.export
+
+      - name: Show summary stats
+        run: |
+          echo "::group::DB stats"
+          sqlite3 "$MEDIATRACKER_DB" 'SELECT
+              (SELECT COUNT(*) FROM mentions)         AS mentions,
+              (SELECT COUNT(*) FROM mentions WHERE processed=1) AS analyzed,
+              (SELECT COUNT(DISTINCT cluster_id) FROM mentions) AS stories,
+              (SELECT printf("%.4f", COALESCE(SUM(cost_usd), 0)) FROM api_calls) AS total_cost_usd
+            ;'
+          echo "::endgroup::"
+
+      # ----- commit state back -----
+      - name: Commit state and snapshot
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name  "mediatracker-bot"
+          git config user.email "mediatracker-bot@users.noreply.github.com"
+          git add state/mediatracker.db dashboard/lib/seed.json
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "refresh: BioMar coverage snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push origin "HEAD:${GITHUB_REF#refs/heads/}"
+          fi
+
+      # ----- build dashboard -----
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: dashboard/package-lock.json
+
+      - run: npm ci
+        working-directory: dashboard
+
+      - name: Build static site
+        run: npm run build
+        working-directory: dashboard
+        env:
+          DEPLOY_BASE_PATH: /mediatracker
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard/out
+
+  deploy:
+    needs: refresh-and-build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

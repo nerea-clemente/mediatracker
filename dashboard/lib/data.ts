@@ -1,6 +1,13 @@
-// Seeded fake data for the dashboard mockup.
-// In production this is replaced by an API route that reads from SQLite.
-// Schema mirrors what Phases 1-3 will produce.
+// Dashboard data layer.
+//
+// On every scheduled run, mediatracker.export writes seed.json from the
+// SQLite database. If seed.json has any stories, we use it. Otherwise
+// (fresh repo, ingest hasn't run yet) we fall back to MOCK data so the
+// dashboard still renders something useful.
+//
+// IS_MOCK lets the page show a banner clarifying which mode is active.
+
+import seed from "./seed.json";
 
 export type Sentiment = "positive" | "neutral" | "negative";
 export type Prominence = "primary" | "secondary" | "passing";
@@ -18,7 +25,7 @@ export type Mention = {
   url: string;
   title: string;
   source_name: string;
-  language: "en" | "da" | "no" | "es";
+  language: string;
   published_at: string; // ISO
   sentiment: Sentiment;
   sentiment_confidence: number;
@@ -50,7 +57,7 @@ const daysAgo = (n: number, hour = 9) => {
   return d.toISOString();
 };
 
-export const STORIES: Story[] = [
+const MOCK_STORIES: Story[] = [
   {
     id: 1,
     headline: "Salmon mortality at Norwegian farm linked to feed batch",
@@ -221,7 +228,7 @@ const m = (
   summary: partial.summary || "",
 });
 
-export const MENTIONS: Mention[] = [
+const MOCK_MENTIONS: Mention[] = [
   // Story 1: Norwegian mortality + feed batch (5 pickups, negative)
   m(1, O.aftenposten, "no", 2, 8, {
     title: "Lerøy-anlegg rammet av høy dødelighet — fôrleverandør gransker",
@@ -478,8 +485,22 @@ export const MENTIONS: Mention[] = [
   }),
 ];
 
+// --- Dispatch: real data from seed.json if present, else fall back to mock ---
+
+const seedStories = (seed.stories ?? []) as Story[];
+const seedMentions = (seed.mentions ?? []) as Mention[];
+const seedOutlets = (seed.outlets ?? []) as string[];
+
+export const IS_MOCK = seedStories.length === 0;
+export const GENERATED_AT: string | null = (seed.generated_at as string | null) ?? null;
+
+export const STORIES: Story[] = IS_MOCK ? MOCK_STORIES : seedStories;
+export const MENTIONS: Mention[] = IS_MOCK ? MOCK_MENTIONS : seedMentions;
+
 export function mentionsForStory(storyId: number): Mention[] {
   return MENTIONS.filter((m) => m.story_id === storyId);
 }
 
-export const ALL_OUTLETS = Array.from(new Set(MENTIONS.map((m) => m.source_name))).sort();
+export const ALL_OUTLETS: string[] = IS_MOCK
+  ? Array.from(new Set(MOCK_MENTIONS.map((m) => m.source_name))).sort()
+  : seedOutlets;
