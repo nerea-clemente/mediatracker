@@ -5,6 +5,7 @@ import {
   GENERATED_AT,
   IS_MOCK,
   MENTIONS,
+  SHARE_OF_VOICE,
   STORIES,
   mentionsForStory,
   type Mention,
@@ -12,7 +13,13 @@ import {
   type Sentiment,
   type Story,
 } from "@/lib/data";
-import { SentimentChart, TopOutletsChart, VolumeChart } from "@/components/charts";
+import {
+  SentimentChart,
+  ShareOfVoiceArea,
+  ShareOfVoicePie,
+  TopOutletsChart,
+  VolumeChart,
+} from "@/components/charts";
 
 const RISK_LABEL: Record<RiskFlag, string> = {
   legal: "Legal",
@@ -193,8 +200,16 @@ export default function Page() {
   const [sortKey, setSortKey] = useState<SortKey>("last_seen");
   const [expanded, setExpanded] = useState<Set<number>>(new Set());
 
+  // Main view = BioMar mentions only. Competitor mentions are aggregated
+  // into the share-of-voice section but never appear in the story table
+  // or sentiment/risk charts.
+  const biomarMentions = useMemo(
+    () => MENTIONS.filter((m) => (m.company ?? "BioMar") === "BioMar"),
+    [],
+  );
+
   const filteredMentions = useMemo(() => {
-    return MENTIONS.filter((m) => {
+    return biomarMentions.filter((m) => {
       if (!withinRange(m.published_at, dateRange)) return false;
       if (language !== "all" && m.language !== language) return false;
       // Off-topic mentions are hidden unless the user opts in. Default
@@ -204,11 +219,44 @@ export default function Page() {
       if (risk !== "all" && !m.risk_flags.includes(risk)) return false;
       return true;
     });
-  }, [dateRange, language, sentiment, risk, showOffTopic]);
+  }, [biomarMentions, dateRange, language, sentiment, risk, showOffTopic]);
+
+  // Share of voice = ALL mentions (BioMar + competitors), bucketed by
+  // company. Filtered only by date range so trends are comparable.
+  const sovMentions = useMemo(
+    () => MENTIONS.filter((m) => withinRange(m.published_at, dateRange)),
+    [dateRange],
+  );
+
+  const sovPeriodTotals = useMemo(() => {
+    const totals = new Map<string, number>();
+    for (const m of sovMentions) {
+      const c = m.company ?? "Other";
+      totals.set(c, (totals.get(c) ?? 0) + 1);
+    }
+    return SHARE_OF_VOICE.companies.map((c) => ({ company: c, count: totals.get(c) ?? 0 }));
+  }, [sovMentions]);
+
+  const sovTimeseries = useMemo(() => {
+    // Reuse the pre-bucketed series from the seed, but only keep weeks
+    // within the active date range.
+    const cutoff = rangeCutoff(dateRange);
+    if (!cutoff) return SHARE_OF_VOICE.timeseries;
+    const cutoffWeek = (() => {
+      const y = cutoff.getUTCFullYear();
+      const oneJan = new Date(Date.UTC(y, 0, 1));
+      const day = Math.ceil((cutoff.getTime() - oneJan.getTime()) / 86400000);
+      const week = Math.ceil((day + oneJan.getUTCDay() + 1) / 7);
+      return `${y}-W${String(week).padStart(2, "0")}`;
+    })();
+    return SHARE_OF_VOICE.timeseries.filter((row) => row.week >= cutoffWeek);
+  }, [dateRange]);
 
   const filteredStories = useMemo(() => {
     const visibleStoryIds = new Set(filteredMentions.map((m) => m.story_id));
-    let stories = STORIES.filter((s) => visibleStoryIds.has(s.id));
+    let stories = STORIES.filter(
+      (s) => (s.company ?? "BioMar") === "BioMar" && visibleStoryIds.has(s.id),
+    );
     stories = stories.sort((a, b) => {
       if (sortKey === "last_seen") return b.last_seen.localeCompare(a.last_seen);
       if (sortKey === "pickup_count") return b.pickup_count - a.pickup_count;
@@ -220,7 +268,10 @@ export default function Page() {
 
   const riskStoriesLast7d = useMemo(() => {
     return STORIES.filter(
-      (s) => s.risk_flags.some((f) => f !== "none") && withinRange(s.last_seen, "7d"),
+      (s) =>
+        (s.company ?? "BioMar") === "BioMar" &&
+        s.risk_flags.some((f) => f !== "none") &&
+        withinRange(s.last_seen, "7d"),
     ).sort((a, b) => b.last_seen.localeCompare(a.last_seen));
   }, []);
 
@@ -355,6 +406,40 @@ export default function Page() {
         <ChartCard title="Top outlets" subtitle="Pickups per source">
           <TopOutletsChart mentions={filteredMentions} />
         </ChartCard>
+      </section>
+
+      {/* Share of Voice */}
+      <section className="rounded-lg border border-slate-200 bg-white p-4">
+        <div className="flex items-baseline justify-between mb-3">
+          <div>
+            <div className="font-semibold text-slate-900">Share of voice</div>
+            <div className="text-xs text-slate-500">
+              BioMar vs Skretting vs Cargill — mention count by ISO week and total share for the selected range. Competitor mentions aren&apos;t analyzed individually.
+            </div>
+          </div>
+          <div className="text-xs text-slate-400">
+            Total: {sovPeriodTotals.reduce((s, r) => s + r.count, 0)} mentions
+          </div>
+        </div>
+        <div className="grid lg:grid-cols-3 gap-4">
+          <div className="lg:col-span-2">
+            <div className="text-xs font-semibold uppercase tracking-wide text-slate-500 mb-1">
+              Volume over time (per week)
+            </div>
+            <ShareOfVoiceArea data={sovTimeseries} companies={SHARE_OF_VOICE.companies} />
+          </div>
+          <div>
+            <div className="text-xs font-semibold uppercase tracking-wide text-slate-500 mb-1">
+              Share for selected range
+            </div>
+            <ShareOfVoicePie data={sovPeriodTotals} />
+          </div>
+        </div>
+        {sovPeriodTotals.every((r) => r.company === "BioMar" || r.count === 0) && (
+          <div className="mt-3 text-xs text-amber-700 bg-amber-50 border border-amber-200 rounded px-3 py-2">
+            No competitor mentions ingested yet. The next scheduled refresh (or a manual <em>Run workflow</em>) will pull Skretting and Cargill coverage.
+          </div>
+        )}
       </section>
 
       {/* Stories table */}

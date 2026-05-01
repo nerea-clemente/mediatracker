@@ -20,7 +20,7 @@ from dataclasses import dataclass
 
 from .config import Config, load_config
 from .db import connect, init_schema, transaction
-from .feeds import FeedSpec, all_feeds
+from .feeds import BIOMAR_KEYWORDS, FeedSpec, all_feeds
 from .sources import google_news
 from .sources.base import RawMention, asdict_safe, now_utc_iso
 from .sources.rss import entries_to_mentions, fetch_feed
@@ -79,10 +79,12 @@ def passes_filter(rm: RawMention, *, trade_keyword_filter: list[str] | None) -> 
 INSERT_SQL = """
 INSERT OR IGNORE INTO mentions (
     url, title, source_type, source_name, feed_query, matched_keyword,
-    language, author, published_at, fetched_at, summary, raw_entry
+    language, author, published_at, fetched_at, summary, raw_entry,
+    processed
 ) VALUES (
     :url, :title, :source_type, :source_name, :feed_query, :matched_keyword,
-    :language, :author, :published_at, :fetched_at, :summary, :raw_entry
+    :language, :author, :published_at, :fetched_at, :summary, :raw_entry,
+    :processed
 )
 """
 
@@ -95,6 +97,10 @@ def insert_mentions(conn: sqlite3.Connection, mentions: list[RawMention]) -> int
     for m in mentions:
         d = asdict_safe(m)
         d["fetched_at"] = fetched_at
+        # Competitor mentions are counted but not sent to the analyzer —
+        # mark them processed at ingest so they're excluded from the
+        # analyzer's pending queue.
+        d["processed"] = 0 if m.matched_keyword in BIOMAR_KEYWORDS else 1
         rows.append(d)
 
     inserted = 0

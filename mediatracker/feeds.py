@@ -36,6 +36,50 @@ EXEC_QUERIES = [
     {"keyword": "Jens Bjerg Sørensen", "phrases": ["Jens Bjerg Sørensen", "Jens Bjerg Sorensen"], "context": None},
 ]
 
+# ---------------------------------------------------------------------------
+# Competitors — used for share-of-voice. We ingest them and count, but we
+# DO NOT analyse them (the Phase 2 analyzer is scoped to BioMar keywords
+# only, so cost stays flat). Each query has a ``company`` label that the
+# dashboard groups by.
+# ---------------------------------------------------------------------------
+
+COMPETITOR_QUERIES = [
+    {
+        "keyword": "Skretting",
+        "phrases": ["Skretting"],
+        "context": None,        # name is unique enough on its own
+        "company": "Skretting",
+    },
+    {
+        "keyword": "Cargill Aqua",
+        # Generic "Cargill" alone is huge agribusiness noise — scope to
+        # the aquaculture brand names. "Ewos" is the legacy brand still
+        # used in trade press.
+        "phrases": ["Cargill Aqua Nutrition", "Ewos"],
+        "context": None,
+        "company": "Cargill",
+    },
+]
+
+
+# Map a ``matched_keyword`` (as stored in mentions.matched_keyword) to a
+# canonical company display name. Used by the export step to bucket
+# mentions into share-of-voice series.
+KEYWORD_TO_COMPANY: dict[str, str] = {
+    PRIMARY_KEYWORD: "BioMar",
+    PARENT_KEYWORD: "BioMar",  # Schouw articles roll up under BioMar
+    **{ex["keyword"]: "BioMar" for ex in EXEC_QUERIES},
+    **{cq["keyword"]: cq["company"] for cq in COMPETITOR_QUERIES},
+}
+
+BIOMAR_KEYWORDS: set[str] = {
+    k for k, c in KEYWORD_TO_COMPANY.items() if c == "BioMar"
+}
+
+
+def keyword_to_company(matched_keyword: str) -> str:
+    return KEYWORD_TO_COMPANY.get(matched_keyword, matched_keyword)
+
 
 # ---------------------------------------------------------------------------
 # Google News locales. One locale = one feed per query group.
@@ -135,6 +179,14 @@ def build_google_news_queries() -> list[tuple[str, str]]:
         else:
             q = phrase_q
         queries.append((ex["keyword"], q))
+
+    for cq in COMPETITOR_QUERIES:
+        phrase_q = _quote_or(cq["phrases"])
+        if cq["context"]:
+            q = f"({phrase_q}) AND \"{cq['context']}\""
+        else:
+            q = phrase_q
+        queries.append((cq["keyword"], q))
 
     return queries
 

@@ -32,10 +32,17 @@ PURPOSE = "analysis"
 MAX_TOKENS = 1024
 
 
-SELECT_UNPROCESSED = """
+from ..feeds import BIOMAR_KEYWORDS
+
+# Analyzer is scoped to BioMar keywords only. Competitor mentions
+# (Skretting, Cargill, …) get counted in share-of-voice but never
+# sent to Claude — keeps Anthropic spend flat as we add competitors.
+_BIOMAR_PLACEHOLDERS = ",".join("?" * len(BIOMAR_KEYWORDS))
+SELECT_UNPROCESSED = f"""
 SELECT id, title, source_name, language, published_at, summary, matched_keyword
 FROM mentions
 WHERE processed = 0
+  AND matched_keyword IN ({_BIOMAR_PLACEHOLDERS})
 ORDER BY published_at IS NULL, published_at DESC, id DESC
 LIMIT ?
 """
@@ -143,7 +150,9 @@ def main(argv: list[str] | None = None) -> int:
         if args.reset:
             n = conn.execute("UPDATE mentions SET processed = 0").rowcount
             log.info("--reset: %d mention(s) flagged for re-analysis", n)
-        rows = conn.execute(SELECT_UNPROCESSED, (args.limit,)).fetchall()
+        rows = conn.execute(
+            SELECT_UNPROCESSED, (*BIOMAR_KEYWORDS, args.limit)
+        ).fetchall()
         log.info("analyzing %d unprocessed mention(s)", len(rows))
 
         success = 0

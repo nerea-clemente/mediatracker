@@ -1,6 +1,8 @@
 "use client";
 
 import {
+  Area,
+  AreaChart,
   Bar,
   BarChart,
   CartesianGrid,
@@ -8,12 +10,15 @@ import {
   Legend,
   Line,
   LineChart,
+  Pie,
+  PieChart,
   ResponsiveContainer,
   Tooltip,
   XAxis,
   YAxis,
 } from "recharts";
 import type { Mention } from "@/lib/data";
+import { COMPANY_COLORS } from "@/lib/data";
 
 const SENT_COLORS = {
   positive: "#16a34a",
@@ -114,6 +119,76 @@ export function TopOutletsChart({ mentions }: { mentions: Mention[] }) {
             ))}
           </Bar>
         </BarChart>
+      </ResponsiveContainer>
+    </div>
+  );
+}
+
+// --- Share of Voice ---
+
+type SoVRow = { week: string } & Record<string, number | string>;
+
+export function ShareOfVoiceArea({
+  data, companies,
+}: {
+  data: SoVRow[];
+  companies: string[];
+}) {
+  return (
+    <div className="h-72 w-full">
+      <ResponsiveContainer>
+        <AreaChart data={data} margin={{ top: 8, right: 16, left: 0, bottom: 0 }}>
+          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+          <XAxis dataKey="week" tick={{ fontSize: 11 }} />
+          <YAxis allowDecimals={false} tick={{ fontSize: 11 }} />
+          <Tooltip />
+          <Legend wrapperStyle={{ fontSize: 12 }} />
+          {companies.map((c) => (
+            <Area
+              key={c}
+              type="monotone"
+              dataKey={c}
+              stackId="1"
+              stroke={COMPANY_COLORS[c] || "#94a3b8"}
+              fill={COMPANY_COLORS[c] || "#94a3b8"}
+              fillOpacity={0.65}
+            />
+          ))}
+        </AreaChart>
+      </ResponsiveContainer>
+    </div>
+  );
+}
+
+export function ShareOfVoicePie({
+  data,
+}: {
+  data: { company: string; count: number }[];
+}) {
+  const filtered = data.filter((d) => d.count > 0);
+  const total = filtered.reduce((s, d) => s + d.count, 0);
+  return (
+    <div className="h-72 w-full">
+      <ResponsiveContainer>
+        <PieChart>
+          <Pie
+            data={filtered}
+            dataKey="count"
+            nameKey="company"
+            innerRadius="50%"
+            outerRadius="85%"
+            paddingAngle={2}
+            label={({ company, count }) =>
+              total ? `${company} ${Math.round((count / total) * 100)}%` : company
+            }
+            labelLine={false}
+          >
+            {filtered.map((d) => (
+              <Cell key={d.company} fill={COMPANY_COLORS[d.company] || "#94a3b8"} />
+            ))}
+          </Pie>
+          <Tooltip />
+        </PieChart>
       </ResponsiveContainer>
     </div>
   );

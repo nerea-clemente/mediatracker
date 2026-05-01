@@ -27,6 +27,8 @@ export type Mention = {
   source_name: string;
   language: string;
   published_at: string; // ISO
+  matched_keyword?: string;
+  company?: string;
   is_about_target_brand?: boolean;
   sentiment: Sentiment;
   sentiment_confidence: number;
@@ -48,6 +50,21 @@ export type Story = {
   risk_flags: RiskFlag[];
   pickup_count: number;
   is_about_target_brand?: boolean;
+  company?: string;
+};
+
+export type ShareOfVoice = {
+  companies: string[];
+  timeseries: ({ week: string } & Record<string, number | string>)[];
+  totals: { company: string; count: number }[];
+};
+
+// Company colour palette — kept in sync between charts.
+export const COMPANY_COLORS: Record<string, string> = {
+  BioMar: "#0ea5e9",
+  Skretting: "#f97316",
+  Cargill: "#10b981",
+  Other: "#94a3b8",
 };
 
 // Helper to build dates relative to a fixed "today" so the mockup is stable.
@@ -492,9 +509,15 @@ const MOCK_MENTIONS: Mention[] = [
 const seedStories = (seed.stories ?? []) as Story[];
 const seedMentions = (seed.mentions ?? []) as Mention[];
 const seedOutlets = (seed.outlets ?? []) as string[];
+const seedSov = ((seed as { share_of_voice?: ShareOfVoice }).share_of_voice ?? {
+  companies: [],
+  timeseries: [],
+  totals: [],
+}) as ShareOfVoice;
 
 export const IS_MOCK = seedStories.length === 0;
 export const GENERATED_AT: string | null = (seed.generated_at as string | null) ?? null;
+export const SHARE_OF_VOICE: ShareOfVoice = seedSov;
 
 export const STORIES: Story[] = IS_MOCK ? MOCK_STORIES : seedStories;
 export const MENTIONS: Mention[] = IS_MOCK ? MOCK_MENTIONS : seedMentions;

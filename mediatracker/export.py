@@ -44,6 +44,45 @@ LEFT JOIN analyses a ON a.mention_id = m.id
 """
 
 
+def _iso_week(iso: str) -> str:
+    d = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+    year, week, _ = d.isocalendar()
+    return f"{year}-W{week:02d}"
+
+
+def build_share_of_voice(mentions: list[dict]) -> dict:
+    """Bucket mentions by company × ISO week for the time-series chart,
+    and also produce period totals for the pie chart."""
+    from .feeds import KEYWORD_TO_COMPANY
+
+    # By week, by company
+    weeks: dict[str, dict[str, int]] = {}
+    totals: dict[str, int] = {}
+    for m in mentions:
+        company = m.get("company", "Other")
+        if not m["published_at"]:
+            continue
+        week = _iso_week(m["published_at"])
+        weeks.setdefault(week, {})
+        weeks[week][company] = weeks[week].get(company, 0) + 1
+        totals[company] = totals.get(company, 0) + 1
+
+    series_companies = sorted(set(KEYWORD_TO_COMPANY.values()) | set(totals.keys()))
+
+    timeseries = []
+    for week in sorted(weeks.keys()):
+        row: dict[str, int | str] = {"week": week}
+        for c in series_companies:
+            row[c] = weeks[week].get(c, 0)
+        timeseries.append(row)
+
+    return {
+        "companies": series_companies,
+        "timeseries": timeseries,
+        "totals": [{"company": c, "count": totals.get(c, 0)} for c in series_companies],
+    }
+
+
 def _parse_json_field(s: str | None, default: Any) -> Any:
     if not s:
         return default
@@ -54,6 +93,8 @@ def _parse_json_field(s: str | None, default: Any) -> Any:
 
 
 def _row_to_mention(row: sqlite3.Row) -> dict[str, Any]:
+    from .feeds import keyword_to_company
+
     risk_flags = _parse_json_field(row["risk_flags"], ["none"])
     if not risk_flags:
         risk_flags = ["none"]
@@ -70,6 +111,8 @@ def _row_to_mention(row: sqlite3.Row) -> dict[str, Any]:
         "source_name": row["source_name"],
         "language": row["language"] or "en",
         "published_at": row["published_at"] or row["fetched_at"],
+        "matched_keyword": row["matched_keyword"],
+        "company": keyword_to_company(row["matched_keyword"]),
         "is_about_target_brand": is_about_target_brand,
         "sentiment": row["sentiment"] or "neutral",
         "sentiment_confidence": row["sentiment_confidence"] or 0.0,
@@ -84,6 +127,14 @@ def _row_to_mention(row: sqlite3.Row) -> dict[str, Any]:
 
 def _sentiment_priority(s: str) -> int:
     return {"negative": 0, "neutral": 1, "positive": 2}.get(s, 1)
+
+
+def _story_company(mentions: list[dict[str, Any]]) -> str:
+    """One company per story: pick the most frequent."""
+    counts: dict[str, int] = {}
+    for m in mentions:
+        counts[m["company"]] = counts.get(m["company"], 0) + 1
+    return max(counts, key=counts.get) if counts else "Other"
 
 
 def _build_story(cluster_id: int, mentions: list[dict[str, Any]]) -> dict[str, Any]:
@@ -123,6 +174,7 @@ def _build_story(cluster_id: int, mentions: list[dict[str, Any]]) -> dict[str, A
         "risk_flags": risk_list,
         "pickup_count": len(mentions),
         "is_about_target_brand": is_about_target_brand,
+        "company": _story_company(mentions),
     }
 
 
@@ -154,6 +206,7 @@ def build_payload(conn: sqlite3.Connection) -> dict[str, Any]:
         "outlets": outlets,
         "stories": stories,
         "mentions": mentions,
+        "share_of_voice": build_share_of_voice(mentions),
     }
 
 
