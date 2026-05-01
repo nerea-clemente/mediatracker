@@ -51,6 +51,9 @@ def fetch_feed(
     return parsed
 
 
+import re
+from urllib.parse import urlparse
+
 # Outlet name normalization. Same publisher sometimes shows up as bare
 # domain (when <source> is missing) and as a clean brand name; merge them.
 PUBLISHER_ALIASES: dict[str, str] = {
@@ -69,6 +72,96 @@ PUBLISHER_ALIASES: dict[str, str] = {
     "salmonexpert.cl":         "Salmonexpert",
     "aquafeed.com":            "Aquafeed.com",
 }
+
+
+# Domain → language mapping for the obvious cases. Lets us correct the
+# feed-locale tag when a Norwegian outlet flows in via the Danish feed,
+# etc. Order matches the tld/host substring we look for.
+_DOMAIN_LANGUAGE_MAP: list[tuple[str, str]] = [
+    # English-language trade press (no country tld; map explicitly so they
+    # don't fall back to the feed locale).
+    ("intrafish.com",          "en"),
+    ("undercurrentnews.com",   "en"),
+    ("salmonbusiness.com",     "en"),
+    ("fishfarmingexpert.com",  "en"),
+    ("hatcheryinternational.com", "en"),
+    ("seafoodsource.com",      "en"),
+    ("thefishsite.com",        "en"),
+    ("aquafeed.com",           "en"),
+    ("weareaquaculture.com",   "en"),
+    ("globalseafood.org",      "en"),
+    ("mynewsdesk.com",         "en"),
+    ("bloomberg.com",          "en"),
+    ("reuters.com",            "en"),
+    ("ft.com",                 "en"),
+    ("realestate.com.au",      "en"),
+    ("manilatimes.net",        "en"),
+    ("allaboutfeed.net",       "en"),
+    # Norwegian
+    ("ilaks.no",               "no"),
+    ("kyst.no",                "no"),
+    ("salmonexpert.no",        "no"),
+    ("e24.no",                 "no"),
+    ("dn.no",                  "no"),
+    ("finansavisen.no",        "no"),
+    ("nrk.no",                 "no"),
+    ("aftenposten.no",         "no"),
+    ("vol.no",                 "no"),
+    (".no",                    "no"),  # last-resort .no fallback
+    # Danish
+    ("borsen.dk",              "da"),
+    ("finans.dk",              "da"),
+    ("berlingske.dk",          "da"),
+    ("dr.dk",                  "da"),
+    ("jp.dk",                  "da"),
+    ("politiken.dk",           "da"),
+    (".dk",                    "da"),
+    # Spanish (Chile, Spain, LatAm)
+    ("salmonexpert.cl",        "es"),
+    ("aqua.cl",                "es"),
+    ("emol.com",               "es"),
+    ("mispeces.com",           "es"),
+    ("mundoacuicola.cl",       "es"),
+    ("biobiochile.cl",         "es"),
+    (".cl",                    "es"),
+    (".es",                    "es"),
+    (".mx",                    "es"),
+    (".ar",                    "es"),
+    (".pe",                    "es"),
+]
+
+
+def _host_for_language(*candidates: str | None) -> str:
+    """Return the first candidate host string usable for tld matching."""
+    for c in candidates:
+        if not c:
+            continue
+        host = urlparse(c).netloc.lower() if "://" in c else c.lower()
+        if host.startswith("www."):
+            host = host[4:]
+        if host:
+            return host
+    return ""
+
+
+def _detect_language(
+    publisher_url: str | None,
+    fallback_url: str | None,
+    default: str,
+) -> str:
+    """Detect language from the publisher domain.
+
+    Stored entry URLs are usually Google News redirectors
+    (``news.google.com/rss/articles/...``) — those don't reveal anything.
+    The actual publisher domain lives in the entry's ``source.url`` field
+    (when Google News supplies one). We check that first, then fall back
+    to ``fallback_url`` (rare), then to the feed locale.
+    """
+    host = _host_for_language(publisher_url, fallback_url)
+    for substr, lang in _DOMAIN_LANGUAGE_MAP:
+        if substr in host:
+            return lang
+    return default
 
 
 def _publisher_from_entry(entry, fallback_url: str) -> str | None:
@@ -142,6 +235,23 @@ def entries_to_mentions(
             if publisher:
                 entry_source_name = publisher
 
+        # Pull the publisher's actual URL out of the RSS source field.
+        # Stored ``url`` for Google News items is a redirector — useless
+        # for language detection. ``source.url`` reveals the real domain.
+        src = entry.get("source")
+        publisher_url = None
+        if isinstance(src, dict):
+            publisher_url = src.get("href") or src.get("url")
+        elif src is not None:
+            publisher_url = getattr(src, "href", None) or getattr(src, "url", None)
+
+        # Override the feed-locale language with a per-article detection.
+        # The feed code (e.g. 'da') is just where Google News routed the
+        # item; the actual article language is what we want to filter on.
+        detected_language = _detect_language(
+            publisher_url, url, default=language or "en"
+        )
+
         yield RawMention(
             url=url,
             title=title,
@@ -149,7 +259,7 @@ def entries_to_mentions(
             source_name=entry_source_name,
             feed_query=feed_query,
             matched_keyword=matched_keyword,
-            language=language,
+            language=detected_language,
             author=author,
             published_at=published_iso,
             summary=summary,

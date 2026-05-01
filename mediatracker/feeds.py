@@ -57,11 +57,13 @@ COMPETITOR_QUERIES = [
     },
     {
         "keyword": "Cargill Aqua",
-        # Generic "Cargill" alone is huge agribusiness noise — scope to
-        # the aquaculture brand names. "Ewos" is the legacy brand still
-        # used in trade press.
+        # "Cargill Aqua Nutrition" is unique. "Ewos" alone catches the
+        # street "Ewos Parade" in Cronulla, NSW (58 spurious real-estate
+        # listings/run); scope with context_terms so any one of these
+        # additional words must also appear.
         "phrases": ["Cargill Aqua Nutrition", "Ewos"],
         "context": None,
+        "context_terms": ["aquafeed", "salmon", "aquaculture", "Cargill", "fish feed"],
         "company": "Cargill",
     },
 ]
@@ -116,7 +118,12 @@ class GoogleNewsLocale:
 GOOGLE_NEWS_LOCALES: list[GoogleNewsLocale] = [
     GoogleNewsLocale(code="en", hl="en-US", gl="US", ceid="US:en"),
     GoogleNewsLocale(code="da", hl="da",    gl="DK", ceid="DK:da"),
-    GoogleNewsLocale(code="no", hl="no",    gl="NO", ceid="NO:no"),
+    # 'hl=no' returns near-empty results; Google News uses 'nb' (Bokmål)
+    # for Norwegian Bokmål, the dominant written form. Even with this fix,
+    # most Norwegian-outlet coverage (iLaks, Kyst.no) still flows in via
+    # the Danish locale because the languages are mutually intelligible
+    # to Google News' clustering.
+    GoogleNewsLocale(code="no", hl="nb",    gl="NO", ceid="NO:nb"),
     GoogleNewsLocale(code="es", hl="es-419", gl="CL", ceid="CL:es-419"),
 ]
 
@@ -207,7 +214,10 @@ def build_google_news_queries() -> list[tuple[str, str]]:
 
     for cq in COMPETITOR_QUERIES:
         phrase_q = _quote_or(cq["phrases"])
-        if cq["context"]:
+        if cq.get("context_terms"):
+            ctx = _quote_or(cq["context_terms"])
+            q = f"({phrase_q}) AND ({ctx})"
+        elif cq.get("context"):
             q = f"({phrase_q}) AND \"{cq['context']}\""
         else:
             q = phrase_q
