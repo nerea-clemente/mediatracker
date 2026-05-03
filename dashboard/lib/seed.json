@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T11:58:27+00:00",
+  "generated_at": "2026-05-03T18:39:00+00:00",
   "stats": {
-    "mention_count": 1065,
-    "story_count": 977,
-    "analyzed_count": 483,
-    "off_topic_mentions": 30,
-    "off_topic_stories": 22
+    "mention_count": 1078,
+    "story_count": 990,
+    "analyzed_count": 492,
+    "off_topic_mentions": 31,
+    "off_topic_stories": 23
   },
   "outlets": [
     "20Minutos",
@@ -36,6 +36,7 @@
     "Christensen Salmon Generations Funeral Home",
     "Cinco Días",
     "Cooling Post",
+    "Dagens Medisin",
     "Dagens Næringsliv",
     "Dalane Tidende",
     "DeSmog",
@@ -136,6 +137,7 @@
     "Radio Nordkapp",
     "Rana Blad",
     "Reuters",
+    "Revista Pharma Market",
     "Ringerikes Blad",
     "Rubber News",
     "RuhrkanalNews",
@@ -473,6 +475,20 @@
       "first_seen": "2026-05-01T06:05:34+00:00",
       "last_seen": "2026-05-01T06:05:34+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1012,
+      "headline": "Schouw & Co keeps full-year 2026 revenue, EBITDA guidance - marketscreener.com",
+      "story_summary": "Schouw & Co has confirmed its full-year 2026 revenue and EBITDA guidance, indicating confidence in meeting its forecasts. The announcement reflects the company's current operational performance and outlook across its portfolio of subsidiaries including BioMar Group.",
+      "first_seen": "2026-05-01T06:04:18+00:00",
+      "last_seen": "2026-05-01T06:04:18+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -1573,6 +1589,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1011,
+      "headline": "Schouw & Co. share buy-back programme, week 9 2026 - Finansavisen",
+      "story_summary": "Schouw & Co. announced a share buyback programme for week 9 of 2026. The article reports on the execution of this corporate financial activity during the specified period.",
+      "first_seen": "2026-03-02T08:00:00+00:00",
+      "last_seen": "2026-03-02T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 317,
       "headline": "BioMar announces functional feed product to proactively prevent seabass bacterial infections - SeafoodSource",
       "story_summary": "BioMar has announced a new functional feed product aimed at proactively preventing bacterial infections in seabass aquaculture. The product represents the company's effort to address disease management through nutritional solutions in farmed fish.",
@@ -2343,6 +2373,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1010,
+      "headline": "Mowi firma una alianza estratégica con Skretting para reforzar su división de alimentación - Revista Pharma Market",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdllQSW1feVg3R295dWlCZWMzcmd5c2dyc0ozeG1aenhDT3VEUnVFdlJvSERUWU1VNGpLWkF3eEt3bWF5dHZUbVZ5Z0pRTG9iYVBBM0FPYTBsUmNKaWdMMWNNWEhyN3dQLTJFU1BSMmU3Si0tdm1nRGxONk56NG9hdE1kbVVWYzQwWHdSeFBTOGotTkN5aEhCZ0FKRmlIQnJlZEJ4RW5xMHFBSDQ4WVdHTWkzOW5EQnZtWS12Rw?oc=5\" target=\"_blank\">Mowi firma una alianza estratégica con Skretting para reforzar su división de alimentación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Revista Pharma Market</font>",
+      "first_seen": "2026-01-15T08:00:00+00:00",
+      "last_seen": "2026-01-15T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 777,
       "headline": "Ny studie viser at laks produserer vitamin D fra sollys - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9Sc1l1OXBISEVmLXlueFhuMEdVbXIzVmVoZFZUNVUwbEItaldmTF9rSmRvM3FwcElzdTlsbE5oUVd0U1BnZUo1Y0swODRtMThzOVloLXM2Z2ZLZHg3R3JmLTRaSnR4aUxLWU1yVHpBbzk1d3BMOXlJMUp3SXBHQQ?oc=5\" target=\"_blank\">Ny studie viser at laks produserer vitamin D fra sollys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -2509,6 +2553,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1009,
+      "headline": "Børsåret 2025: Leverandørleddet gjorde det skarpere enn oppdretterne – både på sjø og land - iLaks",
+      "story_summary": "The article discusses 2025 stock market performance in the aquaculture sector, noting that suppliers outperformed producers both at sea and on land. Schouw & Co, as a parent company of BioMar, is referenced in this broader supplier-segment analysis of stock market performance this year.",
+      "first_seen": "2025-12-30T08:00:00+00:00",
+      "last_seen": "2025-12-30T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 282,
@@ -4516,6 +4574,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1008,
+      "headline": "Valg 2025, Ruten | Stemte blankt i protest: – Ingenting blir annerledes - Sandnesposten",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2VEQnU0dm5NN291WDBJTUt3NEdzX1czV21SbWh6bl82UWhOMUtOZFlabXZydnNrRG9vaTRFdzZwaDhEcmJ6VU5lTlY3S2hONzhuTWl4MUxjNENTb29ZdHplTGFYcjlrRFV5VUo0bkRuYzVHblFXOGcyNjl2aVVJZUlaaGtVWGEwTDMyQW91M1hvWFg1TU9YYWhodw?oc=5\" target=\"_blank\">Valg 2025, Ruten | Stemte blankt i protest: – Ingenting blir annerledes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>",
+      "first_seen": "2025-09-09T07:00:00+00:00",
+      "last_seen": "2025-09-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 706,
       "headline": "Months after US exit, Skretting plans $80m South Florida feed mill on Atlantic Sapphire property - Undercurrent News",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ1VUT3J5VjBBTnpCcVdnLUROZEJoeWtQNzk3aVZFejhScjJYeEFQVXVKaEdIeVNPbjJjQnpjUFFIQTZiUkJTMjVmQjNqc0daQldzbUVRNURJZkFOQzlEbGNsYjY3UUt0X0dDelI2WmZGRFdvRWJyc1lSNGFIdXZCdUs1VGdyNW1qU0t0YmpxZnZKM0Znb3c4NTl6ZUtzcnlNb0FoblZQSjhQcEF4OGhnak42ZTVmQjVRdjdqNldOQWpUbTNIU2RXZ1RuaXFyZWFuTWFLRXZn?oc=5\" target=\"_blank\">Months after US exit, Skretting plans $80m South Florida feed mill on Atlantic Sapphire property</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
@@ -5905,6 +5977,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1007,
+      "headline": "(+) Vestre har fått ny rådgiver - Dagens Medisin",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPaW9MNjAteVNKUUF2MExCTEVwNmhiSVNNYkdtRlNocDZTQjk4LTVxVTlzeDhDdnRMUkotbTJfSGxiX0R1dDRkZVBBMllEajUzMWdlOWptdmtGTmtKSVFmamtnaVM0Ty0xMkwyY3Q0UDBIdk9remVCblFrSlNQaXdkczlCOUduanY1enBvaXNKeTNHYzFJVHludU1hazhWd0FsZnZHNm93NmZRaXYwbWhCM0lZcTBSWWhnZFBlUVQ4RQ?oc=5\" target=\"_blank\">(+) Vestre har fått ny rådgiver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dagens Medisin</font>",
+      "first_seen": "2025-06-02T07:00:00+00:00",
+      "last_seen": "2025-06-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 182,
       "headline": "BioMar Norge oppnår ASC-sertifisering - Kyst.no",
       "story_summary": "BioMar Norge, the Norwegian subsidiary of BioMar Group, has achieved ASC certification, a significant sustainability credential in aquaculture. The certification demonstrates the company's commitment to responsible and environmentally sound feed production practices.",
@@ -6393,6 +6479,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1006,
+      "headline": "Destacada participación de ADL en workshop internacional sobre manejo y control de SRS - aqua.cl",
+      "story_summary": "The article reports on ADL's participation in an international workshop focused on the management and control of SRS (Salmon Rickettsial Septicemia). BioMar is mentioned as a keyword match but does not appear to be the focus or primary subject of the coverage, suggesting only incidental relevance to aquaculture feed or related topics in the salmon industry context. The article emphasizes ADL's role and expertise in disease management rather than feed-related products or services.",
+      "first_seen": "2025-04-22T07:00:00+00:00",
+      "last_seen": "2025-04-22T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
     },
     {
       "id": 644,
@@ -8609,6 +8709,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1005,
+      "headline": "Skretting and Zooca Calanus join forces to develop copepod-based aquafeeds - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1FnRkt5eUlteXV4eWNIdTUtVmdGam02bWNSTTZUX0Iyc3plS1lKV2lBREdZYTZ5OVc0ZXZMbXptb3ZieTMzelNxUkFIS3ZhQ1VwSnN3WE92WHJCYU82SVQxM3B6UVEzOVNEckNPSmpHZ1EtcGJMeW9YaWhJeDVyN1RMaEdqRDlMa3NUekZsR2w5SHUwSTNfVnB5Z0d0TWtUdEllMklHV216Yms?oc=5\" target=\"_blank\">Skretting and Zooca Calanus join forces to develop copepod-based aquafeeds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2023-11-27T08:00:00+00:00",
+      "last_seen": "2023-11-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 571,
       "headline": "New Managing Director for Cargill Aqua Nutrition North Sea & Canada - WEAREAQUACULTURE",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVhobVB4eHVyMjV6Q1M3eW80a1VkRjNSUEp6QXhsVF82X3BsSjdwOWdyZGt5cW9IMXZjQ1NxdzlfWGRlSGhjMW0xbm1BQ2kwcWZuLWJvYjRhLTVVTThReU9lRzFpRmdDVmlqbzVSQUVZQnI5aUNNSHhHd216QzZ2STBTUlVGWFljTnVvcVhzTTY1NlJ2OUtwdmFrQVR4b00ybDhV0gGwAUFVX3lxTE5lV29aN1BpeVFudEZ0eGZ4MzRBT3U4TVNxNERrZnRDV01RbERoTmljVmxpNDI5SWd1NHRXRTBEZmtpbkFZeFBiYk5VbllWZnE5NG5NLVdVRGRTT19vMFBSNm9wRVBuRVg4dXpBZjhjSmVvUEhGb1NhUmNidnlPcVRIcFFCS3Jua1ZWX1hWYXJIb01IaUVVdkttcUFabmJZUHBTSVVDdHBlWmFGblpzMndP?oc=5\" target=\"_blank\">New Managing Director for Cargill Aqua Nutrition North Sea & Canada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
@@ -9099,6 +9213,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1004,
+      "headline": "Nær prisdobling på to år: Nå koster fiskefôret over 20 kroner kiloet - iLaks",
+      "story_summary": "The article reports on significant price increases in fish feed over a two-year period, with costs now surpassing 20 kroner per kilogram. BioMar is mentioned as a supplier in this market context of rising aquaculture input costs, but the article focuses on the broader industry price trend rather than BioMar specifically as the main subject.  Based on the title and summary, the article appears to examine the pricing dynamics of fish feed products in the Norwegian aquaculture market rather than providing BioMar-specific coverage or news about the company itself. It is mentioned tangentially in the broader context of industry pricing dynamics. This is a market/input-cost story rather than a company-specific story.  Without access to the full text, the classification is based on the headline and framing visible in the summary. BioMar appears tagged in the search results but may be mentioned in passing as one of several feed suppliers in the cost discussion. The article is primarily about aquaculture feed price inflation, not BioMar Group itself, suggesting secondary prominence at best, possibly passing mention.  Given the lede focus is on price trends rather than any BioMar news, prominence is secondary or passing. Neutral sentiment applies as the article is factual reporting on price increases, which could be negative for farmers but is presented as objective market reporting. No named BioMar executives are quoted based on available information. Key claims would relate to price levels and trends, not BioMar-specific developments. Risk flags would include 'financial' due to the cost/pricing angle affecting the industry and BioMar as a participant, but no product issues, legal matters, or executive statements are evident from the summary provided. Confidence in sentiment is moderate-to-high given the straightforward factual reporting nature; price inflation reporting is typically neutral unless paired with controversy or dramatic framing.  The article is about the target brand (aquaculture feed market) but BioMar is likely secondary or passing prominence based on the headline focus on prices rather than BioMar news. Assess as secondary given the keyword match and the feed price context, but note that full-text review could lower this to 'passing' if BioMar is only listed among competitors. Defaulting to secondary based on keyword match and aquaculture feed context, unless the body text shows only incidental mention. The summary provided does not contain enough detail to definitively place prominence; erring toward secondary given the keyword trigger and market-relevance, but 'passing' is plausible if the article merely lists BioMar among feed suppliers discussing price trends.  Given the constraints and the lede text, treating as secondary prominence since BioMar is matched as a keyword in an article about aquaculture feed pricing. Neutral sentiment, moderate confidence. No exec statements, product issues, or legal flags evident. Financial angle applies (pricing/cost news). Risk flag: financial. Key claims: fish feed prices have nearly doubled in two years, prices now exceed 20 kroner/kilo. No people quoted identified from summary.  Final assessment: secondary prominence, neutral sentiment (0.85), financial risk flag, no key claims beyond price trend, no named quotes visible, summary provided above. Note: full-text analysis would refine prominence (possibly to 'passing') and may reveal additional details. Based on title/summary alone, BioMar is presumed mentioned in the context of aquaculture feed pricing dynamics as one market participant but not the focus of the reporting. Neutral tone, no controversy, no exec statements visible in excerpt.  Treating as secondary based on keyword match in aquaculture feed price article; confidence moderate given limited text. Risk flag: financial (cost/pricing).  Setting key_claims and people_quoted to empty as no specific claims or quotes are attributed in the excerpt provided. The angle captures the main narrative: price inflation in fish feed over a two-year period. Sentiment: neutral (factual market reporting on price trends), confidence 0.85. Prominence: secondary (BioMar is likely mentioned in context of feed suppliers, but the article's focus is on industry-wide pricing trends, not BioMar-specific news). Risk flags: [",
+      "first_seen": "2023-05-04T07:00:00+00:00",
+      "last_seen": "2023-05-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 87,
       "headline": "BioMar firma acuerdo con productor de harina de insectos - Salmonexpert",
       "story_summary": "BioMar has entered into an agreement with an insect meal producer, indicating the company's strategic interest in alternative protein sources for aquaculture feeds. The partnership aligns with industry trends toward sustainable feed ingredient innovation for salmon farming.",
@@ -9398,6 +9526,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakhCN0dTSExMeWNWT052d3RJNE1XQUZIMkxwV21GVkRXNF8tc19ZZExLa1ZqZUhLcFVwdHB4N0tNNC1BYnZ4YXJhaHFEaDEwMzNLNjhWcVlRNVJkZm9jdmNaLXU4NHJwbHhzUEtKRXdGalFYUERfV3RMdzk5UDJvMzFHVHcwWi12OTE0SGsxN1Q2dU5EMmV1Q3JDTzVTeEg1NXJiT0dxUUh1OWg4VF9LYTJabFg3cU5GZFJpSXZQei1LOXc?oc=5\" target=\"_blank\">Consolidation creating big players in the global shrimp-feed industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
       "first_seen": "2023-02-15T08:00:00+00:00",
       "last_seen": "2023-02-15T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1003,
+      "headline": "Liliam Rioja: “Skretting es una empresa comprometida con la equidad de género que apuesta por equipos integrales” - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxONWt5YXNUOWFFS0ozMWFqZDNIQm5rcnhXcUhEWjJ1UjhhN1NTb3ZQdUtadUxYT1dVXzJmNE5QLTZsWU9QaGNuQkg3MnRsRjRRR2MyNlFmVWU1VkpZNmdPa3BJWjZCWHZIcWhBNHk5ZWtoeGhVU0JoYVVQMVZMUlpBSGhfLTZMajI2dnVvQ0ZJUFV0b0M4bGNLR3BlOERUYURCblpfMkZHTnZPMUx6NVk4dWZWTWtBeVhPSElHT2dPVkRKNlpocDhyR2h4dm1DTU5JdkN4VjV5TWhPdU9BQTFMWXBXRXpkUXRneFpGbm5fZkRjNnFqQUszb251dw?oc=5\" target=\"_blank\">Liliam Rioja: “Skretting es una empresa comprometida con la equidad de género que apuesta por equipos integrales”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2023-02-11T08:00:00+00:00",
+      "last_seen": "2023-02-11T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -9923,6 +10065,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1002,
+      "headline": "Bio Feeder-båt krysset Atlanteren med fiskefôr - iLaks",
+      "story_summary": "A Bio Feeder ship successfully crossed the Atlantic carrying aquaculture feed. The article highlights the transportation logistics of feed delivery for the aquaculture industry, with Schouw-affiliated BioMar playing a supporting role in the operation or supply chain described.",
+      "first_seen": "2022-05-23T07:00:00+00:00",
+      "last_seen": "2022-05-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 515,
@@ -12785,6 +12941,34 @@
       "company": "Cargill"
     },
     {
+      "id": 1001,
+      "headline": "Ny ledelsesstruktur i BioMar - iLaks",
+      "story_summary": "BioMar has implemented a new leadership structure as part of organizational changes. The article reports on the company's management realignment but does not specify details of the restructuring or its implications in the provided excerpt.",
+      "first_seen": "2016-06-06T07:00:00+00:00",
+      "last_seen": "2016-06-06T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1000,
+      "headline": "BioMar lanserer global strategi - Kyst.no",
+      "story_summary": "BioMar announces a new global strategic initiative. The announcement signals the company's ambition to expand its scope across international markets.",
+      "first_seen": "2016-06-02T07:00:00+00:00",
+      "last_seen": "2016-06-02T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 929,
       "headline": "Skretting presenta a nuevo gerente general - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWZoNU5ZSFpLNFFYb1dISWdHNTZsODkyNS10VDl2bVdaYzgzak43QlFuMS1kN0JxZDY2aWRHdHZvRVNYRGdycDJ5MlNUMFZ2bWJLOC1iTXhNcklkaHUzTDNGY0tEVFVxU3NLcnJUTjJWQ2s5OVZUQVBzTjNpSGc2Rzhfd3YxRGREaXduaXhmZHVHd3BOVzNRUUlfLVBRbFNDQ0J6QQ?oc=5\" target=\"_blank\">Skretting presenta a nuevo gerente general</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -13319,12 +13503,12 @@
     {
       "id": 981,
       "headline": "Nueva estructura ejecutiva en Biomar Group - Salmonexpert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ01rR1RCczc2dENEbzMwV3dMMUdkdWJrcGFzSk5MbGRJcXdLRC1kOU9fN0E1S1Fubmh6QnRuVThvM3IxcG5DZTZFVElnX0RKTmV2ZjZybm00NndWVGdVcS1idE4tRWxIMHNybDh6T0w5b1M5NDgtZG90TnlaaVZSMDFTal9xcUZ2RWw2RFo2aw?oc=5\" target=\"_blank\">Nueva estructura ejecutiva en Biomar Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "story_summary": "BioMar Group announced changes to its executive structure. Carlos Diaz is associated with these organizational developments.",
       "first_seen": "2014-11-19T08:00:00+00:00",
       "last_seen": "2014-11-19T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "exec_statement"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -37300,15 +37484,23 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
-      "people_quoted": [],
-      "risk_flags": [
-        "none"
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Group announces new executive structure",
+      "key_claims": [
+        "BioMar Group implemented organizational changes to its executive structure"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ01rR1RCczc2dENEbzMwV3dMMUdkdWJrcGFzSk5MbGRJcXdLRC1kOU9fN0E1S1Fubmh6QnRuVThvM3IxcG5DZTZFVElnX0RKTmV2ZjZybm00NndWVGdVcS1idE4tRWxIMHNybDh6T0w5b1M5NDgtZG90TnlaaVZSMDFTal9xcUZ2RWw2RFo2aw?oc=5\" target=\"_blank\">Nueva estructura ejecutiva en Biomar Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+      "people_quoted": [
+        {
+          "name": "Carlos Diaz",
+          "affiliation": "BioMar Group",
+          "quote_summary": "Involved in or associated with the new executive structure announcement"
+        }
+      ],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "BioMar Group announced changes to its executive structure. Carlos Diaz is associated with these organizational developments."
     },
     {
       "id": 11053,
@@ -37685,6 +37877,294 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWEF4dEpuSy1NYkNaeHNWd05ndmdpYjlGSlBvM2FJY0xQdFl5c0JyYm9LMGVWUjVCQlN0bkZ6LVJqQTVvZm5NeFdpUDFscXk4RXRPeTBKZjRsQTdneVhCZjhRNVBxVXh3VlI5ZmJjSzZYb0MzYmREYmh4QktCck5xcGlQREZfb09uMXFLcnpMZEtYM2UzSjR0RkxjeW8wUlF0T1BLOU5sYmJuczd5U3Z2T1JEaGFoY0tzVjAxbzVGR2k?oc=5\" target=\"_blank\">Har fått pålegg om å fjerne populære badstuer – 1200 gjester har engasjert seg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 12959,
+      "story_id": 1001,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Q3dPUDdFWUwxZUhfN25yTmlORWtRZzRGS01kNFNiMVRsTGdVNFREY0trRDFiSjYyclZaR2I3dmFwQkg1LUltRHUyMmxCY3ZTMDdna0RPZ2pFUQ?oc=5",
+      "title": "Ny ledelsesstruktur i BioMar - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "published_at": "2016-06-06T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar announces organizational restructuring of leadership",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has implemented a new leadership structure as part of organizational changes. The article reports on the company's management realignment but does not specify details of the restructuring or its implications in the provided excerpt."
+    },
+    {
+      "id": 12961,
+      "story_id": 1004,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3pkbWN5RFNDWTFSd2FuZnFaOTF0SzdER2VtOEk5Q2tINEtmNEoxSGZIalpEa295WHhmOTNqVlNJMURkLTBUcmlSak1nd2RRWmJSanczVFF1VXRXcWNkWFRqQVZYdW5OM0g0bHpTbTZlNk5jVXp6eWhEMGpXdDFPenFwdXJ0NndPSk5udXZRZw?oc=5",
+      "title": "Nær prisdobling på to år: Nå koster fiskefôret over 20 kroner kiloet - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "published_at": "2023-05-04T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Fish feed prices have nearly doubled in two years, now exceeding 20 kroner per kilo",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article reports on significant price increases in fish feed over a two-year period, with costs now surpassing 20 kroner per kilogram. BioMar is mentioned as a supplier in this market context of rising aquaculture input costs, but the article focuses on the broader industry price trend rather than BioMar specifically as the main subject.  Based on the title and summary, the article appears to examine the pricing dynamics of fish feed products in the Norwegian aquaculture market rather than providing BioMar-specific coverage or news about the company itself. It is mentioned tangentially in the broader context of industry pricing dynamics. This is a market/input-cost story rather than a company-specific story.  Without access to the full text, the classification is based on the headline and framing visible in the summary. BioMar appears tagged in the search results but may be mentioned in passing as one of several feed suppliers in the cost discussion. The article is primarily about aquaculture feed price inflation, not BioMar Group itself, suggesting secondary prominence at best, possibly passing mention.  Given the lede focus is on price trends rather than any BioMar news, prominence is secondary or passing. Neutral sentiment applies as the article is factual reporting on price increases, which could be negative for farmers but is presented as objective market reporting. No named BioMar executives are quoted based on available information. Key claims would relate to price levels and trends, not BioMar-specific developments. Risk flags would include 'financial' due to the cost/pricing angle affecting the industry and BioMar as a participant, but no product issues, legal matters, or executive statements are evident from the summary provided. Confidence in sentiment is moderate-to-high given the straightforward factual reporting nature; price inflation reporting is typically neutral unless paired with controversy or dramatic framing.  The article is about the target brand (aquaculture feed market) but BioMar is likely secondary or passing prominence based on the headline focus on prices rather than BioMar news. Assess as secondary given the keyword match and the feed price context, but note that full-text review could lower this to 'passing' if BioMar is only listed among competitors. Defaulting to secondary based on keyword match and aquaculture feed context, unless the body text shows only incidental mention. The summary provided does not contain enough detail to definitively place prominence; erring toward secondary given the keyword trigger and market-relevance, but 'passing' is plausible if the article merely lists BioMar among feed suppliers discussing price trends.  Given the constraints and the lede text, treating as secondary prominence since BioMar is matched as a keyword in an article about aquaculture feed pricing. Neutral sentiment, moderate confidence. No exec statements, product issues, or legal flags evident. Financial angle applies (pricing/cost news). Risk flag: financial. Key claims: fish feed prices have nearly doubled in two years, prices now exceed 20 kroner/kilo. No people quoted identified from summary.  Final assessment: secondary prominence, neutral sentiment (0.85), financial risk flag, no key claims beyond price trend, no named quotes visible, summary provided above. Note: full-text analysis would refine prominence (possibly to 'passing') and may reveal additional details. Based on title/summary alone, BioMar is presumed mentioned in the context of aquaculture feed pricing dynamics as one market participant but not the focus of the reporting. Neutral tone, no controversy, no exec statements visible in excerpt.  Treating as secondary based on keyword match in aquaculture feed price article; confidence moderate given limited text. Risk flag: financial (cost/pricing).  Setting key_claims and people_quoted to empty as no specific claims or quotes are attributed in the excerpt provided. The angle captures the main narrative: price inflation in fish feed over a two-year period. Sentiment: neutral (factual market reporting on price trends), confidence 0.85. Prominence: secondary (BioMar is likely mentioned in context of feed suppliers, but the article's focus is on industry-wide pricing trends, not BioMar-specific news). Risk flags: ["
+    },
+    {
+      "id": 13162,
+      "story_id": 1006,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEJjb2VBbU9jNVRBU2dRcWY1MEFsWjVaSlJ1a0F6aGxlZzlHamVaVnZPb2VFZmZXVEp5XzFPYWk4US1WbjhxNTVWcFdUdEpTS1FXcEZBcm1hR01ocHMwZWxvdXE5dGpmSVNrTERmam9OM1pyMzBCaGJFcHc1dDRPVVduS3dKc2Y1RFBXRDZRcjI1em0tNkIyMDZmZTFLNTRaeVJ3dmJQMTFtY1U?oc=5",
+      "title": "Destacada participación de ADL en workshop internacional sobre manejo y control de SRS - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "published_at": "2025-04-22T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "ADL participates in international workshop on SRS management and control",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article reports on ADL's participation in an international workshop focused on the management and control of SRS (Salmon Rickettsial Septicemia). BioMar is mentioned as a keyword match but does not appear to be the focus or primary subject of the coverage, suggesting only incidental relevance to aquaculture feed or related topics in the salmon industry context. The article emphasizes ADL's role and expertise in disease management rather than feed-related products or services."
+    },
+    {
+      "id": 13171,
+      "story_id": 1012,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWV6X1Z5SlRCanFULVJRQkM1YkUzNUJMZXdIT1FJaGdCQVYyS0QyU2UtbEQ5WFZZanYzOEJqaVFyWlJOQkp4SHgyLU0yMnU4YndIOWFjeEVxMGQtNnQ1SEV0Ym94UkpDT1Q4RVhaQXF3cEJnUG1UQzdLdzRPUjZHbUtnd2wyekhHdjZLVThsRUNLcVU0YWU2TTAwZmV3Y0pzYVpHMFpDVUFNcGc?oc=5",
+      "title": "Schouw & Co keeps full-year 2026 revenue, EBITDA guidance - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "published_at": "2026-05-01T06:04:18+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co maintains full-year financial guidance for 2026.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co has confirmed its full-year 2026 revenue and EBITDA guidance, indicating confidence in meeting its forecasts. The announcement reflects the company's current operational performance and outlook across its portfolio of subsidiaries including BioMar Group."
+    },
+    {
+      "id": 13240,
+      "story_id": 1011,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcnVHU2pyd3l3RFZCMDRuc05faXZodUxza3J5UHlBYllNUGxsRTV2Y0R0QUswdWJueUxCamlqTWFFaDgycGVWeXRjc1Z6enkyZjhaWUJlWnFkNGh4RVdVMEc0QTZqQnBJQTZpc042czB6LVNKUkhtRENhd2lrWW10TWt2RDFTckxPZ09SZEVDX2pUcjF5cWtNOW9hNFlQczd6QWp0RDlqNlJXdFpqcTBrZmpaaGx4LUJRaGt1QjRBSm1FaDAwOWNYdEVVeVo3NnhCSEJ4ck1qaUI?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 9 2026 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "published_at": "2026-03-02T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buyback in week 9 of 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced a share buyback programme for week 9 of 2026. The article reports on the execution of this corporate financial activity during the specified period."
+    },
+    {
+      "id": 13256,
+      "story_id": 1009,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0xqcG10a19ZRldjVXJtV1dqV3dWNGhFRGlwSXZ5R0UzS3lsdDZwbDBXdEQ0ZEkwdnNtZHk2SXdkR2xOTG5wdy00aXdMZlpaU25MZzhBQ205b21hUzVHbE1CdUF3YmttWWdObVF5T013MzUzZHFjc2FUbHZtUkMyYnlXdWlYMHBVSFpQSjZZVFlqX0RSUnFvTjQxY0J6eFBxTlVSU1FZUUhjMmZKU1E?oc=5",
+      "title": "Børsåret 2025: Leverandørleddet gjorde det skarpere enn oppdretterne – både på sjø og land - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "published_at": "2025-12-30T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "Aquaculture suppliers outperformed producers in 2025 stock performance",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article discusses 2025 stock market performance in the aquaculture sector, noting that suppliers outperformed producers both at sea and on land. Schouw & Co, as a parent company of BioMar, is referenced in this broader supplier-segment analysis of stock market performance this year."
+    },
+    {
+      "id": 13258,
+      "story_id": 1002,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KSkRsMWlLaUhWUFZzeUU5dGlrZ0FpOWJyVnZfOWZCa0NDMWFMU2lZU3p2X29QVUlWZTF5WG8yLTBVMkhuUzRoM3RnZjhxaDdSUjJtNnhvOGExd0ZOQmRWMmRPbmtwejlhMU9RNEFIalZGRVFma2c?oc=5",
+      "title": "Bio Feeder-båt krysset Atlanteren med fiskefôr - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "published_at": "2022-05-23T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "BioMar feed transported across Atlantic by specialized vessel",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A Bio Feeder ship successfully crossed the Atlantic carrying aquaculture feed. The article highlights the transportation logistics of feed delivery for the aquaculture industry, with Schouw-affiliated BioMar playing a supporting role in the operation or supply chain described."
+    },
+    {
+      "id": 13270,
+      "story_id": 1000,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOck9QbERELV9jWXpBX2s5Z09uOGdoVkp0V1dmMTFqSnpSa2NMSE1vZ0dFampvYnQ1NC1BOFBjTzAwZ1BnMGlPX3g5cTZWbXp4Y05GRE8yWFd4ZlhRZXE3TVc5Z0lMaDhnZkZPRmE1NVlNeUdFbEw3dVJlUG5XTl9XbTNjVmRxRHRubWVBYg?oc=5",
+      "title": "BioMar lanserer global strategi - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "published_at": "2016-06-02T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar launches global strategy",
+      "key_claims": [
+        "BioMar is launching a global strategy"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "BioMar announces a new global strategic initiative. The announcement signals the company's ambition to expand its scope across international markets."
+    },
+    {
+      "id": 13497,
+      "story_id": 1005,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1FnRkt5eUlteXV4eWNIdTUtVmdGam02bWNSTTZUX0Iyc3plS1lKV2lBREdZYTZ5OVc0ZXZMbXptb3ZieTMzelNxUkFIS3ZhQ1VwSnN3WE92WHJCYU82SVQxM3B6UVEzOVNEckNPSmpHZ1EtcGJMeW9YaWhJeDVyN1RMaEdqRDlMa3NUekZsR2w5SHUwSTNfVnB5Z0d0TWtUdEllMklHV216Yms?oc=5",
+      "title": "Skretting and Zooca Calanus join forces to develop copepod-based aquafeeds - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "published_at": "2023-11-27T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1FnRkt5eUlteXV4eWNIdTUtVmdGam02bWNSTTZUX0Iyc3plS1lKV2lBREdZYTZ5OVc0ZXZMbXptb3ZieTMzelNxUkFIS3ZhQ1VwSnN3WE92WHJCYU82SVQxM3B6UVEzOVNEckNPSmpHZ1EtcGJMeW9YaWhJeDVyN1RMaEdqRDlMa3NUekZsR2w5SHUwSTNfVnB5Z0d0TWtUdEllMklHV216Yms?oc=5\" target=\"_blank\">Skretting and Zooca Calanus join forces to develop copepod-based aquafeeds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 13564,
+      "story_id": 1008,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2VEQnU0dm5NN291WDBJTUt3NEdzX1czV21SbWh6bl82UWhOMUtOZFlabXZydnNrRG9vaTRFdzZwaDhEcmJ6VU5lTlY3S2hONzhuTWl4MUxjNENTb29ZdHplTGFYcjlrRFV5VUo0bkRuYzVHblFXOGcyNjl2aVVJZUlaaGtVWGEwTDMyQW91M1hvWFg1TU9YYWhodw?oc=5",
+      "title": "Valg 2025, Ruten | Stemte blankt i protest: – Ingenting blir annerledes - Sandnesposten",
+      "source_name": "Sandnesposten",
+      "language": "no",
+      "published_at": "2025-09-09T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ2VEQnU0dm5NN291WDBJTUt3NEdzX1czV21SbWh6bl82UWhOMUtOZFlabXZydnNrRG9vaTRFdzZwaDhEcmJ6VU5lTlY3S2hONzhuTWl4MUxjNENTb29ZdHplTGFYcjlrRFV5VUo0bkRuYzVHblFXOGcyNjl2aVVJZUlaaGtVWGEwTDMyQW91M1hvWFg1TU9YYWhodw?oc=5\" target=\"_blank\">Valg 2025, Ruten | Stemte blankt i protest: – Ingenting blir annerledes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>"
+    },
+    {
+      "id": 13578,
+      "story_id": 1007,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaW9MNjAteVNKUUF2MExCTEVwNmhiSVNNYkdtRlNocDZTQjk4LTVxVTlzeDhDdnRMUkotbTJfSGxiX0R1dDRkZVBBMllEajUzMWdlOWptdmtGTmtKSVFmamtnaVM0Ty0xMkwyY3Q0UDBIdk9remVCblFrSlNQaXdkczlCOUduanY1enBvaXNKeTNHYzFJVHludU1hazhWd0FsZnZHNm93NmZRaXYwbWhCM0lZcTBSWWhnZFBlUVQ4RQ?oc=5",
+      "title": "(+) Vestre har fått ny rådgiver - Dagens Medisin",
+      "source_name": "Dagens Medisin",
+      "language": "no",
+      "published_at": "2025-06-02T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPaW9MNjAteVNKUUF2MExCTEVwNmhiSVNNYkdtRlNocDZTQjk4LTVxVTlzeDhDdnRMUkotbTJfSGxiX0R1dDRkZVBBMllEajUzMWdlOWptdmtGTmtKSVFmamtnaVM0Ty0xMkwyY3Q0UDBIdk9remVCblFrSlNQaXdkczlCOUduanY1enBvaXNKeTNHYzFJVHludU1hazhWd0FsZnZHNm93NmZRaXYwbWhCM0lZcTBSWWhnZFBlUVQ4RQ?oc=5\" target=\"_blank\">(+) Vestre har fått ny rådgiver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dagens Medisin</font>"
+    },
+    {
+      "id": 13724,
+      "story_id": 1010,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdllQSW1feVg3R295dWlCZWMzcmd5c2dyc0ozeG1aenhDT3VEUnVFdlJvSERUWU1VNGpLWkF3eEt3bWF5dHZUbVZ5Z0pRTG9iYVBBM0FPYTBsUmNKaWdMMWNNWEhyN3dQLTJFU1BSMmU3Si0tdm1nRGxONk56NG9hdE1kbVVWYzQwWHdSeFBTOGotTkN5aEhCZ0FKRmlIQnJlZEJ4RW5xMHFBSDQ4WVdHTWkzOW5EQnZtWS12Rw?oc=5",
+      "title": "Mowi firma una alianza estratégica con Skretting para reforzar su división de alimentación - Revista Pharma Market",
+      "source_name": "Revista Pharma Market",
+      "language": "es",
+      "published_at": "2026-01-15T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdllQSW1feVg3R295dWlCZWMzcmd5c2dyc0ozeG1aenhDT3VEUnVFdlJvSERUWU1VNGpLWkF3eEt3bWF5dHZUbVZ5Z0pRTG9iYVBBM0FPYTBsUmNKaWdMMWNNWEhyN3dQLTJFU1BSMmU3Si0tdm1nRGxONk56NG9hdE1kbVVWYzQwWHdSeFBTOGotTkN5aEhCZ0FKRmlIQnJlZEJ4RW5xMHFBSDQ4WVdHTWkzOW5EQnZtWS12Rw?oc=5\" target=\"_blank\">Mowi firma una alianza estratégica con Skretting para reforzar su división de alimentación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Revista Pharma Market</font>"
+    },
+    {
+      "id": 13750,
+      "story_id": 1003,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONWt5YXNUOWFFS0ozMWFqZDNIQm5rcnhXcUhEWjJ1UjhhN1NTb3ZQdUtadUxYT1dVXzJmNE5QLTZsWU9QaGNuQkg3MnRsRjRRR2MyNlFmVWU1VkpZNmdPa3BJWjZCWHZIcWhBNHk5ZWtoeGhVU0JoYVVQMVZMUlpBSGhfLTZMajI2dnVvQ0ZJUFV0b0M4bGNLR3BlOERUYURCblpfMkZHTnZPMUx6NVk4dWZWTWtBeVhPSElHT2dPVkRKNlpocDhyR2h4dm1DTU5JdkN4VjV5TWhPdU9BQTFMWXBXRXpkUXRneFpGbm5fZkRjNnFqQUszb251dw?oc=5",
+      "title": "Liliam Rioja: “Skretting es una empresa comprometida con la equidad de género que apuesta por equipos integrales” - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "published_at": "2023-02-11T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxONWt5YXNUOWFFS0ozMWFqZDNIQm5rcnhXcUhEWjJ1UjhhN1NTb3ZQdUtadUxYT1dVXzJmNE5QLTZsWU9QaGNuQkg3MnRsRjRRR2MyNlFmVWU1VkpZNmdPa3BJWjZCWHZIcWhBNHk5ZWtoeGhVU0JoYVVQMVZMUlpBSGhfLTZMajI2dnVvQ0ZJUFV0b0M4bGNLR3BlOERUYURCblpfMkZHTnZPMUx6NVk4dWZWTWtBeVhPSElHT2dPVkRKNlpocDhyR2h4dm1DTU5JdkN4VjV5TWhPdU9BQTFMWXBXRXpkUXRneFpGbm5fZkRjNnFqQUszb251dw?oc=5\" target=\"_blank\">Liliam Rioja: “Skretting es una empresa comprometida con la equidad de género que apuesta por equipos integrales”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
     }
   ],
   "share_of_voice": {
@@ -38025,8 +38505,14 @@
         "Skretting": 1
       },
       {
+        "week": "2016-W22",
+        "BioMar": 1,
+        "Cargill": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2016-W23",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 2,
         "Skretting": 0
       },
@@ -38854,7 +39340,7 @@
       },
       {
         "week": "2022-W21",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -38994,7 +39480,7 @@
         "week": "2023-W06",
         "BioMar": 0,
         "Cargill": 1,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2023-W07",
@@ -39058,7 +39544,7 @@
       },
       {
         "week": "2023-W18",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 0
       },
@@ -39163,6 +39649,12 @@
         "BioMar": 0,
         "Cargill": 3,
         "Skretting": 0
+      },
+      {
+        "week": "2023-W48",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
       },
       {
         "week": "2023-W49",
@@ -39537,6 +40029,12 @@
         "Skretting": 1
       },
       {
+        "week": "2025-W17",
+        "BioMar": 1,
+        "Cargill": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2025-W18",
         "BioMar": 3,
         "Cargill": 1,
@@ -39570,7 +40068,7 @@
         "week": "2025-W23",
         "BioMar": 3,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2025-W24",
@@ -39654,7 +40152,7 @@
         "week": "2025-W37",
         "BioMar": 4,
         "Cargill": 1,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2025-W38",
@@ -39748,7 +40246,7 @@
       },
       {
         "week": "2026-W01",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 1,
         "Skretting": 1
       },
@@ -39762,7 +40260,7 @@
         "week": "2026-W03",
         "BioMar": 0,
         "Cargill": 2,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2026-W04",
@@ -39802,7 +40300,7 @@
       },
       {
         "week": "2026-W10",
-        "BioMar": 7,
+        "BioMar": 8,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -39850,7 +40348,7 @@
       },
       {
         "week": "2026-W18",
-        "BioMar": 48,
+        "BioMar": 49,
         "Cargill": 0,
         "Skretting": 4
       }
@@ -39858,7 +40356,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 484
+        "count": 492
       },
       {
         "company": "Cargill",
@@ -39866,7 +40364,7 @@
       },
       {
         "company": "Skretting",
-        "count": 380
+        "count": 385
       }
     ]
   }
