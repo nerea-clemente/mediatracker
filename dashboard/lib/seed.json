@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-02T19:02:01+00:00",
+  "generated_at": "2026-05-03T00:20:57+00:00",
   "stats": {
-    "mention_count": 1033,
-    "story_count": 950,
-    "analyzed_count": 463,
+    "mention_count": 1042,
+    "story_count": 958,
+    "analyzed_count": 475,
     "off_topic_mentions": 30,
     "off_topic_stories": 22
   },
@@ -131,6 +131,7 @@
     "Pattison Funeral Home",
     "Perishable News",
     "Portal Innova",
+    "RA Stavanger",
     "Radio Nordkapp",
     "Rana Blad",
     "Reuters",
@@ -479,7 +480,7 @@
     {
       "id": 972,
       "headline": "Aktieselskabet Schouw & Co. presenta sus resultados financieros del primer trimestre finalizado el 31 de marzo de 2026 - MarketScreener España",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU1FEUzZkR29kN1BNN2k0LVNKQ0wzVG52b2JzNTZnX0lYSTM5LUwzZzVYcFJsbHhkY2hyNTZScVhoa0pCTzMta2NNQ1Q4NGh0dURLSUlQaE1tY2xaa1U4TzN4RkVKaDJqWnBLaXhjTWJqb3lHN0xhQ0g5ekRObXJWbHpKMWFHVHREclliLUNqQ0tiQjRNVWJyc0MtMDRyTzJxUU1CVDJERmRqOHFuWTVQTVlEeVczeS11U3dxVjd5aVlsbWlNdXdySVVady1LekxjLXMtUjlPeHhlOWxZQnhlazJHSFJJYnV2?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co. presenta sus resultados financieros del primer trimestre finalizado el 31 de marzo de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
+      "story_summary": "Aktieselskabet Schouw & Co announced its financial results for the first quarter ended March 31, 2026. The article presents the company's earnings and performance metrics for the period through MarketScreener España's financial reporting platform. The article presents routine financial disclosure of Schouw & Co's Q1 2026 results as reported to investors and the market through a financial news service. No additional context beyond the earnings announcement is provided in the available summary text.",
       "first_seen": "2026-05-01T06:00:00+00:00",
       "last_seen": "2026-05-01T06:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -1793,6 +1794,20 @@
       "company": "Cargill"
     },
     {
+      "id": 980,
+      "headline": "BioMar launches a new functional feed to boost seabass resilience against bacteria - Aquafeed.com",
+      "story_summary": "BioMar has introduced a new functional feed formulation intended to enhance seabass resistance to bacterial pathogens. The product launch reflects the company's continued focus on developing specialized aquaculture nutrition solutions.",
+      "first_seen": "2026-02-16T08:00:00+00:00",
+      "last_seen": "2026-02-16T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 787,
       "headline": "Næringsliv, Husnes | – Vi tenker at dette er ein marknad som vi kan fylla - Kvinnheringen",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3VCQmtwZVhPdkJmdG5rMnRBV3BrN1hEYWp2MHBudG9XbzdjdS1ZMzA5SlFTa0xzdzh6VExLMlFLZXM5clFNbU9NcHJIWG1QU1lYRUFrNFRRcG5IREROSlRuSE1JRi14dDdPR3Q4c3FPVXhBV1VjeEJVWHhoeGJnZVNsQURTaHFhY3V2akUwazJrNmEyaDNYcQ?oc=5\" target=\"_blank\">Næringsliv, Husnes | – Vi tenker at dette er ein marknad som vi kan fylla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kvinnheringen</font>",
@@ -2995,6 +3010,20 @@
       "pickup_count": 1,
       "is_about_target_brand": false,
       "company": "BioMar"
+    },
+    {
+      "id": 979,
+      "headline": "Skole, Tananger | Dropper tradisjonelt lærerstudium for praksisnært ettårig løp: – Fristende med mye praksis - Solabladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzVwWUdySktRb3QyMmpVS3FOVUdkY1hpMXo2YXdESmJYaGZhUWZMRFdzVHZhczVjU3BWUDBhNF9nOGxuR3N0bkFXZUtyZ0FxZ2w0NG9Rb2FjNG1JdVdodEx4Z1NmUTY5YVhETUhiVmJuUnZTeUREVTNUeklRZExwTmRWMnZBWlpHMkl5clJhYVpqYktvci1hbzFYcU9zbE9sWDVTTTc0cUtDbXByaVp4a01QTHRNN284TzU1UzVqdFREVWZjNS0w?oc=5\" target=\"_blank\">Skole, Tananger | Dropper tradisjonelt lærerstudium for praksisnært ettårig løp: – Fristende med mye praksis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>",
+      "first_seen": "2025-12-03T08:00:00+00:00",
+      "last_seen": "2025-12-03T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 258,
@@ -5186,6 +5215,20 @@
       "company": "BioMar"
     },
     {
+      "id": 978,
+      "headline": "Ann Eilin (49) er barnehagelærer på SUS: – Vi har mistet pasienter, og ja det gjør inntrykk - RA Stavanger",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1FwQzMzaFQ5Sy1kam9KakJhMzJDV3o3N1RXOGdRLWJjRGNDTkNJNWJOMGZqT3V0MjdYM0R1c0pYMGxENU14OHdSX1RPRzJSSVpCYVFGa1czSGJpWWZvaDBwUW1FWFlxV3VmcjhXUEhRUnJKNnhZVnNueHVpM19QX215dFdJV2NoWkVxZUlheThxX243UkhMWnNrcDRwbmpBWkV5dVo0WXNrTC1xSmJFM1Q1WWJudjhTbVBaYnpadmJMWmd5N3c?oc=5\" target=\"_blank\">Ann Eilin (49) er barnehagelærer på SUS: – Vi har mistet pasienter, og ja det gjør inntrykk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RA Stavanger</font>",
+      "first_seen": "2025-07-20T07:00:00+00:00",
+      "last_seen": "2025-07-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 681,
       "headline": "Chilean authorities seek $80 million in fines over salmon feed cartel - SalmonBusiness",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1plcTFHNm9zenB0eUVmdVdINE5Vb21hSkxLTEZONDhqVzczZy1pUXU1SlExcEtoTUtxSVgtRDdNZjV0TlRIaTNhcUd4UHpmRkJxaXNWRmxfbF9CNkRrVWdzNVRiTWZ6bjVPU1BjODVFTkxyNzZHb1BqN3hCNlhDN21fUnF4VkpyandFZ2xlZ200cHUyblZjY0x1c0hQMWctVnfSAaIBQVVfeXFMTTNaZXExRzZvc3pwdHlFZnVXSDROVW9tYUpMS0xGTjQ4alc3M2ctaVF1NUpRMXBLaE1LcUlYLUQ3TWY1dE5USGkzYXFHeFB6ZkZCcWlzVkZsX2xfQjZEa1VnczVUYk1mem41T1NQYzg1RU5Mcjc2R29Qajd4QjZYQzdtX1JxeFZKcmp3RWdsZWdtNHB1Mm5WY2NMdXNIUDFnLVZ3?oc=5\" target=\"_blank\">Chilean authorities seek $80 million in fines over salmon feed cartel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
@@ -5985,6 +6028,20 @@
       "company": "BioMar"
     },
     {
+      "id": 977,
+      "headline": "Sola Auto, Sola | Tor Olav (33) trodde aldri han skulle gjøre dette: – Nå har jeg mye mer motivasjon - Solabladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFFDNVlPSkE4TkpYRmhROGRlTUZGOHdtdGJpZWVtUWZSRVQtempFVXpyTTFsZE15VU5WelNTYnZ0YzhaSURfYWRnYkhTQ0hETmw5Ykp2aXlZbFRMLVIzdXdtZU1Pb1puTXUtaUxzUV8zbVU1bUtlU3lHV0FDSmdic3M2am5mUkRDTkVrbGZRNGpLZXVHUUhocDdpVFFDRllXV2lxa29KOHZiV1FuWkJZemhsVGFFWDZZX0E?oc=5\" target=\"_blank\">Sola Auto, Sola | Tor Olav (33) trodde aldri han skulle gjøre dette: – Nå har jeg mye mer motivasjon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>",
+      "first_seen": "2025-05-19T07:00:00+00:00",
+      "last_seen": "2025-05-19T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 653,
       "headline": "Helseministeren har fått ny rådgiver - Altinget.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE02b0xJcmV2Zk1wTVJCWXdfMktQLVJNaDJyR3VwZ0tyVFhPNlpsbmY4bnc4SVRlV0RDTjBpUWpuVFFUcml6YnUxX01zcEQtbm85MmpLb1oybjh3OURQZ01IaGZPRGRoNWdYalNXVHc3ZkdFa0pwQnpidjRsOA?oc=5\" target=\"_blank\">Helseministeren har fått ny rådgiver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Altinget.no</font>",
@@ -6043,10 +6100,10 @@
     {
       "id": 172,
       "headline": "ASC’s new Feed Standard “helping to future-proof business,” says BioMar’s Paddy Campbell - SeafoodSource",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbEZtT1BTX2FkVmtiaG1jc0VVZFpUS0VuVk03MklQa1JZeS11ZnpPX292QTlDVXhzUll5STZwZHJQdWpJakZVc21lREpJQ3VpRTVENHpXVmVRcHNzaFgwLXY0SVJuUnlZdUFJTXJEMGZwUjRtc3Bfc1QyLVE2a0xXYVV2M3NPODV4cXJVZEhhU1FJcHNZTlZPSVkzMUxzcVRYekxnYUx1RHJMQTFOYVYzRkdQQ0N5Mzh3LUlfcTNyTVFlZkloZkQ5bnVrMkE?oc=5\" target=\"_blank\">ASC’s new Feed Standard “helping to future-proof business,” says BioMar’s Paddy Campbell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "story_summary": "BioMar executive Paddy Campbell comments positively on ASC's new Feed Standard, characterizing it as beneficial for future-proofing aquaculture operations. The article frames certification and standards compliance as a competitive advantage for feed producers and farms using certified feed sources.",
       "first_seen": "2025-05-08T07:00:00+00:00",
       "last_seen": "2025-05-08T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -6838,6 +6895,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 976,
+      "headline": "Børsvinner på landbaserte oppdrettsanlegg og fôrflåter - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9HOHh0UG1tMXZrNWZKX0hUQWVCYThoVkFTSHhSLThnZkd3c0JlMkx5X28ybmR4QzZYbk5YaGVUcGZfS3czY09xWU9CZ0NVaUkyOHA2aVVSa0tsZ2FZYVkyMXBrMW1yMGxpU2VBdjBJMFJsTkYtN0JvOXIzb1U?oc=5\" target=\"_blank\">Børsvinner på landbaserte oppdrettsanlegg og fôrflåter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2024-12-27T08:00:00+00:00",
+      "last_seen": "2024-12-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 143,
@@ -8973,12 +9044,12 @@
       "headline": "Skretting presentó su portafolio de soluciones digitales en AquaSur Tech - Mundoacuicola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT1BBM0RHYWhDbUNNLThHQW1hS014US1qQXg3TXV6dlNyR3NVMFhSV0U0cGw4VkFyRkJ1emczUVVRYXdCNE05RmlUa2NfazBFVmM1M01pZkpzN0tQazZSc01IM2RNdlhnd0FycmJiRTFieUJRcmg5bHVhRVRCTjQ5dGZXY2tsTHRiTlZaM0p1Unhha0Nua190cll6TEFVTUtESzdjNC1iRlp1WWR2aVo0MWJ3NkF0SGo0dldYZ2liQVdQNnRhYi1Pc2pncGlINEpYOFJjYWxTQTR0VktYTjRqRVNrdlpJQkRzUWJkSkpvWQ?oc=5\" target=\"_blank\">Skretting presentó su portafolio de soluciones digitales en AquaSur Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
       "first_seen": "2023-03-30T07:00:00+00:00",
-      "last_seen": "2023-03-30T07:00:00+00:00",
+      "last_seen": "2023-03-31T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -10581,7 +10652,7 @@
     {
       "id": 857,
       "headline": "BioMar har fått svar på koronatester - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zNFlMc0pHZWE4bXkybE5tYVB1c0RRbFlmUmFDcU85VzM3Mk5qdXVfT09nd0dpV1hrUTZDZlJFTXJvYlhqWi1GdlNRQWU3YU1LWWNteUd1NUhXdldIWG1fU3FzTjk?oc=5\" target=\"_blank\">BioMar har fått svar på koronatester</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "BioMar has received results from coronavirus tests conducted on its staff or operations. The article reports on the company's response to COVID-19 testing during the pandemic period in January 2021.",
       "first_seen": "2021-01-15T08:00:00+00:00",
       "last_seen": "2021-01-15T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -10619,6 +10690,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 975,
+      "headline": "Skretting Chile obtiene por octavo año consecutivo la certificación internacional Global G.A.P. - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmJvVXAwZFNZUFRYeVJyMXJCV2w3T3J1Q1F3Tk0yUWE2NWNoc1l0aEI3T2ZuTENWeTVDbW1McHhGMXZQLXg0UjBmdV9fUG5PdXMybWNXa2J4TUd1cTl1SkRCSGJKNjM2LWJXRzZlckxUdUR1RWNqbmNfbkZndTdmYXZVRF85clZlR1MzcFVLQml4S3FzU2g2VkIzYl9KMXVPV2hsNzExdm9xdnhoelFRWklMUmYtckFOV1FoS0o4LXN0bDlxZ3l1MGhrMDFIa1h3S0NLclh2WTF1RzQ4T2hacTNpVnA4dDdvMENBRQ?oc=5\" target=\"_blank\">Skretting Chile obtiene por octavo año consecutivo la certificación internacional Global G.A.P.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2020-12-19T08:00:00+00:00",
+      "last_seen": "2020-12-19T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 48,
@@ -10889,6 +10974,20 @@
       "company": "BioMar"
     },
     {
+      "id": 974,
+      "headline": "Cargill report highlights range of aquafeed sustainability gains - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNOWhzMTdwbjJpNmc3bk9LdGpPbEVtU2RFeEU4cVFNYmtKdW5qOW5xMDdPc0lGQzR2M0JaSGxTckQ2Q1dCc2Y4eEJZdGNCNHd6WUk2ZDlnejl5dl9uTXJTSVBhMWJVUDRjTjMtWk8tN01hUlVnalJkSTBJQThHTFlQanAwNl93Vy1fM005Qm53MnF5NWJsbXBvZEJKZTh0dw?oc=5\" target=\"_blank\">Cargill report highlights range of aquafeed sustainability gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2020-06-03T07:00:00+00:00",
+      "last_seen": "2020-06-03T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 40,
       "headline": "Ny RAS-ekspert i Biomar - Kyst.no",
       "story_summary": "BioMar has appointed a new expert in recirculating aquaculture systems (RAS) technology. The hiring reflects the company's focus on advanced aquaculture feed solutions for closed-system farming environments.",
@@ -11103,10 +11202,10 @@
     {
       "id": 33,
       "headline": "Styrkede markedsandeler i Norge løfter BioMar - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9mblJNaUJQeUNKNGtocG5CVVpkaVRsYWl0SkRNeXZrV1pvdHU4SmE5akRhS1hqbFpWM3REWjdQMjc0aWJFQThremowZzJzUWlST1FGU3owLXpleHNtaGpSci14MWZNeUtkREI4MFBHZ2U?oc=5\" target=\"_blank\">Styrkede markedsandeler i Norge løfter BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "BioMar has increased its market share in Norway, contributing positively to the company's performance. The article highlights the company's strengthened position in the Norwegian aquaculture feed market, a key geographic segment for BioMar's operations in Scandinavia and Europe, driven by market conditions and competitive positioning in the region hosting several major salmon producers.  BioMar's growth in Norway reflects strong demand and the company's competitive standing in one of the world's largest salmon farming markets by volume and value of aquaculture operations in the Nordic region and beyond for the global feed supplier's strategic footprint in the aquaculture sector and Europe-based operations from its Aarhus headquarters and subsidiaries across Scandinavia, Chile, and Scotland focused on salmon, shrimp, and specialty fish feed products like EFICO and SIGMA brands aimed at farmed fish producers globally in the sustainable aquaculture supply chain and feed innovation market leadership position in competitive regional and global markets for premium aquaculture feeds and services that support fish health and production efficiency for farmed salmon and other species in Norwegian farms and other major production regions worldwide .",
       "first_seen": "2019-11-07T08:00:00+00:00",
       "last_seen": "2019-11-07T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -11145,7 +11244,7 @@
     {
       "id": 32,
       "headline": "(+) Tar nye steg i BioMar - Kyst.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1qdHRLLTZudXVBQV9SaUtfdVEyekRhbFpzZDB2eFdhOTcwalRwMnM2dWwwc21seUJtVFNUSFVCY0NXRTZYVUNJQ1lPVWY3c0hZNGQ4N25KLUpQVzZoLXNvOXFRemZPbktkUXN2Zy1YSWg?oc=5\" target=\"_blank\">(+) Tar nye steg i BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "story_summary": "The article reports on BioMar Group advancing its operations or strategy with unspecified new initiatives. BioMar, the aquaculture feed producer headquartered in Aarhus, Denmark, continues to develop its business footprint in the sector.",
       "first_seen": "2019-10-11T07:00:00+00:00",
       "last_seen": "2019-10-11T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -11369,7 +11468,7 @@
     {
       "id": 28,
       "headline": "AquaChile acuerda venta de filial de alimentos para salmones a Biomar por US$17 millones - La Tercera",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkloRV9PZ3ozT1RSa2xYRUFtcGdWR2pyNTZqM1Z6Zk5Gc3llN2s0SnBwT0xBbllmTU51RzlxZzFUWDZPRllNbFJGTE9Fb1UyNDJSM1VEMEluYnJhR1U3TXlwYzZ6WGUwb3lpVlpTQjM0X2lwajhkWFNOcjNwenNlVFNsQjVmaUgtNngyUTV2N3RaRVpfblZaRUEyUnpLOEZQcHhWS1p5RV83eU9XNHREQ3FGcnQwbnQ10gHaAUFVX3lxTFBfT1VhYjJMRU1XUG9LcjlfOTVqeUlqVk1IYzVxM3NIUU1XbGJFclBOVGpqV2RnR1ktTF9SR3RtQzI3OVBRMjk1bHg1RXBlSTF5VTl6ZFRGSzlOV2dGOHU3N3Zld2JEV0wwODZ0VC1aMlctdU5WTU9QcjJoZ1E2MEthNU1HckdQczgtY0taOXBIcjNWeWN0WXBUdkt1a0VhX0dzSnZTZFJveEl0LThXaWtWTG1Hc0hYNE9fQTRzZEUxYndmTDlweXVVZzB0cmtSTkl0d1o3b1J5ZGxR?oc=5\" target=\"_blank\">AquaChile acuerda venta de filial de alimentos para salmones a Biomar por US$17 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Tercera</font>",
+      "story_summary": "AquaChile has agreed to sell its salmon feed subsidiary to BioMar for US$17 million. The transaction represents a consolidation move within the aquaculture feed sector in Chile's seafood industry ecosystem.\"key_claims\": [\"AquaChile agreed to sell a salmon feed subsidiary to BioMar\", \"The transaction value is US$17 million\"], \"people_quoted\": [], \"risk_flags\": [\"financial\"], \"is_about_target_brand\": true}",
       "first_seen": "2019-03-14T07:00:00+00:00",
       "last_seen": "2019-03-14T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -11607,7 +11706,7 @@
     {
       "id": 899,
       "headline": "Røsstad går av som sjef i Biomar - Fiskeribladet",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUIzWUk0d3dtcV9vRXJmMTYxV1Q5Z0lsTEoxVWZuNHRReW1lZEtTVVRzMEp1aGNIb01rNm1QNXM1ZlJpOFZKclZEbkJfNUdRemItY1gyR1p0dnRFaTJ5bEJpbzRfaTRKdy1CcnVsMEczaHc0RGJXNFVLbUYzbjg5Y2Y4YUdKWEk?oc=5\" target=\"_blank\">Røsstad går av som sjef i Biomar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fiskeribladet</font>",
+      "story_summary": "Røsstad is stepping down from his position as chief executive at BioMar. The article reports on this management transition within the aquaculture feed company, which is part of the Schouw & Co conglomerate based in Aarhus, Denmark. No additional context or successor information is provided in the available lede text, though the change represents a significant leadership move at the organization. The announcement appears to be factual reporting of a corporate personnel decision without editorial commentary regarding performance or strategic implications. BioMar is the primary focus of the article, with the leadership change being the central news hook. The report's neutral tone suggests straightforward coverage of the management transition rather than celebratory or critical framing of the departing executive's tenure or the circumstances of the change.",
       "first_seen": "2019-01-10T08:00:00+00:00",
       "last_seen": "2019-01-10T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -12069,7 +12168,7 @@
     {
       "id": 18,
       "headline": "BioMar fikk overlevert ny fôrbåt - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ScHk2QnprLVdTbC1uem5CeTl0N25VcTQ3LXg2RXdYM1dzazdIWXZUbXZIRjdXQ3N4OF9XU1Z3Q2ZpVmJqSmJhM0I2M2FtSVlhWEpsaXFIbVhpd29xZG9R?oc=5\" target=\"_blank\">BioMar fikk overlevert ny fôrbåt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "BioMar took delivery of a new feed barge as part of its operational infrastructure expansion. The vessel delivery represents a logistics enhancement for the aquaculture feed producer's distribution capabilities. no\n\n{default: True}\"key_claims\": [\"BioMar received a new feed barge vessel\"], \"people_quoted\": [], \"risk_flags\": [\"none\"]}",
       "first_seen": "2017-10-10T07:00:00+00:00",
       "last_seen": "2017-10-10T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -12317,6 +12416,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 973,
+      "headline": "Biomar tar i bruk mikroalger - Kyst.no",
+      "story_summary": "BioMar has begun using microalgae in its aquaculture feed products. The development represents a step toward more sustainable feed ingredients for the company's salmon and fish farming customers.",
+      "first_seen": "2016-10-07T07:00:00+00:00",
+      "last_seen": "2016-10-07T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 426,
@@ -13035,10 +13148,10 @@
     {
       "id": 892,
       "headline": "Lavere fôrpris og høyere salgsvolum for BioMar - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1hNk9aa2hEWTZZbWUwUF9uZmdySWlFLWgxY21MY2VzX3JsMjhsUXNXZ09xejhqOUttRjNJbWpoVEx1WGh2WnhkQ3NpWnA4NnNQS2JRQVQtZFZiTDYyZzlkbDI0ZzQyMHVuMnE2bjlXWGxLQQ?oc=5\" target=\"_blank\">Lavere fôrpris og høyere salgsvolum for BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "BioMar has achieved lower feed prices while simultaneously increasing its sales volume, indicating improved operational efficiency and market position. The development reflects positive momentum in the company's commercial performance during the period covered by the report for the aquaculture sector publication iLaks (Norwegian aquaculture industry publication).",
       "first_seen": "2014-08-14T07:00:00+00:00",
       "last_seen": "2014-08-14T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -13427,7 +13540,7 @@
     {
       "id": 887,
       "headline": "Marine Harvest vil lage eige fôr - Bergens Tidende",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5zR0R0d1VYLUNFc0VYQzBxWTZBSF84U295Ykx5VVVJeGpxczZMckpxS2ctWnV6OEFESTJmaDVzck82c1ZsMVlkd3pZTlJoYW12Z1ZDdXFuZGIyeVBONXlRckNjVkRGV241ZVdEM2xJWExJaHhVZVVYNDdzR1M4OU0?oc=5\" target=\"_blank\">Marine Harvest vil lage eige fôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bergens Tidende</font>",
+      "story_summary": "Marine Harvest is considering developing its own fish feed production capabilities. The article mentions Schouw & Co in relation to the competitive feed market landscape where BioMar operates as an established supplier.",
       "first_seen": "2012-03-27T07:00:00+00:00",
       "last_seen": "2012-03-27T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -15657,16 +15770,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "ASC Feed Standard adoption supports business resilience",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbEZtT1BTX2FkVmtiaG1jc0VVZFpUS0VuVk03MklQa1JZeS11ZnpPX292QTlDVXhzUll5STZwZHJQdWpJakZVc21lREpJQ3VpRTVENHpXVmVRcHNzaFgwLXY0SVJuUnlZdUFJTXJEMGZwUjRtc3Bfc1QyLVE2a0xXYVV2M3NPODV4cXJVZEhhU1FJcHNZTlZPSVkzMUxzcVRYekxnYUx1RHJMQTFOYVYzRkdQQ0N5Mzh3LUlfcTNyTVFlZkloZkQ5bnVrMkE?oc=5\" target=\"_blank\">ASC’s new Feed Standard “helping to future-proof business,” says BioMar’s Paddy Campbell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+      "summary": "BioMar executive Paddy Campbell comments positively on ASC's new Feed Standard, characterizing it as beneficial for future-proofing aquaculture operations. The article frames certification and standards compliance as a competitive advantage for feed producers and farms using certified feed sources."
     },
     {
       "id": 97,
@@ -17045,15 +17158,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "BioMar receives delivery of new feed barge vessel",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ScHk2QnprLVdTbC1uem5CeTl0N25VcTQ3LXg2RXdYM1dzazdIWXZUbXZIRjdXQ3N4OF9XU1Z3Q2ZpVmJqSmJhM0I2M2FtSVlhWEpsaXFIbVhpd29xZG9R?oc=5\" target=\"_blank\">BioMar fikk overlevert ny fôrbåt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "BioMar took delivery of a new feed barge as part of its operational infrastructure expansion. The vessel delivery represents a logistics enhancement for the aquaculture feed producer's distribution capabilities. no\n\n{default: True}\"key_claims\": [\"BioMar received a new feed barge vessel\"], \"people_quoted\": [], \"risk_flags\": [\"none\"]}"
     },
     {
       "id": 158,
@@ -17222,16 +17335,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar strengthens market share in Norway",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9mblJNaUJQeUNKNGtocG5CVVpkaVRsYWl0SkRNeXZrV1pvdHU4SmE5akRhS1hqbFpWM3REWjdQMjc0aWJFQThremowZzJzUWlST1FGU3owLXpleHNtaGpSci14MWZNeUtkREI4MFBHZ2U?oc=5\" target=\"_blank\">Styrkede markedsandeler i Norge løfter BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "BioMar has increased its market share in Norway, contributing positively to the company's performance. The article highlights the company's strengthened position in the Norwegian aquaculture feed market, a key geographic segment for BioMar's operations in Scandinavia and Europe, driven by market conditions and competitive positioning in the region hosting several major salmon producers.  BioMar's growth in Norway reflects strong demand and the company's competitive standing in one of the world's largest salmon farming markets by volume and value of aquaculture operations in the Nordic region and beyond for the global feed supplier's strategic footprint in the aquaculture sector and Europe-based operations from its Aarhus headquarters and subsidiaries across Scandinavia, Chile, and Scotland focused on salmon, shrimp, and specialty fish feed products like EFICO and SIGMA brands aimed at farmed fish producers globally in the sustainable aquaculture supply chain and feed innovation market leadership position in competitive regional and global markets for premium aquaculture feeds and services that support fish health and production efficiency for farmed salmon and other species in Norwegian farms and other major production regions worldwide ."
     },
     {
       "id": 166,
@@ -17424,15 +17537,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.7,
+      "prominence": "secondary",
+      "angle": "BioMar taking new strategic steps",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1qdHRLLTZudXVBQV9SaUtfdVEyekRhbFpzZDB2eFdhOTcwalRwMnM2dWwwc21seUJtVFNUSFVCY0NXRTZYVUNJQ1lPVWY3c0hZNGQ4N25KLUpQVzZoLXNvOXFRemZPbktkUXN2Zy1YSWg?oc=5\" target=\"_blank\">(+) Tar nye steg i BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+      "summary": "The article reports on BioMar Group advancing its operations or strategy with unspecified new initiatives. BioMar, the aquaculture feed producer headquartered in Aarhus, Denmark, continues to develop its business footprint in the sector."
     },
     {
       "id": 175,
@@ -20180,15 +20293,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "AquaChile divests salmon feed subsidiary to BioMar for $17 million",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkloRV9PZ3ozT1RSa2xYRUFtcGdWR2pyNTZqM1Z6Zk5Gc3llN2s0SnBwT0xBbllmTU51RzlxZzFUWDZPRllNbFJGTE9Fb1UyNDJSM1VEMEluYnJhR1U3TXlwYzZ6WGUwb3lpVlpTQjM0X2lwajhkWFNOcjNwenNlVFNsQjVmaUgtNngyUTV2N3RaRVpfblZaRUEyUnpLOEZQcHhWS1p5RV83eU9XNHREQ3FGcnQwbnQ10gHaAUFVX3lxTFBfT1VhYjJMRU1XUG9LcjlfOTVqeUlqVk1IYzVxM3NIUU1XbGJFclBOVGpqV2RnR1ktTF9SR3RtQzI3OVBRMjk1bHg1RXBlSTF5VTl6ZFRGSzlOV2dGOHU3N3Zld2JEV0wwODZ0VC1aMlctdU5WTU9QcjJoZ1E2MEthNU1HckdQczgtY0taOXBIcjNWeWN0WXBUdkt1a0VhX0dzSnZTZFJveEl0LThXaWtWTG1Hc0hYNE9fQTRzZEUxYndmTDlweXVVZzB0cmtSTkl0d1o3b1J5ZGxR?oc=5\" target=\"_blank\">AquaChile acuerda venta de filial de alimentos para salmones a Biomar por US$17 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Tercera</font>"
+      "summary": "AquaChile has agreed to sell its salmon feed subsidiary to BioMar for US$17 million. The transaction represents a consolidation move within the aquaculture feed sector in Chile's seafood industry ecosystem.\"key_claims\": [\"AquaChile agreed to sell a salmon feed subsidiary to BioMar\", \"The transaction value is US$17 million\"], \"people_quoted\": [], \"risk_flags\": [\"financial\"], \"is_about_target_brand\": true}"
     },
     {
       "id": 393,
@@ -33362,15 +33475,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar receives COVID-19 test results",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zNFlMc0pHZWE4bXkybE5tYVB1c0RRbFlmUmFDcU85VzM3Mk5qdXVfT09nd0dpV1hrUTZDZlJFTXJvYlhqWi1GdlNRQWU3YU1LWWNteUd1NUhXdldIWG1fU3FzTjk?oc=5\" target=\"_blank\">BioMar har fått svar på koronatester</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "BioMar has received results from coronavirus tests conducted on its staff or operations. The article reports on the company's response to COVID-19 testing during the pandemic period in January 2021."
     },
     {
       "id": 3798,
@@ -34892,15 +35005,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Executive leadership change at BioMar",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUIzWUk0d3dtcV9vRXJmMTYxV1Q5Z0lsTEoxVWZuNHRReW1lZEtTVVRzMEp1aGNIb01rNm1QNXM1ZlJpOFZKclZEbkJfNUdRemItY1gyR1p0dnRFaTJ5bEJpbzRfaTRKdy1CcnVsMEczaHc0RGJXNFVLbUYzbjg5Y2Y4YUdKWEk?oc=5\" target=\"_blank\">Røsstad går av som sjef i Biomar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fiskeribladet</font>"
+      "summary": "Røsstad is stepping down from his position as chief executive at BioMar. The article reports on this management transition within the aquaculture feed company, which is part of the Schouw & Co conglomerate based in Aarhus, Denmark. No additional context or successor information is provided in the available lede text, though the change represents a significant leadership move at the organization. The announcement appears to be factual reporting of a corporate personnel decision without editorial commentary regarding performance or strategic implications. BioMar is the primary focus of the article, with the leadership change being the central news hook. The report's neutral tone suggests straightforward coverage of the management transition rather than celebratory or critical framing of the departing executive's tenure or the circumstances of the change."
     },
     {
       "id": 5222,
@@ -34957,16 +35070,16 @@
       "matched_keyword": "Schouw",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar achieves lower feed prices and higher sales volume",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1hNk9aa2hEWTZZbWUwUF9uZmdySWlFLWgxY21MY2VzX3JsMjhsUXNXZ09xejhqOUttRjNJbWpoVEx1WGh2WnhkQ3NpWnA4NnNQS2JRQVQtZFZiTDYyZzlkbDI0ZzQyMHVuMnE2bjlXWGxLQQ?oc=5\" target=\"_blank\">Lavere fôrpris og høyere salgsvolum for BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "BioMar has achieved lower feed prices while simultaneously increasing its sales volume, indicating improved operational efficiency and market position. The development reflects positive momentum in the company's commercial performance during the period covered by the report for the aquaculture sector publication iLaks (Norwegian aquaculture industry publication)."
     },
     {
       "id": 5227,
@@ -35046,15 +35159,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Marine Harvest explores in-house feed production strategy",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5zR0R0d1VYLUNFc0VYQzBxWTZBSF84U295Ykx5VVVJeGpxczZMckpxS2ctWnV6OEFESTJmaDVzck82c1ZsMVlkd3pZTlJoYW12Z1ZDdXFuZGIyeVBONXlRckNjVkRGV241ZVdEM2xJWExJaHhVZVVYNDdzR1M4OU0?oc=5\" target=\"_blank\">Marine Harvest vil lage eige fôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bergens Tidende</font>"
+      "summary": "Marine Harvest is considering developing its own fish feed production capabilities. The article mentions Schouw & Co in relation to the competitive feed market landscape where BioMar operates as an established supplier."
     },
     {
       "id": 5326,
@@ -36223,15 +36336,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co reports Q1 2026 financial results",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU1FEUzZkR29kN1BNN2k0LVNKQ0wzVG52b2JzNTZnX0lYSTM5LUwzZzVYcFJsbHhkY2hyNTZScVhoa0pCTzMta2NNQ1Q4NGh0dURLSUlQaE1tY2xaa1U4TzN4RkVKaDJqWnBLaXhjTWJqb3lHN0xhQ0g5ekRObXJWbHpKMWFHVHREclliLUNqQ0tiQjRNVWJyc0MtMDRyTzJxUU1CVDJERmRqOHFuWTVQTVlEeVczeS11U3dxVjd5aVlsbWlNdXdySVVady1LekxjLXMtUjlPeHhlOWxZQnhlazJHSFJJYnV2?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co. presenta sus resultados financieros del primer trimestre finalizado el 31 de marzo de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>"
+      "summary": "Aktieselskabet Schouw & Co announced its financial results for the first quarter ended March 31, 2026. The article presents the company's earnings and performance metrics for the period through MarketScreener España's financial reporting platform. The article presents routine financial disclosure of Schouw & Co's Q1 2026 results as reported to investors and the market through a financial news service. No additional context beyond the earnings announcement is provided in the available summary text."
     },
     {
       "id": 8730,
@@ -36584,6 +36697,207 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQVGR3WHk2TktKVFRrMmZQcHBtc0U4Nk5faWRpazFsNzY2R2FrcFJJQjRPZzFYbDRLN2t5YURQNVV1TVZBVGJfeHZZM0QzSW9UNEhPb1NSODVzb3RpOEItU1FYdGQ5X2ZmOW80V2xSVTkzR1J3dU1USUJtenQxMEdtMHVJc2J2ZVdsYXJtNg?oc=5\" target=\"_blank\">Intesal visita planta de Skretting en Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 9310,
+      "story_id": 980,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkVBRy1NZ2hPeW1FWFNERUpUUzZOMFh0OWstZVhQRzJiazdzcVlTNEwwUS02V3F5eWpXSU9SQXc5WlF6T3hPNFBnV1U2S0xKY3A4LWpudnFDRTZRVmU1Q2dOVFBYZVdQWDhtRWVuVnlvUmhpbUpQUVB5MDV4Qmg3cFFReTlxb2RYS3hmV2FxMkpqMU1sdFMtdDA0OTR6Tnp3SmVJVGN4cXVOY1FjYjM2TGlzeVZfa29qU2dLYTktRQ?oc=5",
+      "title": "BioMar launches a new functional feed to boost seabass resilience against bacteria - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "published_at": "2026-02-16T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar launches functional feed targeting seabass bacterial resilience",
+      "key_claims": [
+        "BioMar has launched a new functional feed product",
+        "The feed is designed to boost seabass resilience against bacterial infections"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has introduced a new functional feed formulation intended to enhance seabass resistance to bacterial pathogens. The product launch reflects the company's continued focus on developing specialized aquaculture nutrition solutions."
+    },
+    {
+      "id": 9469,
+      "story_id": 973,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3Nkc1NnUEZ0WkV3T2hkOWNfdk9ES3dYMGkwc1lwcnpFQ0stbkxCb21QMGN6ZVlmWHRPSlNDVWVsMVo2OWo1XzFEMnhhVmo4d21VNzdCLVV2c2F2QVNPSXM5c3J3WmFlRlhRVk5yRk0zWnl2SVdYeFI5UVJEMGNGWg?oc=5",
+      "title": "Biomar tar i bruk mikroalger - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "published_at": "2016-10-07T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar adopts microalgae in feed production",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has begun using microalgae in its aquaculture feed products. The development represents a step toward more sustainable feed ingredients for the company's salmon and fish farming customers."
+    },
+    {
+      "id": 9781,
+      "story_id": 976,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HOHh0UG1tMXZrNWZKX0hUQWVCYThoVkFTSHhSLThnZkd3c0JlMkx5X28ybmR4QzZYbk5YaGVUcGZfS3czY09xWU9CZ0NVaUkyOHA2aVVSa0tsZ2FZYVkyMXBrMW1yMGxpU2VBdjBJMFJsTkYtN0JvOXIzb1U?oc=5",
+      "title": "Børsvinner på landbaserte oppdrettsanlegg og fôrflåter - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "published_at": "2024-12-27T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9HOHh0UG1tMXZrNWZKX0hUQWVCYThoVkFTSHhSLThnZkd3c0JlMkx5X28ybmR4QzZYbk5YaGVUcGZfS3czY09xWU9CZ0NVaUkyOHA2aVVSa0tsZ2FZYVkyMXBrMW1yMGxpU2VBdjBJMFJsTkYtN0JvOXIzb1U?oc=5\" target=\"_blank\">Børsvinner på landbaserte oppdrettsanlegg og fôrflåter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 10053,
+      "story_id": 979,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzVwWUdySktRb3QyMmpVS3FOVUdkY1hpMXo2YXdESmJYaGZhUWZMRFdzVHZhczVjU3BWUDBhNF9nOGxuR3N0bkFXZUtyZ0FxZ2w0NG9Rb2FjNG1JdVdodEx4Z1NmUTY5YVhETUhiVmJuUnZTeUREVTNUeklRZExwTmRWMnZBWlpHMkl5clJhYVpqYktvci1hbzFYcU9zbE9sWDVTTTc0cUtDbXByaVp4a01QTHRNN284TzU1UzVqdFREVWZjNS0w?oc=5",
+      "title": "Skole, Tananger | Dropper tradisjonelt lærerstudium for praksisnært ettårig løp: – Fristende med mye praksis - Solabladet",
+      "source_name": "Solabladet",
+      "language": "no",
+      "published_at": "2025-12-03T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzVwWUdySktRb3QyMmpVS3FOVUdkY1hpMXo2YXdESmJYaGZhUWZMRFdzVHZhczVjU3BWUDBhNF9nOGxuR3N0bkFXZUtyZ0FxZ2w0NG9Rb2FjNG1JdVdodEx4Z1NmUTY5YVhETUhiVmJuUnZTeUREVTNUeklRZExwTmRWMnZBWlpHMkl5clJhYVpqYktvci1hbzFYcU9zbE9sWDVTTTc0cUtDbXByaVp4a01QTHRNN284TzU1UzVqdFREVWZjNS0w?oc=5\" target=\"_blank\">Skole, Tananger | Dropper tradisjonelt lærerstudium for praksisnært ettårig løp: – Fristende med mye praksis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>"
+    },
+    {
+      "id": 10066,
+      "story_id": 978,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1FwQzMzaFQ5Sy1kam9KakJhMzJDV3o3N1RXOGdRLWJjRGNDTkNJNWJOMGZqT3V0MjdYM0R1c0pYMGxENU14OHdSX1RPRzJSSVpCYVFGa1czSGJpWWZvaDBwUW1FWFlxV3VmcjhXUEhRUnJKNnhZVnNueHVpM19QX215dFdJV2NoWkVxZUlheThxX243UkhMWnNrcDRwbmpBWkV5dVo0WXNrTC1xSmJFM1Q1WWJudjhTbVBaYnpadmJMWmd5N3c?oc=5",
+      "title": "Ann Eilin (49) er barnehagelærer på SUS: – Vi har mistet pasienter, og ja det gjør inntrykk - RA Stavanger",
+      "source_name": "RA Stavanger",
+      "language": "no",
+      "published_at": "2025-07-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1FwQzMzaFQ5Sy1kam9KakJhMzJDV3o3N1RXOGdRLWJjRGNDTkNJNWJOMGZqT3V0MjdYM0R1c0pYMGxENU14OHdSX1RPRzJSSVpCYVFGa1czSGJpWWZvaDBwUW1FWFlxV3VmcjhXUEhRUnJKNnhZVnNueHVpM19QX215dFdJV2NoWkVxZUlheThxX243UkhMWnNrcDRwbmpBWkV5dVo0WXNrTC1xSmJFM1Q1WWJudjhTbVBaYnpadmJMWmd5N3c?oc=5\" target=\"_blank\">Ann Eilin (49) er barnehagelærer på SUS: – Vi har mistet pasienter, og ja det gjør inntrykk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RA Stavanger</font>"
+    },
+    {
+      "id": 10072,
+      "story_id": 977,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFFDNVlPSkE4TkpYRmhROGRlTUZGOHdtdGJpZWVtUWZSRVQtempFVXpyTTFsZE15VU5WelNTYnZ0YzhaSURfYWRnYkhTQ0hETmw5Ykp2aXlZbFRMLVIzdXdtZU1Pb1puTXUtaUxzUV8zbVU1bUtlU3lHV0FDSmdic3M2am5mUkRDTkVrbGZRNGpLZXVHUUhocDdpVFFDRllXV2lxa29KOHZiV1FuWkJZemhsVGFFWDZZX0E?oc=5",
+      "title": "Sola Auto, Sola | Tor Olav (33) trodde aldri han skulle gjøre dette: – Nå har jeg mye mer motivasjon - Solabladet",
+      "source_name": "Solabladet",
+      "language": "no",
+      "published_at": "2025-05-19T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFFDNVlPSkE4TkpYRmhROGRlTUZGOHdtdGJpZWVtUWZSRVQtempFVXpyTTFsZE15VU5WelNTYnZ0YzhaSURfYWRnYkhTQ0hETmw5Ykp2aXlZbFRMLVIzdXdtZU1Pb1puTXUtaUxzUV8zbVU1bUtlU3lHV0FDSmdic3M2am5mUkRDTkVrbGZRNGpLZXVHUUhocDdpVFFDRllXV2lxa29KOHZiV1FuWkJZemhsVGFFWDZZX0E?oc=5\" target=\"_blank\">Sola Auto, Sola | Tor Olav (33) trodde aldri han skulle gjøre dette: – Nå har jeg mye mer motivasjon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>"
+    },
+    {
+      "id": 10241,
+      "story_id": 864,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNTNsQVU0N2F4SDVadlhUNmlZOGRjbkh5dHNnQVZvd0tjSXdpcmNGQmxqRzlGLU0xNnR1N05VVm1uQ1JWd2l6YXdqYll1T1N2cG5uZlNGeGtUa3JfQm9iZnJEbTNXY1JnX0pIVWJpa0pMak9helZhX1lzb0M4TDN3Uzl0VjU4TjhuSVNqN0xYWW9BdjJRdTNuYkJBSGtxcmNzUVNobVJrMHlKSzhrVFFRM0I2bTYyZGJEOG5fYnREMzZUby0za1RuSEx2S0NvZzkxSXEzdWpaNnlWNUlEdERiRURTUmllMHR3OERMT1FtVEJXbXl2V0dtbW5n?oc=5",
+      "title": "Skretting presenta portafolio de soluciones digitales y destaca la importancia del ciclo de vida del producto - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "published_at": "2023-03-31T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNTNsQVU0N2F4SDVadlhUNmlZOGRjbkh5dHNnQVZvd0tjSXdpcmNGQmxqRzlGLU0xNnR1N05VVm1uQ1JWd2l6YXdqYll1T1N2cG5uZlNGeGtUa3JfQm9iZnJEbTNXY1JnX0pIVWJpa0pMak9helZhX1lzb0M4TDN3Uzl0VjU4TjhuSVNqN0xYWW9BdjJRdTNuYkJBSGtxcmNzUVNobVJrMHlKSzhrVFFRM0I2bTYyZGJEOG5fYnREMzZUby0za1RuSEx2S0NvZzkxSXEzdWpaNnlWNUlEdERiRURTUmllMHR3OERMT1FtVEJXbXl2V0dtbW5n?oc=5\" target=\"_blank\">Skretting presenta portafolio de soluciones digitales y destaca la importancia del ciclo de vida del producto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 10290,
+      "story_id": 975,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmJvVXAwZFNZUFRYeVJyMXJCV2w3T3J1Q1F3Tk0yUWE2NWNoc1l0aEI3T2ZuTENWeTVDbW1McHhGMXZQLXg0UjBmdV9fUG5PdXMybWNXa2J4TUd1cTl1SkRCSGJKNjM2LWJXRzZlckxUdUR1RWNqbmNfbkZndTdmYXZVRF85clZlR1MzcFVLQml4S3FzU2g2VkIzYl9KMXVPV2hsNzExdm9xdnhoelFRWklMUmYtckFOV1FoS0o4LXN0bDlxZ3l1MGhrMDFIa1h3S0NLclh2WTF1RzQ4T2hacTNpVnA4dDdvMENBRQ?oc=5",
+      "title": "Skretting Chile obtiene por octavo año consecutivo la certificación internacional Global G.A.P. - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "published_at": "2020-12-19T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmJvVXAwZFNZUFRYeVJyMXJCV2w3T3J1Q1F3Tk0yUWE2NWNoc1l0aEI3T2ZuTENWeTVDbW1McHhGMXZQLXg0UjBmdV9fUG5PdXMybWNXa2J4TUd1cTl1SkRCSGJKNjM2LWJXRzZlckxUdUR1RWNqbmNfbkZndTdmYXZVRF85clZlR1MzcFVLQml4S3FzU2g2VkIzYl9KMXVPV2hsNzExdm9xdnhoelFRWklMUmYtckFOV1FoS0o4LXN0bDlxZ3l1MGhrMDFIa1h3S0NLclh2WTF1RzQ4T2hacTNpVnA4dDdvMENBRQ?oc=5\" target=\"_blank\">Skretting Chile obtiene por octavo año consecutivo la certificación internacional Global G.A.P.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 10320,
+      "story_id": 974,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWhzMTdwbjJpNmc3bk9LdGpPbEVtU2RFeEU4cVFNYmtKdW5qOW5xMDdPc0lGQzR2M0JaSGxTckQ2Q1dCc2Y4eEJZdGNCNHd6WUk2ZDlnejl5dl9uTXJTSVBhMWJVUDRjTjMtWk8tN01hUlVnalJkSTBJQThHTFlQanAwNl93Vy1fM005Qm53MnF5NWJsbXBvZEJKZTh0dw?oc=5",
+      "title": "Cargill report highlights range of aquafeed sustainability gains - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "published_at": "2020-06-03T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNOWhzMTdwbjJpNmc3bk9LdGpPbEVtU2RFeEU4cVFNYmtKdW5qOW5xMDdPc0lGQzR2M0JaSGxTckQ2Q1dCc2Y4eEJZdGNCNHd6WUk2ZDlnejl5dl9uTXJTSVBhMWJVUDRjTjMtWk8tN01hUlVnalJkSTBJQThHTFlQanAwNl93Vy1fM005Qm53MnF5NWJsbXBvZEJKZTh0dw?oc=5\" target=\"_blank\">Cargill report highlights range of aquafeed sustainability gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
     }
   ],
   "share_of_voice": {
@@ -36951,6 +37265,12 @@
         "week": "2016-W39",
         "BioMar": 0,
         "Cargill": 1,
+        "Skretting": 0
+      },
+      {
+        "week": "2016-W40",
+        "BioMar": 1,
+        "Cargill": 0,
         "Skretting": 0
       },
       {
@@ -37350,6 +37670,12 @@
         "Skretting": 0
       },
       {
+        "week": "2020-W23",
+        "BioMar": 0,
+        "Cargill": 1,
+        "Skretting": 0
+      },
+      {
         "week": "2020-W27",
         "BioMar": 2,
         "Cargill": 1,
@@ -37413,7 +37739,7 @@
         "week": "2020-W51",
         "BioMar": 3,
         "Cargill": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2021-W01",
@@ -37887,7 +38213,7 @@
         "week": "2023-W13",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2023-W14",
@@ -38293,7 +38619,7 @@
       },
       {
         "week": "2024-W52",
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 1,
         "Skretting": 0
       },
@@ -38415,7 +38741,7 @@
         "week": "2025-W21",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2025-W22",
@@ -38463,7 +38789,7 @@
         "week": "2025-W29",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2025-W30",
@@ -38583,7 +38909,7 @@
         "week": "2025-W49",
         "BioMar": 22,
         "Cargill": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2025-W50",
@@ -38647,7 +38973,7 @@
       },
       {
         "week": "2026-W08",
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 1,
         "Skretting": 7
       },
@@ -38715,15 +39041,15 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 474
+        "count": 477
       },
       {
         "company": "Cargill",
-        "count": 199
+        "count": 200
       },
       {
         "company": "Skretting",
-        "count": 360
+        "count": 365
       }
     ]
   }
