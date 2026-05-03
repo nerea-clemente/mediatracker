@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-03T18:39:00+00:00",
+  "generated_at": "2026-05-03T22:36:38+00:00",
   "stats": {
-    "mention_count": 1078,
-    "story_count": 990,
-    "analyzed_count": 492,
+    "mention_count": 1088,
+    "story_count": 998,
+    "analyzed_count": 496,
     "off_topic_mentions": 31,
     "off_topic_stories": 23
   },
@@ -107,6 +107,7 @@
     "Leonardo UK",
     "Lethbridge News Now",
     "Libertad Digital",
+    "London Evening Standard",
     "Lyngdals Avis",
     "MSN",
     "MTLogistikk.no",
@@ -1962,7 +1963,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -8051,6 +8052,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1020,
+      "headline": "Skretting launches a diet solution for African-farmed catfish - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEZ3Z3dhaGlqYUc2Q1pDQUd3Uy1WNG1oS3BjVEdYVVFvQmJBdkI0dHZzOFdXMFZ2YUZCbW1QMVFmaEVpa1J5czk1RDROSmdtOUpyLWQ1VHNMUG9SbzhjcGdMaHlOS29KS1MxV2otNlByRHZPeDc2VVlGZFdUNTBwSUJ1dW4zSU9WSlQ4am9lbTVmdG94ZmptWEE1OS1KQ1E1OG5LU1kyTTVONXfSAbgBQVVfeXFMTTZyQWRjR1A0NElLbmlMMWlfTWxWZHRyb1l3WXFXZlBYZEQ3Rm9Mbmt1VHVNQzlpYndjd3Y0NGdTdUJKQ0NBRHBLaEZKZzZRVTM4UlNBcVJ3bFFka0lIUHZ3YWc5VEN6cHplQXRJSVVHdVBBUDgwZE12djhBRlc1T09hbEt5UjRtcHpYSkZoVmtFdWRNX290SE1tMFlCRWVERnpvZ3I4aUZuTFBDeWEyZm84Ql9UNklpaQ?oc=5\" target=\"_blank\">Skretting launches a diet solution for African-farmed catfish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2024-04-24T07:00:00+00:00",
+      "last_seen": "2024-04-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 833,
       "headline": "Skretting opens fish feed facility in Nigeria - Aquafeed.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDhDaXVRWFpJd2VQUkVIZEFqM0pBV3lpV2FnTGFnRHB5QjlfZ3hfRmR2bGFwWGNQQkN2WXpyWUs5cGpBNzc1bXFBbDZTODJFOHlGdXFCQnJTTy1QRHkzYlpSYVhzb2QtQ21XckNKQlhJajVEaDU0M3lZck5IVU1ZOFZWLWNrUVNUYzVsaHlB?oc=5\" target=\"_blank\">Skretting opens fish feed facility in Nigeria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
@@ -8438,7 +8453,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -9715,6 +9730,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1019,
+      "headline": "Skretting opens new fish feed factory in Vietnam - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3dES1R4Y0hDY2FpOFNfVFdpMWdLM0hKYXJnS0hWRzhlUC02MTI1dzdaRE1oN3ZZc1VZMDBFcGx3SDJGZ0dRd0RReVlBSEZ2WF82SWhPb0lPVEx6VkJCU1VYSXlOMlFWYmZaaTY3VVFfQVYtdGc1T21oQ1Byc1NBLUdhd3Ffb0F5VWdtUEE3ZTc4V0VBQVBycFFRR2VDWWVSLTlEb3RB?oc=5\" target=\"_blank\">Skretting opens new fish feed factory in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2022-11-30T08:00:00+00:00",
+      "last_seen": "2022-11-30T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 532,
@@ -11217,6 +11246,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1018,
+      "headline": "Camanchaca, Blumar, Australis join lawsuit against feed producers in price fixing case - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEFtVDlOazZPb1dONUNoRDEyTzU3Qm5SWnBLVlRnelpHOThuTEtRRnVmWXJ4UWR0ekc1RDdtb212WkdIUWdsRVhZUmNvX09xR3FQVC1TbVFDdFJZTUEyM1dLaXpLX2lQNF9aVzF2ZC1DckhBN2JRemNIYjI2am1LWUVRY3BSZDdXdTJ2N3poX0hNdUVIWEE1OGRYOTNUcTA0NUdRYTAwQ3NISHZEQ1hrSEQ5X01zX2JYTm0xMFhERVpYZmhkQ3lfWThUUk81dw?oc=5\" target=\"_blank\">Camanchaca, Blumar, Australis join lawsuit against feed producers in price fixing case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2020-10-22T07:00:00+00:00",
+      "last_seen": "2020-10-22T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 479,
       "headline": "Leonardo Lincoln Academy successfully delivers new training course for the Joint Electronic Warfare Operational Support Centre - Leonardo UK",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOaThoODNVMFpHRE5LMUVzeWllS0dlSm1MYTNDbjJ1dDNRdkkwRU1qVk5aTWVrMk5oQW9uWlFERTVBVUN3NmNvdE9uSTVpTVN6NmdFbHVlcUdhUzBFZENpNVBMU0lFSktLeE13dURDUU0yVFZIYVF4RXhZS25WSGNhMmhFaThodTRoWUU1NUhBQTZFRVpyazJhYTNQQXM?oc=5\" target=\"_blank\">Leonardo Lincoln Academy successfully delivers new training course for the Joint Electronic Warfare Operational Support Centre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Leonardo UK</font>",
@@ -11229,6 +11272,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1017,
+      "headline": "Barramundi boom predicted by Skretting - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1PRE5RMm96V3VTOE05dFRBM0VQZ3pZZVpfTnlNcmJDc1J0Um55dzFrMThfNElwdnBOX1N5VzhaZ3dEcWFIWGZUbzdsalZWaFFwRDN4YVpWam5FWC1wTEpCUDNVTUNDc0FtRy1kMlZQWVZEWDE3U1NucnNKMA?oc=5\" target=\"_blank\">Barramundi boom predicted by Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2020-10-09T07:00:00+00:00",
+      "last_seen": "2020-10-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 478,
@@ -12143,6 +12200,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1016,
+      "headline": "Biomar planlegger økning og ny produksjonslinje - vol.no",
+      "story_summary": "BioMar announced plans for production expansion and the establishment of a new production line. The move signals growth investment in the company's manufacturing capabilities.",
+      "first_seen": "2018-12-14T08:00:00+00:00",
+      "last_seen": "2018-12-14T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 931,
       "headline": "Rodrigo Sinn asume gerencia comercial de Skretting Chile - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2tqRjNWd0dqSUVRRGt1UDdieVhueFNMUUtORl9WY1paRnRUS0RXb1VQRGJEYjdfSVotaWJneG9ERzd5NVVGeXI2VVhLYjlKNWtaaFU1bTMtMmJqd2hIelBOWkNFaHM5NXlxdzhMaklkZzhCZkREU2tia1VSSE94alBxOUppWTU3MzJNdERHZUpnNUtYZjkyQk5KQkZIcW82QS1vWlZ0YzI5dw?oc=5\" target=\"_blank\">Rodrigo Sinn asume gerencia comercial de Skretting Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -12591,6 +12662,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1015,
+      "headline": "BioMar får nytt fôrfartøy - Kyst.no",
+      "story_summary": "BioMar has acquired a new feed supply vessel for its operations. The acquisition represents an infrastructure investment in the company's distribution and logistics capabilities for aquaculture feed delivery.",
+      "first_seen": "2017-10-10T07:00:00+00:00",
+      "last_seen": "2017-10-10T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 895,
       "headline": "Karmøy, næringsliv | BioMar feirer utvidelse - Haugesunds Avis",
       "story_summary": "BioMar marked a significant expansion of its operations on Karmøy, Norway. The article covers the company's growth milestone in the region's business sector.",
@@ -12617,6 +12702,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1014,
+      "headline": "BioMar-fabrikk til 350 millioner kroner ferdig – nå investeres det enda mer - iLaks",
+      "story_summary": "BioMar has completed construction of a 350 million kroner production facility and is planning further investments in its operations. The development signals continued capital expenditure and capacity expansion for the aquaculture feed producer.",
+      "first_seen": "2017-08-04T07:00:00+00:00",
+      "last_seen": "2017-08-04T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 433,
@@ -13364,6 +13463,20 @@
       "id": 843,
       "headline": "– Vi har kommet til et godt hjem - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tb05XWk1sMjdfaVV4WjFlZXdWSEMxb1NaeHhrRmJrQmNRejVUT3VkZEllZ0N4eEI1eFMxaV94NmdfckJvcjA3eUdVT0RoNldYTXA1Q2hRc2paaWJl?oc=5\" target=\"_blank\">– Vi har kommet til et godt hjem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2015-08-17T07:00:00+00:00",
+      "last_seen": "2015-08-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1013,
+      "headline": "Cargill lands fish feed maker Ewos amid growing demand for salmon - London Evening Standard",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkJrRTJSQ2Rhc2dEQ2NhWm9FM2NDb2lZSHBQMUxoa1dlOGM3eVRYX0YtV1hla2RZWVZrZW9nYmI4ck1CS1FScC1Da3ZTVVlJRjRmTDhhR0J0SmF4UDlsSmdSZGQ1UGtscUdIczhwdlB2U0hrMHRyWjZ6LWZldGU2dG5Rb3JFbl96ZnJhRi01MXhBVG5DN1ZCUHBhMkZ2aVVGeE5hdW5RMFFidE94di0wTXdEY3JmbDYwS2NhdVBDMEw4M0xoMGc?oc=5\" target=\"_blank\">Cargill lands fish feed maker Ewos amid growing demand for salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London Evening Standard</font>",
       "first_seen": "2015-08-17T07:00:00+00:00",
       "last_seen": "2015-08-17T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -38165,6 +38278,234 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxONWt5YXNUOWFFS0ozMWFqZDNIQm5rcnhXcUhEWjJ1UjhhN1NTb3ZQdUtadUxYT1dVXzJmNE5QLTZsWU9QaGNuQkg3MnRsRjRRR2MyNlFmVWU1VkpZNmdPa3BJWjZCWHZIcWhBNHk5ZWtoeGhVU0JoYVVQMVZMUlpBSGhfLTZMajI2dnVvQ0ZJUFV0b0M4bGNLR3BlOERUYURCblpfMkZHTnZPMUx6NVk4dWZWTWtBeVhPSElHT2dPVkRKNlpocDhyR2h4dm1DTU5JdkN4VjV5TWhPdU9BQTFMWXBXRXpkUXRneFpGbm5fZkRjNnFqQUszb251dw?oc=5\" target=\"_blank\">Liliam Rioja: “Skretting es una empresa comprometida con la equidad de género que apuesta por equipos integrales”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 13998,
+      "story_id": 306,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQUQyWnNqUVk2em5mMkVKZzM0aUNRM3VSZUliUllHV24zb2k5XzRJelFEeW1mRFFsUEZCbE16enFOZElWcFR0M3NnU1Izem83SlU0bU5MTF95ajNtaWszZ20wdkJ3bnhHQVpYcTBvRUpBTjVOU0hBX0VGR2NrQ1V6NzZLQnZsd2dOa3RWT0FKRmFUM00?oc=5",
+      "title": "BioMar to expand aquafeed production in China - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "published_at": "2026-02-11T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar announces expansion of aquafeed production capacity in China",
+      "key_claims": [
+        "BioMar is expanding aquafeed production in China"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar announces plans to expand its aquafeed production operations in China. The expansion reflects the company's strategy to increase capacity in a key growth market."
+    },
+    {
+      "id": 14132,
+      "story_id": 1014,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNXzN4MGhSWDZBaEtES2JNdGZkVGgxWlpvS1laVnh0MEpYSmNwQW9RbFJuaHQ4WFdwLVhKX0dwUlN3aDRkV3k1QW4xWFpSOUVXSnFGNzVIZzFaY3p4N0Joa0ppU2dfZTB0dnVZR09HNmNPRlE2aVhyMXJuUnlGdEJCNjFscDRRYmhiYTZQRUlmM2tNdXZkSHc?oc=5",
+      "title": "BioMar-fabrikk til 350 millioner kroner ferdig – nå investeres det enda mer - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "published_at": "2017-08-04T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar completes major production facility investment and plans expansion",
+      "key_claims": [
+        "BioMar completed a factory valued at 350 million Norwegian kroner",
+        "The company is planning additional investments following the facility completion"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has completed construction of a 350 million kroner production facility and is planning further investments in its operations. The development signals continued capital expenditure and capacity expansion for the aquaculture feed producer."
+    },
+    {
+      "id": 14133,
+      "story_id": 1015,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iUHlWSXpEcmxFV24tOFFQdnhLRUVwbEVpY0cyNGtIQW9XLXRjTHJOQy1tN2dkVXpLeXNPUHZOdnQta1dHZWpiWWhrZ29US1JSaGkzOGltZ2RCWGlSVWMyOUozaGJ4azAydVduSVpGd090bXd0cHVkN19vcw?oc=5",
+      "title": "BioMar får nytt fôrfartøy - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "published_at": "2017-10-10T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar acquires new feed supply vessel",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has acquired a new feed supply vessel for its operations. The acquisition represents an infrastructure investment in the company's distribution and logistics capabilities for aquaculture feed delivery."
+    },
+    {
+      "id": 14134,
+      "story_id": 1016,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0RKUVQ1OTBpWEdGdS1lcFJzaE92Z25ubWlFbzlteWdKbUZRRmpHRGlUVUpRMFBHNFJaU21JbVhqYm9pUTRkMzJBOHB2RjlwTjVxYUJPUENiS3k3MEt0WmZqR09oUGNHT1JQQ09WWW02dkFJemk3ZXM4aWFwbjU0VTdQaGtNQlpXdzY4?oc=5",
+      "title": "Biomar planlegger økning og ny produksjonslinje - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "published_at": "2018-12-14T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar plans production expansion and new manufacturing line",
+      "key_claims": [
+        "BioMar is planning an increase in production capacity",
+        "BioMar is planning a new production line"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar announced plans for production expansion and the establishment of a new production line. The move signals growth investment in the company's manufacturing capabilities."
+    },
+    {
+      "id": 14662,
+      "story_id": 1017,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PRE5RMm96V3VTOE05dFRBM0VQZ3pZZVpfTnlNcmJDc1J0Um55dzFrMThfNElwdnBOX1N5VzhaZ3dEcWFIWGZUbzdsalZWaFFwRDN4YVpWam5FWC1wTEpCUDNVTUNDc0FtRy1kMlZQWVZEWDE3U1NucnNKMA?oc=5",
+      "title": "Barramundi boom predicted by Skretting - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "published_at": "2020-10-09T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1PRE5RMm96V3VTOE05dFRBM0VQZ3pZZVpfTnlNcmJDc1J0Um55dzFrMThfNElwdnBOX1N5VzhaZ3dEcWFIWGZUbzdsalZWaFFwRDN4YVpWam5FWC1wTEpCUDNVTUNDc0FtRy1kMlZQWVZEWDE3U1NucnNKMA?oc=5\" target=\"_blank\">Barramundi boom predicted by Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 14663,
+      "story_id": 1019,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3dES1R4Y0hDY2FpOFNfVFdpMWdLM0hKYXJnS0hWRzhlUC02MTI1dzdaRE1oN3ZZc1VZMDBFcGx3SDJGZ0dRd0RReVlBSEZ2WF82SWhPb0lPVEx6VkJCU1VYSXlOMlFWYmZaaTY3VVFfQVYtdGc1T21oQ1Byc1NBLUdhd3Ffb0F5VWdtUEE3ZTc4V0VBQVBycFFRR2VDWWVSLTlEb3RB?oc=5",
+      "title": "Skretting opens new fish feed factory in Vietnam - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "published_at": "2022-11-30T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3dES1R4Y0hDY2FpOFNfVFdpMWdLM0hKYXJnS0hWRzhlUC02MTI1dzdaRE1oN3ZZc1VZMDBFcGx3SDJGZ0dRd0RReVlBSEZ2WF82SWhPb0lPVEx6VkJCU1VYSXlOMlFWYmZaaTY3VVFfQVYtdGc1T21oQ1Byc1NBLUdhd3Ffb0F5VWdtUEE3ZTc4V0VBQVBycFFRR2VDWWVSLTlEb3RB?oc=5\" target=\"_blank\">Skretting opens new fish feed factory in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+    },
+    {
+      "id": 14664,
+      "story_id": 1018,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEFtVDlOazZPb1dONUNoRDEyTzU3Qm5SWnBLVlRnelpHOThuTEtRRnVmWXJ4UWR0ekc1RDdtb212WkdIUWdsRVhZUmNvX09xR3FQVC1TbVFDdFJZTUEyM1dLaXpLX2lQNF9aVzF2ZC1DckhBN2JRemNIYjI2am1LWUVRY3BSZDdXdTJ2N3poX0hNdUVIWEE1OGRYOTNUcTA0NUdRYTAwQ3NISHZEQ1hrSEQ5X01zX2JYTm0xMFhERVpYZmhkQ3lfWThUUk81dw?oc=5",
+      "title": "Camanchaca, Blumar, Australis join lawsuit against feed producers in price fixing case - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "published_at": "2020-10-22T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEFtVDlOazZPb1dONUNoRDEyTzU3Qm5SWnBLVlRnelpHOThuTEtRRnVmWXJ4UWR0ekc1RDdtb212WkdIUWdsRVhZUmNvX09xR3FQVC1TbVFDdFJZTUEyM1dLaXpLX2lQNF9aVzF2ZC1DckhBN2JRemNIYjI2am1LWUVRY3BSZDdXdTJ2N3poX0hNdUVIWEE1OGRYOTNUcTA0NUdRYTAwQ3NISHZEQ1hrSEQ5X01zX2JYTm0xMFhERVpYZmhkQ3lfWThUUk81dw?oc=5\" target=\"_blank\">Camanchaca, Blumar, Australis join lawsuit against feed producers in price fixing case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 14665,
+      "story_id": 1020,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEZ3Z3dhaGlqYUc2Q1pDQUd3Uy1WNG1oS3BjVEdYVVFvQmJBdkI0dHZzOFdXMFZ2YUZCbW1QMVFmaEVpa1J5czk1RDROSmdtOUpyLWQ1VHNMUG9SbzhjcGdMaHlOS29KS1MxV2otNlByRHZPeDc2VVlGZFdUNTBwSUJ1dW4zSU9WSlQ4am9lbTVmdG94ZmptWEE1OS1KQ1E1OG5LU1kyTTVONXfSAbgBQVVfeXFMTTZyQWRjR1A0NElLbmlMMWlfTWxWZHRyb1l3WXFXZlBYZEQ3Rm9Mbmt1VHVNQzlpYndjd3Y0NGdTdUJKQ0NBRHBLaEZKZzZRVTM4UlNBcVJ3bFFka0lIUHZ3YWc5VEN6cHplQXRJSVVHdVBBUDgwZE12djhBRlc1T09hbEt5UjRtcHpYSkZoVmtFdWRNX290SE1tMFlCRWVERnpvZ3I4aUZuTFBDeWEyZm84Ql9UNklpaQ?oc=5",
+      "title": "Skretting launches a diet solution for African-farmed catfish - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "published_at": "2024-04-24T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEZ3Z3dhaGlqYUc2Q1pDQUd3Uy1WNG1oS3BjVEdYVVFvQmJBdkI0dHZzOFdXMFZ2YUZCbW1QMVFmaEVpa1J5czk1RDROSmdtOUpyLWQ1VHNMUG9SbzhjcGdMaHlOS29KS1MxV2otNlByRHZPeDc2VVlGZFdUNTBwSUJ1dW4zSU9WSlQ4am9lbTVmdG94ZmptWEE1OS1KQ1E1OG5LU1kyTTVONXfSAbgBQVVfeXFMTTZyQWRjR1A0NElLbmlMMWlfTWxWZHRyb1l3WXFXZlBYZEQ3Rm9Mbmt1VHVNQzlpYndjd3Y0NGdTdUJKQ0NBRHBLaEZKZzZRVTM4UlNBcVJ3bFFka0lIUHZ3YWc5VEN6cHplQXRJSVVHdVBBUDgwZE12djhBRlc1T09hbEt5UjRtcHpYSkZoVmtFdWRNX290SE1tMFlCRWVERnpvZ3I4aUZuTFBDeWEyZm84Ql9UNklpaQ?oc=5\" target=\"_blank\">Skretting launches a diet solution for African-farmed catfish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 14939,
+      "story_id": 867,
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYUdKWG9FeEtkeTVBcVl5bXhwb0dYb09MVDVrOUMzTTg1V1BRdTBhdHVwc2FrUVhFMnI3SkdIX0NJZWlzQk8tVHY5bzV4RHo5QzZYeFBhZlllOGJyeGU0N004RnQ5d3ZDNHBBWXN6dGQ0WlpTMHgzZldQemVkeWt1cVFCa015SHVlUzNLQldiSWdEUFVLdlpNQzJzQ0FkODZfbGhzVmMtVVVha1lMdVpwR2NtUjZ0bDFWeTZQMzRNUUdPbkRmbGtqR01mZlNJc2NGRTh5dXFDZV9NamlDVlNQeE9qY0ozb0s5endobWFUbTJnbE8tYUljMzNlekt0ZmlSTmNMcEJ5bTRmUQ?oc=5",
+      "title": "Skretting Chile se convierte en la primera planta de alimento para salmones en el mundo en obtener certificación ASC Feed - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "published_at": "2024-02-05T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxQYUdKWG9FeEtkeTVBcVl5bXhwb0dYb09MVDVrOUMzTTg1V1BRdTBhdHVwc2FrUVhFMnI3SkdIX0NJZWlzQk8tVHY5bzV4RHo5QzZYeFBhZlllOGJyeGU0N004RnQ5d3ZDNHBBWXN6dGQ0WlpTMHgzZldQemVkeWt1cVFCa015SHVlUzNLQldiSWdEUFVLdlpNQzJzQ0FkODZfbGhzVmMtVVVha1lMdVpwR2NtUjZ0bDFWeTZQMzRNUUdPbkRmbGtqR01mZlNJc2NGRTh5dXFDZV9NamlDVlNQeE9qY0ozb0s5endobWFUbTJnbE8tYUljMzNlekt0ZmlSTmNMcEJ5bTRmUQ?oc=5\" target=\"_blank\">Skretting Chile se convierte en la primera planta de alimento para salmones en el mundo en obtener certificación ASC Feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 15003,
+      "story_id": 1013,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkJrRTJSQ2Rhc2dEQ2NhWm9FM2NDb2lZSHBQMUxoa1dlOGM3eVRYX0YtV1hla2RZWVZrZW9nYmI4ck1CS1FScC1Da3ZTVVlJRjRmTDhhR0J0SmF4UDlsSmdSZGQ1UGtscUdIczhwdlB2U0hrMHRyWjZ6LWZldGU2dG5Rb3JFbl96ZnJhRi01MXhBVG5DN1ZCUHBhMkZ2aVVGeE5hdW5RMFFidE94di0wTXdEY3JmbDYwS2NhdVBDMEw4M0xoMGc?oc=5",
+      "title": "Cargill lands fish feed maker Ewos amid growing demand for salmon - London Evening Standard",
+      "source_name": "London Evening Standard",
+      "language": "en",
+      "published_at": "2015-08-17T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkJrRTJSQ2Rhc2dEQ2NhWm9FM2NDb2lZSHBQMUxoa1dlOGM3eVRYX0YtV1hla2RZWVZrZW9nYmI4ck1CS1FScC1Da3ZTVVlJRjRmTDhhR0J0SmF4UDlsSmdSZGQ1UGtscUdIczhwdlB2U0hrMHRyWjZ6LWZldGU2dG5Rb3JFbl96ZnJhRi01MXhBVG5DN1ZCUHBhMkZ2aVVGeE5hdW5RMFFidE94di0wTXdEY3JmbDYwS2NhdVBDMEw4M0xoMGc?oc=5\" target=\"_blank\">Cargill lands fish feed maker Ewos amid growing demand for salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London Evening Standard</font>"
     }
   ],
   "share_of_voice": {
@@ -38405,7 +38746,7 @@
       {
         "week": "2015-W34",
         "BioMar": 0,
-        "Cargill": 12,
+        "Cargill": 13,
         "Skretting": 0
       },
       {
@@ -38632,7 +38973,7 @@
       },
       {
         "week": "2017-W31",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Skretting": 0
       },
@@ -38650,7 +38991,7 @@
       },
       {
         "week": "2017-W41",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Skretting": 0
       },
@@ -38782,7 +39123,7 @@
       },
       {
         "week": "2018-W50",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -38991,10 +39332,16 @@
         "Skretting": 1
       },
       {
+        "week": "2020-W41",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2020-W43",
         "BioMar": 0,
         "Cargill": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2020-W45",
@@ -39441,6 +39788,12 @@
         "Skretting": 1
       },
       {
+        "week": "2022-W48",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2022-W49",
         "BioMar": 1,
         "Cargill": 0,
@@ -39702,7 +40055,7 @@
         "week": "2024-W06",
         "BioMar": 0,
         "Cargill": 1,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2024-W09",
@@ -39756,7 +40109,7 @@
         "week": "2024-W17",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2024-W18",
@@ -40282,7 +40635,7 @@
       },
       {
         "week": "2026-W07",
-        "BioMar": 12,
+        "BioMar": 13,
         "Cargill": 5,
         "Skretting": 1
       },
@@ -40356,15 +40709,15 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 492
+        "count": 496
       },
       {
         "company": "Cargill",
-        "count": 201
+        "count": 202
       },
       {
         "company": "Skretting",
-        "count": 385
+        "count": 390
       }
     ]
   }
