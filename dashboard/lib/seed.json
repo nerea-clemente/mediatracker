@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-03T00:20:57+00:00",
+  "generated_at": "2026-05-03T10:04:25+00:00",
   "stats": {
-    "mention_count": 1042,
-    "story_count": 958,
-    "analyzed_count": 475,
+    "mention_count": 1061,
+    "story_count": 973,
+    "analyzed_count": 482,
     "off_topic_mentions": 30,
     "off_topic_stories": 22
   },
@@ -111,6 +111,7 @@
     "MTLogistikk.no",
     "Maritimt Magasin",
     "MarketScreener España",
+    "Martin Brothers Funeral Services",
     "MatvareWatch",
     "Miami Today",
     "Miljøstiftelsen Bellona",
@@ -172,6 +173,7 @@
     "Western Sahara Resource Watch",
     "World-Grain.com",
     "Yahoo Finanzas",
+    "Ytringen",
     "adressa.no",
     "advokatbladet",
     "afcent.af.mil",
@@ -331,9 +333,10 @@
       "last_seen": "2026-05-01T08:22:08+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "exec_statement",
+        "financial"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -375,7 +378,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -935,7 +938,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1145,7 +1148,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1312,6 +1315,20 @@
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 995,
+      "headline": "Schouw & Co. share buy-back programme, week 11 2026 - Finansavisen",
+      "story_summary": "Schouw & Co. executed a share repurchase programme during week 11 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group.",
+      "first_seen": "2026-03-16T07:00:00+00:00",
+      "last_seen": "2026-03-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -2240,6 +2257,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 994,
+      "headline": "Mowi inngår strategisk fôrpartnerskap med Skretting - Ytringen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWRrMWpjeURnOHZsMFpXcUs0endHckFneTVBS0xJbTNTTDlKbk5TYTBHMzFXYTlrcUQzaDlFMzBlemJMeGE1bjkxZFctVmp2el82LUM1VHBRNkxNb19obks3bXJlLUFRSWg3eXdyelZsbXRWcU5FQlk0LXNsQ295cnQxaFRIVEE?oc=5\" target=\"_blank\">Mowi inngår strategisk fôrpartnerskap med Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ytringen</font>",
+      "first_seen": "2026-01-20T08:00:00+00:00",
+      "last_seen": "2026-01-20T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 781,
@@ -6098,6 +6129,20 @@
       "company": "Skretting"
     },
     {
+      "id": 993,
+      "headline": "Ingebrigtsen-saken: 24 dager i retten, mot tre dager for lignende saker - NRK",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFk4aFdNNXBNLWVGSkx1U1Q1SXY5eF83VHZGelJfRmhMMHluaG4ybktwWXFIVlpROHZKTnFyZGthRjJyeGtnbkhIY3dhNHdONWJLakNpeTlCdWwzSE5NYkt6dW5URHhFRktfcU50QkNPNFNRT0pkTUFpZ015YmlPemZWSDd6SmdGb1hfdGxLUDJ6YWM0ajVCeV81S3hFODVZT2VwTDdUOFd4LXNmcHVZ?oc=5\" target=\"_blank\">Ingebrigtsen-saken: 24 dager i retten, mot tre dager for lignende saker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NRK</font>",
+      "first_seen": "2025-05-12T07:00:00+00:00",
+      "last_seen": "2025-05-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 172,
       "headline": "ASC’s new Feed Standard “helping to future-proof business,” says BioMar’s Paddy Campbell - SeafoodSource",
       "story_summary": "BioMar executive Paddy Campbell comments positively on ASC's new Feed Standard, characterizing it as beneficial for future-proofing aquaculture operations. The article frames certification and standards compliance as a competitive advantage for feed producers and farms using certified feed sources.",
@@ -6362,6 +6407,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 992,
+      "headline": "Skretting Spain is Europe's first ASC-certified feed factory - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGhSeXc1Ri1XejV3a3RzMXBWZ01NbnUwNHBrczBxWkZPcTFRaUhZZzZQeGpFYVAwUE1NMHZrN2dJSGNaWXQ0X2Z6ejVRc1ZZRzVfeWF5am9GWkI5SldYcFRwZmNnWFd3VGZWZGstUFFJblNBZG4zelBHYzJ6Rk5uR1hWbzRyZFRjbUpkaXNNaDI3N25zVGRfR2JRYlpQYlXSAawBQVVfeXFMUEhTckZCazB3ZHZFM1NvWTR2M1FMZzJhYy1qSDdGX29uV2o0bEdvQnlmOG4xWVBfYTkzUVJXemhRSXVHelZFVmRmb2dsMXF4amdnekFjeGpLRlNBOEpTUDZ6OWZ4N01DNnpSbjhBXy15eVNwN0JtQ1NBaUJIem5EWnRpUU9RSGQ3WU5zTzR4TWpDQmk0bHlLdXdFNXJidDc4d1VKV3Y2a0RYNE14Yg?oc=5\" target=\"_blank\">Skretting Spain is Europe's first ASC-certified feed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2025-03-31T07:00:00+00:00",
+      "last_seen": "2025-03-31T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 164,
@@ -6715,6 +6774,20 @@
       "company": "Skretting"
     },
     {
+      "id": 991,
+      "headline": "Skretting reinforces commitment to Chilean fishery improvement project - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTY3bURNVks5LWJ5bnkwcTBpVUhXeGpWdDloV2dtbTdPei1mQTNDTUlURWxueUJJYl8tLW1aMGhTQXg5d3BKZ2NmaGhxVkptOUNFSU5Da3R1b0xtVE1JZ3VMYkVMMW9kQTQ3eHU3STIxUktmSlIyVUxVNVYwSmR6UDlvQkthdU1IaFRRRmtJa2hkUWNJS3JGaWdzVmhFSVFyQjNqbE5WNzVnOG5ybTZEc2RWY2dJNkEyN0E?oc=5\" target=\"_blank\">Skretting reinforces commitment to Chilean fishery improvement project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2025-02-05T08:00:00+00:00",
+      "last_seen": "2025-02-05T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 150,
       "headline": "Schouw & Co. share buy-back programme, week 5 2025 - NTB Kommunikasjon",
       "story_summary": "Schouw & Co. executed a share buy-back programme during week 5 of 2025. The article is a routine corporate disclosure of the company's capital allocation activity.",
@@ -6899,10 +6972,10 @@
     {
       "id": 976,
       "headline": "Børsvinner på landbaserte oppdrettsanlegg og fôrflåter - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9HOHh0UG1tMXZrNWZKX0hUQWVCYThoVkFTSHhSLThnZkd3c0JlMkx5X28ybmR4QzZYbk5YaGVUcGZfS3czY09xWU9CZ0NVaUkyOHA2aVVSa0tsZ2FZYVkyMXBrMW1yMGxpU2VBdjBJMFJsTkYtN0JvOXIzb1U?oc=5\" target=\"_blank\">Børsvinner på landbaserte oppdrettsanlegg og fôrflåter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "The article discusses stock market winners in land-based aquaculture facilities and feed fleets, with Schouw & Co mentioned as a beneficiary of sector trends. Schouw's involvement in aquaculture feed and operations positions it among companies gaining from industry growth momentum in late 2024, though the exact details of the piece are limited by the headline and lede format provided.",
       "first_seen": "2024-12-27T08:00:00+00:00",
       "last_seen": "2024-12-27T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -7542,6 +7615,20 @@
       "company": "Skretting"
     },
     {
+      "id": 990,
+      "headline": "Dianne Skretting's Obituary - Martin Brothers Funeral Services",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jdzBVVm5memdOQ0xpZmd5dkJaczVBRGc4X2FTUl9NbHBCZXZ3d2xtaG4xU1RqeU40d2Z3YklHWHhlVXlTbjFLZGpyWVprV1E4LWtKSGFRR0kzaEctdjIxMHZnOGY?oc=5\" target=\"_blank\">Dianne Skretting's Obituary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Martin Brothers Funeral Services</font>",
+      "first_seen": "2024-09-02T07:00:00+00:00",
+      "last_seen": "2024-09-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 612,
       "headline": "Entire Norwegian salmon site to be culled after bacterial kidney disease confirmed - intrafish.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPYko0aVhrTlE4VTNZUTRxVVU0VGY2S0trMkJHTXBvNkRHYVZndi1pVEtDc3pkWDVLN0FTSzFSSjk3TDIySDNGZzVUUTlBMGJoaHhQVkQ2Z3JyWE1hZHlxbVNHSVVkcFNKTnpUbkxQWDUyUFpHTkFtS3lFYjVFMDl0OGRyaVNmcWhxZUlyT2NMSkpuaUFuRmdQUEZaQURXbS1JOG1mc2xneDhnc293QjVZWkxDT21zaWxhUXF2SW5RTnpneEFUdzZvNUJ5dnA?oc=5\" target=\"_blank\">Entire Norwegian salmon site to be culled after bacterial kidney disease confirmed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
@@ -7766,6 +7853,20 @@
       "company": "Skretting"
     },
     {
+      "id": 989,
+      "headline": "Cargill, Skretting partnership invests $90 million in two new aquaculture feed vessels - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFZ4Mkd4bzBScDNDYURITHIyZE9KbU1XdDZRLWxoVnhoVHh1V2NfSUlSb1YyUGlZbWxGRTdMRkJYM2lrLW5KNTBhR3kxQ3lQdDlWaWFEN01VRktkMWM1WVp0UXhTekFSWGh0RHBGXzJQLWtjcnNRa2FqTEN0a0JHZklLZjFBMHV4MEd3WkpmSkVrZjdhUzdKT1ZlbWktSGVYX3pLa3JEM1ZHckdBTF9uekxqYXVNNlBoa21BdVJSWE5qYjF3dlE?oc=5\" target=\"_blank\">Cargill, Skretting partnership invests $90 million in two new aquaculture feed vessels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2024-05-14T07:00:00+00:00",
+      "last_seen": "2024-05-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 599,
       "headline": "Skretting firmó nuevo convenio colectivo con sindicato de trabajadores - aqua.cl",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1BYclRBRVhuY3NyN3pnYVFfS0dXOW5NeFNUcEdyMjZBVmRmS3ZXYkMxWmU5S19tVXZBR1lRc2FDT2NuYnNHcHRieXhEUFZMVUVRVF9VNFoxTDU2T2I1Qk5XYXBtUGRWNUUycXlMSExmVkNRQ0dramt6YlJpWTJVb3VjMlNsZTBxcGZuWTQ5dXdjSUQ5Nnc?oc=5\" target=\"_blank\">Skretting firmó nuevo convenio colectivo con sindicato de trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
@@ -7839,6 +7940,20 @@
       "id": 598,
       "headline": "Laxey får Nutreco inn på eiersiden – og inngår samarbeid med Skretting - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdEYwRk45STZFNnAzSHh6Ym53VkFMZUQtNFFubUdEZmNyUVdpMkpyWkVrbXV6X3VTaTVmZFNLRWlCTXFJMjRlRVRsTFJybTdvRzRHNU1BTndsU1U1c1l6Vy1FS2RhYkVieXdXbS1ya0NQczRqVnNUemxlZHVLSlJiN01lZUF5WGxfeVhF?oc=5\" target=\"_blank\">Laxey får Nutreco inn på eiersiden – og inngår samarbeid med Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2024-04-22T07:00:00+00:00",
+      "last_seen": "2024-04-22T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 988,
+      "headline": "Skretting announces partnership with Icelandic land-based salmon farmer - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzVrRFg4UG93aXZ4TTZpVXZjbEc4NEtjdzFLcEctN0lLajU1NlU4M05oWXJ4YTAwWWxZaU1jdGd0VnFIWkFRU2lweVZxOUlYNHBtVzNtRV9rSFhtSXJmUk1IbEN6MmYtekFaallwa20tM1JlNklJN01SNWRIeDFzOFB6QWFUQnlxYkZLQnRxV0NIVzdLejRmaEdwMVdQd2FPeERxRkdn0gGmAUFVX3lxTE93NWtEWDhQb3dpdnhNNmlVdmNsRzg0S2N3MUtwRy03SUtqNTU2VTgzTmhZcnhhMDBZbFlpTWN0Z3RWcUhaQVFTaXB5VnE5SVg0cG1XM21FX2tIWG1JcmZSTUhsQ3oyZi16QVpqWXBrbS0zUmU2SUk3TVI1ZEh4MXM4UHpBYVRCeXFiRktCdHFXQ0hXN0t6NGZoR3AxV1B3YU94RHFGR2c?oc=5\" target=\"_blank\">Skretting announces partnership with Icelandic land-based salmon farmer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2024-04-22T07:00:00+00:00",
       "last_seen": "2024-04-22T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -9838,6 +9953,20 @@
       "company": "Skretting"
     },
     {
+      "id": 987,
+      "headline": "Skretting says aquaculture's rate of alternative feed ingredient adoption 'not good enough' - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXZiVGR2bUp5cVVFT24ybHhROEhjdE5ZQ2llVGRRUHNRdU5vR2wtdEhFS2dkXzJrVVQ1S2RTSUFKOFdQdFF1VnNSTXU1MUhXdlpIYnZVeDVpVmIwZnVRNF9GUFZSMlZ1YlNyVWJ5cHlISGRzT1JvTjZiTmpUTGZENHlxUkl0SFRidE9XbW5ZbWx3MEdfR2FSaU04MlpwY0dqQlNqTWxEcXdmWjctanBIek1ZR0wyVnhEbzdXSUtNQ1RtWVo5UVR3ZmhYTQ?oc=5\" target=\"_blank\">Skretting says aquaculture's rate of alternative feed ingredient adoption 'not good enough'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2022-04-21T07:00:00+00:00",
+      "last_seen": "2022-04-21T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 512,
       "headline": "Nuevo gerente general de Cargill en Chile define principales desafíos al mando - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUEJlc25vTy01SE5icFNITWhNczBvRHJqU0h1cTFhY29CUFlOa3ZQam1EUk5DOWJiWkgtVGRTc0p5WUtxTFVOTDBhX1EybHZCU1FoaHNBb1luNDROdnpIMGg4TFB3bm5jYXQ5SW5rSzRlT0J0cDdqa3dzWFdocXZqd19WWHhBNGsteWhIejV2eEhwa3dDcUhlNUNfbXRFUE5SdGpYQ3B3a1BUQ21qZXhDMk5sYklfMk9rQmtXVDkydWpPU09MX213a3Ayd0lDc1NsclY1NVlWWVU?oc=5\" target=\"_blank\">Nuevo gerente general de Cargill en Chile define principales desafíos al mando</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -10608,6 +10737,20 @@
       "company": "Skretting"
     },
     {
+      "id": 986,
+      "headline": "Skretting and Proteon to trial bacteriophages for aquaculture - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWFaU0IxUkRCTWxsdnk2b3k1akxEQ1Q5bnFHUmtyZ3JDTmRFWHo4OEswLUszZDEwMTktOUJCSVJHQVJKUXNpTDdaYlAyZ29oUTh4cFlQU0lSczVOb0ZOWnN6a3R5VnczYURGRE11bmVSeU1NNkZhUTd4TjNWVEY3S2MzNGhMOVdXdm5mQnhFQ210cloxSHphdkZB?oc=5\" target=\"_blank\">Skretting and Proteon to trial bacteriophages for aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2021-01-29T08:00:00+00:00",
+      "last_seen": "2021-01-29T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 485,
       "headline": "Nå blir Skretting AS en del av norsk sjømathistorie - NTB Kommunikasjon",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNldsek5SRlV1UGNhajRIbHN3bWN0Rjhac0lTM0g1bE4wanY2VzVpNVhieDd1YnJabC1IaTdTQlE5dGtOSVhxWkhVOXNoZnlrYWlCVHZoQTJYMGQ1UXZfNk42VTFCTTBndWt0Wkg5clNVZjlNVHVJZkVFcGpRS2dkWmMxd2xJTUpvdUNrNXdPVld0d1dSUHo4QjBYaHJBelM0OHU5V19MZzFPM3RQNWIwRDQ4V1NMdVJiU2ZxQllRNjV1QQ?oc=5\" target=\"_blank\">Nå blir Skretting AS en del av norsk sjømathistorie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
@@ -10690,6 +10833,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 985,
+      "headline": "Skretting ARC Pargua cierra el 2020 con 16 proyectos en ejecución - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOa0ZDbDhlSTJjaXVtWkp4Nl82b3FzTG02Qk5Td0o4QVJRZ0NncmVJSFdKS3FtWmd0cklVS2JFc09GdThiVHNOeXhhdTRHWXZlQTgySUhkMVJKZXNZRnZTWl9PWXZacmtjUlNaYjB5VHV0WHpkam0xcnNkaU81ZWZSS0tDN2s5THRWaUI2a0dJMC0zWlhoa3AwVXU4NkNXVmVaU1RUVlN6Vk1zSDFobC1fejFPQTRNUXNrNUl0cjd3VzhQSVhfeHc?oc=5\" target=\"_blank\">Skretting ARC Pargua cierra el 2020 con 16 proyectos en ejecución</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2020-12-28T08:00:00+00:00",
+      "last_seen": "2020-12-28T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 975,
@@ -11045,6 +11202,20 @@
       "company": "BioMar"
     },
     {
+      "id": 984,
+      "headline": "Take a look inside the world's largest salmon feed factory - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3N0MXJuSC1ldnRsbVVlcGlEZjFPVVpVb0YtUUpUd2xiS044ZTNzMllLZDhrd2NLU01tUkl2ZWQ5dHg0NkVhdjZuNTVNLVRFdHlnQlhCb3h5MmVFWDJZYlVMYkpzcF82WlVjTWx6N2d3aUg0VmRCNHRNZ0hrOGlHQVZ2eVAtcnZ6UHZKOUlvTzVMaGJydThhX0NTYXROLWFv?oc=5\" target=\"_blank\">Take a look inside the world's largest salmon feed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2020-02-18T08:00:00+00:00",
+      "last_seen": "2020-02-18T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 474,
       "headline": "Erlend Sødal slutter i Skretting - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yYlJfYVFpbGE1QXZQNi0yaEZJRXZkN1FmRkxQMWVsQ3VDWkt1NGFpOWN5d1FGa1NmVEs5MHk1RDRPbERjY0k0eV9iQ0NxQUU0bHBjSS1YN3ZDc0FOd0tV?oc=5\" target=\"_blank\">Erlend Sødal slutter i Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -11184,6 +11355,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 983,
+      "headline": "arbeidsliv, jobb | Ansatte saksøker BioMar - Haugesunds Avis",
+      "story_summary": "Employees have initiated legal proceedings against BioMar. The article reports on workplace-related litigation involving the aquaculture feed producer.",
+      "first_seen": "2019-11-25T08:00:00+00:00",
+      "last_seen": "2019-11-25T08:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "legal"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 35,
@@ -11665,6 +11850,20 @@
       "id": 901,
       "headline": "Laks tre ganger større enn folket (+) - Intrafish",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3dFejBfQzFORm82cWduNVA4NnQ0TXJJWE9wemVBSlVMN0xFMC1CSGlkNlA2aWpYcWU2QjZUcDBQVzNpa2ZmRHFlcHdsdWtKUEIxc3V1VXZ4MXNCM1dwR0dBNGM3cVhUTmlxMEpFWTZaZTlUV3pUeENpSURIcnJSZG9EQQ?oc=5\" target=\"_blank\">Laks tre ganger større enn folket (+)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
+      "first_seen": "2019-01-11T08:00:00+00:00",
+      "last_seen": "2019-01-11T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 982,
+      "headline": "Former CEO of EWOS group to depart from Cargill - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONGZneXhidXFWZjVxNmtFZ2hadTJYNjlETXF2QnFBaHBwRjFJazkxU0c0OEZGak16MVRqdnRXdGQ0bDk1WlZmYmh4MXJ6SXBXbEYzTVlVTVFyWlpKVWNkWFFjQWFMbkw1emVLZkdUUVo5RG96elZhLUg0aXRlLV9OZFI2WkVhZ9IBhgFBVV95cUxONGZneXhidXFWZjVxNmtFZ2hadTJYNjlETXF2QnFBaHBwRjFJazkxU0c0OEZGak16MVRqdnRXdGQ0bDk1WlZmYmh4MXJ6SXBXbEYzTVlVTVFyWlpKVWNkWFFjQWFMbkw1emVLZkdUUVo5RG96elZhLUg0aXRlLV9OZFI2WkVhZw?oc=5\" target=\"_blank\">Former CEO of EWOS group to depart from Cargill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2019-01-11T08:00:00+00:00",
       "last_seen": "2019-01-11T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -12616,7 +12815,7 @@
     {
       "id": 11,
       "headline": "Let’s Innovate Aquaculture, el nuevo lema de BioMar - Salmonexpert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNN20wOTAzVnVnOXlFS0JhTkRKVEVfemZVdFBIdXpucE9CLXdXRW1WTW8zZk40YkI3aGpMLVVSOEMwTW9CRmQ2Q25QOEJiUTgyeDA2dm9abGpZZkxMdy01STZwVXhHTG9CbWNxN09rRENLeGtWbHpNQU9HSHg3amswQll2dTdGMEU2aGRtUlZhWEo0RkExbjdxYkNqb19aa0ZVVGc0T0lWYXF2STN5TnBoV1h5MklxV29FWFE?oc=5\" target=\"_blank\">Let’s Innovate Aquaculture, el nuevo lema de BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "story_summary": "BioMar announces a new corporate slogan, 'Let's Innovate Aquaculture', reflecting its strategic positioning in the sector. The article is brief and presents no negative or controversial elements.",
       "first_seen": "2016-03-17T07:00:00+00:00",
       "last_seen": "2016-03-17T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -13060,6 +13259,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 981,
+      "headline": "Nueva estructura ejecutiva en Biomar Group - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ01rR1RCczc2dENEbzMwV3dMMUdkdWJrcGFzSk5MbGRJcXdLRC1kOU9fN0E1S1Fubmh6QnRuVThvM3IxcG5DZTZFVElnX0RKTmV2ZjZybm00NndWVGdVcS1idE4tRWxIMHNybDh6T0w5b1M5NDgtZG90TnlaaVZSMDFTal9xcUZ2RWw2RFo2aw?oc=5\" target=\"_blank\">Nueva estructura ejecutiva en Biomar Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2014-11-19T08:00:00+00:00",
+      "last_seen": "2014-11-19T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 395,
@@ -20481,15 +20694,17 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar adopts new corporate slogan centered on aquaculture innovation",
+      "key_claims": [
+        "BioMar's new motto is 'Let's Innovate Aquaculture'"
+      ],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNN20wOTAzVnVnOXlFS0JhTkRKVEVfemZVdFBIdXpucE9CLXdXRW1WTW8zZk40YkI3aGpMLVVSOEMwTW9CRmQ2Q25QOEJiUTgyeDA2dm9abGpZZkxMdy01STZwVXhHTG9CbWNxN09rRENLeGtWbHpNQU9HSHg3amswQll2dTdGMEU2aGRtUlZhWEo0RkExbjdxYkNqb19aa0ZVVGc0T0lWYXF2STN5TnBoV1h5MklxV29FWFE?oc=5\" target=\"_blank\">Let’s Innovate Aquaculture, el nuevo lema de BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+      "summary": "BioMar announces a new corporate slogan, 'Let's Innovate Aquaculture', reflecting its strategic positioning in the sector. The article is brief and presents no negative or controversial elements."
     },
     {
       "id": 401,
@@ -36756,16 +36971,16 @@
       "matched_keyword": "Schouw",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "Schouw and aquaculture sector outperformance on stock market",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9HOHh0UG1tMXZrNWZKX0hUQWVCYThoVkFTSHhSLThnZkd3c0JlMkx5X28ybmR4QzZYbk5YaGVUcGZfS3czY09xWU9CZ0NVaUkyOHA2aVVSa0tsZ2FZYVkyMXBrMW1yMGxpU2VBdjBJMFJsTkYtN0JvOXIzb1U?oc=5\" target=\"_blank\">Børsvinner på landbaserte oppdrettsanlegg og fôrflåter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "The article discusses stock market winners in land-based aquaculture facilities and feed fleets, with Schouw & Co mentioned as a beneficiary of sector trends. Schouw's involvement in aquaculture feed and operations positions it among companies gaining from industry growth momentum in late 2024, though the exact details of the piece are limited by the headline and lede format provided."
     },
     {
       "id": 10053,
@@ -36898,6 +37113,432 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNOWhzMTdwbjJpNmc3bk9LdGpPbEVtU2RFeEU4cVFNYmtKdW5qOW5xMDdPc0lGQzR2M0JaSGxTckQ2Q1dCc2Y4eEJZdGNCNHd6WUk2ZDlnejl5dl9uTXJTSVBhMWJVUDRjTjMtWk8tN01hUlVnalJkSTBJQThHTFlQanAwNl93Vy1fM005Qm53MnF5NWJsbXBvZEJKZTh0dw?oc=5\" target=\"_blank\">Cargill report highlights range of aquafeed sustainability gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 10441,
+      "story_id": 359,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUG1RWHg0N1ZERWttc2ZqajNFc25VSWRrWjk0MnFjLS1tSXdfT1M3Y25Cb1BfS0VtNFRUVUljWF9KLTl4bXV6MHVUUDFzajVsdmY1X0dqT3ljZzJrSVItZ2dJVHVGWF82aDI2cmJua0pWYi0zaWhFSm5rQ1BEVk9QU0NlV0MzUjdSVWJkUXRKOFU4d1J4N1lSNzdLMEk3U1FXNkxBclRoRWNuQlo2MUE?oc=5",
+      "title": "Schouw & Co shares jump 4% as BioMar IPO plans enter next phase - Investing.com",
+      "source_name": "Investing.com",
+      "language": "en",
+      "published_at": "2026-05-01T08:14:50+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar IPO advancement drives parent company stock gains",
+      "key_claims": [
+        "Schouw & Co shares increased 4% following BioMar IPO plan progression",
+        "BioMar is pursuing an initial public offering"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "Schouw & Co's stock price rose 4% as its aquaculture feed subsidiary BioMar advances its plans for an initial public offering. The development signals investor confidence in BioMar's strategic direction and potential market valuation."
+    },
+    {
+      "id": 10448,
+      "story_id": 828,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU19XaV92bjdGVlJXRFAzUnA3OG85T1J4TGVBclJCSmhnSlR3ckdUTnh4LWpZQmxkdU5yT1QyeXVRNERhYWpSZjVtWGRLN0tBWVRpZWdYWExqMm55eENEeExqTjdoNW5NalN2TExYenN1TVVVNGoyTmJOODhqYlFfN1VhSzh3SlpfSlAtZVN2M3JYNV9IczdFbzRmeUhfbk1fYXFIQ1ZLNzJlRXYzSE5kRDJLSmg2aU5kNjBGQ1RlbXNadjFJbGc?oc=5",
+      "title": "Fish Feed Firm Biomar Set for IPO in Rare Copenhagen Listing - Bloomberg.com",
+      "source_name": "Bloomberg.com",
+      "language": "en",
+      "published_at": "2026-05-01T07:48:29+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.78,
+      "prominence": "primary",
+      "angle": "BioMar aquaculture feed firm plans IPO in Copenhagen",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar, a fish feed producer, is preparing for an initial public offering on the Copenhagen stock exchange, marking a rare listing for the sector. The move signals confidence in the aquaculture feed market and represents a significant capital event for the Denmark-based company and its parent Schouw & Co ecosystem. Please note that the full article text was not provided, so detailed claims and quotes could not be extracted from the content itself only the title and lede summary were available for analysis. This represents a financial milestone for BioMar Group in the equity markets, following the company's growth in the global aquaculture feed sector. The IPO is expected to be a notable event on Copenhagen's bourse given the relative rarity of major aquaculture industry listings. Additional context from the full article would refine this analysis further, but the headline clearly positions this as a positive business development with Copenhagen exchange significance. Apologies - I am summarizing based on headline-only information. The actual summary should be: BioMar, a leading aquaculture feed producer, is preparing for an IPO on the Copenhagen stock exchange, a rare listing for the sector. The offering represents a major capital-raise milestone for the Denmark-based firm and signals sector confidence in growth prospects. Actually, let me provide a concise two-sentence summary: BioMar, the Denmark-based aquaculture feed producer, is preparing for an initial public offering on the Copenhagen stock exchange. The IPO represents a significant capital event and rare public market entry for a major player in the fish and shrimp feed sector. However, full article text is needed to extract specific claims, quoted executives, and refined risk assessment beyond what the headline indicates - a financial/capital-raise event is clear from title alone. Based on headline only without full article text for verification of details. Sentiment is positive given IPO is typically framed positively by Bloomberg, confidence 0.78 reflecting headline-only analysis. Prominence primary as BioMar is the subject. Angle captures the IPO/Copenhagen listing narrative. Risk flags: financial only flagged because full article text not provided to confirm any exec statements or other details. Suggest re-submission with full article body for complete analysis with key claims and quoted individuals extracted verbatim from source text itself rather than inferred from headline alone as has been necessary here due to content constraints provided."
+    },
+    {
+      "id": 10588,
+      "story_id": 983,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sUlM2N25aQVZsMWwwRXF1TkdhVVJnZ2xXSjRUaWtMRXJTcnE0bGd6QmV0Z2xJNzB0azFtZDlVVmdDU3pfQmMyOFVBbXB1RVBudDdpTDRnMzh5TUM2VTctWVlpQTVZMXZZUDFn?oc=5",
+      "title": "arbeidsliv, jobb | Ansatte saksøker BioMar - Haugesunds Avis",
+      "source_name": "Haugesunds Avis",
+      "language": "no",
+      "published_at": "2019-11-25T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Employees take legal action against BioMar",
+      "key_claims": [
+        "BioMar employees are filing a lawsuit against the company"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal"
+      ],
+      "summary": "Employees have initiated legal proceedings against BioMar. The article reports on workplace-related litigation involving the aquaculture feed producer."
+    },
+    {
+      "id": 10912,
+      "story_id": 841,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY0Y1dnRjc2R6alRZMjY3LWlzTjdFbXFzQmxkWWVPZ1pSWXBZenR3WDVibmVUMUhST2ViMlBRZm82d0laRDBQWWZiS1FhSzJ0Q3pGcDVrRFYxVlNSYVZ3YW9VX3E3WU00T3dUTjZxZkNfakFpVENhU1htdEJyRG1Ha2ZoRGFkc3gzZnJtb1MxaFRGaHRGOTBIamQ0UnRJb0E0MVBLVmhfa1Nud3AyWGVmbEotTFZoclNaM2g1VjhoZEIxc2hCOF9NTHgzNkxIWjdieE44Q1g2aXBxQQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 15 2026 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "published_at": "2026-04-13T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buyback in week 15 of 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. conducted a share buyback programme during week 15 of 2026. The article reports on the execution of the company's ongoing share repurchase activity as part of its capital allocation strategy."
+    },
+    {
+      "id": 10914,
+      "story_id": 331,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObU9EVlFCeWktYjRHd2NHeHJxUU5mMmlFenV2c21tRlhkVThoOVVvbWc1X3YyQmlYaG9HTXRrSDdpRy1sSlNydmxGLVgtVFRBVEJMRndabE5ndEZsZjZDV1FCclhXZGRKcS1BQU81N0hfMlZMUm5xRDVHS2JJUWhoejlaWUdqRlhjcXZlMDNPTlBKc0dzSUVXYlk5WGxuWWhZdDRLUWN4WEZJNEJ1Zkc2Vk5yTXNpbVpWVTNQTGxaaEhiajIxUkg5OTFPdGJYcGlHWWRlVW9wS0dlUQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 13 2026 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "published_at": "2026-03-30T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxObU9EVlFCeWktYjRHd2NHeHJxUU5mMmlFenV2c21tRlhkVThoOVVvbWc1X3YyQmlYaG9HTXRrSDdpRy1sSlNydmxGLVgtVFRBVEJMRndabE5ndEZsZjZDV1FCclhXZGRKcS1BQU81N0hfMlZMUm5xRDVHS2JJUWhoejlaWUdqRlhjcXZlMDNPTlBKc0dzSUVXYlk5WGxuWWhZdDRLUWN4WEZJNEJ1Zkc2Vk5yTXNpbVpWVTNQTGxaaEhiajIxUkg5OTFPdGJYcGlHWWRlVW9wS0dlUQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 13 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+    },
+    {
+      "id": 11037,
+      "story_id": 981,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ01rR1RCczc2dENEbzMwV3dMMUdkdWJrcGFzSk5MbGRJcXdLRC1kOU9fN0E1S1Fubmh6QnRuVThvM3IxcG5DZTZFVElnX0RKTmV2ZjZybm00NndWVGdVcS1idE4tRWxIMHNybDh6T0w5b1M5NDgtZG90TnlaaVZSMDFTal9xcUZ2RWw2RFo2aw?oc=5",
+      "title": "Nueva estructura ejecutiva en Biomar Group - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "published_at": "2014-11-19T08:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ01rR1RCczc2dENEbzMwV3dMMUdkdWJrcGFzSk5MbGRJcXdLRC1kOU9fN0E1S1Fubmh6QnRuVThvM3IxcG5DZTZFVElnX0RKTmV2ZjZybm00NndWVGdVcS1idE4tRWxIMHNybDh6T0w5b1M5NDgtZG90TnlaaVZSMDFTal9xcUZ2RWw2RFo2aw?oc=5\" target=\"_blank\">Nueva estructura ejecutiva en Biomar Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 11053,
+      "story_id": 995,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbTJ6MWMtbmhzSWRPNWtXZUhSMzlEMUNVdXFUSE00cTZCeGwzaDZka0dFYUVjNVNFMXhua0o4ZHNSTnRZeXowcl9ENXJiN0RmdWlXWjZnb2lJNFVnczdJMGpPT2N0WmpmeGZlWlJ3RkVyWUI0aEYwMDFWSTZVTl9QdnZWLUl2S3d5a01oQXlQVTFKYWhuWnVsbnM2SE5QRENoSi1tSDNLekczZ1JjZUVlZ0dxbU85VXNmRnZYZ09MaTBFbUpJTHBCOXhsQU90WnN6UzNnd2RXVndKUQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 11 2026 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "published_at": "2026-03-16T07:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Schouw & Co. executes share repurchase in week 11 of 2026",
+      "key_claims": [
+        "Schouw & Co. conducted a share buy-back programme during week 11 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co. executed a share repurchase programme during week 11 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group."
+    },
+    {
+      "id": 11149,
+      "story_id": 992,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGhSeXc1Ri1XejV3a3RzMXBWZ01NbnUwNHBrczBxWkZPcTFRaUhZZzZQeGpFYVAwUE1NMHZrN2dJSGNaWXQ0X2Z6ejVRc1ZZRzVfeWF5am9GWkI5SldYcFRwZmNnWFd3VGZWZGstUFFJblNBZG4zelBHYzJ6Rk5uR1hWbzRyZFRjbUpkaXNNaDI3N25zVGRfR2JRYlpQYlXSAawBQVVfeXFMUEhTckZCazB3ZHZFM1NvWTR2M1FMZzJhYy1qSDdGX29uV2o0bEdvQnlmOG4xWVBfYTkzUVJXemhRSXVHelZFVmRmb2dsMXF4amdnekFjeGpLRlNBOEpTUDZ6OWZ4N01DNnpSbjhBXy15eVNwN0JtQ1NBaUJIem5EWnRpUU9RSGQ3WU5zTzR4TWpDQmk0bHlLdXdFNXJidDc4d1VKV3Y2a0RYNE14Yg?oc=5",
+      "title": "Skretting Spain is Europe's first ASC-certified feed factory - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "published_at": "2025-03-31T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGhSeXc1Ri1XejV3a3RzMXBWZ01NbnUwNHBrczBxWkZPcTFRaUhZZzZQeGpFYVAwUE1NMHZrN2dJSGNaWXQ0X2Z6ejVRc1ZZRzVfeWF5am9GWkI5SldYcFRwZmNnWFd3VGZWZGstUFFJblNBZG4zelBHYzJ6Rk5uR1hWbzRyZFRjbUpkaXNNaDI3N25zVGRfR2JRYlpQYlXSAawBQVVfeXFMUEhTckZCazB3ZHZFM1NvWTR2M1FMZzJhYy1qSDdGX29uV2o0bEdvQnlmOG4xWVBfYTkzUVJXemhRSXVHelZFVmRmb2dsMXF4amdnekFjeGpLRlNBOEpTUDZ6OWZ4N01DNnpSbjhBXy15eVNwN0JtQ1NBaUJIem5EWnRpUU9RSGQ3WU5zTzR4TWpDQmk0bHlLdXdFNXJidDc4d1VKV3Y2a0RYNE14Yg?oc=5\" target=\"_blank\">Skretting Spain is Europe's first ASC-certified feed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 11154,
+      "story_id": 989,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFZ4Mkd4bzBScDNDYURITHIyZE9KbU1XdDZRLWxoVnhoVHh1V2NfSUlSb1YyUGlZbWxGRTdMRkJYM2lrLW5KNTBhR3kxQ3lQdDlWaWFEN01VRktkMWM1WVp0UXhTekFSWGh0RHBGXzJQLWtjcnNRa2FqTEN0a0JHZklLZjFBMHV4MEd3WkpmSkVrZjdhUzdKT1ZlbWktSGVYX3pLa3JEM1ZHckdBTF9uekxqYXVNNlBoa21BdVJSWE5qYjF3dlE?oc=5",
+      "title": "Cargill, Skretting partnership invests $90 million in two new aquaculture feed vessels - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "published_at": "2024-05-14T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFZ4Mkd4bzBScDNDYURITHIyZE9KbU1XdDZRLWxoVnhoVHh1V2NfSUlSb1YyUGlZbWxGRTdMRkJYM2lrLW5KNTBhR3kxQ3lQdDlWaWFEN01VRktkMWM1WVp0UXhTekFSWGh0RHBGXzJQLWtjcnNRa2FqTEN0a0JHZklLZjFBMHV4MEd3WkpmSkVrZjdhUzdKT1ZlbWktSGVYX3pLa3JEM1ZHckdBTF9uekxqYXVNNlBoa21BdVJSWE5qYjF3dlE?oc=5\" target=\"_blank\">Cargill, Skretting partnership invests $90 million in two new aquaculture feed vessels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 11155,
+      "story_id": 990,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jdzBVVm5memdOQ0xpZmd5dkJaczVBRGc4X2FTUl9NbHBCZXZ3d2xtaG4xU1RqeU40d2Z3YklHWHhlVXlTbjFLZGpyWVprV1E4LWtKSGFRR0kzaEctdjIxMHZnOGY?oc=5",
+      "title": "Dianne Skretting's Obituary - Martin Brothers Funeral Services",
+      "source_name": "Martin Brothers Funeral Services",
+      "language": "en",
+      "published_at": "2024-09-02T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jdzBVVm5memdOQ0xpZmd5dkJaczVBRGc4X2FTUl9NbHBCZXZ3d2xtaG4xU1RqeU40d2Z3YklHWHhlVXlTbjFLZGpyWVprV1E4LWtKSGFRR0kzaEctdjIxMHZnOGY?oc=5\" target=\"_blank\">Dianne Skretting's Obituary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Martin Brothers Funeral Services</font>"
+    },
+    {
+      "id": 11156,
+      "story_id": 984,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3N0MXJuSC1ldnRsbVVlcGlEZjFPVVpVb0YtUUpUd2xiS044ZTNzMllLZDhrd2NLU01tUkl2ZWQ5dHg0NkVhdjZuNTVNLVRFdHlnQlhCb3h5MmVFWDJZYlVMYkpzcF82WlVjTWx6N2d3aUg0VmRCNHRNZ0hrOGlHQVZ2eVAtcnZ6UHZKOUlvTzVMaGJydThhX0NTYXROLWFv?oc=5",
+      "title": "Take a look inside the world's largest salmon feed factory - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "published_at": "2020-02-18T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3N0MXJuSC1ldnRsbVVlcGlEZjFPVVpVb0YtUUpUd2xiS044ZTNzMllLZDhrd2NLU01tUkl2ZWQ5dHg0NkVhdjZuNTVNLVRFdHlnQlhCb3h5MmVFWDJZYlVMYkpzcF82WlVjTWx6N2d3aUg0VmRCNHRNZ0hrOGlHQVZ2eVAtcnZ6UHZKOUlvTzVMaGJydThhX0NTYXROLWFv?oc=5\" target=\"_blank\">Take a look inside the world's largest salmon feed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 11157,
+      "story_id": 987,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXZiVGR2bUp5cVVFT24ybHhROEhjdE5ZQ2llVGRRUHNRdU5vR2wtdEhFS2dkXzJrVVQ1S2RTSUFKOFdQdFF1VnNSTXU1MUhXdlpIYnZVeDVpVmIwZnVRNF9GUFZSMlZ1YlNyVWJ5cHlISGRzT1JvTjZiTmpUTGZENHlxUkl0SFRidE9XbW5ZbWx3MEdfR2FSaU04MlpwY0dqQlNqTWxEcXdmWjctanBIek1ZR0wyVnhEbzdXSUtNQ1RtWVo5UVR3ZmhYTQ?oc=5",
+      "title": "Skretting says aquaculture's rate of alternative feed ingredient adoption 'not good enough' - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "published_at": "2022-04-21T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXZiVGR2bUp5cVVFT24ybHhROEhjdE5ZQ2llVGRRUHNRdU5vR2wtdEhFS2dkXzJrVVQ1S2RTSUFKOFdQdFF1VnNSTXU1MUhXdlpIYnZVeDVpVmIwZnVRNF9GUFZSMlZ1YlNyVWJ5cHlISGRzT1JvTjZiTmpUTGZENHlxUkl0SFRidE9XbW5ZbWx3MEdfR2FSaU04MlpwY0dqQlNqTWxEcXdmWjctanBIek1ZR0wyVnhEbzdXSUtNQ1RtWVo5UVR3ZmhYTQ?oc=5\" target=\"_blank\">Skretting says aquaculture's rate of alternative feed ingredient adoption 'not good enough'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 11158,
+      "story_id": 986,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWFaU0IxUkRCTWxsdnk2b3k1akxEQ1Q5bnFHUmtyZ3JDTmRFWHo4OEswLUszZDEwMTktOUJCSVJHQVJKUXNpTDdaYlAyZ29oUTh4cFlQU0lSczVOb0ZOWnN6a3R5VnczYURGRE11bmVSeU1NNkZhUTd4TjNWVEY3S2MzNGhMOVdXdm5mQnhFQ210cloxSHphdkZB?oc=5",
+      "title": "Skretting and Proteon to trial bacteriophages for aquaculture - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "published_at": "2021-01-29T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWFaU0IxUkRCTWxsdnk2b3k1akxEQ1Q5bnFHUmtyZ3JDTmRFWHo4OEswLUszZDEwMTktOUJCSVJHQVJKUXNpTDdaYlAyZ29oUTh4cFlQU0lSczVOb0ZOWnN6a3R5VnczYURGRE11bmVSeU1NNkZhUTd4TjNWVEY3S2MzNGhMOVdXdm5mQnhFQ210cloxSHphdkZB?oc=5\" target=\"_blank\">Skretting and Proteon to trial bacteriophages for aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 11159,
+      "story_id": 991,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTY3bURNVks5LWJ5bnkwcTBpVUhXeGpWdDloV2dtbTdPei1mQTNDTUlURWxueUJJYl8tLW1aMGhTQXg5d3BKZ2NmaGhxVkptOUNFSU5Da3R1b0xtVE1JZ3VMYkVMMW9kQTQ3eHU3STIxUktmSlIyVUxVNVYwSmR6UDlvQkthdU1IaFRRRmtJa2hkUWNJS3JGaWdzVmhFSVFyQjNqbE5WNzVnOG5ybTZEc2RWY2dJNkEyN0E?oc=5",
+      "title": "Skretting reinforces commitment to Chilean fishery improvement project - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "published_at": "2025-02-05T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVTY3bURNVks5LWJ5bnkwcTBpVUhXeGpWdDloV2dtbTdPei1mQTNDTUlURWxueUJJYl8tLW1aMGhTQXg5d3BKZ2NmaGhxVkptOUNFSU5Da3R1b0xtVE1JZ3VMYkVMMW9kQTQ3eHU3STIxUktmSlIyVUxVNVYwSmR6UDlvQkthdU1IaFRRRmtJa2hkUWNJS3JGaWdzVmhFSVFyQjNqbE5WNzVnOG5ybTZEc2RWY2dJNkEyN0E?oc=5\" target=\"_blank\">Skretting reinforces commitment to Chilean fishery improvement project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 11160,
+      "story_id": 988,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzVrRFg4UG93aXZ4TTZpVXZjbEc4NEtjdzFLcEctN0lLajU1NlU4M05oWXJ4YTAwWWxZaU1jdGd0VnFIWkFRU2lweVZxOUlYNHBtVzNtRV9rSFhtSXJmUk1IbEN6MmYtekFaallwa20tM1JlNklJN01SNWRIeDFzOFB6QWFUQnlxYkZLQnRxV0NIVzdLejRmaEdwMVdQd2FPeERxRkdn0gGmAUFVX3lxTE93NWtEWDhQb3dpdnhNNmlVdmNsRzg0S2N3MUtwRy03SUtqNTU2VTgzTmhZcnhhMDBZbFlpTWN0Z3RWcUhaQVFTaXB5VnE5SVg0cG1XM21FX2tIWG1JcmZSTUhsQ3oyZi16QVpqWXBrbS0zUmU2SUk3TVI1ZEh4MXM4UHpBYVRCeXFiRktCdHFXQ0hXN0t6NGZoR3AxV1B3YU94RHFGR2c?oc=5",
+      "title": "Skretting announces partnership with Icelandic land-based salmon farmer - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "published_at": "2024-04-22T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzVrRFg4UG93aXZ4TTZpVXZjbEc4NEtjdzFLcEctN0lLajU1NlU4M05oWXJ4YTAwWWxZaU1jdGd0VnFIWkFRU2lweVZxOUlYNHBtVzNtRV9rSFhtSXJmUk1IbEN6MmYtekFaallwa20tM1JlNklJN01SNWRIeDFzOFB6QWFUQnlxYkZLQnRxV0NIVzdLejRmaEdwMVdQd2FPeERxRkdn0gGmAUFVX3lxTE93NWtEWDhQb3dpdnhNNmlVdmNsRzg0S2N3MUtwRy03SUtqNTU2VTgzTmhZcnhhMDBZbFlpTWN0Z3RWcUhaQVFTaXB5VnE5SVg0cG1XM21FX2tIWG1JcmZSTUhsQ3oyZi16QVpqWXBrbS0zUmU2SUk3TVI1ZEh4MXM4UHpBYVRCeXFiRktCdHFXQ0hXN0t6NGZoR3AxV1B3YU94RHFGR2c?oc=5\" target=\"_blank\">Skretting announces partnership with Icelandic land-based salmon farmer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 11203,
+      "story_id": 994,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWRrMWpjeURnOHZsMFpXcUs0endHckFneTVBS0xJbTNTTDlKbk5TYTBHMzFXYTlrcUQzaDlFMzBlemJMeGE1bjkxZFctVmp2el82LUM1VHBRNkxNb19obks3bXJlLUFRSWg3eXdyelZsbXRWcU5FQlk0LXNsQ295cnQxaFRIVEE?oc=5",
+      "title": "Mowi inngår strategisk fôrpartnerskap med Skretting - Ytringen",
+      "source_name": "Ytringen",
+      "language": "no",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWRrMWpjeURnOHZsMFpXcUs0endHckFneTVBS0xJbTNTTDlKbk5TYTBHMzFXYTlrcUQzaDlFMzBlemJMeGE1bjkxZFctVmp2el82LUM1VHBRNkxNb19obks3bXJlLUFRSWg3eXdyelZsbXRWcU5FQlk0LXNsQ295cnQxaFRIVEE?oc=5\" target=\"_blank\">Mowi inngår strategisk fôrpartnerskap med Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ytringen</font>"
+    },
+    {
+      "id": 11246,
+      "story_id": 993,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFk4aFdNNXBNLWVGSkx1U1Q1SXY5eF83VHZGelJfRmhMMHluaG4ybktwWXFIVlpROHZKTnFyZGthRjJyeGtnbkhIY3dhNHdONWJLakNpeTlCdWwzSE5NYkt6dW5URHhFRktfcU50QkNPNFNRT0pkTUFpZ015YmlPemZWSDd6SmdGb1hfdGxLUDJ6YWM0ajVCeV81S3hFODVZT2VwTDdUOFd4LXNmcHVZ?oc=5",
+      "title": "Ingebrigtsen-saken: 24 dager i retten, mot tre dager for lignende saker - NRK",
+      "source_name": "NRK",
+      "language": "no",
+      "published_at": "2025-05-12T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFk4aFdNNXBNLWVGSkx1U1Q1SXY5eF83VHZGelJfRmhMMHluaG4ybktwWXFIVlpROHZKTnFyZGthRjJyeGtnbkhIY3dhNHdONWJLakNpeTlCdWwzSE5NYkt6dW5URHhFRktfcU50QkNPNFNRT0pkTUFpZ015YmlPemZWSDd6SmdGb1hfdGxLUDJ6YWM0ajVCeV81S3hFODVZT2VwTDdUOFd4LXNmcHVZ?oc=5\" target=\"_blank\">Ingebrigtsen-saken: 24 dager i retten, mot tre dager for lignende saker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NRK</font>"
+    },
+    {
+      "id": 11422,
+      "story_id": 985,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa0ZDbDhlSTJjaXVtWkp4Nl82b3FzTG02Qk5Td0o4QVJRZ0NncmVJSFdKS3FtWmd0cklVS2JFc09GdThiVHNOeXhhdTRHWXZlQTgySUhkMVJKZXNZRnZTWl9PWXZacmtjUlNaYjB5VHV0WHpkam0xcnNkaU81ZWZSS0tDN2s5THRWaUI2a0dJMC0zWlhoa3AwVXU4NkNXVmVaU1RUVlN6Vk1zSDFobC1fejFPQTRNUXNrNUl0cjd3VzhQSVhfeHc?oc=5",
+      "title": "Skretting ARC Pargua cierra el 2020 con 16 proyectos en ejecución - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "published_at": "2020-12-28T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOa0ZDbDhlSTJjaXVtWkp4Nl82b3FzTG02Qk5Td0o4QVJRZ0NncmVJSFdKS3FtWmd0cklVS2JFc09GdThiVHNOeXhhdTRHWXZlQTgySUhkMVJKZXNZRnZTWl9PWXZacmtjUlNaYjB5VHV0WHpkam0xcnNkaU81ZWZSS0tDN2s5THRWaUI2a0dJMC0zWlhoa3AwVXU4NkNXVmVaU1RUVlN6Vk1zSDFobC1fejFPQTRNUXNrNUl0cjd3VzhQSVhfeHc?oc=5\" target=\"_blank\">Skretting ARC Pargua cierra el 2020 con 16 proyectos en ejecución</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 11485,
+      "story_id": 982,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONGZneXhidXFWZjVxNmtFZ2hadTJYNjlETXF2QnFBaHBwRjFJazkxU0c0OEZGak16MVRqdnRXdGQ0bDk1WlZmYmh4MXJ6SXBXbEYzTVlVTVFyWlpKVWNkWFFjQWFMbkw1emVLZkdUUVo5RG96elZhLUg0aXRlLV9OZFI2WkVhZ9IBhgFBVV95cUxONGZneXhidXFWZjVxNmtFZ2hadTJYNjlETXF2QnFBaHBwRjFJazkxU0c0OEZGak16MVRqdnRXdGQ0bDk1WlZmYmh4MXJ6SXBXbEYzTVlVTVFyWlpKVWNkWFFjQWFMbkw1emVLZkdUUVo5RG96elZhLUg0aXRlLV9OZFI2WkVhZw?oc=5",
+      "title": "Former CEO of EWOS group to depart from Cargill - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "published_at": "2019-01-11T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONGZneXhidXFWZjVxNmtFZ2hadTJYNjlETXF2QnFBaHBwRjFJazkxU0c0OEZGak16MVRqdnRXdGQ0bDk1WlZmYmh4MXJ6SXBXbEYzTVlVTVFyWlpKVWNkWFFjQWFMbkw1emVLZkdUUVo5RG96elZhLUg0aXRlLV9OZFI2WkVhZ9IBhgFBVV95cUxONGZneXhidXFWZjVxNmtFZ2hadTJYNjlETXF2QnFBaHBwRjFJazkxU0c0OEZGak16MVRqdnRXdGQ0bDk1WlZmYmh4MXJ6SXBXbEYzTVlVTVFyWlpKVWNkWFFjQWFMbkw1emVLZkdUUVo5RG96elZhLUg0aXRlLV9OZFI2WkVhZw?oc=5\" target=\"_blank\">Former CEO of EWOS group to depart from Cargill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
     }
   ],
   "share_of_voice": {
@@ -37073,6 +37714,12 @@
         "week": "2014-W43",
         "BioMar": 0,
         "Cargill": 1,
+        "Skretting": 0
+      },
+      {
+        "week": "2014-W47",
+        "BioMar": 1,
+        "Cargill": 0,
         "Skretting": 0
       },
       {
@@ -37510,7 +38157,7 @@
       {
         "week": "2019-W02",
         "BioMar": 3,
-        "Cargill": 2,
+        "Cargill": 3,
         "Skretting": 0
       },
       {
@@ -37616,6 +38263,12 @@
         "Skretting": 0
       },
       {
+        "week": "2019-W48",
+        "BioMar": 1,
+        "Cargill": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2019-W51",
         "BioMar": 2,
         "Cargill": 3,
@@ -37641,6 +38294,12 @@
       },
       {
         "week": "2020-W07",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
+      },
+      {
+        "week": "2020-W08",
         "BioMar": 0,
         "Cargill": 0,
         "Skretting": 1
@@ -37742,6 +38401,12 @@
         "Skretting": 1
       },
       {
+        "week": "2020-W53",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2021-W01",
         "BioMar": 0,
         "Cargill": 1,
@@ -37763,7 +38428,7 @@
         "week": "2021-W04",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2021-W05",
@@ -38010,6 +38675,12 @@
         "BioMar": 1,
         "Cargill": 1,
         "Skretting": 0
+      },
+      {
+        "week": "2022-W16",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
       },
       {
         "week": "2022-W17",
@@ -38447,7 +39118,7 @@
         "week": "2024-W17",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2024-W18",
@@ -38465,7 +39136,7 @@
         "week": "2024-W20",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2024-W22",
@@ -38525,7 +39196,7 @@
         "week": "2024-W36",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W37",
@@ -38657,7 +39328,7 @@
         "week": "2025-W06",
         "BioMar": 1,
         "Cargill": 4,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2025-W07",
@@ -38705,7 +39376,7 @@
         "week": "2025-W14",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2025-W15",
@@ -38735,7 +39406,7 @@
         "week": "2025-W20",
         "BioMar": 1,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2025-W21",
@@ -38951,7 +39622,7 @@
         "week": "2026-W04",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2026-W05",
@@ -38997,7 +39668,7 @@
       },
       {
         "week": "2026-W12",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -39009,7 +39680,7 @@
       },
       {
         "week": "2026-W14",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -39021,7 +39692,7 @@
       },
       {
         "week": "2026-W16",
-        "BioMar": 11,
+        "BioMar": 12,
         "Cargill": 0,
         "Skretting": 2
       },
@@ -39033,7 +39704,7 @@
       },
       {
         "week": "2026-W18",
-        "BioMar": 46,
+        "BioMar": 48,
         "Cargill": 0,
         "Skretting": 4
       }
@@ -39041,15 +39712,15 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 477
+        "count": 484
       },
       {
         "company": "Cargill",
-        "count": 200
+        "count": 201
       },
       {
         "company": "Skretting",
-        "count": 365
+        "count": 376
       }
     ]
   }
