@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-04T08:06:08+00:00",
+  "generated_at": "2026-05-04T11:20:45+00:00",
   "stats": {
-    "mention_count": 1099,
-    "story_count": 1008,
-    "analyzed_count": 501,
+    "mention_count": 1103,
+    "story_count": 1012,
+    "analyzed_count": 503,
     "off_topic_mentions": 31,
     "off_topic_stories": 23
   },
@@ -134,6 +134,7 @@
     "Pattison Funeral Home",
     "Perishable News",
     "Portal Innova",
+    "PortalPortuario",
     "RA Stavanger",
     "Radio Nordkapp",
     "Rana Blad",
@@ -202,6 +203,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1034,
+      "headline": "BioMar celebra ventas récord y anuncia intención de abrirse a la Bolsa - Salmonexpert",
+      "story_summary": "BioMar announced record sales figures and indicated its intention to pursue a public listing on the stock exchange. The company's financial performance and strategic growth plans are the focus of the coverage from Salmonexpert's Spanish-language outlet.",
+      "first_seen": "2026-05-04T09:40:00+00:00",
+      "last_seen": "2026-05-04T09:40:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 886,
       "headline": "Topplinjen falt, men marginene styrket seg i Q1 for BioMar - iLaks",
@@ -823,6 +838,20 @@
       "id": 819,
       "headline": "Matbutikkene selger fortsatt Salmar-laks med russisk fôr - E24",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNb3lfZDdxU0g2VWVjZUkzcUpVaUYwYUEweGRZZC00dF9CVGhDZlhqWnZ5NjRJQ204VHhfZmxlQVdOOWdiVWcxOGtvNWkxWUdWZU5yeThhU0ViWjFrZVFVMkd2Y0hVaktsTFFsQWIxY2ZTUDIzSkgxWDdDNnNrZHptN05TcTgxR2dIYlBSN1VWdEQ0MW5Oa0ctcEdmSQ?oc=5\" target=\"_blank\">Matbutikkene selger fortsatt Salmar-laks med russisk fôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E24</font>",
+      "first_seen": "2026-04-20T07:00:00+00:00",
+      "last_seen": "2026-04-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1033,
+      "headline": "Russiske råvarer og etiske krumspring - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HRGtsSmRqQ3BoOHVabE5MX0xUYThmVm1mRnlQdGg4OEQ5cGVXbzQxMVhGOGVITzRqdl9kT3pnWUhLS1g1SW9EdUxGVmI4UGNiNFNOMUZnUXlQdzNOZkVETzRhcjFCUQ?oc=5\" target=\"_blank\">Russiske råvarer og etiske krumspring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
       "first_seen": "2026-04-20T07:00:00+00:00",
       "last_seen": "2026-04-20T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -9298,6 +9327,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1032,
+      "headline": "Skretting-pic tasports hobart - PortalPortuario",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVhQTlFmMUpYQ05ha0s5S0NqektfZng3S0ZyLS1ZMGhoSUpIeWxOaDZKR2VJUlBKWnhVUm15aEhsMVgtcno1bnNJaWlpTUlENmczbjFkdDA2MkhsUjNCTHI1MDFiVW8wUWJrOGZPWmpocGtxNUJoNy1iWVBCdEtWcG9QdXVOMjFIbWJoSmdoQmprWlhUT2hKUkMwS3U2cGMwdE5mYVZwMXh0cm82dEFxbi1MRWZOdUV3NHVxQ3ppVQ?oc=5\" target=\"_blank\">Skretting-pic tasports hobart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PortalPortuario</font>",
+      "first_seen": "2023-05-21T18:28:32+00:00",
+      "last_seen": "2023-05-21T18:28:32+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 89,
       "headline": "'Why did I move my wife and kids half way around the world?' BioMar CEO on mountains, marathons and home on the road - intrafish.com",
       "story_summary": "IntraFish publishes a profile of BioMar CEO Carlos Diaz discussing his personal life, including his decision to relocate his family internationally. The article appears to cover his lifestyle interests such as mountains, marathons, and life on the road in his executive role.",
@@ -12660,6 +12703,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1031,
+      "headline": "Ny leder for marketing i Biomar - Kyst.no",
+      "story_summary": "BioMar has appointed a new leader for its marketing department. The announcement was made on Kyst.no, a Norwegian aquaculture industry news outlet.",
+      "first_seen": "2017-12-19T08:00:00+00:00",
+      "last_seen": "2017-12-19T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 438,
@@ -38891,6 +38948,96 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEJoV3dyX1d3S2ZXNDVpVG5CWHAwN2RKZW12dTZMTVV6a01XczZTaFYydDZBNnpuRWtSN0ZraDRSTk9BRDY2MmFvWS02NnZzeDhyeklKNXBvNjA4SUh0Q3VtN2N3aEFiNlR6Z0pfakllTWVyV3ZVVC1xQkc3MnpfMWJrRlFRRU1JZkNjSC1n?oc=5\" target=\"_blank\">Norwegian aquaculture company EWOS sold for 1.35 billion euros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scandasia</font>"
+    },
+    {
+      "id": 16467,
+      "story_id": 1031,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWdtS1g5TkwxXzN5VGp2MTFSYVc5NXJrN0lRRUVhU3JUclN4bHZkVU1CaWpzclp6TEFoUEx4d2RZdlVJTW82UGF4dFItekhsbHNzc0xwWnRscEdNeHZ3TjhYSDZadzB6SDBVVWdyTjRvU1d0Vlpma2JPXzNyLXZ0QnJHRW5WT2VTNEpJNExXNUgwb0FkYWptb2wxVGhhMHJPckp3?oc=5",
+      "title": "Ny leder for marketing i Biomar - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "published_at": "2017-12-19T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "BioMar appoints new marketing leader",
+      "key_claims": [
+        "BioMar appointed a new leader for marketing"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has appointed a new leader for its marketing department. The announcement was made on Kyst.no, a Norwegian aquaculture industry news outlet."
+    },
+    {
+      "id": 16568,
+      "story_id": 1034,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWRWTHN2RkgwWTNuM0pKRFRyUThJRVVhbE82Z2NuNExDc1NodEZfVHRoQTg4SGE3OWYyb2FKZHRIc0FZZ1U1cHNrRlhadE1GUENIaFFJeDkyYWh6V0NhMWQ2X2szanVyazN0cWFITmNSd0lCUnl5SDdfdTR2aFVOand6ZWZSMHc4SVN6bDVucnliOTNIZGMxUnpTWTR6MkFydzAxM2JGSzVUVlZ5VjJodnlwY1M1R2VoNkJvbGJZMUZtSFFIcURJczRR?oc=5",
+      "title": "BioMar celebra ventas récord y anuncia intención de abrirse a la Bolsa - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "published_at": "2026-05-04T09:40:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports record sales and signals IPO ambitions",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar announced record sales figures and indicated its intention to pursue a public listing on the stock exchange. The company's financial performance and strategic growth plans are the focus of the coverage from Salmonexpert's Spanish-language outlet."
+    },
+    {
+      "id": 17016,
+      "story_id": 1033,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HRGtsSmRqQ3BoOHVabE5MX0xUYThmVm1mRnlQdGg4OEQ5cGVXbzQxMVhGOGVITzRqdl9kT3pnWUhLS1g1SW9EdUxGVmI4UGNiNFNOMUZnUXlQdzNOZkVETzRhcjFCUQ?oc=5",
+      "title": "Russiske råvarer og etiske krumspring - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "published_at": "2026-04-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HRGtsSmRqQ3BoOHVabE5MX0xUYThmVm1mRnlQdGg4OEQ5cGVXbzQxMVhGOGVITzRqdl9kT3pnWUhLS1g1SW9EdUxGVmI4UGNiNFNOMUZnUXlQdzNOZkVETzRhcjFCUQ?oc=5\" target=\"_blank\">Russiske råvarer og etiske krumspring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 17299,
+      "story_id": 1032,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVhQTlFmMUpYQ05ha0s5S0NqektfZng3S0ZyLS1ZMGhoSUpIeWxOaDZKR2VJUlBKWnhVUm15aEhsMVgtcno1bnNJaWlpTUlENmczbjFkdDA2MkhsUjNCTHI1MDFiVW8wUWJrOGZPWmpocGtxNUJoNy1iWVBCdEtWcG9QdXVOMjFIbWJoSmdoQmprWlhUT2hKUkMwS3U2cGMwdE5mYVZwMXh0cm82dEFxbi1MRWZOdUV3NHVxQ3ppVQ?oc=5",
+      "title": "Skretting-pic tasports hobart - PortalPortuario",
+      "source_name": "PortalPortuario",
+      "language": "es",
+      "published_at": "2023-05-21T18:28:32+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVhQTlFmMUpYQ05ha0s5S0NqektfZng3S0ZyLS1ZMGhoSUpIeWxOaDZKR2VJUlBKWnhVUm15aEhsMVgtcno1bnNJaWlpTUlENmczbjFkdDA2MkhsUjNCTHI1MDFiVW8wUWJrOGZPWmpocGtxNUJoNy1iWVBCdEtWcG9QdXVOMjFIbWJoSmdoQmprWlhUT2hKUkMwS3U2cGMwdE5mYVZwMXh0cm82dEFxbi1MRWZOdUV3NHVxQ3ppVQ?oc=5\" target=\"_blank\">Skretting-pic tasports hobart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PortalPortuario</font>"
     }
   ],
   "share_of_voice": {
@@ -39414,6 +39561,12 @@
         "week": "2017-W50",
         "BioMar": 0,
         "Cargill": 1,
+        "Skretting": 0
+      },
+      {
+        "week": "2017-W51",
+        "BioMar": 1,
+        "Cargill": 0,
         "Skretting": 0
       },
       {
@@ -40302,7 +40455,7 @@
         "week": "2023-W20",
         "BioMar": 1,
         "Cargill": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2023-W21",
@@ -41094,19 +41247,25 @@
         "week": "2026-W17",
         "BioMar": 4,
         "Cargill": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2026-W18",
         "BioMar": 49,
         "Cargill": 0,
         "Skretting": 4
+      },
+      {
+        "week": "2026-W19",
+        "BioMar": 1,
+        "Cargill": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 501
+        "count": 503
       },
       {
         "company": "Cargill",
@@ -41114,7 +41273,7 @@
       },
       {
         "company": "Skretting",
-        "count": 395
+        "count": 397
       }
     ]
   }
