@@ -291,13 +291,13 @@ export default function Page() {
   };
 
   return (
-    <main className="max-w-7xl mx-auto p-6 space-y-6">
+    <main className="max-w-7xl mx-auto px-4 py-5 sm:p-6 space-y-5 sm:space-y-6">
       <header className="border-b border-slate-200 pb-5">
-        <div className="flex items-start justify-between gap-6">
-          <div className="flex-1">
+        <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 sm:gap-6">
+          <div className="flex-1 min-w-0">
             <div className="flex items-center gap-3">
-              <span className="inline-block w-1.5 h-7 rounded bg-[#0471ad]" />
-              <h1 className="text-3xl font-bold tracking-tight text-slate-900">BioMar coverage</h1>
+              <span className="inline-block w-1.5 h-7 rounded bg-[#0471ad] shrink-0" />
+              <h1 className="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900">BioMar coverage</h1>
             </div>
             <p className="text-sm text-slate-600 mt-2">
               {IS_MOCK
@@ -319,7 +319,7 @@ export default function Page() {
               .
             </p>
           </div>
-          <div className="text-[10px] uppercase tracking-widest text-slate-400 pt-1 shrink-0">mediatracker</div>
+          <div className="text-[10px] uppercase tracking-widest text-slate-400 pt-1 shrink-0 hidden sm:block">mediatracker</div>
         </div>
       </header>
 
@@ -421,14 +421,19 @@ export default function Page() {
             </select>
           </FilterBox>
         </div>
-        <label className="flex items-center gap-2 mt-3 text-xs text-slate-600 cursor-pointer select-none">
+        <label className="flex items-start sm:items-center gap-2 mt-3 text-xs text-slate-600 cursor-pointer select-none">
           <input
             type="checkbox"
-            className="rounded border-slate-300"
+            className="rounded border-slate-300 mt-0.5 sm:mt-0 shrink-0"
             checked={showOffTopic}
             onChange={(e) => setShowOffTopic(e.target.checked)}
           />
-          Include off-topic mentions (different companies sharing the &ldquo;Biomar&rdquo; name — Biomar Labs auto badges, Spanish hydrocarbons company, etc.)
+          <span>
+            Include off-topic mentions{" "}
+            <span className="text-slate-400">
+              (other companies sharing the &ldquo;Biomar&rdquo; name)
+            </span>
+          </span>
         </label>
       </section>
 
@@ -495,7 +500,8 @@ export default function Page() {
             </select>
           </div>
         </div>
-        <table className="w-full text-sm table-fixed">
+        <div className="overflow-x-auto">
+        <table className="w-full text-sm table-fixed min-w-[640px]">
           <colgroup>
             <col />
             <col className="w-24" />
@@ -531,6 +537,7 @@ export default function Page() {
             )}
           </tbody>
         </table>
+        </div>
       </section>
 
       <footer className="text-xs text-slate-400 pt-2">
