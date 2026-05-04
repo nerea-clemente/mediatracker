@@ -111,10 +111,10 @@ function StoryRow({ story, mentions, expanded, onToggle }: {
 }) {
   return (
     <>
-      <tr className="border-t border-slate-200 hover:bg-slate-50 cursor-pointer" onClick={onToggle}>
+      <tr className="border-t border-slate-100 hover:bg-slate-50/70 cursor-pointer transition-colors" onClick={onToggle}>
         <td className="px-3 py-3 align-top">
           <div className="flex items-start gap-2 min-w-0">
-            <span className="text-slate-400 text-xs w-3 mt-0.5 shrink-0">{expanded ? "▾" : "▸"}</span>
+            <span className={`text-xs w-3 mt-0.5 shrink-0 transition-colors ${expanded ? "text-[#0471ad]" : "text-slate-400"}`}>{expanded ? "▾" : "▸"}</span>
             <div className="min-w-0 flex-1">
               <div className="font-medium text-slate-900 line-clamp-2">{story.headline}</div>
               <div className="text-xs text-slate-500 mt-0.5 line-clamp-1">{story.story_summary}</div>
@@ -292,31 +292,58 @@ export default function Page() {
 
   return (
     <main className="max-w-7xl mx-auto p-6 space-y-6">
-      <header className="flex items-end justify-between">
-        <div>
-          <h1 className="text-2xl font-bold text-slate-900">BioMar coverage</h1>
-          <p className="text-sm text-slate-500 mt-1">
-            {IS_MOCK
-              ? "Mock data · the scheduled refresh hasn't run yet."
-              : GENERATED_AT
-              ? `Last refreshed ${new Date(GENERATED_AT).toLocaleString()} (UTC build).`
-              : "Live data."}
-            {" "}
-            {filteredMentions.length} mentions in view across {filteredStories.length} stories.
-          </p>
-          <p className="text-xs text-slate-500 mt-2 italic max-w-2xl">
-            Pilot / test version. Coverage refreshes four times daily Danish time
-            (07:30, 11:30, 18:00, 00:00). Hard-paywalled Danish business outlets
-            (Børsen, Finans.dk, Berlingske premium) are not indexed by Google
-            News and are <span className="not-italic font-semibold">not</span> covered by this build. Questions or feedback?{" "}
-            <a href="mailto:nerpa@biomar.com" className="text-sky-700 hover:underline not-italic">
-              nerpa@biomar.com
-            </a>
-            .
-          </p>
+      <header className="border-b border-slate-200 pb-5">
+        <div className="flex items-start justify-between gap-6">
+          <div className="flex-1">
+            <div className="flex items-center gap-3">
+              <span className="inline-block w-1.5 h-7 rounded bg-[#0471ad]" />
+              <h1 className="text-3xl font-bold tracking-tight text-slate-900">BioMar coverage</h1>
+            </div>
+            <p className="text-sm text-slate-600 mt-2">
+              {IS_MOCK
+                ? "Mock data · the scheduled refresh hasn't run yet."
+                : GENERATED_AT
+                ? `Last refreshed ${new Date(GENERATED_AT).toLocaleString()} (UTC build).`
+                : "Live data."}
+              {" "}
+              <span className="text-slate-400">·</span> {filteredMentions.length} mentions in view across {filteredStories.length} stories.
+            </p>
+            <p className="text-xs text-slate-500 mt-3 italic max-w-3xl leading-relaxed">
+              Pilot / test version. Coverage refreshes four times daily Danish time
+              (07:30, 11:30, 18:00, 00:00). Hard-paywalled Danish business outlets
+              (Børsen, Finans.dk, Berlingske premium) are not indexed by Google
+              News and are <span className="not-italic font-semibold">not</span> covered by this build. Questions or feedback?{" "}
+              <a href="mailto:nerpa@biomar.com" className="text-[#0471ad] hover:underline not-italic font-medium">
+                nerpa@biomar.com
+              </a>
+              .
+            </p>
+          </div>
+          <div className="text-[10px] uppercase tracking-widest text-slate-400 pt-1 shrink-0">mediatracker</div>
         </div>
-        <div className="text-xs text-slate-400">mediatracker</div>
       </header>
+
+      {/* Stat cards — at-a-glance numbers respecting current filters. */}
+      <section className="grid grid-cols-2 lg:grid-cols-4 gap-3">
+        <StatCard label="Mentions" value={filteredMentions.length} hint="in current view" />
+        <StatCard label="Stories" value={filteredStories.length} hint="after clustering" />
+        <StatCard
+          label="% positive"
+          value={(() => {
+            const an = filteredMentions.filter((m) => m.sentiment_confidence > 0);
+            if (!an.length) return "—";
+            const pos = an.filter((m) => m.sentiment === "positive").length;
+            return `${Math.round((pos / an.length) * 100)}%`;
+          })()}
+          hint={`of ${filteredMentions.filter((m) => m.sentiment_confidence > 0).length} analyzed`}
+        />
+        <StatCard
+          label="Risk-flagged · 7d"
+          value={riskStoriesLast7d.length}
+          hint="stories with any non-none flag"
+          accent={riskStoriesLast7d.length > 0 ? "amber" : undefined}
+        />
+      </section>
 
       {IS_MOCK && (
         <div className="rounded-lg border border-sky-300 bg-sky-50 px-4 py-3 text-sm text-sky-900">
@@ -476,7 +503,7 @@ export default function Page() {
             <col className="w-16" />
             <col className="w-24" />
           </colgroup>
-          <thead className="bg-slate-50 text-xs uppercase tracking-wide text-slate-500">
+          <thead className="bg-slate-50/60 text-[11px] uppercase tracking-wider text-slate-500">
             <tr>
               <th className="px-3 py-2 text-left">Headline</th>
               <th className="px-3 py-2 text-left">Sentiment</th>
@@ -515,6 +542,32 @@ export default function Page() {
   );
 }
 
+function StatCard({
+  label,
+  value,
+  hint,
+  accent,
+}: {
+  label: string;
+  value: number | string;
+  hint?: string;
+  accent?: "amber";
+}) {
+  const accentClasses =
+    accent === "amber"
+      ? "border-amber-300 bg-amber-50"
+      : "border-slate-200 bg-white";
+  const valueClass =
+    accent === "amber" ? "text-amber-900" : "text-slate-900";
+  return (
+    <div className={`rounded-lg border ${accentClasses} px-4 py-3`}>
+      <div className="text-[11px] font-semibold uppercase tracking-wider text-slate-500">{label}</div>
+      <div className={`text-2xl font-bold tabular-nums mt-1 ${valueClass}`}>{value}</div>
+      {hint && <div className="text-[11px] text-slate-400 mt-0.5">{hint}</div>}
+    </div>
+  );
+}
+
 function FilterBox({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <label className="block">
@@ -526,10 +579,10 @@ function FilterBox({ label, children }: { label: string; children: React.ReactNo
 
 function ChartCard({ title, subtitle, children }: { title: string; subtitle?: string; children: React.ReactNode }) {
   return (
-    <div className="rounded-lg border border-slate-200 bg-white p-4">
-      <div className="mb-2">
-        <div className="font-semibold text-slate-900">{title}</div>
-        {subtitle && <div className="text-xs text-slate-500">{subtitle}</div>}
+    <div className="rounded-lg border border-slate-200 bg-white p-4 hover:border-slate-300 transition-colors">
+      <div className="mb-3">
+        <div className="text-sm font-semibold text-slate-900">{title}</div>
+        {subtitle && <div className="text-xs text-slate-500 mt-0.5">{subtitle}</div>}
       </div>
       {children}
     </div>

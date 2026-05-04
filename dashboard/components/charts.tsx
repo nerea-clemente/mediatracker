@@ -22,9 +22,11 @@ import { COMPANY_COLORS } from "@/lib/data";
 
 const SENT_COLORS = {
   positive: "#16a34a",
-  neutral: "#6b7280",
+  neutral: "#94a3b8",
   negative: "#dc2626",
 } as const;
+
+const PRIMARY = "#0471ad";  // BioMar brand blue
 
 export function VolumeChart({ mentions }: { mentions: Mention[] }) {
   // Bucket by ISO date.
@@ -48,7 +50,7 @@ export function VolumeChart({ mentions }: { mentions: Mention[] }) {
           <Line
             type="monotone"
             dataKey="count"
-            stroke="#0ea5e9"
+            stroke={PRIMARY}
             strokeWidth={2}
             dot={{ r: 3 }}
           />
@@ -113,9 +115,9 @@ export function TopOutletsChart({ mentions }: { mentions: Mention[] }) {
           <XAxis type="number" allowDecimals={false} tick={{ fontSize: 11 }} />
           <YAxis dataKey="name" type="category" width={130} tick={{ fontSize: 11 }} />
           <Tooltip />
-          <Bar dataKey="count" fill="#0ea5e9">
+          <Bar dataKey="count" fill={PRIMARY}>
             {data.map((_, i) => (
-              <Cell key={i} fill="#0ea5e9" />
+              <Cell key={i} fill={PRIMARY} />
             ))}
           </Bar>
         </BarChart>

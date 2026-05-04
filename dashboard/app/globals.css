@@ -4,16 +4,31 @@
 
 html, body { height: 100%; }
 body {
-  background: #f8fafc;
+  background:
+    radial-gradient(ellipse at top left, rgba(4, 113, 173, 0.04) 0%, transparent 60%),
+    #f6f8fb;
   color: #0f172a;
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .filter-select {
   width: 100%;
   border: 1px solid #e2e8f0;
   border-radius: 6px;
-  padding: 6px 8px;
+  padding: 6px 10px;
   font-size: 13px;
   background: white;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.filter-select:hover {
+  border-color: #cbd5e1;
+}
+
+.filter-select:focus {
+  outline: none;
+  border-color: #0471ad;
+  box-shadow: 0 0 0 3px rgba(4, 113, 173, 0.12);
 }
