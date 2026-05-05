@@ -107,6 +107,10 @@ _DOMAIN_LANGUAGE_MAP: list[tuple[str, str]] = [
     ("nrk.no",                 "no"),
     ("aftenposten.no",         "no"),
     ("vol.no",                 "no"),
+    # Norwegian outlets that use .com / .no-irregular domains
+    ("kampanje.com",           "no"),
+    ("maritimt.com",           "no"),  # Maritimt Magasin
+    ("seafoodnorway.com",      "no"),
     (".no",                    "no"),  # last-resort .no fallback
     # Danish
     ("borsen.dk",              "da"),

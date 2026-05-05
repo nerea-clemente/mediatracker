@@ -29,7 +29,12 @@ log = logging.getLogger("mediatracker.analyzer")
 
 MODEL = "claude-haiku-4-5"
 PURPOSE = "analysis"
-MAX_TOKENS = 1024
+# Long articles with many key_claims + people_quoted + risk_flags can
+# push the structured-JSON output past 1024 tokens, leading to mid-string
+# truncation ("Invalid JSON: EOF while parsing a string"). 2048 has more
+# than enough headroom for the schema; cost impact is per-call (output
+# tokens are billed for what's actually generated, not the cap).
+MAX_TOKENS = 2048
 
 
 from ..feeds import BIOMAR_KEYWORDS
