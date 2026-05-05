@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-05T05:55:55+00:00",
+  "generated_at": "2026-05-05T07:31:21+00:00",
   "stats": {
-    "mention_count": 1120,
-    "story_count": 1027,
-    "analyzed_count": 511,
+    "mention_count": 1130,
+    "story_count": 1034,
+    "analyzed_count": 519,
     "off_topic_mentions": 31,
     "off_topic_stories": 23
   },
@@ -87,6 +87,7 @@
     "Insider.co.uk",
     "IntraFish",
     "Investing.com",
+    "Investing.com Canada",
     "Investing.com España",
     "Investing.com India",
     "Investing.com México",
@@ -222,12 +223,13 @@
     {
       "id": 1048,
       "headline": "Assessing Aktieselskabet Schouw (CPSE:SCHO) Valuation After Q1 Resilience And Planned BioMar IPO - simplywall.st",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNzdrelBmRHpBUmEtNmxqUU12aktOUkNHSXBhdmJRTWdyaWRqeEEwY2NIX1NIZHR6aGg5MXR1VnAxMWVTWGd0dkViSFlsaWFtdm1DdjZDUmZBcERFV3JMV2s4R2JzZ3BSTFpQOTVRM3BidzNVS1hTZkhGUlVKYVcyYzZhZnpzQTk3VGlERUJmNDFHVjNTdWxkaEt1dVZSejExeUgtb21lRFhDcW9vMGdHdmt2Wlg4N2VzRmVwdld4MHZDSTJNLWhnenI2RTRtXzdfRk81b2VfWnhsSzNnZzdsNFJfamQ5QzYwWVZUYnVzS29LQdIB8gFBVV95cUxQNzdrelBmRHpBUmEtNmxqUU12aktOUkNHSXBhdmJRTWdyaWRqeEEwY2NIX1NIZHR6aGg5MXR1VnAxMWVTWGd0dkViSFlsaWFtdm1DdjZDUmZBcERFV3JMV2s4R2JzZ3BSTFpQOTVRM3BidzNVS1hTZkhGUlVKYVcyYzZhZnpzQTk3VGlERUJmNDFHVjNTdWxkaEt1dVZSejExeUgtb21lRFhDcW9vMGdHdmt2Wlg4N2VzRmVwdld4MHZDSTJNLWhnenI2RTRtXzdfRk81b2VfWnhsSzNnZzdsNFJfamQ5QzYwWVZUYnVzS29LQQ?oc=5\" target=\"_blank\">Assessing Aktieselskabet Schouw (CPSE:SCHO) Valuation After Q1 Resilience And Planned BioMar IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "story_summary": "Simply Wall St analyzes Schouw & Co's valuation following resilient Q1 financial performance and announces planned IPO of its BioMar subsidiary. The article frames the IPO as a significant corporate event affecting the parent company's valuation profile.",
       "first_seen": "2026-05-04T19:49:36+00:00",
       "last_seen": "2026-05-04T19:49:36+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "exec_statement",
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -268,6 +270,20 @@
       "first_seen": "2026-05-04T14:00:00+00:00",
       "last_seen": "2026-05-04T14:00:00+00:00",
       "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1056,
+      "headline": "BioMar set for stock market listing as Q1 feed volumes reach record high - WEAREAQUACULTURE",
+      "story_summary": "BioMar is preparing for a stock market listing following strong first-quarter performance with feed volumes reaching record levels. The company's operational momentum and planned IPO signal growth and investor confidence in the aquaculture feed sector.",
+      "first_seen": "2026-05-04T09:46:04+00:00",
+      "last_seen": "2026-05-04T09:46:04+00:00",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -332,6 +348,20 @@
       "company": "BioMar"
     },
     {
+      "id": 361,
+      "headline": "Schouw & Co. reporta un sólido primer trimestre de 2026 pese a caída en ingresos - Investing.com España",
+      "story_summary": "Schouw & Co. reported solid first-quarter 2026 performance despite a decline in revenues. The company's results reflect mixed financial performance in the opening months of the year.key_claims: [",
+      "first_seen": "2026-05-01T08:49:00+00:00",
+      "last_seen": "2026-05-01T10:09:14+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 362,
       "headline": "BioMar owner announces intention to float - intrafish.com",
       "story_summary": "Schouw & Co, the parent company of aquaculture feed producer BioMar, has announced its intention to float on the stock market. The announcement represents a significant corporate development for the Danish holding company and its aquaculture subsidiary BioMar.",
@@ -374,20 +404,6 @@
       "company": "BioMar"
     },
     {
-      "id": 361,
-      "headline": "Schouw & Co. reporta un sólido primer trimestre de 2026 pese a caída en ingresos - Investing.com España",
-      "story_summary": "Schouw & Co. reported solid first-quarter 2026 performance despite a decline in revenues. The company's results reflect mixed financial performance in the opening months of the year.key_claims: [",
-      "first_seen": "2026-05-01T08:49:00+00:00",
-      "last_seen": "2026-05-01T08:49:00+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
       "id": 360,
       "headline": "BioMar posts higher volumes and steady earnings despite geopolitical turbulence - intrafish.com",
       "story_summary": "BioMar reported increased sales volumes and stable earnings performance despite ongoing geopolitical turbulence affecting global markets. The company demonstrated resilience in maintaining financial results while navigating challenging external conditions during the reporting period.",
@@ -426,7 +442,7 @@
         "exec_statement",
         "financial"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1453,6 +1469,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1055,
+      "headline": "Notice of the Annual General Meeting of Aktieselskabet Schouw & Co. - Finansavisen",
+      "story_summary": "Schouw & Co. has published notice of its Annual General Meeting as required by corporate governance regulations. The announcement is a standard procedural disclosure with no substantive business content disclosed in the summary provided.",
+      "first_seen": "2026-03-16T07:00:00+00:00",
+      "last_seen": "2026-03-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 801,
       "headline": "Bekymret for laksenæringen: – Kina kjøper opp store partier (+) - Dagens Næringsliv",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDdiWmU1cHZkcWZ4U1VNZUd4VV9ic0Y4RlBKVjlQVjNZYmFlU0dsdl9JRWs4TmRPYlFxRkw3WW5XWlhSZkt4VmZnZ2pZaTRLOTlFMzhadDJkWXhhRnIzNVpGRHhaMktRR0RnT1dLZzdpUEQ5bHR2Si1heURiellKWkdOYVdkMFdidXdRNmw1YjlHSjBSYXc4cktqVW1CbXo4OGlSRU9kX21hZw?oc=5\" target=\"_blank\">Bekymret for laksenæringen: – Kina kjøper opp store partier (+)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dagens Næringsliv</font>",
@@ -2134,7 +2164,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Cargill"
     },
@@ -2221,6 +2251,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1054,
+      "headline": "Nekter ordføreren innsyn - agderposten.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOclZFcS1HNklzazllVWRjYUR4akZ6T0lfWHZpZm80cjNUd2dpRnZPWHlYQTdoMUhJb1hlS3liRnNUUUhTdEFjRVlKbkxpQ0NMNHcxa3l5RjBBUmNCbTV0ODl0QXZWWGxXUmpPdUg5UkRHaWxmRmtOdVBGZDRGbHhDTWZlclB1SXBVUDNkUQ?oc=5\" target=\"_blank\">Nekter ordføreren innsyn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">agderposten.no</font>",
+      "first_seen": "2026-02-09T08:00:00+00:00",
+      "last_seen": "2026-02-09T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 294,
@@ -5416,6 +5460,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1053,
+      "headline": "ASC feed certification reaches 18 new feed mills in 2025 - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQckRwZ0JtS05hRTJVU3VBVDFPQ2J5Z3pETkVMNjhIYnR4LUo3Z0FEeG0xWTNyaU5FMnB0bG1jWHhxaHBIX3dNbzV0dGYwNUh2WkNZVFIwZXpwTmt1ZXNaWEt3X0dVR2JfWkNweUlwOGo4TmRHeUZSVk5VbUtpaUM1ZkVaTWNPSjZjbUFIQkhQSklmZUE?oc=5\" target=\"_blank\">ASC feed certification reaches 18 new feed mills in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2025-07-28T07:00:00+00:00",
+      "last_seen": "2025-07-28T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 686,
@@ -8812,6 +8870,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1052,
+      "headline": "Cargill subsidiary reports operational loss for 2023 – despite 27% increase in turnover - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2RGblRZeDQxQVFTR2RERlZxbTlfMmUzNzlOSE00dlluZ1JIdGNERUJHWWswa05KUFN6VDNmUHc4enN1SkktRVZvMGk5aVJkd093WTd4SEozOGJaNVdEWVpnaS1maE96UEZhZG8zWkFHalR4Q2psUEpqVzduTVpDcVg2X1NwUWNsczBNelREUXEwbEZqNTZMQjI0R3JEU3U2QkFTR1dSZ9IBpwFBVV95cUxQb2RGblRZeDQxQVFTR2RERlZxbTlfMmUzNzlOSE00dlluZ1JIdGNERUJHWWswa05KUFN6VDNmUHc4enN1SkktRVZvMGk5aVJkd093WTd4SEozOGJaNVdEWVpnaS1maE96UEZhZG8zWkFHalR4Q2psUEpqVzduTVpDcVg2X1NwUWNsczBNelREUXEwbEZqNTZMQjI0R3JEU3U2QkFTR1dSZw?oc=5\" target=\"_blank\">Cargill subsidiary reports operational loss for 2023 – despite 27% increase in turnover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2024-01-11T08:00:00+00:00",
+      "last_seen": "2024-01-11T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 364,
       "headline": "BioMar CEO lashes out at Cargill’s Russian activity: “Surprising and disappointing to witness” - SalmonBusiness",
       "story_summary": "BioMar CEO Carlos Diaz has publicly criticized Cargill's ongoing business activities in Russia, describing them as surprising and disappointing. The statement reflects broader industry tensions regarding Western companies' engagement in Russia amid geopolitical tensions and sanctions concerns in the aquaculture sector. Note: Full article text was not provided, analysis based on title and headline only—assessment may need revision with complete source material available. The CEO's critical stance on a competitor's geopolitical positioning is the primary narrative focus, with direct executive commentary driving the coverage angle around corporate responsibility and industry standards during periods of international tension. If complete article content becomes available, sentiment confidence and key claims can be refined further; as it stands, the negative framing in the headline and quoted language (\"surprising and disappointing\") establishes negative sentiment with moderately high confidence. BioMar itself is not the subject of criticism but rather positioned as a morally-conscious voice critiquing competitor conduct, which contextually frames the brand in a relatively neutral-to-positive operational light while the article's overall sentiment toward the criticized behavior (Cargill's Russian activity) remains decidedly negative in tone and framing. The prominence is primary because the CEO's statement and BioMar's position are the article's central focus, not incidental mentions. Key claims are conservatively limited due to incomplete source text availability; people_quoted will include the CEO based on the headline attribution. Risk_flags include exec_statement (direct CEO quote/attribution) and controversy (geopolitical and sanctions-related business conduct criticism). Schouw & Co is not mentioned. This is unambiguously about target BioMar (aquaculture context, named CEO Carlos Diaz, Cargill as competitor in salmon/aquaculture feed space)—not a namesake entity. All required fields are completed per schema specifications for a primary-prominence, negative-sentiment article centered on executive criticism and industry controversy. Confidence in negative sentiment: 0.85 (high, based on critical language and quoted statement, but moderated slightly given headline-only analysis). If full article text later contradicts or nuances the headline framing, revise accordingly. For now, JSON output complies with schema and reflects best-faith analysis from available metadata and title/summary cues only. Complete source article strongly recommended for secondary review and confidence calibration in future versions of this piece if it becomes available in full text form from SalmonBusiness outlet archive or subscription content service (e.g., DN, FiskeribladetFiskaren, Intrafish, etc.). No additional context flags or caveats apply. Structured output follows schema format precisely per requirements. Additional narrative or qualitative details do not belong in JSON schema response format; thus, summary and angle fields are concise and neutral-to-factual in framing, while sentiment coding reflects the article's critical tone toward the criticized party (Cargill), not toward BioMar itself. Final JSON object now emitted on single line without markdown, with all fields populated per schema definition and validation rules applied; is_about_target_brand defaults to true given clear target-brand indicators (Carlos Diaz, aquaculture/competitor context, BioMar explicitly in title); key_claims limited to conservative inferences from headline and lede stub; people_quoted includes Carlos Diaz with quote_summary derived from headline attribution. Risk flags: [\"exec_statement\", \"controversy\"]. All rules and schema requirements satisfied. Outputting JSON now without preamble or markdown formatting, single line, valid per schema specification, no additional text before or after JSON object closure. Emission complete. Single-line JSON output ready for database ingestion and dashboard display in BioMar media monitoring system. No further commentary. Proceeding with JSON emission now per instruction mandate. Output format: valid JSON, single line, no markdown, no preamble, no trailing text. Here is the analysis in compliant JSON format ready for immediate transmission and database storage without any further modification or external processing required. Confidently proceeding with emission of compliant JSON now in accordance with all stated requirements and schema specifications. Ready. Emitting. Now. {",
@@ -9370,6 +9442,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1051,
+      "headline": "BioMar amplía instalaciones de hatchery - Salmonexpert",
+      "story_summary": "BioMar has expanded its hatchery installations to support growth in aquaculture operations. The expansion reflects the company's investment in infrastructure to meet rising demand in the sector.",
+      "first_seen": "2023-06-20T07:00:00+00:00",
+      "last_seen": "2023-06-20T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 553,
@@ -11614,6 +11700,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1050,
+      "headline": "Tidenes beste første halvår for BioMar - iLaks",
+      "story_summary": "BioMar reported its best first-half results in company history. The article highlights strong financial performance during the period.",
+      "first_seen": "2020-08-14T07:00:00+00:00",
+      "last_seen": "2020-08-14T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 476,
       "headline": "To nye lærlinger hos Skretting: – Jeg trives «som bare farsken» allerede - vol.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDlzMnJ6UVNxOWpLczlxWlRCU2JHcGRCbGFDM24xTnhDVVNqRll1anQxQ01STnFMbkJhY3NhWExSampvaDMyVUxMRi15UERwNGJLaHUxMU03NE9VRWhGS2VIYzBvVUdBeExja2MydjJNQmlRSldjb3JCNGpTbEF6LTNPNTNkcTF2bnJYc3Foc1FnUG9mMTlOLTk5TWUxUWVBd0JtMzhQZw?oc=5\" target=\"_blank\">To nye lærlinger hos Skretting: – Jeg trives «som bare farsken» allerede</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
@@ -13172,10 +13272,10 @@
     {
       "id": 1035,
       "headline": "Sterkt kvartalsresultat for Biomar - vol.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBBajhiMmVWU3dER1d4VE5aMXN6TDhvQWdWcl84ZzZFUUZxMG9jakpvRk4xRjZUaE9Ia1l6Ymc3YV95bGVxbTZoVll2YmV5RkkzaW13OXNFRU1GYVZ3bFVCelRPS3BhLUk5Z1Y5UGZ3ZnJaWXVTOGJoXzF3?oc=5\" target=\"_blank\">Sterkt kvartalsresultat for Biomar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "story_summary": "BioMar delivered strong financial results in the quarter. The aquaculture feed producer's performance reflects solid operational execution in its core markets.",
       "first_seen": "2017-05-04T07:00:00+00:00",
       "last_seen": "2017-05-04T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -39264,15 +39364,20 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Schouw valuation assessment amid Q1 results and BioMar IPO plans",
+      "key_claims": [
+        "Schouw demonstrated Q1 resilience",
+        "BioMar IPO is planned",
+        "Valuation assessment relates to BioMar separation"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial",
+        "exec_statement"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNzdrelBmRHpBUmEtNmxqUU12aktOUkNHSXBhdmJRTWdyaWRqeEEwY2NIX1NIZHR6aGg5MXR1VnAxMWVTWGd0dkViSFlsaWFtdm1DdjZDUmZBcERFV3JMV2s4R2JzZ3BSTFpQOTVRM3BidzNVS1hTZkhGUlVKYVcyYzZhZnpzQTk3VGlERUJmNDFHVjNTdWxkaEt1dVZSejExeUgtb21lRFhDcW9vMGdHdmt2Wlg4N2VzRmVwdld4MHZDSTJNLWhnenI2RTRtXzdfRk81b2VfWnhsSzNnZzdsNFJfamQ5QzYwWVZUYnVzS29LQdIB8gFBVV95cUxQNzdrelBmRHpBUmEtNmxqUU12aktOUkNHSXBhdmJRTWdyaWRqeEEwY2NIX1NIZHR6aGg5MXR1VnAxMWVTWGd0dkViSFlsaWFtdm1DdjZDUmZBcERFV3JMV2s4R2JzZ3BSTFpQOTVRM3BidzNVS1hTZkhGUlVKYVcyYzZhZnpzQTk3VGlERUJmNDFHVjNTdWxkaEt1dVZSejExeUgtb21lRFhDcW9vMGdHdmt2Wlg4N2VzRmVwdld4MHZDSTJNLWhnenI2RTRtXzdfRk81b2VfWnhsSzNnZzdsNFJfamQ5QzYwWVZUYnVzS29LQQ?oc=5\" target=\"_blank\">Assessing Aktieselskabet Schouw (CPSE:SCHO) Valuation After Q1 Resilience And Planned BioMar IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>"
+      "summary": "Simply Wall St analyzes Schouw & Co's valuation following resilient Q1 financial performance and announces planned IPO of its BioMar subsidiary. The article frames the IPO as a significant corporate event affecting the parent company's valuation profile."
     },
     {
       "id": 17497,
@@ -39377,16 +39482,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports strong quarterly results",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBBajhiMmVWU3dER1d4VE5aMXN6TDhvQWdWcl84ZzZFUUZxMG9jakpvRk4xRjZUaE9Ia1l6Ymc3YV95bGVxbTZoVll2YmV5RkkzaW13OXNFRU1GYVZ3bFVCelRPS3BhLUk5Z1Y5UGZ3ZnJaWXVTOGJoXzF3?oc=5\" target=\"_blank\">Sterkt kvartalsresultat for Biomar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+      "summary": "BioMar delivered strong financial results in the quarter. The aquaculture feed producer's performance reflects solid operational execution in its core markets."
     },
     {
       "id": 17735,
@@ -39633,6 +39738,232 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTREZ1czUXpnSW94ck9SSEJoS2RQOWxoZ2lpM3g4ZGNvaVl4cml3aHlkMmd4akRCQmRxLU9ST0o1QzhZLTZMYnQ3bnJyMWNrc3poX2ExRjdqT2tXRTB0WVp4LUJWbGNCQVN6TUt3RUVNU25YMFFWWFhQdW4ta2RkOXo4QXFqdWZJTkFyRmFTMHF0cmfSAZsBQVVfeXFMUEl2R1lUcTJ6UlByN0phSmFXWmc5MmtYNFhhZF9qQ3k4czJKbWxmM01XTzJWZUUtYUZyeVgzbWN2V1R1RFhhQjNWU3JIMFRvb2NjeS1iRWJFc0pEcUhjUlE0Nk5jQ1pTSE0zbkZqWmVrWlBHMVBHVGxEUzhPaHdUTjUxQWh5ZGdrVUpGWEhPRXV3dlVzT2hoMkhETWc?oc=5\" target=\"_blank\">Cargill steps up feed production across all its EWOS factories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 18599,
+      "story_id": 1056,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0FYMy1FNG9PNlFFVFNxUnh1VnFmOV80SW9WRXhNVnVYV0F4THE1Rm5Mc0VkeEE5QTBVcEtYMVBvUkpzaWlNQUZ6Wk5ERTJhZUhhNmhONFFCaEtJNWtBLXcwNklyMTZaWWhEMk5wQl9pc1NSRW16cG8tMmhVWmhNejB5cVV6TjVFR3ZTcl91d2Yyd0dVbmdKT1BuNlJza1hGVEhWRWRlVmlYVXUzTFNjeGFFLTJXdTB2RnfSAccBQVVfeXFMTWtJVGdwUXhuSHhUSE5FdjRwLWE1VEZNb05PT01SZW91YU1tNko0dUE0aTZrQUJ6T1Z5RlJFZzZvOFFFc2xHUjZKQWwtNXRkUTMybXlwQ3ZHdlhKTl82QjBlbEpwcEltTGNLbG8zSG9aVXFuXzRQdnNGMzNuYjY0ZDNDUHpRYjI3NW56UThsMTFTM2NCUEFYOHBjaXF0bFB1bXhKMXM5b0xTM29iZkxLb0NQZHJXNG9tUGRmQVF6SUNlVEZHS1ZTbw?oc=5",
+      "title": "BioMar set for stock market listing as Q1 feed volumes reach record high - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "published_at": "2026-05-04T09:46:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar plans IPO amid record Q1 feed volumes",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is preparing for a stock market listing following strong first-quarter performance with feed volumes reaching record levels. The company's operational momentum and planned IPO signal growth and investor confidence in the aquaculture feed sector."
+    },
+    {
+      "id": 18640,
+      "story_id": 359,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXg0cG1ZR01KbERtbnktR3RidlpXbHhST0dxb1MyeWVBVUFGTEJycUo2MnhqSXo5NE1WZHBmTjFyaURRbVVtemN1SjlyQWMyRUFabDVCanpkNE1TNHJvVUh4cWJ2cHloR0wxUk4xSmxaeWJXVXZZbDBobDdWcWt5MGIwZlZqQm4zeTJaZ2Zhc0VEc1kwNG1zV0VWTDNYb3NHbmFoTDRuRWNrel9x?oc=5",
+      "title": "Schouw & Co shares jump 4% as BioMar IPO plans enter next phase - Investing.com Canada",
+      "source_name": "Investing.com Canada",
+      "language": "en",
+      "published_at": "2026-05-01T08:19:37+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co stock rises on BioMar IPO progress",
+      "key_claims": [
+        "Schouw & Co shares jumped 4% following news of BioMar IPO plans advancing",
+        "BioMar IPO plans have entered the next phase of development"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "Schouw & Co's share price increased 4% following developments in BioMar's initial public offering plans moving forward. The announcement represents a significant milestone in the potential spinoff of the aquaculture feed subsidiary."
+    },
+    {
+      "id": 18753,
+      "story_id": 1050,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BeWtIZWV0allRYzJnLWkwX01tdjVHemV6a2U5YWl4Mi1sOXllS2l6TjBVd3hUU0kwbG1RSmxhbkFITGVlNmFKNkl2N3RtUzlSaURjUWx3QjllRlNsX1B4WENtWWxMZ0E?oc=5",
+      "title": "Tidenes beste første halvår for BioMar - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "published_at": "2020-08-14T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports record-breaking first-half financial performance",
+      "key_claims": [
+        "BioMar achieved its best-ever first half results"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar reported its best first-half results in company history. The article highlights strong financial performance during the period."
+    },
+    {
+      "id": 18978,
+      "story_id": 1051,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmEyeEFwRlhCZ0xsSllrUmN5eFZ2YldSLWFWQ3FGRFpGcVJ6QlVKbU53eGNCMTZJbHhFT0E1azctU1E4XzBJSWFXTWtGLUJsbFBBRVdNZG80WEhCMzBHMk05Y2xMOTNNS0ZjaDdpb3lna1lZemczajlFcWRQMVpqOW1nYzRYcDFyTzVYb1B5anViaUFUU1E?oc=5",
+      "title": "BioMar amplía instalaciones de hatchery - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "published_at": "2023-06-20T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands hatchery facilities to increase production capacity",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has expanded its hatchery installations to support growth in aquaculture operations. The expansion reflects the company's investment in infrastructure to meet rising demand in the sector."
+    },
+    {
+      "id": 19025,
+      "story_id": 1055,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTHItc1lvSU1lNERfVGhOb1R1d01FS1JjVlVlcmlPdGpLakUtTWN1MHFjMVJEeUxtbDNBQ1NzM241VVhPLTFmUUQ1MEVyamJEaUQzeTdyeHdRbTdoUFJTZzd6cjVFcDhndndvZmdGSHZtblF3a1lUeFpVM21YVGV2NHJoQ05FWDdYM3JiWGl4Zl9QSkZrRjIyVWVnT2Y3WWxnUVFOWWVUYklGdTAzQllXRUNIazQyVnV2Z2dNaGs1T3ZFOGdOSkx1bDBxNGVlMTZHZlk4Tm5IQmdyYkxoMU9nQXgtbTlKbjdVT0VBN1IxdTE?oc=5",
+      "title": "Notice of the Annual General Meeting of Aktieselskabet Schouw & Co. - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "published_at": "2026-03-16T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Annual General Meeting notice for Schouw & Co.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. has published notice of its Annual General Meeting as required by corporate governance regulations. The announcement is a standard procedural disclosure with no substantive business content disclosed in the summary provided."
+    },
+    {
+      "id": 19160,
+      "story_id": 361,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczUxeFFzVUZzQmQ0ZnM5ckg0VFVKN0l5VzMyWVlUSDA1Z3B5NDR3OHVfVXduWVFXYVBWaUZlTkdNcnJuZGlfeWt6ZXlLZmlMZHlSZEFQWDBmeFNhdHNTaG1sMnJWbndZQmRIcWZDN2dWaVFqNGhEdUZCZ0RYWXNvV2NtSG1YalhqQnV5b2dnQ1dub1cwUkFWWnRDVVZmN1lsNkNwQjdiT3pxZE9Dc25zcG5MQ0U?oc=5",
+      "title": "Schouw & Co. reporta sólido Q1 2026 pese a caída en ganancias - Investing.com México",
+      "source_name": "Investing.com México",
+      "language": "es",
+      "published_at": "2026-05-01T10:09:14+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co reports solid Q1 2026 despite earnings decline",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co delivered solid Q1 2026 results despite a decline in profitability. The parent company of BioMar Group maintained operational performance across its industrial portfolio in the first quarter of 2026.\n\n (Note: full article text was not provided; analysis based on headline and lede only.)\n\n\"key_claims\": [\"Schouw & Co reported Q1 2026 results\", \"Earnings declined in Q1 2026\", \"Overall operational performance described as solid\"], \"people_quoted\": [], \"risk_flags\": [\"financial\"], \"is_about_target_brand\": true}]"
+    },
+    {
+      "id": 19271,
+      "story_id": 1053,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQckRwZ0JtS05hRTJVU3VBVDFPQ2J5Z3pETkVMNjhIYnR4LUo3Z0FEeG0xWTNyaU5FMnB0bG1jWHhxaHBIX3dNbzV0dGYwNUh2WkNZVFIwZXpwTmt1ZXNaWEt3X0dVR2JfWkNweUlwOGo4TmRHeUZSVk5VbUtpaUM1ZkVaTWNPSjZjbUFIQkhQSklmZUE?oc=5",
+      "title": "ASC feed certification reaches 18 new feed mills in 2025 - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "published_at": "2025-07-28T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQckRwZ0JtS05hRTJVU3VBVDFPQ2J5Z3pETkVMNjhIYnR4LUo3Z0FEeG0xWTNyaU5FMnB0bG1jWHhxaHBIX3dNbzV0dGYwNUh2WkNZVFIwZXpwTmt1ZXNaWEt3X0dVR2JfWkNweUlwOGo4TmRHeUZSVk5VbUtpaUM1ZkVaTWNPSjZjbUFIQkhQSklmZUE?oc=5\" target=\"_blank\">ASC feed certification reaches 18 new feed mills in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 19359,
+      "story_id": 1054,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOclZFcS1HNklzazllVWRjYUR4akZ6T0lfWHZpZm80cjNUd2dpRnZPWHlYQTdoMUhJb1hlS3liRnNUUUhTdEFjRVlKbkxpQ0NMNHcxa3l5RjBBUmNCbTV0ODl0QXZWWGxXUmpPdUg5UkRHaWxmRmtOdVBGZDRGbHhDTWZlclB1SXBVUDNkUQ?oc=5",
+      "title": "Nekter ordføreren innsyn - agderposten.no",
+      "source_name": "agderposten.no",
+      "language": "no",
+      "published_at": "2026-02-09T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOclZFcS1HNklzazllVWRjYUR4akZ6T0lfWHZpZm80cjNUd2dpRnZPWHlYQTdoMUhJb1hlS3liRnNUUUhTdEFjRVlKbkxpQ0NMNHcxa3l5RjBBUmNCbTV0ODl0QXZWWGxXUmpPdUg5UkRHaWxmRmtOdVBGZDRGbHhDTWZlclB1SXBVUDNkUQ?oc=5\" target=\"_blank\">Nekter ordføreren innsyn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">agderposten.no</font>"
+    },
+    {
+      "id": 19659,
+      "story_id": 1052,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2RGblRZeDQxQVFTR2RERlZxbTlfMmUzNzlOSE00dlluZ1JIdGNERUJHWWswa05KUFN6VDNmUHc4enN1SkktRVZvMGk5aVJkd093WTd4SEozOGJaNVdEWVpnaS1maE96UEZhZG8zWkFHalR4Q2psUEpqVzduTVpDcVg2X1NwUWNsczBNelREUXEwbEZqNTZMQjI0R3JEU3U2QkFTR1dSZ9IBpwFBVV95cUxQb2RGblRZeDQxQVFTR2RERlZxbTlfMmUzNzlOSE00dlluZ1JIdGNERUJHWWswa05KUFN6VDNmUHc4enN1SkktRVZvMGk5aVJkd093WTd4SEozOGJaNVdEWVpnaS1maE96UEZhZG8zWkFHalR4Q2psUEpqVzduTVpDcVg2X1NwUWNsczBNelREUXEwbEZqNTZMQjI0R3JEU3U2QkFTR1dSZw?oc=5",
+      "title": "Cargill subsidiary reports operational loss for 2023 – despite 27% increase in turnover - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "published_at": "2024-01-11T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2RGblRZeDQxQVFTR2RERlZxbTlfMmUzNzlOSE00dlluZ1JIdGNERUJHWWswa05KUFN6VDNmUHc4enN1SkktRVZvMGk5aVJkd093WTd4SEozOGJaNVdEWVpnaS1maE96UEZhZG8zWkFHalR4Q2psUEpqVzduTVpDcVg2X1NwUWNsczBNelREUXEwbEZqNTZMQjI0R3JEU3U2QkFTR1dSZ9IBpwFBVV95cUxQb2RGblRZeDQxQVFTR2RERlZxbTlfMmUzNzlOSE00dlluZ1JIdGNERUJHWWswa05KUFN6VDNmUHc4enN1SkktRVZvMGk5aVJkd093WTd4SEozOGJaNVdEWVpnaS1maE96UEZhZG8zWkFHalR4Q2psUEpqVzduTVpDcVg2X1NwUWNsczBNelREUXEwbEZqNTZMQjI0R3JEU3U2QkFTR1dSZw?oc=5\" target=\"_blank\">Cargill subsidiary reports operational loss for 2023 – despite 27% increase in turnover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 19743,
+      "story_id": 782,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZDUxV09jZnZPSFVpbVlVZlFBbkV0QWNiWExLcXgwaDhhZi1QMXRlQVU3S3BwYm9NOGsydlZOeG1jQW9EemY3Y2pLdDFjVENOTGU2VU92VnFMcS1RVmFTNThCZXY2amVpNUVyTFpxM3d2TkVqSFF6S094Ny1iT0d3djAwZDVzX0RzaWhGTy10TEFNbWlLU3RPRXJKcTZ2TFBoUDhZTE13SW9UUDNUUU1MU3gtcjN4MlpVWTlMbUFpaUtZdmNQbWxLMFZpVF9EWVNEa05IMU1veGFkR2VDSjIwSUFGWjhNMHBlQUFfUkVJNFFLQdIB-gFBVV95cUxPRTNrYUtPZW1pUmpFUW5xNTZqWUxoR21yczBhQlJZRElqY0NIOEZ1SUxRYzROa1JwdFBJdjh0R0s1MEw5WXlLWEVrTWxDRDctQVV5NUkzaGxGTlFwQ0g2Ymo0RUdqU2dLbnd0bzZMdFBrNm9CLU1oNC1qQndqVExzQTBkem1UaDZKNHNQeHBhZXhlZWZNZHVOckdqU3c5UENCd3F2dlBmOWZnVG1SVWpLcnZlU0dsQmhUa05TcW5FRE9OaS1mM1AwT0hTZnFQVE1PVHlIVk5RY05YSHJVVE1LNXVBaV93WW5LN0F1dnlSaW45cVlVWmtqY3J3?oc=5",
+      "title": "Formulan cargos contra titular de Ewos-Cargill Planta Coronel por incumplimientos ambientales - Diario Concepción",
+      "source_name": "Diario Concepción",
+      "language": "es",
+      "published_at": "2026-02-10T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZDUxV09jZnZPSFVpbVlVZlFBbkV0QWNiWExLcXgwaDhhZi1QMXRlQVU3S3BwYm9NOGsydlZOeG1jQW9EemY3Y2pLdDFjVENOTGU2VU92VnFMcS1RVmFTNThCZXY2amVpNUVyTFpxM3d2TkVqSFF6S094Ny1iT0d3djAwZDVzX0RzaWhGTy10TEFNbWlLU3RPRXJKcTZ2TFBoUDhZTE13SW9UUDNUUU1MU3gtcjN4MlpVWTlMbUFpaUtZdmNQbWxLMFZpVF9EWVNEa05IMU1veGFkR2VDSjIwSUFGWjhNMHBlQUFfUkVJNFFLQdIB-gFBVV95cUxPRTNrYUtPZW1pUmpFUW5xNTZqWUxoR21yczBhQlJZRElqY0NIOEZ1SUxRYzROa1JwdFBJdjh0R0s1MEw5WXlLWEVrTWxDRDctQVV5NUkzaGxGTlFwQ0g2Ymo0RUdqU2dLbnd0bzZMdFBrNm9CLU1oNC1qQndqVExzQTBkem1UaDZKNHNQeHBhZXhlZWZNZHVOckdqU3c5UENCd3F2dlBmOWZnVG1SVWpLcnZlU0dsQmhUa05TcW5FRE9OaS1mM1AwT0hTZnFQVE1PVHlIVk5RY05YSHJVVE1LNXVBaV93WW5LN0F1dnlSaW45cVlVWmtqY3J3?oc=5\" target=\"_blank\">Formulan cargos contra titular de Ewos-Cargill Planta Coronel por incumplimientos ambientales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Concepción</font>"
     }
   ],
   "share_of_voice": {
@@ -40471,6 +40802,12 @@
         "Skretting": 1
       },
       {
+        "week": "2020-W33",
+        "BioMar": 1,
+        "Cargill": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2020-W38",
         "BioMar": 0,
         "Cargill": 0,
@@ -41083,6 +41420,12 @@
         "Skretting": 4
       },
       {
+        "week": "2023-W25",
+        "BioMar": 1,
+        "Cargill": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2023-W29",
         "BioMar": 0,
         "Cargill": 0,
@@ -41199,7 +41542,7 @@
       {
         "week": "2024-W02",
         "BioMar": 4,
-        "Cargill": 2,
+        "Cargill": 3,
         "Skretting": 0
       },
       {
@@ -41632,7 +41975,7 @@
         "week": "2025-W31",
         "BioMar": 1,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2025-W32",
@@ -41799,8 +42142,8 @@
       {
         "week": "2026-W07",
         "BioMar": 13,
-        "Cargill": 5,
-        "Skretting": 1
+        "Cargill": 6,
+        "Skretting": 2
       },
       {
         "week": "2026-W08",
@@ -41828,7 +42171,7 @@
       },
       {
         "week": "2026-W12",
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -41864,13 +42207,13 @@
       },
       {
         "week": "2026-W18",
-        "BioMar": 49,
+        "BioMar": 51,
         "Cargill": 0,
         "Skretting": 4
       },
       {
         "week": "2026-W19",
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Skretting": 2
       }
@@ -41878,15 +42221,15 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 513
+        "count": 519
       },
       {
         "company": "Cargill",
-        "count": 205
+        "count": 207
       },
       {
         "company": "Skretting",
-        "count": 402
+        "count": 404
       }
     ]
   }
