@@ -80,15 +80,11 @@ export const COUNTRY_LABELS: Record<string, { name: string; flag: string }> = {
 };
 
 // Company colour palette — kept in sync between charts.
-// Brand colours for the primary competitors; secondary palette
-// for the rest (distinct hues, not brand-accurate).
 export const COMPANY_COLORS: Record<string, string> = {
-  BioMar:      "#0471ad",
-  Skretting:   "#cf000e",
-  Cargill:     "#00843d",
-  Polarfeed:   "#9333ea",  // purple
-  "Aller Aqua": "#f59e0b", // amber
-  Other:       "#94a3b8",
+  BioMar:    "#0471ad",
+  Skretting: "#cf000e",
+  Cargill:   "#00843d",
+  Other:     "#94a3b8",
 };
 
 // Helper to build dates relative to a fixed "today" so the mockup is stable.
