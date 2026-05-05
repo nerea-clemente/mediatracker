@@ -40,6 +40,7 @@ type MentionRow = {
   Outlet: string;
   Company: string;
   Language: string;
+  Country: string;
   Published: string;
   Sentiment: string;
   Confidence: number;
@@ -99,6 +100,7 @@ export async function downloadXlsx(stories: Story[], mentions: Mention[]) {
     Outlet: m.source_name,
     Company: m.company ?? "",
     Language: m.language,
+    Country: m.country ?? "",
     Published: m.published_at,
     Sentiment: m.sentiment,
     Confidence: Number(m.sentiment_confidence?.toFixed?.(2) ?? m.sentiment_confidence ?? 0),
@@ -113,9 +115,9 @@ export async function downloadXlsx(stories: Story[], mentions: Mention[]) {
   const mentionsSheet = XLSX.utils.json_to_sheet(mentionRows);
   mentionsSheet["!cols"] = [
     { wch: 5 }, { wch: 8 }, { wch: 60 }, { wch: 50 }, { wch: 22 },
-    { wch: 10 }, { wch: 8 }, { wch: 22 }, { wch: 9 }, { wch: 10 },
-    { wch: 11 }, { wch: 28 }, { wch: 22 }, { wch: 50 }, { wch: 30 },
-    { wch: 10 }, { wch: 60 },
+    { wch: 10 }, { wch: 8 }, { wch: 8 }, { wch: 22 }, { wch: 9 },
+    { wch: 10 }, { wch: 11 }, { wch: 28 }, { wch: 22 }, { wch: 50 },
+    { wch: 30 }, { wch: 10 }, { wch: 60 },
   ];
   // Hyperlink the URL cell (column D, index 3) and the Title cell
   // (column C, index 2) — gives readers two click targets per row.

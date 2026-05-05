@@ -80,11 +80,11 @@ INSERT_SQL = """
 INSERT OR IGNORE INTO mentions (
     url, title, source_type, source_name, feed_query, matched_keyword,
     language, author, published_at, fetched_at, summary, raw_entry,
-    processed
+    processed, country
 ) VALUES (
     :url, :title, :source_type, :source_name, :feed_query, :matched_keyword,
     :language, :author, :published_at, :fetched_at, :summary, :raw_entry,
-    :processed
+    :processed, :country
 )
 """
 

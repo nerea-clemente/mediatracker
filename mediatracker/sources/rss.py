@@ -74,6 +74,96 @@ PUBLISHER_ALIASES: dict[str, str] = {
 }
 
 
+def _host_for_language(*candidates: str | None) -> str:
+    """Return the first candidate host string usable for tld matching."""
+    for c in candidates:
+        if not c:
+            continue
+        host = urlparse(c).netloc.lower() if "://" in c else c.lower()
+        if host.startswith("www."):
+            host = host[4:]
+        if host:
+            return host
+    return ""
+
+
+# Domain → country (ISO-3166 alpha-2) mapping. Used by the dashboard
+# 'Mentions by country' view. Order matters: more specific domains first,
+# tld fallback last.
+_DOMAIN_COUNTRY_MAP: list[tuple[str, str]] = [
+    # Norway
+    ("ilaks.no", "NO"), ("kyst.no", "NO"), ("salmonexpert.no", "NO"),
+    ("e24.no", "NO"), ("dn.no", "NO"), ("finansavisen.no", "NO"),
+    ("nrk.no", "NO"), ("aftenposten.no", "NO"), ("vol.no", "NO"),
+    ("kampanje.com", "NO"), ("maritimt.com", "NO"), ("seafoodnorway.com", "NO"),
+    (".no", "NO"),
+    # Denmark
+    ("borsen.dk", "DK"), ("finans.dk", "DK"), ("berlingske.dk", "DK"),
+    ("dr.dk", "DK"), ("jp.dk", "DK"), ("politiken.dk", "DK"),
+    ("ritzau.dk", "DK"),
+    (".dk", "DK"),
+    # Chile
+    ("salmonexpert.cl", "CL"), ("aqua.cl", "CL"),
+    ("mundoacuicola.cl", "CL"), ("biobiochile.cl", "CL"),
+    (".cl", "CL"),
+    # Spain
+    ("mispeces.com", "ES"),
+    (".es", "ES"),
+    # Other Spanish-speaking
+    (".mx", "MX"), (".ar", "AR"), (".pe", "PE"), (".co", "CO"),
+    # UK / Scotland
+    (".co.uk", "GB"), (".uk", "GB"),
+    ("fishfarmingexpert.com", "GB"),
+    ("thefishsite.com", "GB"),
+    ("undercurrentnews.com", "GB"),
+    ("ft.com", "GB"),
+    # USA
+    ("bloomberg.com", "US"), ("seafoodsource.com", "US"),
+    ("globalseafood.org", "US"), ("seafoodnews.com", "US"),
+    ("marketscreener.com", "US"),
+    # Norway-based but international English
+    ("intrafish.com", "NO"),
+    ("salmonbusiness.com", "NO"),
+    # Spain & LatAm
+    ("weareaquaculture.com", "ES"),
+    ("ipacuicultura.com", "ES"),
+    ("aquahoy.com", "PE"),
+    ("latercera.com", "CL"),
+    # Netherlands
+    ("allaboutfeed.net", "NL"),
+    # Australia
+    (".com.au", "AU"),
+    # Canada
+    ("hatcheryinternational.com", "CA"),
+    (".ca", "CA"),
+    # Philippines
+    ("manilatimes.net", "PH"),
+    # International / no clear country
+    ("aquafeed.com", "INT"),
+    ("reuters.com", "INT"),
+]
+
+
+def _host_match(host: str, pattern: str) -> bool:
+    """Match a domain pattern against a host. Patterns starting with '.'
+    are TLD-style and must match the end of the host (so '.co' matches
+    'borsen.co' but NOT 'salmonbusiness.com'). Other patterns match as
+    substrings."""
+    if pattern.startswith("."):
+        return host.endswith(pattern)
+    return pattern in host
+
+
+def _detect_country(publisher_url: str | None, fallback_url: str | None) -> str:
+    """Return the ISO-3166 alpha-2 country code for the publisher, or
+    'INT' (international) if it can't be determined."""
+    host = _host_for_language(publisher_url, fallback_url)
+    for substr, country in _DOMAIN_COUNTRY_MAP:
+        if _host_match(host, substr):
+            return country
+    return "INT"
+
+
 # Domain → language mapping for the obvious cases. Lets us correct the
 # feed-locale tag when a Norwegian outlet flows in via the Danish feed,
 # etc. Order matches the tld/host substring we look for.
@@ -135,19 +225,6 @@ _DOMAIN_LANGUAGE_MAP: list[tuple[str, str]] = [
 ]
 
 
-def _host_for_language(*candidates: str | None) -> str:
-    """Return the first candidate host string usable for tld matching."""
-    for c in candidates:
-        if not c:
-            continue
-        host = urlparse(c).netloc.lower() if "://" in c else c.lower()
-        if host.startswith("www."):
-            host = host[4:]
-        if host:
-            return host
-    return ""
-
-
 def _detect_language(
     publisher_url: str | None,
     fallback_url: str | None,
@@ -163,7 +240,7 @@ def _detect_language(
     """
     host = _host_for_language(publisher_url, fallback_url)
     for substr, lang in _DOMAIN_LANGUAGE_MAP:
-        if substr in host:
+        if _host_match(host, substr):
             return lang
     return default
 
@@ -255,6 +332,7 @@ def entries_to_mentions(
         detected_language = _detect_language(
             publisher_url, url, default=language or "en"
         )
+        detected_country = _detect_country(publisher_url, url)
 
         yield RawMention(
             url=url,
@@ -268,4 +346,5 @@ def entries_to_mentions(
             published_at=published_iso,
             summary=summary,
             raw_entry=raw,
+            country=detected_country,
         )

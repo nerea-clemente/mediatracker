@@ -66,6 +66,21 @@ COMPETITOR_QUERIES = [
         "context_terms": ["aquafeed", "salmon", "aquaculture", "Cargill", "fish feed"],
         "company": "Cargill",
     },
+    {
+        "keyword": "Polarfeed",
+        # Polarfeed is unique enough on its own; brand is small but the
+        # name doesn't collide with anything else.
+        "phrases": ["Polarfeed"],
+        "context": None,
+        "company": "Polarfeed",
+    },
+    {
+        "keyword": "Aller Aqua",
+        # 'Aller' is a common surname — scope to the brand and contexts.
+        "phrases": ["Aller Aqua"],
+        "context": None,
+        "company": "Aller Aqua",
+    },
 ]
 
 

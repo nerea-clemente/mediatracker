@@ -15,6 +15,7 @@ import {
 } from "@/lib/data";
 import { downloadXlsx, printDashboard } from "@/lib/exports";
 import {
+  CountryBar,
   SentimentChart,
   ShareOfVoiceArea,
   ShareOfVoicePie,
@@ -460,7 +461,7 @@ export default function Page() {
       </section>
 
       {/* Charts */}
-      <section className="grid lg:grid-cols-3 gap-4">
+      <section className="grid md:grid-cols-2 gap-4">
         <ChartCard title="Volume over time" subtitle="Mentions per day">
           <VolumeChart mentions={filteredMentions} />
         </ChartCard>
@@ -469,6 +470,9 @@ export default function Page() {
         </ChartCard>
         <ChartCard title="Top outlets" subtitle="Pickups per source">
           <TopOutletsChart mentions={filteredMentions} />
+        </ChartCard>
+        <ChartCard title="By country / region" subtitle="Where the coverage is published">
+          <CountryBar mentions={filteredMentions} />
         </ChartCard>
       </section>
 

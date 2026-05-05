@@ -33,7 +33,7 @@ log = logging.getLogger("mediatracker.export")
 SELECT_ROWS = """
 SELECT
     m.id, m.url, m.title, m.source_name, m.source_type, m.matched_keyword,
-    m.language, m.published_at, m.fetched_at, m.summary AS rss_summary,
+    m.language, m.country, m.published_at, m.fetched_at, m.summary AS rss_summary,
     m.cluster_id,
     a.is_about_target_brand,
     a.sentiment, a.sentiment_confidence, a.prominence, a.angle,
@@ -110,6 +110,7 @@ def _row_to_mention(row: sqlite3.Row) -> dict[str, Any]:
         "title": row["title"],
         "source_name": row["source_name"],
         "language": row["language"] or "en",
+        "country": row["country"] or "INT",
         "published_at": row["published_at"] or row["fetched_at"],
         "matched_keyword": row["matched_keyword"],
         "company": keyword_to_company(row["matched_keyword"]),

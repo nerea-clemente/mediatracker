@@ -26,6 +26,7 @@ export type Mention = {
   title: string;
   source_name: string;
   language: string;
+  country?: string; // ISO-3166 alpha-2 or 'INT'
   published_at: string; // ISO
   matched_keyword?: string;
   company?: string;
@@ -59,13 +60,35 @@ export type ShareOfVoice = {
   totals: { company: string; count: number }[];
 };
 
+// Country code → friendly name + flag emoji.
+export const COUNTRY_LABELS: Record<string, { name: string; flag: string }> = {
+  NO:  { name: "Norway",      flag: "🇳🇴" },
+  DK:  { name: "Denmark",     flag: "🇩🇰" },
+  CL:  { name: "Chile",       flag: "🇨🇱" },
+  ES:  { name: "Spain",       flag: "🇪🇸" },
+  GB:  { name: "UK",          flag: "🇬🇧" },
+  US:  { name: "USA",         flag: "🇺🇸" },
+  CA:  { name: "Canada",      flag: "🇨🇦" },
+  AU:  { name: "Australia",   flag: "🇦🇺" },
+  NL:  { name: "Netherlands", flag: "🇳🇱" },
+  PE:  { name: "Peru",        flag: "🇵🇪" },
+  MX:  { name: "Mexico",      flag: "🇲🇽" },
+  AR:  { name: "Argentina",   flag: "🇦🇷" },
+  CO:  { name: "Colombia",    flag: "🇨🇴" },
+  PH:  { name: "Philippines", flag: "🇵🇭" },
+  INT: { name: "International", flag: "🌐" },
+};
+
 // Company colour palette — kept in sync between charts.
-// Brand colours requested by the user.
+// Brand colours for the primary competitors; secondary palette
+// for the rest (distinct hues, not brand-accurate).
 export const COMPANY_COLORS: Record<string, string> = {
-  BioMar:    "#0471ad",
-  Skretting: "#cf000e",
-  Cargill:   "#00843d",
-  Other:     "#94a3b8",
+  BioMar:      "#0471ad",
+  Skretting:   "#cf000e",
+  Cargill:     "#00843d",
+  Polarfeed:   "#9333ea",  // purple
+  "Aller Aqua": "#f59e0b", // amber
+  Other:       "#94a3b8",
 };
 
 // Helper to build dates relative to a fixed "today" so the mockup is stable.

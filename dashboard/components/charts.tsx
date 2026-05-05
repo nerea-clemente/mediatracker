@@ -18,7 +18,7 @@ import {
   YAxis,
 } from "recharts";
 import type { Mention } from "@/lib/data";
-import { COMPANY_COLORS } from "@/lib/data";
+import { COMPANY_COLORS, COUNTRY_LABELS } from "@/lib/data";
 
 const SENT_COLORS = {
   positive: "#16a34a",
@@ -191,6 +191,36 @@ export function ShareOfVoicePie({
           </Pie>
           <Tooltip />
         </PieChart>
+      </ResponsiveContainer>
+    </div>
+  );
+}
+
+// Mentions per country — horizontal bar chart, sorted desc.
+export function CountryBar({ mentions }: { mentions: Mention[] }) {
+  const counts = new Map<string, number>();
+  for (const m of mentions) {
+    const c = m.country || "INT";
+    counts.set(c, (counts.get(c) || 0) + 1);
+  }
+  const data = Array.from(counts.entries())
+    .map(([code, count]) => {
+      const label = COUNTRY_LABELS[code] ?? { name: code, flag: "" };
+      return { code, count, name: `${label.flag} ${label.name}`.trim() };
+    })
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 10);
+
+  return (
+    <div className="h-72 w-full">
+      <ResponsiveContainer>
+        <BarChart data={data} layout="vertical" margin={{ top: 8, right: 16, left: 8, bottom: 0 }}>
+          <CartesianGrid strokeDasharray="3 3" stroke="#e2e8f0" />
+          <XAxis type="number" allowDecimals={false} tick={{ fontSize: 11 }} />
+          <YAxis dataKey="name" type="category" width={140} tick={{ fontSize: 11 }} />
+          <Tooltip />
+          <Bar dataKey="count" fill={PRIMARY} />
+        </BarChart>
       </ResponsiveContainer>
     </div>
   );

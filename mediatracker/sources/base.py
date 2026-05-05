@@ -21,6 +21,7 @@ class RawMention:
     published_at: str | None  # ISO 8601 UTC
     summary: str | None
     raw_entry: dict[str, Any]
+    country: str | None = None  # ISO-3166 alpha-2 or 'INT'
 
     def raw_entry_json(self) -> str:
         return json.dumps(self.raw_entry, default=str, ensure_ascii=False)

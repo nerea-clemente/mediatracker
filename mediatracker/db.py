@@ -29,6 +29,7 @@ def init_schema(conn: sqlite3.Connection) -> None:
     conn.executescript(sql)
     # Idempotent migrations for columns added after the initial schema.
     _ensure_column(conn, "analyses", "is_about_target_brand", "INTEGER NOT NULL DEFAULT 1")
+    _ensure_column(conn, "mentions", "country", "TEXT")
 
 
 @contextmanager
