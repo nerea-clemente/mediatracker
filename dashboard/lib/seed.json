@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-05T17:26:44+00:00",
+  "generated_at": "2026-05-05T22:53:09+00:00",
   "stats": {
-    "mention_count": 1306,
-    "story_count": 1199,
-    "analyzed_count": 528,
+    "mention_count": 1314,
+    "story_count": 1205,
+    "analyzed_count": 532,
     "off_topic_mentions": 31,
     "off_topic_stories": 23
   },
@@ -142,6 +142,7 @@
     "Oppland Arbeiderblad",
     "PR Newswire",
     "Packaging Gateway",
+    "Paislobo Prensa",
     "Pattison Funeral Home",
     "Perishable News",
     "Periódico El Insular",
@@ -208,6 +209,7 @@
     "elDiario.es",
     "elciudadano.com",
     "explora.cl",
+    "fvn.no",
     "gat.no",
     "hitra-froya.no",
     "iFinnmark",
@@ -225,6 +227,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1227,
+      "headline": "BioMar UK names new Managing Director - WEAREAQUACULTURE",
+      "story_summary": "BioMar UK has announced the appointment of a new Managing Director. The article reports on this executive leadership change at the UK subsidiary of the BioMar aquaculture feed group.",
+      "first_seen": "2026-05-05T17:29:00+00:00",
+      "last_seen": "2026-05-05T17:29:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1217,
       "headline": "BioMar crece en 2026: sólidos resultados y modelo resiliente - aqua.cl",
@@ -611,13 +627,13 @@
       "id": 354,
       "headline": "Schouw & Co announces BioMar IPO plans - marketscreener.com",
       "story_summary": "Schouw & Co has announced plans to take its aquaculture feed subsidiary BioMar public through an initial public offering. The announcement signals the parent company's intention to unlock value in the BioMar business through capital markets listing.",
-      "first_seen": "2026-05-01T06:05:34+00:00",
+      "first_seen": "2026-05-01T06:04:00+00:00",
       "last_seen": "2026-05-01T06:43:20+00:00",
-      "primary_sentiment": "positive",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -2396,7 +2412,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Cargill"
     },
@@ -4420,6 +4436,34 @@
       "company": "BioMar"
     },
     {
+      "id": 1226,
+      "headline": "Hver eneste dag reflekterer jeg over hvor ydmyk jeg er over å ha denne jobben - fvn.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9DVFNzZHA5Z0xYUjBZV2xVMzVPdlY5MG12by14S0ZrQ3hYQ0d5TW5nYjlIMnRZZE1rWjJPNU8zejVvRGd4MUdZWFRybWZXZkZqdkoyc3FXUlcxM0dhLVpTRmRKcVQ2VmxMa09zeHMzNlBnZw?oc=5\" target=\"_blank\">Hver eneste dag reflekterer jeg over hvor ydmyk jeg er over å ha denne jobben</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fvn.no</font>",
+      "first_seen": "2025-10-20T07:00:00+00:00",
+      "last_seen": "2025-10-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1225,
+      "headline": "Más de 80 estudiantes limpian ribera del río Damas en Osorno - Paislobo Prensa",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTEZCNWFJSHZYZWF5N0N5WnQ2enVTdjkzQVctVGtZWllDM1hMdVdIVXJjTGVKWXItNzRtb0hfSXpBTWxBeVMtX0xfZ185ZHowY09ULXNvVE44bGkzQ1d3RGVKN1hYN0VzcHMzVlBSNnZXRzNPX1hQV0Y1UGNJQ3czOFQwVkM3Y1VxSEJDckpCaUFVam5DUGtDUC1lR1pHZw?oc=5\" target=\"_blank\">Más de 80 estudiantes limpian ribera del río Damas en Osorno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paislobo Prensa</font>",
+      "first_seen": "2025-10-18T07:00:00+00:00",
+      "last_seen": "2025-10-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 232,
       "headline": "Øksnes, Nyheter | Bli med inn i nybygget: – Betyr mye for trivselen og rekrutteringa - Bladet Vesterålen",
       "story_summary": "A local news article covers the opening or expansion of a new building facility, discussing its positive impact on employee well-being and hiring. BioMar is mentioned only incidentally in the source material provided, with the primary focus on facility development and workplace benefits at a location or organization in Øksnes, Norway.",
@@ -4964,6 +5008,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 1224,
+      "headline": "From wheat fields to fish farms: new BioMar partnership aims to slash feed emissions - intrafish.com",
+      "story_summary": "BioMar has announced a new partnership aimed at reducing feed emissions by sourcing sustainable ingredients from wheat fields for fish farms. The initiative positions the company as focused on lowering the environmental footprint of aquaculture feed production.",
+      "first_seen": "2025-09-19T07:00:00+00:00",
+      "last_seen": "2025-09-19T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1191,
@@ -14244,6 +14302,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1223,
+      "headline": "BioMar takes over Chilean fish feed factory - SalmonBusiness",
+      "story_summary": "BioMar has taken over a Chilean fish feed factory, expanding its production capacity in the region. The article reports on this acquisition as part of the company's growth strategy in aquaculture feed manufacturing.",
+      "first_seen": "2019-03-14T07:00:00+00:00",
+      "last_seen": "2019-03-14T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 26,
       "headline": "BioMar Norge nedbemanner: – Vi er nødt til å gjøre noen grep - iLaks",
       "story_summary": "BioMar Norge announces a workforce reduction and states that restructuring measures are necessary for the company. The article covers the Norwegian subsidiary's personnel adjustments.",
@@ -15428,6 +15500,20 @@
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1222,
+      "headline": "BioMar styrker seg i fôrmarkedet - iLaks",
+      "story_summary": "BioMar is reported to be strengthening its position in the aquaculture feed market. The article indicates competitive gains or market expansion for the company.",
+      "first_seen": "2017-03-15T07:00:00+00:00",
+      "last_seen": "2017-03-15T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -47486,6 +47572,194 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3ItRmZfTHYwa1R6UmxLcno2dWFnNkkyMXRqNUlXTXYzWVVwWTBxMHNmcDJhZkllMlg2Qk1ia2R2ajJiOHd2cGl0bVJoYl9wdEtxUFlkZ250aGJpSEZkMWxvaVVtdklFRnVTdlZ5dlFVRDVtalcxVk1rZ3JoaU1iSHlTaVA1dDdFSEtDTUFYcVNCX3hnV2FKOU1Sbk1vM0J6QXdrQURFZzY4NjhjR25JemhnVUdWaEhtWjNiRw?oc=5\" target=\"_blank\">Cargill lanza informe de sostenibilidad de nutrición acuícola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 21165,
+      "story_id": 1227,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPell4LVlsSkxRVXR0b242aW5TZVZFQ0lKWWlEWGJpYXlFN0dpODI2MUhhVWlSN1p3SzExdFhKVnFDLVdIcDJQU1hfNzQxbUtJaE12VTBFTm92QXkyaDQxXzlabV80TlNvdm4tUGEzeE1QbjJRdlg2dGkxNzhjWUdTTER5ZDFfanFudVBOX2V3UU8zQ1diTUlTLdIBmAFBVV95cUxPell4LVlsSkxRVXR0b242aW5TZVZFQ0lKWWlEWGJpYXlFN0dpODI2MUhhVWlSN1p3SzExdFhKVnFDLVdIcDJQU1hfNzQxbUtJaE12VTBFTm92QXkyaDQxXzlabV80TlNvdm4tUGEzeE1QbjJRdlg2dGkxNzhjWUdTTER5ZDFfanFudVBOX2V3UU8zQ1diTUlTLQ?oc=5",
+      "title": "BioMar UK names new Managing Director - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "published_at": "2026-05-05T17:29:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "BioMar UK appoints new Managing Director",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar UK has announced the appointment of a new Managing Director. The article reports on this executive leadership change at the UK subsidiary of the BioMar aquaculture feed group."
+    },
+    {
+      "id": 21171,
+      "story_id": 354,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzRpNXZYZlFhNzJDdG9pV29sbjBuMXNGUUJKbm81MHA1MWI1ZG5LQnBRaDYyTWszbnFvdEtkbWs3QXBVcW9kaURFNGkza1dseFRNU2dIR1pIeEVpNUtDdTJVWUhHQWdkekwtZVhyNk9sbWZRY2xRc2Y3VVl1Q3RIOGZPQXZGamZFYVNPQXJ0U25xVk1hWUUxczlXUkR5cERVWi1RVnhzR2MxUQ?oc=5",
+      "title": "Schouw & Co Announces Biomar IPO Plans - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-01T06:04:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzRpNXZYZlFhNzJDdG9pV29sbjBuMXNGUUJKbm81MHA1MWI1ZG5LQnBRaDYyTWszbnFvdEtkbWs3QXBVcW9kaURFNGkza1dseFRNU2dIR1pIeEVpNUtDdTJVWUhHQWdkekwtZVhyNk9sbWZRY2xRc2Y3VVl1Q3RIOGZPQXZGamZFYVNPQXJ0U25xVk1hWUUxczlXUkR5cERVWi1RVnhzR2MxUQ?oc=5\" target=\"_blank\">Schouw & Co Announces Biomar IPO Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 21200,
+      "story_id": 1224,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3RpTTlsMU9zVjZuZVN6Qlp4cjlmZEJLRndsRTVhQXNwS3c0R2FuT0NCTk0xbHBFTldkdGo4RTZlWHJwek5YdldqUElZdDFfODNfdGJLd0tMWm1PZmkzZnhKUlN3VTBwY1pnZ1pGNEVVM3k3MGdsdWJrZlh0T2tTaTNxWVNGUEREbnA4aDUtWnFiYUNMakM5cEZNaGF4NC1oc2FaRDRxd3RuZktSd2h5b3hZMko2c2JtdUx4MUdsRTZ1eWRa?oc=5",
+      "title": "From wheat fields to fish farms: new BioMar partnership aims to slash feed emissions - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2025-09-19T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar partnership reduces aquaculture feed emissions through sustainable sourcing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has announced a new partnership aimed at reducing feed emissions by sourcing sustainable ingredients from wheat fields for fish farms. The initiative positions the company as focused on lowering the environmental footprint of aquaculture feed production."
+    },
+    {
+      "id": 21362,
+      "story_id": 1222,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94OFdBVEtTX3dMNWRIQ1AwZnd2cnZnSTlveWxqSG5aTkwtOFMxb0JSMVRHelpzOUdfWjYwMk5jQUF0cllxbjY3UENMNUxWeEttQmxodXpTX1RNdHdPdU9z?oc=5",
+      "title": "BioMar styrker seg i fôrmarkedet - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2017-03-15T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar strengthens its position in the feed market",
+      "key_claims": [
+        "BioMar is strengthening its position in the feed market"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is reported to be strengthening its position in the aquaculture feed market. The article indicates competitive gains or market expansion for the company."
+    },
+    {
+      "id": 21735,
+      "story_id": 1223,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTi1zVmtjVDFWczNtSnJRekNOa2hQdlZLMUZIT2tBSzZpS1dkNGJXaU5hNktBcFcwMDBwMDh1emFHLXliZVFjb29vMGh6eEtpSEdUcWlCQXl0SVlOLWNIWXB0U3J5bEFjb0VIOXJEV05RWkxIY0g3MmlZU3NIYUhTWdIBgAFBVV95cUxOTi1zVmtjVDFWczNtSnJRekNOa2hQdlZLMUZIT2tBSzZpS1dkNGJXaU5hNktBcFcwMDBwMDh1emFHLXliZVFjb29vMGh6eEtpSEdUcWlCQXl0SVlOLWNIWXB0U3J5bEFjb0VIOXJEV05RWkxIY0g3MmlZU3NIYUhTWQ?oc=5",
+      "title": "BioMar takes over Chilean fish feed factory - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2019-03-14T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands aquaculture feed capacity through Chilean factory acquisition",
+      "key_claims": [
+        "BioMar acquired a fish feed factory in Chile"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has taken over a Chilean fish feed factory, expanding its production capacity in the region. The article reports on this acquisition as part of the company's growth strategy in aquaculture feed manufacturing."
+    },
+    {
+      "id": 21942,
+      "story_id": 1226,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DVFNzZHA5Z0xYUjBZV2xVMzVPdlY5MG12by14S0ZrQ3hYQ0d5TW5nYjlIMnRZZE1rWjJPNU8zejVvRGd4MUdZWFRybWZXZkZqdkoyc3FXUlcxM0dhLVpTRmRKcVQ2VmxMa09zeHMzNlBnZw?oc=5",
+      "title": "Hver eneste dag reflekterer jeg over hvor ydmyk jeg er over å ha denne jobben - fvn.no",
+      "source_name": "fvn.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-10-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9DVFNzZHA5Z0xYUjBZV2xVMzVPdlY5MG12by14S0ZrQ3hYQ0d5TW5nYjlIMnRZZE1rWjJPNU8zejVvRGd4MUdZWFRybWZXZkZqdkoyc3FXUlcxM0dhLVpTRmRKcVQ2VmxMa09zeHMzNlBnZw?oc=5\" target=\"_blank\">Hver eneste dag reflekterer jeg over hvor ydmyk jeg er over å ha denne jobben</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fvn.no</font>"
+    },
+    {
+      "id": 22112,
+      "story_id": 1225,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEZCNWFJSHZYZWF5N0N5WnQ2enVTdjkzQVctVGtZWllDM1hMdVdIVXJjTGVKWXItNzRtb0hfSXpBTWxBeVMtX0xfZ185ZHowY09ULXNvVE44bGkzQ1d3RGVKN1hYN0VzcHMzVlBSNnZXRzNPX1hQV0Y1UGNJQ3czOFQwVkM3Y1VxSEJDckpCaUFVam5DUGtDUC1lR1pHZw?oc=5",
+      "title": "Más de 80 estudiantes limpian ribera del río Damas en Osorno - Paislobo Prensa",
+      "source_name": "Paislobo Prensa",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2025-10-18T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTEZCNWFJSHZYZWF5N0N5WnQ2enVTdjkzQVctVGtZWllDM1hMdVdIVXJjTGVKWXItNzRtb0hfSXpBTWxBeVMtX0xfZ185ZHowY09ULXNvVE44bGkzQ1d3RGVKN1hYN0VzcHMzVlBSNnZXRzNPX1hQV0Y1UGNJQ3czOFQwVkM3Y1VxSEJDckpCaUFVam5DUGtDUC1lR1pHZw?oc=5\" target=\"_blank\">Más de 80 estudiantes limpian ribera del río Damas en Osorno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paislobo Prensa</font>"
+    },
+    {
+      "id": 22305,
+      "story_id": 782,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZDUxV09jZnZPSFVpbVlVZlFBbkV0QWNiWExLcXgwaDhhZi1QMXRlQVU3S3BwYm9NOGsydlZOeG1jQW9EemY3Y2pLdDFjVENOTGU2VU92VnFMcS1RVmFTNThCZXY2amVpNUVyTFpxM3d2TkVqSFF6S094Ny1iT0d3djAwZDVzX0RzaWhGTy10TEFNbWlLU3RPRXJKcTZ2TFBoUDhZTE13SW9UUDNUUU1MU3gtcjN4MlpVWTlMbUFpaUtZdmNQbWxLMFZpVF9EWVNEa05IMU1veGFkR2VDSjIwSUFGWjhNMHBlQUFfUkVJNFFLQdIB-gFBVV95cUxPRTNrYUtPZW1pUmpFUW5xNTZqWUxoR21yczBhQlJZRElqY0NIOEZ1SUxRYzROa1JwdFBJdjh0R0s1MEw5WXlLWEVrTWxDRDctQVV5NUkzaGxGTlFwQ0g2Ymo0RUdqU2dLbnd0bzZMdFBrNm9CLU1oNC1qQndqVExzQTBkem1UaDZKNHNQeHBhZXhlZWZNZHVOckdqU3c5UENCd3F2dlBmOWZnVG1SVWpLcnZlU0dsQmhUa05TcW5FRE9OaS1mM1AwT0hTZnFQVE1PVHlIVk5RY05YSHJVVE1LNXVBaV93WW5LN0F1dnlSaW45cVlVWmtqY3J3?oc=5",
+      "title": "Formulan cargos contra titular de Ewos-Cargill Planta Coronel por incumplimientos ambientales - Diario Concepción",
+      "source_name": "Diario Concepción",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2026-02-10T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZDUxV09jZnZPSFVpbVlVZlFBbkV0QWNiWExLcXgwaDhhZi1QMXRlQVU3S3BwYm9NOGsydlZOeG1jQW9EemY3Y2pLdDFjVENOTGU2VU92VnFMcS1RVmFTNThCZXY2amVpNUVyTFpxM3d2TkVqSFF6S094Ny1iT0d3djAwZDVzX0RzaWhGTy10TEFNbWlLU3RPRXJKcTZ2TFBoUDhZTE13SW9UUDNUUU1MU3gtcjN4MlpVWTlMbUFpaUtZdmNQbWxLMFZpVF9EWVNEa05IMU1veGFkR2VDSjIwSUFGWjhNMHBlQUFfUkVJNFFLQdIB-gFBVV95cUxPRTNrYUtPZW1pUmpFUW5xNTZqWUxoR21yczBhQlJZRElqY0NIOEZ1SUxRYzROa1JwdFBJdjh0R0s1MEw5WXlLWEVrTWxDRDctQVV5NUkzaGxGTlFwQ0g2Ymo0RUdqU2dLbnd0bzZMdFBrNm9CLU1oNC1qQndqVExzQTBkem1UaDZKNHNQeHBhZXhlZWZNZHVOckdqU3c5UENCd3F2dlBmOWZnVG1SVWpLcnZlU0dsQmhUa05TcW5FRE9OaS1mM1AwT0hTZnFQVE1PVHlIVk5RY05YSHJVVE1LNXVBaV93WW5LN0F1dnlSaW45cVlVWmtqY3J3?oc=5\" target=\"_blank\">Formulan cargos contra titular de Ewos-Cargill Planta Coronel por incumplimientos ambientales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Concepción</font>"
     }
   ],
   "share_of_voice": {
@@ -48156,7 +48430,7 @@
       {
         "week": "2017-W11",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -48572,7 +48846,7 @@
       {
         "week": "2019-W11",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -50516,7 +50790,7 @@
       {
         "week": "2025-W38",
         "Aller Aqua": 7,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 4
@@ -50551,7 +50825,7 @@
         "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2025-W43",
@@ -50559,7 +50833,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 9
+        "Skretting": 10
       },
       {
         "week": "2025-W44",
@@ -50685,7 +50959,7 @@
         "week": "2026-W07",
         "Aller Aqua": 0,
         "BioMar": 13,
-        "Cargill": 5,
+        "Cargill": 6,
         "Polarfeed": 0,
         "Skretting": 1
       },
@@ -50772,7 +51046,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 53,
+        "BioMar": 54,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -50780,7 +51054,7 @@
       {
         "week": "2026-W19",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -50793,11 +51067,11 @@
       },
       {
         "company": "BioMar",
-        "count": 528
+        "count": 533
       },
       {
         "company": "Cargill",
-        "count": 207
+        "count": 208
       },
       {
         "company": "Polarfeed",
@@ -50805,7 +51079,7 @@
       },
       {
         "company": "Skretting",
-        "count": 415
+        "count": 417
       }
     ]
   }
