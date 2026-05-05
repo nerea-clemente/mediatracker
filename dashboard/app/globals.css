@@ -32,3 +32,29 @@ body {
   border-color: #0471ad;
   box-shadow: 0 0 0 3px rgba(4, 113, 173, 0.12);
 }
+
+/* Print / Save-as-PDF styling.
+   - Drops the gradient background and slate tint so the PDF doesn't
+     burn ink on background colour.
+   - Hides interactive controls (filter selects, export toolbar).
+   - Forces story-table cells to wrap so long headlines aren't clipped.
+   - Lets the page break sensibly between sections. */
+@media print {
+  body {
+    background: white !important;
+    color: black;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .no-print, .no-print * { display: none !important; }
+  main { padding: 0 !important; max-width: 100% !important; }
+  section, table, .recharts-wrapper { break-inside: avoid; page-break-inside: avoid; }
+  table.table-fixed { table-layout: auto !important; min-width: 0 !important; }
+  table .line-clamp-2, table .line-clamp-1 {
+    -webkit-line-clamp: unset !important;
+    overflow: visible !important;
+    display: block !important;
+  }
+  .overflow-x-auto { overflow: visible !important; }
+  a { color: black; text-decoration: underline; }
+}

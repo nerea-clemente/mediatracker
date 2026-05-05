@@ -14,6 +14,12 @@ import {
   type Story,
 } from "@/lib/data";
 import {
+  downloadMentionsCsv,
+  downloadStoriesCsv,
+  downloadXlsx,
+  printDashboard,
+} from "@/lib/exports";
+import {
   SentimentChart,
   ShareOfVoiceArea,
   ShareOfVoicePie,
@@ -352,6 +358,42 @@ export default function Page() {
         </div>
       )}
 
+      {/* Export toolbar */}
+      <section className="no-print flex flex-wrap items-center gap-2 text-xs text-slate-600">
+        <span className="text-[11px] font-semibold uppercase tracking-wider text-slate-500 mr-1">Export</span>
+        <button
+          onClick={() => downloadXlsx(filteredStories, filteredMentions)}
+          className="inline-flex items-center gap-1.5 rounded border border-[#0471ad] bg-[#0471ad] text-white px-2.5 py-1 hover:bg-[#03578a] hover:border-[#03578a] transition-colors font-medium"
+          title="Two-sheet workbook: Stories + Mentions. Filters applied."
+        >
+          <span>⤓</span> Excel (.xlsx)
+        </button>
+        <button
+          onClick={() => downloadStoriesCsv(filteredStories)}
+          className="inline-flex items-center gap-1.5 rounded border border-slate-300 bg-white px-2.5 py-1 hover:border-slate-400 hover:bg-slate-50 transition-colors"
+          title="One row per clustered story; current filters applied"
+        >
+          <span>↓</span> Stories CSV
+          <span className="text-slate-400">({filteredStories.length})</span>
+        </button>
+        <button
+          onClick={() => downloadMentionsCsv(filteredMentions)}
+          className="inline-flex items-center gap-1.5 rounded border border-slate-300 bg-white px-2.5 py-1 hover:border-slate-400 hover:bg-slate-50 transition-colors"
+          title="One row per article; current filters applied"
+        >
+          <span>↓</span> Mentions CSV
+          <span className="text-slate-400">({filteredMentions.length})</span>
+        </button>
+        <button
+          onClick={printDashboard}
+          className="inline-flex items-center gap-1.5 rounded border border-slate-300 bg-white px-2.5 py-1 hover:border-slate-400 hover:bg-slate-50 transition-colors"
+          title="Open the browser print dialog (Save as PDF available there)"
+        >
+          <span>🖨</span> Print / PDF
+        </button>
+        <span className="text-[11px] text-slate-400 ml-auto hidden sm:inline">All exports respect the active filters</span>
+      </section>
+
       {/* Risk highlights */}
       {riskStoriesLast7d.length > 0 && (
         <section className="rounded-lg border border-amber-300 bg-amber-50 p-4">
@@ -379,7 +421,7 @@ export default function Page() {
       )}
 
       {/* Filters */}
-      <section className="rounded-lg border border-slate-200 bg-white p-4">
+      <section className="no-print rounded-lg border border-slate-200 bg-white p-4">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
           <FilterBox label="Date range">
             <select className="filter-select" value={dateRange} onChange={(e) => setDateRange(e.target.value as DateRange)}>
