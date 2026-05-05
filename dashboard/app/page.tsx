@@ -13,12 +13,7 @@ import {
   type Sentiment,
   type Story,
 } from "@/lib/data";
-import {
-  downloadMentionsCsv,
-  downloadStoriesCsv,
-  downloadXlsx,
-  printDashboard,
-} from "@/lib/exports";
+import { downloadXlsx, printDashboard } from "@/lib/exports";
 import {
   SentimentChart,
   ShareOfVoiceArea,
@@ -363,35 +358,20 @@ export default function Page() {
         <span className="text-[11px] font-semibold uppercase tracking-wider text-slate-500 mr-1">Export</span>
         <button
           onClick={() => downloadXlsx(filteredStories, filteredMentions)}
-          className="inline-flex items-center gap-1.5 rounded border border-[#0471ad] bg-[#0471ad] text-white px-2.5 py-1 hover:bg-[#03578a] hover:border-[#03578a] transition-colors font-medium"
-          title="Two-sheet workbook: Stories + Mentions. Filters applied."
+          className="inline-flex items-center gap-1.5 rounded border border-[#0471ad] bg-[#0471ad] text-white px-3 py-1.5 hover:bg-[#03578a] hover:border-[#03578a] transition-colors font-medium"
+          title="Two-sheet workbook (Stories + Mentions) with clickable article links. Filters applied."
         >
           <span>⤓</span> Excel (.xlsx)
-        </button>
-        <button
-          onClick={() => downloadStoriesCsv(filteredStories)}
-          className="inline-flex items-center gap-1.5 rounded border border-slate-300 bg-white px-2.5 py-1 hover:border-slate-400 hover:bg-slate-50 transition-colors"
-          title="One row per clustered story; current filters applied"
-        >
-          <span>↓</span> Stories CSV
-          <span className="text-slate-400">({filteredStories.length})</span>
-        </button>
-        <button
-          onClick={() => downloadMentionsCsv(filteredMentions)}
-          className="inline-flex items-center gap-1.5 rounded border border-slate-300 bg-white px-2.5 py-1 hover:border-slate-400 hover:bg-slate-50 transition-colors"
-          title="One row per article; current filters applied"
-        >
-          <span>↓</span> Mentions CSV
-          <span className="text-slate-400">({filteredMentions.length})</span>
+          <span className="text-sky-100/80">({filteredStories.length} stories · {filteredMentions.length} mentions)</span>
         </button>
         <button
           onClick={printDashboard}
-          className="inline-flex items-center gap-1.5 rounded border border-slate-300 bg-white px-2.5 py-1 hover:border-slate-400 hover:bg-slate-50 transition-colors"
+          className="inline-flex items-center gap-1.5 rounded border border-slate-300 bg-white px-3 py-1.5 hover:border-slate-400 hover:bg-slate-50 transition-colors"
           title="Open the browser print dialog (Save as PDF available there)"
         >
           <span>🖨</span> Print / PDF
         </button>
-        <span className="text-[11px] text-slate-400 ml-auto hidden sm:inline">All exports respect the active filters</span>
+        <span className="text-[11px] text-slate-400 ml-auto hidden sm:inline">Both exports respect the active filters</span>
       </section>
 
       {/* Risk highlights */}
