@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T17:43:30+00:00",
+  "generated_at": "2026-05-06T22:46:31+00:00",
   "stats": {
-    "mention_count": 1324,
-    "story_count": 1212,
-    "analyzed_count": 535,
-    "off_topic_mentions": 31,
-    "off_topic_stories": 23
+    "mention_count": 1343,
+    "story_count": 1225,
+    "analyzed_count": 550,
+    "off_topic_mentions": 42,
+    "off_topic_stories": 29
   },
   "outlets": [
     "20Minutos",
@@ -40,6 +40,7 @@
     "Cooling Post",
     "Dagens Medisin",
     "Dagens Næringsliv",
+    "Dailyhunt",
     "Dalane Tidende",
     "DeSmog",
     "Deia",
@@ -64,9 +65,11 @@
     "El Español",
     "El HuffPost",
     "El Mundo",
+    "El Periódico de Ceuta",
     "El Periódico de la Energía",
     "El Productor (Ecuador)",
     "El Universo",
+    "Europa Press",
     "Farmers Review Africa",
     "Feedstuffs",
     "Finansavisen",
@@ -190,6 +193,7 @@
     "VG",
     "Vesterålnytt",
     "Via Ritzau",
+    "VigoÉ",
     "Vistazo",
     "Vozpopuli",
     "WATTPoultry.com",
@@ -210,6 +214,7 @@
     "banett.no",
     "elDiario.es",
     "elciudadano.com",
+    "espana.gastronomia.com",
     "explora.cl",
     "fvn.no",
     "gat.no",
@@ -698,6 +703,21 @@
       "company": "BioMar"
     },
     {
+      "id": 1247,
+      "headline": "Schouw & Co to pursue IPO for fish feed producer BioMar - TradingView",
+      "story_summary": "Schouw & Co has announced plans to pursue an initial public offering for its fish feed producer subsidiary BioMar. The move represents a significant financial development for the aquaculture feed company.",
+      "first_seen": "2026-05-01T06:40:00+00:00",
+      "last_seen": "2026-05-01T06:40:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 365,
       "headline": "Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen - The Manila Times",
       "story_summary": "Schouw & Co. announced its intention to pursue an Initial Public Offering (IPO) of BioMar, its aquaculture feed portfolio business, on Nasdaq Copenhagen. The move marks a significant corporate action for the Danish parent company and its subsidiary in the aquaculture sector.",
@@ -871,6 +891,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHQ2Vkw2NkcwSlY1Nk5VNkVnUTlhNTgwY0F2eUw3Z19wajlUMllNTWRlLWEwaDVFd2FIa2FWNDBzQ1BZblpra2ZpZHRsdmw3bDBMN2tyZXZGSUxBNWhOWFM4dnY1b0NVdUZVV2tHU0EtX2U3blRSRkdDenk3YlNFRV8tRWo2WVNq?oc=5\" target=\"_blank\">Slo fast: Denne skolen skal legges ned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">agderposten.no</font>",
       "first_seen": "2026-04-30T08:52:02+00:00",
       "last_seen": "2026-04-30T08:52:02+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1246,
+      "headline": "Shrimp for Health: Right to Protein (RTP) Joined Skretting India's First Shrimp-a-thon to Boost Protein Awareness - Dailyhunt",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNdF9rbWtseElnMXduX3FTZC05eS1zM0FqMnJRS3J0aGxZMWRBdXpTVnBfbUhDV3MwWV9va3JJcHpYMEZNaFNzaFNGNDJVa20wUlJNUVJ5WHlkNTAxQ0xYQk00dkJGMXNuU0hoQUNsOFFDWUpoUjl3aWhKdnVBbE1tNVpWRTJBWGpRbEMtQXR4REZhLU4wUVkwZnA4alA3b096SU4yZl96dnMySS1YZno5NUtjaktVVzlwbzByODNnX01fS0JZTHllOTZhQm8yQWxRU3Job2k0UEFKRU55NE81dGJxbW00ZVFxR21XeHBZeXpyNmRWMkJJbk9NenAzV2JkTVEwQUd5T2JDTTFMSm90MTYtWk9sLXBHMkFuTA?oc=5\" target=\"_blank\">Shrimp for Health: Right to Protein (RTP) Joined Skretting India's First Shrimp-a-thon to Boost Protein Awareness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailyhunt</font>",
+      "first_seen": "2026-04-30T03:46:53+00:00",
+      "last_seen": "2026-04-30T03:46:53+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -1258,6 +1292,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1245,
+      "headline": "HSMI en salmón coho: BioMar Chile describe su estrategia nutricional - Salmonexpert",
+      "story_summary": "BioMar Chile presents its nutritional approach to addressing HSMI (Heart and Skeletal Muscle Inflammation) in coho salmon. The article focuses on the company's feed strategy and technical response to the disease challenge in aquaculture production systems in Chile and the region more broadly.  ―→ [Analysis based on title/summary; full article text not provided for detailed claim extraction.]  Overall: Direct mention of BioMar Chile as primary subject discussing operational/technical strategy within aquaculture context (feed and health)—a core brand activity domain. Tone: informational/technical, neither critical nor celebratory. Confidence in target-brand identification: high (BioMar, aquaculture, feed, Chile regional office).",
+      "first_seen": "2026-04-09T09:10:00+00:00",
+      "last_seen": "2026-04-09T09:10:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 815,
       "headline": "Lethbridge Polytechnic valedictorian thanks grandpa for farming path - Alberta Farmer Express",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IZFF0MnU5bm55QXZlZ0pNWkh3MGRkTEtNSWVLOVY1ZUtQclE5VEwzYm5Xd3dLcVp2dWg0aEluOElMQUV1WFgyblNtdmNtaUxkRVVYSVRR?oc=5\" target=\"_blank\">Lethbridge Polytechnic valedictorian thanks grandpa for farming path</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alberta Farmer Express</font>",
@@ -1620,6 +1668,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1244,
+      "headline": "Protur Chef 2026: La octava edición del certamen gastronómico llega al Protur Biomar Sensatori Resort - espana.gastronomia.com",
+      "story_summary": "The article announces the eighth edition of the Protur Chef culinary competition taking place at the Protur Biomar Sensatori Resort in Spain. 'Biomar' in this context refers to the resort name, not the aquaculture feed company BioMar Group A/S of Aarhus, Denmark.",
+      "first_seen": "2026-03-24T12:17:14+00:00",
+      "last_seen": "2026-03-24T12:17:14+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
     },
     {
       "id": 328,
@@ -2206,6 +2268,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1243,
+      "headline": "Un gigante híbrido de emisiones cero busca refugio en Vigo (y su silueta revoluciona la ría) - VigoÉ",
+      "story_summary": "A large zero-emission hybrid ship is reported to be seeking shelter or docking in Vigo, Spain, with its distinctive silhouette generating local attention. The article focuses on the vessel and port infrastructure rather than aquaculture feed or marine nutrition operations.",
+      "first_seen": "2026-02-18T08:00:00+00:00",
+      "last_seen": "2026-02-18T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -3078,6 +3154,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1242,
+      "headline": "Mowi partnering with Skretting instead of selling feed division seen as smart play - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcDlweE84R0U1MTV1ZzZ2cWxpWFFxbHc3c1lzbm9ZNmNaOGVpdjU3cTV4dVlkbjJOalRNcUgwaXVmaTZnemtmMy14N1BVdmI2NmRXc3dSSER3czMyRTNfbF93a0o3VjMzUmJ5MW9RSWlEQTctVUR5NkpkSDJGM05zcFZMZDd2dldqTUNIdGlMZzgyY2c3VjM1UlJ5UXZZMXNEZk12dVlTYmVxWE9hMGdqaFRqZjVrcV80aDItcTdVNnhSZW8?oc=5\" target=\"_blank\">Mowi partnering with Skretting instead of selling feed division seen as smart play</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2025-12-24T08:00:00+00:00",
+      "last_seen": "2025-12-24T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 281,
       "headline": "BioMar - Bladet Vesterålen",
       "story_summary": "BioMar is referenced in a Bladet Vesterålen article. No substantive details about the company or its operations are provided in the available excerpt.",
@@ -3118,6 +3208,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1241,
+      "headline": "El falso arsenal militar que la Policía incautó a una trama de hidrocarburos - La Razón",
+      "story_summary": "Spanish police conducted a seizure operation against a hydrocarbon trafficking network that included confiscation of counterfeit military equipment. The article focuses on an organized crime case involving fuel-related illicit activity rather than aquaculture operations or feed production.",
+      "first_seen": "2025-12-23T08:00:00+00:00",
+      "last_seen": "2025-12-23T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
     },
     {
       "id": 760,
@@ -3199,7 +3303,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -3484,6 +3588,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1240,
+      "headline": "La UDEF descubre una fábrica clandestina de armas de guerra en una operación de hidrocarburos - Vozpopuli",
+      "story_summary": "The UDEF (Spanish police unit) discovered a clandestine weapons manufacturing facility during an investigation into hydrocarbon operations. The article focuses on law enforcement activity related to illegal weapons production and fuel smuggling, with no substantive connection to aquaculture or the target BioMar company despite the keyword match in the source URL or metadata system error.",
+      "first_seen": "2025-12-18T08:00:00+00:00",
+      "last_seen": "2025-12-18T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 268,
       "headline": "Grøn omstilling på Karmøy - Det Norske Kongehus",
       "story_summary": "An article about green transition efforts on Karmøy, a Norwegian island, that mentions BioMar in passing. The specific details of BioMar's role or involvement are not provided in the available summary text.",
@@ -3596,6 +3714,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1239,
+      "headline": "Uno de los cabecillas de un presunto fraude de fuel de 280 millones fue indultado por Zapatero - The Objective",
+      "story_summary": "The article discusses a prominent figure in an alleged 280-million-euro fuel fraud case in Spain who was pardoned by former Prime Minister Zapatero. The keyword match to 'BioMar' appears to be incidental or a false positive, as the article concerns Spanish hydrocarbon fraud and political pardons, not the aquaculture feed company BioMar Group A/S based in Aarhus, Denmark.",
+      "first_seen": "2025-12-08T08:00:00+00:00",
+      "last_seen": "2025-12-08T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 266,
       "headline": "Biomar Oil, registrada por la Policía Nacional, se enfrenta a la denuncia de Lukoil, la petrolera rusa, en los tribunales de EEUU - El Español",
       "story_summary": "Biomar Oil, a Spanish petroleum company registered with Spain's National Police, is facing a lawsuit from Russian oil company Lukoil in U.S. courts. The article focuses on legal disputes involving the oil trading company, not the aquaculture feed producer BioMar Group A/S of Aarhus, Denmark.",
@@ -3652,6 +3784,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1238,
+      "headline": "Libertad con cargos para tres directivos de Biomar por fraude del IVA de hidrocarburos - Noticias de Navarra",
+      "story_summary": "Three executives from Biomar (a Spanish hydrocarbons company) have been released pending charges related to VAT fraud on fuel products. This article concerns a different company than the Danish aquaculture feed producer BioMar Group A/S tracked by this monitoring system.",
+      "first_seen": "2025-12-03T08:00:00+00:00",
+      "last_seen": "2025-12-03T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 258,
       "headline": "Millions of euros, raids, and arrests: Biomar at the center of a scandal - russpain.com",
       "story_summary": "This article concerns Biomar S.A., a Spanish hydrocarbons and fuel company, not the Danish aquaculture feed producer BioMar Group. The piece describes criminal investigations, raids, and arrests related to the Spanish company's operations. This is a different entity that shares the Biomar name; the Danish aquaculture BioMar Group is the target brand we track and is not the subject of this article.",
@@ -3661,7 +3807,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -3717,21 +3863,21 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 8,
+      "pickup_count": 10,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
     {
       "id": 263,
-      "headline": "La Policía registra la sede de la empresa de hidrocarburos Biomar Oil por organización criminal y falsedad - La Razón",
-      "story_summary": "Spanish police conducted a raid on Biomar Oil, a hydrocarbon company, investigating allegations of criminal organization and fraud. The operation targeted the company's headquarters as part of a broader investigation into irregularities in the sector.",
+      "headline": "La Policía registra la sede de la operadora de hidrocarburos Biomar Oil por orden de la Audiencia Nacional - ABC",
+      "story_summary": "Spanish police conducted a raid on the headquarters of Biomar Oil, a hydrocarbon operator, pursuant to an order from Spain's National Court (Audiencia Nacional). The raid appears to be part of a legal or investigative action related to the company's operations or compliance matters.",
       "first_seen": "2025-12-02T08:00:00+00:00",
       "last_seen": "2025-12-02T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 3,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -3753,6 +3899,20 @@
       "id": 265,
       "headline": "Registro policial en Biomar Oil por orden judicial en la Audiencia Nacional - Demócrata",
       "story_summary": "Spanish authorities conducted a police search at Biomar Oil following a judicial order from the National Court. The raid appears to be part of a legal investigation, though specific details are not provided in the headline and summary excerpt.], ",
+      "first_seen": "2025-12-02T08:00:00+00:00",
+      "last_seen": "2025-12-02T08:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
+      "id": 1237,
+      "headline": "La policía registra la empresa Biomar Oil por un supuesto fraude millonario y detiene a ocho personas - Demócrata",
+      "story_summary": "Spanish police conducted a search of Biomar Oil company following allegations of large-scale fraud, resulting in eight arrests. The raid was reported by the Demócrata outlet as part of an investigation into the suspected fraudulent activity.'], ",
       "first_seen": "2025-12-02T08:00:00+00:00",
       "last_seen": "2025-12-02T08:00:00+00:00",
       "primary_sentiment": "negative",
@@ -15369,6 +15529,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 1236,
+      "headline": "Alimentsa approved to join BioMar in USD 119m transaction - SalmonBusiness",
+      "story_summary": "Alimentsa has received approval to join BioMar in a USD 119 million transaction. The deal represents a significant expansion for BioMar's operations through the acquisition of the Chilean feed producer.",
+      "first_seen": "2017-09-13T07:00:00+00:00",
+      "last_seen": "2017-09-13T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 434,
       "headline": "Cargill presenta a sus nuevos Consultores de Alimentación - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1VlNUVjMjYwRy1KSlAxMmI4Y1ViTFZyN1I3UzdEZmNPTC1qWWRvUUdHM2NFeFVuRFBrUDBId0Q0dXZ1S0YtN3h4bnQxQU9na2lremVNUG90VGlGVFF0MFA4QjBJU2o1TVpfSThOTkdqa1dVSzhxX3cxRm1NTUxxeUJtM1FLYzNJbEdmQmx6eXl4WGZOVWt2TGh4VXJuckRSSWE5akEzbWF5c2E5b0I2dWpHQnluMEtIVWR3?oc=5\" target=\"_blank\">Cargill presenta a sus nuevos Consultores de Alimentación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -16487,6 +16661,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1235,
+      "headline": "- Biomar innfører ny ledelsesstruktur - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBhdmY5TldzNWg0eEFibm1RdlY4enVqRnIxR2h5ME0ybDgwQ2hsMjMtVG1rdFNycjZKOXNoNlpCVzdSOUN3SWw4bkVhcXFjblJVbEVmQXY3dzFLUTFjeGVjMmpjTFU2ZnM1RXkyNS01UkcyenFoeGc?oc=5\" target=\"_blank\">- Biomar innfører ny ledelsesstruktur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2014-11-20T08:00:00+00:00",
+      "last_seen": "2014-11-20T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 981,
@@ -48098,6 +48286,447 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXNtZ3ZLUmxlM3lmZDBlVEZvb1lSbmJLS1pGX2hFZ3ZsWWRBODJmdnpWZWFKbkE2RFFSSHBYNFNGc3A4b0lyZ1o5bnFfVF8yM3BXX1p4NEp3cFNaYlhvcVpvc2pDV3k0Rnk2NVNQbXZqTnRJUnQzUzB6UTk0Q0w0a1haM1RKSFZEU09Gam5jX0lLUFNGU1FXZGc0MXM?oc=5\" target=\"_blank\">Her er det nye bondestyret – kjem med kraftig åtvaring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 26038,
+      "story_id": 1245,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb0dLM3dPVWcxUFktQ094Ri1TTG92UGR2cnJPWEl0RWVfajA5Q09PSVpXc2tDUXVoM0RfUlRfMFhsdDdiZURQMXZIV3ZVNTFvVXpNb1FVeUNrb3BTNXRsNWwxalk3XzFFUF9JTmZaUFhzb1dibzktX3ZvdUVWMEZMZ0RGZ1dMR1djRXFabUU0TDNvN1VnazE0aktOa2lWa0kyOVUtVDc1MTdXUnVNbjdheU9QWm5wRXpHUG5faHZ2RnpBMERGbENITmxlM2NpeUE?oc=5",
+      "title": "HSMI en salmón coho: BioMar Chile describe su estrategia nutricional - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2026-04-09T09:10:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Chile outlines nutritional strategy for HSMI in coho salmon",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Chile presents its nutritional approach to addressing HSMI (Heart and Skeletal Muscle Inflammation) in coho salmon. The article focuses on the company's feed strategy and technical response to the disease challenge in aquaculture production systems in Chile and the region more broadly.  ―→ [Analysis based on title/summary; full article text not provided for detailed claim extraction.]  Overall: Direct mention of BioMar Chile as primary subject discussing operational/technical strategy within aquaculture context (feed and health)—a core brand activity domain. Tone: informational/technical, neither critical nor celebratory. Confidence in target-brand identification: high (BioMar, aquaculture, feed, Chile regional office)."
+    },
+    {
+      "id": 26073,
+      "story_id": 1244,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOUVHWmxXemE5eFJfclRELUhwN2dtdS1OdmR1cnhMcWZobWdEVUdNYU9OQWJHdm13MGNJMVVObEZmNVdLTjB5SUxuOE0tOExlUXlOZFRfZ2x2dU8wUjNwVzk2MjBqWm83WXpyaHd5MU5jbmR6cUc0M2o0dVhIT3YtTlNyMjBiZ1JzNGgxTWVmd0pIQWxWMFBuU1FTZ3RpU1R0SndDdXcxSUVPRm9LcXpiTllxamFoT2Z1YmN4MDlDY0lJdnhEM2oxN1pKLXV2QVV6czViaWhRT3p0OW9v?oc=5",
+      "title": "Protur Chef 2026: La octava edición del certamen gastronómico llega al Protur Biomar Sensatori Resort - espana.gastronomia.com",
+      "source_name": "espana.gastronomia.com",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2026-03-24T12:17:14+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Eighth edition of culinary competition held at resort with 'Biomar' in name",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article announces the eighth edition of the Protur Chef culinary competition taking place at the Protur Biomar Sensatori Resort in Spain. 'Biomar' in this context refers to the resort name, not the aquaculture feed company BioMar Group A/S of Aarhus, Denmark."
+    },
+    {
+      "id": 26081,
+      "story_id": 1239,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12LVAyelotNktlamlaYVhhaklkVUFoUjVVbGZSNUFHQ0lCWWlGXzJvLUpSSHk4V3dJSHBPM2hVblZzZ2tfS1R2WkhNWnh4X3VaUml2OWFnVWh5UUlUQWM2bV84RjJYRFg1WDlqeWdMNmNJOHNxYm9fMWh2NWdCLUHSAYQBQVVfeXFMUGlWRERuU0Z6RWVpMTlFQzVfWVZYSTYwWlVmZTdKaGNRWHZZNXdobEN5TmNZeEc3ZHFlNVNPdUh3U3RHR1Vkam5wU2RHZC1Sd0VPMlBzY2RVSm42bmhpSGhMUnlPc0c2R0ZOMUFNNDJ6U1hfb0Z6Q0RxWEtyRXR4OGM3YmhI?oc=5",
+      "title": "Uno de los cabecillas de un presunto fraude de fuel de 280 millones fue indultado por Zapatero - The Objective",
+      "source_name": "The Objective",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2025-12-08T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Spanish fuel fraud case involving historical pardon",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article discusses a prominent figure in an alleged 280-million-euro fuel fraud case in Spain who was pardoned by former Prime Minister Zapatero. The keyword match to 'BioMar' appears to be incidental or a false positive, as the article concerns Spanish hydrocarbon fraud and political pardons, not the aquaculture feed company BioMar Group A/S based in Aarhus, Denmark."
+    },
+    {
+      "id": 26084,
+      "story_id": 263,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTNRbkd4ZG5GMEU0bnVWZVBWRlNWVkdieFlmRmdEZFlFcldBOFAzSXB3SDlNMWpCLVhGaDNteGdKUnptRjM4V3VOdkxBN01WSV9vbWlzZUk5OHFIOVhwM2FvaWtvOHFjd0o0bGNMTHJCQnQybUdXSXk3ZzFNSXhpd2NVWDlDdEhtS3ZZMm1aZzdBNDJaUVZONGc3cFRzb0psZzd6bWpRbDc?oc=5",
+      "title": "La Policía registra la sede de la operadora de hidrocarburos Biomar Oil por orden de la Audiencia Nacional - ABC",
+      "source_name": "ABC",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Police raid on hydrocarbon operator Biomar Oil headquarters by national court order",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Spanish police conducted a raid on the headquarters of Biomar Oil, a hydrocarbon operator, pursuant to an order from Spain's National Court (Audiencia Nacional). The raid appears to be part of a legal or investigative action related to the company's operations or compliance matters."
+    },
+    {
+      "id": 26085,
+      "story_id": 262,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd1hrVnNreGF0bmtZSDRPN0pkbGlnMXBkTEdXY1g0b2Y5Xzg4VmFuWm55T2hqQTlzMkFvV2J4MFVvYkVhc0R6dTlSS291U2ZPOG1tVldvNTVxUkxOb0V0UjV4UWxsVFNEQTlrYW11d3lQZERfcXZha1dyeFJad2JMQ3JZYk5GWmxkbHlxV1R4YjVuWkRfeEtoZUNMdnNKVHlqRkg0ZnE1SUk4TmFWYUJtYi1BbWlQM2UzeXVEeFpUaW9oZVRwemFlMnN5Q3g2VFZIUjUzLQ?oc=5",
+      "title": "Varios detenidos tras registros en Biomar Oil por un presunto fraude de hidrocarburos de 280 millones - Europa Press",
+      "source_name": "Europa Press",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Multiple arrests in hydrocarbon fraud investigation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Several individuals have been detained following raids on Biomar Oil in connection with an alleged 280 million euro hydrocarbon fraud scheme. The investigation focuses on financial irregularities in the oil sector unrelated to aquaculture operations."
+    },
+    {
+      "id": 26088,
+      "story_id": 1237,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGs5VklTcGJ5bGdiVTJGbUZwaWJpVndRaWpEY014S2lFN0Uxc0NNMTlyRVNkRnNoN0t3MzVjdzRVRkt5Uzc1UndISmxCWFBqR3pWQ1MtNVZLbHIyMVM3c0NBRDJyMVl2a3I5d1U3UDFtTWNDY29YQjk1WkJNb0lUOVEyN3d4aS1xVWk2VWNDQmxXWmVhRk5ZTmtNMTJ0S0hLNEplNHFhRlBvX0J5dnk2UjA0QTEtQnluaU1v0gHAAUFVX3lxTE5xaUFLSG5BWDhzVEpVSW9SUjI1RkdqUGM3N2RPNGJxSlAza3dURVZ4R1pNWnl1ckxiTWZkV1RNSmhIY1JiT1YwMC1hNUFQVHN3enBYQ0RzRmZlcTRHeHVjN2RHQzJuOTY2TGUwbUc5cVZvT21NZ0ZuVV9EdFlZTkRrb0ppMi1DLW5fNWV0NjlMMXBubE92dThlOWNSU25hX2E1cE5YZ0JNVEE1QTBlVm1oOFFQQlZPa1hvUlpyMkZEWg?oc=5",
+      "title": "La policía registra la empresa Biomar Oil por un supuesto fraude millonario y detiene a ocho personas - Demócrata",
+      "source_name": "Demócrata",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Police raid Spanish oil company Biomar Oil on fraud allegations.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Spanish police conducted a search of Biomar Oil company following allegations of large-scale fraud, resulting in eight arrests. The raid was reported by the Demócrata outlet as part of an investigation into the suspected fraudulent activity.'], "
+    },
+    {
+      "id": 26091,
+      "story_id": 258,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVktN1phWWF0bFdNbWhMV3luSk5UYXlWdUZaaTZYQnB1MXRIemdaY0pjZXBwWUhWcGdMMkVKOUFZYThHMkR2RUwxTU5wRnlsNE5ZTnBKR3A4ZFdzbWItbHJqSG9QZXdxSklwQXE0Qm83VjVuZ2YyYzQtX3I0SldtMmNiTFg0X21KaGlPejdJSGhkQzdFc2MxMEE3czJyMXRRSTlpaHpZdFY4bHpWYUJmeWt1UUwtZ2ZJUnpxZ1lR?oc=5",
+      "title": "Millones de euros, registros y detenciones: Biomar en el centro del escándalo - russpain.com",
+      "source_name": "russpain.com",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Spanish hydrocarbons company Biomar at center of fraud scandal",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article reports on a scandal involving Biomar, a Spanish company, centered on millions of euros, raids, and arrests. This refers to the Spanish hydrocarbons/VAT-fraud company Biomar S.A., not the Danish aquaculture feed producer BioMar Group A/S tracked by this service. The outlet russpain.com and keyword match (\"Biomar\" in scandal context) triggered the capture, but the target company is a namesake unrelated to aquaculture or Schouw & Co. This analysis is logged for transparency but should be excluded from brand-monitoring dashboards focused on the aquaculture BioMar Group."
+    },
+    {
+      "id": 26092,
+      "story_id": 1241,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWtwN3lvWFJDejRtT0I1d3ltVFMyQXJJSHFFNy1Cc1ppUjN3R0tlZVRWSzdiY2NOWXI1VENndHZteUtzYXdMM1FOUDl3MFVyQjE0UFQ2NDVFWnh6cHRDMnNtX3dwN0NzTjJlYmN4cGJzb1ZaV25wMFJvbExDdC1HV3EwUnpBVkFkSUE2YmdMRW1zdTFfTmxIdFJETjQ4dFNlWHBjNWZuUjkxajJIX2VIaEV2Mm5vVXhsdk5ZTTczcHV2a1ZLa2k5MNIB3AFBVV95cUxQd2w5TnE5UVlyZmJfZnR2NkRKS09TaXZsRkpaR0RoTk9BQVR0YXB1NmRiQVExaGc3QUZjOGQ5S0k0RXFqcFJ5T0lOTEU0SzlVV0o0YllGZHBTQ08wUFJWeDR4TTJmMkFQVXFleUJMOUExY1piU2NxRlBkclROYXg1ZUg3akV2a2RZc1UwajNCR09FUnpZQUR2YThhMUdmN19PUUFjZlFvX1hocm43WER2cmZiaTBuVEJ1cGFpeC1QeHJwWVp1M1llU2QtY3BvZXVXcTV5LWpJWVRpTTRK?oc=5",
+      "title": "El falso arsenal militar que la Policía incautó a una trama de hidrocarburos - La Razón",
+      "source_name": "La Razón",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-12-23T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "passing",
+      "angle": "Police seize fake weapons in hydrocarbon trafficking investigation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Spanish police conducted a seizure operation against a hydrocarbon trafficking network that included confiscation of counterfeit military equipment. The article focuses on an organized crime case involving fuel-related illicit activity rather than aquaculture operations or feed production."
+    },
+    {
+      "id": 26096,
+      "story_id": 263,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVlhheW9JYjFNeVdYOHU3MUl4aWdRSVZfem9YWTgzQmpjaGt1X2hXWVJtekV5cWJnaHlYNFlrbVdmXzQxSXR4QkNmZlVkcDFiQjlKV2dsMWVuR0dvRU5oSHB3MFVsUHhwMU1TWTBQRkVxSXFGZmRPOHRpdkdGZ1VJcDlLUnozUmJHRFh6Sm1CeDdfNzJSSDB6MWdYS3ctenQ1Mjd3bjFKV3p4YXZhQWlldU05RGFEV0NpRms5YzNYRGdJYzlsN3fSAcsBQVVfeXFMUElDYTNiYm5CM2c4VFh4UnVGMm9DNGlYYmRUQ0xJX0VmbU96R1VrUzR0eXlZdl93aU1nczJhVFpCTVBIc1lOQWo4TDRmUGk3cHduSXZoNnQwZEM2ZW01THJkZjJldzRkd0FYaUZULXBXLWxOTmFPTlhrMEhOVTZLcEgyMktJVjQyN1ZTU1N4QWZLdGtlTVI2Wk0xYUxEM2ctT05wZmRPS3dnRW9NR0ptcV9sOUhFZnNpNnk2N2d0bDZSR1AwYjBrMGprYVU?oc=5",
+      "title": "La Policía registra la empresa de hidrocarburos Biomar Oil por orden de la Audiencia Nacional - 20Minutos",
+      "source_name": "20Minutos",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Police raid on Spanish hydrocarbon company Biomar Oil",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Spanish police conducted a raid on Biomar Oil, a hydrocarbon company, following an order from the Audiencia Nacional (National Court). The action appears to be part of a legal or regulatory investigation into the company's operations."
+    },
+    {
+      "id": 26098,
+      "story_id": 262,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZlM2Z3h3VVlHSFoyLXlpakdiUHBFWUxFbEdpQlNHeE9EU21fUFRqOTBNcHRnMFh5N3dEazhsVHR2VFMwXzF3VDVLd01UeG1teWFhczlUV0hvNjRaZ2xYNzdSQnhjTmxOYlh0Ykc0NEVjUGJwU0k1Qlp5ZFJNVnVXMmxfQlRKWGFlMFFxM2dOQXZIZTdiaWN1OUZRVFFpNHBfV0JQVUR6RmotSXpRVXRhc2J5RGJvOThheHVQMmlaZ0RfVnI4X0s1UlJWWU0tbTdM?oc=5",
+      "title": "Detienen a seis personas en la sede de Biomar Oil por un presunto fraude millonario de hidrocarburos - El Periódico de Ceuta",
+      "source_name": "El Periódico de Ceuta",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Law enforcement arrests six people in hydrocarbon fraud investigation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Spanish authorities arrested six individuals at the offices of Biomar Oil in connection with an alleged large-scale hydrocarbon fraud scheme. The operation targeted the company's headquarters as part of a criminal investigation into illicit fuel trading or related commodity fraud."
+    },
+    {
+      "id": 26106,
+      "story_id": 1238,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSzd1QXIyb2xpT1pPc3JsSnpobEQxWk0zektKeW9VNnhlaEpsUmh2R1RnWXJjbXJ1S0VTY0hEVjNycWlubDh6ZENraFlyN2M5ZDZIdnBSVllycXNXeEcyRVVGVUc1NmxvaWxSV3FvOUJpQk5paXFDd29idFpiS2NNaW9jR1V0NnFqQWRVMlg0R3JRQ0lUWE5BQXZtMlpkVDhYbk5pWnVKZC1vQdIBrwFBVV95cUxORlRzbHpZaHdGYVAzamtDamNnTWxuMXpyODlmRDdSTkk0YjZoTGVBS3MwaWlueEJNVDFQRjUwRk5qR0l0NUh0N0tIYTE3MExELTg1cXQ5bjJlRFNrR2JXSjVDamdOOFdkeUlRMG1oN28xSTM5bjB1OUlXem90bERyRUxKZkUzZGdyeHk4Yk5HMmxEMXdrSHBsRlRsOG9HMU00alZLTk44YUNKUWlrMnZr?oc=5",
+      "title": "Libertad con cargos para tres directivos de Biomar por fraude del IVA de hidrocarburos - Noticias de Navarra",
+      "source_name": "Noticias de Navarra",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2025-12-03T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Spanish hydrocarbons VAT fraud case involving Biomar executives",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Three executives from Biomar (a Spanish hydrocarbons company) have been released pending charges related to VAT fraud on fuel products. This article concerns a different company than the Danish aquaculture feed producer BioMar Group A/S tracked by this monitoring system."
+    },
+    {
+      "id": 26108,
+      "story_id": 1243,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZG0xQTZON2hJSHQ5SU5Qdmw4NzEyTWxiREZlWWFkSUw2R0Qtc2VlUEI2V3ZKZ0g0SzZkN1dpNVFSc3J1bzFWNXVBZUZBTW0wR1dKT3VFdENLUkZYQkRzNF9FLTVjU21NY0dBemU2ekdwR250bkZtTGFEUDRCMlFIelk2MFJEUURnZERnaW1tRjR2WG05TjBKTEt4M2ZTeFdpbGZjallsaXZrUWYxTEVQRVNaZVdYVy1pdTR3MDk3ZE5pSFlZ?oc=5",
+      "title": "Un gigante híbrido de emisiones cero busca refugio en Vigo (y su silueta revoluciona la ría) - VigoÉ",
+      "source_name": "VigoÉ",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2026-02-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Zero-emission hybrid vessel seeks port refuge in Vigo",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A large zero-emission hybrid ship is reported to be seeking shelter or docking in Vigo, Spain, with its distinctive silhouette generating local attention. The article focuses on the vessel and port infrastructure rather than aquaculture feed or marine nutrition operations."
+    },
+    {
+      "id": 26110,
+      "story_id": 1240,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHJ6dE92aU83QlZJMHlNZTc5RlZFbTE4QWY3QkdWLTFfYUdHTlBPWlBVSDlxY0FqWE1EcWtOalJxWV8wUE5kVHpjTkxaQ19ZcUVmZFRFQnNEYTdEZ0xIdnp3clc1V0RMLUpwLTBsWllaTjhLaEV3NEVnQkZ3V2tROGZfSDQ3b2RQQ3U4YWpvSGFYT2dIeFlId3dOclR1Y0gwVUZxbUFrVEtPR1NQMWJpQnBacWLSAboBQVVfeXFMUFJpTGd1SFQ2NGNtMjhXVE9jN1ZBSEo1SGJyVFhiUVdrRS1XZ1ltNlpUTEgyNDBhb2hmUlptVkN3NDBla19IN05DNG1PaF9LR2pKWm5CTHBXN1J6LTJBLUxrdng3elhtS0t6a3pucHBzRmtMVDZaTVlqWUZIUGZHSkZIcEVOZHo5MHVSWHFkSlF0RVY3cDVJRXlwNWJKOEg3cGtjdXktNG8zM3BZRFlqSC0zRzNUSG9oajRR?oc=5",
+      "title": "La UDEF descubre una fábrica clandestina de armas de guerra en una operación de hidrocarburos - Vozpopuli",
+      "source_name": "Vozpopuli",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2025-12-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Spanish law enforcement uncovers illegal weapons factory in hydrocarbon operation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The UDEF (Spanish police unit) discovered a clandestine weapons manufacturing facility during an investigation into hydrocarbon operations. The article focuses on law enforcement activity related to illegal weapons production and fuel smuggling, with no substantive connection to aquaculture or the target BioMar company despite the keyword match in the source URL or metadata system error."
+    },
+    {
+      "id": 26134,
+      "story_id": 1247,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3hkTFIxUmZUUUNCdnd5SXpleDdQeDNJNnpfMlQ5Y0FHbU5sUzZ4MkgzS1c4OVZoY2h1TFNmTExpSTFaMzVkVi1qWExhUC1EWm9Ba1RTbk4zVGtWc0lfcElOS2FvY01nN0paZ0x4QVpSeVRSMFdUakN2Zzk3bEtmYnNERnpsZWFUM1hGc3RuM0NqTU80YmxYVnhEdWwwOEdUQThnSG9Qa01QV2JXN1FnMF95X0oxbUxUZFEyVkJFcWs?oc=5",
+      "title": "Schouw & Co to pursue IPO for fish feed producer BioMar - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-01T06:40:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co plans IPO for aquaculture feed subsidiary BioMar",
+      "key_claims": [
+        "Schouw & Co intends to pursue an IPO for BioMar",
+        "BioMar is a fish feed producer"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "Schouw & Co has announced plans to pursue an initial public offering for its fish feed producer subsidiary BioMar. The move represents a significant financial development for the aquaculture feed company."
+    },
+    {
+      "id": 26300,
+      "story_id": 1236,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUm9vVW9LMXBYWTJnRlJicDN6WDBCWld0d2E4VEZJUW5adEtJNzN0SWxsT2dJM0o0R1lpNDVaMnM4UFNIWlAzeWFFWTJfamJXT0J5bE9SbkxSX2YtU3UtT3NsMC0xVDlHLXR4VllteFkxSlJka2czUnVlNlVKNlBhMTBua210SWFmbllidURfYmxDa03SAZMBQVVfeXFMT1Jvb1VvSzFwWFkyZ0ZSYnAzelgwQlpXdHdhOFRGSVFuWnRLSTczdElsbE9nSTNKNEdZaTQ1WjJzOFBTSFpQM3lhRVkyX2piV09CeWxPUm5MUl9mLVN1LU9zbDAtMVQ5Ry10eFZZbXhZMUpSZGtnM1J1ZTZVSjZQYTEwbmttdElhZm5ZYnVEX2JsQ2tN?oc=5",
+      "title": "Alimentsa approved to join BioMar in USD 119m transaction - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2017-09-13T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Alimentsa acquisition approved in USD 119 million transaction",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Alimentsa has received approval to join BioMar in a USD 119 million transaction. The deal represents a significant expansion for BioMar's operations through the acquisition of the Chilean feed producer."
+    },
+    {
+      "id": 26304,
+      "story_id": 1235,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhdmY5TldzNWg0eEFibm1RdlY4enVqRnIxR2h5ME0ybDgwQ2hsMjMtVG1rdFNycjZKOXNoNlpCVzdSOUN3SWw4bkVhcXFjblJVbEVmQXY3dzFLUTFjeGVjMmpjTFU2ZnM1RXkyNS01UkcyenFoeGc?oc=5",
+      "title": "- Biomar innfører ny ledelsesstruktur - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2014-11-20T08:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBhdmY5TldzNWg0eEFibm1RdlY4enVqRnIxR2h5ME0ybDgwQ2hsMjMtVG1rdFNycjZKOXNoNlpCVzdSOUN3SWw4bkVhcXFjblJVbEVmQXY3dzFLUTFjeGVjMmpjTFU2ZnM1RXkyNS01UkcyenFoeGc?oc=5\" target=\"_blank\">- Biomar innfører ny ledelsesstruktur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 26383,
+      "story_id": 1242,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcDlweE84R0U1MTV1ZzZ2cWxpWFFxbHc3c1lzbm9ZNmNaOGVpdjU3cTV4dVlkbjJOalRNcUgwaXVmaTZnemtmMy14N1BVdmI2NmRXc3dSSER3czMyRTNfbF93a0o3VjMzUmJ5MW9RSWlEQTctVUR5NkpkSDJGM05zcFZMZDd2dldqTUNIdGlMZzgyY2c3VjM1UlJ5UXZZMXNEZk12dVlTYmVxWE9hMGdqaFRqZjVrcV80aDItcTdVNnhSZW8?oc=5",
+      "title": "Mowi partnering with Skretting instead of selling feed division seen as smart play - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2025-12-24T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcDlweE84R0U1MTV1ZzZ2cWxpWFFxbHc3c1lzbm9ZNmNaOGVpdjU3cTV4dVlkbjJOalRNcUgwaXVmaTZnemtmMy14N1BVdmI2NmRXc3dSSER3czMyRTNfbF93a0o3VjMzUmJ5MW9RSWlEQTctVUR5NkpkSDJGM05zcFZMZDd2dldqTUNIdGlMZzgyY2c3VjM1UlJ5UXZZMXNEZk12dVlTYmVxWE9hMGdqaFRqZjVrcV80aDItcTdVNnhSZW8?oc=5\" target=\"_blank\">Mowi partnering with Skretting instead of selling feed division seen as smart play</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 26406,
+      "story_id": 1246,
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdF9rbWtseElnMXduX3FTZC05eS1zM0FqMnJRS3J0aGxZMWRBdXpTVnBfbUhDV3MwWV9va3JJcHpYMEZNaFNzaFNGNDJVa20wUlJNUVJ5WHlkNTAxQ0xYQk00dkJGMXNuU0hoQUNsOFFDWUpoUjl3aWhKdnVBbE1tNVpWRTJBWGpRbEMtQXR4REZhLU4wUVkwZnA4alA3b096SU4yZl96dnMySS1YZno5NUtjaktVVzlwbzByODNnX01fS0JZTHllOTZhQm8yQWxRU3Job2k0UEFKRU55NE81dGJxbW00ZVFxR21XeHBZeXpyNmRWMkJJbk9NenAzV2JkTVEwQUd5T2JDTTFMSm90MTYtWk9sLXBHMkFuTA?oc=5",
+      "title": "Shrimp for Health: Right to Protein (RTP) Joined Skretting India's First Shrimp-a-thon to Boost Protein Awareness - Dailyhunt",
+      "source_name": "Dailyhunt",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-04-30T03:46:53+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNdF9rbWtseElnMXduX3FTZC05eS1zM0FqMnJRS3J0aGxZMWRBdXpTVnBfbUhDV3MwWV9va3JJcHpYMEZNaFNzaFNGNDJVa20wUlJNUVJ5WHlkNTAxQ0xYQk00dkJGMXNuU0hoQUNsOFFDWUpoUjl3aWhKdnVBbE1tNVpWRTJBWGpRbEMtQXR4REZhLU4wUVkwZnA4alA3b096SU4yZl96dnMySS1YZno5NUtjaktVVzlwbzByODNnX01fS0JZTHllOTZhQm8yQWxRU3Job2k0UEFKRU55NE81dGJxbW00ZVFxR21XeHBZeXpyNmRWMkJJbk9NenAzV2JkTVEwQUd5T2JDTTFMSm90MTYtWk9sLXBHMkFuTA?oc=5\" target=\"_blank\">Shrimp for Health: Right to Protein (RTP) Joined Skretting India's First Shrimp-a-thon to Boost Protein Awareness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailyhunt</font>"
+    },
+    {
+      "id": 26464,
+      "story_id": 759,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGxCbnV6QTBGOWZyYTdmMUw0eTlXcGVuLTFQeC0xWXo4M3lVTk5wOGtpMTlCMEtuZ25Zbk9oVW84RFBOa1NkSXFMQmZGeHRyNFdoLTVzcFRfN0xjTWMtZ1EtZmtUYmVDMkVEOEZ5elZyN3p2YlNwU2tIQkVQNGtTcDVDVQ?oc=5",
+      "title": "Mowi og Skretting inngår nytt strategisk partnerskap på fôr - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-12-22T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGxCbnV6QTBGOWZyYTdmMUw0eTlXcGVuLTFQeC0xWXo4M3lVTk5wOGtpMTlCMEtuZ25Zbk9oVW84RFBOa1NkSXFMQmZGeHRyNFdoLTVzcFRfN0xjTWMtZ1EtZmtUYmVDMkVEOEZ5elZyN3p2YlNwU2tIQkVQNGtTcDVDVQ?oc=5\" target=\"_blank\">Mowi og Skretting inngår nytt strategisk partnerskap på fôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
     }
   ],
   "share_of_voice": {
@@ -48400,7 +49029,7 @@
       {
         "week": "2014-W47",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -48882,6 +49511,14 @@
         "Aller Aqua": 1,
         "BioMar": 0,
         "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2017-W37",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -51216,7 +51853,7 @@
       {
         "week": "2025-W49",
         "Aller Aqua": 0,
-        "BioMar": 22,
+        "BioMar": 29,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -51224,7 +51861,7 @@
       {
         "week": "2025-W50",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 6
@@ -51232,7 +51869,7 @@
       {
         "week": "2025-W51",
         "Aller Aqua": 0,
-        "BioMar": 15,
+        "BioMar": 16,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -51240,10 +51877,10 @@
       {
         "week": "2025-W52",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 16
+        "Skretting": 18
       },
       {
         "week": "2026-W01",
@@ -51304,7 +51941,7 @@
       {
         "week": "2026-W08",
         "Aller Aqua": 0,
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 8
@@ -51344,7 +51981,7 @@
       {
         "week": "2026-W13",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 1,
         "Polarfeed": 2,
         "Skretting": 1
@@ -51360,7 +51997,7 @@
       {
         "week": "2026-W15",
         "Aller Aqua": 1,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 8
@@ -51384,10 +52021,10 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 55,
+        "BioMar": 56,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2026-W19",
@@ -51405,7 +52042,7 @@
       },
       {
         "company": "BioMar",
-        "count": 535
+        "count": 551
       },
       {
         "company": "Cargill",
@@ -51417,7 +52054,7 @@
       },
       {
         "company": "Skretting",
-        "count": 424
+        "count": 427
       }
     ]
   }
