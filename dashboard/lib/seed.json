@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-06T11:24:25+00:00",
+  "generated_at": "2026-05-06T17:43:30+00:00",
   "stats": {
-    "mention_count": 1321,
-    "story_count": 1210,
-    "analyzed_count": 534,
+    "mention_count": 1324,
+    "story_count": 1212,
+    "analyzed_count": 535,
     "off_topic_mentions": 31,
     "off_topic_stories": 23
   },
@@ -173,6 +173,7 @@
     "TVU | Televisión Universidad de Concepción",
     "Teletrece",
     "The Catholic Register",
+    "The Cattle Site",
     "The Fish Site",
     "The Food Tech",
     "The Guardian Nigeria News",
@@ -231,14 +232,14 @@
     {
       "id": 1227,
       "headline": "BioMar UK names new Managing Director - WEAREAQUACULTURE",
-      "story_summary": "BioMar UK has announced the appointment of a new Managing Director. The article reports on this executive leadership change at the UK subsidiary of the BioMar aquaculture feed group.",
-      "first_seen": "2026-05-05T17:29:00+00:00",
+      "story_summary": "BioMar UK has announced the appointment of a new Managing Director. The article reports on this leadership change within the company's UK operations.",
+      "first_seen": "2026-05-05T11:01:08+00:00",
       "last_seen": "2026-05-05T17:29:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "exec_statement"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -312,6 +313,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1234,
+      "headline": "Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts - The Cattle Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzF2UURHOEtoNE1Xa2hmaXFsSE1scGJzSkZPcnRIUko0aTZobkRRZU13WF91RFBoZ3MzSGd6RnFBODRDWVdDejJzYVFnNUQ3N0dqR0VSb0tnZFNHTGplS2wyVFJObEw1VzJyellOazJ3Rzd1Y3dFbTBQSVc5T1QzbUJxR1pqQ2ZtTllGdEJBOVZfX1hDSUFmS253bDAzbDFSQmIwQ1VRbzZLN1M3OHBHQjZaYVo3T3MyR1c4WFBYYkxGTXE4dDVIUVRnbXk?oc=5\" target=\"_blank\">Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cattle Site</font>",
+      "first_seen": "2026-05-05T07:00:00+00:00",
+      "last_seen": "2026-05-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1046,
@@ -2284,6 +2299,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3VCQmtwZVhPdkJmdG5rMnRBV3BrN1hEYWp2MHBudG9XbzdjdS1ZMzA5SlFTa0xzdzh6VExLMlFLZXM5clFNbU9NcHJIWG1QU1lYRUFrNFRRcG5IREROSlRuSE1JRi14dDdPR3Q4c3FPVXhBV1VjeEJVWHhoeGJnZVNsQURTaHFhY3V2akUwazJrNmEyaDNYcQ?oc=5\" target=\"_blank\">Næringsliv, Husnes | – Vi tenker at dette er ein marknad som vi kan fylla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kvinnheringen</font>",
       "first_seen": "2026-02-15T08:00:00+00:00",
       "last_seen": "2026-02-15T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1233,
+      "headline": "Her er det nye bondestyret – kjem med kraftig åtvaring - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXNtZ3ZLUmxlM3lmZDBlVEZvb1lSbmJLS1pGX2hFZ3ZsWWRBODJmdnpWZWFKbkE2RFFSSHBYNFNGc3A4b0lyZ1o5bnFfVF8yM3BXX1p4NEp3cFNaYlhvcVpvc2pDV3k0Rnk2NVNQbXZqTnRJUnQzUzB6UTk0Q0w0a1haM1RKSFZEU09Gam5jX0lLUFNGU1FXZGc0MXM?oc=5\" target=\"_blank\">Her er det nye bondestyret – kjem med kraftig åtvaring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-02-14T08:00:00+00:00",
+      "last_seen": "2026-02-14T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -47998,6 +48027,77 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGhOS3lwNHV6WVhWU19EQjlxSVkzQXRNYTBuOUFzUHZXQ3dkUEx3STlUM3lGT0ZsdS1TSVEwOFpUZ0xCTlVtM3lud3MwdnMtMTYtTDd2dENINjBZbDhaLTVTbmVHZThmOXZYdG80Sm4yMDJqODg0RHZ3eHZwMFplRFF3bHlxby0teEVjbUpjelhhZk5FbG1GTQ?oc=5\" target=\"_blank\">Lerøy to use chicken byproducts in its aquafeed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 24609,
+      "story_id": 1227,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQelZoN21TSDg1LXgtYVM5Q1RmWGVPX1dJaFBNeHJnVnlzaEpCVXJQNTAzZ21WUC1kZGdqT24tZm5pd2NqYUwxV1FBdXpiZVZZMFZRMFR3WHBoREVCc1RyZ2FwYlM2a1UweldwN00zeHIwdnN2aHdrcnh0Yk42QmpQZkMwSUFwT1FEYXJF0gGYAUFVX3lxTE96WXgtWWxKTFFVdHRvbjZpblNlVkVDSUpZaURYYmlheUU3R2k4MjYxSGFVaVI3WndLMTF0WEpWcUMtV0hwMlBTWF83NDFtS0loTXZVMEVOb3ZBeTJoNDFfOVptXzROU292bi1QYTN4TVBuMlF2WDZ0aTE3OGNZR1NMRHlkMV9qcW51UE5fZXdRTzNDV2JNSVMt?oc=5",
+      "title": "BioMar UK names new Managing Director - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "published_at": "2026-05-05T11:01:08+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar UK announces new Managing Director appointment",
+      "key_claims": [
+        "BioMar UK has appointed a new Managing Director"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "BioMar UK has announced the appointment of a new Managing Director. The article reports on this leadership change within the company's UK operations."
+    },
+    {
+      "id": 25199,
+      "story_id": 1234,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzF2UURHOEtoNE1Xa2hmaXFsSE1scGJzSkZPcnRIUko0aTZobkRRZU13WF91RFBoZ3MzSGd6RnFBODRDWVdDejJzYVFnNUQ3N0dqR0VSb0tnZFNHTGplS2wyVFJObEw1VzJyellOazJ3Rzd1Y3dFbTBQSVc5T1QzbUJxR1pqQ2ZtTllGdEJBOVZfX1hDSUFmS253bDAzbDFSQmIwQ1VRbzZLN1M3OHBHQjZaYVo3T3MyR1c4WFBYYkxGTXE4dDVIUVRnbXk?oc=5",
+      "title": "Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts - The Cattle Site",
+      "source_name": "The Cattle Site",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-05T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzF2UURHOEtoNE1Xa2hmaXFsSE1scGJzSkZPcnRIUko0aTZobkRRZU13WF91RFBoZ3MzSGd6RnFBODRDWVdDejJzYVFnNUQ3N0dqR0VSb0tnZFNHTGplS2wyVFJObEw1VzJyellOazJ3Rzd1Y3dFbTBQSVc5T1QzbUJxR1pqQ2ZtTllGdEJBOVZfX1hDSUFmS253bDAzbDFSQmIwQ1VRbzZLN1M3OHBHQjZaYVo3T3MyR1c4WFBYYkxGTXE4dDVIUVRnbXk?oc=5\" target=\"_blank\">Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cattle Site</font>"
+    },
+    {
+      "id": 25324,
+      "story_id": 1233,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXNtZ3ZLUmxlM3lmZDBlVEZvb1lSbmJLS1pGX2hFZ3ZsWWRBODJmdnpWZWFKbkE2RFFSSHBYNFNGc3A4b0lyZ1o5bnFfVF8yM3BXX1p4NEp3cFNaYlhvcVpvc2pDV3k0Rnk2NVNQbXZqTnRJUnQzUzB6UTk0Q0w0a1haM1RKSFZEU09Gam5jX0lLUFNGU1FXZGc0MXM?oc=5",
+      "title": "Her er det nye bondestyret – kjem med kraftig åtvaring - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-02-14T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXNtZ3ZLUmxlM3lmZDBlVEZvb1lSbmJLS1pGX2hFZ3ZsWWRBODJmdnpWZWFKbkE2RFFSSHBYNFNGc3A4b0lyZ1o5bnFfVF8yM3BXX1p4NEp3cFNaYlhvcVpvc2pDV3k0Rnk2NVNQbXZqTnRJUnQzUzB6UTk0Q0w0a1haM1RKSFZEU09Gam5jX0lLUFNGU1FXZGc0MXM?oc=5\" target=\"_blank\">Her er det nye bondestyret – kjem med kraftig åtvaring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
     }
   ],
   "share_of_voice": {
@@ -51199,7 +51299,7 @@
         "BioMar": 13,
         "Cargill": 6,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2026-W08",
@@ -51292,10 +51392,10 @@
       {
         "week": "2026-W19",
         "Aller Aqua": 0,
-        "BioMar": 10,
+        "BioMar": 11,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       }
     ],
     "totals": [
@@ -51305,7 +51405,7 @@
       },
       {
         "company": "BioMar",
-        "count": 534
+        "count": 535
       },
       {
         "company": "Cargill",
@@ -51317,7 +51417,7 @@
       },
       {
         "company": "Skretting",
-        "count": 422
+        "count": 424
       }
     ]
   }
