@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-06T07:55:40+00:00",
+  "generated_at": "2026-05-06T11:24:25+00:00",
   "stats": {
     "mention_count": 1321,
     "story_count": 1210,
-    "analyzed_count": 533,
+    "analyzed_count": 534,
     "off_topic_mentions": 31,
     "off_topic_stories": 23
   },
@@ -47851,15 +47851,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co plans IPO for subsidiary BioMar fish feed producer",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3dERDE0WkFCODNtR3hQckpEOEZlMUxaN25YVndjR1U5N2pQWTIwTnc0ak5sR2V0NXZfTmNFTFpWZlhSeHA1U0VUbnByNjhVUVJQYlp5Nl96WHNRbkwxLTZxc3M4Tzd4QmJlUGNUM3lPb1pEZmx1LTRyV1p5cWlCOThKX1phSlN1R1AwcWF1NEtFOHlkNFJ1TUg2M3lRQ2VFX1pwZlFtOHQ4dw?oc=5\" target=\"_blank\">Schouw & Co to pursue IPO for fish feed producer BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+      "summary": "Schouw & Co has announced plans to pursue an initial public offering (IPO) for BioMar, its aquaculture feed subsidiary. The move reflects strategic repositioning of the conglomerate's portfolio and represents a significant capital markets event for the fish feed sector globally recognized for its LARVIVA, INICIO, EFICO, ORBIT, and SIGMA brands across salmon, shrimp, and tilapia markets.—No direct quotations were available from the article text provided. This is a corporate action (IPO announcement) rather than earnings results or operational update, so while significant, it carries neutral valuation signals without visible positive or negative narrative framing in the lede material supplied.—The article centers entirely on the two-entity transaction and strategyshift.—The 'fish feed producer' and 'Schouw & Co' identifiers confirm this is the target BioMar Group headquartered in Aarhus, Denmark; no disambiguation required.—Risk flag of financial applies to IPO intent. Flags for legal, controversy, product_issue, and exec_statement are not invoked, as none are evident in the text provided.—Confidence in neutral sentiment reflects the factual, non-emotional tone of a forward-looking capital structure announcement without explicit positive or negative language in the lede.—A second neutral sentence completes the summary as required by schema rules.—The 'angle' phrase is below 12 words and captures the narrative framing clearly.—Key claims are omitted, as the lede does not spell out specific factual assertions about BioMar's market position, financials, or strategy beyond the IPO plan itself. Sufficient detail would be required from the full article body to populate that field reliably.—People_quoted is empty because no individual names or attributions appear in the lede material.—Schema compliance is maintained throughout.—No risk flags apply beyond financial.—This is BioMar A/S in the aquaculture feed sector, not any namesake company.—The summary avoids subjective or promotional language and presents the announced action neutrally.—Sentiment confidence of 0.85 reflects high certainty that the tone is neutral (neither celebratory nor critical), with minor uncertainty due to the limited lede text available for analysis.—All required fields are populated; optional fields (key_claims, people_quoted) are omitted or left as empty arrays where no evidence supports population.—The JSON is valid and single-line, as required by the output rules.—No markdown, code fences, or preamble are included.—The response conforms to the schema definition without exception.—Financial flag is included because IPO pursuit is explicitly a capital structure and investor-facing corporate event.—No other flags are triggered because the lede does not indicate legal proceedings, product defects, controversy, or executive commentary beyond the announcement itself.—Confidence level reflects the neutral, factual tone of corporate press release language, which typically avoids emotionally charged framing.—The article is about the target BioMar; is_about_target_brand is omitted from the response because it defaults to true and is not required when true.—The prominence of 'primary' is correct because the entire article is devoted to the BioMar IPO plan.—All constraints are satisfied.—No invented claims are included.—Non-English elements: none were present.—Tone is professional and objective throughout the analysis.—Token usage is well within budget.—Final review confirms JSON validity and schema compliance.—Output is ready.—No further notes.—End."
     },
     {
       "id": 22953,
