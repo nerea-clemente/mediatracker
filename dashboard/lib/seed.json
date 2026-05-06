@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-05T22:53:09+00:00",
+  "generated_at": "2026-05-06T07:55:40+00:00",
   "stats": {
-    "mention_count": 1314,
-    "story_count": 1205,
-    "analyzed_count": 532,
+    "mention_count": 1321,
+    "story_count": 1210,
+    "analyzed_count": 533,
     "off_topic_mentions": 31,
     "off_topic_stories": 23
   },
@@ -183,6 +183,7 @@
     "The Urban Developer",
     "Tidens Krav",
     "TradingView",
+    "Tribute Archive",
     "Undercurrent News",
     "Universitetet i Bergen",
     "VG",
@@ -240,6 +241,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1232,
+      "headline": "Margaret Skretting - Memories Trees - Tribute Archive",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWJkaUtaZEdBS1R5cjEtbEpmcjV1NzltbVJxbm9weXFUMzZTVk9EWmI5ekFUY2llaDF1aXZmYThtZzZueURYalhhV0Nmclpmci14a0ZrY0hqdGlkLXRvbF9FVWFWeHhoM2FNWUpmWXJkX29YT1FITHZ2M0t2RFVIUFZwXzQ?oc=5\" target=\"_blank\">Margaret Skretting - Memories Trees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribute Archive</font>",
+      "first_seen": "2026-05-05T11:53:49+00:00",
+      "last_seen": "2026-05-05T11:53:49+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1217,
@@ -625,15 +640,16 @@
     },
     {
       "id": 354,
-      "headline": "Schouw & Co announces BioMar IPO plans - marketscreener.com",
-      "story_summary": "Schouw & Co has announced plans to take its aquaculture feed subsidiary BioMar public through an initial public offering. The announcement signals the parent company's intention to unlock value in the BioMar business through capital markets listing.",
+      "headline": "Schouw & Co Announces Biomar IPO Plans - TradingView",
+      "story_summary": "Schouw & Co has announced plans to take BioMar public through an initial public offering. The move is framed as a way to unlock value for Schouw shareholders by spinning out its aquaculture feed subsidiary.",
       "first_seen": "2026-05-01T06:04:00+00:00",
       "last_seen": "2026-05-01T06:43:20+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "exec_statement",
+        "financial"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -4142,6 +4158,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1231,
+      "headline": "Jonas og Camilla tok seg av kafedriften – holdt en knapp på egenlaget jærbakst - randaberg24.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONENRdUhvbHhtbE5vaWExVVViYkZTTW5XQUNQbWQtdTBFXzIta3dCb2VXVHBlNHRHek82OFU1UjdVcTlLLXl1b0RRTm5pU3hHR0puMVpDMU9xdDNJLTV2OHZFRnNsR2t1UWVzVFRUMVR3aW1LX2dGVHpxX3Ryb0I5S0N4bGFHWUxlQ2QzZEt3SUZUVTJfUWdsU1B2a2dSNFdvMUN4aUhiMlVxTnU4Nl9SYy1uMUQ1al9wZXJhdl92SQ?oc=5\" target=\"_blank\">Jonas og Camilla tok seg av kafedriften – holdt en knapp på egenlaget jærbakst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">randaberg24.no</font>",
+      "first_seen": "2025-11-09T08:00:00+00:00",
+      "last_seen": "2025-11-09T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 241,
       "headline": "Øksnes, Nyheter | Ung komet: Linn Therese (36) leder milliardfabrikken - Bladet Vesterålen",
       "story_summary": "The article profiles Linn Therese, a 36-year-old executive leading a major manufacturing operation worth billions. BioMar is mentioned as context for the facility or her role within the company's operations in Norway's Øksnes region (Vesterålen area)—a human-interest profile rather than company-focused journalism.",
@@ -4182,6 +4212,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1230,
+      "headline": "Stangeland, Trones og sentrum | – Hadde dette skjedd på fredag, kunne jeg blitt drept - Sandnesposten",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2pWZ1VCaDlTbFNYMzBmY3hrYmpja1ZLN2t3VGFlZVFTVUIzNDVJMkt2eUZILUZBQ2FlQnJnUldLV2h4QkNweU15ZWJDMkt5bUo5d1FuTFBockRsbldLdENaNG1Qd0o3MjMwRnZKRjZmWnBFM1FUMGVCV2U3NzJqV2dTZzRFb3NPU2VIc3VOa2ltelVFUTZHSWJrZw?oc=5\" target=\"_blank\">Stangeland, Trones og sentrum | – Hadde dette skjedd på fredag, kunne jeg blitt drept</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>",
+      "first_seen": "2025-11-05T08:00:00+00:00",
+      "last_seen": "2025-11-05T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 741,
@@ -5218,6 +5262,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1229,
+      "headline": "La harina de krill favorece la supervivencia y el crecimiento del salmón durante la fase de transferencia al mar - IPac Acuicultura",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5hQld6c29Vb1VQeGU2Y1NSVUZtMjJ3QV9aZG56M0FjckJOLW5kdjRadlk2N0F4V054SlV2cnJEa3BZRzZSWWVSbG9YdWI1d3gzWXpjREVNWEZ6VmVUZnhsWDRENnctSGgxT3BFRGREa3Z2T2JpWk5ESE13?oc=5\" target=\"_blank\">La harina de krill favorece la supervivencia y el crecimiento del salmón durante la fase de transferencia al mar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
+      "first_seen": "2025-09-11T07:00:00+00:00",
+      "last_seen": "2025-09-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 223,
@@ -7907,7 +7965,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Cargill"
     },
@@ -8990,6 +9048,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1228,
+      "headline": "Kontali analyst rejoins aquaculture feed giant Skretting - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMlhHR3c0elJCSUJ1WW9qZDlpcmhxVGhyX0xCenU1a2taalRpRVQ1TmF6SEh6bVZJZ0FaTDgzcm9iYk1xSWFPX0F2QTZDR0t3SjRGSVI5U29BUXZ5WWltMHp0X0k4OUEtRXprY2kwYTJKbmxjX2RFaTJISGRMR2JLUmhVWHVCbDFFR2dBMzVOLWRmRHdmSzRVakVISGJMR0Z3aDBR?oc=5\" target=\"_blank\">Kontali analyst rejoins aquaculture feed giant Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2024-08-23T07:00:00+00:00",
+      "last_seen": "2024-08-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1154,
@@ -47608,16 +47680,21 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "Schouw & Co plans BioMar IPO to unlock shareholder value",
+      "key_claims": [
+        "Schouw & Co is planning an IPO for BioMar",
+        "The IPO is intended to benefit Schouw shareholders",
+        "BioMar is being positioned as a standalone public company"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial",
+        "exec_statement"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzRpNXZYZlFhNzJDdG9pV29sbjBuMXNGUUJKbm81MHA1MWI1ZG5LQnBRaDYyTWszbnFvdEtkbWs3QXBVcW9kaURFNGkza1dseFRNU2dIR1pIeEVpNUtDdTJVWUhHQWdkekwtZVhyNk9sbWZRY2xRc2Y3VVl1Q3RIOGZPQXZGamZFYVNPQXJ0U25xVk1hWUUxczlXUkR5cERVWi1RVnhzR2MxUQ?oc=5\" target=\"_blank\">Schouw & Co Announces Biomar IPO Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "Schouw & Co has announced plans to take BioMar public through an initial public offering. The move is framed as a way to unlock value for Schouw shareholders by spinning out its aquaculture feed subsidiary."
     },
     {
       "id": 21200,
@@ -47760,6 +47837,167 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZDUxV09jZnZPSFVpbVlVZlFBbkV0QWNiWExLcXgwaDhhZi1QMXRlQVU3S3BwYm9NOGsydlZOeG1jQW9EemY3Y2pLdDFjVENOTGU2VU92VnFMcS1RVmFTNThCZXY2amVpNUVyTFpxM3d2TkVqSFF6S094Ny1iT0d3djAwZDVzX0RzaWhGTy10TEFNbWlLU3RPRXJKcTZ2TFBoUDhZTE13SW9UUDNUUU1MU3gtcjN4MlpVWTlMbUFpaUtZdmNQbWxLMFZpVF9EWVNEa05IMU1veGFkR2VDSjIwSUFGWjhNMHBlQUFfUkVJNFFLQdIB-gFBVV95cUxPRTNrYUtPZW1pUmpFUW5xNTZqWUxoR21yczBhQlJZRElqY0NIOEZ1SUxRYzROa1JwdFBJdjh0R0s1MEw5WXlLWEVrTWxDRDctQVV5NUkzaGxGTlFwQ0g2Ymo0RUdqU2dLbnd0bzZMdFBrNm9CLU1oNC1qQndqVExzQTBkem1UaDZKNHNQeHBhZXhlZWZNZHVOckdqU3c5UENCd3F2dlBmOWZnVG1SVWpLcnZlU0dsQmhUa05TcW5FRE9OaS1mM1AwT0hTZnFQVE1PVHlIVk5RY05YSHJVVE1LNXVBaV93WW5LN0F1dnlSaW45cVlVWmtqY3J3?oc=5\" target=\"_blank\">Formulan cargos contra titular de Ewos-Cargill Planta Coronel por incumplimientos ambientales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Concepción</font>"
+    },
+    {
+      "id": 22351,
+      "story_id": 354,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3dERDE0WkFCODNtR3hQckpEOEZlMUxaN25YVndjR1U5N2pQWTIwTnc0ak5sR2V0NXZfTmNFTFpWZlhSeHA1U0VUbnByNjhVUVJQYlp5Nl96WHNRbkwxLTZxc3M4Tzd4QmJlUGNUM3lPb1pEZmx1LTRyV1p5cWlCOThKX1phSlN1R1AwcWF1NEtFOHlkNFJ1TUg2M3lRQ2VFX1pwZlFtOHQ4dw?oc=5",
+      "title": "Schouw & Co to pursue IPO for fish feed producer BioMar - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "published_at": "2026-05-01T06:41:16+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3dERDE0WkFCODNtR3hQckpEOEZlMUxaN25YVndjR1U5N2pQWTIwTnc0ak5sR2V0NXZfTmNFTFpWZlhSeHA1U0VUbnByNjhVUVJQYlp5Nl96WHNRbkwxLTZxc3M4Tzd4QmJlUGNUM3lPb1pEZmx1LTRyV1p5cWlCOThKX1phSlN1R1AwcWF1NEtFOHlkNFJ1TUg2M3lRQ2VFX1pwZlFtOHQ4dw?oc=5\" target=\"_blank\">Schouw & Co to pursue IPO for fish feed producer BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 22953,
+      "story_id": 1232,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWJkaUtaZEdBS1R5cjEtbEpmcjV1NzltbVJxbm9weXFUMzZTVk9EWmI5ekFUY2llaDF1aXZmYThtZzZueURYalhhV0Nmclpmci14a0ZrY0hqdGlkLXRvbF9FVWFWeHhoM2FNWUpmWXJkX29YT1FITHZ2M0t2RFVIUFZwXzQ?oc=5",
+      "title": "Margaret Skretting - Memories Trees - Tribute Archive",
+      "source_name": "Tribute Archive",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-05T11:53:49+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWJkaUtaZEdBS1R5cjEtbEpmcjV1NzltbVJxbm9weXFUMzZTVk9EWmI5ekFUY2llaDF1aXZmYThtZzZueURYalhhV0Nmclpmci14a0ZrY0hqdGlkLXRvbF9FVWFWeHhoM2FNWUpmWXJkX29YT1FITHZ2M0t2RFVIUFZwXzQ?oc=5\" target=\"_blank\">Margaret Skretting - Memories Trees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribute Archive</font>"
+    },
+    {
+      "id": 23048,
+      "story_id": 1228,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMlhHR3c0elJCSUJ1WW9qZDlpcmhxVGhyX0xCenU1a2taalRpRVQ1TmF6SEh6bVZJZ0FaTDgzcm9iYk1xSWFPX0F2QTZDR0t3SjRGSVI5U29BUXZ5WWltMHp0X0k4OUEtRXprY2kwYTJKbmxjX2RFaTJISGRMR2JLUmhVWHVCbDFFR2dBMzVOLWRmRHdmSzRVakVISGJMR0Z3aDBR?oc=5",
+      "title": "Kontali analyst rejoins aquaculture feed giant Skretting - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2024-08-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMlhHR3c0elJCSUJ1WW9qZDlpcmhxVGhyX0xCenU1a2taalRpRVQ1TmF6SEh6bVZJZ0FaTDgzcm9iYk1xSWFPX0F2QTZDR0t3SjRGSVI5U29BUXZ5WWltMHp0X0k4OUEtRXprY2kwYTJKbmxjX2RFaTJISGRMR2JLUmhVWHVCbDFFR2dBMzVOLWRmRHdmSzRVakVISGJMR0Z3aDBR?oc=5\" target=\"_blank\">Kontali analyst rejoins aquaculture feed giant Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 23090,
+      "story_id": 1231,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONENRdUhvbHhtbE5vaWExVVViYkZTTW5XQUNQbWQtdTBFXzIta3dCb2VXVHBlNHRHek82OFU1UjdVcTlLLXl1b0RRTm5pU3hHR0puMVpDMU9xdDNJLTV2OHZFRnNsR2t1UWVzVFRUMVR3aW1LX2dGVHpxX3Ryb0I5S0N4bGFHWUxlQ2QzZEt3SUZUVTJfUWdsU1B2a2dSNFdvMUN4aUhiMlVxTnU4Nl9SYy1uMUQ1al9wZXJhdl92SQ?oc=5",
+      "title": "Jonas og Camilla tok seg av kafedriften – holdt en knapp på egenlaget jærbakst - randaberg24.no",
+      "source_name": "randaberg24.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-11-09T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONENRdUhvbHhtbE5vaWExVVViYkZTTW5XQUNQbWQtdTBFXzIta3dCb2VXVHBlNHRHek82OFU1UjdVcTlLLXl1b0RRTm5pU3hHR0puMVpDMU9xdDNJLTV2OHZFRnNsR2t1UWVzVFRUMVR3aW1LX2dGVHpxX3Ryb0I5S0N4bGFHWUxlQ2QzZEt3SUZUVTJfUWdsU1B2a2dSNFdvMUN4aUhiMlVxTnU4Nl9SYy1uMUQ1al9wZXJhdl92SQ?oc=5\" target=\"_blank\">Jonas og Camilla tok seg av kafedriften – holdt en knapp på egenlaget jærbakst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">randaberg24.no</font>"
+    },
+    {
+      "id": 23146,
+      "story_id": 1230,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2pWZ1VCaDlTbFNYMzBmY3hrYmpja1ZLN2t3VGFlZVFTVUIzNDVJMkt2eUZILUZBQ2FlQnJnUldLV2h4QkNweU15ZWJDMkt5bUo5d1FuTFBockRsbldLdENaNG1Qd0o3MjMwRnZKRjZmWnBFM1FUMGVCV2U3NzJqV2dTZzRFb3NPU2VIc3VOa2ltelVFUTZHSWJrZw?oc=5",
+      "title": "Stangeland, Trones og sentrum | – Hadde dette skjedd på fredag, kunne jeg blitt drept - Sandnesposten",
+      "source_name": "Sandnesposten",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-11-05T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2pWZ1VCaDlTbFNYMzBmY3hrYmpja1ZLN2t3VGFlZVFTVUIzNDVJMkt2eUZILUZBQ2FlQnJnUldLV2h4QkNweU15ZWJDMkt5bUo5d1FuTFBockRsbldLdENaNG1Qd0o3MjMwRnZKRjZmWnBFM1FUMGVCV2U3NzJqV2dTZzRFb3NPU2VIc3VOa2ltelVFUTZHSWJrZw?oc=5\" target=\"_blank\">Stangeland, Trones og sentrum | – Hadde dette skjedd på fredag, kunne jeg blitt drept</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>"
+    },
+    {
+      "id": 23276,
+      "story_id": 1229,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hQld6c29Vb1VQeGU2Y1NSVUZtMjJ3QV9aZG56M0FjckJOLW5kdjRadlk2N0F4V054SlV2cnJEa3BZRzZSWWVSbG9YdWI1d3gzWXpjREVNWEZ6VmVUZnhsWDRENnctSGgxT3BFRGREa3Z2T2JpWk5ESE13?oc=5",
+      "title": "La harina de krill favorece la supervivencia y el crecimiento del salmón durante la fase de transferencia al mar - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-09-11T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5hQld6c29Vb1VQeGU2Y1NSVUZtMjJ3QV9aZG56M0FjckJOLW5kdjRadlk2N0F4V054SlV2cnJEa3BZRzZSWWVSbG9YdWI1d3gzWXpjREVNWEZ6VmVUZnhsWDRENnctSGgxT3BFRGREa3Z2T2JpWk5ESE13?oc=5\" target=\"_blank\">La harina de krill favorece la supervivencia y el crecimiento del salmón durante la fase de transferencia al mar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+    },
+    {
+      "id": 23370,
+      "story_id": 637,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGhOS3lwNHV6WVhWU19EQjlxSVkzQXRNYTBuOUFzUHZXQ3dkUEx3STlUM3lGT0ZsdS1TSVEwOFpUZ0xCTlVtM3lud3MwdnMtMTYtTDd2dENINjBZbDhaLTVTbmVHZThmOXZYdG80Sm4yMDJqODg0RHZ3eHZwMFplRFF3bHlxby0teEVjbUpjelhhZk5FbG1GTQ?oc=5",
+      "title": "Lerøy to use chicken byproducts in its aquafeed - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2025-02-11T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGhOS3lwNHV6WVhWU19EQjlxSVkzQXRNYTBuOUFzUHZXQ3dkUEx3STlUM3lGT0ZsdS1TSVEwOFpUZ0xCTlVtM3lud3MwdnMtMTYtTDd2dENINjBZbDhaLTVTbmVHZThmOXZYdG80Sm4yMDJqODg0RHZ3eHZwMFplRFF3bHlxby0teEVjbUpjelhhZk5FbG1GTQ?oc=5\" target=\"_blank\">Lerøy to use chicken byproducts in its aquafeed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -50345,7 +50583,7 @@
         "BioMar": 0,
         "Cargill": 2,
         "Polarfeed": 2,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2024-W35",
@@ -50543,7 +50781,7 @@
         "week": "2025-W07",
         "Aller Aqua": 1,
         "BioMar": 0,
-        "Cargill": 2,
+        "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -50785,7 +51023,7 @@
         "BioMar": 4,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2025-W38",
@@ -50849,7 +51087,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 3
+        "Skretting": 5
       },
       {
         "week": "2025-W46",
@@ -51046,7 +51284,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 54,
+        "BioMar": 55,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -51057,7 +51295,7 @@
         "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       }
     ],
     "totals": [
@@ -51067,11 +51305,11 @@
       },
       {
         "company": "BioMar",
-        "count": 533
+        "count": 534
       },
       {
         "company": "Cargill",
-        "count": 208
+        "count": 209
       },
       {
         "company": "Polarfeed",
@@ -51079,7 +51317,7 @@
       },
       {
         "company": "Skretting",
-        "count": 417
+        "count": 422
       }
     ]
   }
