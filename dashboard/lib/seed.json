@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-06T22:46:31+00:00",
+  "generated_at": "2026-05-07T08:03:45+00:00",
   "stats": {
-    "mention_count": 1343,
-    "story_count": 1225,
-    "analyzed_count": 550,
+    "mention_count": 1354,
+    "story_count": 1231,
+    "analyzed_count": 558,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -40,6 +40,7 @@
     "Cooling Post",
     "Dagens Medisin",
     "Dagens Næringsliv",
+    "Dagsavisen",
     "Dailyhunt",
     "Dalane Tidende",
     "DeSmog",
@@ -235,6 +236,20 @@
   ],
   "stories": [
     {
+      "id": 1253,
+      "headline": "Schouw & Co Earnings and Revenue – TRADEGATE:5RF - TradingView",
+      "story_summary": "TradingView published a page displaying earnings and revenue information for Schouw & Co, the parent company of BioMar Group. The article is a straightforward financial data presentation with no narrative commentary or analysis provided.",
+      "first_seen": "2026-05-06T22:00:44+00:00",
+      "last_seen": "2026-05-06T23:44:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 4,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1227,
       "headline": "BioMar UK names new Managing Director - WEAREAQUACULTURE",
       "story_summary": "BioMar UK has announced the appointment of a new Managing Director. The article reports on this leadership change within the company's UK operations.",
@@ -409,12 +424,12 @@
       "headline": "Schouw & Co. share buy-back programme, week 18 2026 - Yahoo Finance Singapore",
       "story_summary": "Schouw & Co. announces its share buy-back activity for week 18 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group through its repurchase programme.",
       "first_seen": "2026-05-04T14:00:00+00:00",
-      "last_seen": "2026-05-04T14:00:00+00:00",
+      "last_seen": "2026-05-04T14:06:56+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1315,7 +1330,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -1430,6 +1445,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1252,
+      "headline": "Vil fase ut Russland-import i år - vol.no",
+      "story_summary": "A Norwegian outlet reports on plans to phase out Russian imports during 2026. The article mentions BioMar in passing within a broader context of import strategy changes affecting Norwegian aquaculture and related industries.",
+      "first_seen": "2026-04-07T07:00:00+00:00",
+      "last_seen": "2026-04-07T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 810,
@@ -3353,6 +3382,20 @@
       "id": 769,
       "headline": "Alianza estratégica e industrial entre Mowi y Skretting/Nutreco para la producción de piensos - IPac Acuicultura",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1BbGwwakhGSnVTVHZmM29sNUFCcnNSQ0NzeWZ3ZVlFRnV2dVJWd3VGVWlTMzJMR1BwOUhMNVItbDdWZ0pOYjh4bFY0N3RPdTY3TXlXNUtabWRNODU5TlByMFBSNHAzZXRTb3NaLQ?oc=5\" target=\"_blank\">Alianza estratégica e industrial entre Mowi y Skretting/Nutreco para la producción de piensos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
+      "first_seen": "2025-12-22T08:00:00+00:00",
+      "last_seen": "2025-12-22T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1251,
+      "headline": "Mowi sella alianza estratégica con Skretting y mantiene su división de piensos - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUdaNzI0WkdNVkxtTk9WRk5UNkNMRXd1QkM1TmtJYWpzTG9DYmJmOTJZaWFvZUFoWGxiRUVhSlhjM2lWMUsydnlOV01WWnh4eFRBR08wNGJLdk5feTJiV3paM0w4bXVzWEFEZ0VhanpyMTBPTk9DaFRyMHAzZFdfNkozWVNWZzItbXNuMHk1YVhCZGFPSk55ZnFZcWNiVGtwdE9mTnB3N1lPSzhvT0lBRW93?oc=5\" target=\"_blank\">Mowi sella alianza estratégica con Skretting y mantiene su división de piensos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
       "first_seen": "2025-12-22T08:00:00+00:00",
       "last_seen": "2025-12-22T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -6757,6 +6800,21 @@
       "company": "Skretting"
     },
     {
+      "id": 1250,
+      "headline": "La acusación de la Fiscalía Nacional Económica hacia productores de alimento de salmón - Salmonexpert",
+      "story_summary": "Chile's National Economic Prosecutor has accused salmon feed producers, including BioMar, of potential antitrust violations. The accusation focuses on alleged anticompetitive conduct in the salmon feed sector.",
+      "first_seen": "2025-07-03T07:00:00+00:00",
+      "last_seen": "2025-07-03T07:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "controversy",
+        "legal"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 675,
       "headline": "Skretting øker produksjonen: – Nå peker hockeysticken oppover - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOeFhEbEhKcmNUdVhnaEVacldCN3hRem4xTy1qWHB5YXZRdzZBV2VINktFdExjYVJXSE8yZlJnVkdvU21vM19YOWY0XzdyNlJYTUc5OGpSUlpOWU9icEhKcFdMaGpFMEQ4Nm9aVWpnTE5vV1JlalgzdHNmV3dfT2duaUhn?oc=5\" target=\"_blank\">Skretting øker produksjonen: – Nå peker hockeysticken oppover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -7106,6 +7164,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 1249,
+      "headline": "Wembley-semifinalistene klare:Sykkel-Skretting er med - Dagsavisen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHFWTTh2dEJRZUkzQ0ZsZS1lYzlLM0NldlFsSTlkQm9zNWt6a3NUVnVUS255Zm54MlhqaHlkbHZJNHZKZWxtaUZ5aVFNN3RfUTZQTXdrT21IRGE0dEd1WVJ4ZnFDQkZJcWFiWWFiRE1SVWVpOGJYaU9tb29aYWlJU0JlNXVQUkZxVkVxbm4xeFZxU2R1RlhUSThn?oc=5\" target=\"_blank\">Wembley-semifinalistene klare:Sykkel-Skretting er med</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dagsavisen</font>",
+      "first_seen": "2025-06-05T15:47:06+00:00",
+      "last_seen": "2025-06-05T15:47:06+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 665,
@@ -10847,6 +10919,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1248,
+      "headline": "Skretting Australia traslada 30 mil toneladas en primer año de servicios - PortalPortuario",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmYwd1hTYk9ZQzg0Q2hMdm5JMDltT0EtTGVPUFJpd1A5cHpodHl4SkN2Vm9lUkZXa3lONUJHZjFkcmxMUmg3TlJDNU9hNGRZLTNsd2VZNll6QnlOVHo4VHpIc2Rvck1OWHp2NTBlaXFOZkp3cTdtM0lmZmY2ZXBVTGFaUHp0YS16VE5ieTNuM3dvdEpVS0EyVEFMeVVTa09vb1E?oc=5\" target=\"_blank\">Skretting Australia traslada 30 mil toneladas en primer año de servicios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PortalPortuario</font>",
+      "first_seen": "2023-08-22T07:00:00+00:00",
+      "last_seen": "2023-08-22T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 91,
@@ -16665,7 +16751,7 @@
     {
       "id": 1235,
       "headline": "- Biomar innfører ny ledelsesstruktur - Kyst.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBhdmY5TldzNWg0eEFibm1RdlY4enVqRnIxR2h5ME0ybDgwQ2hsMjMtVG1rdFNycjZKOXNoNlpCVzdSOUN3SWw4bkVhcXFjblJVbEVmQXY3dzFLUTFjeGVjMmpjTFU2ZnM1RXkyNS01UkcyenFoeGc?oc=5\" target=\"_blank\">- Biomar innfører ny ledelsesstruktur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "story_summary": "BioMar has implemented a new leadership structure, with Carlos Diaz identified as a key figure in the organization. The restructuring reflects the company's evolving operational priorities in the aquaculture feed sector.",
       "first_seen": "2014-11-20T08:00:00+00:00",
       "last_seen": "2014-11-20T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -48649,15 +48735,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar introduces new management structure",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBhdmY5TldzNWg0eEFibm1RdlY4enVqRnIxR2h5ME0ybDgwQ2hsMjMtVG1rdFNycjZKOXNoNlpCVzdSOUN3SWw4bkVhcXFjblJVbEVmQXY3dzFLUTFjeGVjMmpjTFU2ZnM1RXkyNS01UkcyenFoeGc?oc=5\" target=\"_blank\">- Biomar innfører ny ledelsesstruktur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+      "summary": "BioMar has implemented a new leadership structure, with Carlos Diaz identified as a key figure in the organization. The restructuring reflects the company's evolving operational priorities in the aquaculture feed sector."
     },
     {
       "id": 26383,
@@ -48727,6 +48813,263 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGxCbnV6QTBGOWZyYTdmMUw0eTlXcGVuLTFQeC0xWXo4M3lVTk5wOGtpMTlCMEtuZ25Zbk9oVW84RFBOa1NkSXFMQmZGeHRyNFdoLTVzcFRfN0xjTWMtZ1EtZmtUYmVDMkVEOEZ5elZyN3p2YlNwU2tIQkVQNGtTcDVDVQ?oc=5\" target=\"_blank\">Mowi og Skretting inngår nytt strategisk partnerskap på fôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 26990,
+      "story_id": 1252,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByQVc0V0RjZ0lWcmphcDV5SFI0bUFZMHJaTzVrVDBJaG4xOTNnOFV5bWtGdUxidnZjRXlOdVZsVDk4ZlNNMmR5ZGJldTJsNUE3SVZlcGgyN1ZwYmNkODFkSW9veUc5VG5FYXI5R3NhU2R2Ykxra2EtZA?oc=5",
+      "title": "Vil fase ut Russland-import i år - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-04-07T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.7,
+      "prominence": "passing",
+      "angle": "Norwegian industry plans to phase out Russian imports",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A Norwegian outlet reports on plans to phase out Russian imports during 2026. The article mentions BioMar in passing within a broader context of import strategy changes affecting Norwegian aquaculture and related industries."
+    },
+    {
+      "id": 27223,
+      "story_id": 1250,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNemNjX1QydDExTnY3THExSkE5RlpJZElpckRIb093VUE2a0tyN3ItS09Ca2dOUmRBNmpuWWMwcVdmVzRqalVyM1U0UzlQcGhkenM2WXk3aHBOekFudUp0cEhwZFN6QUhXeEkwanNSV1hSZWJkX1JIX01TUnB6SURoNjdidjdCVHhnY0RWbjFrbVo5WUVnYlBPTnFPNEZOVHlBclNXY2RrQVcwVS1TektjcUEybVhISnVKTXk0bV9SLU1feTgwNTdQdWI1UnBkM09kZ002NnJ2bVpqTTll?oc=5",
+      "title": "La acusación de la Fiscalía Nacional Económica hacia productores de alimento de salmón - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2025-07-03T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Economic authority accuses salmon feed producers of antitrust violations",
+      "key_claims": [
+        "National Economic Prosecutor's office has filed accusations against salmon feed producers",
+        "The accusation relates to potential anticompetitive practices in the salmon feed market"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal",
+        "controversy"
+      ],
+      "summary": "Chile's National Economic Prosecutor has accused salmon feed producers, including BioMar, of potential antitrust violations. The accusation focuses on alleged anticompetitive conduct in the salmon feed sector."
+    },
+    {
+      "id": 27290,
+      "story_id": 1253,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fNmtqdEVjbHVJU0I4YjJSbFJiMUdUWjhjNmM5X2V3aVpUaWEzMk9pQjRWZDlEa2llMHdyb3NlVGFhVUR5ZTNYbXVZeHFoQTZqQnQxRVdTdC10c3hoZHRFU3BZVzBoaGViNjk5VlFFbXBjazVReHJoN1pn?oc=5",
+      "title": "Schouw & Co Earnings and Revenue – TRADEGATE:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-06T22:39:23+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial data and earnings reporting for Schouw & Co.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView published a page displaying earnings and revenue information for Schouw & Co, the parent company of BioMar Group. The article is a straightforward financial data presentation with no narrative commentary or analysis provided."
+    },
+    {
+      "id": 27293,
+      "story_id": 1253,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iMS0xNzlzeWkzNi1SRFdWM1lUOGRabnNFQTlWdWlJWkVkNzcwcEdtMkdUbUtCN3QxZ3k3VkJLcy1FS1p2dUp3dVZvY0paaWdtYnJNUmtVOV82ck9zN0NMOUJZYWl5d1NiN1dNeDVxbDY1N2NvN3ZTLU5WOA?oc=5",
+      "title": "Schouw & Co Cash Flow – TRADEGATE:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-06T23:44:22+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Trading platform display of Schouw financial metrics",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView displays cash flow data for Schouw & Co on the TRADEGATE exchange. The article is a financial data listing with no narrative content or claims about the company's operations or performance."
+    },
+    {
+      "id": 27300,
+      "story_id": 1045,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORHFfTmVISFZyUUdpSEpsblBDOEw5bjBwbk5relN2WkFNM0J4UW04RDltS0RBMFB0NmhtSDZjRlV1bEg0WGRYNG41SnhsODhpSVJOcnFoY0NCMXRTeEJTcC0xeUlDRmxfWGY0dlhSaXVITW5hTm0wc2ZHa2xnNGVPWEdwaFAyT1FsZDJOd2RvUk42UUdUOGYtTVZGaFRWeEpmb2EwN0RLWGVybnBHUG9jcGV4SVZyN0RzRk1WZ09B0gHDAUFVX3lxTE56OVA4MFcyOG1FVURSaHVsR1BmV1V6dFRjWEwteDVuemM4d1J1SHlfS2JlZHVmdTd5azVPN1ZPaUxyLXJKdDVwbmFOYTRBaWRnNlJKSy1wZEpoOUU5NGFYTUliRkYwcDZlNzd5MFBrdXRLQXlZaFZETnU5aHcyT0ZHVDB1T1JzMHRCS3A5VUw5NzVULS1TWHJidld4c24wYmhRV1paNGJleXJGczRfS2ptdzAtaHdqdk1QU09SOUl1UlhENA?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 18 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "published_at": "2026-05-04T14:06:56+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share buy-back programme for week 18 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. has announced a share buy-back programme for week 18 of 2026. The announcement is a routine corporate capital management disclosure by the parent company of BioMar Group A/S."
+    },
+    {
+      "id": 27303,
+      "story_id": 1253,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWtvWGtPZXJ1N0RGUWxoRDJDYTEzcHNDX3FmWk8waE9vaU55ZTdkTFllSjRWc3NMMTdYamRuODhCc3JHUzhNb1I0T1pUQWhES09tOUUzOEVKSGppZVhGT1d0QVBZYm10bnNGZlNaY0NyVDMtOTVFclpHRm14b1ZXUFZrbnQ?oc=5",
+      "title": "Schouw & Co Income Statement – TRADEGATE:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-06T22:00:44+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial statement data display for Schouw & Co stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView displays the income statement for Schouw & Co, the parent company of BioMar Group, as part of its financial data tools. The article is a financial data reference with no narrative content or claims about the company's performance."
+    },
+    {
+      "id": 27305,
+      "story_id": 1253,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdmNnNkNndWFJMWotbHQtTDVyNUY3eFloOWpQUUI4eGxPM1Y2UnRiNVBHSmE0S3h0d19qaVpHVzF5RnplbFUyZ29CcWRsQXhVNDVXcndndDUyaW1faUlZTzRabzF4ZWhSdUVMc01ldHhRNzZpd2hhb25Rb2lkZGJCQQ?oc=5",
+      "title": "Schouw & Co Balance Sheet – TRADEGATE:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-06T23:02:35+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial reporting and balance sheet data for Schouw & Co",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes financial balance sheet information for Schouw & Co, the parent company of BioMar Group. The article is a standard financial data presentation without editorial commentary or sentiment-bearing claims."
+    },
+    {
+      "id": 27566,
+      "story_id": 815,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJVeW1WU2pVX2phbUN6RGtXZmoxU29mcThzQmhOMWRQRkdLMlQ0cXFFVkJsM01XWWVMWkZjVi1WQWRlakd1VnItemVvTU0zNktrOHNPQ2huNG02OUVYeTR3S01TYXVxVUs3UGMtWFA1M1BBMXg3Q2JyOXFzcGU5Y3ZDR3lpUGxuaXloYWxwNGViU181Z2NXV1l2X2VoVDJ1cXJ0eTlXbXljMzdwUVJqbWt5ZGtzdw?oc=5",
+      "title": "Lethbridge Polytechnic valedictorian thanks grandpa for farming path - Alberta Farmer Express",
+      "source_name": "Alberta Farmer Express",
+      "language": "en",
+      "country": "CA",
+      "published_at": "2026-04-09T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJVeW1WU2pVX2phbUN6RGtXZmoxU29mcThzQmhOMWRQRkdLMlQ0cXFFVkJsM01XWWVMWkZjVi1WQWRlakd1VnItemVvTU0zNktrOHNPQ2huNG02OUVYeTR3S01TYXVxVUs3UGMtWFA1M1BBMXg3Q2JyOXFzcGU5Y3ZDR3lpUGxuaXloYWxwNGViU181Z2NXV1l2X2VoVDJ1cXJ0eTlXbXljMzdwUVJqbWt5ZGtzdw?oc=5\" target=\"_blank\">Lethbridge Polytechnic valedictorian thanks grandpa for farming path</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Alberta Farmer Express</font>"
+    },
+    {
+      "id": 27678,
+      "story_id": 1249,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHFWTTh2dEJRZUkzQ0ZsZS1lYzlLM0NldlFsSTlkQm9zNWt6a3NUVnVUS255Zm54MlhqaHlkbHZJNHZKZWxtaUZ5aVFNN3RfUTZQTXdrT21IRGE0dEd1WVJ4ZnFDQkZJcWFiWWFiRE1SVWVpOGJYaU9tb29aYWlJU0JlNXVQUkZxVkVxbm4xeFZxU2R1RlhUSThn?oc=5",
+      "title": "Wembley-semifinalistene klare:Sykkel-Skretting er med - Dagsavisen",
+      "source_name": "Dagsavisen",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-06-05T15:47:06+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHFWTTh2dEJRZUkzQ0ZsZS1lYzlLM0NldlFsSTlkQm9zNWt6a3NUVnVUS255Zm54MlhqaHlkbHZJNHZKZWxtaUZ5aVFNN3RfUTZQTXdrT21IRGE0dEd1WVJ4ZnFDQkZJcWFiWWFiRE1SVWVpOGJYaU9tb29aYWlJU0JlNXVQUkZxVkVxbm4xeFZxU2R1RlhUSThn?oc=5\" target=\"_blank\">Wembley-semifinalistene klare:Sykkel-Skretting er med</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dagsavisen</font>"
+    },
+    {
+      "id": 27823,
+      "story_id": 1251,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUdaNzI0WkdNVkxtTk9WRk5UNkNMRXd1QkM1TmtJYWpzTG9DYmJmOTJZaWFvZUFoWGxiRUVhSlhjM2lWMUsydnlOV01WWnh4eFRBR08wNGJLdk5feTJiV3paM0w4bXVzWEFEZ0VhanpyMTBPTk9DaFRyMHAzZFdfNkozWVNWZzItbXNuMHk1YVhCZGFPSk55ZnFZcWNiVGtwdE9mTnB3N1lPSzhvT0lBRW93?oc=5",
+      "title": "Mowi sella alianza estratégica con Skretting y mantiene su división de piensos - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2025-12-22T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUdaNzI0WkdNVkxtTk9WRk5UNkNMRXd1QkM1TmtJYWpzTG9DYmJmOTJZaWFvZUFoWGxiRUVhSlhjM2lWMUsydnlOV01WWnh4eFRBR08wNGJLdk5feTJiV3paM0w4bXVzWEFEZ0VhanpyMTBPTk9DaFRyMHAzZFdfNkozWVNWZzItbXNuMHk1YVhCZGFPSk55ZnFZcWNiVGtwdE9mTnB3N1lPSzhvT0lBRW93?oc=5\" target=\"_blank\">Mowi sella alianza estratégica con Skretting y mantiene su división de piensos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 27871,
+      "story_id": 1248,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmYwd1hTYk9ZQzg0Q2hMdm5JMDltT0EtTGVPUFJpd1A5cHpodHl4SkN2Vm9lUkZXa3lONUJHZjFkcmxMUmg3TlJDNU9hNGRZLTNsd2VZNll6QnlOVHo4VHpIc2Rvck1OWHp2NTBlaXFOZkp3cTdtM0lmZmY2ZXBVTGFaUHp0YS16VE5ieTNuM3dvdEpVS0EyVEFMeVVTa09vb1E?oc=5",
+      "title": "Skretting Australia traslada 30 mil toneladas en primer año de servicios - PortalPortuario",
+      "source_name": "PortalPortuario",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2023-08-22T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmYwd1hTYk9ZQzg0Q2hMdm5JMDltT0EtTGVPUFJpd1A5cHpodHl4SkN2Vm9lUkZXa3lONUJHZjFkcmxMUmg3TlJDNU9hNGRZLTNsd2VZNll6QnlOVHo4VHpIc2Rvck1OWHp2NTBlaXFOZkp3cTdtM0lmZmY2ZXBVTGFaUHp0YS16VE5ieTNuM3dvdEpVS0EyVEFMeVVTa09vb1E?oc=5\" target=\"_blank\">Skretting Australia traslada 30 mil toneladas en primer año de servicios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PortalPortuario</font>"
     }
   ],
   "share_of_voice": {
@@ -50976,7 +51319,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2023-W35",
@@ -51648,7 +51991,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2025-W24",
@@ -51677,7 +52020,7 @@
       {
         "week": "2025-W27",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -51880,7 +52223,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 18
+        "Skretting": 19
       },
       {
         "week": "2026-W01",
@@ -51997,10 +52340,10 @@
       {
         "week": "2026-W15",
         "Aller Aqua": 1,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 8
+        "Skretting": 9
       },
       {
         "week": "2026-W16",
@@ -52029,7 +52372,7 @@
       {
         "week": "2026-W19",
         "Aller Aqua": 0,
-        "BioMar": 11,
+        "BioMar": 16,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -52042,7 +52385,7 @@
       },
       {
         "company": "BioMar",
-        "count": 551
+        "count": 558
       },
       {
         "company": "Cargill",
@@ -52054,7 +52397,7 @@
       },
       {
         "company": "Skretting",
-        "count": 427
+        "count": 431
       }
     ]
   }
