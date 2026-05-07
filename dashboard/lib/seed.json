@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-07T08:03:45+00:00",
+  "generated_at": "2026-05-07T11:24:03+00:00",
   "stats": {
-    "mention_count": 1354,
-    "story_count": 1231,
-    "analyzed_count": 558,
+    "mention_count": 1357,
+    "story_count": 1234,
+    "analyzed_count": 560,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -7914,6 +7914,20 @@
       "first_seen": "2025-03-25T08:48:13+00:00",
       "last_seen": "2025-03-25T08:48:13+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1256,
+      "headline": "BioMar proves sustainability makes good business sense - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUtkRTRwX295aENoSEpvemdJMTRoY2hMWlFwdzkxQVRPTTRodGpudmYwbm5TUVczREN5SlJrVkR4c2RQWDNPdGlqOGR3Y2lnSnA2Qi1qNGRKUGFrZTRCNjh6dXhDWGc2ZW53S2F6WEdMUU9oTkxxOURpLTZaVDNTWlV4VFd6Mjl1aTJ3VUMtRTFkUFl5OGRraFFXNDdWTHg2cDJZanVB0gGzAUFVX3lxTE1KRmJmZS1ydGRVWmZpWHh5Q0MwUGh3MzU5VnhDQlZOeVFVMThmTmN1VkxQT0dzbkZmN3FGa1BDY1V4YzBGTldSSDF5RFZ1aWNhalVscFZyNnFlRVNybzJJOS03VGJKVHFsbjB6ZkozSFJkOEdtYkg1V1FQaXpySHliQm1rVkl1X3dEbEQySjE4UDBod3dsVnhoU2JTLUVXVnJOS0NEbDF0eGE0Wl96R0NqQnF3?oc=5\" target=\"_blank\">BioMar proves sustainability makes good business sense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2025-03-25T07:00:00+00:00",
+      "last_seen": "2025-03-25T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -16301,6 +16315,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1255,
+      "headline": "Bygger ny fôrbåt for BioMar - iLaks",
+      "story_summary": "BioMar has ordered construction of a new feed barge boat for its operations. The article reports on this infrastructure investment by the aquaculture feed producer.\n\nKEY CLAIMS:\n\nKey_claims are not derivable from the lede alone; the full article text would be required to extract specific factual claims about the barge, its specifications, construction timeline, or intended use.\n\nGiven only the headline and summary lede, the article is clearly about target BioMar (aquaculture feed context), is primary in prominence (headline focus), and neutral in tone (factual business news).\n\nNote: The original Norwegian headline \"Bygger ny fôrbåt for BioMar\" translates to \"Building new feed barge for BioMar.\"",
+      "first_seen": "2016-02-15T08:00:00+00:00",
+      "last_seen": "2016-02-15T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 416,
       "headline": "EWOS vil bygge bulkanlegg på Bergneset - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kc3AyVlBHMUQ1NHFkUE9neXNFb2dFWExKSktiUEFYSGhnWFpCS2R5NUpMSGZSMnEtUWZYTldHUVlWM2JZRl9hRUdkeDBZd21ZZ2ppbjlJMlE4Y3Z2bktvZUJmLTBuN1k?oc=5\" target=\"_blank\">EWOS vil bygge bulkanlegg på Bergneset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -16467,6 +16495,21 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1254,
+      "headline": "BioMar and Tongwei seal Chinese fish feed deal - All About Feed",
+      "story_summary": "BioMar and Chinese feed company Tongwei have announced a strategic partnership to supply fish feed to the Chinese aquaculture market. The deal represents BioMar's expansion efforts in a major aquaculture region.",
+      "first_seen": "2015-08-20T07:00:00+00:00",
+      "last_seen": "2015-08-20T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1022,
@@ -49070,6 +49113,85 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmYwd1hTYk9ZQzg0Q2hMdm5JMDltT0EtTGVPUFJpd1A5cHpodHl4SkN2Vm9lUkZXa3lONUJHZjFkcmxMUmg3TlJDNU9hNGRZLTNsd2VZNll6QnlOVHo4VHpIc2Rvck1OWHp2NTBlaXFOZkp3cTdtM0lmZmY2ZXBVTGFaUHp0YS16VE5ieTNuM3dvdEpVS0EyVEFMeVVTa09vb1E?oc=5\" target=\"_blank\">Skretting Australia traslada 30 mil toneladas en primer año de servicios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PortalPortuario</font>"
+    },
+    {
+      "id": 28245,
+      "story_id": 1255,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pMmF2MHNsZDVJSjZ5TXR1dkQ3Skl2eDFCYnZ3ZlpVYmNVWUQ1V3BjUzRzMGxVWGpMaWZSYmRHcUR3TDliTHVEVVpVMW5Ic2NKdWRRVXlwaXU?oc=5",
+      "title": "Bygger ny fôrbåt for BioMar - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2016-02-15T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "BioMar commissions new feed barge vessel",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has ordered construction of a new feed barge boat for its operations. The article reports on this infrastructure investment by the aquaculture feed producer.\n\nKEY CLAIMS:\n\nKey_claims are not derivable from the lede alone; the full article text would be required to extract specific factual claims about the barge, its specifications, construction timeline, or intended use.\n\nGiven only the headline and summary lede, the article is clearly about target BioMar (aquaculture feed context), is primary in prominence (headline focus), and neutral in tone (factual business news).\n\nNote: The original Norwegian headline \"Bygger ny fôrbåt for BioMar\" translates to \"Building new feed barge for BioMar.\""
+    },
+    {
+      "id": 28614,
+      "story_id": 1256,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUtkRTRwX295aENoSEpvemdJMTRoY2hMWlFwdzkxQVRPTTRodGpudmYwbm5TUVczREN5SlJrVkR4c2RQWDNPdGlqOGR3Y2lnSnA2Qi1qNGRKUGFrZTRCNjh6dXhDWGc2ZW53S2F6WEdMUU9oTkxxOURpLTZaVDNTWlV4VFd6Mjl1aTJ3VUMtRTFkUFl5OGRraFFXNDdWTHg2cDJZanVB0gGzAUFVX3lxTE1KRmJmZS1ydGRVWmZpWHh5Q0MwUGh3MzU5VnhDQlZOeVFVMThmTmN1VkxQT0dzbkZmN3FGa1BDY1V4YzBGTldSSDF5RFZ1aWNhalVscFZyNnFlRVNybzJJOS03VGJKVHFsbjB6ZkozSFJkOEdtYkg1V1FQaXpySHliQm1rVkl1X3dEbEQySjE4UDBod3dsVnhoU2JTLUVXVnJOS0NEbDF0eGE0Wl96R0NqQnF3?oc=5",
+      "title": "BioMar proves sustainability makes good business sense - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "published_at": "2025-03-25T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUtkRTRwX295aENoSEpvemdJMTRoY2hMWlFwdzkxQVRPTTRodGpudmYwbm5TUVczREN5SlJrVkR4c2RQWDNPdGlqOGR3Y2lnSnA2Qi1qNGRKUGFrZTRCNjh6dXhDWGc2ZW53S2F6WEdMUU9oTkxxOURpLTZaVDNTWlV4VFd6Mjl1aTJ3VUMtRTFkUFl5OGRraFFXNDdWTHg2cDJZanVB0gGzAUFVX3lxTE1KRmJmZS1ydGRVWmZpWHh5Q0MwUGh3MzU5VnhDQlZOeVFVMThmTmN1VkxQT0dzbkZmN3FGa1BDY1V4YzBGTldSSDF5RFZ1aWNhalVscFZyNnFlRVNybzJJOS03VGJKVHFsbjB6ZkozSFJkOEdtYkg1V1FQaXpySHliQm1rVkl1X3dEbEQySjE4UDBod3dsVnhoU2JTLUVXVnJOS0NEbDF0eGE0Wl96R0NqQnF3?oc=5\" target=\"_blank\">BioMar proves sustainability makes good business sense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 28616,
+      "story_id": 1254,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcngyQmZ2dlZ4YmIwd3NXZXpSYXFaVEpIMzVnWjdGbXZSQ2RBa0hMZEtOZERudXo4VFV2SWRzX3lDMUZSaUJUSjhCMC1BM2ZRN3BwbTBDQ1dqblZUWm5oT2FLNXZoOUU3d3d3Y0FpdHp1YjN3ajh1NUZuR0RmanFxNTFaT0hvZUk2d1hKYU9pTDFWWDktbVFsZGR0OEsxVlg0UXF5U2lB?oc=5",
+      "title": "BioMar and Tongwei seal Chinese fish feed deal - All About Feed",
+      "source_name": "All About Feed",
+      "language": "en",
+      "country": "NL",
+      "published_at": "2015-08-20T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar and Tongwei establish strategic partnership for Chinese aquaculture market",
+      "key_claims": [
+        "BioMar and Tongwei sealed a fish feed deal in China",
+        "The deal represents BioMar's expansion into the Chinese aquaculture market"
+      ],
+      "people_quoted": [
+        {
+          "name": "Carlos Diaz",
+          "affiliation": "BioMar",
+          "quote_summary": "Article mentions Carlos Diaz in connection with the deal announcement"
+        }
+      ],
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "summary": "BioMar and Chinese feed company Tongwei have announced a strategic partnership to supply fish feed to the Chinese aquaculture market. The deal represents BioMar's expansion efforts in a major aquaculture region."
     }
   ],
   "share_of_voice": {
@@ -49460,7 +49582,7 @@
       {
         "week": "2015-W34",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 14,
         "Polarfeed": 0,
         "Skretting": 0
@@ -49540,7 +49662,7 @@
       {
         "week": "2016-W07",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -51908,7 +52030,7 @@
       {
         "week": "2025-W13",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -52385,7 +52507,7 @@
       },
       {
         "company": "BioMar",
-        "count": 558
+        "count": 561
       },
       {
         "company": "Cargill",
