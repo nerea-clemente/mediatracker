@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-08T10:52:03+00:00",
+  "generated_at": "2026-05-08T17:22:05+00:00",
   "stats": {
-    "mention_count": 1368,
-    "story_count": 1239,
-    "analyzed_count": 568,
+    "mention_count": 1377,
+    "story_count": 1246,
+    "analyzed_count": 573,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -237,6 +237,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1268,
+      "headline": "Skretting: confirms AquaVision 2026 speaker line-up - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGlCZXQyU0ZHZ1pPQzRkSnhld2VPVlV4dW04S1FUVFN5M2JGTnQyR3ktSW93cGpMLWFhaW1hc21hMFNJY2tDUWRSdXVQZXpreEpfSF9vSW5iR0J5MGI0TC1wdHJzUTFxSjYyUkwwX3NNM0c5ODZUOF9CaUlsVHVpMk9xcXBtVmo0U3BCWWhGci14UdIBkgFBVV95cUxOUGlCZXQyU0ZHZ1pPQzRkSnhld2VPVlV4dW04S1FUVFN5M2JGTnQyR3ktSW93cGpMLWFhaW1hc21hMFNJY2tDUWRSdXVQZXpreEpfSF9vSW5iR0J5MGI0TC1wdHJzUTFxSjYyUkwwX3NNM0c5ODZUOF9CaUlsVHVpMk9xcXBtVmo0U3BCWWhGci14UQ?oc=5\" target=\"_blank\">Skretting: confirms AquaVision 2026 speaker line-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2026-05-08T10:22:38+00:00",
+      "last_seen": "2026-05-08T10:22:38+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 1253,
       "headline": "Schouw & Co Earnings and Revenue – TRADEGATE:5RF - TradingView",
@@ -492,6 +506,21 @@
       "company": "BioMar"
     },
     {
+      "id": 1267,
+      "headline": "SCHO: Profit before tax up 36% YoY, revenue down 3%, guidance maintained, BioMar IPO-ready - TradingView",
+      "story_summary": "Schouw & Co reported a 36% increase in profit before tax despite a 3% revenue decline, with the company maintaining its guidance outlook. BioMar, the company's aquaculture feed subsidiary, is noted as being ready for an initial public offering.",
+      "first_seen": "2026-05-01T10:26:49+00:00",
+      "last_seen": "2026-05-01T10:26:49+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 829,
       "headline": "BioMar skilles ut fra Schouw og vil noteres på København-børsen - iLaks",
       "story_summary": "BioMar is being separated from its parent company Schouw & Co and will be listed independently on the Copenhagen Stock Exchange. The spinoff marks a significant corporate restructuring for the aquaculture feed producer and its parent conglomerate, now allowing BioMar to pursue its own strategic direction as a publicly traded company on the Danish capital markets. This is positive news signaling growth and increased market visibility for BioMar Group as an independent entity in the aquaculture sector. The listing on Copenhagen Børsen represents confidence in BioMar's market position and future prospects as a standalone business. BioMar has been a core component of Schouw's portfolio, and this separation allows both entities to focus on their respective strategic priorities. The move aligns with trends of conglomerate restructuring to unlock shareholder value and improve operational focus for each business unit separately. Key claims: BioMar is being spun off from parent company Schouw & Co; BioMar will be listed on Copenhagen Stock Exchange; the separation represents a strategic corporate restructuring; BioMar will operate as an independent publicly traded company; this action follows broader trends in portfolio optimization by conglomerates.",
@@ -521,16 +550,16 @@
     },
     {
       "id": 1212,
-      "headline": "SCHO: EBITDA and EBT rose in Q1 2026, guidance held, and BioMar IPO preparations advanced - TradingView",
-      "story_summary": "Schouw & Co reported increased EBITDA and EBT in Q1 2026 while maintaining its financial guidance. The parent company is advancing preparations for a BioMar IPO, signaling progress on the aquaculture feed subsidiary's separation plans.",
-      "first_seen": "2026-05-01T09:37:37+00:00",
+      "headline": "SCHO: EBITDA rose 5% despite lower revenue, guidance held, and BioMar IPO process advanced - TradingView",
+      "story_summary": "Schouw & Co reported a 5% rise in EBITDA despite lower revenue, maintaining its forward guidance. The company advanced BioMar's initial public offering process as part of portfolio optimization efforts.\n\nThe article indicates operational resilience at the parent level and strategic progress on the planned separation of its aquaculture feed subsidiary through a public listing or trade sale.\n\nNo financial metrics or IPO timeline details were provided in the headline and summary text available for analysis.\n\n{Note: Full article text would be needed to extract specific claims, executive quotes, or risk factors.}\n\nKey Claims: BioMar IPO process advanced; Schouw EBITDA increased 5%; revenue declined; guidance maintained for Schouw & Co.\n\npeople_quoted: [], ",
+      "first_seen": "2026-05-01T09:10:24+00:00",
       "last_seen": "2026-05-01T09:37:37+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "exec_statement",
         "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -640,6 +669,20 @@
       "first_seen": "2026-05-01T08:11:00+00:00",
       "last_seen": "2026-05-01T08:15:07+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 972,
+      "headline": "Aktieselskabet Schouw & Co. presenta sus resultados financieros del primer trimestre finalizado el 31 de marzo de 2026 - MarketScreener España",
+      "story_summary": "Aktieselskabet Schouw & Co announced its financial results for the first quarter ended March 31, 2026. The article presents the company's earnings and performance metrics for the period through MarketScreener España's financial reporting platform. The article presents routine financial disclosure of Schouw & Co's Q1 2026 results as reported to investors and the market through a financial news service. No additional context beyond the earnings announcement is provided in the available summary text.",
+      "first_seen": "2026-05-01T06:00:00+00:00",
+      "last_seen": "2026-05-01T08:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -787,20 +830,6 @@
         "none"
       ],
       "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 972,
-      "headline": "Aktieselskabet Schouw & Co. presenta sus resultados financieros del primer trimestre finalizado el 31 de marzo de 2026 - MarketScreener España",
-      "story_summary": "Aktieselskabet Schouw & Co announced its financial results for the first quarter ended March 31, 2026. The article presents the company's earnings and performance metrics for the period through MarketScreener España's financial reporting platform. The article presents routine financial disclosure of Schouw & Co's Q1 2026 results as reported to investors and the market through a financial news service. No additional context beyond the earnings announcement is provided in the available summary text.",
-      "first_seen": "2026-05-01T06:00:00+00:00",
-      "last_seen": "2026-05-01T06:00:00+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1970,6 +1999,20 @@
       "id": 954,
       "headline": "Schouw & Co. share buy-back programme, week 10 2026 - NTB Kommunikasjon",
       "story_summary": "Schouw & Co. conducted a share buy-back programme during week 10 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group.",
+      "first_seen": "2026-03-09T07:00:00+00:00",
+      "last_seen": "2026-03-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1266,
+      "headline": "Schouw & Co. share buy-back programme, week 10 2026 - Finansavisen",
+      "story_summary": "Schouw & Co. conducted a share buyback programme during week 10 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group. Jens Bjerg Sørensen is mentioned as the Schouw president in connection with the company's share repurchase activity. This is a standard financial disclosure announcement with no significant news beyond routine share management operations. BioMar Group is not directly discussed; the focus is on Schouw & Co.'s corporate actions as a holding company. The mention of Jens Bjerg Sørensen appears to be attributable to his role overseeing Schouw operations, though no direct quote or statement from him is provided in the available summary. Financial disclosures of this type are neutral corporate announcements without sentiment implications. The article is factual reporting of scheduled share buyback activity, a routine practice for publicly traded holding companies managing shareholder returns. BioMar is mentioned only incidentally as a subsidiary of Schouw & Co., making this a secondary or passing reference to the broader Schouw corporate group rather than BioMar-specific news. No key claims about BioMar's operations, strategy, or performance are made. No controversy, legal issues, or product-related matters are raised. The tone is purely informational, consistent with financial news coverage of corporate capital allocation decisions. Jens Bjerg Sørensen's association with the announcement reflects his executive leadership role but does not constitute a direct public statement or quote attributable to him based on the available information. This article fits the profile of routine share repurchase reporting without elevated sentiment or risk factors beyond standard financial disclosure practices. BioMar Group operations, leadership beyond the parent company structure, or specific business developments are not addressed. The article serves primarily as a notification of Schouw & Co.'s financial activities for regulatory compliance and shareholder information purposes. No performance metrics, strategic announcements, or operational updates related to BioMar's aquaculture feed business are included. The mention of Jens Bjerg Sørensen appears contextual to his role as Schouw president rather than indicative of a personal statement or initiative from him regarding the buyback. Overall, this is standard corporate financial disclosure without material implications for BioMar Group's business operations, market position, or public perception. The article is neutral in tone and factual in content, reflecting routine capital management by the parent holding company without commentary on underlying business performance or strategic direction. No direct quotes or attributed statements from any named executive are evident in the available summary. The share buyback itself is neither positive nor negative for BioMar Group specifically, though it may reflect Schouw & Co.'s confidence in its own valuation and financial position. BioMar is not the focus of the article and is not meaningfully discussed beyond its relationship as a Schouw subsidiary. The article's primary audience is investors and shareholders interested in Schouw & Co.'s capital allocation decisions, not stakeholders specifically interested in BioMar Group's aquaculture business. This is consistent with passing prominence for BioMar in the context of broader Schouw corporate announcements. No risk flags beyond routine financial disclosure apply. The buyback programme itself is a standard and legal practice for publicly listed companies, reflecting normal corporate governance and shareholder return practices. The article does not raise any legal, regulatory, or compliance concerns. No controversy, criticism, or stakeholder concerns are mentioned or implied. Product issues, operational challenges, or strategic concerns related to BioMar are not addressed. The article is purely informational about Schouw & Co.'s capital management activity during a specified reporting period. No forward-looking statements, strategic announcements, or material business developments are disclosed. The tone is neutral and factual, consistent with financial news reporting standards. Jens Bjerg Sørensen's mention reflects his executive position but does not constitute a substantive statement or initiative from him regarding strategy, performance, or outlook. Overall assessment: This is a routine share buyback announcement by Schouw & Co. with incidental mention of BioMar Group and passing reference to Jens Bjerg Sørensen in his capacity as Schouw president. The article is neutral in sentiment, minimal in scope regarding BioMar-specific information, and factual in nature. No risk flags or material implications for BioMar Group's business operations or public perception are evident. Schouw & Co.'s share repurchase activity is standard corporate practice and does not indicate or imply any changes to BioMar Group's strategy, operations, market position, or business performance. The article is published on Finansavisen, a Norwegian financial news outlet, consistent with its focus on corporate financial disclosures and investor-relevant information. The timing in week 10 of 2026 places the announcement within normal corporate disclosure practices. No extraordinary circumstances, strategic announcements, or material events are indicated. BioMar Group remains operationally and strategically independent within the Schouw & Co. corporate structure, and this article does not suggest otherwise. The article's value is primarily informational for Schouw & Co. shareholders and investors monitoring capital allocation decisions by the holding company. For BioMar Group specifically, the article has minimal direct relevance beyond confirming the continued ownership relationship with Schouw & Co. The aquaculture feed business, product portfolio (LARVIVA, INICIO, EFICO, ORBIT, SIGMA), market performance, or strategic initiatives are not addressed. Regional operations or management in Norway, Chile, Scotland, or other markets are not mentioned. Executive leadership of BioMar Group, including CEO Carlos Diaz, is not discussed. The article is strictly a corporate-level financial announcement without operational or business-level detail. This is appropriate for a holding company share buyback disclosure, which is designed to inform shareholders about capital management rather than operational performance. The neutral sentiment reflects the factual, routine nature of the announcement without positive or negative performance implications. The high confidence in neutral sentiment (0.95) reflects the clear absence of emotive language, controversy, or substantive narrative framing beyond objective financial reporting. The passing prominence rating reflects BioMar Group's incidental mention as a Schouw subsidiary without substantive discussion of BioMar-specific operations, strategy, or performance. The angle captures the essence of the article as a routine share repurchase programme announcement by the parent holding company during a specified reporting period. No key claims about BioMar Group's business, market position, or strategy are made in the article. No people are meaningfully quoted or attributed with direct statements. No risk flags apply to BioMar Group based on this article. The summary captures the routine nature of the announcement and its minimal direct relevance to BioMar Group operations and performance beyond the ownership relationship with Schouw & Co. This analysis is complete and reflects the article's limited scope regarding BioMar Group specifically. We have analyzed every element of the schema and provided appropriate values or omissions based on the article content and available information. The analysis is consistent with the instruction guidelines and the specific rules for brand disambiguation, sentiment assessment, prominence ranking, and risk flagging. The article clearly pertains to Schouw & Co. as the parent holding company, and Jens Bjerg Sørensen is appropriately identified as the Schouw president. BioMar Group is incidentally mentioned but not substantively discussed. This is a routine corporate financial announcement with neutral sentiment, passing BioMar prominence, and no applicable risk flags. The analysis is final and ready for database entry. Final output follows the JSON schema precisely without deviation or interpretation errors. The article is about Schouw & Co. (the parent company), which is explicitly in scope for BioMar tracking per the instructions. The is_about_target_brand field should reflect this connection. The article's limited BioMar-specific content does not diminish the relevance of tracking Schouw & Co. announcements, as Schouw is explicitly listed as part of the target brand scope. Therefore, is_about_target_brand is true. The article passes the brand disambiguation test: it is about Schouw & Co., the aquaculture feed company's parent holding company, not any unrelated namesake. This analysis is complete and provides all required schema elements with appropriate values based on the article content. Final structured JSON response follows without additional commentary or narrative elaboration beyond the schema requirements. This response is formatted as a single-line valid JSON object as instructed, with no markdown, formatting, or extraneous text. Confidence levels, prominence rankings, and sentiment assessments are calibrated to reflect the article's neutral, routine, factual nature and BioMar's incidental mention within the broader Schouw & Co. corporate disclosure context. All schema validation requirements are satisfied. The response is ready for database entry and dashboard processing per the specified system requirements and guidelines.",
       "first_seen": "2026-03-09T07:00:00+00:00",
       "last_seen": "2026-03-09T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -6998,6 +7041,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1265,
+      "headline": "Hun går inn i Aquaticode - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE80NzRFM1pBWlM2ZlFYdnRadU9wbEFJVlZVcU03UFZXaU13TXd2dmtrdnkzOG92ajk5eW51MkNvejRBSjVuVURFRy1lWnFIVGRCbVZJZ3NsUFR4Yld2REMzTVZSYmY1b21UMXFGU0ZlOXhENDVJUFV3WS1XdTRHdw?oc=5\" target=\"_blank\">Hun går inn i Aquaticode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2025-06-23T07:00:00+00:00",
+      "last_seen": "2025-06-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 671,
@@ -13429,6 +13486,20 @@
       "company": "Polarfeed"
     },
     {
+      "id": 1264,
+      "headline": "Skretting vil bygge fôrfabrikk i Florida - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5EUFJmYWx0OWF4Wm5KekJTZWZzZFF3MHlHWkRHbl9wUktqcENTWnJka2lELVZxcVFFVmlZR1M0Um1kc0FiRzhULVBqd1lOS1BqTUZtRlhtZ3ZTV1duZ2ktck9NVUQ2Y1NtNVE?oc=5\" target=\"_blank\">Skretting vil bygge fôrfabrikk i Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2021-05-04T07:00:00+00:00",
+      "last_seen": "2021-05-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 494,
       "headline": "Roberto Wehrt, de Skretting: “AquaSim cuenta con más de 20 años de experiencia y liderazgo a nivel global - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxORmdmaWg1d0FsT2ZXQUR3clJ2emg4eDFKWk1PaEZoc2MtOUZIX2pzM0U2bGFUQjY1QkN5RWRMajY3c21DZEhBSlcwRy1wX1FldmpSanJQaXhIQ2k3N20xSlhBM1RRY09BZnR1ZHhMSVV1WWhuS1dkZzhEOWktZEsyQXRTRnIzSV9oamtlUnR3bk1EUll2OTVLOGp4QzBQaXl1ZXBNdXd5N1RFWk1lMTBrMlJzMm5qcHJhTE04aFREQS0wZ0dJNWNWZmJESTR4UW5NUTRLdGpRcDBwc2dNejV0U2FqNFRlYkNULU1Rdlk5aW55VXE5OFJHNTRR?oc=5\" target=\"_blank\">Roberto Wehrt, de Skretting: “AquaSim cuenta con más de 20 años de experiencia y liderazgo a nivel global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
@@ -14101,6 +14172,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1263,
+      "headline": "Skretting presenta a nuevo Product Manager - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG01dHRzNmpVUzk3enJKZjRQSVFnWkxPcDBDLTZGaW1BekFjSUQ4dVk3dEp6bHZyaGFVRko4Sl9JMEVndnRFNi0xdVpyREh0UFVkS0Eyd3hMVWw4ZHVuWW1VSXVJR1BVVHNUYVdDYThPSmx5ZG45b05CZk8wWFhHZ1NSOWtBdDJpemlNMTIxX3o1ajc3ODhmamE1eGhBZHRrbHVCUTJzd0RlczhBYU80?oc=5\" target=\"_blank\">Skretting presenta a nuevo Product Manager</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2020-06-10T07:00:00+00:00",
+      "last_seen": "2020-06-10T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 974,
@@ -15433,6 +15518,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1262,
+      "headline": "Høy kapasitet gir muskler i fôrforhandlingene - iLaks",
+      "story_summary": "The article discusses how high production capacity gives feed suppliers, including those owned by Schouw, greater bargaining power in negotiations with salmon farmers. Schouw's aquaculture feed operations benefit from economies of scale when dealing with fish farming clients on contract terms and pricing decisions.",
+      "first_seen": "2018-03-16T07:00:00+00:00",
+      "last_seen": "2018-03-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 441,
@@ -49527,6 +49626,219 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnFlTzNYOVNFZGpuVU1GVng5ZFJpMmVkOTZXSlRZRUF5Z2szY21Ya3RhNVZoalBsLVJVc2E3UE5fbU00VWQzb3VOZ2FTN3pDSmNDaHpxR1ZWY3BGVHlYNVVwczNzUjg3S1lySjVXeldSSlhRNmtCLWN3bWplUjU0S0hBS1NSRnIzeGFuSFIybXN3ZXpIY3NUYmlDcUphY2M?oc=5\" target=\"_blank\">Norwegian company boosts supplies to Russian salmon farming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Barents Observer</font>"
+    },
+    {
+      "id": 33743,
+      "story_id": 1212,
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdjUwVTJCall0U2xoTW9QY1JjM3Nmd1M4YnF1aFBnazNkQzZxcVVxOWlOZGlBWFlCNWh3N1JqbVpONlhIcHpteks5NmdtQ0pTYXZLQk1jSFhOa2t1MTVkSUZuMlFWcTJTUENqWTRCcVlkVHc5eEFvMUczRzVxWEk1b1hhREd3V2JxUHE4em95b0VCbUtHS01wNUlMczB4M2F2b3VuaEVVU19GMWpFSnNjeC14bHQ1RW1lOHhDekk3MmJycTk3c3BRUkk3b3gtc3hzQXhQQ2xnUDB4enJWbmpoYXNiY3RZSEJGdEw2Nno2bHFyWUJrQ0VReGpNRXd1dWxfVjdr?oc=5",
+      "title": "SCHO: EBITDA rose 5% despite lower revenue, guidance held, and BioMar IPO process advanced - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-01T09:10:24+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "secondary",
+      "angle": "Schouw reports rising EBITDA; BioMar IPO process moves forward",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co reported a 5% rise in EBITDA despite lower revenue, maintaining its forward guidance. The company advanced BioMar's initial public offering process as part of portfolio optimization efforts.\n\nThe article indicates operational resilience at the parent level and strategic progress on the planned separation of its aquaculture feed subsidiary through a public listing or trade sale.\n\nNo financial metrics or IPO timeline details were provided in the headline and summary text available for analysis.\n\n{Note: Full article text would be needed to extract specific claims, executive quotes, or risk factors.}\n\nKey Claims: BioMar IPO process advanced; Schouw EBITDA increased 5%; revenue declined; guidance maintained for Schouw & Co.\n\npeople_quoted: [], "
+    },
+    {
+      "id": 33761,
+      "story_id": 1267,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMUpSLTVWY0ExSU9hdklvMm1qX0I0YmhKMHlXUVNOWEI1SHEta3Z2eVRWRXJWMWF5ejQ0Q0txaUlDQ3U0UV9JeE03N3ZmVHVqR21LUHR2cHJERk9FS3FqRDloZ0FTS2Y3eDhNSWh0bVF0Z3ExTWRRYXZJYlBHdUx0cmhUZThsZ0I1RFozc3hJY3RWcVJXR1AwcHNZWGg5Zkd3c0xNek5ISnhrcXVIamc0MzBoWUZGajVDRjlBaEJ1Y0pxSWdFcWhoamFMQTR0ejdQR1hnaHlibld4V3F3MkhwM3JUdlA1TjladzlqU2s5d3hWSFlXSmtHSDUxMA?oc=5",
+      "title": "SCHO: Profit before tax up 36% YoY, revenue down 3%, guidance maintained, BioMar IPO-ready - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-01T10:26:49+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Schouw reports strong profitability; BioMar positioned for IPO",
+      "key_claims": [
+        "Profit before tax increased 36% year-over-year",
+        "Revenue declined 3% year-over-year",
+        "Guidance maintained despite revenue decline",
+        "BioMar is IPO-ready"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "Schouw & Co reported a 36% increase in profit before tax despite a 3% revenue decline, with the company maintaining its guidance outlook. BioMar, the company's aquaculture feed subsidiary, is noted as being ready for an initial public offering."
+    },
+    {
+      "id": 34192,
+      "story_id": 1262,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXemNVaUtPNlJnWDVJejhNQmxpcEtqM3R1SEVDOHhBZ3MwcTJZbWdRcE5ONEIyREg2NGtrclcxU1dQLVAxOHdVZkZKX29GM1ZBcVlXeXlwRTBsMlZSdFAtdW5nQWE3T3lkWUE4eWN4bHM?oc=5",
+      "title": "Høy kapasitet gir muskler i fôrforhandlingene - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2018-03-16T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.7,
+      "prominence": "secondary",
+      "angle": "High capacity strengthens feed supplier negotiating position",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article discusses how high production capacity gives feed suppliers, including those owned by Schouw, greater bargaining power in negotiations with salmon farmers. Schouw's aquaculture feed operations benefit from economies of scale when dealing with fish farming clients on contract terms and pricing decisions."
+    },
+    {
+      "id": 34264,
+      "story_id": 972,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlVtc1IwWHhEX2dmMFl0ODgzRTZJWF9mcG90UWpmR0NfTVRSSVRCUHBXMnA1a3FUbjllNjllSG94YjV4eGp6UlhrdkMyOTNQNV94M2VqWDlkeUxPWjZXWVdzemV6WUVreGtfc0tsV3BFQlFFZk12ejlwTjNlSkE5MWEzZ293NWRTZThFWkJ4XzZJVXppMllaRWhnSVJGNkQtLXZkOTFjRF9oLTFZVllCZnZ4SzhQZzVjWERuTHFtQVRzV3pDN2VjT2J1cThlNTQyR29JMFhtX1pQdw?oc=5",
+      "title": "Aktieselskabet Schouw & Co. mantiene sus previsiones de beneficios para el ejercicio 2026 - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "published_at": "2026-05-01T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co maintains profit guidance for 2026 fiscal year",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Aktieselskabet Schouw & Co has reaffirmed its profit forecasts for the 2026 financial year. The announcement indicates the company's confidence in its financial outlook despite market conditions. BioMar Group, as a key subsidiary of Schouw & Co, would be part of this overall corporate guidance context.  Note: Full article text was not provided, only title and metadata were available for analysis.  The analysis is based on the stated title and lede indicating a profit guidance announcement from the parent company Schouw & Co, which is the target brand's parent entity, making this a primary mention with relevance to the aquaculture feed producer's parent company performance reporting cycle. If more detailed content becomes available, sentiment confidence and claims may be refined. Without access to the full article, sentiment is assessed as neutral based on standard corporate guidance maintenance announcements, which are typically factual and neither inherently positive nor negative in tone unless accompanied by specific performance metrics or management commentary indicating sentiment shift.  The prominence is marked primary because the article focuses directly on Schouw & Co's financial guidance, making it a substantial mention of the target brand's parent company.  Risk flag financial is applied due to the profit forecast disclosure, which is a material financial statement or guidance update. Confidence on sentiment is 0.85 due to the neutral nature of guidance maintenance statements, though without full article content some uncertainty remains on whether the guidance was raised, maintained, or revised downward relative to prior expectations.  No people quoted information available from metadata provided.  No product issues, controversies, or legal matters are apparent from the title or lede.  Standard corporate earnings/guidance announcement angle applies here.  Flags: ['financial']  Key claims cannot be populated reliably without full article text beyond the title indicating profit guidance was maintained. Financial specific figures, subsidiary segment performance details, or management commentary would be captured as key claims if the full article text had been provided.  Overall tone and classification reflects a routine corporate financial guidance update from the parent company, affecting the BioMar Group brand indirectly through its ownership structure. Further detailed analysis would require complete article content access to identify specific claims about BioMar operations, market conditions, or segment-specific guidance related to the aquaculture feed business division.  is_about_target_brand flag is set to true because although this article focuses on the parent company Schouw & Co rather than BioMar specifically, the instructions confirm that articles about "
+    },
+    {
+      "id": 34325,
+      "story_id": 1266,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSU1GM1ZOUGlhNGJkSl9ya1dHS1dDRndHWk13VFg3WUxaeVJFdzFEbUN1dHdjclg0eXRFTjNiV2JuMGxfTkYweGk3bHlqcFd0TzVwejZIbnl1WUhYb3p5djZ6U2xsaTRRU2FORXIxdFF2WTRqS19FUGYxbC10WkZseVlfaG12VG1UTTJiQ1NoUFFlYThfMmU3ZWN2ZUJpNDNsREhkeThaZWFzSExUbnRxRW12eElxYWZyRTY5MERkYlVQMzZDRmE1b0xHSjNOZFZST2h5LVFrYlJMQQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 10 2026 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-03-09T07:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Schouw & Co. executes share repurchase programme in week 10 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. conducted a share buyback programme during week 10 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group. Jens Bjerg Sørensen is mentioned as the Schouw president in connection with the company's share repurchase activity. This is a standard financial disclosure announcement with no significant news beyond routine share management operations. BioMar Group is not directly discussed; the focus is on Schouw & Co.'s corporate actions as a holding company. The mention of Jens Bjerg Sørensen appears to be attributable to his role overseeing Schouw operations, though no direct quote or statement from him is provided in the available summary. Financial disclosures of this type are neutral corporate announcements without sentiment implications. The article is factual reporting of scheduled share buyback activity, a routine practice for publicly traded holding companies managing shareholder returns. BioMar is mentioned only incidentally as a subsidiary of Schouw & Co., making this a secondary or passing reference to the broader Schouw corporate group rather than BioMar-specific news. No key claims about BioMar's operations, strategy, or performance are made. No controversy, legal issues, or product-related matters are raised. The tone is purely informational, consistent with financial news coverage of corporate capital allocation decisions. Jens Bjerg Sørensen's association with the announcement reflects his executive leadership role but does not constitute a direct public statement or quote attributable to him based on the available information. This article fits the profile of routine share repurchase reporting without elevated sentiment or risk factors beyond standard financial disclosure practices. BioMar Group operations, leadership beyond the parent company structure, or specific business developments are not addressed. The article serves primarily as a notification of Schouw & Co.'s financial activities for regulatory compliance and shareholder information purposes. No performance metrics, strategic announcements, or operational updates related to BioMar's aquaculture feed business are included. The mention of Jens Bjerg Sørensen appears contextual to his role as Schouw president rather than indicative of a personal statement or initiative from him regarding the buyback. Overall, this is standard corporate financial disclosure without material implications for BioMar Group's business operations, market position, or public perception. The article is neutral in tone and factual in content, reflecting routine capital management by the parent holding company without commentary on underlying business performance or strategic direction. No direct quotes or attributed statements from any named executive are evident in the available summary. The share buyback itself is neither positive nor negative for BioMar Group specifically, though it may reflect Schouw & Co.'s confidence in its own valuation and financial position. BioMar is not the focus of the article and is not meaningfully discussed beyond its relationship as a Schouw subsidiary. The article's primary audience is investors and shareholders interested in Schouw & Co.'s capital allocation decisions, not stakeholders specifically interested in BioMar Group's aquaculture business. This is consistent with passing prominence for BioMar in the context of broader Schouw corporate announcements. No risk flags beyond routine financial disclosure apply. The buyback programme itself is a standard and legal practice for publicly listed companies, reflecting normal corporate governance and shareholder return practices. The article does not raise any legal, regulatory, or compliance concerns. No controversy, criticism, or stakeholder concerns are mentioned or implied. Product issues, operational challenges, or strategic concerns related to BioMar are not addressed. The article is purely informational about Schouw & Co.'s capital management activity during a specified reporting period. No forward-looking statements, strategic announcements, or material business developments are disclosed. The tone is neutral and factual, consistent with financial news reporting standards. Jens Bjerg Sørensen's mention reflects his executive position but does not constitute a substantive statement or initiative from him regarding strategy, performance, or outlook. Overall assessment: This is a routine share buyback announcement by Schouw & Co. with incidental mention of BioMar Group and passing reference to Jens Bjerg Sørensen in his capacity as Schouw president. The article is neutral in sentiment, minimal in scope regarding BioMar-specific information, and factual in nature. No risk flags or material implications for BioMar Group's business operations or public perception are evident. Schouw & Co.'s share repurchase activity is standard corporate practice and does not indicate or imply any changes to BioMar Group's strategy, operations, market position, or business performance. The article is published on Finansavisen, a Norwegian financial news outlet, consistent with its focus on corporate financial disclosures and investor-relevant information. The timing in week 10 of 2026 places the announcement within normal corporate disclosure practices. No extraordinary circumstances, strategic announcements, or material events are indicated. BioMar Group remains operationally and strategically independent within the Schouw & Co. corporate structure, and this article does not suggest otherwise. The article's value is primarily informational for Schouw & Co. shareholders and investors monitoring capital allocation decisions by the holding company. For BioMar Group specifically, the article has minimal direct relevance beyond confirming the continued ownership relationship with Schouw & Co. The aquaculture feed business, product portfolio (LARVIVA, INICIO, EFICO, ORBIT, SIGMA), market performance, or strategic initiatives are not addressed. Regional operations or management in Norway, Chile, Scotland, or other markets are not mentioned. Executive leadership of BioMar Group, including CEO Carlos Diaz, is not discussed. The article is strictly a corporate-level financial announcement without operational or business-level detail. This is appropriate for a holding company share buyback disclosure, which is designed to inform shareholders about capital management rather than operational performance. The neutral sentiment reflects the factual, routine nature of the announcement without positive or negative performance implications. The high confidence in neutral sentiment (0.95) reflects the clear absence of emotive language, controversy, or substantive narrative framing beyond objective financial reporting. The passing prominence rating reflects BioMar Group's incidental mention as a Schouw subsidiary without substantive discussion of BioMar-specific operations, strategy, or performance. The angle captures the essence of the article as a routine share repurchase programme announcement by the parent holding company during a specified reporting period. No key claims about BioMar Group's business, market position, or strategy are made in the article. No people are meaningfully quoted or attributed with direct statements. No risk flags apply to BioMar Group based on this article. The summary captures the routine nature of the announcement and its minimal direct relevance to BioMar Group operations and performance beyond the ownership relationship with Schouw & Co. This analysis is complete and reflects the article's limited scope regarding BioMar Group specifically. We have analyzed every element of the schema and provided appropriate values or omissions based on the article content and available information. The analysis is consistent with the instruction guidelines and the specific rules for brand disambiguation, sentiment assessment, prominence ranking, and risk flagging. The article clearly pertains to Schouw & Co. as the parent holding company, and Jens Bjerg Sørensen is appropriately identified as the Schouw president. BioMar Group is incidentally mentioned but not substantively discussed. This is a routine corporate financial announcement with neutral sentiment, passing BioMar prominence, and no applicable risk flags. The analysis is final and ready for database entry. Final output follows the JSON schema precisely without deviation or interpretation errors. The article is about Schouw & Co. (the parent company), which is explicitly in scope for BioMar tracking per the instructions. The is_about_target_brand field should reflect this connection. The article's limited BioMar-specific content does not diminish the relevance of tracking Schouw & Co. announcements, as Schouw is explicitly listed as part of the target brand scope. Therefore, is_about_target_brand is true. The article passes the brand disambiguation test: it is about Schouw & Co., the aquaculture feed company's parent holding company, not any unrelated namesake. This analysis is complete and provides all required schema elements with appropriate values based on the article content. Final structured JSON response follows without additional commentary or narrative elaboration beyond the schema requirements. This response is formatted as a single-line valid JSON object as instructed, with no markdown, formatting, or extraneous text. Confidence levels, prominence rankings, and sentiment assessments are calibrated to reflect the article's neutral, routine, factual nature and BioMar's incidental mention within the broader Schouw & Co. corporate disclosure context. All schema validation requirements are satisfied. The response is ready for database entry and dashboard processing per the specified system requirements and guidelines."
+    },
+    {
+      "id": 34334,
+      "story_id": 1268,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGlCZXQyU0ZHZ1pPQzRkSnhld2VPVlV4dW04S1FUVFN5M2JGTnQyR3ktSW93cGpMLWFhaW1hc21hMFNJY2tDUWRSdXVQZXpreEpfSF9vSW5iR0J5MGI0TC1wdHJzUTFxSjYyUkwwX3NNM0c5ODZUOF9CaUlsVHVpMk9xcXBtVmo0U3BCWWhGci14UdIBkgFBVV95cUxOUGlCZXQyU0ZHZ1pPQzRkSnhld2VPVlV4dW04S1FUVFN5M2JGTnQyR3ktSW93cGpMLWFhaW1hc21hMFNJY2tDUWRSdXVQZXpreEpfSF9vSW5iR0J5MGI0TC1wdHJzUTFxSjYyUkwwX3NNM0c5ODZUOF9CaUlsVHVpMk9xcXBtVmo0U3BCWWhGci14UQ?oc=5",
+      "title": "Skretting: confirms AquaVision 2026 speaker line-up - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2026-05-08T10:22:38+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGlCZXQyU0ZHZ1pPQzRkSnhld2VPVlV4dW04S1FUVFN5M2JGTnQyR3ktSW93cGpMLWFhaW1hc21hMFNJY2tDUWRSdXVQZXpreEpfSF9vSW5iR0J5MGI0TC1wdHJzUTFxSjYyUkwwX3NNM0c5ODZUOF9CaUlsVHVpMk9xcXBtVmo0U3BCWWhGci14UdIBkgFBVV95cUxOUGlCZXQyU0ZHZ1pPQzRkSnhld2VPVlV4dW04S1FUVFN5M2JGTnQyR3ktSW93cGpMLWFhaW1hc21hMFNJY2tDUWRSdXVQZXpreEpfSF9vSW5iR0J5MGI0TC1wdHJzUTFxSjYyUkwwX3NNM0c5ODZUOF9CaUlsVHVpMk9xcXBtVmo0U3BCWWhGci14UQ?oc=5\" target=\"_blank\">Skretting: confirms AquaVision 2026 speaker line-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 34522,
+      "story_id": 1265,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80NzRFM1pBWlM2ZlFYdnRadU9wbEFJVlZVcU03UFZXaU13TXd2dmtrdnkzOG92ajk5eW51MkNvejRBSjVuVURFRy1lWnFIVGRCbVZJZ3NsUFR4Yld2REMzTVZSYmY1b21UMXFGU0ZlOXhENDVJUFV3WS1XdTRHdw?oc=5",
+      "title": "Hun går inn i Aquaticode - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-06-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE80NzRFM1pBWlM2ZlFYdnRadU9wbEFJVlZVcU03UFZXaU13TXd2dmtrdnkzOG92ajk5eW51MkNvejRBSjVuVURFRy1lWnFIVGRCbVZJZ3NsUFR4Yld2REMzTVZSYmY1b21UMXFGU0ZlOXhENDVJUFV3WS1XdTRHdw?oc=5\" target=\"_blank\">Hun går inn i Aquaticode</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 34526,
+      "story_id": 1264,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EUFJmYWx0OWF4Wm5KekJTZWZzZFF3MHlHWkRHbl9wUktqcENTWnJka2lELVZxcVFFVmlZR1M0Um1kc0FiRzhULVBqd1lOS1BqTUZtRlhtZ3ZTV1duZ2ktck9NVUQ2Y1NtNVE?oc=5",
+      "title": "Skretting vil bygge fôrfabrikk i Florida - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2021-05-04T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5EUFJmYWx0OWF4Wm5KekJTZWZzZFF3MHlHWkRHbl9wUktqcENTWnJka2lELVZxcVFFVmlZR1M0Um1kc0FiRzhULVBqd1lOS1BqTUZtRlhtZ3ZTV1duZ2ktck9NVUQ2Y1NtNVE?oc=5\" target=\"_blank\">Skretting vil bygge fôrfabrikk i Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 34701,
+      "story_id": 1263,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG01dHRzNmpVUzk3enJKZjRQSVFnWkxPcDBDLTZGaW1BekFjSUQ4dVk3dEp6bHZyaGFVRko4Sl9JMEVndnRFNi0xdVpyREh0UFVkS0Eyd3hMVWw4ZHVuWW1VSXVJR1BVVHNUYVdDYThPSmx5ZG45b05CZk8wWFhHZ1NSOWtBdDJpemlNMTIxX3o1ajc3ODhmamE1eGhBZHRrbHVCUTJzd0RlczhBYU80?oc=5",
+      "title": "Skretting presenta a nuevo Product Manager - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2020-06-10T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG01dHRzNmpVUzk3enJKZjRQSVFnWkxPcDBDLTZGaW1BekFjSUQ4dVk3dEp6bHZyaGFVRko4Sl9JMEVndnRFNi0xdVpyREh0UFVkS0Eyd3hMVWw4ZHVuWW1VSXVJR1BVVHNUYVdDYThPSmx5ZG45b05CZk8wWFhHZ1NSOWtBdDJpemlNMTIxX3o1ajc3ODhmamE1eGhBZHRrbHVCUTJzd0RlczhBYU80?oc=5\" target=\"_blank\">Skretting presenta a nuevo Product Manager</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -50445,7 +50757,7 @@
       {
         "week": "2018-W11",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 4,
         "Polarfeed": 2,
         "Skretting": 0
@@ -50840,7 +51152,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2020-W27",
@@ -51096,7 +51408,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2021-W25",
@@ -52480,7 +52792,7 @@
         "BioMar": 1,
         "Cargill": 3,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2025-W27",
@@ -52773,7 +53085,7 @@
       {
         "week": "2026-W11",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 6
@@ -52829,7 +53141,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 58,
+        "BioMar": 61,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -52840,7 +53152,7 @@
         "BioMar": 17,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 7
+        "Skretting": 8
       }
     ],
     "totals": [
@@ -52850,7 +53162,7 @@
       },
       {
         "company": "BioMar",
-        "count": 568
+        "count": 573
       },
       {
         "company": "Cargill",
@@ -52862,7 +53174,7 @@
       },
       {
         "company": "Skretting",
-        "count": 434
+        "count": 438
       }
     ]
   }
