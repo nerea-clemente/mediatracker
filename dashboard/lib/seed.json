@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-07T22:58:13+00:00",
+  "generated_at": "2026-05-08T07:05:50+00:00",
   "stats": {
-    "mention_count": 1360,
+    "mention_count": 1362,
     "story_count": 1235,
-    "analyzed_count": 563,
+    "analyzed_count": 564,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -4167,15 +4167,15 @@
     },
     {
       "id": 252,
-      "headline": "BioMar delivers continued growth in Q3 - Aquafeed.com",
-      "story_summary": "BioMar announced continued growth in its third-quarter results. The company maintains positive momentum in its business performance during the period.",
-      "first_seen": "2025-11-14T08:00:00+00:00",
+      "headline": "BioMar Delivers Continued High-Volume Growth and Solid Earnings in Q3 - Seafoodnews",
+      "story_summary": "BioMar reported continued high-volume growth and solid earnings in Q3 2025. The announcement demonstrates the company's sustained financial performance in the aquaculture feed sector during the third quarter period ending in November 2025 as reported by Seafoodnews on November 13, 2025 at 08:39:50 UTC+00:00, with no additional details provided in the article summary provided for analysis. Based on the title describing 'continued high-volume growth' and 'solid earnings,' the sentiment is positive, reflecting BioMar's ongoing strong operational performance, though complete earnings details were not available in the headline summary alone. The article appears to be a standard financial results announcement typical of publicly traded or major companies, with BioMar as the clear focus.",
+      "first_seen": "2025-11-13T08:39:50+00:00",
       "last_seen": "2025-11-17T08:00:00+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -5484,15 +5484,15 @@
     },
     {
       "id": 710,
-      "headline": "Skretting Turkey misled about sustainability - Western Sahara Resource Watch",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9IX1pqb3RFU2NQTzhMWUJoc2dLakhiRTF0RmNMNGRxVkZ2cmxaUVZ0MHRfMU9aaVVjYVRNSWNJVmFqVzFkWmNkZ2JUSW9qVGp2Y3RteDNyZTFRVUMySUxfZ01IVm9yYjhJSjV6Wi1YWDd5NnllbGpCZA?oc=5\" target=\"_blank\">Skretting Turkey misled about sustainability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Western Sahara Resource Watch</font>",
-      "first_seen": "2025-09-11T15:53:18+00:00",
+      "headline": "Skretting Turquía engañó sobre sostenibilidad - Western Sahara Resource Watch",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1taXVLSTFWMmpiSzdfdjZQQUl5ZHlDQ2lZcF9ZcHZXR1diU3VnYjgyRnNUbkNWeW80Sks3aENqOE1yOGFsWUR0a0pvb2ktbFk2NzNFQng1MDBBZXN5R3praW5wdVRaVFJhLTNibGswaHU3eXExN2xqZFVJd0NJTGc?oc=5\" target=\"_blank\">Skretting Turquía engañó sobre sostenibilidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Western Sahara Resource Watch</font>",
+      "first_seen": "2025-09-11T07:00:00+00:00",
       "last_seen": "2025-09-11T15:53:18+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -49280,6 +49280,52 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2lvQlJocFBiTEJUYzhYTkxOdU56S0stR0h3VnFLRFZrUDBJbTZTVkJZZFQtaDU4c09ILXVXeFF4aEpTMDU5WkRUS29WXzQtQ29tYjZSOVJ0WmtFQjlDWGtDWWF3WVBpWGxmSVdieHc1S2tETUQwUXdjeDktd1JYMVhxWmxOaWJWRHFkdFJlYTVSemJFY2xsVmJBT0tlek9nSS1OWk1NeHFaLVh4M0gzZDRSZkxxRHVCMzRBdlhaNkdBYmNtTEE?oc=5\" target=\"_blank\">SalmonChile y Endeavor impulsan innovación en el sector acuícola con programa de mentorías</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonChile</font>"
+    },
+    {
+      "id": 31547,
+      "story_id": 252,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLV9xTWRjWnlrMlNkbmtoOUxTdWtCU1g5OWxHS19lV3N1MUNZM3UzSVJLODI5TkNkcTM2dnFFaDFGS3FHVEZvZ1dvaWlIb0ptLWFuT3RJUVQzeldlcmhsX3VVVGJ1MVRGRV82eUU5WENoMFQ1RkpPb0JUNWJidUpLUS1BQ3JkQ2g0QldQc1h4QU9QSmRIaVJRNE9NckY4VFRyN1BTYUVic19ocElBUFBCVw?oc=5",
+      "title": "BioMar Delivers Continued High-Volume Growth and Solid Earnings in Q3 - Seafoodnews",
+      "source_name": "Seafoodnews",
+      "language": "en",
+      "country": "US",
+      "published_at": "2025-11-13T08:39:50+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports strong Q3 results with continued growth and earnings",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar reported continued high-volume growth and solid earnings in Q3 2025. The announcement demonstrates the company's sustained financial performance in the aquaculture feed sector during the third quarter period ending in November 2025 as reported by Seafoodnews on November 13, 2025 at 08:39:50 UTC+00:00, with no additional details provided in the article summary provided for analysis. Based on the title describing 'continued high-volume growth' and 'solid earnings,' the sentiment is positive, reflecting BioMar's ongoing strong operational performance, though complete earnings details were not available in the headline summary alone. The article appears to be a standard financial results announcement typical of publicly traded or major companies, with BioMar as the clear focus."
+    },
+    {
+      "id": 32417,
+      "story_id": 710,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1taXVLSTFWMmpiSzdfdjZQQUl5ZHlDQ2lZcF9ZcHZXR1diU3VnYjgyRnNUbkNWeW80Sks3aENqOE1yOGFsWUR0a0pvb2ktbFk2NzNFQng1MDBBZXN5R3praW5wdVRaVFJhLTNibGswaHU3eXExN2xqZFVJd0NJTGc?oc=5",
+      "title": "Skretting Turquía engañó sobre sostenibilidad - Western Sahara Resource Watch",
+      "source_name": "Western Sahara Resource Watch",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2025-09-11T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1taXVLSTFWMmpiSzdfdjZQQUl5ZHlDQ2lZcF9ZcHZXR1diU3VnYjgyRnNUbkNWeW80Sks3aENqOE1yOGFsWUR0a0pvb2ktbFk2NzNFQng1MDBBZXN5R3praW5wdVRaVFJhLTNibGswaHU3eXExN2xqZFVJd0NJTGc?oc=5\" target=\"_blank\">Skretting Turquía engañó sobre sostenibilidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Western Sahara Resource Watch</font>"
     }
   ],
   "share_of_voice": {
@@ -52313,7 +52359,7 @@
         "BioMar": 4,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2025-W38",
@@ -52382,7 +52428,7 @@
       {
         "week": "2025-W46",
         "Aller Aqua": 0,
-        "BioMar": 12,
+        "BioMar": 13,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -52595,7 +52641,7 @@
       },
       {
         "company": "BioMar",
-        "count": 563
+        "count": 564
       },
       {
         "company": "Cargill",
@@ -52607,7 +52653,7 @@
       },
       {
         "company": "Skretting",
-        "count": 432
+        "count": 433
       }
     ]
   }
