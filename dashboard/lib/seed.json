@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-08T17:22:05+00:00",
+  "generated_at": "2026-05-08T22:53:28+00:00",
   "stats": {
-    "mention_count": 1377,
-    "story_count": 1246,
-    "analyzed_count": 573,
+    "mention_count": 1384,
+    "story_count": 1252,
+    "analyzed_count": 576,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -175,6 +175,7 @@
     "Stavanger Aftenblad",
     "Stavanger kommune",
     "Strandbuen",
+    "TV2.no",
     "TVU | Televisión Universidad de Concepción",
     "Teletrece",
     "The Barents Observer",
@@ -233,10 +234,39 @@
     "realcommercial.com.au",
     "russpain.com",
     "simplywall.st",
+    "smp.no",
     "soychile.cl",
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1274,
+      "headline": "Tre på rad for AaFK – oppe på fjerdeplass - smp.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tQUR5TlpIeVFNUE5mYVZJV3M5QUdjZWhaa1duRXNNMjF1aUlLZzR2dXlpY1loTGVpOFl6ZDh2SUlBRUNKY0lGUXB1WmtKVjJ6NU5NbHpyNmowQXQxS05WNTd6VmN3ZFU?oc=5\" target=\"_blank\">Tre på rad for AaFK – oppe på fjerdeplass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smp.no</font>",
+      "first_seen": "2026-05-08T21:25:47+00:00",
+      "last_seen": "2026-05-08T21:25:47+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1273,
+      "headline": "19’ - Mål av Ingeborg Skretting (1-0) - TV2.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2I1WF9EVm02aVhmLWpTTEJYVV9fMkZ4c3EzQXd2TEVGeGN0eW5GZUxkdHJBam5jZ1lKLVZ6a2wxbFFaVUxsVHRaOTZkWERDZnE5VTRzaEtMLV9lTVNUaUtJQ3NvUWJIY2ttcnhLRUtMblRLRVJuU21GbXc4emw0WGhtejdXUjRJdzFr?oc=5\" target=\"_blank\">19’ - Mål av Ingeborg Skretting (1-0)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>",
+      "first_seen": "2026-05-08T16:18:40+00:00",
+      "last_seen": "2026-05-08T16:18:40+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 1268,
       "headline": "Skretting: confirms AquaVision 2026 speaker line-up - SalmonBusiness",
@@ -779,15 +809,15 @@
     },
     {
       "id": 365,
-      "headline": "Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen - The Manila Times",
-      "story_summary": "Schouw & Co. announced its intention to pursue an Initial Public Offering (IPO) of BioMar, its aquaculture feed portfolio business, on Nasdaq Copenhagen. The move marks a significant corporate action for the Danish parent company and its subsidiary in the aquaculture sector.",
-      "first_seen": "2026-05-01T06:07:59+00:00",
+      "headline": "Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co. has announced its intention to pursue an Initial Public Offering of BioMar, its aquaculture feed portfolio business, on Nasdaq Copenhagen. The move signals confidence in BioMar's market position and potential as a standalone public company in the aquaculture sector.",
+      "first_seen": "2026-05-01T05:59:00+00:00",
       "last_seen": "2026-05-01T06:07:59+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1814,6 +1844,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1272,
+      "headline": "Krim, Sørbø | Fikk sykkelen stjålet fra døra – så dukket den opp til salgs - Sandnesposten",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1JvX2dvY1lVQkF6UExDbTgxQU5FVDdoNm5nbHJGbnl3Z2pZWjNqcFdsSHdJVzRBTXdJd3NJcllMZ0hCZEJ4TE1CSUNDYk1ZaFplTkg2WVRzb09wcnZoZXdkSFNYMHpRcFNUSDZvWlVOQVJNUTU1SkxRSUZfSlUxVnR6d3BqLVNvcHprNDFtY296T2huVTlwdHlTVXhHZnRFcE43eS1n?oc=5\" target=\"_blank\">Krim, Sørbø | Fikk sykkelen stjålet fra døra – så dukket den opp til salgs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>",
+      "first_seen": "2026-03-20T07:00:00+00:00",
+      "last_seen": "2026-03-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 805,
       "headline": "Michael Adler: “En BioMar hemos decidido evolucionar hacia una métrica más integral” - aqua.cl",
       "story_summary": "Michael Adler, an executive at BioMar, discusses the company's decision to evolve toward a more comprehensive metric system. The statement suggests a strategic shift in how BioMar measures or evaluates its operations or performance indicators.",
@@ -2167,6 +2211,20 @@
       "id": 1011,
       "headline": "Schouw & Co. share buy-back programme, week 9 2026 - Finansavisen",
       "story_summary": "Schouw & Co. announced a share buyback programme for week 9 of 2026. The article reports on the execution of this corporate financial activity during the specified period.",
+      "first_seen": "2026-03-02T08:00:00+00:00",
+      "last_seen": "2026-03-02T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1271,
+      "headline": "SmartCare Defence: New Functional Feed for Seabass Health | BioMar 2026 - News and Statistics - IndexBox",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTF3YWo5b1cwSkRnT1N3TEdmV2VlS0dmdklBZ1puQ1ZvWkZtdWlLVjZZZ0hjZUpVQk1JeVpuSjlNS0x6S3VKTkozclBtOUN1Y3RGMFFySDRpUUVIWExTRE01bV93WmxqZlBCWFo5MVg2QlJpTWNaSWU1ZUpRd1BNVVZTMGZITUJJN2RydXloTGhYT1dvUGk4ZE9HX1pQMG56cnJKWmNjVUc5dEE?oc=5\" target=\"_blank\">SmartCare Defence: New Functional Feed for Seabass Health | BioMar 2026 - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
       "first_seen": "2026-03-02T08:00:00+00:00",
       "last_seen": "2026-03-02T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -10238,6 +10296,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1270,
+      "headline": "Biomar åpnet ny avdeling i Hirtshals - LandbasedAQ.no",
+      "story_summary": "BioMar has opened a new facility or division in Hirtshals, Denmark. The expansion represents growth for the aquaculture feed producer.",
+      "first_seen": "2024-02-08T08:00:00+00:00",
+      "last_seen": "2024-02-08T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 585,
       "headline": "Skretting Chile obtiene certificación ASC Feed - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNS0lCRE5oWGYxdXRRMmZTUHBCZkN0UmxaRmlQWEowblUtYlo4QnBMeDZ6RVc3dVVrTHR2Q1hxRnlPWkNXZV9NSnVidW9lSkZzX25xOFRNR1FRdTFQZVVtVFFHVW5iQVJiNGNxYlVHR2Z2UFhVZjlSdG5MSnprTkE0MER6aDFhNlRxaUVRS2lLSXJEWmMtcXhaeHU5V1J3cUdkRC15RGxPV3dqQWhsWUdRLW9DVFZXQQ?oc=5\" target=\"_blank\">Skretting Chile obtiene certificación ASC Feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -15518,6 +15590,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1269,
+      "headline": "- Konkurransesituasjonen ytterligere skjerpet - Kyst.no",
+      "story_summary": "The article discusses intensifying competitive conditions in the aquaculture industry. Schouw is mentioned in passing as part of broader market dynamics affecting the sector, without specific focus on the company or its operations.",
+      "first_seen": "2018-03-17T07:00:00+00:00",
+      "last_seen": "2018-03-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1262,
@@ -49839,6 +49925,169 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG01dHRzNmpVUzk3enJKZjRQSVFnWkxPcDBDLTZGaW1BekFjSUQ4dVk3dEp6bHZyaGFVRko4Sl9JMEVndnRFNi0xdVpyREh0UFVkS0Eyd3hMVWw4ZHVuWW1VSXVJR1BVVHNUYVdDYThPSmx5ZG45b05CZk8wWFhHZ1NSOWtBdDJpemlNMTIxX3o1ajc3ODhmamE1eGhBZHRrbHVCUTJzd0RlczhBYU80?oc=5\" target=\"_blank\">Skretting presenta a nuevo Product Manager</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 34918,
+      "story_id": 1271,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTF3YWo5b1cwSkRnT1N3TEdmV2VlS0dmdklBZ1puQ1ZvWkZtdWlLVjZZZ0hjZUpVQk1JeVpuSjlNS0x6S3VKTkozclBtOUN1Y3RGMFFySDRpUUVIWExTRE01bV93WmxqZlBCWFo5MVg2QlJpTWNaSWU1ZUpRd1BNVVZTMGZITUJJN2RydXloTGhYT1dvUGk4ZE9HX1pQMG56cnJKWmNjVUc5dEE?oc=5",
+      "title": "SmartCare Defence: New Functional Feed for Seabass Health | BioMar 2026 - News and Statistics - IndexBox",
+      "source_name": "IndexBox",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-03-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTF3YWo5b1cwSkRnT1N3TEdmV2VlS0dmdklBZ1puQ1ZvWkZtdWlLVjZZZ0hjZUpVQk1JeVpuSjlNS0x6S3VKTkozclBtOUN1Y3RGMFFySDRpUUVIWExTRE01bV93WmxqZlBCWFo5MVg2QlJpTWNaSWU1ZUpRd1BNVVZTMGZITUJJN2RydXloTGhYT1dvUGk4ZE9HX1pQMG56cnJKWmNjVUc5dEE?oc=5\" target=\"_blank\">SmartCare Defence: New Functional Feed for Seabass Health | BioMar 2026 - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+    },
+    {
+      "id": 34950,
+      "story_id": 365,
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZjJydGlkdjN2QjBhckhPMlYxY192Q1ZadTFJOVJHSWhtMkhoMTBXYUpoaThpY2hiZU1mR0d5UTRFdGJmbG51dFZnTDRVR0dTN3dCMEd4Sms3RzZTdUMyLWlrc2lJT2E5NW9fVkl1N1prV1l4WUhoRHFvTGp2ZnNyZHNiWFRlamRsUVMtdFVEYnRpSWpvY0N2aERtZk5WaWlvODdMRHhJN3FKWHFLSERhRm14NHUxWlphTk9GS2IzTXUxMFpGYzhPbGg3YXdjdm1CYzcxbVZTV0VIaW5xX1otOFlqVkFNUmtOekFUVDRTZkk1NTNPRG9RUW9yQnRmemFFZmsxWFVqbEp0MXpoemFYY0NwVTlFSU5uNUx2cjNRNUpBRGpmZUxFUWZPVng?oc=5",
+      "title": "Schouw & Co. announces intention to pursue an Initial Public Offering of its portfolio business BioMar on Nasdaq Copenhagen - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-01T05:59:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co. plans IPO of aquaculture feed subsidiary BioMar",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. has announced its intention to pursue an Initial Public Offering of BioMar, its aquaculture feed portfolio business, on Nasdaq Copenhagen. The move signals confidence in BioMar's market position and potential as a standalone public company in the aquaculture sector."
+    },
+    {
+      "id": 35008,
+      "story_id": 1270,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYUJOODdVNTI2ZkxSYkRHdnVvSEVfaFAtU0o4Q3ZEblRqWUhzVjE1QzJhMW4xMkJRSXEtTGxtMHJvREtMbkFFVkxLVTZMZG1QNVJfcVN2TjFLWlppTERNaXN4ckJrN2xfWDFLMHlYZmNIR3dhVTdKMndhMDBfeW5BbnBHSGE2V2czS1ZSbGU1RGs?oc=5",
+      "title": "Biomar åpnet ny avdeling i Hirtshals - LandbasedAQ.no",
+      "source_name": "LandbasedAQ.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2024-02-08T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar opens new facility in Hirtshals, Denmark",
+      "key_claims": [
+        "BioMar opened a new division in Hirtshals"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has opened a new facility or division in Hirtshals, Denmark. The expansion represents growth for the aquaculture feed producer."
+    },
+    {
+      "id": 35321,
+      "story_id": 1269,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd0pJbmZSTTJMalYtX0dhaFNEUGpwVWc5eTNNMEpKblVMMnVpTVRwSmdnTXRmbElZSzZEdUdSLUlieGpsMUtaWlhySlJGelNnbEt0d0RFS3AzVUtxYVkxczFfYk1hTU5SaU5DQ0Y3QjJYOFNKUDFPazcwSUZmTGlVQ0ZB?oc=5",
+      "title": "- Konkurransesituasjonen ytterligere skjerpet - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2018-03-17T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "passing",
+      "angle": "Industry competition intensifying in aquaculture sector",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article discusses intensifying competitive conditions in the aquaculture industry. Schouw is mentioned in passing as part of broader market dynamics affecting the sector, without specific focus on the company or its operations."
+    },
+    {
+      "id": 35558,
+      "story_id": 1273,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2I1WF9EVm02aVhmLWpTTEJYVV9fMkZ4c3EzQXd2TEVGeGN0eW5GZUxkdHJBam5jZ1lKLVZ6a2wxbFFaVUxsVHRaOTZkWERDZnE5VTRzaEtMLV9lTVNUaUtJQ3NvUWJIY2ttcnhLRUtMblRLRVJuU21GbXc4emw0WGhtejdXUjRJdzFr?oc=5",
+      "title": "19’ - Mål av Ingeborg Skretting (1-0) - TV2.no",
+      "source_name": "TV2.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-08T16:18:40+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2I1WF9EVm02aVhmLWpTTEJYVV9fMkZ4c3EzQXd2TEVGeGN0eW5GZUxkdHJBam5jZ1lKLVZ6a2wxbFFaVUxsVHRaOTZkWERDZnE5VTRzaEtMLV9lTVNUaUtJQ3NvUWJIY2ttcnhLRUtMblRLRVJuU21GbXc4emw0WGhtejdXUjRJdzFr?oc=5\" target=\"_blank\">19’ - Mål av Ingeborg Skretting (1-0)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
+    },
+    {
+      "id": 35559,
+      "story_id": 1274,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tQUR5TlpIeVFNUE5mYVZJV3M5QUdjZWhaa1duRXNNMjF1aUlLZzR2dXlpY1loTGVpOFl6ZDh2SUlBRUNKY0lGUXB1WmtKVjJ6NU5NbHpyNmowQXQxS05WNTd6VmN3ZFU?oc=5",
+      "title": "Tre på rad for AaFK – oppe på fjerdeplass - smp.no",
+      "source_name": "smp.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-08T21:25:47+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tQUR5TlpIeVFNUE5mYVZJV3M5QUdjZWhaa1duRXNNMjF1aUlLZzR2dXlpY1loTGVpOFl6ZDh2SUlBRUNKY0lGUXB1WmtKVjJ6NU5NbHpyNmowQXQxS05WNTd6VmN3ZFU?oc=5\" target=\"_blank\">Tre på rad for AaFK – oppe på fjerdeplass</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">smp.no</font>"
+    },
+    {
+      "id": 35612,
+      "story_id": 1272,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1JvX2dvY1lVQkF6UExDbTgxQU5FVDdoNm5nbHJGbnl3Z2pZWjNqcFdsSHdJVzRBTXdJd3NJcllMZ0hCZEJ4TE1CSUNDYk1ZaFplTkg2WVRzb09wcnZoZXdkSFNYMHpRcFNUSDZvWlVOQVJNUTU1SkxRSUZfSlUxVnR6d3BqLVNvcHprNDFtY296T2huVTlwdHlTVXhHZnRFcE43eS1n?oc=5",
+      "title": "Krim, Sørbø | Fikk sykkelen stjålet fra døra – så dukket den opp til salgs - Sandnesposten",
+      "source_name": "Sandnesposten",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-03-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1JvX2dvY1lVQkF6UExDbTgxQU5FVDdoNm5nbHJGbnl3Z2pZWjNqcFdsSHdJVzRBTXdJd3NJcllMZ0hCZEJ4TE1CSUNDYk1ZaFplTkg2WVRzb09wcnZoZXdkSFNYMHpRcFNUSDZvWlVOQVJNUTU1SkxRSUZfSlUxVnR6d3BqLVNvcHprNDFtY296T2huVTlwdHlTVXhHZnRFcE43eS1n?oc=5\" target=\"_blank\">Krim, Sørbø | Fikk sykkelen stjålet fra døra – så dukket den opp til salgs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>"
     }
   ],
   "share_of_voice": {
@@ -50757,7 +51006,7 @@
       {
         "week": "2018-W11",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 4,
         "Polarfeed": 2,
         "Skretting": 0
@@ -52261,7 +52510,7 @@
       {
         "week": "2024-W06",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 4
@@ -53077,7 +53326,7 @@
       {
         "week": "2026-W10",
         "Aller Aqua": 0,
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -53096,7 +53345,7 @@
         "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2026-W13",
@@ -53141,7 +53390,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 61,
+        "BioMar": 62,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -53152,7 +53401,7 @@
         "BioMar": 17,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 8
+        "Skretting": 10
       }
     ],
     "totals": [
@@ -53162,7 +53411,7 @@
       },
       {
         "company": "BioMar",
-        "count": 573
+        "count": 577
       },
       {
         "company": "Cargill",
@@ -53174,7 +53423,7 @@
       },
       {
         "company": "Skretting",
-        "count": 438
+        "count": 441
       }
     ]
   }
