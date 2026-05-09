@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-09T10:30:29+00:00",
+  "generated_at": "2026-05-09T16:58:33+00:00",
   "stats": {
-    "mention_count": 1395,
-    "story_count": 1260,
-    "analyzed_count": 581,
+    "mention_count": 1399,
+    "story_count": 1264,
+    "analyzed_count": 583,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -2160,6 +2160,20 @@
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1286,
+      "headline": "BioMar reports 13% rise in feed volumes in 2025 annual results - WEAREAQUACULTURE",
+      "story_summary": "BioMar announced its 2025 annual results showing a 13% increase in feed volumes year-over-year. The results represent positive volume growth for the aquaculture feed producer during the reporting period.",
+      "first_seen": "2026-03-06T08:00:00+00:00",
+      "last_seen": "2026-03-06T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -11178,6 +11192,20 @@
       "company": "Polarfeed"
     },
     {
+      "id": 1285,
+      "headline": "Oman: Skretting and IFFC align on fish and shrimp feed market expansion - AgTechNavigator.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5UVU9WOUdNR1ZwR0h4bWRLb3pDcHZLTGNtSDNvS0JkYnA3NGJIQU5XelhIeVdQeUFrUHEteVctM05URDl0TzBmdGhRY0NaVXRFRmhTcDlWRm9qcUJFa0FkeWlXQ2IwQ24yYjRCa3hYakJ2a0hJM2R5VWFGWkNwY2laSmN1OUZUdE9oTWlkNWVTOGFoZFBWeW01WGIzTkJvcGs1bnRqMnhpZmhpdDR5YnFn?oc=5\" target=\"_blank\">Oman: Skretting and IFFC align on fish and shrimp feed market expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgTechNavigator.com</font>",
+      "first_seen": "2023-09-08T07:00:00+00:00",
+      "last_seen": "2023-09-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1133,
       "headline": "Aller Aqua subsidiary in Egypt wins national export award - SeafoodSource",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLTd2TDRkdFg4WWF3RWpaeGVZSnlBZjJvTy1ka1Y5aDhzanpPbURFWnJsZFFLQzZWcUZsR0k0bldnQ0lsUTRGT2RFQm9JaXVGeUFlUHZiamNlaFc5dmVBeDlRTTJyeFNJQmhFQlBIQ3ZhM0dyYkIyNDBaWTNnTWdmRlVTWlVJam56VDB1T2ZYMGdpdk1lNVVKYnZodEpYd2E1dzVtRmlfTWE?oc=5\" target=\"_blank\">Aller Aqua subsidiary in Egypt wins national export award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
@@ -14232,6 +14260,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1284,
+      "headline": "Cargill's new micro NIR technology for quality testing in live salmon - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3dTb2UzMDlpNDFuSzlFMjM5VDZGbDJacVJmdTZoUy1XMUVFRzlqRHpHT3drdlI4VzM4MXpIcFVtbDV4UXNqQy1RMWo4VHNjXy1uX0Q0Zk5aR2dZbXF5a3pSczd1VHozRjJrNW1BenNjZVZsSnE4Z0tpQkVMTmY5cFRHZHYwLUlST0hxWngwczk3SVQwbXJOTFZRRU41cU1yODcyS3JyREZ4bTBS?oc=5\" target=\"_blank\">Cargill's new micro NIR technology for quality testing in live salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2020-07-23T07:00:00+00:00",
+      "last_seen": "2020-07-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 476,
       "headline": "To nye lærlinger hos Skretting: – Jeg trives «som bare farsken» allerede - vol.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDlzMnJ6UVNxOWpLczlxWlRCU2JHcGRCbGFDM24xTnhDVVNqRll1anQxQ01STnFMbkJhY3NhWExSampvaDMyVUxMRi15UERwNGJLaHUxMU03NE9VRWhGS2VIYzBvVUdBeExja2MydjJNQmlRSldjb3JCNGpTbEF6LTNPNTNkcTF2bnJYc3Foc1FnUG9mMTlOLTk5TWUxUWVBd0JtMzhQZw?oc=5\" target=\"_blank\">To nye lærlinger hos Skretting: – Jeg trives «som bare farsken» allerede</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
@@ -16318,6 +16360,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1283,
+      "headline": "BioMar’s Joint Venture in China has aquired fish feed company - Fishfarming expert",
+      "story_summary": "BioMar's joint venture in China has completed an acquisition of a fish feed company. The move expands the company's presence in the Asian aquaculture feed market through its partnership structure in the region.",
+      "first_seen": "2016-11-25T08:00:00+00:00",
+      "last_seen": "2016-11-25T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 848,
@@ -50459,6 +50515,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5CNlFSZDJSTnRxUGdtRVVjY1NDR2NXcFFUajhNRE1VZ0cyV3l3TDNjVTg0LVV3NWhQX0JFSW9NUjBjTDdoQXNzTnZHUzFzdmt1TE1ra2JENjlBLXBkcU1rOHRSX1gzR0VxN1lWUEJsRTM4WXM?oc=5\" target=\"_blank\">– En tydelig og grei bestilling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 38287,
+      "story_id": 1286,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGxkNlJvNFBjX0tvU29KOV85ZDhiUlMwcVJkaFM1T3ZhcUFSVXhobXRaX3pEX29nWko3MnJCVm51aGFtTGFjNWNIVksybi1McEoteTRxTUhjVkdYaXNiRUpTaGFSbEQtX0x4azdUWU9rTGkyZGRtYUc2NmRvcEhQSy1nVUN5QjlvbHZfWmNzQjFqbGM0RE85MHZoS0NKcDE2U2dieFZEd3bSAbYBQVVfeXFMUFNabnVVWW81OGgzOWpJT19rSDV5UElwUE1wcFhRQkt0LXk5UDhXZGN2NWdlSXpZNE50aVJpZGdrX0tLbVlWQzBvOVE2S0xfdi1Ea2tOa25WeVVXV05WN3FkYkZYeVVDSVhicUlpRGFOS0Fsc3pDWnRWWXBxVDNHOXZnOVBhMVhZTDUyQU5hZ0I1NFRUNjhxeGkzTXNzZkVXa2FUcDFZa2s0U1Z5NWJ3VDhYNHFWY1E?oc=5",
+      "title": "BioMar reports 13% rise in feed volumes in 2025 annual results - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar posts strong 2025 feed volume growth in annual results",
+      "key_claims": [
+        "BioMar reported a 13% rise in feed volumes in 2025"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar announced its 2025 annual results showing a 13% increase in feed volumes year-over-year. The results represent positive volume growth for the aquaculture feed producer during the reporting period."
+    },
+    {
+      "id": 38784,
+      "story_id": 1283,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa25DdTZGeXhnRXp6R1F3RW1RSzFDQ3ZyNHFCZFZvQ3dkeUZuQ1J4MkYwbml3N09ZMWlvSnpqZFJvbGRSTEZkaktaTTBXTnIzaDdyZ1Q3SkpaWkxxdnBDX2FReUNrQllHMEEzemY2bDBWRF92SVd4UU8tOTRMSHhOQm5OLVhkZE9ySFZHRzB6bHpiWWEtZkM0QUlYS3F5VjVRSHp5WWFkY3lKaU1qWHRYQVFKWnVqSVoydlN1Z25R?oc=5",
+      "title": "BioMar’s Joint Venture in China has aquired fish feed company - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "published_at": "2016-11-25T08:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar's China joint venture acquires fish feed company",
+      "key_claims": [
+        "BioMar's joint venture in China acquired a fish feed company"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar's joint venture in China has completed an acquisition of a fish feed company. The move expands the company's presence in the Asian aquaculture feed market through its partnership structure in the region."
+    },
+    {
+      "id": 38938,
+      "story_id": 1285,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5UVU9WOUdNR1ZwR0h4bWRLb3pDcHZLTGNtSDNvS0JkYnA3NGJIQU5XelhIeVdQeUFrUHEteVctM05URDl0TzBmdGhRY0NaVXRFRmhTcDlWRm9qcUJFa0FkeWlXQ2IwQ24yYjRCa3hYakJ2a0hJM2R5VWFGWkNwY2laSmN1OUZUdE9oTWlkNWVTOGFoZFBWeW01WGIzTkJvcGs1bnRqMnhpZmhpdDR5YnFn?oc=5",
+      "title": "Oman: Skretting and IFFC align on fish and shrimp feed market expansion - AgTechNavigator.com",
+      "source_name": "AgTechNavigator.com",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2023-09-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5UVU9WOUdNR1ZwR0h4bWRLb3pDcHZLTGNtSDNvS0JkYnA3NGJIQU5XelhIeVdQeUFrUHEteVctM05URDl0TzBmdGhRY0NaVXRFRmhTcDlWRm9qcUJFa0FkeWlXQ2IwQ24yYjRCa3hYakJ2a0hJM2R5VWFGWkNwY2laSmN1OUZUdE9oTWlkNWVTOGFoZFBWeW01WGIzTkJvcGs1bnRqMnhpZmhpdDR5YnFn?oc=5\" target=\"_blank\">Oman: Skretting and IFFC align on fish and shrimp feed market expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgTechNavigator.com</font>"
+    },
+    {
+      "id": 39263,
+      "story_id": 1284,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3dTb2UzMDlpNDFuSzlFMjM5VDZGbDJacVJmdTZoUy1XMUVFRzlqRHpHT3drdlI4VzM4MXpIcFVtbDV4UXNqQy1RMWo4VHNjXy1uX0Q0Zk5aR2dZbXF5a3pSczd1VHozRjJrNW1BenNjZVZsSnE4Z0tpQkVMTmY5cFRHZHYwLUlST0hxWngwczk3SVQwbXJOTFZRRU41cU1yODcyS3JyREZ4bTBS?oc=5",
+      "title": "Cargill's new micro NIR technology for quality testing in live salmon - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2020-07-23T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3dTb2UzMDlpNDFuSzlFMjM5VDZGbDJacVJmdTZoUy1XMUVFRzlqRHpHT3drdlI4VzM4MXpIcFVtbDV4UXNqQy1RMWo4VHNjXy1uX0Q0Zk5aR2dZbXF5a3pSczd1VHozRjJrNW1BenNjZVZsSnE4Z0tpQkVMTmY5cFRHZHYwLUlST0hxWngwczk3SVQwbXJOTFZRRU41cU1yODcyS3JyREZ4bTBS?oc=5\" target=\"_blank\">Cargill's new micro NIR technology for quality testing in live salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -51099,6 +51251,14 @@
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2016-W47",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -51805,6 +51965,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
+      },
+      {
+        "week": "2020-W30",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2020-W33",
@@ -52741,6 +52909,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2023-W36",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2023-W37",
@@ -53713,7 +53889,7 @@
       {
         "week": "2026-W10",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -53798,11 +53974,11 @@
       },
       {
         "company": "BioMar",
-        "count": 581
+        "count": 583
       },
       {
         "company": "Cargill",
-        "count": 212
+        "count": 213
       },
       {
         "company": "Polarfeed",
@@ -53810,7 +53986,7 @@
       },
       {
         "company": "Skretting",
-        "count": 446
+        "count": 447
       }
     ]
   }
