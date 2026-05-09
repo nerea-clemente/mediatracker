@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-09T07:24:46+00:00",
+  "generated_at": "2026-05-09T10:30:29+00:00",
   "stats": {
-    "mention_count": 1392,
-    "story_count": 1258,
-    "analyzed_count": 580,
+    "mention_count": 1395,
+    "story_count": 1260,
+    "analyzed_count": 581,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -489,7 +489,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1800,6 +1800,20 @@
       "pickup_count": 1,
       "is_about_target_brand": false,
       "company": "BioMar"
+    },
+    {
+      "id": 1282,
+      "headline": "Sykehjem må trolig vente ti år på inngang til parkeringskjeller - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjh1N2VYWEJxUVNlLXFiWHRSaDRLNHRCbFFsbXV6TFFfc1V4Q29hNmtmbTloUmZ0NkxOZ1lGRWhodTlwOWFIcDZ4SHVXakNTajBqYUR1MnVxSzhudGtpdGRqb1dpelN6eGRKaVBKYWJXbFVCWE50TVJsZ1VYQlRnS0NaLTNiNXA3SWJxOG5NUzJjUHYwamUzS0VKSUJtSVoxSUF1dHJnWEpUYVkwa1E?oc=5\" target=\"_blank\">Sykehjem må trolig vente ti år på inngang til parkeringskjeller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-03-24T07:00:00+00:00",
+      "last_seen": "2026-03-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 328,
@@ -4764,6 +4778,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOOFFpMy16UVJxM0V6aG5ZaHdLSl85WTYxMFdtQWRyRjE2UC0zQllibnNPYWlvTXhhQ3Z1LTBkTVNadzBzVi1YLTBLTXdiYXdFUUUwblpBX1V4Y2dPMm1oa3lPWWZSX24xajEtM2pPb3lOLW94ai1kOVdZR0xRTmJrakpB?oc=5\" target=\"_blank\">Spenn henter fra NoA og Forte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kampanje.com</font>",
       "first_seen": "2025-10-24T07:00:00+00:00",
       "last_seen": "2025-10-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1281,
+      "headline": "– En tydelig og grei bestilling - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5CNlFSZDJSTnRxUGdtRVVjY1NDR2NXcFFUajhNRE1VZ0cyV3l3TDNjVTg0LVV3NWhQX0JFSW9NUjBjTDdoQXNzTnZHUzFzdmt1TE1ra2JENjlBLXBkcU1rOHRSX1gzR0VxN1lWUEJsRTM4WXM?oc=5\" target=\"_blank\">– En tydelig og grei bestilling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2025-10-23T07:00:00+00:00",
+      "last_seen": "2025-10-23T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -50362,6 +50390,75 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2JRVVIxaE5LUFlPVE9zYzh5c1NJdkZsUFZoemN6cFV5bFlWbGVhb0ROU0pPaG4xaHBEb3pPX1dfYVkwcDZrSmgtZmhGY0JBRW5rU3RxWWIwdTZIbHhQSVRfak5wLXdiMTQwYWZQY1pvTjhmcTIwN001a2tvSG5yVnpWQ2FKeEU?oc=5\" target=\"_blank\">Sjømatkvinner: Hilde Waage, Ewos (+)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>"
+    },
+    {
+      "id": 37534,
+      "story_id": 1045,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWUo5RjRBRmFUeEVIOWZ6TE9uXzREZjNKcEtJTDVUOEJMdmF0RnpuZGw3OEtGMEVJNVBJY3B1WW9wOUJSempFOXNUVTF3WjhQb3ZZTlBxU0dXTko4VTFZUVh2VWdEamF6aWktNjdwUGV1ZEVoWDRTSFN0ZUd3dUJlalhLZ3lLS1R5TFBnZVc5aC1wcUg3bEVhLWVIckZjN3pwRW5ROWswaWtRTHdJOFRqazVIRXlXU0NPSU5VeG5YQUZETFM2NkFHQ05icw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 18 2026 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-04T14:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share buyback activity for week 18.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. reported its share buyback programme activity for week 18 of 2026. The announcement is a routine corporate disclosure of treasury share repurchases during the specified period."
+    },
+    {
+      "id": 37864,
+      "story_id": 1282,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjh1N2VYWEJxUVNlLXFiWHRSaDRLNHRCbFFsbXV6TFFfc1V4Q29hNmtmbTloUmZ0NkxOZ1lGRWhodTlwOWFIcDZ4SHVXakNTajBqYUR1MnVxSzhudGtpdGRqb1dpelN6eGRKaVBKYWJXbFVCWE50TVJsZ1VYQlRnS0NaLTNiNXA3SWJxOG5NUzJjUHYwamUzS0VKSUJtSVoxSUF1dHJnWEpUYVkwa1E?oc=5",
+      "title": "Sykehjem må trolig vente ti år på inngang til parkeringskjeller - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-03-24T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjh1N2VYWEJxUVNlLXFiWHRSaDRLNHRCbFFsbXV6TFFfc1V4Q29hNmtmbTloUmZ0NkxOZ1lGRWhodTlwOWFIcDZ4SHVXakNTajBqYUR1MnVxSzhudGtpdGRqb1dpelN6eGRKaVBKYWJXbFVCWE50TVJsZ1VYQlRnS0NaLTNiNXA3SWJxOG5NUzJjUHYwamUzS0VKSUJtSVoxSUF1dHJnWEpUYVkwa1E?oc=5\" target=\"_blank\">Sykehjem må trolig vente ti år på inngang til parkeringskjeller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 37875,
+      "story_id": 1281,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CNlFSZDJSTnRxUGdtRVVjY1NDR2NXcFFUajhNRE1VZ0cyV3l3TDNjVTg0LVV3NWhQX0JFSW9NUjBjTDdoQXNzTnZHUzFzdmt1TE1ra2JENjlBLXBkcU1rOHRSX1gzR0VxN1lWUEJsRTM4WXM?oc=5",
+      "title": "– En tydelig og grei bestilling - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-10-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5CNlFSZDJSTnRxUGdtRVVjY1NDR2NXcFFUajhNRE1VZ0cyV3l3TDNjVTg0LVV3NWhQX0JFSW9NUjBjTDdoQXNzTnZHUzFzdmt1TE1ra2JENjlBLXBkcU1rOHRSX1gzR0VxN1lWUEJsRTM4WXM?oc=5\" target=\"_blank\">– En tydelig og grei bestilling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
     }
   ],
   "share_of_voice": {
@@ -53467,7 +53564,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 10
+        "Skretting": 11
       },
       {
         "week": "2025-W44",
@@ -53643,7 +53740,7 @@
         "BioMar": 5,
         "Cargill": 1,
         "Polarfeed": 2,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2026-W14",
@@ -53688,7 +53785,7 @@
       {
         "week": "2026-W19",
         "Aller Aqua": 0,
-        "BioMar": 18,
+        "BioMar": 19,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 11
@@ -53701,7 +53798,7 @@
       },
       {
         "company": "BioMar",
-        "count": 580
+        "count": 581
       },
       {
         "company": "Cargill",
@@ -53713,7 +53810,7 @@
       },
       {
         "company": "Skretting",
-        "count": 444
+        "count": 446
       }
     ]
   }
