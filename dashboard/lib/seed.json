@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T07:38:52+00:00",
+  "generated_at": "2026-05-10T10:42:31+00:00",
   "stats": {
-    "mention_count": 1405,
-    "story_count": 1267,
+    "mention_count": 1406,
+    "story_count": 1268,
     "analyzed_count": 586,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
@@ -13305,6 +13305,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1290,
+      "headline": "Cargill realiza reestructuración y gerente general en Chile toma cargo global - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ19NazdVV0EtaEJQQ1Z1LS01SklSaUl6LXZnWjl3dmdNMTNwVkJ0WVZ3TUdxSHJZaG1TVF9jQ3c4dHVxck0wN3RrMEszTG10U3N6QWpYR2VCN19tb1hTQlFEYXZya1JDbnkxRWVyb190SnVJRzJla0t2UGtzNEZwbXZSTy03TUVUU3pjajFGM2dITjRFbzJjWEFfdmtWX0lFRlYtMkpoY1FBU2VhR0JqQTRMNXBEQmFrcXpmY0Y1YUxib2xCLVFJVGQ4SHpzU1F4RF9J?oc=5\" target=\"_blank\">Cargill realiza reestructuración y gerente general en Chile toma cargo global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2021-11-29T08:00:00+00:00",
+      "last_seen": "2021-11-29T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 503,
@@ -50794,6 +50808,29 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkJBbFZISmI4VUNKOGZnRXZfamZGcy0yT1Y3eTlEcGt1QTFqNVczZWZoeXRhQXoxUFFCc05EYUhJd2o1Y01hMW1mR1Y0a2Z3emlKMjhMYWVZV0liMEtVdEloNFVRZm1oOUVSRHJtYW45bEFJbDdjZWYwQUdqOWZURm8yZUR3UjBHZUl3NmdBZVJtWVNYRWtYNXlMclc?oc=5\" target=\"_blank\">Skretting Chile se compromete con la inclusión y diversidad de cara al 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 42760,
+      "story_id": 1290,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ19NazdVV0EtaEJQQ1Z1LS01SklSaUl6LXZnWjl3dmdNMTNwVkJ0WVZ3TUdxSHJZaG1TVF9jQ3c4dHVxck0wN3RrMEszTG10U3N6QWpYR2VCN19tb1hTQlFEYXZya1JDbnkxRWVyb190SnVJRzJla0t2UGtzNEZwbXZSTy03TUVUU3pjajFGM2dITjRFbzJjWEFfdmtWX0lFRlYtMkpoY1FBU2VhR0JqQTRMNXBEQmFrcXpmY0Y1YUxib2xCLVFJVGQ4SHpzU1F4RF9J?oc=5",
+      "title": "Cargill realiza reestructuración y gerente general en Chile toma cargo global - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2021-11-29T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ19NazdVV0EtaEJQQ1Z1LS01SklSaUl6LXZnWjl3dmdNMTNwVkJ0WVZ3TUdxSHJZaG1TVF9jQ3c4dHVxck0wN3RrMEszTG10U3N6QWpYR2VCN19tb1hTQlFEYXZya1JDbnkxRWVyb190SnVJRzJla0t2UGtzNEZwbXZSTy03TUVUU3pjajFGM2dITjRFbzJjWEFfdmtWX0lFRlYtMkpoY1FBU2VhR0JqQTRMNXBEQmFrcXpmY0Y1YUxib2xCLVFJVGQ4SHpzU1F4RF9J?oc=5\" target=\"_blank\">Cargill realiza reestructuración y gerente general en Chile toma cargo global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -52529,7 +52566,7 @@
         "week": "2021-W48",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
       },
@@ -54161,7 +54198,7 @@
       },
       {
         "company": "Cargill",
-        "count": 213
+        "count": 214
       },
       {
         "company": "Polarfeed",
