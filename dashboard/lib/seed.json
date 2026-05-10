@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-10T10:42:31+00:00",
+  "generated_at": "2026-05-10T16:58:56+00:00",
   "stats": {
-    "mention_count": 1406,
-    "story_count": 1268,
-    "analyzed_count": 586,
+    "mention_count": 1411,
+    "story_count": 1272,
+    "analyzed_count": 587,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -28,6 +28,7 @@
     "BioProcess International",
     "Bladet Vesterålen",
     "Bloomberg.com",
+    "Budstikka",
     "Business News Nigeria",
     "Business in Vancouver",
     "Bygg.no",
@@ -3035,6 +3036,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1294,
+      "headline": "Skole, Oppvekst | Ingen er flinkere enn disse elevene - Budstikka",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEh0bVd5aFg1bWp2a3ZnWnh4ZFFoaGQ0N3NYWXAteTN5WWIyX2dId2VKbzdtSmJWQndkcVFzSEdYdFZ6V2lvbVUzV1NYM0oyQ0dkZXR0Um5Mdm9ldk5DNlcxQmxZQmR5UkRKNVhScjJrdElJN3M0QmlvWVU1T2Viag?oc=5\" target=\"_blank\">Skole, Oppvekst | Ingen er flinkere enn disse elevene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Budstikka</font>",
+      "first_seen": "2026-01-27T08:00:00+00:00",
+      "last_seen": "2026-01-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 994,
       "headline": "Mowi inngår strategisk fôrpartnerskap med Skretting - Ytringen",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWRrMWpjeURnOHZsMFpXcUs0endHckFneTVBS0xJbTNTTDlKbk5TYTBHMzFXYTlrcUQzaDlFMzBlemJMeGE1bjkxZFctVmp2el82LUM1VHBRNkxNb19obks3bXJlLUFRSWg3eXdyelZsbXRWcU5FQlk0LXNsQ295cnQxaFRIVEE?oc=5\" target=\"_blank\">Mowi inngår strategisk fôrpartnerskap med Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ytringen</font>",
@@ -3346,6 +3361,20 @@
       "id": 1289,
       "headline": "– Jeg synes det vanskelig at ikke handlingsrommet lokalt er større - gat.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkRQNzVwb3VuWmN3TGcwbm56SEhrWnlmTFk2SlYxd2hYclU0OGljY0JkZzMzTDJVOURpaE9Cd3BlTDhlY25zSW9MVHRzTFhQNEJzUGJpdnFtVTJISWtpeFB1eUwxUHBrbHBrdE9xWm5FWnM1clJYMEd1aThRU3FJWDgzQWFIQXZrSUwyQWlEZmlvRDg?oc=5\" target=\"_blank\">– Jeg synes det vanskelig at ikke handlingsrommet lokalt er større</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2025-12-29T08:00:00+00:00",
+      "last_seen": "2025-12-29T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1293,
+      "headline": "Nå trenger vi hjelp til å lese - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQRG5URTdHMUxtc3d1cE5ZWUxzWE9qSDVQMFBRRV9Ddk5FU1RtSWFjUm12Z01jRXRWbVJhbkJzc2N4VzdCYmI2VGJLUGpQQ1lqZXMxSk1MSGt5ZU1MNVBUZXlMRW8yZ2xsQTZVeU9aNVBrVWJ4YXhxb0lUX3dBaEpjUQ?oc=5\" target=\"_blank\">Nå trenger vi hjelp til å lese</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
       "first_seen": "2025-12-29T08:00:00+00:00",
       "last_seen": "2025-12-29T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -7200,6 +7229,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1292,
+      "headline": "Former Skretting CEO: 'AI is finally delivering real value in aquaculture’ - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTllRTHNFMXMtVzQzM3JpVm1aaE1LTGtPZUlQX1VzMTJKaGVNenl2d3lHSnJPazNfOFBORGNhNUwwcmNab3RHOER1WGF6U2RDczlXdC0xZnFKTXl2cExOeWVoQ0ZldldMNDhGN0VSMmlnV2E2MHJwNk1USnpTTUxCSkx0T3l2M1NzUzRRa0FwV2NuQk03R2JzdHNtMHZqbGJ1MVRxbjV30gGmAUFVX3lxTFBOWVFMc0Uxcy1XNDMzcmlWbVpoTUtMa09lSVBfVXMxMkpoZU16eXZ3eUdKck9rM184UE5EY2E1TDByY1pvdEc4RHVYYXpTZENzOVd0LTFmcUpNeXZwTE55ZWhDRmV2V0w0OEY3RVIyaWdXYTYwcnA2TVRKelNNTEJKTHRPeXYzU3NTNFFrQXBXY25CTTdHYnN0c20wdmpsYnUxVHFuNXc?oc=5\" target=\"_blank\">Former Skretting CEO: 'AI is finally delivering real value in aquaculture’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2025-06-23T07:00:00+00:00",
+      "last_seen": "2025-06-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 671,
       "headline": "Tidligere Skretting-sjef har fått ny rolle - Intrafish",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVUyZFpMamhYU0hDN1NqdEJUaTRUcDJIYi1CV2twdVNpRGhacWRWZTF0bUl3bmttQ2NUdEZ3OXZRUHdzNVd6aEdvLUlYc29ialBEQ3pMTTlrcDNKbzdEaWhOQ0p6Y1ltS2RCT1VJYVctdTljZjlqT2JzYlVKbVRvLXBKbkFVNUZOWlNjUkhMak05aVZ0?oc=5\" target=\"_blank\">Tidligere Skretting-sjef har fått ny rolle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
@@ -8172,6 +8215,20 @@
       "first_seen": "2025-03-25T07:00:00+00:00",
       "last_seen": "2025-03-25T07:00:00+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1291,
+      "headline": "BioMar achieves its lowest forage fish dependency ratio to date in 2024 - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGJzSE1QeFpDSE5EcTA5WVpUOUJHMHdmbks4c00yMWpoQVVZMWxuOFJkb2VkY1RXWnVDSG1mUnpyX2p4MFlQTHJhSkl2UUxLbGE5YXIxZC1GQTVuN1RQN1pxbloySjFDWm1yTEZJVVNRRmNpLWNWQ2x1RVBNdWlNcUlHdEFLcWxiSVlpQm5mSWFjVnRScDdWc0ZwS0VKM3hBSHdXN3hzMUE4NU4tZEpNUVppWTBaRExwLWRzT2MtY0I?oc=5\" target=\"_blank\">BioMar achieves its lowest forage fish dependency ratio to date in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2025-03-25T07:00:00+00:00",
+      "last_seen": "2025-03-25T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -10558,7 +10615,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -50831,6 +50888,121 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ19NazdVV0EtaEJQQ1Z1LS01SklSaUl6LXZnWjl3dmdNMTNwVkJ0WVZ3TUdxSHJZaG1TVF9jQ3c4dHVxck0wN3RrMEszTG10U3N6QWpYR2VCN19tb1hTQlFEYXZya1JDbnkxRWVyb190SnVJRzJla0t2UGtzNEZwbXZSTy03TUVUU3pjajFGM2dITjRFbzJjWEFfdmtWX0lFRlYtMkpoY1FBU2VhR0JqQTRMNXBEQmFrcXpmY0Y1YUxib2xCLVFJVGQ4SHpzU1F4RF9J?oc=5\" target=\"_blank\">Cargill realiza reestructuración y gerente general en Chile toma cargo global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 42968,
+      "story_id": 105,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNG9mN3hQZGVCTWc5WDM2eF8xOFJQX2lRU0VDRjE3a2tKSUZiQVU1dmswRDlaOHZrbENlVU8xWnk4U0dfWHdOVEhZc3hSWUFXMTVzaUJiUVM0SjB5d05CeXp0SEpWT1FvQjF5RmNXaXhWT0RFLWl6V0JfTmJpeDNzZU1wSQ?oc=5",
+      "title": "Einar Lilleeng blir ny produksjonsdirektør - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2024-01-11T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "secondary",
+      "angle": "BioMar appoints new production director",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Einar Lilleeng has been appointed as a new production director at BioMar. The appointment represents an internal or external leadership change within the company's operations division."
+    },
+    {
+      "id": 43295,
+      "story_id": 1291,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGJzSE1QeFpDSE5EcTA5WVpUOUJHMHdmbks4c00yMWpoQVVZMWxuOFJkb2VkY1RXWnVDSG1mUnpyX2p4MFlQTHJhSkl2UUxLbGE5YXIxZC1GQTVuN1RQN1pxbloySjFDWm1yTEZJVVNRRmNpLWNWQ2x1RVBNdWlNcUlHdEFLcWxiSVlpQm5mSWFjVnRScDdWc0ZwS0VKM3hBSHdXN3hzMUE4NU4tZEpNUVppWTBaRExwLWRzT2MtY0I?oc=5",
+      "title": "BioMar achieves its lowest forage fish dependency ratio to date in 2024 - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "published_at": "2025-03-25T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGJzSE1QeFpDSE5EcTA5WVpUOUJHMHdmbks4c00yMWpoQVVZMWxuOFJkb2VkY1RXWnVDSG1mUnpyX2p4MFlQTHJhSkl2UUxLbGE5YXIxZC1GQTVuN1RQN1pxbloySjFDWm1yTEZJVVNRRmNpLWNWQ2x1RVBNdWlNcUlHdEFLcWxiSVlpQm5mSWFjVnRScDdWc0ZwS0VKM3hBSHdXN3hzMUE4NU4tZEpNUVppWTBaRExwLWRzT2MtY0I?oc=5\" target=\"_blank\">BioMar achieves its lowest forage fish dependency ratio to date in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+    },
+    {
+      "id": 43421,
+      "story_id": 1292,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTllRTHNFMXMtVzQzM3JpVm1aaE1LTGtPZUlQX1VzMTJKaGVNenl2d3lHSnJPazNfOFBORGNhNUwwcmNab3RHOER1WGF6U2RDczlXdC0xZnFKTXl2cExOeWVoQ0ZldldMNDhGN0VSMmlnV2E2MHJwNk1USnpTTUxCSkx0T3l2M1NzUzRRa0FwV2NuQk03R2JzdHNtMHZqbGJ1MVRxbjV30gGmAUFVX3lxTFBOWVFMc0Uxcy1XNDMzcmlWbVpoTUtMa09lSVBfVXMxMkpoZU16eXZ3eUdKck9rM184UE5EY2E1TDByY1pvdEc4RHVYYXpTZENzOVd0LTFmcUpNeXZwTE55ZWhDRmV2V0w0OEY3RVIyaWdXYTYwcnA2TVRKelNNTEJKTHRPeXYzU3NTNFFrQXBXY25CTTdHYnN0c20wdmpsYnUxVHFuNXc?oc=5",
+      "title": "Former Skretting CEO: 'AI is finally delivering real value in aquaculture’ - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2025-06-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTllRTHNFMXMtVzQzM3JpVm1aaE1LTGtPZUlQX1VzMTJKaGVNenl2d3lHSnJPazNfOFBORGNhNUwwcmNab3RHOER1WGF6U2RDczlXdC0xZnFKTXl2cExOeWVoQ0ZldldMNDhGN0VSMmlnV2E2MHJwNk1USnpTTUxCSkx0T3l2M1NzUzRRa0FwV2NuQk03R2JzdHNtMHZqbGJ1MVRxbjV30gGmAUFVX3lxTFBOWVFMc0Uxcy1XNDMzcmlWbVpoTUtMa09lSVBfVXMxMkpoZU16eXZ3eUdKck9rM184UE5EY2E1TDByY1pvdEc4RHVYYXpTZENzOVd0LTFmcUpNeXZwTE55ZWhDRmV2V0w0OEY3RVIyaWdXYTYwcnA2TVRKelNNTEJKTHRPeXYzU3NTNFFrQXBXY25CTTdHYnN0c20wdmpsYnUxVHFuNXc?oc=5\" target=\"_blank\">Former Skretting CEO: 'AI is finally delivering real value in aquaculture’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 43514,
+      "story_id": 1293,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRG5URTdHMUxtc3d1cE5ZWUxzWE9qSDVQMFBRRV9Ddk5FU1RtSWFjUm12Z01jRXRWbVJhbkJzc2N4VzdCYmI2VGJLUGpQQ1lqZXMxSk1MSGt5ZU1MNVBUZXlMRW8yZ2xsQTZVeU9aNVBrVWJ4YXhxb0lUX3dBaEpjUQ?oc=5",
+      "title": "Nå trenger vi hjelp til å lese - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-12-29T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQRG5URTdHMUxtc3d1cE5ZWUxzWE9qSDVQMFBRRV9Ddk5FU1RtSWFjUm12Z01jRXRWbVJhbkJzc2N4VzdCYmI2VGJLUGpQQ1lqZXMxSk1MSGt5ZU1MNVBUZXlMRW8yZ2xsQTZVeU9aNVBrVWJ4YXhxb0lUX3dBaEpjUQ?oc=5\" target=\"_blank\">Nå trenger vi hjelp til å lese</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 43515,
+      "story_id": 1294,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEh0bVd5aFg1bWp2a3ZnWnh4ZFFoaGQ0N3NYWXAteTN5WWIyX2dId2VKbzdtSmJWQndkcVFzSEdYdFZ6V2lvbVUzV1NYM0oyQ0dkZXR0Um5Mdm9ldk5DNlcxQmxZQmR5UkRKNVhScjJrdElJN3M0QmlvWVU1T2Viag?oc=5",
+      "title": "Skole, Oppvekst | Ingen er flinkere enn disse elevene - Budstikka",
+      "source_name": "Budstikka",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-01-27T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEh0bVd5aFg1bWp2a3ZnWnh4ZFFoaGQ0N3NYWXAteTN5WWIyX2dId2VKbzdtSmJWQndkcVFzSEdYdFZ6V2lvbVUzV1NYM0oyQ0dkZXR0Um5Mdm9ldk5DNlcxQmxZQmR5UkRKNVhScjJrdElJN3M0QmlvWVU1T2Viag?oc=5\" target=\"_blank\">Skole, Oppvekst | Ingen er flinkere enn disse elevene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Budstikka</font>"
     }
   ],
   "share_of_voice": {
@@ -53269,7 +53441,7 @@
       {
         "week": "2024-W02",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 0
@@ -53717,7 +53889,7 @@
       {
         "week": "2025-W13",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -53824,7 +53996,7 @@
         "BioMar": 1,
         "Cargill": 3,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2025-W27",
@@ -54040,7 +54212,7 @@
         "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2026-W02",
@@ -54072,7 +54244,7 @@
         "BioMar": 9,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2026-W06",
@@ -54194,7 +54366,7 @@
       },
       {
         "company": "BioMar",
-        "count": 586
+        "count": 588
       },
       {
         "company": "Cargill",
@@ -54206,7 +54378,7 @@
       },
       {
         "company": "Skretting",
-        "count": 450
+        "count": 453
       }
     ]
   }
