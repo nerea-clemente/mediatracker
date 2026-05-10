@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-10T16:58:56+00:00",
+  "generated_at": "2026-05-10T22:42:30+00:00",
   "stats": {
-    "mention_count": 1411,
-    "story_count": 1272,
-    "analyzed_count": 587,
+    "mention_count": 1413,
+    "story_count": 1274,
+    "analyzed_count": 588,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -13756,6 +13756,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1296,
+      "headline": "BioMar apuesta por una entrega de alimento más sustentable - aqua.cl",
+      "story_summary": "BioMar is pursuing more sustainable approaches to animal feed delivery. The company is emphasizing its commitment to environmentally responsible practices in aquaculture feed distribution.",
+      "first_seen": "2021-06-02T07:00:00+00:00",
+      "last_seen": "2021-06-02T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1089,
       "headline": "Polarfeed er blitt lærebedrift for seks fagutdanninger: Marcus (18) er førstemann ut - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzllRHZEdDd5TlY0enBZS21sTzRHekJZTS1KTExMa1A2ODZqY2poS3J0WFA4bWtDU2dfSnliWkowMXZCbW9xRk5xNGRTdVg1NmJsUWI2SkFrVkx1anRSME8wanhHQkVYbnlBZmFaZ0dpR3BFUzA0TjVkc2NWZUtZcDJpdkwwU1NWV3l3WWgtbDFpWWRCc2Ftd1lRUVU0MkZMc1E?oc=5\" target=\"_blank\">Polarfeed er blitt lærebedrift for seks fagutdanninger: Marcus (18) er førstemann ut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -17285,6 +17299,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1295,
+      "headline": "Ewos ups turnover 7% on Norway recovery, strong markets - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXFqZ19fdnVFZ0VlbDk4ZEw2Nk8xTnMtMS1Rb19VWHZxcGpEMi1XRDg4c3pSOERKZnd1cWtfUU93Z1BsTXFMWjkwMHVKNUt2OTBwaU9nUU9hSmZ3T0FYLTNSVlZjVzI0dlFPeGRMTjJZSEJpU25jQ3NvTmk2Mloxa0JWaFBCaGRDOG9oMVpLMjdKVmxzcVRPdF9WRQ?oc=5\" target=\"_blank\">Ewos ups turnover 7% on Norway recovery, strong markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2015-02-25T08:00:00+00:00",
+      "last_seen": "2015-02-25T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
     },
@@ -51003,6 +51031,52 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEh0bVd5aFg1bWp2a3ZnWnh4ZFFoaGQ0N3NYWXAteTN5WWIyX2dId2VKbzdtSmJWQndkcVFzSEdYdFZ6V2lvbVUzV1NYM0oyQ0dkZXR0Um5Mdm9ldk5DNlcxQmxZQmR5UkRKNVhScjJrdElJN3M0QmlvWVU1T2Viag?oc=5\" target=\"_blank\">Skole, Oppvekst | Ingen er flinkere enn disse elevene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Budstikka</font>"
+    },
+    {
+      "id": 44288,
+      "story_id": 1296,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMFAxTFRiWTk2ODVkcWdWMXdqVDVEcHQzWTdEaW92NUFqUUhoLUFIVDBsQzQ0Wl9wMWJoM0tzMjZmcmE3NzA3ZTNZRFlSWkMtYWYtbEszTFdQc1BTNzFNYU5LM0VjTk1IYnpmazBOZW1NUTZ6ZWoteGw2dGdnVlVaUUxFbGpmQQ?oc=5",
+      "title": "BioMar apuesta por una entrega de alimento más sustentable - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2021-06-02T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar commits to more sustainable feed delivery practices",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is pursuing more sustainable approaches to animal feed delivery. The company is emphasizing its commitment to environmentally responsible practices in aquaculture feed distribution."
+    },
+    {
+      "id": 44919,
+      "story_id": 1295,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXFqZ19fdnVFZ0VlbDk4ZEw2Nk8xTnMtMS1Rb19VWHZxcGpEMi1XRDg4c3pSOERKZnd1cWtfUU93Z1BsTXFMWjkwMHVKNUt2OTBwaU9nUU9hSmZ3T0FYLTNSVlZjVzI0dlFPeGRMTjJZSEJpU25jQ3NvTmk2Mloxa0JWaFBCaGRDOG9oMVpLMjdKVmxzcVRPdF9WRQ?oc=5",
+      "title": "Ewos ups turnover 7% on Norway recovery, strong markets - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2015-02-25T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXFqZ19fdnVFZ0VlbDk4ZEw2Nk8xTnMtMS1Rb19VWHZxcGpEMi1XRDg4c3pSOERKZnd1cWtfUU93Z1BsTXFMWjkwMHVKNUt2OTBwaU9nUU9hSmZ3T0FYLTNSVlZjVzI0dlFPeGRMTjJZSEJpU25jQ3NvTmk2Mloxa0JWaFBCaGRDOG9oMVpLMjdKVmxzcVRPdF9WRQ?oc=5\" target=\"_blank\">Ewos ups turnover 7% on Norway recovery, strong markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
     }
   ],
   "share_of_voice": {
@@ -51330,7 +51404,7 @@
         "week": "2015-W09",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 1,
+        "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -52605,6 +52679,14 @@
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 1
+      },
+      {
+        "week": "2021-W22",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2021-W25",
@@ -54366,11 +54448,11 @@
       },
       {
         "company": "BioMar",
-        "count": 588
+        "count": 589
       },
       {
         "company": "Cargill",
-        "count": 214
+        "count": 215
       },
       {
         "company": "Polarfeed",
