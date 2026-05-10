@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-09T22:38:36+00:00",
+  "generated_at": "2026-05-10T07:38:52+00:00",
   "stats": {
-    "mention_count": 1401,
-    "story_count": 1265,
-    "analyzed_count": 585,
+    "mention_count": 1405,
+    "story_count": 1267,
+    "analyzed_count": 586,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -287,12 +287,12 @@
       "headline": "Skretting: confirms AquaVision 2026 speaker line-up - SalmonBusiness",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGlCZXQyU0ZHZ1pPQzRkSnhld2VPVlV4dW04S1FUVFN5M2JGTnQyR3ktSW93cGpMLWFhaW1hc21hMFNJY2tDUWRSdXVQZXpreEpfSF9vSW5iR0J5MGI0TC1wdHJzUTFxSjYyUkwwX3NNM0c5ODZUOF9CaUlsVHVpMk9xcXBtVmo0U3BCWWhGci14UdIBkgFBVV95cUxOUGlCZXQyU0ZHZ1pPQzRkSnhld2VPVlV4dW04S1FUVFN5M2JGTnQyR3ktSW93cGpMLWFhaW1hc21hMFNJY2tDUWRSdXVQZXpreEpfSF9vSW5iR0J5MGI0TC1wdHJzUTFxSjYyUkwwX3NNM0c5ODZUOF9CaUlsVHVpMk9xcXBtVmo0U3BCWWhGci14UQ?oc=5\" target=\"_blank\">Skretting: confirms AquaVision 2026 speaker line-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2026-05-08T10:22:38+00:00",
-      "last_seen": "2026-05-08T10:22:38+00:00",
+      "last_seen": "2026-05-08T10:28:45+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -3341,6 +3341,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1289,
+      "headline": "– Jeg synes det vanskelig at ikke handlingsrommet lokalt er større - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkRQNzVwb3VuWmN3TGcwbm56SEhrWnlmTFk2SlYxd2hYclU0OGljY0JkZzMzTDJVOURpaE9Cd3BlTDhlY25zSW9MVHRzTFhQNEJzUGJpdnFtVTJISWtpeFB1eUwxUHBrbHBrdE9xWm5FWnM1clJYMEd1aThRU3FJWDgzQWFIQXZrSUwyQWlEZmlvRDg?oc=5\" target=\"_blank\">– Jeg synes det vanskelig at ikke handlingsrommet lokalt er større</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2025-12-29T08:00:00+00:00",
+      "last_seen": "2025-12-29T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 282,
@@ -13979,6 +13993,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1288,
+      "headline": "Skretting Chile se compromete con la inclusión y diversidad de cara al 2025 - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkJBbFZISmI4VUNKOGZnRXZfamZGcy0yT1Y3eTlEcGt1QTFqNVczZWZoeXRhQXoxUFFCc05EYUhJd2o1Y01hMW1mR1Y0a2Z3emlKMjhMYWVZV0liMEtVdEloNFVRZm1oOUVSRHJtYW45bEFJbDdjZWYwQUdqOWZURm8yZUR3UjBHZUl3NmdBZVJtWVNYRWtYNXlMclc?oc=5\" target=\"_blank\">Skretting Chile se compromete con la inclusión y diversidad de cara al 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2021-01-12T08:00:00+00:00",
+      "last_seen": "2021-01-12T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 482,
       "headline": "Cargill sin EWOS fabrikk på Halsa bygger ut: - Vi gjør oss klare for fremtidens utvikling - kulingen.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnMyS3FhZm5kWUd2YjY4V2I2eWtQa3NFWmRqZ2UzREtFVzdQYXpkeWRnXzg1YUFWMXZmX2ZraHpRNlU4Y3l4eTZwQTJoWTR1Q0k1Ymo2aFdJemhPMjNpWkNNZUx4bE9qczQ5NkZ6UFo4Y3JONEJBR2pVaEdYUnY4VEVGSl9iNnhRdVA0cHNYLVhSRXNOaGg4Q1hzcGJRaWNUVFNMbDF3eHhtUkhfLWthSWh3c2d0M2pDX2hhWmZIQ1NaV28wSmdYdA?oc=5\" target=\"_blank\">Cargill sin EWOS fabrikk på Halsa bygger ut: - Vi gjør oss klare for fremtidens utvikling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kulingen.no</font>",
@@ -15696,11 +15724,11 @@
       "story_summary": "BioMar achieved positive development during the third quarter, as reported through Schouw & Co's financial updates. The article discusses BioMar's quarterly performance metrics within the context of its parent company's results disclosure period ending in Q3 2018.",
       "first_seen": "2018-03-17T07:00:00+00:00",
       "last_seen": "2018-03-17T07:00:00+00:00",
-      "primary_sentiment": "positive",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -50674,6 +50702,98 @@
         "none"
       ],
       "summary": "Schouw & Co. has issued a notice for its Annual General Meeting. The announcement is a routine corporate governance notification to shareholders and stakeholders of the parent company of BioMar Group A/S, the aquaculture feed producer headquartered in Aarhus, Denmark. This is a standard legal/regulatory filing with no substantive business updates or news content. The article serves to inform stakeholders of the timing and opportunity to participate in the company's annual shareholder meeting as required by Danish corporate law and the company's articles of association. No specific business developments, financial results, or strategic initiatives are described in the published notice to the media outlet NTB Kommunikasjon (the Norwegian News Agency)."
+    },
+    {
+      "id": 40957,
+      "story_id": 898,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aOHhYNnJKN2xGQUtJcGFoTEEtQndwbDdvMjNqMzBoQ09Bd3NLeDVOTE1zMC12TUYtNzNDMTVZV09Hb1NBVGhDOVhCVnRJN3pEOU1RMTJTZmpxbi1pQWljLUVDUjA0T1ZWUWc?oc=5",
+      "title": "Kanonutvikling for Biomar - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2018-03-17T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "BioMar pursues canoe/kayak product development initiative",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is reportedly undertaking a development project related to canoes or kayaks. The article appears to cover a business expansion or diversification move by the company or its parent Schouw & Co."
+    },
+    {
+      "id": 41104,
+      "story_id": 1268,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVGlVN0xfc3JJb2piVGQwdTBwRzg4TVlYUlNLdzV2UFdRaGEwa0l1SWI4bFItSXhSdV9GdnFMX21rNjVUOXhKQm1mcnVWR0t5TkltR2NXamp0UEJBUnRqclpLRXJGYWNKY0dHb0ZuWWdTSEVQbXpsYThZNFpncVFaVGc1ZFlwZE9jM3fSAZIBQVVfeXFMTlBpQmV0MlNGR2daT0M0ZEp4ZXdlT1ZVeHVtOEtRVFRTeTNiRk50Mkd5LUlvd3BqTC1hYWltYXNtYTBTSWNrQ1FkUnV1UGV6a3hKX0hfb0luYkdCeTBiNEwtcHRyc1ExcUo2MlJMMF9zTTNHOTg2VDhfQmlJbFR1aTJPcXFwbVZqNFNwQlloRnIteFE?oc=5",
+      "title": "Skretting: confirms AquaVision 2026 speaker line-up - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2026-05-08T10:28:45+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVGlVN0xfc3JJb2piVGQwdTBwRzg4TVlYUlNLdzV2UFdRaGEwa0l1SWI4bFItSXhSdV9GdnFMX21rNjVUOXhKQm1mcnVWR0t5TkltR2NXamp0UEJBUnRqclpLRXJGYWNKY0dHb0ZuWWdTSEVQbXpsYThZNFpncVFaVGc1ZFlwZE9jM3fSAZIBQVVfeXFMTlBpQmV0MlNGR2daT0M0ZEp4ZXdlT1ZVeHVtOEtRVFRTeTNiRk50Mkd5LUlvd3BqTC1hYWltYXNtYTBTSWNrQ1FkUnV1UGV6a3hKX0hfb0luYkdCeTBiNEwtcHRyc1ExcUo2MlJMMF9zTTNHOTg2VDhfQmlJbFR1aTJPcXFwbVZqNFNwQlloRnIteFE?oc=5\" target=\"_blank\">Skretting: confirms AquaVision 2026 speaker line-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 41241,
+      "story_id": 1289,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkRQNzVwb3VuWmN3TGcwbm56SEhrWnlmTFk2SlYxd2hYclU0OGljY0JkZzMzTDJVOURpaE9Cd3BlTDhlY25zSW9MVHRzTFhQNEJzUGJpdnFtVTJISWtpeFB1eUwxUHBrbHBrdE9xWm5FWnM1clJYMEd1aThRU3FJWDgzQWFIQXZrSUwyQWlEZmlvRDg?oc=5",
+      "title": "– Jeg synes det vanskelig at ikke handlingsrommet lokalt er større - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-12-29T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkRQNzVwb3VuWmN3TGcwbm56SEhrWnlmTFk2SlYxd2hYclU0OGljY0JkZzMzTDJVOURpaE9Cd3BlTDhlY25zSW9MVHRzTFhQNEJzUGJpdnFtVTJISWtpeFB1eUwxUHBrbHBrdE9xWm5FWnM1clJYMEd1aThRU3FJWDgzQWFIQXZrSUwyQWlEZmlvRDg?oc=5\" target=\"_blank\">– Jeg synes det vanskelig at ikke handlingsrommet lokalt er større</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 41452,
+      "story_id": 1288,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkJBbFZISmI4VUNKOGZnRXZfamZGcy0yT1Y3eTlEcGt1QTFqNVczZWZoeXRhQXoxUFFCc05EYUhJd2o1Y01hMW1mR1Y0a2Z3emlKMjhMYWVZV0liMEtVdEloNFVRZm1oOUVSRHJtYW45bEFJbDdjZWYwQUdqOWZURm8yZUR3UjBHZUl3NmdBZVJtWVNYRWtYNXlMclc?oc=5",
+      "title": "Skretting Chile se compromete con la inclusión y diversidad de cara al 2025 - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2021-01-12T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkJBbFZISmI4VUNKOGZnRXZfamZGcy0yT1Y3eTlEcGt1QTFqNVczZWZoeXRhQXoxUFFCc05EYUhJd2o1Y01hMW1mR1Y0a2Z3emlKMjhMYWVZV0liMEtVdEloNFVRZm1oOUVSRHJtYW45bEFJbDdjZWYwQUdqOWZURm8yZUR3UjBHZUl3NmdBZVJtWVNYRWtYNXlMclc?oc=5\" target=\"_blank\">Skretting Chile se compromete con la inclusión y diversidad de cara al 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -51608,7 +51728,7 @@
       {
         "week": "2018-W11",
         "Aller Aqua": 0,
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 4,
         "Polarfeed": 2,
         "Skretting": 0
@@ -52163,7 +52283,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2021-W03",
@@ -53883,7 +54003,7 @@
         "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2026-W02",
@@ -54027,7 +54147,7 @@
         "BioMar": 20,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 11
+        "Skretting": 12
       }
     ],
     "totals": [
@@ -54037,7 +54157,7 @@
       },
       {
         "company": "BioMar",
-        "count": 585
+        "count": 586
       },
       {
         "company": "Cargill",
@@ -54049,7 +54169,7 @@
       },
       {
         "company": "Skretting",
-        "count": 447
+        "count": 450
       }
     ]
   }
