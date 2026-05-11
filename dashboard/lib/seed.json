@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-11T08:42:02+00:00",
+  "generated_at": "2026-05-11T12:26:49+00:00",
   "stats": {
-    "mention_count": 1422,
-    "story_count": 1282,
-    "analyzed_count": 591,
+    "mention_count": 1424,
+    "story_count": 1283,
+    "analyzed_count": 592,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -272,15 +272,15 @@
     },
     {
       "id": 1273,
-      "headline": "19’ - Mål av Ingeborg Skretting (1-0) - TV2.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2I1WF9EVm02aVhmLWpTTEJYVV9fMkZ4c3EzQXd2TEVGeGN0eW5GZUxkdHJBam5jZ1lKLVZ6a2wxbFFaVUxsVHRaOTZkWERDZnE5VTRzaEtMLV9lTVNUaUtJQ3NvUWJIY2ttcnhLRUtMblRLRVJuU21GbXc4emw0WGhtejdXUjRJdzFr?oc=5\" target=\"_blank\">19’ - Mål av Ingeborg Skretting (1-0)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>",
-      "first_seen": "2026-05-08T16:18:40+00:00",
+      "headline": "54’ - Gult kort til Ingeborg Skretting - TV2.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTREUFpWeTRjOUJjVllvcjBBclREd0dKUFhleGlZNjVyZElmeUg0VHNJUzZoOFZzcDhLRlNXZzFRcXZTN2QwVzAtWTMzMnl5RmY2T1ZVaDBVYjQyalJaTW80UV9GanhScWFEdjViSXdLeVBfdHNfcHhlOFpJSjc1cg?oc=5\" target=\"_blank\">54’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>",
+      "first_seen": "2026-05-08T07:00:00+00:00",
       "last_seen": "2026-05-08T16:18:40+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -10003,6 +10003,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1305,
+      "headline": "Farmers of the Year 2023 BioMar: Reconocen a CES Capeahuapi de Marine Farm - Mundoacuicola",
+      "story_summary": "BioMar has recognized CES Capeahuapi de Marine Farm as its 2023 Farmers of the Year award recipient. The award highlights exemplary farming practices within BioMar's customer base.",
+      "first_seen": "2024-05-23T07:00:00+00:00",
+      "last_seen": "2024-05-23T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 600,
@@ -51400,6 +51414,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZlZyejNQYU5kd05LMTJzd0JmTmU0QjZWU280M2FBcmU4NUVici0yalNxM2JRUjE5TkhpanVicW9ObTdxXzY5UlVXajNtbzIyYnVoNFUyN3FZN0dNa25KQnVXcDBreV93ZkliM0ZsWGxqNVFvNV9DeGxhVXEzY0hQamxDNTHSAYQBQVVfeXFMTWZWcnozUGFOZHdOSzEyc3dCZk5lNEI2VlNvNDNhQXJlODVFYnItMmpTcTNiUVIxOU5IaWp1YnFvTm03cV82OVJVV2ozbW8yMmJ1aDRVMjdxWTdHTWtuSkJ1V3Awa3lfd2ZJYjNGbFhsajVRbzVfQ3hsYVVxM2NIUGpsQzUx?oc=5\" target=\"_blank\">Einar Wathne stepping down as Cargill director</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 46467,
+      "story_id": 1305,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWNralc1b0lYdFl4U0tuelZfa21sV0E5Q2tVYVdLbktCZktoTUUyMFBRZWxJYUctRVV4QmJqcWVJVmtCMGdZY3V4azNZaGtVME1HRS1wQ2lfYUJFc1FJTU5QeFE1bFNzZHR3eHNYT3VsYUR1Tk9pR2RueDg5UnBsQ3NUQk83eDg4NVMwT0kwdzFuTXJzelNIYkxMS2t6Y0t0ellyOG5pUnlzTjg?oc=5",
+      "title": "Farmers of the Year 2023 BioMar: Reconocen a CES Capeahuapi de Marine Farm - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2024-05-23T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar recognizes CES Capeahuapi de Marine Farm as 2023 Farmers of the Year",
+      "key_claims": [
+        "CES Capeahuapi de Marine Farm was recognized as BioMar's 2023 Farmers of the Year"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has recognized CES Capeahuapi de Marine Farm as its 2023 Farmers of the Year award recipient. The award highlights exemplary farming practices within BioMar's customer base."
+    },
+    {
+      "id": 46812,
+      "story_id": 1273,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTREUFpWeTRjOUJjVllvcjBBclREd0dKUFhleGlZNjVyZElmeUg0VHNJUzZoOFZzcDhLRlNXZzFRcXZTN2QwVzAtWTMzMnl5RmY2T1ZVaDBVYjQyalJaTW80UV9GanhScWFEdjViSXdLeVBfdHNfcHhlOFpJSjc1cg?oc=5",
+      "title": "54’ - Gult kort til Ingeborg Skretting - TV2.no",
+      "source_name": "TV2.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTREUFpWeTRjOUJjVllvcjBBclREd0dKUFhleGlZNjVyZElmeUg0VHNJUzZoOFZzcDhLRlNXZzFRcXZTN2QwVzAtWTMzMnl5RmY2T1ZVaDBVYjQyalJaTW80UV9GanhScWFEdjViSXdLeVBfdHNfcHhlOFpJSjc1cg?oc=5\" target=\"_blank\">54’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
     }
   ],
   "share_of_voice": {
@@ -53996,6 +54058,14 @@
         "Skretting": 2
       },
       {
+        "week": "2024-W21",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2024-W22",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -54777,7 +54847,7 @@
         "BioMar": 20,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 12
+        "Skretting": 13
       }
     ],
     "totals": [
@@ -54787,7 +54857,7 @@
       },
       {
         "company": "BioMar",
-        "count": 591
+        "count": 592
       },
       {
         "company": "Cargill",
@@ -54799,7 +54869,7 @@
       },
       {
         "company": "Skretting",
-        "count": 459
+        "count": 460
       }
     ]
   }
