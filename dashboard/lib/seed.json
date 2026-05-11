@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-11T17:56:50+00:00",
+  "generated_at": "2026-05-11T22:50:55+00:00",
   "stats": {
-    "mention_count": 1430,
-    "story_count": 1287,
+    "mention_count": 1434,
+    "story_count": 1291,
     "analyzed_count": 595,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
@@ -2324,6 +2324,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1313,
+      "headline": "Han er ny rådgiver i Njord Aqua - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmFMeGdaN2pseUJiQ1Q1a2w5aXVTNF85MWVUMGowOTh0UURkOEtmZmJiTzBuRFltZTZCRkRDYzNFMlIwVzlCQTBFajdiQ2dSeEpYSFN2UExzRzRwcl8xa2RJVVZGZWdRbTFhMTR1NlBwQ1FvMTllbVU3dU9NOXJBckUtUGpBajR3djJN?oc=5\" target=\"_blank\">Han er ny rådgiver i Njord Aqua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2026-02-27T08:00:00+00:00",
+      "last_seen": "2026-02-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 316,
       "headline": "El listado de salmonicultores ganadores del Farmer of the Year 2025 de BioMar - Salmonexpert",
       "story_summary": "BioMar has announced the winners of its 2025 Farmer of the Year award for salmon farmers. The article lists the salmoniculturists who received recognition from BioMar in this annual award program.",
@@ -2840,6 +2854,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1312,
+      "headline": "Nekter ordføreren innsyn - agderposten.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOclZFcS1HNklzazllVWRjYUR4akZ6T0lfWHZpZm80cjNUd2dpRnZPWHlYQTdoMUhJb1hlS3liRnNUUUhTdEFjRVlKbkxpQ0NMNHcxa3l5RjBBUmNCbTV0ODl0QXZWWGxXUmpPdUg5UkRHaWxmRmtOdVBGZDRGbHhDTWZlclB1SXBVUDNkUQ?oc=5\" target=\"_blank\">Nekter ordføreren innsyn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">agderposten.no</font>",
+      "first_seen": "2026-02-09T08:00:00+00:00",
+      "last_seen": "2026-02-09T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 294,
@@ -4738,6 +4766,20 @@
       "id": 741,
       "headline": "Går fra Skretting til Oceanbox - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiP0FVX3lxTE1IR29KQ0RMYkxUenBWVDdBSHp0SnV1Wl9OMGVyNTBRU19DMVRWMFdHeGdfZzBwNXNUVldNXzZ3bw?oc=5\" target=\"_blank\">Går fra Skretting til Oceanbox</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2025-11-04T08:00:00+00:00",
+      "last_seen": "2025-11-04T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1311,
+      "headline": "– Kommunen føler ikke dagens løsning er god nok - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDQ2VWlHSXBuZ3RITlhFN1d2TGVKZTlvbWstdHZTRmpWMk1XWW9vNHhEWHl4T1VycU02dGR4NjQzU0hWLWRha3Y1X0tKWkRuejFPY2VUYlpsZjRCOFBKeHMzUTZpLVBleVlkRzBqV210V1lKalQzWVRUTEZYRGhUUDJZbnN4RDJpazNoOC1XTW93SmdWSmc?oc=5\" target=\"_blank\">– Kommunen føler ikke dagens løsning er god nok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
       "first_seen": "2025-11-04T08:00:00+00:00",
       "last_seen": "2025-11-04T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -10247,6 +10289,20 @@
       "id": 952,
       "headline": "Nå har Skretting funnet sin nye konsernsjef - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9IMDVpNkJRYzBTNHp3WEZkMExabU9MZ2FIVm10UUR0ZGNqTkcxM0NGbjJpQ1M5Z2hIRDltR1hFbWI3elVHcW9RdV96UnNrTWlWMFF5d3ZUUTNOTjdDYXc3cTU4UXBKbjhHTDBIQ2lR?oc=5\" target=\"_blank\">Nå har Skretting funnet sin nye konsernsjef</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2024-04-17T07:00:00+00:00",
+      "last_seen": "2024-04-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1310,
+      "headline": "Eduardo Lopes Alberto announced as Trouw Nutrition CEO and Bastiaan van Tilburg as Skretting CEO as of June 1 - Feedstuffs",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQejEza25rUHpZUjE1eEZsUzdpbi1hQUdNbkN5ZGNuS1ZLaG9xTlZWT1FsUTJ1ZGloblFRS18tSHItNzMyTWlmVHg5dGJwTlAxLTVnWWMyZ3dLTnItYXB5d1F6TkNDOTlHYzVVV1BDdkgzVkVuQ3VhRUZrS2hJYlNPWVdNLTA0cldQMDlaYU9QZk55SzRlaEl1Q1lUd18xQ2dpYmJ1eXdadURoeUhnaU9pc2FiMDllS2lQSC1rREN5eUhqRUNEUlROMDFJT1FGcXA0VEtxWjBfOE5PNEtJNV9QSnNhYXpRNjM3RkE?oc=5\" target=\"_blank\">Eduardo Lopes Alberto announced as Trouw Nutrition CEO and Bastiaan van Tilburg as Skretting CEO as of June 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Feedstuffs</font>",
       "first_seen": "2024-04-17T07:00:00+00:00",
       "last_seen": "2024-04-17T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -51661,6 +51717,98 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXFhSHhSM3RwekhMYy0wRkFPNkEzU0hKTlVRTlJVbk9nYUdFRVAweU9LdVRaZ0NlaEdYcUpMZFFsc2w5ZC1lMHc5Qkp3MzV6WEhmVGdZcURPUktCOW1Hc3RfRndpSGFadUtnQmc1Uk90UnVlMGoxZ0E0bFkxbVhDNVUyV2d0WnpGQnBXZFVjNXZINDNtZzYxbEdZNUVXYkZuX0ZUcGdMY0Y?oc=5\" target=\"_blank\">Skretting Chile anuncia su primer evento de sostenibilidad e innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 49052,
+      "story_id": 1310,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQejEza25rUHpZUjE1eEZsUzdpbi1hQUdNbkN5ZGNuS1ZLaG9xTlZWT1FsUTJ1ZGloblFRS18tSHItNzMyTWlmVHg5dGJwTlAxLTVnWWMyZ3dLTnItYXB5d1F6TkNDOTlHYzVVV1BDdkgzVkVuQ3VhRUZrS2hJYlNPWVdNLTA0cldQMDlaYU9QZk55SzRlaEl1Q1lUd18xQ2dpYmJ1eXdadURoeUhnaU9pc2FiMDllS2lQSC1rREN5eUhqRUNEUlROMDFJT1FGcXA0VEtxWjBfOE5PNEtJNV9QSnNhYXpRNjM3RkE?oc=5",
+      "title": "Eduardo Lopes Alberto announced as Trouw Nutrition CEO and Bastiaan van Tilburg as Skretting CEO as of June 1 - Feedstuffs",
+      "source_name": "Feedstuffs",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2024-04-17T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQejEza25rUHpZUjE1eEZsUzdpbi1hQUdNbkN5ZGNuS1ZLaG9xTlZWT1FsUTJ1ZGloblFRS18tSHItNzMyTWlmVHg5dGJwTlAxLTVnWWMyZ3dLTnItYXB5d1F6TkNDOTlHYzVVV1BDdkgzVkVuQ3VhRUZrS2hJYlNPWVdNLTA0cldQMDlaYU9QZk55SzRlaEl1Q1lUd18xQ2dpYmJ1eXdadURoeUhnaU9pc2FiMDllS2lQSC1rREN5eUhqRUNEUlROMDFJT1FGcXA0VEtxWjBfOE5PNEtJNV9QSnNhYXpRNjM3RkE?oc=5\" target=\"_blank\">Eduardo Lopes Alberto announced as Trouw Nutrition CEO and Bastiaan van Tilburg as Skretting CEO as of June 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Feedstuffs</font>"
+    },
+    {
+      "id": 49088,
+      "story_id": 1312,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOclZFcS1HNklzazllVWRjYUR4akZ6T0lfWHZpZm80cjNUd2dpRnZPWHlYQTdoMUhJb1hlS3liRnNUUUhTdEFjRVlKbkxpQ0NMNHcxa3l5RjBBUmNCbTV0ODl0QXZWWGxXUmpPdUg5UkRHaWxmRmtOdVBGZDRGbHhDTWZlclB1SXBVUDNkUQ?oc=5",
+      "title": "Nekter ordføreren innsyn - agderposten.no",
+      "source_name": "agderposten.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-02-09T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOclZFcS1HNklzazllVWRjYUR4akZ6T0lfWHZpZm80cjNUd2dpRnZPWHlYQTdoMUhJb1hlS3liRnNUUUhTdEFjRVlKbkxpQ0NMNHcxa3l5RjBBUmNCbTV0ODl0QXZWWGxXUmpPdUg5UkRHaWxmRmtOdVBGZDRGbHhDTWZlclB1SXBVUDNkUQ?oc=5\" target=\"_blank\">Nekter ordføreren innsyn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">agderposten.no</font>"
+    },
+    {
+      "id": 49100,
+      "story_id": 1311,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDQ2VWlHSXBuZ3RITlhFN1d2TGVKZTlvbWstdHZTRmpWMk1XWW9vNHhEWHl4T1VycU02dGR4NjQzU0hWLWRha3Y1X0tKWkRuejFPY2VUYlpsZjRCOFBKeHMzUTZpLVBleVlkRzBqV210V1lKalQzWVRUTEZYRGhUUDJZbnN4RDJpazNoOC1XTW93SmdWSmc?oc=5",
+      "title": "– Kommunen føler ikke dagens løsning er god nok - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-11-04T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDQ2VWlHSXBuZ3RITlhFN1d2TGVKZTlvbWstdHZTRmpWMk1XWW9vNHhEWHl4T1VycU02dGR4NjQzU0hWLWRha3Y1X0tKWkRuejFPY2VUYlpsZjRCOFBKeHMzUTZpLVBleVlkRzBqV210V1lKalQzWVRUTEZYRGhUUDJZbnN4RDJpazNoOC1XTW93SmdWSmc?oc=5\" target=\"_blank\">– Kommunen føler ikke dagens løsning er god nok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 49407,
+      "story_id": 1313,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmFMeGdaN2pseUJiQ1Q1a2w5aXVTNF85MWVUMGowOTh0UURkOEtmZmJiTzBuRFltZTZCRkRDYzNFMlIwVzlCQTBFajdiQ2dSeEpYSFN2UExzRzRwcl8xa2RJVVZGZWdRbTFhMTR1NlBwQ1FvMTllbVU3dU9NOXJBckUtUGpBajR3djJN?oc=5",
+      "title": "Han er ny rådgiver i Njord Aqua - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-02-27T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmFMeGdaN2pseUJiQ1Q1a2w5aXVTNF85MWVUMGowOTh0UURkOEtmZmJiTzBuRFltZTZCRkRDYzNFMlIwVzlCQTBFajdiQ2dSeEpYSFN2UExzRzRwcl8xa2RJVVZGZWdRbTFhMTR1NlBwQ1FvMTllbVU3dU9NOXJBckUtUGpBajR3djJN?oc=5\" target=\"_blank\">Han er ny rådgiver i Njord Aqua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
     }
   ],
   "share_of_voice": {
@@ -54230,7 +54378,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W17",
@@ -54846,7 +54994,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2025-W46",
@@ -54958,7 +55106,7 @@
         "BioMar": 13,
         "Cargill": 6,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2026-W08",
@@ -54972,7 +55120,7 @@
         "week": "2026-W09",
         "Aller Aqua": 0,
         "BioMar": 3,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 3
       },
@@ -55076,7 +55224,7 @@
       },
       {
         "company": "Cargill",
-        "count": 216
+        "count": 217
       },
       {
         "company": "Polarfeed",
@@ -55084,7 +55232,7 @@
       },
       {
         "company": "Skretting",
-        "count": 463
+        "count": 466
       }
     ]
   }
