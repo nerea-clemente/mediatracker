@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-11T12:26:49+00:00",
+  "generated_at": "2026-05-11T17:56:50+00:00",
   "stats": {
-    "mention_count": 1424,
-    "story_count": 1283,
-    "analyzed_count": 592,
+    "mention_count": 1430,
+    "story_count": 1287,
+    "analyzed_count": 595,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -197,6 +197,7 @@
     "Tribute Archive",
     "Undercurrent News",
     "Universitetet i Bergen",
+    "Universitetsavisa",
     "VG",
     "Vesterålnytt",
     "Via Ritzau",
@@ -247,12 +248,12 @@
       "headline": "Schouw & Co. share buy-back programme, week 18 2026 - Yahoo Finance Singapore",
       "story_summary": "Schouw & Co. announces its share buy-back activity for week 18 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group through its repurchase programme.",
       "first_seen": "2026-05-04T14:00:00+00:00",
-      "last_seen": "2026-05-09T11:24:32+00:00",
+      "last_seen": "2026-05-11T12:46:55+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -748,6 +749,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1309,
+      "headline": "BioMar Group A/S has filed an IPO. - marketscreener.com",
+      "story_summary": "BioMar Group A/S, the aquaculture feed producer, has filed for an initial public offering. The move represents a significant capital markets milestone for the Aarhus-based company.",
+      "first_seen": "2026-05-01T07:00:00+00:00",
+      "last_seen": "2026-05-01T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -2032,6 +2047,20 @@
       "id": 799,
       "headline": "Ordfører raser: – Fryktelig kritisk til sirkuset som er satt i gang - agderposten.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWFWVDBVQk5jVW5BYlV2M3NfeDRMMUdTOXBvRUs1ZGR0YWRVcWZQT0ZnSnVjdW5LSlQ5NnRJN3FOWVo3WGhfbW9lMTdScWxFbDZhZHRqZVBJd3pvVE1rQ2VyV1BFRi1pZVFub19JTUtYcWFESHhzTkpBVHlZeDNKX09uSDRUWHNoYWJvWjE5RlFZQTl0Z2dzZ0lxdTBqSHF0UWU2TlQ0aFdyYTFfQ0E?oc=5\" target=\"_blank\">Ordfører raser: – Fryktelig kritisk til sirkuset som er satt i gang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">agderposten.no</font>",
+      "first_seen": "2026-03-12T07:00:00+00:00",
+      "last_seen": "2026-03-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1308,
+      "headline": "Økonomi og næringsliv, Hjelmeland | Næring – ja, men på kva premissar? - Strandbuen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVDB3bTExSVlHbXNmaERwdUZlSkdhSUE4WG15VG11eTB3MVRiMTA5QUp6eGZWdUtMUlVPQjBMN2tkanlndGhWWGFpcjgwZWk3ZFFfNDRvd2h1QWtnMHp5ckF1RUlOSnAzWUhRaFZlZXJmYVNJODFfN2lDQQ?oc=5\" target=\"_blank\">Økonomi og næringsliv, Hjelmeland | Næring – ja, men på kva premissar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Strandbuen</font>",
       "first_seen": "2026-03-12T07:00:00+00:00",
       "last_seen": "2026-03-12T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -6949,15 +6978,15 @@
     },
     {
       "id": 677,
-      "headline": "Skretting Chile convoca a su primer evento de Sostenibilidad e Innovación - aqua.cl",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW5fbzQtd0VlN2R6Tjh0VVM4SGI2dXVrTHpuS1BQVUlZanFLZDBGZVc0YTVSTUMzWndueEFZazFNaDVrSHVZejFQcVFSa3FxMWZoam1MTktQOW8xb0pnakFZbkYySldKajFRSlhUOG92MkIwTXo3VlpuaHJaeFRaSWZxTWhpeGdqQnNrR0w3SEk0N0NMdzhhQmhn?oc=5\" target=\"_blank\">Skretting Chile convoca a su primer evento de Sostenibilidad e Innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
-      "first_seen": "2025-07-08T07:00:00+00:00",
+      "headline": "Skretting Chile anuncia su primer evento de sostenibilidad e innovación - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXFhSHhSM3RwekhMYy0wRkFPNkEzU0hKTlVRTlJVbk9nYUdFRVAweU9LdVRaZ0NlaEdYcUpMZFFsc2w5ZC1lMHc5Qkp3MzV6WEhmVGdZcURPUktCOW1Hc3RfRndpSGFadUtnQmc1Uk90UnVlMGoxZ0E0bFkxbVhDNVUyV2d0WnpGQnBXZFVjNXZINDNtZzYxbEdZNUVXYkZuX0ZUcGdMY0Y?oc=5\" target=\"_blank\">Skretting Chile anuncia su primer evento de sostenibilidad e innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2025-07-07T19:08:10+00:00",
       "last_seen": "2025-07-08T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -12679,6 +12708,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1307,
+      "headline": "BioMar, Icelandic seafood giant to build net-zero aquaculture feed facility - intrafish.com",
+      "story_summary": "BioMar and an Icelandic seafood company are partnering to construct a net-zero aquaculture feed production facility. The project represents a sustainability-focused expansion for BioMar's operations in the region and aligns with industry trends toward environmentally responsible aquaculture inputs.\n      BioMar is building a net-zero aquaculture feed facility with an Icelandic seafood partner, signaling the company's commitment to sustainable production practices in the sector. This represents a strategic investment in decarbonized feed manufacturing for farmed seafood production. The move is described as combining BioMar's feed expertise with Icelandic resources and priorities, reflecting market demand for lower-carbon aquaculture inputs. The deal underscores the aquaculture feed industry's shift toward net-zero production methods to support farmed fish and shrimp producers seeking sustainable supply chains. BioMar operates globally with regional production facilities and this project expands its presence in the northern Atlantic region. The net-zero facility represents capital investment and operational innovation in aquaculture sustainability.\n            The net-zero facility represents a significant sustainability initiative marking BioMar's commitment to decarbonized aquaculture feed production. This strategic partnership with an Icelandic company signals growing market demand for environmentally responsible feed products in salmon and seafood farming.\n                    The facility is being built to net-zero standards. BioMar is partnering with an Icelandic seafood company on this project. The venture aligns with global sustainability trends in aquaculture. The facility will support regional aquaculture producers seeking lower-carbon feed inputs. BioMar continues expanding its geographic footprint and product sustainability profile.BioMar is investing in net-zero aquaculture feed manufacturing. The company is partnering with an Icelandic seafood producer. The facility will serve regional salmon and seafood farmers. The project reflects industry-wide movement toward sustainable aquaculture inputs. BioMar's expansion strengthens its market position in northern Atlantic aquaculture regions., ",
+      "first_seen": "2022-08-15T07:00:00+00:00",
+      "last_seen": "2022-08-15T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 71,
       "headline": "Biomar satser på kompetanse - Bladet Vesterålen",
       "story_summary": "BioMar is prioritizing competence-building and workforce development initiatives. The article highlights the company's strategic focus on employee skills and organizational capacity in the Vesterålen region of Norway. Note: The full article text was not provided, so this analysis is based on the title and available metadata only. The emphasis on 'competence' (kompetanse) suggests a business investment story rather than critical coverage, warranting a positive sentiment assessment. However, with limited source material, confidence is moderate rather than high. The company itself is not the sole focus of the piece (secondary rather than primary prominence)—it appears to be one element within a broader narrative about regional development or industry trends. BioMar's global presence in Norway, particularly through its Vesterålen operations, makes regional coverage newsworthy. Without access to the full article body, claims and quotations cannot be reliably extracted, so those fields are omitted per instructions not to invent unsupported details.",
@@ -13993,6 +14036,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1306,
+      "headline": "Skretting blir rektor ved Høgskolen i Innlandet - Universitetsavisa",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUZHSjlDNWtQV3UtQ08tQ3E3VHlCdWtydFBPUUFQX19Ya2s0NDEtVXVwZ3pORlBxTGExVk1lOFRPc3JIZkhmeDkxSXlabXlCVTVpYzFoWFRvSWkwSFpQYmVIX1AtWjMxWll4ZzVnZmhSdkU0QXRKdHh4MVozRnZzVzEtNG9XNUc3R3c5Q1M0aWtmMW5RSC1QMnRHWQ?oc=5\" target=\"_blank\">Skretting blir rektor ved Høgskolen i Innlandet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Universitetsavisa</font>",
+      "first_seen": "2021-03-06T16:23:34+00:00",
+      "last_seen": "2021-03-06T16:23:34+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 490,
@@ -51462,6 +51519,148 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTREUFpWeTRjOUJjVllvcjBBclREd0dKUFhleGlZNjVyZElmeUg0VHNJUzZoOFZzcDhLRlNXZzFRcXZTN2QwVzAtWTMzMnl5RmY2T1ZVaDBVYjQyalJaTW80UV9GanhScWFEdjViSXdLeVBfdHNfcHhlOFpJSjc1cg?oc=5\" target=\"_blank\">54’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
+    },
+    {
+      "id": 47274,
+      "story_id": 1309,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR3AxS3JCS2hySEZWN3BjTG45OVVncDA4SlNBcUZUa1pMX0hWMUlfVlF4WXRVeGF6WnNsUVlaWXJnejV5LUZCb0JOX1NWSDdJN3JvNHhRS1diZGM1WXdBZHdiQVFfSlItLVBqWDRTNXNoWl9Ud3BTdDBUZ05iOXNHdThKdUxIeHFTSldWOHdTZw?oc=5",
+      "title": "BioMar Group A/S has filed an IPO. - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "published_at": "2026-05-01T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar Group A/S proceeds with initial public offering",
+      "key_claims": [
+        "BioMar Group A/S has filed for an IPO"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group A/S, the aquaculture feed producer, has filed for an initial public offering. The move represents a significant capital markets milestone for the Aarhus-based company."
+    },
+    {
+      "id": 47638,
+      "story_id": 1045,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdkVPRkY1cDVQY1hLMEpWZHJNVnQwazM2eWpjQnFtZmdLZzZvU3RZUUN4Z21KNW14V1VLM0tLVHZnX1lUQ19LMGdvdGVhQmhDN3Z5UUcwUXd2bC1jOVpodnV0RkxUeEgtWjkydFFfdjdhUTRfb0lmMnVmYWE3TFBQZk5zRWxEa3lKbnU3aTB5bUFaWW9RRkRheU81V0ZSZHVaYlhFd3pJWE9BWGdKOG1od2FNel83allnblVUUlN30gHDAUFVX3lxTFBkV0UyVkhVNnZvbmdzY0Y3SnB6V1BrRGZtSnlxVVhRYVFteU1iallLMWxXZzRPNFpDaC1tVm91TEM5YWZmZk00Qm1GRHFnZUZSN2xLNFQ2V1h6eWJQdUF4ckhpa3B5TUdjcEs2dkpvYmR5NF94VWl6RUVrdkNTRks1RjFGR2dmazdmMkgzMGNxY2dSR2pIQV9sSTRSbnNhWEUzNXhiTnFsRk1qNnUwU2FuT0ZFRWQ0YTl0c1ZYNFA2c3JEUQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 19 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "published_at": "2026-05-11T12:46:55+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buyback programme in week 19 2026",
+      "key_claims": [
+        "Schouw & Co. conducted a share repurchase programme during week 19 of 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co. announced its share buyback programme activity for week 19 of 2026. The article reports on the company's capital allocation and shareholder return initiative during this period."
+    },
+    {
+      "id": 47785,
+      "story_id": 1307,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFVLdEk4V093bmRTMkFCVGRFYXVXV2xKa3hOVXNjZ3JvTUZtcnNUTmRfSU9NeW94N3NpMTZ4ZlVRNkNZRDNMZzdlWWFoWDhuMk5yZmJjNG9MTnRUWmdzZmtUR09aWjlFSkdpWXlTZkZZNmNHS0pnbUtNbGREdzBENGRmeFA1Qmc4UVBPNXd2MlBKYVRncC1hb1RKVjhfTnJhWm5jM2NOVTh2MDFXSGJIYzVnakZmbTd1?oc=5",
+      "title": "BioMar, Icelandic seafood giant to build net-zero aquaculture feed facility - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2022-08-15T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar and Icelandic partner to build net-zero feed facility",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar and an Icelandic seafood company are partnering to construct a net-zero aquaculture feed production facility. The project represents a sustainability-focused expansion for BioMar's operations in the region and aligns with industry trends toward environmentally responsible aquaculture inputs.\n      BioMar is building a net-zero aquaculture feed facility with an Icelandic seafood partner, signaling the company's commitment to sustainable production practices in the sector. This represents a strategic investment in decarbonized feed manufacturing for farmed seafood production. The move is described as combining BioMar's feed expertise with Icelandic resources and priorities, reflecting market demand for lower-carbon aquaculture inputs. The deal underscores the aquaculture feed industry's shift toward net-zero production methods to support farmed fish and shrimp producers seeking sustainable supply chains. BioMar operates globally with regional production facilities and this project expands its presence in the northern Atlantic region. The net-zero facility represents capital investment and operational innovation in aquaculture sustainability.\n            The net-zero facility represents a significant sustainability initiative marking BioMar's commitment to decarbonized aquaculture feed production. This strategic partnership with an Icelandic company signals growing market demand for environmentally responsible feed products in salmon and seafood farming.\n                    The facility is being built to net-zero standards. BioMar is partnering with an Icelandic seafood company on this project. The venture aligns with global sustainability trends in aquaculture. The facility will support regional aquaculture producers seeking lower-carbon feed inputs. BioMar continues expanding its geographic footprint and product sustainability profile.BioMar is investing in net-zero aquaculture feed manufacturing. The company is partnering with an Icelandic seafood producer. The facility will serve regional salmon and seafood farmers. The project reflects industry-wide movement toward sustainable aquaculture inputs. BioMar's expansion strengthens its market position in northern Atlantic aquaculture regions., "
+    },
+    {
+      "id": 47965,
+      "story_id": 1308,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVDB3bTExSVlHbXNmaERwdUZlSkdhSUE4WG15VG11eTB3MVRiMTA5QUp6eGZWdUtMUlVPQjBMN2tkanlndGhWWGFpcjgwZWk3ZFFfNDRvd2h1QWtnMHp5ckF1RUlOSnAzWUhRaFZlZXJmYVNJODFfN2lDQQ?oc=5",
+      "title": "Økonomi og næringsliv, Hjelmeland | Næring – ja, men på kva premissar? - Strandbuen",
+      "source_name": "Strandbuen",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-03-12T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVDB3bTExSVlHbXNmaERwdUZlSkdhSUE4WG15VG11eTB3MVRiMTA5QUp6eGZWdUtMUlVPQjBMN2tkanlndGhWWGFpcjgwZWk3ZFFfNDRvd2h1QWtnMHp5ckF1RUlOSnAzWUhRaFZlZXJmYVNJODFfN2lDQQ?oc=5\" target=\"_blank\">Økonomi og næringsliv, Hjelmeland | Næring – ja, men på kva premissar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Strandbuen</font>"
+    },
+    {
+      "id": 48032,
+      "story_id": 1306,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUZHSjlDNWtQV3UtQ08tQ3E3VHlCdWtydFBPUUFQX19Ya2s0NDEtVXVwZ3pORlBxTGExVk1lOFRPc3JIZkhmeDkxSXlabXlCVTVpYzFoWFRvSWkwSFpQYmVIX1AtWjMxWll4ZzVnZmhSdkU0QXRKdHh4MVozRnZzVzEtNG9XNUc3R3c5Q1M0aWtmMW5RSC1QMnRHWQ?oc=5",
+      "title": "Skretting blir rektor ved Høgskolen i Innlandet - Universitetsavisa",
+      "source_name": "Universitetsavisa",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2021-03-06T16:23:34+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUZHSjlDNWtQV3UtQ08tQ3E3VHlCdWtydFBPUUFQX19Ya2s0NDEtVXVwZ3pORlBxTGExVk1lOFRPc3JIZkhmeDkxSXlabXlCVTVpYzFoWFRvSWkwSFpQYmVIX1AtWjMxWll4ZzVnZmhSdkU0QXRKdHh4MVozRnZzVzEtNG9XNUc3R3c5Q1M0aWtmMW5RSC1QMnRHWQ?oc=5\" target=\"_blank\">Skretting blir rektor ved Høgskolen i Innlandet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Universitetsavisa</font>"
+    },
+    {
+      "id": 48152,
+      "story_id": 677,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXFhSHhSM3RwekhMYy0wRkFPNkEzU0hKTlVRTlJVbk9nYUdFRVAweU9LdVRaZ0NlaEdYcUpMZFFsc2w5ZC1lMHc5Qkp3MzV6WEhmVGdZcURPUktCOW1Hc3RfRndpSGFadUtnQmc1Uk90UnVlMGoxZ0E0bFkxbVhDNVUyV2d0WnpGQnBXZFVjNXZINDNtZzYxbEdZNUVXYkZuX0ZUcGdMY0Y?oc=5",
+      "title": "Skretting Chile anuncia su primer evento de sostenibilidad e innovación - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2025-07-07T19:08:10+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXFhSHhSM3RwekhMYy0wRkFPNkEzU0hKTlVRTlJVbk9nYUdFRVAweU9LdVRaZ0NlaEdYcUpMZFFsc2w5ZC1lMHc5Qkp3MzV6WEhmVGdZcURPUktCOW1Hc3RfRndpSGFadUtnQmc1Uk90UnVlMGoxZ0E0bFkxbVhDNVUyV2d0WnpGQnBXZFVjNXZINDNtZzYxbEdZNUVXYkZuX0ZUcGdMY0Y?oc=5\" target=\"_blank\">Skretting Chile anuncia su primer evento de sostenibilidad e innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
     }
   ],
   "share_of_voice": {
@@ -53015,7 +53214,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2021-W12",
@@ -53467,6 +53666,14 @@
       },
       {
         "week": "2022-W32",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2022-W33",
         "Aller Aqua": 0,
         "BioMar": 1,
         "Cargill": 0,
@@ -54503,7 +54710,7 @@
         "BioMar": 6,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2025-W29",
@@ -54783,7 +54990,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2026-W12",
@@ -54836,7 +55043,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 63,
+        "BioMar": 64,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -54848,6 +55055,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 13
+      },
+      {
+        "week": "2026-W20",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
@@ -54857,7 +55072,7 @@
       },
       {
         "company": "BioMar",
-        "count": 592
+        "count": 595
       },
       {
         "company": "Cargill",
@@ -54869,7 +55084,7 @@
       },
       {
         "company": "Skretting",
-        "count": 460
+        "count": 463
       }
     ]
   }
