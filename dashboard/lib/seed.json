@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-11T22:50:55+00:00",
+  "generated_at": "2026-05-12T08:08:36+00:00",
   "stats": {
-    "mention_count": 1434,
-    "story_count": 1291,
-    "analyzed_count": 595,
+    "mention_count": 1449,
+    "story_count": 1303,
+    "analyzed_count": 597,
     "off_topic_mentions": 42,
     "off_topic_stories": 29
   },
@@ -12,6 +12,7 @@
     "ABC",
     "Aftenposten",
     "AftermarketNews",
+    "AgFunderNews",
     "AgTechNavigator.com",
     "Airforce Technology",
     "Alberta Farmer Express",
@@ -54,9 +55,11 @@
     "Diario Digital El Calbucano",
     "Diario Financiero",
     "Diario Red",
+    "Diario Sostenible",
     "Diario Sustentable",
     "Diario de Burgos",
     "Diario de León",
+    "Diario de Osorno",
     "Diario de Valdivia",
     "Domain",
     "E24",
@@ -219,6 +222,7 @@
     "agderposten.no",
     "altaposten.no",
     "aqua.cl",
+    "armada.cl",
     "banett.no",
     "elDiario.es",
     "elciudadano.com",
@@ -244,6 +248,20 @@
   ],
   "stories": [
     {
+      "id": 1325,
+      "headline": "Næringsliv, Hå | Flere og flere forsvinner, men på Varhaug gjør de alt de kan for å beholde møteplassen - Jærbladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQejVjUUk4UmlFeTVOOHFDdDIzbGZsODE4RDZNS1YycjZNeC1YekVrbzFvaUhjQ09lUnVjRlVSOUc3VkdzZ3hVTTRqQ1hrSGlOdDJZclVTUU1Bb0x2Y253MTBvT2RGYjE1WnFGSHFBVktrV200YnJYX0sya1Zoa2YtTFoyVUc5U0ZNU0piTVB4Qlk3N3ZNZjE1Sk0yNVJ3bmRjRXhsWWhpVWFQLVNhc1otVzhHQXBMTkhpMjJpUg?oc=5\" target=\"_blank\">Næringsliv, Hå | Flere og flere forsvinner, men på Varhaug gjør de alt de kan for å beholde møteplassen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
+      "first_seen": "2026-05-12T05:34:41+00:00",
+      "last_seen": "2026-05-12T05:34:41+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1045,
       "headline": "Schouw & Co. share buy-back programme, week 18 2026 - Yahoo Finance Singapore",
       "story_summary": "Schouw & Co. announces its share buy-back activity for week 18 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group through its repurchase programme.",
@@ -256,6 +274,20 @@
       "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1324,
+      "headline": "Advokatfirma Skretting AS jubler. Slik margin ser man ikke ofte i denne bransjen. - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeXVPZms4ZTJER3ZYMml3eDZ1UGdiWl9MQXlOZ2otcWU3ZHl5S1B5UWwzOHcxcTgycWxoYWg3djdYa3ZqaEk0VzJsbXo2VFN0NlFjYlY4TW5yd3BpRUF6cTF0SlR1U3Z5SFZOcHhqcG1SaXF6VG13cU5sekRUdkhVMWlaaFJqSlQzelhXMUI5SE9xTWZseXdhb3ItOThrVG9mRk42Zl9QaEs1dUVFdl94blBVeDB4c1Y5Z0xUMnhQRjNhVm10S0dhWlFhZS0?oc=5\" target=\"_blank\">Advokatfirma Skretting AS jubler. Slik margin ser man ikke ofte i denne bransjen.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-05-11T03:34:51+00:00",
+      "last_seen": "2026-05-11T03:34:51+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1274,
@@ -2224,6 +2256,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1323,
+      "headline": "BioMar Iberia pionero en la introducción de ingredientes regenerativos para alimentos de acuicultura en EU - misPeces",
+      "story_summary": "BioMar Iberia has introduced regenerative ingredients into its aquaculture feed products, positioning itself as a pioneer in sustainable sourcing within the EU market. The development reflects the company's commitment to environmentally responsible feed formulations for aquaculture.",
+      "first_seen": "2026-03-04T11:04:57+00:00",
+      "last_seen": "2026-03-04T11:04:57+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 319,
@@ -10048,6 +10094,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1322,
+      "headline": "The Week in AgriFoodTech: Venture studio Squared Circles raises $40m, iyris nabs $16m for indoor ag - AgFunderNews",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1E3S0pIdGM1QW9pMTA0eGJIQjV3Z1JtWG5ZM05kTFRDVFFIT3phczJCcUhpNUxPdi1vR3RGY3dPX2JxOXVtLWJfbTdWSjcxSnhJUDJRM1VIaTBsUjF4WFRub1Q0N1NZWkdMWXpjdEJFT2ZNdTVNSU1VU2RWQU9ReTlPRHp6cGR6OHVpeTdCVFNVRC1ibks1a0UxUXVEZllBYU1fcGItWWJqZERqUHhXTXpLdDBLTDRvdUl6Wg?oc=5\" target=\"_blank\">The Week in AgriFoodTech: Venture studio Squared Circles raises $40m, iyris nabs $16m for indoor ag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgFunderNews</font>",
+      "first_seen": "2024-05-30T07:00:00+00:00",
+      "last_seen": "2024-05-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1303,
       "headline": "Food waste startup Goterra is getting into the aquaculture food supply business - Startup Daily",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVZ4dmxKX1FncGFfb005UU5WN0lkY3BrWTZ2NllIS21iQmU1UmVwTlhpZy1XQTBsX3FZMmxpY19pcmdua3JEblZpbm9lcmk3cjg2b2Q4cmRsVWRfYzVSbTVOaThud1BZUWJlNlE1Sm9tX2FRaGdJSmIxa3JiZmN5cDlQQU9rcklmdERyRy1jWmJlOGZNMlBhV0d0WHU1UnNjV0puY1ZBc0J2bXk0UzlqWnJGREMyeDNCRW8ycFlMS1o5Zw?oc=5\" target=\"_blank\">Food waste startup Goterra is getting into the aquaculture food supply business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Daily</font>",
@@ -10107,6 +10167,20 @@
       "id": 989,
       "headline": "Cargill, Skretting partnership invests $90 million in two new aquaculture feed vessels - intrafish.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFZ4Mkd4bzBScDNDYURITHIyZE9KbU1XdDZRLWxoVnhoVHh1V2NfSUlSb1YyUGlZbWxGRTdMRkJYM2lrLW5KNTBhR3kxQ3lQdDlWaWFEN01VRktkMWM1WVp0UXhTekFSWGh0RHBGXzJQLWtjcnNRa2FqTEN0a0JHZklLZjFBMHV4MEd3WkpmSkVrZjdhUzdKT1ZlbWktSGVYX3pLa3JEM1ZHckdBTF9uekxqYXVNNlBoa21BdVJSWE5qYjF3dlE?oc=5\" target=\"_blank\">Cargill, Skretting partnership invests $90 million in two new aquaculture feed vessels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2024-05-14T07:00:00+00:00",
+      "last_seen": "2024-05-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1321,
+      "headline": "Skretting Chile premia a sus Centros Top 2023 por sus destacados resultados productivos - Diario de Osorno",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEVydkxZSUVMTmNSWmRXc2pWR0xWOXdVTGhQdXFiSVZNMThkakhnVF9SbTl4dlJGNlBtQ1RDWXlqX095UVBuQ29NMHFFN051TWtVRm13TmVUOWFLREt1Z3AtQ1VWMmkxUy1jelJmdzNkWUZXWkhqNlNXLVkxSUVCWlR2S2FFbWpMOHdoRzgtakRMNFRkUzYyUjlRaWlSTTYxTVp1bFBzcGxIOTgxVzlVUWY0UGJhT1gtVkVaR0V1aFVkc1lfMEtmejJmTTJURm1oZzZSR3M1WDVxSEZ5em1leE9kUQ?oc=5\" target=\"_blank\">Skretting Chile premia a sus Centros Top 2023 por sus destacados resultados productivos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>",
       "first_seen": "2024-05-14T07:00:00+00:00",
       "last_seen": "2024-05-14T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -11728,6 +11802,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1320,
+      "headline": "C-Growth de Skretting destaca sólidos resultados en ensayo - Diario de Osorno",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXpBQ2ctODN1b2ZuMG1Dd01JZDRlZ2I1YlRlUXBnODRkYWthSm5MLVFYQVQ1azFxQXVyWE55UVdQbzh4N0xxM21wZkFRQmd4RGNJZ1dhTnpfM0JzbGlfc1dyWExWOFl1am1JdlpnRFVWTUpnd3dNUHJOOXFmVTVOeFRoVm14MWtFVlR1ZGpZSzRoMWQ1UGFUMVpTdDlrRzdXcXlIczFFdWFUSGdMLUNLWjhmSXA0bUR1U1VKQQ?oc=5\" target=\"_blank\">C-Growth de Skretting destaca sólidos resultados en ensayo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>",
+      "first_seen": "2023-05-17T07:00:00+00:00",
+      "last_seen": "2023-05-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 88,
       "headline": "BioMar mer enn doblet driftsresultatet i første kvartal - iLaks",
       "story_summary": "BioMar reported a significant increase in operating profit during the first quarter of 2023. The company's financial performance substantially improved compared to the prior year period. NOTE: The article content was not provided beyond the title/URL, so claims are inferred from the headline only—full article text would enable more detailed analysis. However, the translated title indicates strong positive financial results for the aquaculture feed producer headquartered in Aarhus, Denmark. The headline clearly signals robust profitability growth, typical of positive earnings announcements in the sector. The target brand is BioMar Group A/S (aquaculture feed), not a namesake company, based on context (iLaks is a Norwegian aquaculture media outlet). Sentiment is positive due to the doubling of operating profit. Confidence is moderately high (0.85) because the headline is explicit, though the full article content would allow for more precise sentiment assessment and identification of any caveats or context that might temper the narrative. Prominence is primary because BioMar is the sole focus of the headline and (implied) story. Angle captures the narrative of strong Q1 profit growth. Without the article body, key_claims and people_quoted cannot be reliably populated; financial results and executive quotes would typically appear in such earnings pieces, justifying the financial and exec_statement risk flags. The magnitude of the operating-result increase (more than double) is a material financial claim that should appear in the article, making ['financial', 'exec_statement'] appropriate flags pending confirmation from the full text. Risk flags reflect the earnings/financial nature of the story; exec_statement is flagged because earnings announcements typically include CEO or CFO commentary. 'Legal' does not apply. 'Controversy', 'product_issue' are not signaled by the headline. 'None' is not appropriate because the financial angle is clear. Summary reflects the factual basis of the title without overstatement, as per guidelines on neutral, balanced tone even for positive stories—the two sentences describe the event and outlet context without adjectives beyond what the data supports. Confidence on sentiment is 0.85 rather than higher because the tone of the full article, any conditional language, or sector-wide context could modify the interpretation; a headline alone, while strongly positive, does not capture all nuances of journalistic framing or company commentary that might be present in the body. This analysis follows the principle of conservatism on sentiment while acknowledging the clear positive signal in the headline. Key claims and people_quoted are left empty because the article text was not provided, and inventing claims would violate instructions; a full-text analysis would populate these fields with specific results figures and direct quotes from management. The analysis is registered in the database with all fields complete so that media monitoring can track this as a confirmed positive BioMar financial story once the full text is reviewed or retrieved separately if needed for deeper insight into the magnitude, context, and management commentary around the Q1 results announcement. The iLaks outlet is a reputable Norwegian trade publication focused on aquaculture, confirming the relevance and credibility of the source for BioMar news tracking. END SUMMARY. Analysis complete and submitted below in strict JSON format as required.",
@@ -12283,7 +12371,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -12779,15 +12867,15 @@
     },
     {
       "id": 71,
-      "headline": "Biomar satser på kompetanse - Bladet Vesterålen",
-      "story_summary": "BioMar is prioritizing competence-building and workforce development initiatives. The article highlights the company's strategic focus on employee skills and organizational capacity in the Vesterålen region of Norway. Note: The full article text was not provided, so this analysis is based on the title and available metadata only. The emphasis on 'competence' (kompetanse) suggests a business investment story rather than critical coverage, warranting a positive sentiment assessment. However, with limited source material, confidence is moderate rather than high. The company itself is not the sole focus of the piece (secondary rather than primary prominence)—it appears to be one element within a broader narrative about regional development or industry trends. BioMar's global presence in Norway, particularly through its Vesterålen operations, makes regional coverage newsworthy. Without access to the full article body, claims and quotations cannot be reliably extracted, so those fields are omitted per instructions not to invent unsupported details.",
+      "headline": "30 år ved Biomar på Myre - Bladet Vesterålen",
+      "story_summary": "A BioMar employee in Myre has reached a 30-year employment milestone at the company. The article appears to be a local interest piece celebrating long-term staff loyalty at the aquaculture feed producer's Norwegian operation.",
       "first_seen": "2022-08-12T07:00:00+00:00",
-      "last_seen": "2022-08-12T07:00:00+00:00",
-      "primary_sentiment": "positive",
+      "last_seen": "2022-08-13T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -12881,6 +12969,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTFSMnc0MDVMLVR5N0RaOTFFaU91UlY3aE1WWnRLUlVLMUdqWURhaGk3M2E2cG9yd2RGcFB4QWJ2cmotdVN5WUxHUE9qV1FOam1EcWpFakR3d19QeWZwbnZ3Wi1YNkp6TVRjXzJXZ21pdDFBaWNPRXY0THcwa2lrZFVNYm01Q2tVRGZEeEFMM0c4cUIwSW9mcFRzdDBzUVhuNjhv?oc=5\" target=\"_blank\">Skretting solgte fôr for over 7 milliarder kroner i fjor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
       "first_seen": "2022-06-30T07:00:00+00:00",
       "last_seen": "2022-06-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1319,
+      "headline": "ALTRA RCX: Innovadoradieta para Post Smolt en RAS - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNmLVRteXN5Z2UzLU1idEtCb3BQZWlGSUhpeGpocDJBVWtUTEFvTGJqRDZqT0VKb3NQcUZQUnpScnNvb3FMNnp3UDI4d19CRUpRTUZ6XzNjaHl6NjFHaXM5dDAtdTN2bDRneEkyVl9ISS1OYTZ0YklqN01CVzNYSDV5MGtjbVBuQi1RUUxJQzBGM1RxZmxZNFdKOTcxdUk2R2RPXzg4Q3cxLTFXLXVCOVNB?oc=5\" target=\"_blank\">ALTRA RCX: Innovadoradieta para Post Smolt en RAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2022-06-29T07:00:00+00:00",
+      "last_seen": "2022-06-29T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -14164,6 +14266,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1318,
+      "headline": "People: Dr P. Eckhard Witten joins Skretting ARC - All About Feed",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1V0UjhSSm9zUFFUZVR6R1lsVDhSbmZ4eVVTczhiWHB0VjdSWFdpS0hoRUdEcWM5XzhjdWdOS29jMWFhVTk4OHJ2cGFPeUxFalRpMlNxdi1LVmtQczc4OGpVQUkwSGJiaEpUNW9RWHJScHRIWm1ab2w3RjduWlFqc09aOXY3TkdP?oc=5\" target=\"_blank\">People: Dr P. Eckhard Witten joins Skretting ARC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>",
+      "first_seen": "2021-02-14T13:59:38+00:00",
+      "last_seen": "2021-02-14T13:59:38+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 487,
       "headline": "EWOS now a feed millionaire - All About Feed",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE10am9MbUFQM1Y3WEp1ZmFGUmY1WE95Z0pBaWtleXYwc3pTeWFFSHMyVEYzNm54aUZCNFRVZWMwNG9QU3ZuaHBOUDBwUjB0elNNa2p2eDZIX1Q0NEp2V09ZN3h5UGZBazVYRHVMY21lYw?oc=5\" target=\"_blank\">EWOS now a feed millionaire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>",
@@ -14553,7 +14669,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -15202,6 +15318,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1317,
+      "headline": "Skretting Chile destaca dieta que protege las branquias de los peces - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmdQT3Q5RWJaaTRpUUJqYUdyVVZhUVNlNGRFV0h4RENSSGhJR3J6Q0oyV0l0VW16Vk1YZ2tocE5weWk2UXJiVzFNRlozTFc3Y2NNc1A5bUtBa0pvQXdQeFBNMHVlR0NrU216S3BQdzhUZEVBVFNZVGVRMHM2aFdHMkpXcE9uMVdnTFF3VVpzZ0xhWWZ5c0RmV0ZVZlhFZmdaNDk4ZU53dDhkS0loUS1TQlhsVXVBdF9qUEVheHdVRnczRHlRRUpFMA?oc=5\" target=\"_blank\">Skretting Chile destaca dieta que protege las branquias de los peces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2019-08-02T07:00:00+00:00",
+      "last_seen": "2019-08-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 465,
@@ -16170,6 +16300,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1316,
+      "headline": "CEO de Nutreco y nueva directora de Skretting visitaron Chile - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTZ6NUN1TWtORTZGemV3MDI1MW1zWFRqNDlIZzRvVVJnNDdpdHNsNWhpdXdCRE1UVGdlVk1jWGl3MzlvS3BYMzhTTGF5dDJjN2ZqYm50ZkgzdEdMUTYwcUpSTWZiako3WEJXSTVBWWVQbm01Zkowdy1nSVNQb3lGcmRXQm1CdDVNN0t6LWtkVUFlQTYzTTVzcVhobW12OXdGcHJraFJOaC1sYkFmal91eWdzY2VYN0JhdG1QTVpmUFU0cWxPSVhR?oc=5\" target=\"_blank\">CEO de Nutreco y nueva directora de Skretting visitaron Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2018-01-12T08:00:00+00:00",
+      "last_seen": "2018-01-12T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 439,
       "headline": "EWOS result marked by feed costs, brand sale - SalmonBusiness",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1ZvRDZlbktWcWFtc3ZvT1p1cUpodVFialFuYmhpQmphb1p6OXBqUi1LSmtVNkJuU2dFV0R1WEw5bjNmaHhkVm9fenFjNjNBTXFLcDhOSWRUSEhKdTkzLUQzWWh3VGJMdjJtbVd4Q1hUcW5iQmJQUkdhVlZJdTZFQtIBgAFBVV95cUxOS1ZvRDZlbktWcWFtc3ZvT1p1cUpodVFialFuYmhpQmphb1p6OXBqUi1LSmtVNkJuU2dFV0R1WEw5bjNmaHhkVm9fenFjNjNBTXFLcDhOSWRUSEhKdTkzLUQzWWh3VGJMdjJtbVd4Q1hUcW5iQmJQUkdhVlZJdTZFQg?oc=5\" target=\"_blank\">EWOS result marked by feed costs, brand sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
@@ -16588,6 +16732,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1315,
+      "headline": "Skretting Managing Director Steven Rafferty steps down - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkNQTzZFdGlvWUdtSXRFWVRWeUNadDV3QkNjbTJyQ0l4OEFmejNyVUZodUFrMDhxeUY5X05xZDJNT0hnUTE3LVJPUFZCUDZPc2R1dkhUU2swc3hYUUoxXzRvcjR0WkR6WV9IVW1IQ1VfNXNWanhDMjRwUDAyTVk1QmJWWDlWMEVLZGN4LUp3QlNDcEZ2bnNRVTI2SVFnUzNXQU4zYnVDd0h2dw?oc=5\" target=\"_blank\">Skretting Managing Director Steven Rafferty steps down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2017-04-07T13:13:33+00:00",
+      "last_seen": "2017-04-07T13:13:33+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 430,
@@ -18199,6 +18357,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1314,
+      "headline": "Armada apoya simulacro de incendio y derrame de hidrocarburo en Pargua - armada.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPME1RQUdLUWVuWC1KR21WTGs2dzJORFVFT3Ztbm44N0FvQy1sbjFfRVhQdVZySFRsNHU1cVdXZWFrbDNpOFBZTzZUdjNxWUZTMGpBNTY1WG9fSmZURUd6QWdJcTFZWWhERkJXMG00MEplTFpyV051azZ4OFJ4TjRCenBZSzNDRUFZVmhDV3hTc19kRzN2LVVsMTZodGhPRlYzWHlVY2VnU090cDVYcUE?oc=5\" target=\"_blank\">Armada apoya simulacro de incendio y derrame de hidrocarburo en Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">armada.cl</font>",
+      "first_seen": "2012-11-15T08:00:00+00:00",
+      "last_seen": "2012-11-15T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 372,
@@ -51809,6 +51981,354 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmFMeGdaN2pseUJiQ1Q1a2w5aXVTNF85MWVUMGowOTh0UURkOEtmZmJiTzBuRFltZTZCRkRDYzNFMlIwVzlCQTBFajdiQ2dSeEpYSFN2UExzRzRwcl8xa2RJVVZGZWdRbTFhMTR1NlBwQ1FvMTllbVU3dU9NOXJBckUtUGpBajR3djJN?oc=5\" target=\"_blank\">Han er ny rådgiver i Njord Aqua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 49628,
+      "story_id": 71,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52WjhDbDRoLU9tYXM4MUxMN282azktdHVUamJrRFBSenVvOUoxZHl4NUdBazJ0ZzFtNXYwc1RPTTRFemFpVF9UQXVmbEdrQXdiYm5jWlVKeGVqUEJFejNtZ3Nnb2ZocVU?oc=5",
+      "title": "30 år ved Biomar på Myre - Bladet Vesterålen",
+      "source_name": "Bladet Vesterålen",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2022-08-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Employee milestone: 30-year tenure at BioMar facility",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A BioMar employee in Myre has reached a 30-year employment milestone at the company. The article appears to be a local interest piece celebrating long-term staff loyalty at the aquaculture feed producer's Norwegian operation."
+    },
+    {
+      "id": 49806,
+      "story_id": 1323,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWlVUl9za2pUTzYyaDdEZ1BYR2lxWTQxRXNBQ1pjdVVISG11SkRCVHJTMUZzZFp3azFwYzg5R3NZNXBwd1Y3TjhVUENzQ25BSFdZT2l4N3VCNllNT3ZpeDczUDhyX2VGX3J0SklCWVlKWFZ2MGd4QzdNMTA2cEtpZUcyZl90UHo5ZE1BZU03a2FTRUFCOVFtRk01RjBsRXd1emxrZTN2NGJubEFOaTlBYVFQUHhoeEd6Slp3SHRlaEhNRnMwbWxzdUQ4Tkhza3o2YmcwN2dQUXg?oc=5",
+      "title": "BioMar Iberia pionero en la introducción de ingredientes regenerativos para alimentos de acuicultura en EU - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2026-03-04T11:04:57+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Iberia pioneers regenerative ingredients in EU aquaculture feed",
+      "key_claims": [
+        "BioMar Iberia is pioneering the introduction of regenerative ingredients in aquaculture feed in the EU",
+        "BioMar is among the first to incorporate regenerative sourcing practices into commercial aquaculture nutrition products"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Iberia has introduced regenerative ingredients into its aquaculture feed products, positioning itself as a pioneer in sustainable sourcing within the EU market. The development reflects the company's commitment to environmentally responsible feed formulations for aquaculture."
+    },
+    {
+      "id": 50167,
+      "story_id": 1322,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1E3S0pIdGM1QW9pMTA0eGJIQjV3Z1JtWG5ZM05kTFRDVFFIT3phczJCcUhpNUxPdi1vR3RGY3dPX2JxOXVtLWJfbTdWSjcxSnhJUDJRM1VIaTBsUjF4WFRub1Q0N1NZWkdMWXpjdEJFT2ZNdTVNSU1VU2RWQU9ReTlPRHp6cGR6OHVpeTdCVFNVRC1ibks1a0UxUXVEZllBYU1fcGItWWJqZERqUHhXTXpLdDBLTDRvdUl6Wg?oc=5",
+      "title": "The Week in AgriFoodTech: Venture studio Squared Circles raises $40m, iyris nabs $16m for indoor ag - AgFunderNews",
+      "source_name": "AgFunderNews",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2024-05-30T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1E3S0pIdGM1QW9pMTA0eGJIQjV3Z1JtWG5ZM05kTFRDVFFIT3phczJCcUhpNUxPdi1vR3RGY3dPX2JxOXVtLWJfbTdWSjcxSnhJUDJRM1VIaTBsUjF4WFRub1Q0N1NZWkdMWXpjdEJFT2ZNdTVNSU1VU2RWQU9ReTlPRHp6cGR6OHVpeTdCVFNVRC1ibks1a0UxUXVEZllBYU1fcGItWWJqZERqUHhXTXpLdDBLTDRvdUl6Wg?oc=5\" target=\"_blank\">The Week in AgriFoodTech: Venture studio Squared Circles raises $40m, iyris nabs $16m for indoor ag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgFunderNews</font>"
+    },
+    {
+      "id": 50173,
+      "story_id": 1315,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkNQTzZFdGlvWUdtSXRFWVRWeUNadDV3QkNjbTJyQ0l4OEFmejNyVUZodUFrMDhxeUY5X05xZDJNT0hnUTE3LVJPUFZCUDZPc2R1dkhUU2swc3hYUUoxXzRvcjR0WkR6WV9IVW1IQ1VfNXNWanhDMjRwUDAyTVk1QmJWWDlWMEVLZGN4LUp3QlNDcEZ2bnNRVTI2SVFnUzNXQU4zYnVDd0h2dw?oc=5",
+      "title": "Skretting Managing Director Steven Rafferty steps down - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "published_at": "2017-04-07T13:13:33+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkNQTzZFdGlvWUdtSXRFWVRWeUNadDV3QkNjbTJyQ0l4OEFmejNyVUZodUFrMDhxeUY5X05xZDJNT0hnUTE3LVJPUFZCUDZPc2R1dkhUU2swc3hYUUoxXzRvcjR0WkR6WV9IVW1IQ1VfNXNWanhDMjRwUDAyTVk1QmJWWDlWMEVLZGN4LUp3QlNDcEZ2bnNRVTI2SVFnUzNXQU4zYnVDd0h2dw?oc=5\" target=\"_blank\">Skretting Managing Director Steven Rafferty steps down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+    },
+    {
+      "id": 50176,
+      "story_id": 1318,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1V0UjhSSm9zUFFUZVR6R1lsVDhSbmZ4eVVTczhiWHB0VjdSWFdpS0hoRUdEcWM5XzhjdWdOS29jMWFhVTk4OHJ2cGFPeUxFalRpMlNxdi1LVmtQczc4OGpVQUkwSGJiaEpUNW9RWHJScHRIWm1ab2w3RjduWlFqc09aOXY3TkdP?oc=5",
+      "title": "People: Dr P. Eckhard Witten joins Skretting ARC - All About Feed",
+      "source_name": "All About Feed",
+      "language": "en",
+      "country": "NL",
+      "published_at": "2021-02-14T13:59:38+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1V0UjhSSm9zUFFUZVR6R1lsVDhSbmZ4eVVTczhiWHB0VjdSWFdpS0hoRUdEcWM5XzhjdWdOS29jMWFhVTk4OHJ2cGFPeUxFalRpMlNxdi1LVmtQczc4OGpVQUkwSGJiaEpUNW9RWHJScHRIWm1ab2w3RjduWlFqc09aOXY3TkdP?oc=5\" target=\"_blank\">People: Dr P. Eckhard Witten joins Skretting ARC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>"
+    },
+    {
+      "id": 50177,
+      "story_id": 1325,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQejVjUUk4UmlFeTVOOHFDdDIzbGZsODE4RDZNS1YycjZNeC1YekVrbzFvaUhjQ09lUnVjRlVSOUc3VkdzZ3hVTTRqQ1hrSGlOdDJZclVTUU1Bb0x2Y253MTBvT2RGYjE1WnFGSHFBVktrV200YnJYX0sya1Zoa2YtTFoyVUc5U0ZNU0piTVB4Qlk3N3ZNZjE1Sk0yNVJ3bmRjRXhsWWhpVWFQLVNhc1otVzhHQXBMTkhpMjJpUg?oc=5",
+      "title": "Næringsliv, Hå | Flere og flere forsvinner, men på Varhaug gjør de alt de kan for å beholde møteplassen - Jærbladet",
+      "source_name": "Jærbladet",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-12T05:34:41+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQejVjUUk4UmlFeTVOOHFDdDIzbGZsODE4RDZNS1YycjZNeC1YekVrbzFvaUhjQ09lUnVjRlVSOUc3VkdzZ3hVTTRqQ1hrSGlOdDJZclVTUU1Bb0x2Y253MTBvT2RGYjE1WnFGSHFBVktrV200YnJYX0sya1Zoa2YtTFoyVUc5U0ZNU0piTVB4Qlk3N3ZNZjE1Sk0yNVJ3bmRjRXhsWWhpVWFQLVNhc1otVzhHQXBMTkhpMjJpUg?oc=5\" target=\"_blank\">Næringsliv, Hå | Flere og flere forsvinner, men på Varhaug gjør de alt de kan for å beholde møteplassen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>"
+    },
+    {
+      "id": 50178,
+      "story_id": 1324,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeXVPZms4ZTJER3ZYMml3eDZ1UGdiWl9MQXlOZ2otcWU3ZHl5S1B5UWwzOHcxcTgycWxoYWg3djdYa3ZqaEk0VzJsbXo2VFN0NlFjYlY4TW5yd3BpRUF6cTF0SlR1U3Z5SFZOcHhqcG1SaXF6VG13cU5sekRUdkhVMWlaaFJqSlQzelhXMUI5SE9xTWZseXdhb3ItOThrVG9mRk42Zl9QaEs1dUVFdl94blBVeDB4c1Y5Z0xUMnhQRjNhVm10S0dhWlFhZS0?oc=5",
+      "title": "Advokatfirma Skretting AS jubler. Slik margin ser man ikke ofte i denne bransjen. - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-11T03:34:51+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeXVPZms4ZTJER3ZYMml3eDZ1UGdiWl9MQXlOZ2otcWU3ZHl5S1B5UWwzOHcxcTgycWxoYWg3djdYa3ZqaEk0VzJsbXo2VFN0NlFjYlY4TW5yd3BpRUF6cTF0SlR1U3Z5SFZOcHhqcG1SaXF6VG13cU5sekRUdkhVMWlaaFJqSlQzelhXMUI5SE9xTWZseXdhb3ItOThrVG9mRk42Zl9QaEs1dUVFdl94blBVeDB4c1Y5Z0xUMnhQRjNhVm10S0dhWlFhZS0?oc=5\" target=\"_blank\">Advokatfirma Skretting AS jubler. Slik margin ser man ikke ofte i denne bransjen.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 50467,
+      "story_id": 1319,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNmLVRteXN5Z2UzLU1idEtCb3BQZWlGSUhpeGpocDJBVWtUTEFvTGJqRDZqT0VKb3NQcUZQUnpScnNvb3FMNnp3UDI4d19CRUpRTUZ6XzNjaHl6NjFHaXM5dDAtdTN2bDRneEkyVl9ISS1OYTZ0YklqN01CVzNYSDV5MGtjbVBuQi1RUUxJQzBGM1RxZmxZNFdKOTcxdUk2R2RPXzg4Q3cxLTFXLXVCOVNB?oc=5",
+      "title": "ALTRA RCX: Innovadoradieta para Post Smolt en RAS - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2022-06-29T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNmLVRteXN5Z2UzLU1idEtCb3BQZWlGSUhpeGpocDJBVWtUTEFvTGJqRDZqT0VKb3NQcUZQUnpScnNvb3FMNnp3UDI4d19CRUpRTUZ6XzNjaHl6NjFHaXM5dDAtdTN2bDRneEkyVl9ISS1OYTZ0YklqN01CVzNYSDV5MGtjbVBuQi1RUUxJQzBGM1RxZmxZNFdKOTcxdUk2R2RPXzg4Q3cxLTFXLXVCOVNB?oc=5\" target=\"_blank\">ALTRA RCX: Innovadoradieta para Post Smolt en RAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 50470,
+      "story_id": 1314,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPME1RQUdLUWVuWC1KR21WTGs2dzJORFVFT3Ztbm44N0FvQy1sbjFfRVhQdVZySFRsNHU1cVdXZWFrbDNpOFBZTzZUdjNxWUZTMGpBNTY1WG9fSmZURUd6QWdJcTFZWWhERkJXMG00MEplTFpyV051azZ4OFJ4TjRCenBZSzNDRUFZVmhDV3hTc19kRzN2LVVsMTZodGhPRlYzWHlVY2VnU090cDVYcUE?oc=5",
+      "title": "Armada apoya simulacro de incendio y derrame de hidrocarburo en Pargua - armada.cl",
+      "source_name": "armada.cl",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2012-11-15T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPME1RQUdLUWVuWC1KR21WTGs2dzJORFVFT3Ztbm44N0FvQy1sbjFfRVhQdVZySFRsNHU1cVdXZWFrbDNpOFBZTzZUdjNxWUZTMGpBNTY1WG9fSmZURUd6QWdJcTFZWWhERkJXMG00MEplTFpyV051azZ4OFJ4TjRCenBZSzNDRUFZVmhDV3hTc19kRzN2LVVsMTZodGhPRlYzWHlVY2VnU090cDVYcUE?oc=5\" target=\"_blank\">Armada apoya simulacro de incendio y derrame de hidrocarburo en Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">armada.cl</font>"
+    },
+    {
+      "id": 50471,
+      "story_id": 1316,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTZ6NUN1TWtORTZGemV3MDI1MW1zWFRqNDlIZzRvVVJnNDdpdHNsNWhpdXdCRE1UVGdlVk1jWGl3MzlvS3BYMzhTTGF5dDJjN2ZqYm50ZkgzdEdMUTYwcUpSTWZiako3WEJXSTVBWWVQbm01Zkowdy1nSVNQb3lGcmRXQm1CdDVNN0t6LWtkVUFlQTYzTTVzcVhobW12OXdGcHJraFJOaC1sYkFmal91eWdzY2VYN0JhdG1QTVpmUFU0cWxPSVhR?oc=5",
+      "title": "CEO de Nutreco y nueva directora de Skretting visitaron Chile - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2018-01-12T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTZ6NUN1TWtORTZGemV3MDI1MW1zWFRqNDlIZzRvVVJnNDdpdHNsNWhpdXdCRE1UVGdlVk1jWGl3MzlvS3BYMzhTTGF5dDJjN2ZqYm50ZkgzdEdMUTYwcUpSTWZiako3WEJXSTVBWWVQbm01Zkowdy1nSVNQb3lGcmRXQm1CdDVNN0t6LWtkVUFlQTYzTTVzcVhobW12OXdGcHJraFJOaC1sYkFmal91eWdzY2VYN0JhdG1QTVpmUFU0cWxPSVhR?oc=5\" target=\"_blank\">CEO de Nutreco y nueva directora de Skretting visitaron Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 50472,
+      "story_id": 1320,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXpBQ2ctODN1b2ZuMG1Dd01JZDRlZ2I1YlRlUXBnODRkYWthSm5MLVFYQVQ1azFxQXVyWE55UVdQbzh4N0xxM21wZkFRQmd4RGNJZ1dhTnpfM0JzbGlfc1dyWExWOFl1am1JdlpnRFVWTUpnd3dNUHJOOXFmVTVOeFRoVm14MWtFVlR1ZGpZSzRoMWQ1UGFUMVpTdDlrRzdXcXlIczFFdWFUSGdMLUNLWjhmSXA0bUR1U1VKQQ?oc=5",
+      "title": "C-Growth de Skretting destaca sólidos resultados en ensayo - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2023-05-17T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXpBQ2ctODN1b2ZuMG1Dd01JZDRlZ2I1YlRlUXBnODRkYWthSm5MLVFYQVQ1azFxQXVyWE55UVdQbzh4N0xxM21wZkFRQmd4RGNJZ1dhTnpfM0JzbGlfc1dyWExWOFl1am1JdlpnRFVWTUpnd3dNUHJOOXFmVTVOeFRoVm14MWtFVlR1ZGpZSzRoMWQ1UGFUMVpTdDlrRzdXcXlIczFFdWFUSGdMLUNLWjhmSXA0bUR1U1VKQQ?oc=5\" target=\"_blank\">C-Growth de Skretting destaca sólidos resultados en ensayo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 50473,
+      "story_id": 478,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRDFsMk1JZE9rdks0aXBSeHpNZGw4UGN4RC1kdHFubWQ2Mk14dm1ZbEVhTzBuYndrMENVdXV4RG9ZZzZiWDIyWC1tSTd3SmFOSFg1cGRxZ3dhaGZIM00tSHQ1ZjU3aFpWaGNKOTlLVW1USzZsbXA4Z09BS1VKVVFUeFdFT0dmYzBXTEQ0b2ZENFVvRUt5U1FxSTZ3ZzNYWGJ0MjhWSm9LalhsSXRvNTgtZG16ck1lalpLWnNqaEFKNWVNZw?oc=5",
+      "title": "Skretting presenta su Reporte de Sostenibilidad Anual 2019 - Diario Sostenible",
+      "source_name": "Diario Sostenible",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2020-10-02T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRDFsMk1JZE9rdks0aXBSeHpNZGw4UGN4RC1kdHFubWQ2Mk14dm1ZbEVhTzBuYndrMENVdXV4RG9ZZzZiWDIyWC1tSTd3SmFOSFg1cGRxZ3dhaGZIM00tSHQ1ZjU3aFpWaGNKOTlLVW1USzZsbXA4Z09BS1VKVVFUeFdFT0dmYzBXTEQ0b2ZENFVvRUt5U1FxSTZ3ZzNYWGJ0MjhWSm9LalhsSXRvNTgtZG16ck1lalpLWnNqaEFKNWVNZw?oc=5\" target=\"_blank\">Skretting presenta su Reporte de Sostenibilidad Anual 2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sostenible</font>"
+    },
+    {
+      "id": 50474,
+      "story_id": 1317,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmdQT3Q5RWJaaTRpUUJqYUdyVVZhUVNlNGRFV0h4RENSSGhJR3J6Q0oyV0l0VW16Vk1YZ2tocE5weWk2UXJiVzFNRlozTFc3Y2NNc1A5bUtBa0pvQXdQeFBNMHVlR0NrU216S3BQdzhUZEVBVFNZVGVRMHM2aFdHMkpXcE9uMVdnTFF3VVpzZ0xhWWZ5c0RmV0ZVZlhFZmdaNDk4ZU53dDhkS0loUS1TQlhsVXVBdF9qUEVheHdVRnczRHlRRUpFMA?oc=5",
+      "title": "Skretting Chile destaca dieta que protege las branquias de los peces - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2019-08-02T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmdQT3Q5RWJaaTRpUUJqYUdyVVZhUVNlNGRFV0h4RENSSGhJR3J6Q0oyV0l0VW16Vk1YZ2tocE5weWk2UXJiVzFNRlozTFc3Y2NNc1A5bUtBa0pvQXdQeFBNMHVlR0NrU216S3BQdzhUZEVBVFNZVGVRMHM2aFdHMkpXcE9uMVdnTFF3VVpzZ0xhWWZ5c0RmV0ZVZlhFZmdaNDk4ZU53dDhkS0loUS1TQlhsVXVBdF9qUEVheHdVRnczRHlRRUpFMA?oc=5\" target=\"_blank\">Skretting Chile destaca dieta que protege las branquias de los peces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 50475,
+      "story_id": 533,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1drdC1qU3BERFYxNjVJTVBKYktnRlNjOWF1WlBoV3BiU3JDa3FkYVVNcWRqV25QZWxNcWE4WnlyZkhfS1FkdGNXUUJRckVLR0xZU3pyYXd3aEhucjNla0Jya3RCbkN5Qy1FNEgyNTJSRXVCZmRzbUV6NUp0NDZFMHlJcnRzZVlXc3FJV19qRmZtVnZhR2N3Yk5XeWh4aHBUa3E3RDNPczJJWWc5VS1PM2JLSkxWZVg1SndlZFB2UmNNbEZ1ZWlqdDdxNHBJRkJ0VGdRR3p6eW9OX2ZQYVdSWjJBWlZ0YlE?oc=5",
+      "title": "Skretting Chile recibió a más de 250 estudiantes de educación técnico-profesional este año - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2022-12-27T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS1drdC1qU3BERFYxNjVJTVBKYktnRlNjOWF1WlBoV3BiU3JDa3FkYVVNcWRqV25QZWxNcWE4WnlyZkhfS1FkdGNXUUJRckVLR0xZU3pyYXd3aEhucjNla0Jya3RCbkN5Qy1FNEgyNTJSRXVCZmRzbUV6NUp0NDZFMHlJcnRzZVlXc3FJV19qRmZtVnZhR2N3Yk5XeWh4aHBUa3E3RDNPczJJWWc5VS1PM2JLSkxWZVg1SndlZFB2UmNNbEZ1ZWlqdDdxNHBJRkJ0VGdRR3p6eW9OX2ZQYVdSWjJBWlZ0YlE?oc=5\" target=\"_blank\">Skretting Chile recibió a más de 250 estudiantes de educación técnico-profesional este año</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 50476,
+      "story_id": 1321,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEVydkxZSUVMTmNSWmRXc2pWR0xWOXdVTGhQdXFiSVZNMThkakhnVF9SbTl4dlJGNlBtQ1RDWXlqX095UVBuQ29NMHFFN051TWtVRm13TmVUOWFLREt1Z3AtQ1VWMmkxUy1jelJmdzNkWUZXWkhqNlNXLVkxSUVCWlR2S2FFbWpMOHdoRzgtakRMNFRkUzYyUjlRaWlSTTYxTVp1bFBzcGxIOTgxVzlVUWY0UGJhT1gtVkVaR0V1aFVkc1lfMEtmejJmTTJURm1oZzZSR3M1WDVxSEZ5em1leE9kUQ?oc=5",
+      "title": "Skretting Chile premia a sus Centros Top 2023 por sus destacados resultados productivos - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2024-05-14T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEVydkxZSUVMTmNSWmRXc2pWR0xWOXdVTGhQdXFiSVZNMThkakhnVF9SbTl4dlJGNlBtQ1RDWXlqX095UVBuQ29NMHFFN051TWtVRm13TmVUOWFLREt1Z3AtQ1VWMmkxUy1jelJmdzNkWUZXWkhqNlNXLVkxSUVCWlR2S2FFbWpMOHdoRzgtakRMNFRkUzYyUjlRaWlSTTYxTVp1bFBzcGxIOTgxVzlVUWY0UGJhT1gtVkVaR0V1aFVkc1lfMEtmejJmTTJURm1oZzZSR3M1WDVxSEZ5em1leE9kUQ?oc=5\" target=\"_blank\">Skretting Chile premia a sus Centros Top 2023 por sus destacados resultados productivos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
     }
   ],
   "share_of_voice": {
@@ -51891,6 +52411,14 @@
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2012-W46",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2013-W07",
@@ -52530,7 +53058,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2017-W17",
@@ -52715,6 +53243,14 @@
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2018-W02",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2018-W03",
@@ -52978,7 +53514,7 @@
         "BioMar": 0,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2019-W33",
@@ -53210,7 +53746,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2020-W41",
@@ -53338,7 +53874,7 @@
         "BioMar": 0,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2021-W07",
@@ -53770,7 +54306,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2022-W27",
@@ -53815,7 +54351,7 @@
       {
         "week": "2022-W32",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -53946,7 +54482,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2023-W02",
@@ -54082,7 +54618,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2023-W21",
@@ -54410,7 +54946,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W21",
@@ -54426,7 +54962,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W24",
@@ -55127,7 +55663,7 @@
       {
         "week": "2026-W10",
         "Aller Aqua": 0,
-        "BioMar": 10,
+        "BioMar": 11,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -55210,7 +55746,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 2
       }
     ],
     "totals": [
@@ -55220,7 +55756,7 @@
       },
       {
         "company": "BioMar",
-        "count": 595
+        "count": 597
       },
       {
         "company": "Cargill",
@@ -55232,7 +55768,7 @@
       },
       {
         "company": "Skretting",
-        "count": 466
+        "count": 479
       }
     ]
   }
