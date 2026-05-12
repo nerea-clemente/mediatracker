@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T08:08:36+00:00",
+  "generated_at": "2026-05-12T11:29:45+00:00",
   "stats": {
-    "mention_count": 1449,
-    "story_count": 1303,
-    "analyzed_count": 597,
-    "off_topic_mentions": 42,
-    "off_topic_stories": 29
+    "mention_count": 1454,
+    "story_count": 1308,
+    "analyzed_count": 600,
+    "off_topic_mentions": 43,
+    "off_topic_stories": 30
   },
   "outlets": [
     "20Minutos",
@@ -14000,6 +14000,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1330,
+      "headline": "BioMar Chile da a conocer importante hito en su relación con los transportistas - Salmonexpert",
+      "story_summary": "BioMar Chile announced a significant development in its operational relationships with transporters. The article highlights a positive development in the company's logistics partnerships.",
+      "first_seen": "2021-07-27T07:00:00+00:00",
+      "last_seen": "2021-07-27T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 53,
       "headline": "A more sustainable future for aquafeeds: a CEO's perspective - The Fish Site",
       "story_summary": "Carlos Diaz, CEO of BioMar, shares perspectives on building a more sustainable future for aquafeeds in an industry commentary. The article frames BioMar's leadership position on environmental and social responsibility in feed manufacturing for aquaculture sectors like salmon, shrimp, and tilapia production globally. (Note: full text unavailable; analysis based on headline and context clues.)",
@@ -14250,6 +14264,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1329,
+      "headline": "Cargill completes acquisition of salmon nutrition producer EWOS - All About Feed",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnZmVE8zTW80VVZFM2Y2ZXVYNnlqZ0xQQ2lIck0tZG5fUjMwT2ZIdk9LWWdpNXl6WlEyNkJMdTFxZ2puNUg5WmR1dDBNaV82ZXhGaVNfRVdvektKZFdKUWkxZzQzTnhsbXNDVUN0eVIxNjZOa1RoRXhSVGZXRk1PRFNyWGhFdG01TjdIZkNveFhpbm5FamVtMHlhbkRmYXc5LU5kTFVZdFNZYklnc1dYLU1YSFg2clJnUXdn?oc=5\" target=\"_blank\">Cargill completes acquisition of salmon nutrition producer EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>",
+      "first_seen": "2021-02-15T03:25:54+00:00",
+      "last_seen": "2021-02-15T03:25:54+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 488,
@@ -15894,6 +15922,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 1328,
+      "headline": "Skretting es premiada por “compromiso a la seguridad” - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcl9ka1llZmdVWDdyb3NzNDdtc3RlR0dxLXhQbWl5RXpTZ0NUeG9nQkZ0NkhDSTg4UlV0b05USEpfZmw1S2R3bER3RnQ5VGR1UVZON3ZmMkc4bTdUY3BZcEVIV1AwSW1kZl90clJfbGV6LTdmV2dVQzZvTHVFZjliT2VzRUw1ckNuQlZaTjZRcFI?oc=5\" target=\"_blank\">Skretting es premiada por “compromiso a la seguridad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2018-10-29T07:00:00+00:00",
+      "last_seen": "2018-10-29T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1077,
       "headline": "– Det er utrolig viktig å bevise at fôret virker på lus hos laks - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZzFGMXVMbmNjQnJtN2pjNC1yVER6ajlJRWNXUmdZUVVWWUlRdFpRcjFobDVTZ0ZjUWVoeE15S0RzSlE1azR2ZURSU0FGVHdibWpRT3djR091SHB0WkItbUw4TXpxNnRhT180eTVHWWZnaFQ2YkpfQ2FTRXIxeHI5NjRtMHcwbUU?oc=5\" target=\"_blank\">– Det er utrolig viktig å bevise at fôret virker på lus hos laks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -16438,6 +16480,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 1327,
+      "headline": "BioMar boosts feed production capacity - The Fish Site",
+      "story_summary": "The article references BioMar in relation to feed production capacity increases. Insufficient detail is available from the provided excerpt to assess the full scope or claims made.",
+      "first_seen": "2017-10-26T07:00:00+00:00",
+      "last_seen": "2017-10-26T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
     },
     {
       "id": 19,
@@ -17026,6 +17082,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1326,
+      "headline": "Biomar Chile recibe a nuevo director técnico - Salmonexpert",
+      "story_summary": "BioMar Chile has appointed a new technical director to its leadership team. The article reports on this personnel change within the company's Chilean operations, a key region for aquaculture feed production and sales in South America.",
+      "first_seen": "2016-07-05T07:00:00+00:00",
+      "last_seen": "2016-07-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 423,
@@ -52329,6 +52399,123 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEVydkxZSUVMTmNSWmRXc2pWR0xWOXdVTGhQdXFiSVZNMThkakhnVF9SbTl4dlJGNlBtQ1RDWXlqX095UVBuQ29NMHFFN051TWtVRm13TmVUOWFLREt1Z3AtQ1VWMmkxUy1jelJmdzNkWUZXWkhqNlNXLVkxSUVCWlR2S2FFbWpMOHdoRzgtakRMNFRkUzYyUjlRaWlSTTYxTVp1bFBzcGxIOTgxVzlVUWY0UGJhT1gtVkVaR0V1aFVkc1lfMEtmejJmTTJURm1oZzZSR3M1WDVxSEZ5em1leE9kUQ?oc=5\" target=\"_blank\">Skretting Chile premia a sus Centros Top 2023 por sus destacados resultados productivos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 51000,
+      "story_id": 1330,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcXZIR0hDWW9mUjc0djlzdy1VbDhXRE1GQnlyYnluYnBFekI2dHpueVZOY1JBZ0UwWGxKSWtlUTRycUxoOGxYMzVTb0luWk1GdHctQnczTGhVSTQxYWtYRXNMcHRQNmhNSVNIUzJQbHVPRmxiR0c2dWtaMFQzZFI2YkZNTi15SjFkWElwTDkxcE93NXowMElfcFFPeExxbGZXeE40THh3emZQOXNpNEZlTmRsVG15VWUtX3JzRzZXdGNzVHpRU3R1VkdiUk1fVVF4RFlKX3VqUQ?oc=5",
+      "title": "BioMar Chile da a conocer importante hito en su relación con los transportistas - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2021-07-27T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.8,
+      "prominence": "primary",
+      "angle": "BioMar Chile announces significant milestone in transporter relationships",
+      "key_claims": [
+        "BioMar Chile reached an important milestone in its relationship with transporters"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Chile announced a significant development in its operational relationships with transporters. The article highlights a positive development in the company's logistics partnerships."
+    },
+    {
+      "id": 51004,
+      "story_id": 1326,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWVUeVA1YlFSVmRoQU1yMUQ5bHFHNWtab213SGhGd0NqdlB2eEZHYUFtUDJSMFpCdDJPdTlIbGFTTXYteDZjazQ3MHBCdFpHOHdfaDBTWGwzUUZMbHpVcENqVmUxdnJQbGdUejZaY3BJZWVxdVBBOWVmeEVCYTdSaFJLZVAySHZhRGVTSXRwZmJaOGFOX3FsbjkwQTZoUWpSUW5R?oc=5",
+      "title": "Biomar Chile recibe a nuevo director técnico - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2016-07-05T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "secondary",
+      "angle": "BioMar Chile appoints new technical director",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Chile has appointed a new technical director to its leadership team. The article reports on this personnel change within the company's Chilean operations, a key region for aquaculture feed production and sales in South America."
+    },
+    {
+      "id": 51120,
+      "story_id": 1327,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16T2Nqc1BEbEdIU09KOXRrVmkyMWlSYVZYVWlRNDVZdEtWbkw4ak9raTVQeEtObVVCcTN4UmFmZnl1Y2hEemt3RlVFZ085bVdfTF9Zd3oyUjg4REg3dzl3MGxPOGk5Sko2dkh6OVI1U3hUUnAtQXpoWmNpdw?oc=5",
+      "title": "BioMar boosts feed production capacity - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "published_at": "2017-10-26T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "BioMar mentioned in capacity expansion context",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article references BioMar in relation to feed production capacity increases. Insufficient detail is available from the provided excerpt to assess the full scope or claims made."
+    },
+    {
+      "id": 51573,
+      "story_id": 1328,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcl9ka1llZmdVWDdyb3NzNDdtc3RlR0dxLXhQbWl5RXpTZ0NUeG9nQkZ0NkhDSTg4UlV0b05USEpfZmw1S2R3bER3RnQ5VGR1UVZON3ZmMkc4bTdUY3BZcEVIV1AwSW1kZl90clJfbGV6LTdmV2dVQzZvTHVFZjliT2VzRUw1ckNuQlZaTjZRcFI?oc=5",
+      "title": "Skretting es premiada por “compromiso a la seguridad” - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2018-10-29T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcl9ka1llZmdVWDdyb3NzNDdtc3RlR0dxLXhQbWl5RXpTZ0NUeG9nQkZ0NkhDSTg4UlV0b05USEpfZmw1S2R3bER3RnQ5VGR1UVZON3ZmMkc4bTdUY3BZcEVIV1AwSW1kZl90clJfbGV6LTdmV2dVQzZvTHVFZjliT2VzRUw1ckNuQlZaTjZRcFI?oc=5\" target=\"_blank\">Skretting es premiada por “compromiso a la seguridad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 51587,
+      "story_id": 1329,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnZmVE8zTW80VVZFM2Y2ZXVYNnlqZ0xQQ2lIck0tZG5fUjMwT2ZIdk9LWWdpNXl6WlEyNkJMdTFxZ2puNUg5WmR1dDBNaV82ZXhGaVNfRVdvektKZFdKUWkxZzQzTnhsbXNDVUN0eVIxNjZOa1RoRXhSVGZXRk1PRFNyWGhFdG01TjdIZkNveFhpbm5FamVtMHlhbkRmYXc5LU5kTFVZdFNZYklnc1dYLU1YSFg2clJnUXdn?oc=5",
+      "title": "Cargill completes acquisition of salmon nutrition producer EWOS - All About Feed",
+      "source_name": "All About Feed",
+      "language": "en",
+      "country": "NL",
+      "published_at": "2021-02-15T03:25:54+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnZmVE8zTW80VVZFM2Y2ZXVYNnlqZ0xQQ2lIck0tZG5fUjMwT2ZIdk9LWWdpNXl6WlEyNkJMdTFxZ2puNUg5WmR1dDBNaV82ZXhGaVNfRVdvektKZFdKUWkxZzQzTnhsbXNDVUN0eVIxNjZOa1RoRXhSVGZXRk1PRFNyWGhFdG01TjdIZkNveFhpbm5FamVtMHlhbkRmYXc5LU5kTFVZdFNZYklnc1dYLU1YSFg2clJnUXdn?oc=5\" target=\"_blank\">Cargill completes acquisition of salmon nutrition producer EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>"
     }
   ],
   "share_of_voice": {
@@ -52911,7 +53098,7 @@
       {
         "week": "2016-W27",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -53183,7 +53370,7 @@
       {
         "week": "2017-W43",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -53387,6 +53574,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2018-W44",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2018-W46",
@@ -53880,7 +54075,7 @@
         "week": "2021-W07",
         "Aller Aqua": 0,
         "BioMar": 1,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 2
       },
@@ -53983,6 +54178,14 @@
       {
         "week": "2021-W27",
         "Aller Aqua": 1,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2021-W30",
+        "Aller Aqua": 0,
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
@@ -55756,11 +55959,11 @@
       },
       {
         "company": "BioMar",
-        "count": 597
+        "count": 600
       },
       {
         "company": "Cargill",
-        "count": 217
+        "count": 218
       },
       {
         "company": "Polarfeed",
@@ -55768,7 +55971,7 @@
       },
       {
         "company": "Skretting",
-        "count": 479
+        "count": 480
       }
     ]
   }
