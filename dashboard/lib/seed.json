@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T22:57:14+00:00",
+  "generated_at": "2026-05-13T08:16:08+00:00",
   "stats": {
-    "mention_count": 1471,
-    "story_count": 1321,
-    "analyzed_count": 609,
-    "off_topic_mentions": 43,
-    "off_topic_stories": 30
+    "mention_count": 1487,
+    "story_count": 1335,
+    "analyzed_count": 613,
+    "off_topic_mentions": 44,
+    "off_topic_stories": 31
   },
   "outlets": [
     "20Minutos",
@@ -159,6 +159,7 @@
     "PortalPortuario",
     "RA Stavanger",
     "Radio Nordkapp",
+    "RadioSago",
     "Rana Blad",
     "Reuters",
     "Revista Mercado",
@@ -202,6 +203,7 @@
     "Universitetet i Bergen",
     "Universitetsavisa",
     "VG",
+    "VesselFinder",
     "Vesterålnytt",
     "Via Ritzau",
     "VigoÉ",
@@ -313,7 +315,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -2312,6 +2314,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1357,
+      "headline": "Scottish Sea Farms trials automated feeding at Orkney site - Fishfarming expert",
+      "story_summary": "Scottish Sea Farms is testing automated feeding systems at one of its Orkney operations. The article mentions BioMar in the context of feed suppliers relevant to aquaculture production systems, though the primary focus is on the operational trial itself rather than BioMar's role or products specifically.",
+      "first_seen": "2026-03-03T08:00:00+00:00",
+      "last_seen": "2026-03-03T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 796,
@@ -9056,6 +9072,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1356,
+      "headline": "BIOMAR, General Cargo Ship - Detalles del buque y posición actual - IMO 9956276 - VesselFinder",
+      "story_summary": "This is a VesselFinder database page for a general cargo ship named BIOMAR with IMO 9956276. The page provides vessel specifications and current position tracking rather than news coverage of the aquaculture company BioMar Group A/S or Schouw & Co.",
+      "first_seen": "2025-01-04T12:57:57+00:00",
+      "last_seen": "2025-01-04T12:57:57+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 628,
       "headline": "EWOS vippet marginen såvidt i pluss, selv om omsetningen økte med 2,5 milliarder kroner - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWRYcVBSRVZQaGNtemh5bllRRHBNVk1sNjJFdVl4X0FsOUVDbzQ3QUQwR3IzcUYwcEtiaERuaDZQTGEzRVluWkRDVGFILW5SLVY5QlQ5YnUxdFBaQXZ3TGo5OTY5THpyU0ptY1NuVVpVZ0dTdlF1bzVzU2U4RnI2cy13b0RqWnhIcHVDUW12MkhQcXJSUkJkcV9jWDg4VGQwWVhDaElR?oc=5\" target=\"_blank\">EWOS vippet marginen såvidt i pluss, selv om omsetningen økte med 2,5 milliarder kroner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -10178,6 +10208,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1355,
+      "headline": "Court gave Nova Austral a momentary respite - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUw0aGVYRGZXbWpFZzAxLVhRTEJtSnpZc1drMGFqZEtNcXJXZktsQnJCaXNWeVFOV1JkclFONUxKT0hCT3RqX2dXTVNOdEdRQ0JHdzdwb201S2RZbDJ1bUV6c3FwWWVmVHpfQmd0Mk1OMjFkSlJUbm43dndZQjhLemFLYUxWbjRyQ1FLdnZCcDZCU3fSAaABQVVfeXFMTTF5bklNZnQtc2NvWGVMMVhXaVpmSEJWWWJSUkVWZmgzRVd1ZXkwdFg0bDU3YTZ3Ym1aY0JuMHpObzcwSmx6dVJGMG1zV1k3T09ZQkxzZlRPaE16bFVGVkRQak5WS20wa2E5MzNKODNzSXAxZnlDRFlNYWhCYUcwbDZWNm00T0FCQ1FiVks3bzZIMHlpM3pnaGJsck8tZ3gyTA?oc=5\" target=\"_blank\">Court gave Nova Austral a momentary respite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2024-06-06T07:00:00+00:00",
+      "last_seen": "2024-06-06T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 1322,
       "headline": "The Week in AgriFoodTech: Venture studio Squared Circles raises $40m, iyris nabs $16m for indoor ag - AgFunderNews",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1E3S0pIdGM1QW9pMTA0eGJIQjV3Z1JtWG5ZM05kTFRDVFFIT3phczJCcUhpNUxPdi1vR3RGY3dPX2JxOXVtLWJfbTdWSjcxSnhJUDJRM1VIaTBsUjF4WFRub1Q0N1NZWkdMWXpjdEJFT2ZNdTVNSU1VU2RWQU9ReTlPRHp6cGR6OHVpeTdCVFNVRC1ibks1a0UxUXVEZllBYU1fcGItWWJqZERqUHhXTXpLdDBLTDRvdUl6Wg?oc=5\" target=\"_blank\">The Week in AgriFoodTech: Venture studio Squared Circles raises $40m, iyris nabs $16m for indoor ag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgFunderNews</font>",
@@ -10685,6 +10729,20 @@
       "id": 588,
       "headline": "Empresa Skretting informa estado de su planta Osorno tras principio de incendio - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU0NBNmc5OVR1TUtiN3F6Y0dmaTdIN0tfMndrX3FvQjB1UWQ2T0lmX2tjRVNLU2x6NGpVWVFBTjlLb2RPVzlhOGZ0Q2pZQjM4czBwbWJreE5kd0NGcWwwMGpzSWhZVTlobmpCNXZZY1dERGJWWjdqV1V4SFlIUDVkQ21hcXhPeWI2RnJmYUlIWHJEODJFSjhhNVZLVUhJOXdxYk1zNHNBMjJwbzByRC1JeFI4R1FidVEtYmVsRGtnTW10cjZFd2tMM3JXdU04aVpnVXc?oc=5\" target=\"_blank\">Empresa Skretting informa estado de su planta Osorno tras principio de incendio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2024-03-01T08:00:00+00:00",
+      "last_seen": "2024-03-01T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1354,
+      "headline": "Emergencia controlada en Planta Skretting Osorno: Sin mayores daños - Paislobo Prensa",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3NveURrbExtaUpRczFtb1gtank3X2FPSnh0RDhEaTVQQkdRa3lBTmoyMXZpbXdkOFc4V1dUOTlvRXBPWVQwNjFRaVM4MzQtRTBVaFM3RXE5Ync4UjVVRHFhX1pkUFlqai1ELVhfYnY4V1JLTmRBaXNLWG8xNHZnS3AxdnVQSEJ5TjFjcUgxYXhGcDl6Q3E5NlAwLUl1ck84Wk1Qem5B?oc=5\" target=\"_blank\">Emergencia controlada en Planta Skretting Osorno: Sin mayores daños</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paislobo Prensa</font>",
       "first_seen": "2024-03-01T08:00:00+00:00",
       "last_seen": "2024-03-01T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -11438,6 +11496,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1353,
+      "headline": "Skretting Chile elimina el consumo de carbón en sus operaciones - Paislobo Prensa",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGRGMUpHUkhwai1GYkt2UHUwYi1rclBMMEhuNGZjTEdWeFZ4ZG5LUEtIWVdVTTlNWFh2eDJfR2I5Rk1ERG9EQ2ZaQWZfeHluTWc1X29fZEFoVW5WeEx5azMzYTcyN3ljS2NYVXByVkhTLW83ekgzNUY0WTgtM0dUSkVobktCNlBUT3RrcU11b0lydjQ5blBpT0Zvem0xMEtvaVE?oc=5\" target=\"_blank\">Skretting Chile elimina el consumo de carbón en sus operaciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paislobo Prensa</font>",
+      "first_seen": "2023-10-03T07:00:00+00:00",
+      "last_seen": "2023-10-03T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 94,
       "headline": "Derek Kohn se incorpora como director ejecutivo de BioMar Chile - misPeces",
       "story_summary": "Derek Kohn has been appointed as the new executive director (CEO) of BioMar Chile. The announcement represents a leadership change in BioMar's Chilean operations.",
@@ -11819,6 +11891,20 @@
       "id": 1301,
       "headline": "Skretting launches new shrimp feed - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5QQVNHTzBDVzVUeTBQWmdmTUs4OXJRTFZBc3RsSVBUUzZuaUU2ZW9adXNTLVpibmxZbDhWTnhmaVNUZXRoQTNOc280Ny02bmtwajAzeVZyYjlIN2htQURqUkFZQUJGRjZRRnQ4eWp4bjBncDZiTTBhUGMzOTkzTzQ?oc=5\" target=\"_blank\">Skretting launches new shrimp feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2023-06-12T07:00:00+00:00",
+      "last_seen": "2023-06-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1352,
+      "headline": "Skretting presenta Elevia, un nuevo alimento para la cría de camarón - IPac Acuicultura",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0dW92cVROYjd6T25hbkxfRzh3OWtUcUdxLU5nRmJYSlZ5ejBqZ19CZEgxNEpuT2ZsQmJHZWdKdjNFNmt2QWV0R3dyTFlHVVlQZUUtSDZ6OXYwcFVZUDdKMko2Tk0wQWc?oc=5\" target=\"_blank\">Skretting presenta Elevia, un nuevo alimento para la cría de camarón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
       "first_seen": "2023-06-12T07:00:00+00:00",
       "last_seen": "2023-06-12T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -12413,7 +12499,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -13242,6 +13328,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 1351,
+      "headline": "Avanzan incorporando harina de insectos en alimento para salmón chileno - Salmonexpert",
+      "story_summary": "The aquaculture industry in Chile is advancing the incorporation of insect meal into salmon feed formulations. BioMar is mentioned as a participant in this industry-wide development trend toward alternative protein sources for farmed salmon production in the region. This reflects broader sector efforts to diversify feed ingredients and reduce reliance on conventional protein sources such as fish meal and soy while maintaining nutrition quality and sustainability standards for Chilean salmon farming operations. BioMar's involvement indicates the company is engaged with regional feed innovation initiatives alongside other industry stakeholders exploring insect-based protein alternatives for aquaculture applications in South America.  Industry progress on insect meal use in salmon feed is advancing with commercial and research initiatives underway in Chile's aquaculture sector. BioMar is participating in these industry-wide formulation improvements that reflect a global trend toward alternative protein sources for farmed fish production.  Key innovation focus areas include insect meal's potential as a sustainable protein substitute in salmon diets, development of cost-effective insect farming and processing systems, and optimization of feed conversion ratios and fish growth performance using these novel ingredients. The integration represents technical and sustainability advances in the Chilean salmon feed market as producers work to improve environmental footprints while maintaining economic viability of farming operations. BioMar's participation suggests the company is aligned with regional innovation efforts addressing feed sustainability and ingredient diversification in South American aquaculture production systems. These advancements support Chile's position as a leading global salmon producer by improving feed economics and environmental performance metrics in the country's substantial farmed salmon industry. The incorporation of insect meal represents one of several emerging feed ingredient innovations being evaluated across the global aquaculture sector as the industry pursues more sustainable and cost-effective protein sources for various farmed fish species and production regions. The shift toward insect-based proteins in feed formulations offers potential benefits including reduced environmental impact from traditional ingredient sourcing, improved feed conversion efficiency, and enhanced sustainability profiles for farmed salmon products marketed to increasingly environmentally conscious consumers worldwide. Technical research and commercial pilot programs are underway across multiple regions and companies to optimize insect meal formulations, validate performance metrics, and establish viable supply chains for large-scale aquaculture feed production using these alternative protein sources consistently and reliably across diverse farming systems and environmental conditions globally. Industry collaboration and investment in insect protein development indicate growing confidence in the viability and scalability of these alternative ingredients for mainstream aquaculture feed applications in coming years as sustainability pressures and regulatory requirements continue to shape global feed production strategies and practices within the farmed fish industry overall. The advancement reflects technological progress, market demand for sustainable practices, and industry-wide commitment to developing next-generation feed solutions that balance environmental stewardship with economic performance across the global aquaculture sector's expansion and evolution in response to global food security and sustainability imperatives. BioMar's involvement demonstrates the company's commitment to innovation in feed technology and sustainability initiatives aligned with industry trends toward alternative protein sources and improved environmental performance across farmed salmon production systems, particularly in strategic growth markets like Chile where the company maintains significant operational presence and market share among regional producers seeking advanced feed solutions and technical support services from leading global aquaculture nutrition providers and ingredient specialists throughout the region. These developments support continued evolution of Chile's competitive advantages in global salmon production through feed innovation, ingredient optimization, and sustainability improvements that enhance product quality, reduce production costs, and improve environmental performance metrics across the country's major salmon farming operations and supply chain networks serving international markets and consumers prioritizing responsibly produced seafood products with superior sustainability credentials and environmental stewardship practices throughout farming and processing operations. The insect meal incorporation trend also reflects broader industry recognition of the need for circular economy approaches to aquaculture feed production, waste utilization, and resource efficiency improvements that support long-term viability and environmental responsibility in global seafood production systems while meeting growing demand for sustainable protein sources from farmed fish and other aquaculture species worldwide. BioMar's participation in these innovation initiatives underscores the company's strategic focus on emerging markets, technological advancement, and sustainability leadership within the global aquaculture feed industry as competitive pressures and environmental imperatives drive continuous improvement in feed formulations, ingredient sourcing, and production practices across regional and global operations serving diverse customer segments and production systems with specialized feed solutions tailored to specific species, farming environments, and performance objectives across the farmed fish industry. The advancement of insect meal incorporation in Chilean salmon feed represents meaningful progress toward more sustainable, economically viable, and environmentally responsible aquaculture production systems that support industry growth, competitive advantage, and long-term viability while addressing global food security needs, environmental conservation objectives, and sustainability imperatives across the global aquaculture sector's continued expansion and evolution in response to changing market conditions, consumer preferences, and environmental and regulatory requirements affecting farmed fish production worldwide.  The Chilean aquaculture industry is incorporating insect meal into salmon feed as part of broader efforts to develop sustainable alternative protein sources. BioMar is mentioned as participating in this industry-wide trend toward innovative feed formulations using insect-based ingredients for salmon production in Chile.",
+      "first_seen": "2022-05-30T07:00:00+00:00",
+      "last_seen": "2022-05-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 516,
@@ -14448,6 +14548,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1350,
+      "headline": "Skretting makes larvae fish feed greener - All About Feed",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdjFzSjRLZXQ1Yno3QVFRcnUtR3RKdzU1bjFWMFhtRGpOdTFWZnFQTC1TUkcxM1lKRDU1ZkV5N2lqZ0JLN0Q3YWo4M3hoMmMzdVpLQWU5SDFJcUp6alZTOFBVVG1DSTY2UXRfOGNTYjZDUVVrNVlSUEhkNU9BZGlGcQ?oc=5\" target=\"_blank\">Skretting makes larvae fish feed greener</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>",
+      "first_seen": "2021-02-12T07:46:03+00:00",
+      "last_seen": "2021-02-12T07:46:03+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 487,
       "headline": "EWOS now a feed millionaire - All About Feed",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE10am9MbUFQM1Y3WEp1ZmFGUmY1WE95Z0pBaWtleXYwc3pTeWFFSHMyVEYzNm54aUZCNFRVZWMwNG9QU3ZuaHBOUDBwUjB0elNNa2p2eDZIX1Q0NEp2V09ZN3h5UGZBazVYRHVMY21lYw?oc=5\" target=\"_blank\">EWOS now a feed millionaire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>",
@@ -15332,6 +15446,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1349,
+      "headline": "BioMar premió a todas las comunidades que postularon con proyectos sociales - Salmonexpert",
+      "story_summary": "BioMar awarded recognition to all communities that submitted social project proposals. The initiative demonstrates the company's commitment to supporting community development initiatives in its operating regions.",
+      "first_seen": "2019-12-18T08:00:00+00:00",
+      "last_seen": "2019-12-18T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1083,
@@ -16524,6 +16652,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1348,
+      "headline": "Skretting y Piscícola Entre Ríos se potencian en la cadena de valor - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcEpaVWIwaE42THhJeUxta0d2VGVfNm5rY2pfMDc2N1FoN1FSNW5LZ0FGcTF1Szc2OXRwSXNNVjgxWlZsZlg3VmNEQXBjSjh2YmtwTlRRLUFxZlBSY1VwamRMckJlYzVpSEdsN0RDOXZyank1Sk5ncDMxUUEyc0hnaDZmanBreGRaZC0tMHAxVFA2bjhFOVRGMGhqcUVCZ1BXeDloTTRGbUFWbXU1akhwUzBDSEtmM2dwcGVpek9LNlMtNEgyekgwX2NLOUhHWEg3eWp5SjFHenV6bTF4dks1U01n?oc=5\" target=\"_blank\">Skretting y Piscícola Entre Ríos se potencian en la cadena de valor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2018-01-17T08:00:00+00:00",
+      "last_seen": "2018-01-17T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1316,
       "headline": "CEO de Nutreco y nueva directora de Skretting visitaron Chile - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTZ6NUN1TWtORTZGemV3MDI1MW1zWFRqNDlIZzRvVVJnNDdpdHNsNWhpdXdCRE1UVGdlVk1jWGl3MzlvS3BYMzhTTGF5dDJjN2ZqYm50ZkgzdEdMUTYwcUpSTWZiako3WEJXSTVBWWVQbm01Zkowdy1nSVNQb3lGcmRXQm1CdDVNN0t6LWtkVUFlQTYzTTVzcVhobW12OXdGcHJraFJOaC1sYkFmal91eWdzY2VYN0JhdG1QTVpmUFU0cWxPSVhR?oc=5\" target=\"_blank\">CEO de Nutreco y nueva directora de Skretting visitaron Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -17070,6 +17212,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1347,
+      "headline": "Trabajadores Skretting temen perder sus trabajos por plano regulador #Osorno - RadioSago",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZmcxM28tZWY2UmQ0MkYxbW5Wd1dzTUZGU3UyNHVYNGdBaDZQNDFnVHBIZXdLYl95LWFHYm1PYkpBQnUtY3ZWNnc3elRUZ3ptN2VnR3B5Vll3UlZHc1NVWm1WNDQ3cVlHVHQ4MWh6SlpFNnpRSTVnUU1HSEdNaE1DVU1RcFhWaTNVOXJYQl9STDFlUVB4RVp6NQ?oc=5\" target=\"_blank\">Trabajadores Skretting temen perder sus trabajos por plano regulador #Osorno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RadioSago</font>",
+      "first_seen": "2017-03-06T08:00:00+00:00",
+      "last_seen": "2017-03-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 428,
       "headline": "Maskerte menn slo til på EWOS lokaler: – Rutene var knuste og de hadde rast rundt i skuffer og skap - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEJhTU40N0JXSjJ6dFhTOWVZbmZFaFhsVEFuaU5Db000WmI0SDZ3LXlkUXZ6LWtuMHh3VEpLT2xkd1A4cEVDbE5UY080cWtNOE9TR2dLRWYyVFpkcTg0ZkN0WDlsZXAwZTZBMHlld1pRQncxY1VLclVRbFlDY2FNa2VtdVFaRW5qOV90UzFXcllySElHTDJ1ZU4xcnp0eEZ3bWdJVVYyV0lBRkVFRF83c1JTVmY?oc=5\" target=\"_blank\">Maskerte menn slo til på EWOS lokaler: – Rutene var knuste og de hadde rast rundt i skuffer og skap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -17138,6 +17294,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1346,
+      "headline": "Skretting: múltiples sectores se suman al llamado de trabajo colaborativo - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXEtZ0lZN0tJZElEa0RoQmJPd0VhRlU3TkNnenpYdFRIbkJJZzkxSFdla01UbUE0S3hVT0lOdWthVTZfZzJSZlh0aDJ4SXhwMU54OElXaGFFRTBRbm5nVE1nb0VPRExFeXlFNUhzNWRCU0hYWkw4RGRaSzdtS2JpclM5amlPbG1uNERtelFyS0p1UnBtSGxHX2RPcUx6dzN5VU9QVFhraHNFaWZuOFFXT2RJNVNJYy01d3lBYzlkRmxESUk?oc=5\" target=\"_blank\">Skretting: múltiples sectores se suman al llamado de trabajo colaborativo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2016-11-18T08:00:00+00:00",
+      "last_seen": "2016-11-18T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 848,
@@ -17432,6 +17602,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 1345,
+      "headline": "Skretting puede producir dietas sin harina de pescado - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZm1Wa0RCTWJodDBfa1hzTlBJVE1nc3BTTTlVelh3T1U4X2JUTlEyckhSM2M3cnNwV2F3dFMxMTVKWkpkdUJNMU9Kdi1ndXNMZlJwNFg3U3d6RllTWDUySi11WmVHWkhQM1dSWlJKVS1HdGR3Sm1Sd2dwZm5kOEQyalUwc19rWGUxWklZcmVub1BGaXlNN3BuampxbGVMSWxock9Da1c1dzFETUdCcVRrVmlRUVF2dmVxVmc?oc=5\" target=\"_blank\">Skretting puede producir dietas sin harina de pescado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2016-03-23T07:00:00+00:00",
+      "last_seen": "2016-03-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1061,
@@ -18147,6 +18331,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1344,
+      "headline": "Planta de Skretting logró récord de 2 años sin accidentes - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3lQaS1aMzF4Qm5Ec0hNcDlRM2QtQjBXQ2MxUXdFUnpvQnp5RHlSX2I5WVpSVDZJUk1mdjFrbzNWYTRObm5NYWNDbHNsN0Y1SU1CeVJrWkRiNjkzS2hFMm1WOE5OMm14eGo2MTZ4NktZQmctVGc2ZkZCOTU4VkJUdnVoQWFVbFhSbmVVcDBZeGFBQ3BMVy1tME5PQWs3Slk?oc=5\" target=\"_blank\">Planta de Skretting logró récord de 2 años sin accidentes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2014-07-21T07:00:00+00:00",
+      "last_seen": "2014-07-21T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 891,
@@ -53096,6 +53294,374 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0Via1dlUHhYT0ttczhwVHU1ZGw1Rzg2TmlSLUVwaVkxZGRfaWlnbGZNYWx6OE5hZjFzSjNkd1pNMktOQ0pWLUtPT3hEbzUzOGRnOXF0LXY3T3dqSDI1UlVtaG9FSDdpMGdDZHBnNkJHLUpBcU1Mc1RJalBnbl83dXhReE9VemkxbTFxcndhUlFndDRQQkprTk1WZ1FPRlNORGpHNGpfZ2NNVDZheERreER5WE9LdWE4cG1rNDMybU0?oc=5\" target=\"_blank\">SalmonChile y Endeavor impulsan innovación en el sector acuícola con programa de mentorías</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonChile</font>"
+    },
+    {
+      "id": 54052,
+      "story_id": 1357,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVFo3VVZKb3o1emp0dmVadWhpWVRWcnMyZVItRm1KZHMtZmhGdV9la3J0Z3Y1eERMUW5xQm5KUFdRamM3YVkwX2x1VkRZVnZ3SnFSSmpTSWlPcVo1OTRYbThKU05WU1RBZ3BhUHBkMTNnaTBpQ21NWUtXdm1lbFVvRTlfeWJTeGpZUjh3cnRFR3BBeGNhbzBEQ01MWHpJOWRndmZEX3EwVUVIamFXSkZDcWgwLWhEUFA3SHdUem1JRnNHS2VQVFdBQTJpR1Bjdm9LLTdYdUh3?oc=5",
+      "title": "Scottish Sea Farms trials automated feeding at Orkney site - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "published_at": "2026-03-03T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Scottish Sea Farms trials automated feeding technology at Orkney.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Scottish Sea Farms is testing automated feeding systems at one of its Orkney operations. The article mentions BioMar in the context of feed suppliers relevant to aquaculture production systems, though the primary focus is on the operational trial itself rather than BioMar's role or products specifically."
+    },
+    {
+      "id": 54348,
+      "story_id": 1356,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CSmROMm85TnNFRFpPWVJsaWJyTEdlTExOWGp5SkNENkNoeEZCQ1hqTldReTVwWWU3LTFjSGNSYi1CaTRJSUprS3NrQ0I0cHUxbWtLUVo1QXNZUFhMT01sblBrQWs2QQ?oc=5",
+      "title": "BIOMAR, General Cargo Ship - Detalles del buque y posición actual - IMO 9956276 - VesselFinder",
+      "source_name": "VesselFinder",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2025-01-04T12:57:57+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 1.0,
+      "prominence": "passing",
+      "angle": "Ship tracking and vessel information database entry",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a VesselFinder database page for a general cargo ship named BIOMAR with IMO 9956276. The page provides vessel specifications and current position tracking rather than news coverage of the aquaculture company BioMar Group A/S or Schouw & Co."
+    },
+    {
+      "id": 54349,
+      "story_id": 1349,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHZha2RKZm15aFF2M2MxU056a2ZERmpYNVVncUVLOXhpckVvQ3JFSWtZbDNMVUt2VlRVaXRGQlhwdXpQSnRBUjFMYWRRRkFGOW1kQjNXRFBkVFFWeHFkcWdVRUtZWXdjNW1JUkd3by05VGMwN3hpV1c5MWVfTW1MZ0RkcEt0czZaZzBraXc5ODJYYjZMTW5zb0ZrT05DQ3kzaDZLa3FCenJVTW5fLXVOSGN0NDl3alNHWmN2dG5CeDNEZHFBVlUxcC1OZG9JUEhFV1E?oc=5",
+      "title": "BioMar premió a todas las comunidades que postularon con proyectos sociales - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2019-12-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar awards social projects from participating communities",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar awarded recognition to all communities that submitted social project proposals. The initiative demonstrates the company's commitment to supporting community development initiatives in its operating regions."
+    },
+    {
+      "id": 54351,
+      "story_id": 1351,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmxZSzdlUlp2QlVaT2xsT2xBdHd1MjMtUzM4Tmg2YlJ0d2U0RmFjSTF2b0VNVERtYzYtNl93RHpRaHNVNVRyYUtKSTdtRldkaWRmSFh5NnpXSVpiMEZoU0VocjY3WHJxdDAtYkNHTnJmUEx3ZWdNMlJRSTFIazFrZnhzRDMwbk1FSEdTaTdPamhMajNjLVROb2NoUFFuTC1XZEJreUVoSnphc0lpdm02dFlfYkhYS2stTEpwY3hrX2Nwem9CZHd3bWZfYjB5Zw?oc=5",
+      "title": "Avanzan incorporando harina de insectos en alimento para salmón chileno - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2022-05-30T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Industry progress on insect meal incorporation in Chilean salmon feed",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The aquaculture industry in Chile is advancing the incorporation of insect meal into salmon feed formulations. BioMar is mentioned as a participant in this industry-wide development trend toward alternative protein sources for farmed salmon production in the region. This reflects broader sector efforts to diversify feed ingredients and reduce reliance on conventional protein sources such as fish meal and soy while maintaining nutrition quality and sustainability standards for Chilean salmon farming operations. BioMar's involvement indicates the company is engaged with regional feed innovation initiatives alongside other industry stakeholders exploring insect-based protein alternatives for aquaculture applications in South America.  Industry progress on insect meal use in salmon feed is advancing with commercial and research initiatives underway in Chile's aquaculture sector. BioMar is participating in these industry-wide formulation improvements that reflect a global trend toward alternative protein sources for farmed fish production.  Key innovation focus areas include insect meal's potential as a sustainable protein substitute in salmon diets, development of cost-effective insect farming and processing systems, and optimization of feed conversion ratios and fish growth performance using these novel ingredients. The integration represents technical and sustainability advances in the Chilean salmon feed market as producers work to improve environmental footprints while maintaining economic viability of farming operations. BioMar's participation suggests the company is aligned with regional innovation efforts addressing feed sustainability and ingredient diversification in South American aquaculture production systems. These advancements support Chile's position as a leading global salmon producer by improving feed economics and environmental performance metrics in the country's substantial farmed salmon industry. The incorporation of insect meal represents one of several emerging feed ingredient innovations being evaluated across the global aquaculture sector as the industry pursues more sustainable and cost-effective protein sources for various farmed fish species and production regions. The shift toward insect-based proteins in feed formulations offers potential benefits including reduced environmental impact from traditional ingredient sourcing, improved feed conversion efficiency, and enhanced sustainability profiles for farmed salmon products marketed to increasingly environmentally conscious consumers worldwide. Technical research and commercial pilot programs are underway across multiple regions and companies to optimize insect meal formulations, validate performance metrics, and establish viable supply chains for large-scale aquaculture feed production using these alternative protein sources consistently and reliably across diverse farming systems and environmental conditions globally. Industry collaboration and investment in insect protein development indicate growing confidence in the viability and scalability of these alternative ingredients for mainstream aquaculture feed applications in coming years as sustainability pressures and regulatory requirements continue to shape global feed production strategies and practices within the farmed fish industry overall. The advancement reflects technological progress, market demand for sustainable practices, and industry-wide commitment to developing next-generation feed solutions that balance environmental stewardship with economic performance across the global aquaculture sector's expansion and evolution in response to global food security and sustainability imperatives. BioMar's involvement demonstrates the company's commitment to innovation in feed technology and sustainability initiatives aligned with industry trends toward alternative protein sources and improved environmental performance across farmed salmon production systems, particularly in strategic growth markets like Chile where the company maintains significant operational presence and market share among regional producers seeking advanced feed solutions and technical support services from leading global aquaculture nutrition providers and ingredient specialists throughout the region. These developments support continued evolution of Chile's competitive advantages in global salmon production through feed innovation, ingredient optimization, and sustainability improvements that enhance product quality, reduce production costs, and improve environmental performance metrics across the country's major salmon farming operations and supply chain networks serving international markets and consumers prioritizing responsibly produced seafood products with superior sustainability credentials and environmental stewardship practices throughout farming and processing operations. The insect meal incorporation trend also reflects broader industry recognition of the need for circular economy approaches to aquaculture feed production, waste utilization, and resource efficiency improvements that support long-term viability and environmental responsibility in global seafood production systems while meeting growing demand for sustainable protein sources from farmed fish and other aquaculture species worldwide. BioMar's participation in these innovation initiatives underscores the company's strategic focus on emerging markets, technological advancement, and sustainability leadership within the global aquaculture feed industry as competitive pressures and environmental imperatives drive continuous improvement in feed formulations, ingredient sourcing, and production practices across regional and global operations serving diverse customer segments and production systems with specialized feed solutions tailored to specific species, farming environments, and performance objectives across the farmed fish industry. The advancement of insect meal incorporation in Chilean salmon feed represents meaningful progress toward more sustainable, economically viable, and environmentally responsible aquaculture production systems that support industry growth, competitive advantage, and long-term viability while addressing global food security needs, environmental conservation objectives, and sustainability imperatives across the global aquaculture sector's continued expansion and evolution in response to changing market conditions, consumer preferences, and environmental and regulatory requirements affecting farmed fish production worldwide.  The Chilean aquaculture industry is incorporating insect meal into salmon feed as part of broader efforts to develop sustainable alternative protein sources. BioMar is mentioned as participating in this industry-wide trend toward innovative feed formulations using insect-based ingredients for salmon production in Chile."
+    },
+    {
+      "id": 54643,
+      "story_id": 1350,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdjFzSjRLZXQ1Yno3QVFRcnUtR3RKdzU1bjFWMFhtRGpOdTFWZnFQTC1TUkcxM1lKRDU1ZkV5N2lqZ0JLN0Q3YWo4M3hoMmMzdVpLQWU5SDFJcUp6alZTOFBVVG1DSTY2UXRfOGNTYjZDUVVrNVlSUEhkNU9BZGlGcQ?oc=5",
+      "title": "Skretting makes larvae fish feed greener - All About Feed",
+      "source_name": "All About Feed",
+      "language": "en",
+      "country": "NL",
+      "published_at": "2021-02-12T07:46:03+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdjFzSjRLZXQ1Yno3QVFRcnUtR3RKdzU1bjFWMFhtRGpOdTFWZnFQTC1TUkcxM1lKRDU1ZkV5N2lqZ0JLN0Q3YWo4M3hoMmMzdVpLQWU5SDFJcUp6alZTOFBVVG1DSTY2UXRfOGNTYjZDUVVrNVlSUEhkNU9BZGlGcQ?oc=5\" target=\"_blank\">Skretting makes larvae fish feed greener</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>"
+    },
+    {
+      "id": 54656,
+      "story_id": 1273,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNW9NSExoSHUyOE14cWw2NjFVUWh1bVpiNkJYaFNNd01Fa1JuN0dQdVdDejFPSWNDVm5JbGdCLUF2eG5xS2owQXFDMTc5bEgzSGFJOWtwS0hmM3l0elBlMDNZZ2xxbUY4T3YwZ3JqdDNxS0NVaE9nRVctWmVDNWctNzh3Rmt6N1d1Ul9uQg?oc=5",
+      "title": "54’ - Gult kort til Ingeborg Skretting - TV2.no",
+      "source_name": "TV2.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNW9NSExoSHUyOE14cWw2NjFVUWh1bVpiNkJYaFNNd01Fa1JuN0dQdVdDejFPSWNDVm5JbGdCLUF2eG5xS2owQXFDMTc5bEgzSGFJOWtwS0hmM3l0elBlMDNZZ2xxbUY4T3YwZ3JqdDNxS0NVaE9nRVctWmVDNWctNzh3Rmt6N1d1Ul9uQg?oc=5\" target=\"_blank\">54’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
+    },
+    {
+      "id": 54937,
+      "story_id": 1354,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3NveURrbExtaUpRczFtb1gtank3X2FPSnh0RDhEaTVQQkdRa3lBTmoyMXZpbXdkOFc4V1dUOTlvRXBPWVQwNjFRaVM4MzQtRTBVaFM3RXE5Ync4UjVVRHFhX1pkUFlqai1ELVhfYnY4V1JLTmRBaXNLWG8xNHZnS3AxdnVQSEJ5TjFjcUgxYXhGcDl6Q3E5NlAwLUl1ck84Wk1Qem5B?oc=5",
+      "title": "Emergencia controlada en Planta Skretting Osorno: Sin mayores daños - Paislobo Prensa",
+      "source_name": "Paislobo Prensa",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2024-03-01T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3NveURrbExtaUpRczFtb1gtank3X2FPSnh0RDhEaTVQQkdRa3lBTmoyMXZpbXdkOFc4V1dUOTlvRXBPWVQwNjFRaVM4MzQtRTBVaFM3RXE5Ync4UjVVRHFhX1pkUFlqai1ELVhfYnY4V1JLTmRBaXNLWG8xNHZnS3AxdnVQSEJ5TjFjcUgxYXhGcDl6Q3E5NlAwLUl1ck84Wk1Qem5B?oc=5\" target=\"_blank\">Emergencia controlada en Planta Skretting Osorno: Sin mayores daños</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paislobo Prensa</font>"
+    },
+    {
+      "id": 54938,
+      "story_id": 1352,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0dW92cVROYjd6T25hbkxfRzh3OWtUcUdxLU5nRmJYSlZ5ejBqZ19CZEgxNEpuT2ZsQmJHZWdKdjNFNmt2QWV0R3dyTFlHVVlQZUUtSDZ6OXYwcFVZUDdKMko2Tk0wQWc?oc=5",
+      "title": "Skretting presenta Elevia, un nuevo alimento para la cría de camarón - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2023-06-12T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0dW92cVROYjd6T25hbkxfRzh3OWtUcUdxLU5nRmJYSlZ5ejBqZ19CZEgxNEpuT2ZsQmJHZWdKdjNFNmt2QWV0R3dyTFlHVVlQZUUtSDZ6OXYwcFVZUDdKMko2Tk0wQWc?oc=5\" target=\"_blank\">Skretting presenta Elevia, un nuevo alimento para la cría de camarón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+    },
+    {
+      "id": 54939,
+      "story_id": 1346,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXEtZ0lZN0tJZElEa0RoQmJPd0VhRlU3TkNnenpYdFRIbkJJZzkxSFdla01UbUE0S3hVT0lOdWthVTZfZzJSZlh0aDJ4SXhwMU54OElXaGFFRTBRbm5nVE1nb0VPRExFeXlFNUhzNWRCU0hYWkw4RGRaSzdtS2JpclM5amlPbG1uNERtelFyS0p1UnBtSGxHX2RPcUx6dzN5VU9QVFhraHNFaWZuOFFXT2RJNVNJYy01d3lBYzlkRmxESUk?oc=5",
+      "title": "Skretting: múltiples sectores se suman al llamado de trabajo colaborativo - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2016-11-18T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXEtZ0lZN0tJZElEa0RoQmJPd0VhRlU3TkNnenpYdFRIbkJJZzkxSFdla01UbUE0S3hVT0lOdWthVTZfZzJSZlh0aDJ4SXhwMU54OElXaGFFRTBRbm5nVE1nb0VPRExFeXlFNUhzNWRCU0hYWkw4RGRaSzdtS2JpclM5amlPbG1uNERtelFyS0p1UnBtSGxHX2RPcUx6dzN5VU9QVFhraHNFaWZuOFFXT2RJNVNJYy01d3lBYzlkRmxESUk?oc=5\" target=\"_blank\">Skretting: múltiples sectores se suman al llamado de trabajo colaborativo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 54940,
+      "story_id": 1353,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGRGMUpHUkhwai1GYkt2UHUwYi1rclBMMEhuNGZjTEdWeFZ4ZG5LUEtIWVdVTTlNWFh2eDJfR2I5Rk1ERG9EQ2ZaQWZfeHluTWc1X29fZEFoVW5WeEx5azMzYTcyN3ljS2NYVXByVkhTLW83ekgzNUY0WTgtM0dUSkVobktCNlBUT3RrcU11b0lydjQ5blBpT0Zvem0xMEtvaVE?oc=5",
+      "title": "Skretting Chile elimina el consumo de carbón en sus operaciones - Paislobo Prensa",
+      "source_name": "Paislobo Prensa",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2023-10-03T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGRGMUpHUkhwai1GYkt2UHUwYi1rclBMMEhuNGZjTEdWeFZ4ZG5LUEtIWVdVTTlNWFh2eDJfR2I5Rk1ERG9EQ2ZaQWZfeHluTWc1X29fZEFoVW5WeEx5azMzYTcyN3ljS2NYVXByVkhTLW83ekgzNUY0WTgtM0dUSkVobktCNlBUT3RrcU11b0lydjQ5blBpT0Zvem0xMEtvaVE?oc=5\" target=\"_blank\">Skretting Chile elimina el consumo de carbón en sus operaciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paislobo Prensa</font>"
+    },
+    {
+      "id": 54941,
+      "story_id": 536,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlc2bWtrc25sQTJjSFNtZ3IxVGZ4V3czVTJRY1J6c1A1Ykt2ZjNmN1JIcmx3MnBoTEY0Q2owaVNfbzFoNUxBem9BREl1emJWUExXZGlTME9Iay1xVXN1dDV4UnMySkN5czU3OUNyQXFSeExqWllYdXYyX1ktV2RORl9rVWtRdWFsOXpURXhzbXJ4MjMtNTBwb3lRVml5anJHZlVYZF9pNXMxRDU3UmxNX1ZzT2UyZUNyTm1OOTBnalRQQkVoRkVMNDNhQVhoZTk3cDFHMm9rcENnWGplX3lKREhhWmNTN3ZaMWVQTGYtSmxDdw?oc=5",
+      "title": "Skretting Chile logra más de 87% de avance en acciones realizables por Acuerdo de Producción Limpia - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2023-01-27T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlc2bWtrc25sQTJjSFNtZ3IxVGZ4V3czVTJRY1J6c1A1Ykt2ZjNmN1JIcmx3MnBoTEY0Q2owaVNfbzFoNUxBem9BREl1emJWUExXZGlTME9Iay1xVXN1dDV4UnMySkN5czU3OUNyQXFSeExqWllYdXYyX1ktV2RORl9rVWtRdWFsOXpURXhzbXJ4MjMtNTBwb3lRVml5anJHZlVYZF9pNXMxRDU3UmxNX1ZzT2UyZUNyTm1OOTBnalRQQkVoRkVMNDNhQVhoZTk3cDFHMm9rcENnWGplX3lKREhhWmNTN3ZaMWVQTGYtSmxDdw?oc=5\" target=\"_blank\">Skretting Chile logra más de 87% de avance en acciones realizables por Acuerdo de Producción Limpia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 54942,
+      "story_id": 1347,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZmcxM28tZWY2UmQ0MkYxbW5Wd1dzTUZGU3UyNHVYNGdBaDZQNDFnVHBIZXdLYl95LWFHYm1PYkpBQnUtY3ZWNnc3elRUZ3ptN2VnR3B5Vll3UlZHc1NVWm1WNDQ3cVlHVHQ4MWh6SlpFNnpRSTVnUU1HSEdNaE1DVU1RcFhWaTNVOXJYQl9STDFlUVB4RVp6NQ?oc=5",
+      "title": "Trabajadores Skretting temen perder sus trabajos por plano regulador #Osorno - RadioSago",
+      "source_name": "RadioSago",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2017-03-06T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZmcxM28tZWY2UmQ0MkYxbW5Wd1dzTUZGU3UyNHVYNGdBaDZQNDFnVHBIZXdLYl95LWFHYm1PYkpBQnUtY3ZWNnc3elRUZ3ptN2VnR3B5Vll3UlZHc1NVWm1WNDQ3cVlHVHQ4MWh6SlpFNnpRSTVnUU1HSEdNaE1DVU1RcFhWaTNVOXJYQl9STDFlUVB4RVp6NQ?oc=5\" target=\"_blank\">Trabajadores Skretting temen perder sus trabajos por plano regulador #Osorno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RadioSago</font>"
+    },
+    {
+      "id": 54943,
+      "story_id": 1345,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZm1Wa0RCTWJodDBfa1hzTlBJVE1nc3BTTTlVelh3T1U4X2JUTlEyckhSM2M3cnNwV2F3dFMxMTVKWkpkdUJNMU9Kdi1ndXNMZlJwNFg3U3d6RllTWDUySi11WmVHWkhQM1dSWlJKVS1HdGR3Sm1Sd2dwZm5kOEQyalUwc19rWGUxWklZcmVub1BGaXlNN3BuampxbGVMSWxock9Da1c1dzFETUdCcVRrVmlRUVF2dmVxVmc?oc=5",
+      "title": "Skretting puede producir dietas sin harina de pescado - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2016-03-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZm1Wa0RCTWJodDBfa1hzTlBJVE1nc3BTTTlVelh3T1U4X2JUTlEyckhSM2M3cnNwV2F3dFMxMTVKWkpkdUJNMU9Kdi1ndXNMZlJwNFg3U3d6RllTWDUySi11WmVHWkhQM1dSWlJKVS1HdGR3Sm1Sd2dwZm5kOEQyalUwc19rWGUxWklZcmVub1BGaXlNN3BuampxbGVMSWxock9Da1c1dzFETUdCcVRrVmlRUVF2dmVxVmc?oc=5\" target=\"_blank\">Skretting puede producir dietas sin harina de pescado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 54944,
+      "story_id": 1344,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3lQaS1aMzF4Qm5Ec0hNcDlRM2QtQjBXQ2MxUXdFUnpvQnp5RHlSX2I5WVpSVDZJUk1mdjFrbzNWYTRObm5NYWNDbHNsN0Y1SU1CeVJrWkRiNjkzS2hFMm1WOE5OMm14eGo2MTZ4NktZQmctVGc2ZkZCOTU4VkJUdnVoQWFVbFhSbmVVcDBZeGFBQ3BMVy1tME5PQWs3Slk?oc=5",
+      "title": "Planta de Skretting logró récord de 2 años sin accidentes - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2014-07-21T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3lQaS1aMzF4Qm5Ec0hNcDlRM2QtQjBXQ2MxUXdFUnpvQnp5RHlSX2I5WVpSVDZJUk1mdjFrbzNWYTRObm5NYWNDbHNsN0Y1SU1CeVJrWkRiNjkzS2hFMm1WOE5OMm14eGo2MTZ4NktZQmctVGc2ZkZCOTU4VkJUdnVoQWFVbFhSbmVVcDBZeGFBQ3BMVy1tME5PQWs3Slk?oc=5\" target=\"_blank\">Planta de Skretting logró récord de 2 años sin accidentes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 54945,
+      "story_id": 1348,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcEpaVWIwaE42THhJeUxta0d2VGVfNm5rY2pfMDc2N1FoN1FSNW5LZ0FGcTF1Szc2OXRwSXNNVjgxWlZsZlg3VmNEQXBjSjh2YmtwTlRRLUFxZlBSY1VwamRMckJlYzVpSEdsN0RDOXZyank1Sk5ncDMxUUEyc0hnaDZmanBreGRaZC0tMHAxVFA2bjhFOVRGMGhqcUVCZ1BXeDloTTRGbUFWbXU1akhwUzBDSEtmM2dwcGVpek9LNlMtNEgyekgwX2NLOUhHWEg3eWp5SjFHenV6bTF4dks1U01n?oc=5",
+      "title": "Skretting y Piscícola Entre Ríos se potencian en la cadena de valor - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2018-01-17T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcEpaVWIwaE42THhJeUxta0d2VGVfNm5rY2pfMDc2N1FoN1FSNW5LZ0FGcTF1Szc2OXRwSXNNVjgxWlZsZlg3VmNEQXBjSjh2YmtwTlRRLUFxZlBSY1VwamRMckJlYzVpSEdsN0RDOXZyank1Sk5ncDMxUUEyc0hnaDZmanBreGRaZC0tMHAxVFA2bjhFOVRGMGhqcUVCZ1BXeDloTTRGbUFWbXU1akhwUzBDSEtmM2dwcGVpek9LNlMtNEgyekgwX2NLOUhHWEg3eWp5SjFHenV6bTF4dks1U01n?oc=5\" target=\"_blank\">Skretting y Piscícola Entre Ríos se potencian en la cadena de valor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 54972,
+      "story_id": 1355,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUw0aGVYRGZXbWpFZzAxLVhRTEJtSnpZc1drMGFqZEtNcXJXZktsQnJCaXNWeVFOV1JkclFONUxKT0hCT3RqX2dXTVNOdEdRQ0JHdzdwb201S2RZbDJ1bUV6c3FwWWVmVHpfQmd0Mk1OMjFkSlJUbm43dndZQjhLemFLYUxWbjRyQ1FLdnZCcDZCU3fSAaABQVVfeXFMTTF5bklNZnQtc2NvWGVMMVhXaVpmSEJWWWJSUkVWZmgzRVd1ZXkwdFg0bDU3YTZ3Ym1aY0JuMHpObzcwSmx6dVJGMG1zV1k3T09ZQkxzZlRPaE16bFVGVkRQak5WS20wa2E5MzNKODNzSXAxZnlDRFlNYWhCYUcwbDZWNm00T0FCQ1FiVks3bzZIMHlpM3pnaGJsck8tZ3gyTA?oc=5",
+      "title": "Court gave Nova Austral a momentary respite - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "published_at": "2024-06-06T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUw0aGVYRGZXbWpFZzAxLVhRTEJtSnpZc1drMGFqZEtNcXJXZktsQnJCaXNWeVFOV1JkclFONUxKT0hCT3RqX2dXTVNOdEdRQ0JHdzdwb201S2RZbDJ1bUV6c3FwWWVmVHpfQmd0Mk1OMjFkSlJUbm43dndZQjhLemFLYUxWbjRyQ1FLdnZCcDZCU3fSAaABQVVfeXFMTTF5bklNZnQtc2NvWGVMMVhXaVpmSEJWWWJSUkVWZmgzRVd1ZXkwdFg0bDU3YTZ3Ym1aY0JuMHpObzcwSmx6dVJGMG1zV1k3T09ZQkxzZlRPaE16bFVGVkRQak5WS20wa2E5MzNKODNzSXAxZnlDRFlNYWhCYUcwbDZWNm00T0FCQ1FiVks3bzZIMHlpM3pnaGJsck8tZ3gyTA?oc=5\" target=\"_blank\">Court gave Nova Austral a momentary respite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
     }
   ],
   "share_of_voice": {
@@ -53364,6 +53930,14 @@
         "Skretting": 0
       },
       {
+        "week": "2014-W30",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2014-W33",
         "Aller Aqua": 0,
         "BioMar": 1,
@@ -53617,7 +54191,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2016-W13",
@@ -53748,6 +54322,14 @@
         "Skretting": 0
       },
       {
+        "week": "2016-W46",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2016-W47",
         "Aller Aqua": 0,
         "BioMar": 1,
@@ -53793,7 +54375,7 @@
         "BioMar": 0,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2017-W11",
@@ -54025,7 +54607,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2018-W04",
@@ -54358,7 +54940,7 @@
       {
         "week": "2019-W51",
         "Aller Aqua": 1,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 1
@@ -54657,7 +55239,7 @@
         "BioMar": 0,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2021-W07",
@@ -55070,7 +55652,7 @@
       {
         "week": "2022-W22",
         "Aller Aqua": 2,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -55305,7 +55887,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2023-W05",
@@ -55441,7 +56023,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2023-W25",
@@ -55521,7 +56103,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2023-W41",
@@ -55665,7 +56247,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W10",
@@ -55770,6 +56352,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
+      },
+      {
+        "week": "2024-W23",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2024-W24",
@@ -55982,7 +56572,7 @@
       {
         "week": "2025-W01",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -56470,7 +57060,7 @@
       {
         "week": "2026-W10",
         "Aller Aqua": 0,
-        "BioMar": 11,
+        "BioMar": 12,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -56545,7 +57135,7 @@
         "BioMar": 20,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 13
+        "Skretting": 14
       },
       {
         "week": "2026-W20",
@@ -56563,11 +57153,11 @@
       },
       {
         "company": "BioMar",
-        "count": 609
+        "count": 613
       },
       {
         "company": "Cargill",
-        "count": 218
+        "count": 219
       },
       {
         "company": "Polarfeed",
@@ -56575,7 +57165,7 @@
       },
       {
         "company": "Skretting",
-        "count": 488
+        "count": 499
       }
     ]
   }
