@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-13T11:38:20+00:00",
+  "generated_at": "2026-05-13T18:04:43+00:00",
   "stats": {
-    "mention_count": 1499,
-    "story_count": 1345,
-    "analyzed_count": 615,
-    "off_topic_mentions": 45,
+    "mention_count": 1510,
+    "story_count": 1353,
+    "analyzed_count": 620,
+    "off_topic_mentions": 46,
     "off_topic_stories": 31
   },
   "outlets": [
@@ -116,6 +116,7 @@
     "Kyst.no",
     "La Razón",
     "La Tercera",
+    "La Tribuna de Albacete",
     "La Vanguardia",
     "LaSexta",
     "LandbasedAQ.no",
@@ -1896,6 +1897,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1375,
+      "headline": "Schouw & Co. share buy-back programme, week 12 2026 - Finansavisen",
+      "story_summary": "Schouw & Co. announced or executed a share buy-back programme during week 12 of 2026. The article reports on corporate financial activity related to the parent company of BioMar Group via reference to the matched keyword Jens Bjerg Sørensen, Schouw's President and board member. The article focuses on share repurchase activity rather than operational or product developments at BioMar itself. No specific claims about BioMar's business, strategy, or performance are detailed in the available summary text, which appears to be a routine corporate announcement of financial management activity. The mention of Jens Bjerg Sørensen as a key figure at Schouw confirms the connection to the target brand's parent company, but no direct quotations or executive statements are evident in the provided summary. This is a standard capital allocation update for Schouw & Co shareholders, with BioMar mentioned only as the subsidiary of the parent company undertaking the repurchase programme, if at all implicitly through Schouw's reporting structure and investor communications. The sentiment is neutral because buy-back announcements are factual corporate disclosures without inherent positive or negative connotation unless framed with additional context about financial performance or shareholder confidence (none detected here).\n\nKey Claims: While limited claims are evident from the summary alone, share buy-back programmes are typically disclosed when a public company seeks to return capital to shareholders and may signal management confidence in valuation, though the article does not elaborate on motive or financial details. No product, operational, or strategic claims specific to BioMar are present in the provided text. The article appears to be a regulatory or investor-relations disclosure rather than editorial coverage, and thus does not carry controversy, product issues, or other risk dimensions beyond standard corporate financial activity (capital allocation).\n\nRisk Flags: financial (share buy-back and capital allocation activity) is the primary descriptor. No legal, controversy, product_issue, or exec_statement flags apply based on the limited summary text provided; no named executive quote is evident, though Jens Bjerg Sørensen's name appears in the keyword match, it does not confirm a direct statement or quote in the article text itself. Without access to the full article, no additional risk flags can be confidently assigned. The prominence is secondary because the article is about Schouw & Co.'s financial activity, not BioMar's operations, products, or market position directly.\n\nPeople Quoted: None identified from the summary text provided. Although Jens Bjerg Sørensen was the matched keyword, no direct quotation or attributed statement is evident in the supplied summary or lede.\n\nkey_claims: [], ",
+      "first_seen": "2026-03-23T07:00:00+00:00",
+      "last_seen": "2026-03-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 883,
       "headline": "Sport, Folk | Tor Helge (72) har viet 60 år til sykkelen: – Å skape glede er det beste - Solabladet",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmotRGx4enREV1BjX0ltSkQ3VEVsN01CejUtSEFvZzZKUUtBNjRiRzFPci1OYlNYb2FORFhMd0xvWWh1YU4yLVRjZzU2RVVRZmtOTkdqSGhNZzJGUkFId3NJaFA5Ty1WX3BKSVFaTVBQZ0xaenR5T0owNjhJdHNfUWNQZzBaZlExOEY0WHc1c0tZeWgzQlVTTjNLdVpSTWFWVHl6MUxudURtMkh1?oc=5\" target=\"_blank\">Sport, Folk | Tor Helge (72) har viet 60 år til sykkelen: – Å skape glede er det beste</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>",
@@ -3515,7 +3530,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -7784,15 +7799,15 @@
     },
     {
       "id": 661,
-      "headline": "Por primera vez: Chileno asume rol en equipo directivo de Skretting Global - Salmonexpert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOanYyOUs5N3pHQlVrSF9YVmtpTVpHNmRvNW5DSXpkemhRX1F0OFpOYVFZaVpwbVh2b29zZ1BIakEwMFhDUV9PUWUzVGhmUmVDOE5UbGh6SUlMaHhtMTViNkJRbkF5ZTJiZ1pwQVBnRVVPN1ZDMThMaC11QkV3UGw1UDJocWltZHdDUDdMTENGNjhzYUJNaXh2bGgtT19qM0JacTNvbVFUalZOaUlnbklQRmZTSk1EVmttbGNDMmhmUC1RSHRvNjJiWHdoME9oOVV0d2ZEcXhDMUJ2amNkUUFZ?oc=5\" target=\"_blank\">Por primera vez: Chileno asume rol en equipo directivo de Skretting Global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
-      "first_seen": "2025-05-28T07:00:00+00:00",
+      "headline": "Chileno asume rol en equipo directivo de Skretting Global - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnZ3ZWVUTmxoaDhLYkN6TjRwbUpmVURqM0NBbG9QRWdjLXlYNUNCOXpaVW9tR09vanEwTTJmMlB6cXZJUW5rODNCVGdudFNmal9iVlgxeXE5RGE3eEJKRGhxa3ZQamZaVElmQ2dVR3FzU1RuM1IxMVI5eE1adXJBNkFIWHFrV2ROeGFoLU5iYzU4dTZPUWc?oc=5\" target=\"_blank\">Chileno asume rol en equipo directivo de Skretting Global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2025-05-27T07:00:00+00:00",
       "last_seen": "2025-05-28T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -9364,6 +9379,20 @@
         "financial"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1374,
+      "headline": "Empresa de alimentos se consolida en Pargua con sus dos plantas de procesos - aqua.cl",
+      "story_summary": "A feed company is consolidating its presence in Pargua, Chile with the operation of two processing plants. The article discusses the company's operational footprint in the region but the full details are not available in the provided excerpt.",
+      "first_seen": "2024-11-15T08:00:00+00:00",
+      "last_seen": "2024-11-15T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -11799,7 +11828,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -15658,6 +15687,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1373,
+      "headline": "Asumen nuevos gerentes en áreas Comercial y Técnica de BioMar Chile - Salmonexpert",
+      "story_summary": "BioMar Chile has appointed new leadership in its Commercial and Technical departments. The article announces management changes within the subsidiary's organizational structure.",
+      "first_seen": "2019-10-28T07:00:00+00:00",
+      "last_seen": "2019-10-28T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 32,
       "headline": "(+) Tar nye steg i BioMar - Kyst.no",
       "story_summary": "The article reports on BioMar Group advancing its operations or strategy with unspecified new initiatives. BioMar, the aquaculture feed producer headquartered in Aarhus, Denmark, continues to develop its business footprint in the sector.",
@@ -15887,6 +15930,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUWZXZDhaSFRtM0RwTmlOVXpxNUpyY2FhNDMySDB1b2hoQjJ2TnlJQ2QyZDJwcVZXSU1hcDVYY2UyakZaNnhsRkY0QXRZSENQMGdodThhWFVkV0JDWG5FV1RDanZhdFNlUmQ4ZVptNXFpWHNlNWV0TDZYWVJDX2tvYzkxTC1QcWlSVlNVLW1kZGFfWUpWUDFZSFFLNHhEQdIBngFBVV95cUxQUWZXZDhaSFRtM0RwTmlOVXpxNUpyY2FhNDMySDB1b2hoQjJ2TnlJQ2QyZDJwcVZXSU1hcDVYY2UyakZaNnhsRkY0QXRZSENQMGdodThhWFVkV0JDWG5FV1RDanZhdFNlUmQ4ZVptNXFpWHNlNWV0TDZYWVJDX2tvYzkxTC1QcWlSVlNVLW1kZGFfWUpWUDFZSFFLNHhEQQ?oc=5\" target=\"_blank\">Former EWOS executives behind Chile's first land-based salmon farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2019-04-30T07:00:00+00:00",
       "last_seen": "2019-04-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1372,
+      "headline": "Cargill steps up feed production across all its EWOS factories - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTREZ1czUXpnSW94ck9SSEJoS2RQOWxoZ2lpM3g4ZGNvaVl4cml3aHlkMmd4akRCQmRxLU9ST0o1QzhZLTZMYnQ3bnJyMWNrc3poX2ExRjdqT2tXRTB0WVp4LUJWbGNCQVN6TUt3RUVNU25YMFFWWFhQdW4ta2RkOXo4QXFqdWZJTkFyRmFTMHF0cmfSAZMBQVVfeXFMT0U0RGdXM1F6Z0lveHJPUkhCaEtkUDlsaGdpaTN4OGRjb2lZeHJpd2h5ZDJneGpEQkJkcS1PUk9KNUM4WS02TGJ0N25ycjFja3N6aF9hMUY3ak9rV0UwdFlaeC1CVmxjQkFTek1Ld0VFTVNuWDBRVlhYUHVuLWtkZDl6OEFxanVmSU5BckZhUzBxdHJn?oc=5\" target=\"_blank\">Cargill steps up feed production across all its EWOS factories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2019-04-23T07:00:00+00:00",
+      "last_seen": "2019-04-23T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -16344,6 +16401,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 1371,
+      "headline": "Gerentes de Skretting visitan centro de Marine Farm - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUxEYWRuXzZyc2JydkcxWC1jRm5TTk1CdnRWQXV1WHh1bXdHUHJkOUhmdEdZWVNyU09qazEtTUUtdldhYUU0dkgtLTZIaHBvWVlFU01jTUhXTDB4bFZXU1FkUGNyZTI2MDhuLTZ2RXFpcVZxeWVGem1OY1hRZ3BfSXFuZ2UwSm5HRUtleHRYcHNjTlVjTjZtR3hrSFhRNWZ6RDV3?oc=5\" target=\"_blank\">Gerentes de Skretting visitan centro de Marine Farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2018-11-09T08:00:00+00:00",
+      "last_seen": "2018-11-09T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1328,
       "headline": "Skretting es premiada por “compromiso a la seguridad” - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcl9ka1llZmdVWDdyb3NzNDdtc3RlR0dxLXhQbWl5RXpTZ0NUeG9nQkZ0NkhDSTg4UlV0b05USEpfZmw1S2R3bER3RnQ5VGR1UVZON3ZmMkc4bTdUY3BZcEVIV1AwSW1kZl90clJfbGV6LTdmV2dVQzZvTHVFZjliT2VzRUw1ckNuQlZaTjZRcFI?oc=5\" target=\"_blank\">Skretting es premiada por “compromiso a la seguridad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -16454,6 +16525,20 @@
       "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1370,
+      "headline": "Biomar incorpora probióticos en dietas para etapa de agua de mar - Salmonexpert",
+      "story_summary": "BioMar has incorporated probiotics into its diet formulations for salmon in the seawater production stage. The product development represents an advancement in feed nutrition for farmed salmon.",
+      "first_seen": "2018-08-07T07:00:00+00:00",
+      "last_seen": "2018-08-07T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1075,
@@ -16904,6 +16989,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1369,
+      "headline": "Skretting destaca como “top” a centro de cultivo “Alao Sur” - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFNfdjl2cmFwaERHR0JHZENBWGZTdDM5eHU0cG42Ym9xeEhjZEo4Y21EXzBubjgwTVNtSGF3dUNndk5BZE1uTndHV00waDVEV1FaZ2Nnd09SdmsyX0dOUU4zOTdHQk53UHNSUU1WOG9lQ0xsU3V2OF92UU1fU1lJMFo1NnltUmY3YTk0Z1UtRDl6blRod0dObEtPZ2pUbTFFbEJsWHpvcjAtSnFrbS1HclZQN3NZNG1fMTZSRlE3Qk95T2pWMzZoUw?oc=5\" target=\"_blank\">Skretting destaca como “top” a centro de cultivo “Alao Sur”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-11-22T08:00:00+00:00",
+      "last_seen": "2017-11-22T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 20,
       "headline": "BioMar buys Chilean farmer, Schouw & Co. cashflow doubles - SalmonBusiness",
       "story_summary": "BioMar completed an acquisition of a Chilean aquaculture farmer, significantly boosting the financial performance of its parent company Schouw & Co. The deal resulted in a doubling of Schouw's cashflow.",
@@ -16954,6 +17053,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1368,
+      "headline": "BioMar Noruega suma embarcación ecológica a su flota - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmpOOFZtZHlzWFpsa0hDeGFpNUM2SjlzZGdVNjd5S0ZldGllNlA3RFdVUkRVdE9xZjZQb2RRV0t2b3l6WmRvLTNqWWtEVFJsR3gzamZVSzd2dlZrX1NKbkFnNnZoY2RIazh3b0V0RmZjZ2g4TGt6NlVDNENKbm12UFEwbmo0Vk5jX3dReF9zN19BVmZxdkFTNWRSN3pib2ZrME5SbWJDV0I0Q04zaTIzOVpicXA2eFhzTWRv?oc=5\" target=\"_blank\">BioMar Noruega suma embarcación ecológica a su flota</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-10-12T07:00:00+00:00",
+      "last_seen": "2017-10-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -54078,6 +54191,263 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU3B1YTc3RUlnbEx2UmtacjVDVGF1ZDNYR0lpeGhXSmpmenFoc0dYUk9NaU85Wlk0ckEySWFNcXJDZWcwOTROLTAyeG9fblZnV25IOHJianlPc01naFdJdkxORFF5S3NRUlFrR0JaSmFaeWFRNWtHb0U0WUcxMkJJNVR1QWcxOVFHdFBqbkhXcU5mcWk4NFhzbHpiUGtPWTAwYndPM2IxdHlERklhaF95TTVNZFEtU09UQVVZTFMxQzUwZUZsc3p4bjc2WjFOWXc5bTZ0bW5UVWlNTk5UQTNYV0l6RG9NYkp6eVFrLVVabEg?oc=5\" target=\"_blank\">Finalizando el mes de la mujer, Skretting Chile reconoce a su nueva generación de talento femenino</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 56538,
+      "story_id": 282,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWVWSzBKOXJId2FmSkVvOHNvUHhBd0VDejQyV2FtSjhBVXY5M0dvd2ozaV9kdTQ3ZkZwSE0tcDhtXy1udEZPRkdUbTIyempxNEk3SEZUT0ZYWXpiaGtpQXdKTFFncmxpM0xxNHA0c2p3N3Q4aDFKc3BvdWctMnJzM1AxeXl4QjZoOER6X1BnTm9nMHhXai1ramRJQ2l5bjByRWZSTUM5VGZQdWVKQm5VZkFPT1ZKZUk0ZTJtUjlUeHBtVW9QU3lDTDZ6UTVKRG1oUm9V?oc=5",
+      "title": "Golpe a Biomar: más allá del fraude de 300 millones - La Tribuna de Albacete",
+      "source_name": "La Tribuna de Albacete",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-12-28T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Spanish company Biomar implicated in large-scale fraud scheme",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article reports on a significant fraud case involving a Spanish company named Biomar, with allegations of fraudulent activity totaling around 300 million euros. This appears to be coverage of a criminal or regulatory investigation into the company's conduct beyond the headline fraud figure mentioned."
+    },
+    {
+      "id": 56562,
+      "story_id": 1368,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmpOOFZtZHlzWFpsa0hDeGFpNUM2SjlzZGdVNjd5S0ZldGllNlA3RFdVUkRVdE9xZjZQb2RRV0t2b3l6WmRvLTNqWWtEVFJsR3gzamZVSzd2dlZrX1NKbkFnNnZoY2RIazh3b0V0RmZjZ2g4TGt6NlVDNENKbm12UFEwbmo0Vk5jX3dReF9zN19BVmZxdkFTNWRSN3pib2ZrME5SbWJDV0I0Q04zaTIzOVpicXA2eFhzTWRv?oc=5",
+      "title": "BioMar Noruega suma embarcación ecológica a su flota - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2017-10-12T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmpOOFZtZHlzWFpsa0hDeGFpNUM2SjlzZGdVNjd5S0ZldGllNlA3RFdVUkRVdE9xZjZQb2RRV0t2b3l6WmRvLTNqWWtEVFJsR3gzamZVSzd2dlZrX1NKbkFnNnZoY2RIazh3b0V0RmZjZ2g4TGt6NlVDNENKbm12UFEwbmo0Vk5jX3dReF9zN19BVmZxdkFTNWRSN3pib2ZrME5SbWJDV0I0Q04zaTIzOVpicXA2eFhzTWRv?oc=5\" target=\"_blank\">BioMar Noruega suma embarcación ecológica a su flota</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 56563,
+      "story_id": 1370,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWJkZzNHS1M5blpZODY3bVhDbzNZaXNERmJfR3R2bW00dm1BVXNzWTFCZHZkV2ZjN3ZCSk55UFdaOEpfZV9zVU9Lb3VhZ3N2ZGV5TTRjaWRobVVTN25hSlEzbUZXVGZXUDd6elJFay1PSm5MMHN6YTdsWUhtck9fS25wZ0cxOU1xNnZOR1M3ZHpQcFdpN3dzMUQ4ZlA4Y0NiZ1RQa01wdGIxRDFiV2c?oc=5",
+      "title": "Biomar incorpora probióticos en dietas para etapa de agua de mar - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2018-08-07T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar introduces probiotics in seawater stage feed formulations",
+      "key_claims": [
+        "BioMar has incorporated probiotics into its diet formulations for the seawater stage of salmon production"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has incorporated probiotics into its diet formulations for salmon in the seawater production stage. The product development represents an advancement in feed nutrition for farmed salmon."
+    },
+    {
+      "id": 56565,
+      "story_id": 1374,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTm5TbUN3dGZPbk95U2NvMUNIejM0X1hOa1dQeUQxUkNfQ2p5QkgxbndYaDV1bTBQX05WbUpjMUl1RTJVWll1Unh2U1RTc1RRMl91ZDlxazJMY21TYnBTalc3WnQ3ckdBRkZadFdrZW9pMkloZmhXQUxxZzhJX1c3eEZrNFJESEF2X0VhRDhsb0hOakJvZ3pkWjJVaUo?oc=5",
+      "title": "Empresa de alimentos se consolida en Pargua con sus dos plantas de procesos - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2024-11-15T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.8,
+      "prominence": "secondary",
+      "angle": "Feed company consolidates operations with two processing plants in Pargua",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A feed company is consolidating its presence in Pargua, Chile with the operation of two processing plants. The article discusses the company's operational footprint in the region but the full details are not available in the provided excerpt."
+    },
+    {
+      "id": 56566,
+      "story_id": 1373,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaE9wODhxbE5rTnpmZTZkSVMxSnlFclFwQ2ZtVE5ZS3d4V0ZXSkNLbFVNMFhiRFpqMGoyU1hiTDBhSllqdkNvYWRHc0RaV2xNTXl3VWdKdnd6aDBUYVlkVzJ4WGtSbU00TklkZXljM2JkQklkbE1DczRkMFNjTmloNnBSdkl1WVc4YU9pdXp4NU4xZWNWT2prOVdqbnFTWWVlVmVjMHpyWUpHbWJoc3pXakYyTGV2WVRCUmdid1BRSklVdjByWmYybA?oc=5",
+      "title": "Asumen nuevos gerentes en áreas Comercial y Técnica de BioMar Chile - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2019-10-28T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "BioMar Chile appoints new Commercial and Technical managers",
+      "key_claims": [
+        "BioMar Chile appointed new managers to Commercial and Technical areas"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "BioMar Chile has appointed new leadership in its Commercial and Technical departments. The article announces management changes within the subsidiary's organizational structure."
+    },
+    {
+      "id": 56749,
+      "story_id": 1375,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMHJFbG9NSEs3VVNOd19LUWJUSENOalZDUnFnbnpDczhNV2dfbTRqTXNsT1hXM0JEUjlRX2cwWkg3X3N3YVY2b3pNai1hV3pDbGlLeTQtOVctZTlSU2NHd25hSGRoY3QzbHh5ZF9iamlUZnB4YjVzQlNsTDE3QVUxVFEtbHN4bkdFSkZnREY4RllwSzd0SF9ZRDlMcW5SbHFybXNIMmo0WE1zNFEyOThZY2NwVk9NZFYxNW9yM1VTcTFLMXktaEhoYjVxXzBjVFVyNFR1Z2dpdFVuUQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 12 2026 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-03-23T07:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Schouw & Co. executes share buy-back programme in week 12 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced or executed a share buy-back programme during week 12 of 2026. The article reports on corporate financial activity related to the parent company of BioMar Group via reference to the matched keyword Jens Bjerg Sørensen, Schouw's President and board member. The article focuses on share repurchase activity rather than operational or product developments at BioMar itself. No specific claims about BioMar's business, strategy, or performance are detailed in the available summary text, which appears to be a routine corporate announcement of financial management activity. The mention of Jens Bjerg Sørensen as a key figure at Schouw confirms the connection to the target brand's parent company, but no direct quotations or executive statements are evident in the provided summary. This is a standard capital allocation update for Schouw & Co shareholders, with BioMar mentioned only as the subsidiary of the parent company undertaking the repurchase programme, if at all implicitly through Schouw's reporting structure and investor communications. The sentiment is neutral because buy-back announcements are factual corporate disclosures without inherent positive or negative connotation unless framed with additional context about financial performance or shareholder confidence (none detected here).\n\nKey Claims: While limited claims are evident from the summary alone, share buy-back programmes are typically disclosed when a public company seeks to return capital to shareholders and may signal management confidence in valuation, though the article does not elaborate on motive or financial details. No product, operational, or strategic claims specific to BioMar are present in the provided text. The article appears to be a regulatory or investor-relations disclosure rather than editorial coverage, and thus does not carry controversy, product issues, or other risk dimensions beyond standard corporate financial activity (capital allocation).\n\nRisk Flags: financial (share buy-back and capital allocation activity) is the primary descriptor. No legal, controversy, product_issue, or exec_statement flags apply based on the limited summary text provided; no named executive quote is evident, though Jens Bjerg Sørensen's name appears in the keyword match, it does not confirm a direct statement or quote in the article text itself. Without access to the full article, no additional risk flags can be confidently assigned. The prominence is secondary because the article is about Schouw & Co.'s financial activity, not BioMar's operations, products, or market position directly.\n\nPeople Quoted: None identified from the summary text provided. Although Jens Bjerg Sørensen was the matched keyword, no direct quotation or attributed statement is evident in the supplied summary or lede.\n\nkey_claims: [], "
+    },
+    {
+      "id": 57078,
+      "story_id": 661,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnZ3ZWVUTmxoaDhLYkN6TjRwbUpmVURqM0NBbG9QRWdjLXlYNUNCOXpaVW9tR09vanEwTTJmMlB6cXZJUW5rODNCVGdudFNmal9iVlgxeXE5RGE3eEJKRGhxa3ZQamZaVElmQ2dVR3FzU1RuM1IxMVI5eE1adXJBNkFIWHFrV2ROeGFoLU5iYzU4dTZPUWc?oc=5",
+      "title": "Chileno asume rol en equipo directivo de Skretting Global - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2025-05-27T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnZ3ZWVUTmxoaDhLYkN6TjRwbUpmVURqM0NBbG9QRWdjLXlYNUNCOXpaVW9tR09vanEwTTJmMlB6cXZJUW5rODNCVGdudFNmal9iVlgxeXE5RGE3eEJKRGhxa3ZQamZaVElmQ2dVR3FzU1RuM1IxMVI5eE1adXJBNkFIWHFrV2ROeGFoLU5iYzU4dTZPUWc?oc=5\" target=\"_blank\">Chileno asume rol en equipo directivo de Skretting Global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 57151,
+      "story_id": 559,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1FXdkdoS1pBeTVSMm8xNDM1RFY4b3V3cVRiUFNrVUpqN3hadWU0akw2cDFrOGtockFTY3BDUFUxVmRYdjVMVmFiTU9PaFdOVmFSdjV4TVFLR2M0WWx4U19WajJWWXpVc1N2YXBzZGxzTFRUaGhIN2RBSmJsS2ZYM3V4WFpieUpkYUJZZ0pVdGx3Zy1zS0k4SEwwZTJxQQ?oc=5",
+      "title": "Skretting Chile presenta a su nueva gerente de Recursos Humanos - Paislobo Prensa",
+      "source_name": "Paislobo Prensa",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2023-08-16T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQX1FXdkdoS1pBeTVSMm8xNDM1RFY4b3V3cVRiUFNrVUpqN3hadWU0akw2cDFrOGtockFTY3BDUFUxVmRYdjVMVmFiTU9PaFdOVmFSdjV4TVFLR2M0WWx4U19WajJWWXpVc1N2YXBzZGxzTFRUaGhIN2RBSmJsS2ZYM3V4WFpieUpkYUJZZ0pVdGx3Zy1zS0k4SEwwZTJxQQ?oc=5\" target=\"_blank\">Skretting Chile presenta a su nueva gerente de Recursos Humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paislobo Prensa</font>"
+    },
+    {
+      "id": 57157,
+      "story_id": 1369,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFNfdjl2cmFwaERHR0JHZENBWGZTdDM5eHU0cG42Ym9xeEhjZEo4Y21EXzBubjgwTVNtSGF3dUNndk5BZE1uTndHV00waDVEV1FaZ2Nnd09SdmsyX0dOUU4zOTdHQk53UHNSUU1WOG9lQ0xsU3V2OF92UU1fU1lJMFo1NnltUmY3YTk0Z1UtRDl6blRod0dObEtPZ2pUbTFFbEJsWHpvcjAtSnFrbS1HclZQN3NZNG1fMTZSRlE3Qk95T2pWMzZoUw?oc=5",
+      "title": "Skretting destaca como “top” a centro de cultivo “Alao Sur” - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2017-11-22T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFNfdjl2cmFwaERHR0JHZENBWGZTdDM5eHU0cG42Ym9xeEhjZEo4Y21EXzBubjgwTVNtSGF3dUNndk5BZE1uTndHV00waDVEV1FaZ2Nnd09SdmsyX0dOUU4zOTdHQk53UHNSUU1WOG9lQ0xsU3V2OF92UU1fU1lJMFo1NnltUmY3YTk0Z1UtRDl6blRod0dObEtPZ2pUbTFFbEJsWHpvcjAtSnFrbS1HclZQN3NZNG1fMTZSRlE3Qk95T2pWMzZoUw?oc=5\" target=\"_blank\">Skretting destaca como “top” a centro de cultivo “Alao Sur”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 57158,
+      "story_id": 1371,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUxEYWRuXzZyc2JydkcxWC1jRm5TTk1CdnRWQXV1WHh1bXdHUHJkOUhmdEdZWVNyU09qazEtTUUtdldhYUU0dkgtLTZIaHBvWVlFU01jTUhXTDB4bFZXU1FkUGNyZTI2MDhuLTZ2RXFpcVZxeWVGem1OY1hRZ3BfSXFuZ2UwSm5HRUtleHRYcHNjTlVjTjZtR3hrSFhRNWZ6RDV3?oc=5",
+      "title": "Gerentes de Skretting visitan centro de Marine Farm - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2018-11-09T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUxEYWRuXzZyc2JydkcxWC1jRm5TTk1CdnRWQXV1WHh1bXdHUHJkOUhmdEdZWVNyU09qazEtTUUtdldhYUU0dkgtLTZIaHBvWVlFU01jTUhXTDB4bFZXU1FkUGNyZTI2MDhuLTZ2RXFpcVZxeWVGem1OY1hRZ3BfSXFuZ2UwSm5HRUtleHRYcHNjTlVjTjZtR3hrSFhRNWZ6RDV3?oc=5\" target=\"_blank\">Gerentes de Skretting visitan centro de Marine Farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 57185,
+      "story_id": 1372,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTREZ1czUXpnSW94ck9SSEJoS2RQOWxoZ2lpM3g4ZGNvaVl4cml3aHlkMmd4akRCQmRxLU9ST0o1QzhZLTZMYnQ3bnJyMWNrc3poX2ExRjdqT2tXRTB0WVp4LUJWbGNCQVN6TUt3RUVNU25YMFFWWFhQdW4ta2RkOXo4QXFqdWZJTkFyRmFTMHF0cmfSAZMBQVVfeXFMT0U0RGdXM1F6Z0lveHJPUkhCaEtkUDlsaGdpaTN4OGRjb2lZeHJpd2h5ZDJneGpEQkJkcS1PUk9KNUM4WS02TGJ0N25ycjFja3N6aF9hMUY3ak9rV0UwdFlaeC1CVmxjQkFTek1Ld0VFTVNuWDBRVlhYUHVuLWtkZDl6OEFxanVmSU5BckZhUzBxdHJn?oc=5",
+      "title": "Cargill steps up feed production across all its EWOS factories - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2019-04-23T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTREZ1czUXpnSW94ck9SSEJoS2RQOWxoZ2lpM3g4ZGNvaVl4cml3aHlkMmd4akRCQmRxLU9ST0o1QzhZLTZMYnQ3bnJyMWNrc3poX2ExRjdqT2tXRTB0WVp4LUJWbGNCQVN6TUt3RUVNU25YMFFWWFhQdW4ta2RkOXo4QXFqdWZJTkFyRmFTMHF0cmfSAZMBQVVfeXFMT0U0RGdXM1F6Z0lveHJPUkhCaEtkUDlsaGdpaTN4OGRjb2lZeHJpd2h5ZDJneGpEQkJkcS1PUk9KNUM4WS02TGJ0N25ycjFja3N6aF9hMUY3ak9rV0UwdFlaeC1CVmxjQkFTek1Ld0VFTVNuWDBRVlhYUHVuLWtkZDl6OEFxanVmSU5BckZhUzBxdHJn?oc=5\" target=\"_blank\">Cargill steps up feed production across all its EWOS factories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
     }
   ],
   "share_of_voice": {
@@ -54940,7 +55310,7 @@
       {
         "week": "2017-W41",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -54968,6 +55338,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2017-W47",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2017-W48",
@@ -55116,7 +55494,7 @@
       {
         "week": "2018-W32",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 0
@@ -55155,6 +55533,14 @@
       },
       {
         "week": "2018-W44",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
+        "week": "2018-W45",
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 0,
@@ -55258,6 +55644,14 @@
         "Skretting": 0
       },
       {
+        "week": "2019-W17",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2019-W18",
         "Aller Aqua": 2,
         "BioMar": 0,
@@ -55324,7 +55718,7 @@
       {
         "week": "2019-W44",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -56463,7 +56857,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2023-W34",
@@ -56932,7 +57326,7 @@
       {
         "week": "2024-W46",
         "Aller Aqua": 0,
-        "BioMar": 14,
+        "BioMar": 15,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -57159,7 +57553,7 @@
         "BioMar": 8,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2025-W23",
@@ -57396,7 +57790,7 @@
       {
         "week": "2025-W52",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 19
@@ -57500,7 +57894,7 @@
       {
         "week": "2026-W13",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 1,
         "Polarfeed": 2,
         "Skretting": 2
@@ -57569,11 +57963,11 @@
       },
       {
         "company": "BioMar",
-        "count": 615
+        "count": 621
       },
       {
         "company": "Cargill",
-        "count": 219
+        "count": 220
       },
       {
         "company": "Polarfeed",
@@ -57581,7 +57975,7 @@
       },
       {
         "company": "Skretting",
-        "count": 509
+        "count": 513
       }
     ]
   }
