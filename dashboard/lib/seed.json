@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T23:02:57+00:00",
+  "generated_at": "2026-05-14T08:07:52+00:00",
   "stats": {
-    "mention_count": 1515,
-    "story_count": 1356,
-    "analyzed_count": 623,
-    "off_topic_mentions": 47,
-    "off_topic_stories": 32
+    "mention_count": 1522,
+    "story_count": 1363,
+    "analyzed_count": 628,
+    "off_topic_mentions": 48,
+    "off_topic_stories": 33
   },
   "outlets": [
     "20Minutos",
@@ -3158,6 +3158,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1385,
+      "headline": "BioMar reports a solid 2025 - Aquafeed.com",
+      "story_summary": "BioMar Group reported solid financial results for 2025, indicating strong performance across its operations. The article highlights the company's successful year in the aquaculture feed sector.",
+      "first_seen": "2026-01-28T08:00:00+00:00",
+      "last_seen": "2026-01-28T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 285,
       "headline": "Good results for 2025 given the circumstances and a strong outlook for 2026 - Finansavisen",
       "story_summary": "Schouw & Co reports satisfactory 2025 financial results despite challenging circumstances and expresses a positive outlook for 2026. The company demonstrates resilience and confidence in its market position moving forward into the new year.",
@@ -6149,6 +6163,20 @@
       "first_seen": "2025-09-02T07:00:00+00:00",
       "last_seen": "2025-09-02T07:00:00+00:00",
       "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1384,
+      "headline": "BioMar, Innovafeed team with retail giant to accelerate commercialization of feed ingredient - intrafish.com",
+      "story_summary": "BioMar and Innovafeed have formed a partnership with a retail giant to accelerate the commercialization of a feed ingredient. The collaboration is intended to expand market reach and expedite product availability through the retailer's distribution network.\n\n(Note: Full article text not provided; analysis based on headline and lede only.)\n\nActually unable to access full article content. Headline and lede provided only allow inference that this is a positive partnership announcement focused on commercialization acceleration through retail distribution. Exact details of the ingredient, retailer identity, and specific claims cannot be verified from the excerpt provided. Re-analysis of full article content recommended once available.\n\nBased on headline alone: BioMar partnership with Innovafeed and retailer announced for feed ingredient commercialization acceleration; this presents as positive business development news for BioMar's product portfolio expansion.\n\nSummary: BioMar and Innovafeed have announced a partnership with a major retail company to accelerate commercialization of a feed ingredient. The collaboration aims to leverage the retailer's distribution capabilities to scale product availability and market reach.\n\n(Unable to complete key_claims without full article text; headline suggests product commercialization / partnership announcement.)\n\nAdjusted summary with available data: BioMar and Innovafeed partner with a major retailer to accelerate feed ingredient commercialization. The partnership is designed to expedite market expansion through established retail distribution channels.\n\nThis analysis is limited by access to headline and lede only. Full article text needed to extract direct quotes, specific claims, or executive statements.\n\nFinal response based on available information:\n\n{\"sentiment\": \"positive\", \"sentiment_confidence\": 0.72, \"prominence\": \"primary\", \"angle\": \"BioMar and Innovafeed partner with retailer to commercialize feed ingredient\", \"is_about_target_brand\": true, \"key_claims\": [\"BioMar and Innovafeed are partnering to commercialize a feed ingredient\", \"Partnership includes a major retail company\", \"Collaboration aims to accelerate commercialization and market reach\"], \"people_quoted\": [], \"risk_flags\": [\"none\"], \"summary\": \"BioMar and Innovafeed have partnered with a major retailer to accelerate the commercialization of a feed ingredient. The collaboration leverages the retailer's distribution network to expand market reach and availability.\"}",
+      "first_seen": "2025-09-02T07:00:00+00:00",
+      "last_seen": "2025-09-02T07:00:00+00:00",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -10336,6 +10364,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1383,
+      "headline": "El centro Capeahuapi de Marine Farm obtiene el premio al Mejor FCR en la categoría Coho - Salmonexpert",
+      "story_summary": "Marine Farm's Capeahuapi center received an award for achieving the best Feed Conversion Ratio (FCR) in the Coho salmon category. The article recognizes operational excellence in aquaculture feed efficiency metrics at this facility.",
+      "first_seen": "2024-05-23T07:00:00+00:00",
+      "last_seen": "2024-05-23T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 600,
       "headline": "New state-of-the-art vessels for Cargill & Skretting's feed transport collaboration - WEAREAQUACULTURE",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWlFVzVVVEQ3anBtdkNCX2QzalhmRXNVYktNMnNwcHlFVmJ3RlJvUG9MbDNLc251ZU9mMHg2UzVaRWd6ak1kSXg5dS1qcDB3cnBtbVh1VFVRWHZBaC0weGRpNHhiZm4yQXRZNXJSYXluQmkzT1o4RklDN1FuUnZOaTFRSXA5T3JOY1dMM2VwanlTMUdfYmhMT3RGYWpIVVJlUThQN2ZUb29sb1Jzb2F4cXdQNGlVNURlYVFj0gHIAUFVX3lxTE84VlNzUEdMZE1MOWpISFlwVE5DR3I3OTYzQk40Nkc0VHdhV2JoTTZ5LXJ2RTUxYlFoUWpnT3E2d3l0d3VoM2dMM0hLc1RzZ3hWUHltcHNRd3JaVW5GMFdUWHhibUUwalV6Sng3TTVSUW12WTdxS2RTSG5TbVBmdTVRaFJacEwyYVE5anhuOUV3ZU00SGJCOUVoY1NmUE52RzJhcnZaaXN3a2lNOGJKRWJwMFVaSFlTaEFZUDNwMGZVQ2w4b1BHb2Fj?oc=5\" target=\"_blank\">New state-of-the-art vessels for Cargill & Skretting's feed transport collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
@@ -12002,6 +12044,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1382,
+      "headline": "Skretting develops new shrimp feed for improved hatchery performance and operation - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlctSXlYS0V3OHByRWt2MFlydHJvaVpyVmdkMEs0U1FzY1hZb05WaXJDd3dvOHdHNUNGbEM0QkVhUFhqTG55UkRwT0pxNUY0QnV6VGpFNEVWdzF1TmlLVzZsSFVSdDU1Z3ZLUUY1SkFmT1RtTDExMlEyVFVsRjl5bmV5NEhDeDFlSldtWnJzb1puMzFiOU4zWVBKM0M4amtndkRSRTcxUmdCUkFfUlp1Ri1OSnYwdDJZVzY2QnBldw?oc=5\" target=\"_blank\">Skretting develops new shrimp feed for improved hatchery performance and operation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2023-06-09T07:00:00+00:00",
+      "last_seen": "2023-06-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1339,
       "headline": "Loch Duart becomes first salmon producer in UK to choose BioMar’s “Blue Impact” feed - SeafoodSource",
       "story_summary": "Loch Duart, a UK salmon producer, has become the first in the country to adopt BioMar's Blue Impact feed product. The adoption represents a market milestone for BioMar's sustainable aquaculture feed offering.",
@@ -13150,6 +13206,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1381,
+      "headline": "‘We have done well, but not well enough’: Skretting's growth weighs on its sustainability ambitions - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTkVWT0ZJZkF3OVlJemYxMXMtY0tZN0pVbm5QYTB3dnlJQWJhR3JCRHp5LVg1WnRmMkdLOWp5YU9qUXVCT082ZXhPNWR5c2dETHpLU0MxaWxSWnF2cmJ1V1JGRHJ5ZGdQSi1ZemhVMzNsN1BDRGEyelYtZWFZZjVKei1zVWx4U2JLOHluSm83UTlYaGZudHU0VTZ2M3pzQkZDdWo4MjhiM2dfOXFKczJQV043aDNTUy1BZVBFLTcxczVVdzFSemluYVdwNC1XdTJFM1JubQ?oc=5\" target=\"_blank\">‘We have done well, but not well enough’: Skretting's growth weighs on its sustainability ambitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2022-09-01T07:00:00+00:00",
+      "last_seen": "2022-09-01T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1111,
       "headline": "– Vår evne til å jobbe sammen avgjør hvor langt vi når - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5uNWNyaS1LS0VpbUhOSWNjRDljU084M3ZmN2FMcExZbkVmZTBPbDA0UDVmaE1yTjVfcnhLMVg1NzJESnEzc0Rvc2Z2blhlY0p4YjdjaWU0T0M3MUliZ2lrRGpaanJLQWgzRUI0ZzBTNm05Um9PMjhFSEVB?oc=5\" target=\"_blank\">– Vår evne til å jobbe sammen avgjør hvor langt vi når</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -14268,6 +14338,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1380,
+      "headline": "BioMar CEO on the quest for more sustainable aquaculture feed - intrafish.com",
+      "story_summary": "BioMar's CEO Carlos Diaz discusses the company's efforts to develop more sustainable aquaculture feed solutions. The article focuses on BioMar's commitment to advancing sustainability in the aquaculture feed sector through innovation and strategic initiatives.",
+      "first_seen": "2021-09-16T07:00:00+00:00",
+      "last_seen": "2021-09-16T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 497,
@@ -16666,6 +16750,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 1379,
+      "headline": "SCHO Stock Price and Chart — OMXCOP:SCHO - TradingView",
+      "story_summary": "This is a TradingView financial data page displaying stock price information and charting tools for the OMXCOP:SCHO ticker symbol. The article is a technical financial platform interface rather than substantive coverage of Schouw & Co or its business operations.",
+      "first_seen": "2018-04-14T01:38:06+00:00",
+      "last_seen": "2018-04-14T01:38:06+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
     },
     {
       "id": 445,
@@ -54606,6 +54704,169 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnNBS29zUl9vcGd3OG0xd3BiZS1FWDI5UW5rYTNfQWl0Ylh4MjdIWm9HZy00RXdWdHFLX09yOGsxT1lTalplVjFnYkxNMFVVemNVcHU0alJGa3p0T01yeHk5R0NSa1dod1N1ckJpN1dPMFNqaU1vQ0hMajN2UERUdzI3Vkd3Z9IBhgFBVV95cUxPdnNBS29zUl9vcGd3OG0xd3BiZS1FWDI5UW5rYTNfQWl0Ylh4MjdIWm9HZy00RXdWdHFLX09yOGsxT1lTalplVjFnYkxNMFVVemNVcHU0alJGa3p0T01yeHk5R0NSa1dod1N1ckJpN1dPMFNqaU1vQ0hMajN2UERUdzI3Vkd3Zw?oc=5\" target=\"_blank\">Skretting stops the sale of fish feed to Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 58439,
+      "story_id": 1385,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLeTVHLUZ1b2NTbXZ0cWNiNkFwWGhZRHNMN2x6eU5HZ1FCRWZrZEtJRzQ4d0gxemtsSzg0YzF4QlBlU21tbm5xeW1Odk5TeVU0eW16dE80cUF5bjBfVkllNUJQVUowMGxRUzBLaEp3NG16LUVza3c?oc=5",
+      "title": "BioMar reports a solid 2025 - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-01-28T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar delivers strong financial performance in 2025",
+      "key_claims": [
+        "BioMar reported solid results for 2025"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group reported solid financial results for 2025, indicating strong performance across its operations. The article highlights the company's successful year in the aquaculture feed sector."
+    },
+    {
+      "id": 58444,
+      "story_id": 1384,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWVpvWjFYT2gzTGxTYXBIbXZhN0RTbWFDQmhtcVg0Nk9hZHF0MG5xV1ZxaW5MR041dHJMZXRPMks5SmFSR3FWa0dSX0R6ZEdYdzk0WHJia1Fpc2IzcUp5am13dTR5a3NjYktSUFBCWnJPZldZTDFyNUl6WlVSSTJtanBIelRFRHYwdHVqTnFndU11ek8tdzVYRm1OQ0NfVGRZeW90VnFWdk9KbDV1OW5QNDYtS0Jtakc5NWNIX1lNdFN5aEhTaFNHSWFrb3VmOWs?oc=5",
+      "title": "BioMar, Innovafeed team with retail giant to accelerate commercialization of feed ingredient - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2025-09-02T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar and Innovafeed partner with major retailer to scale feed ingredient",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar and Innovafeed have formed a partnership with a retail giant to accelerate the commercialization of a feed ingredient. The collaboration is intended to expand market reach and expedite product availability through the retailer's distribution network.\n\n(Note: Full article text not provided; analysis based on headline and lede only.)\n\nActually unable to access full article content. Headline and lede provided only allow inference that this is a positive partnership announcement focused on commercialization acceleration through retail distribution. Exact details of the ingredient, retailer identity, and specific claims cannot be verified from the excerpt provided. Re-analysis of full article content recommended once available.\n\nBased on headline alone: BioMar partnership with Innovafeed and retailer announced for feed ingredient commercialization acceleration; this presents as positive business development news for BioMar's product portfolio expansion.\n\nSummary: BioMar and Innovafeed have announced a partnership with a major retail company to accelerate commercialization of a feed ingredient. The collaboration aims to leverage the retailer's distribution capabilities to scale product availability and market reach.\n\n(Unable to complete key_claims without full article text; headline suggests product commercialization / partnership announcement.)\n\nAdjusted summary with available data: BioMar and Innovafeed partner with a major retailer to accelerate feed ingredient commercialization. The partnership is designed to expedite market expansion through established retail distribution channels.\n\nThis analysis is limited by access to headline and lede only. Full article text needed to extract direct quotes, specific claims, or executive statements.\n\nFinal response based on available information:\n\n{\"sentiment\": \"positive\", \"sentiment_confidence\": 0.72, \"prominence\": \"primary\", \"angle\": \"BioMar and Innovafeed partner with retailer to commercialize feed ingredient\", \"is_about_target_brand\": true, \"key_claims\": [\"BioMar and Innovafeed are partnering to commercialize a feed ingredient\", \"Partnership includes a major retail company\", \"Collaboration aims to accelerate commercialization and market reach\"], \"people_quoted\": [], \"risk_flags\": [\"none\"], \"summary\": \"BioMar and Innovafeed have partnered with a major retailer to accelerate the commercialization of a feed ingredient. The collaboration leverages the retailer's distribution network to expand market reach and availability.\"}"
+    },
+    {
+      "id": 58796,
+      "story_id": 1383,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0ZTcWJxbWtka0Q2ajQ3NnJzM0p6YTZhM19lcnV6Z1pYM2FNNkM1U2pRRm1QT0JreU84V2k1Q2VOZFVZMkFxaTBOdFJ3aG1iSWZkNjhlUlYwN2piSlZOZTRXR3VsMWttbElpZWdWSFB0LUFUYW1GZTg0anpnX3BwV0R1ZXcxZ1dMVEd6NHBtOUdHVjZRVks1di1aSUI0VE0xcWFraHNKeEp1RV9sY1pld0JENGtTMGJxZjZuTkRSRmNDS1dHeWcxaklDdWwtSVZnN25xeUNBd3FWU0V3NUZKZGR1anFuMjZr?oc=5",
+      "title": "El centro Capeahuapi de Marine Farm obtiene el premio al Mejor FCR en la categoría Coho - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2024-05-23T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "passing",
+      "angle": "Marine Farm facility wins best FCR award in Coho category",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Marine Farm's Capeahuapi center received an award for achieving the best Feed Conversion Ratio (FCR) in the Coho salmon category. The article recognizes operational excellence in aquaculture feed efficiency metrics at this facility."
+    },
+    {
+      "id": 58826,
+      "story_id": 1379,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tVy15N05tVWprTlJ0VHc4WVo1RG1pX01ZNXZMalBzQ0RKd3kteHVpckVMMU1GM212eTFGLTFsYzI4T3ZlQjBlNDY0Nm4zNnF4dUxSelNuWEdBU2sy?oc=5",
+      "title": "SCHO Stock Price and Chart — OMXCOP:SCHO - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2018-04-14T01:38:06+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "passing",
+      "angle": "Stock price and chart display for OMXCOP:SCHO ticker",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView financial data page displaying stock price information and charting tools for the OMXCOP:SCHO ticker symbol. The article is a technical financial platform interface rather than substantive coverage of Schouw & Co or its business operations."
+    },
+    {
+      "id": 58896,
+      "story_id": 1380,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3RybGdhVEZuT3BFR203WWhSZ255RWZRLU1wUkIwNzdKMnhISVNHbGhZRS02Slp0RjhEYUx6TjFlcnNFWEpid2F2bWJGZlI2LXd3RzFnU3dKLTd3MVQ2S2lSc2VMYmxHcjlHWnQ1dnhZRlc0MUE4VmZiWkE4bDY1X0p6TGRfTDhscGxUR1RxNDJKbF9NZ25UTXB3WldndGFKNGdKS1BNaGZmVXphaUE?oc=5",
+      "title": "BioMar CEO on the quest for more sustainable aquaculture feed - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2021-09-16T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "BioMar CEO discusses sustainable aquaculture feed innovation and strategy.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar's CEO Carlos Diaz discusses the company's efforts to develop more sustainable aquaculture feed solutions. The article focuses on BioMar's commitment to advancing sustainability in the aquaculture feed sector through innovation and strategic initiatives."
+    },
+    {
+      "id": 59039,
+      "story_id": 1381,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTkVWT0ZJZkF3OVlJemYxMXMtY0tZN0pVbm5QYTB3dnlJQWJhR3JCRHp5LVg1WnRmMkdLOWp5YU9qUXVCT082ZXhPNWR5c2dETHpLU0MxaWxSWnF2cmJ1V1JGRHJ5ZGdQSi1ZemhVMzNsN1BDRGEyelYtZWFZZjVKei1zVWx4U2JLOHluSm83UTlYaGZudHU0VTZ2M3pzQkZDdWo4MjhiM2dfOXFKczJQV043aDNTUy1BZVBFLTcxczVVdzFSemluYVdwNC1XdTJFM1JubQ?oc=5",
+      "title": "‘We have done well, but not well enough’: Skretting's growth weighs on its sustainability ambitions - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2022-09-01T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTkVWT0ZJZkF3OVlJemYxMXMtY0tZN0pVbm5QYTB3dnlJQWJhR3JCRHp5LVg1WnRmMkdLOWp5YU9qUXVCT082ZXhPNWR5c2dETHpLU0MxaWxSWnF2cmJ1V1JGRHJ5ZGdQSi1ZemhVMzNsN1BDRGEyelYtZWFZZjVKei1zVWx4U2JLOHluSm83UTlYaGZudHU0VTZ2M3pzQkZDdWo4MjhiM2dfOXFKczJQV043aDNTUy1BZVBFLTcxczVVdzFSemluYVdwNC1XdTJFM1JubQ?oc=5\" target=\"_blank\">‘We have done well, but not well enough’: Skretting's growth weighs on its sustainability ambitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 59045,
+      "story_id": 1382,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlctSXlYS0V3OHByRWt2MFlydHJvaVpyVmdkMEs0U1FzY1hZb05WaXJDd3dvOHdHNUNGbEM0QkVhUFhqTG55UkRwT0pxNUY0QnV6VGpFNEVWdzF1TmlLVzZsSFVSdDU1Z3ZLUUY1SkFmT1RtTDExMlEyVFVsRjl5bmV5NEhDeDFlSldtWnJzb1puMzFiOU4zWVBKM0M4amtndkRSRTcxUmdCUkFfUlp1Ri1OSnYwdDJZVzY2QnBldw?oc=5",
+      "title": "Skretting develops new shrimp feed for improved hatchery performance and operation - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2023-06-09T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUlctSXlYS0V3OHByRWt2MFlydHJvaVpyVmdkMEs0U1FzY1hZb05WaXJDd3dvOHdHNUNGbEM0QkVhUFhqTG55UkRwT0pxNUY0QnV6VGpFNEVWdzF1TmlLVzZsSFVSdDU1Z3ZLUUY1SkFmT1RtTDExMlEyVFVsRjl5bmV5NEhDeDFlSldtWnJzb1puMzFiOU4zWVBKM0M4amtndkRSRTcxUmdCUkFfUlp1Ri1OSnYwdDJZVzY2QnBldw?oc=5\" target=\"_blank\">Skretting develops new shrimp feed for improved hatchery performance and operation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -55596,7 +55857,7 @@
       {
         "week": "2018-W15",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -56378,6 +56639,14 @@
         "Skretting": 3
       },
       {
+        "week": "2021-W37",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2021-W38",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -56735,7 +57004,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2022-W38",
@@ -56992,6 +57261,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2023-W23",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2023-W24",
@@ -57316,7 +57593,7 @@
       {
         "week": "2024-W21",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -57828,7 +58105,7 @@
       {
         "week": "2025-W36",
         "Aller Aqua": 0,
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -57996,7 +58273,7 @@
       {
         "week": "2026-W05",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -58129,7 +58406,7 @@
       },
       {
         "company": "BioMar",
-        "count": 623
+        "count": 628
       },
       {
         "company": "Cargill",
@@ -58141,7 +58418,7 @@
       },
       {
         "company": "Skretting",
-        "count": 516
+        "count": 518
       }
     ]
   }
