@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T17:53:13+00:00",
+  "generated_at": "2026-05-14T22:54:01+00:00",
   "stats": {
-    "mention_count": 1534,
-    "story_count": 1375,
-    "analyzed_count": 629,
+    "mention_count": 1538,
+    "story_count": 1378,
+    "analyzed_count": 631,
     "off_topic_mentions": 48,
     "off_topic_stories": 33
   },
@@ -104,6 +104,7 @@
     "Insider.co.uk",
     "IntraFish",
     "Investing.com",
+    "Investing.com Australia",
     "Investing.com Canada",
     "Investing.com España",
     "Investing.com India",
@@ -730,7 +731,7 @@
         "exec_statement",
         "financial"
       ],
-      "pickup_count": 5,
+      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -6904,6 +6905,20 @@
       "id": 687,
       "headline": "Skretting Chile busca movilizar a la industria con su conferencia “Feeding the Future 2025” - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOVo2ekRwNlJiQWtPYktvZTNYdm8yUzktcmxlYnRPQ2RuWTFoS3JRanRpRjk1d1d1VlZqbno0Uy1iSXFuZXNQVC1mc09CejRxZ3JGaTB0SXlTTDdCYXF4T0NpSFJjLWpaTVhTdlRkQnFMdVFScWdnUXlqVU10enVYUk9LckphQ04wRGFOMVVCeWNTMHBFZVByVk5UVlpPX1E0ZjRqeUFwbkdmTXlVbnlVRWhmYkxFYVp2ZnVjeEhkT3p6bmdTSEU3b0JtUzJpZFlQTThPZHptNzNFSmdhdUE2bEpva0VvTUFRYjZmS3hQUWRMU0U3YUE?oc=5\" target=\"_blank\">Skretting Chile busca movilizar a la industria con su conferencia “Feeding the Future 2025”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2025-08-01T07:00:00+00:00",
+      "last_seen": "2025-08-01T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1400,
+      "headline": "Kleppe, Hobby | Inviterer til hagevandring på Kleppe: – De kan ikke lenger se inn i hagen fra veien - Jærbladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHp1c05IUU11S2ZkejdKZTd3RnprRW9vM1BGVy1tckdsUnRQM2N4TGV3ZS16MDhVVXNCMVVydXg1OXlrdm10WDdCUDV2WW40U2NyeXZfX3dYVjdsS0V6Vk9RYVZSTDVJcGdNdy04amliLWNtaTgtMzdfTFpCeFFZSGRMODVCTE5Ec3FwUHAyejJ5WXprUlJmNXhWUkcwNjJzOHIyQVE5TGF2M1hTMEt3YXhRNzBlblI5dUEw?oc=5\" target=\"_blank\">Kleppe, Hobby | Inviterer til hagevandring på Kleppe: – De kan ikke lenger se inn i hagen fra veien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
       "first_seen": "2025-08-01T07:00:00+00:00",
       "last_seen": "2025-08-01T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -16726,6 +16741,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1399,
+      "headline": "Skretting CEO Therese Log Bergjord: 'GSI gives us an arena to discuss a common challenge with other experts' - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMDd5ZmF4S3k2ZVhBNWFrLUwyTzRJbmlsVmNjRmxjR0JPU2dZVHltVDAzaU9FeEZtOXlsdnA4aHhhcXFXWFc3THdjbE9OOF9uZWVsVFY4bnNTNml5emlXTDVzekpWVEJUdnNSN2kwV25vZXp6YmhaQXN3TU92b1V2blhYNnpYektUUi00dU5wUmFJZC1VUGNNc1Iza1hGUi1iNzY5bmxnV0NJZnRiSUpocFAzelNQTDVmdWx1WFBIMjRYTDBoaXFUZ21pYVZvRlk0ZTZyeDYtQXhoNWx4YTc0eXdQcjZOV1lRc1E?oc=5\" target=\"_blank\">Skretting CEO Therese Log Bergjord: 'GSI gives us an arena to discuss a common challenge with other experts'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2018-08-22T07:00:00+00:00",
+      "last_seen": "2018-08-22T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 449,
       "headline": "Einar Wathne trekker seg som Cargill-direktør - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1rRVpBcWFwTDItSkkwTW1YcDRKTXRGbC1aOWZBMFU2QzVnS0pnM25Ja1VpYnNuQXlWWUZaOVJsWnIxOTdDR2huWnQ2eUpEOUM1djdJc3pNcWZid3djWU43YlpkNUlyenFrMUtZMmwzd2U?oc=5\" target=\"_blank\">Einar Wathne trekker seg som Cargill-direktør</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -16850,6 +16879,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1398,
+      "headline": "Gráfico/precio acciones SCHO: OMXCOP:SCHO - TradingView",
+      "story_summary": "This is a TradingView financial charting page displaying the stock price and trading data for Schouw & Co (ticker: SCHO on OMXCOP). The article is a standard financial data tool with no narrative content or news angle beyond the ticker reference itself.",
+      "first_seen": "2018-04-22T11:27:49+00:00",
+      "last_seen": "2018-04-22T11:27:49+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1074,
@@ -55315,6 +55358,101 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYTZ5UDl0OGhDczlUSXAtS0FtcDhYVmVfdXE4SmZhLXRGTnNFRHJJZ3NFOXRZWHJOTXh3ZHhVSXZkLUVkQmIxd3hWTFFEdnJ1eVlSSFI0U2haRHl3VnJwN2pyR2JNRHRtQ3AtaHhxbl93dFpMclhfQWd0TEJzWFc4TjU1N3p0dVl0R2RvcXdpcnBlaDYtaWZHbzJzNnNpZXJZQVp0VzJMSG5XSUN6LWtJVy0yeTNuRi03NUwyWUplb3J0Z9IB1gFBVV95cUxPUXhfR2xmTVZHUlVyV2hzOXNQVzNiWXV4NE53T1FwM1pHNVhZOW5DWkZNN0JmM0QyYmZiVlY4cjhBcVNRTnVoNXVKRUYtZ3BmT0dPYmY1dS1VU0RCZDdrV3AwNHEwU2JxSW9ySjFGMGZ4V0F1aWdJeVhtVmxrWEhBLXdEZW82WmdkdkVlbkp5eWNUN2UwWHJ1Z0U4dnZDV0FocG1zNFlBV0R4Y2c2clE4NUU3SnViRzhKd2w4SmgySi1nSGxSb3NudnU5S2VSVU04ajA0Tndn?oc=5\" target=\"_blank\">Cargill operará planta de alimento balanceado de Empagran, con lo que espera casi duplicar su producción</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Universo</font>"
+    },
+    {
+      "id": 61675,
+      "story_id": 359,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWVjdkZnd1RpSGZFNE9UV2JTakpSVWQ5MHJTWjlXRDhscUh1ZlZuYnRQNDhXTGVyZGpGUmV4T3VheU14MGFCRW8tTDlpd0FKX2MyUWVORXdteHU5Q1IwVVZ5X243QzRKRHpSV044d0EzSG9PLWFvVjl6bjNPekx0ckNaY1JmS0FMck9hcUtOT3g4TVdsSG1ReGN2aFdyRXdJMXEwRnoxaGJKVUJk?oc=5",
+      "title": "Schouw & Co shares jump 4% as BioMar IPO plans enter next phase - Investing.com Australia",
+      "source_name": "Investing.com Australia",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-01T08:22:08+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar IPO progress drives parent company stock gains",
+      "key_claims": [
+        "Schouw & Co shares increased 4% following BioMar IPO plan developments",
+        "BioMar IPO plans have advanced to the next phase"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co's share price rose 4% following progress in BioMar's initial public offering plans. The IPO process has moved into a new phase of development."
+    },
+    {
+      "id": 62047,
+      "story_id": 1398,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lcFg4SGJsbmtnYkFwMjJ1TWNTRDctdDVjMnYtRUVoaVlmcmdKRkFxS1pKcGZFUTZyTXRxcmo1cE1URjc3cWFqamxrc0dISnlWS2kxemhLOU5EZGs?oc=5",
+      "title": "Gráfico/precio acciones SCHO: OMXCOP:SCHO - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2018-04-22T11:27:49+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock price chart for Schouw & Co ticker SCHO",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView financial charting page displaying the stock price and trading data for Schouw & Co (ticker: SCHO on OMXCOP). The article is a standard financial data tool with no narrative content or news angle beyond the ticker reference itself."
+    },
+    {
+      "id": 62215,
+      "story_id": 1399,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMDd5ZmF4S3k2ZVhBNWFrLUwyTzRJbmlsVmNjRmxjR0JPU2dZVHltVDAzaU9FeEZtOXlsdnA4aHhhcXFXWFc3THdjbE9OOF9uZWVsVFY4bnNTNml5emlXTDVzekpWVEJUdnNSN2kwV25vZXp6YmhaQXN3TU92b1V2blhYNnpYektUUi00dU5wUmFJZC1VUGNNc1Iza1hGUi1iNzY5bmxnV0NJZnRiSUpocFAzelNQTDVmdWx1WFBIMjRYTDBoaXFUZ21pYVZvRlk0ZTZyeDYtQXhoNWx4YTc0eXdQcjZOV1lRc1E?oc=5",
+      "title": "Skretting CEO Therese Log Bergjord: 'GSI gives us an arena to discuss a common challenge with other experts' - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2018-08-22T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMDd5ZmF4S3k2ZVhBNWFrLUwyTzRJbmlsVmNjRmxjR0JPU2dZVHltVDAzaU9FeEZtOXlsdnA4aHhhcXFXWFc3THdjbE9OOF9uZWVsVFY4bnNTNml5emlXTDVzekpWVEJUdnNSN2kwV25vZXp6YmhaQXN3TU92b1V2blhYNnpYektUUi00dU5wUmFJZC1VUGNNc1Iza1hGUi1iNzY5bmxnV0NJZnRiSUpocFAzelNQTDVmdWx1WFBIMjRYTDBoaXFUZ21pYVZvRlk0ZTZyeDYtQXhoNWx4YTc0eXdQcjZOV1lRc1E?oc=5\" target=\"_blank\">Skretting CEO Therese Log Bergjord: 'GSI gives us an arena to discuss a common challenge with other experts'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 62291,
+      "story_id": 1400,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHp1c05IUU11S2ZkejdKZTd3RnprRW9vM1BGVy1tckdsUnRQM2N4TGV3ZS16MDhVVXNCMVVydXg1OXlrdm10WDdCUDV2WW40U2NyeXZfX3dYVjdsS0V6Vk9RYVZSTDVJcGdNdy04amliLWNtaTgtMzdfTFpCeFFZSGRMODVCTE5Ec3FwUHAyejJ5WXprUlJmNXhWUkcwNjJzOHIyQVE5TGF2M1hTMEt3YXhRNzBlblI5dUEw?oc=5",
+      "title": "Kleppe, Hobby | Inviterer til hagevandring på Kleppe: – De kan ikke lenger se inn i hagen fra veien - Jærbladet",
+      "source_name": "Jærbladet",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-08-01T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHp1c05IUU11S2ZkejdKZTd3RnprRW9vM1BGVy1tckdsUnRQM2N4TGV3ZS16MDhVVXNCMVVydXg1OXlrdm10WDdCUDV2WW40U2NyeXZfX3dYVjdsS0V6Vk9RYVZSTDVJcGdNdy04amliLWNtaTgtMzdfTFpCeFFZSGRMODVCTE5Ec3FwUHAyejJ5WXprUlJmNXhWUkcwNjJzOHIyQVE5TGF2M1hTMEt3YXhRNzBlblI5dUEw?oc=5\" target=\"_blank\">Kleppe, Hobby | Inviterer til hagevandring på Kleppe: – De kan ikke lenger se inn i hagen fra veien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>"
     }
   ],
   "share_of_voice": {
@@ -56321,7 +56459,7 @@
       {
         "week": "2018-W16",
         "Aller Aqua": 1,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -56373,6 +56511,14 @@
         "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2018-W34",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2018-W36",
@@ -58524,7 +58670,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2025-W32",
@@ -58833,7 +58979,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 64,
+        "BioMar": 65,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -58862,7 +59008,7 @@
       },
       {
         "company": "BioMar",
-        "count": 629
+        "count": 631
       },
       {
         "company": "Cargill",
@@ -58874,7 +59020,7 @@
       },
       {
         "company": "Skretting",
-        "count": 527
+        "count": 529
       }
     ]
   }
