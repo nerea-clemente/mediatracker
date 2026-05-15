@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T22:54:01+00:00",
+  "generated_at": "2026-05-15T08:21:20+00:00",
   "stats": {
-    "mention_count": 1538,
-    "story_count": 1378,
-    "analyzed_count": 631,
+    "mention_count": 1541,
+    "story_count": 1380,
+    "analyzed_count": 632,
     "off_topic_mentions": 48,
     "off_topic_stories": 33
   },
@@ -254,6 +254,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1402,
+      "headline": "Poseidon: hires former AKVA Group and Skretting executive - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWi10ZWtOLW15OVE3SGZxaFhxSUdoVl9ab1pmMXRET0VHQnpuTUd3WlV2WUVGODQtSVpYRkRNcFoyaWR6eVhDcXQzUWxjUWdKYXd3QmNJQ3dTN0dTY0s1U1NDZ0s1QlJXQ1I4aUpycGZWcWZ6UFZnWUp1Q1owSHNmVTQzZEJPb19fYzBBWXltZExSVlI0QmU1UVFR0gGaAUFVX3lxTE9aLXRla04tbXk5UTdIZnFoWHFJR2hWX1pvWmYxdERPRUdCem5NR3daVXZZRUY4NC1JWlhGRE1wWjJpZHp5WENxdDNRbGNRZ0phd3dCY0lDd1M3R1NjSzVTU0NnSzVCUldDUjhpSnJwZlZxZnpQVmdZSnVDWjBIc2ZVNDNkQk9vX19jMEFZeW1kTFJWUjRCZTVRUVE?oc=5\" target=\"_blank\">Poseidon: hires former AKVA Group and Skretting executive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2026-05-15T05:31:17+00:00",
+      "last_seen": "2026-05-15T05:31:17+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 1325,
       "headline": "Næringsliv, Hå | Flere og flere forsvinner, men på Varhaug gjør de alt de kan for å beholde møteplassen - Jærbladet",
@@ -4431,7 +4445,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -6578,6 +6592,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1401,
+      "headline": "BioMar develops aquafeed for submerged feeding technology - Aquafeed.com",
+      "story_summary": "BioMar has developed a specialized aquafeed formulation for use with submerged feeding technology. The development represents an innovation in feed delivery systems for aquaculture operations.",
+      "first_seen": "2025-08-19T07:00:00+00:00",
+      "last_seen": "2025-08-19T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 691,
@@ -55453,6 +55481,77 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHp1c05IUU11S2ZkejdKZTd3RnprRW9vM1BGVy1tckdsUnRQM2N4TGV3ZS16MDhVVXNCMVVydXg1OXlrdm10WDdCUDV2WW40U2NyeXZfX3dYVjdsS0V6Vk9RYVZSTDVJcGdNdy04amliLWNtaTgtMzdfTFpCeFFZSGRMODVCTE5Ec3FwUHAyejJ5WXprUlJmNXhWUkcwNjJzOHIyQVE5TGF2M1hTMEt3YXhRNzBlblI5dUEw?oc=5\" target=\"_blank\">Kleppe, Hobby | Inviterer til hagevandring på Kleppe: – De kan ikke lenger se inn i hagen fra veien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>"
+    },
+    {
+      "id": 62728,
+      "story_id": 1401,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNczhLR2pjLUx3OVIycHYtVzRydmwzV3VCZEtKdzVBLUFoZDh5QlR3bDJnZWpsblhNWXhpLWJBRWZ0aTNSZm8yT1BwYXlZUnhLLWNhN1lqVndja1Q5a1FpTjVITTk0bDRIWExOZVg5U1N1YXAzenRBNHg2OVhCakQ3LXI3U0hoZXJ3SHUzd1hjbDFYcmwwVkdVdg?oc=5",
+      "title": "BioMar develops aquafeed for submerged feeding technology - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2025-08-19T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar develops specialized aquafeed for submerged feeding technology",
+      "key_claims": [
+        "BioMar has developed an aquafeed product designed for submerged feeding technology"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has developed a specialized aquafeed formulation for use with submerged feeding technology. The development represents an innovation in feed delivery systems for aquaculture operations."
+    },
+    {
+      "id": 63173,
+      "story_id": 1402,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWi10ZWtOLW15OVE3SGZxaFhxSUdoVl9ab1pmMXRET0VHQnpuTUd3WlV2WUVGODQtSVpYRkRNcFoyaWR6eVhDcXQzUWxjUWdKYXd3QmNJQ3dTN0dTY0s1U1NDZ0s1QlJXQ1I4aUpycGZWcWZ6UFZnWUp1Q1owSHNmVTQzZEJPb19fYzBBWXltZExSVlI0QmU1UVFR0gGaAUFVX3lxTE9aLXRla04tbXk5UTdIZnFoWHFJR2hWX1pvWmYxdERPRUdCem5NR3daVXZZRUY4NC1JWlhGRE1wWjJpZHp5WENxdDNRbGNRZ0phd3dCY0lDd1M3R1NjSzVTU0NnSzVCUldDUjhpSnJwZlZxZnpQVmdZSnVDWjBIc2ZVNDNkQk9vX19jMEFZeW1kTFJWUjRCZTVRUVE?oc=5",
+      "title": "Poseidon: hires former AKVA Group and Skretting executive - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2026-05-15T05:31:17+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWi10ZWtOLW15OVE3SGZxaFhxSUdoVl9ab1pmMXRET0VHQnpuTUd3WlV2WUVGODQtSVpYRkRNcFoyaWR6eVhDcXQzUWxjUWdKYXd3QmNJQ3dTN0dTY0s1U1NDZ0s1QlJXQ1I4aUpycGZWcWZ6UFZnWUp1Q1owSHNmVTQzZEJPb19fYzBBWXltZExSVlI0QmU1UVFR0gGaAUFVX3lxTE9aLXRla04tbXk5UTdIZnFoWHFJR2hWX1pvWmYxdERPRUdCem5NR3daVXZZRUY4NC1JWlhGRE1wWjJpZHp5WENxdDNRbGNRZ0phd3dCY0lDd1M3R1NjSzVTU0NnSzVCUldDUjhpSnJwZlZxZnpQVmdZSnVDWjBIc2ZVNDNkQk9vX19jMEFZeW1kTFJWUjRCZTVRUVE?oc=5\" target=\"_blank\">Poseidon: hires former AKVA Group and Skretting executive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 63215,
+      "story_id": 750,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONzJrbjFMbllWSXZZQkNYOUFVVTZ0S1dWRm5UUE5kU2p0SnhfZURLcktRNUg4N2JVWG9WRXJnVU12Wk1sX29Hd2ZtRjlyeWVMR1RuVUhPXzNtT3o2WWhyNWMzRVFiRGQwZWpPYktjdFZqUE5zMUZPVW0xbkxCLXhzM0tybmhNQQ?oc=5",
+      "title": "Skretting strengthens footprint in China - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2025-11-28T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONzJrbjFMbllWSXZZQkNYOUFVVTZ0S1dWRm5UUE5kU2p0SnhfZURLcktRNUg4N2JVWG9WRXJnVU12Wk1sX29Hd2ZtRjlyeWVMR1RuVUhPXzNtT3o2WWhyNWMzRVFiRGQwZWpPYktjdFZqUE5zMUZPVW0xbkxCLXhzM0tybmhNQQ?oc=5\" target=\"_blank\">Skretting strengthens footprint in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -58691,7 +58790,7 @@
       {
         "week": "2025-W34",
         "Aller Aqua": 8,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 15
@@ -58806,7 +58905,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 8
+        "Skretting": 9
       },
       {
         "week": "2025-W49",
@@ -58998,7 +59097,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       }
     ],
     "totals": [
@@ -59008,7 +59107,7 @@
       },
       {
         "company": "BioMar",
-        "count": 631
+        "count": 632
       },
       {
         "company": "Cargill",
@@ -59020,7 +59119,7 @@
       },
       {
         "company": "Skretting",
-        "count": 529
+        "count": 531
       }
     ]
   }
