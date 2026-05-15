@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T11:32:30+00:00",
+  "generated_at": "2026-05-15T17:40:49+00:00",
   "stats": {
-    "mention_count": 1543,
-    "story_count": 1381,
-    "analyzed_count": 632,
+    "mention_count": 1547,
+    "story_count": 1384,
+    "analyzed_count": 635,
     "off_topic_mentions": 48,
     "off_topic_stories": 33
   },
@@ -23,6 +23,7 @@
     "Aviation24.be",
     "BC Hydro",
     "BOK365.no",
+    "BURGOSconecta",
     "Baird Maritime",
     "Bergens Tidende",
     "BioBioChile",
@@ -264,7 +265,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -3061,6 +3062,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1406,
+      "headline": "LideraMdo aborda en Burgos la gestión de los recursos humanos - BURGOSconecta",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3psbFp0Nk00RTZjQk84TXpqN2V4OUltZGZSRG1iVjNFVlpsT1RBQ0RJbDlSU2pKZU1ucmpzZ2FzaURjYkFwRndfUkdfWE1NRm1FMmttLXhRZkttMjRGbGpnSEh5eW5EcWlZdFNuTm51WlQ1RlYtTFNrU2lvS3lua0VuOERCWVNXejA1c1Z3SDlqbTlKbnQzR2FHdkxFeHVwNmV3ei1WTk1uSEstLUHSAbMBQVVfeXFMTWFNeGNJRlJXWHNpUmpWZ2h5alU5VzBSdVJDRG92dkpjNC1xQXpBemdCamhMa3RHSDlOTWMwNGNwaE15bjA0Mms1cDNEMmtpT3lyWDNnWFBwTWJzcFlrZWFadkFlVmYwdTNpQmxaczMxRDFnWjRXS1dQSzdMd09sMnRSb0RnSUNLaUhEd1NiVDRyU2tUbmhid3BNcU5tVjktVlhqRVdfSGRnU1NTa2prOExGbGc?oc=5\" target=\"_blank\">LideraMdo aborda en Burgos la gestión de los recursos humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BURGOSconecta</font>",
+      "first_seen": "2026-02-04T08:00:00+00:00",
+      "last_seen": "2026-02-04T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 293,
@@ -15145,10 +15160,10 @@
     {
       "id": 1403,
       "headline": "BioMar skal drifte planlagt fôrfabrikk ved Europas største landbaserte matfiskanlegg for laks - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2RrVkNhb2xFOGhfNU1YMEU2b2I5Y3RkRTJWRlVTR2lFR2RxQTVIMDJaNDVFeWZMeS1XUW5RWkgtUzB4WklrVGZ6TWxPTU5VMk5QV2o0dkpIWncwY2hCNmFROG5icHZBNjVzeXBQOUU5a3FuY1BkN2Z4UF9aWmt1Sy1YV1ZDRVkyYXpCLTZIWUFwZDFBVThwTDhpMHB0aEdENVdfN3JyUkZZZXBxR2hVSQ?oc=5\" target=\"_blank\">BioMar skal drifte planlagt fôrfabrikk ved Europas største landbaserte matfiskanlegg for laks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "BioMar has been selected to operate a planned feed factory at what is described as Europe's largest land-based farmed salmon facility. The arrangement reflects BioMar's role as a key supplier in the emerging recirculation aquaculture systems sector for salmon production in Europe.",
       "first_seen": "2020-12-08T08:00:00+00:00",
       "last_seen": "2020-12-08T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -16123,6 +16138,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1405,
+      "headline": "BioMar oficializa control de la totalidad de Alitec Pargua - Salmonexpert",
+      "story_summary": "BioMar has officially formalized its acquisition of full control over Alitec Pargua, a Chilean aquaculture feed producer. This move represents a significant expansion of BioMar's operations in the South American salmon farming market through complete ownership of the company's operations and assets in the region. This consolidation strengthens BioMar's strategic position in Chilean aquaculture feed production and supply chain management in Pargua and surrounding areas.",
+      "first_seen": "2019-06-07T07:00:00+00:00",
+      "last_seen": "2019-06-07T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 31,
@@ -17897,6 +17926,20 @@
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1404,
+      "headline": "BioMar-selskap kjøper kinesisk fôrselskap - Kyst.no",
+      "story_summary": "A BioMar subsidiary has purchased a Chinese aquaculture feed company as part of its expansion strategy. The acquisition represents the company's continued growth in the Asian feed market segment.",
+      "first_seen": "2016-11-25T08:00:00+00:00",
+      "last_seen": "2016-11-25T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -55579,16 +55622,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar to operate feed mill at Europe's largest land-based salmon facility",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2RrVkNhb2xFOGhfNU1YMEU2b2I5Y3RkRTJWRlVTR2lFR2RxQTVIMDJaNDVFeWZMeS1XUW5RWkgtUzB4WklrVGZ6TWxPTU5VMk5QV2o0dkpIWncwY2hCNmFROG5icHZBNjVzeXBQOUU5a3FuY1BkN2Z4UF9aWmt1Sy1YV1ZDRVkyYXpCLTZIWUFwZDFBVThwTDhpMHB0aEdENVdfN3JyUkZZZXBxR2hVSQ?oc=5\" target=\"_blank\">BioMar skal drifte planlagt fôrfabrikk ved Europas største landbaserte matfiskanlegg for laks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "BioMar has been selected to operate a planned feed factory at what is described as Europe's largest land-based farmed salmon facility. The arrangement reflects BioMar's role as a key supplier in the emerging recirculation aquaculture systems sector for salmon production in Europe."
     },
     {
       "id": 64629,
@@ -55612,6 +55655,98 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXpzOVktRHduQjhhaURZMDh5V1VqS3FtVnF2bEdDUnRzanc0dWxVSlNfWEhUemE2S0xoVXpMUzI5bG14NUJDS1JRRXoyVmxLVUVHOGtjd2dBeDRYVjk5dVNRaEpMeUpoUnFEOG0xajk1R2N0Wkh5cE1IV1Y4ZGF4SlhCQ09WNmdpOTQ3M3NB0gGOAUFVX3lxTE1JenM5WS1Ed25COGFpRFkwOHlXVWpLcW1WcXZsR0NSdHNqdzR1bFVKU19YSFR6YTZLTGhVekxTMjlsbXg1QkNLUlFFejJWbEtVRUc4a2N3Z0F4NFhWOTl1U1FoSkx5SmhScUQ4bTFqOTVHY3RaSHlwTUhXVjhkYXhKWEJDT1Y2Z2k5NDczc0E?oc=5\" target=\"_blank\">Cargill’s Scottish aquafeed facility now ASC-certified</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 64933,
+      "story_id": 1404,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzBZODZ6NG93Z2s5LVlUMWstbE01cWtKeXE1cnNLSDRhWFBjLTNlQ1lOQWQ0R1Z0TlRRdTVGU3ByZjI5YnBmRWFocXp0NGl0S3FNejFDMXNHQ042QmVBak5mSWgwYW9EUFJ1WjdMNnJDNkdXb3daaUtlVG5lY3FDaDdpeFJrNFd3VnZ6TmYyZw?oc=5",
+      "title": "BioMar-selskap kjøper kinesisk fôrselskap - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2016-11-25T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar subsidiary acquires Chinese feed company",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A BioMar subsidiary has purchased a Chinese aquaculture feed company as part of its expansion strategy. The acquisition represents the company's continued growth in the Asian feed market segment."
+    },
+    {
+      "id": 65151,
+      "story_id": 1405,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVNhbWpVX3FHY0o2MW9rWlM2dDJhS0hEZTZfR05mdmlxNGNmalJEbmU3ekhHRWFfYUdVeGtFZUFNZ092OTZSNDZnMGpySjZNR1REb21fUU42SnVYYTJJUE1LSTYtd19kMUNqaEd3Sjhia3VUc051WUc5T3RJODFpODdzczMyaVRlU2hNWmdEMjBUeE1wUjdHN0JhMEROWWE1N1A5TDNSZmo5MFN1?oc=5",
+      "title": "BioMar oficializa control de la totalidad de Alitec Pargua - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2019-06-07T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar formalizes full acquisition and control of Alitec Pargua",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has officially formalized its acquisition of full control over Alitec Pargua, a Chilean aquaculture feed producer. This move represents a significant expansion of BioMar's operations in the South American salmon farming market through complete ownership of the company's operations and assets in the region. This consolidation strengthens BioMar's strategic position in Chilean aquaculture feed production and supply chain management in Pargua and surrounding areas."
+    },
+    {
+      "id": 65280,
+      "story_id": 1402,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkdsODdTS0drSm44VGVrSjBxaWFhV0N4d2YyUm5LRWdoSmNUYm93RFFQbUlhM1pLcm9aWmpyQnRDRHhOd3RVYWdIM0E2ejNQMmZtcXczUnRTWm8weGJ2WTRvcm9rZzh3MTJtRnBvTC1oZGJVTDIzam1adF9qRHNBRHdnS3N3OVRVLXRmYTdHZF82d9IBkgFBVV95cUxNWkdsODdTS0drSm44VGVrSjBxaWFhV0N4d2YyUm5LRWdoSmNUYm93RFFQbUlhM1pLcm9aWmpyQnRDRHhOd3RVYWdIM0E2ejNQMmZtcXczUnRTWm8weGJ2WTRvcm9rZzh3MTJtRnBvTC1oZGJVTDIzam1adF9qRHNBRHdnS3N3OVRVLXRmYTdHZF82dw?oc=5",
+      "title": "Poseidon: hires former AKVA Group and Skretting executive - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2026-05-15T05:31:17+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkdsODdTS0drSm44VGVrSjBxaWFhV0N4d2YyUm5LRWdoSmNUYm93RFFQbUlhM1pLcm9aWmpyQnRDRHhOd3RVYWdIM0E2ejNQMmZtcXczUnRTWm8weGJ2WTRvcm9rZzh3MTJtRnBvTC1oZGJVTDIzam1adF9qRHNBRHdnS3N3OVRVLXRmYTdHZF82d9IBkgFBVV95cUxNWkdsODdTS0drSm44VGVrSjBxaWFhV0N4d2YyUm5LRWdoSmNUYm93RFFQbUlhM1pLcm9aWmpyQnRDRHhOd3RVYWdIM0E2ejNQMmZtcXczUnRTWm8weGJ2WTRvcm9rZzh3MTJtRnBvTC1oZGJVTDIzam1adF9qRHNBRHdnS3N3OVRVLXRmYTdHZF82dw?oc=5\" target=\"_blank\">Poseidon: hires former AKVA Group and Skretting executive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 65671,
+      "story_id": 1406,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3psbFp0Nk00RTZjQk84TXpqN2V4OUltZGZSRG1iVjNFVlpsT1RBQ0RJbDlSU2pKZU1ucmpzZ2FzaURjYkFwRndfUkdfWE1NRm1FMmttLXhRZkttMjRGbGpnSEh5eW5EcWlZdFNuTm51WlQ1RlYtTFNrU2lvS3lua0VuOERCWVNXejA1c1Z3SDlqbTlKbnQzR2FHdkxFeHVwNmV3ei1WTk1uSEstLUHSAbMBQVVfeXFMTWFNeGNJRlJXWHNpUmpWZ2h5alU5VzBSdVJDRG92dkpjNC1xQXpBemdCamhMa3RHSDlOTWMwNGNwaE15bjA0Mms1cDNEMmtpT3lyWDNnWFBwTWJzcFlrZWFadkFlVmYwdTNpQmxaczMxRDFnWjRXS1dQSzdMd09sMnRSb0RnSUNLaUhEd1NiVDRyU2tUbmhid3BNcU5tVjktVlhqRVdfSGRnU1NTa2prOExGbGc?oc=5",
+      "title": "LideraMdo aborda en Burgos la gestión de los recursos humanos - BURGOSconecta",
+      "source_name": "BURGOSconecta",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2026-02-04T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3psbFp0Nk00RTZjQk84TXpqN2V4OUltZGZSRG1iVjNFVlpsT1RBQ0RJbDlSU2pKZU1ucmpzZ2FzaURjYkFwRndfUkdfWE1NRm1FMmttLXhRZkttMjRGbGpnSEh5eW5EcWlZdFNuTm51WlQ1RlYtTFNrU2lvS3lua0VuOERCWVNXejA1c1Z3SDlqbTlKbnQzR2FHdkxFeHVwNmV3ei1WTk1uSEstLUHSAbMBQVVfeXFMTWFNeGNJRlJXWHNpUmpWZ2h5alU5VzBSdVJDRG92dkpjNC1xQXpBemdCamhMa3RHSDlOTWMwNGNwaE15bjA0Mms1cDNEMmtpT3lyWDNnWFBwTWJzcFlrZWFadkFlVmYwdTNpQmxaczMxRDFnWjRXS1dQSzdMd09sMnRSb0RnSUNLaUhEd1NiVDRyU2tUbmhid3BNcU5tVjktVlhqRVdfSGRnU1NTa2prOExGbGc?oc=5\" target=\"_blank\">LideraMdo aborda en Burgos la gestión de los recursos humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BURGOSconecta</font>"
     }
   ],
   "share_of_voice": {
@@ -56282,7 +56417,7 @@
       {
         "week": "2016-W47",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -56842,7 +56977,7 @@
       {
         "week": "2019-W23",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 0
@@ -59045,7 +59180,7 @@
         "BioMar": 9,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2026-W07",
@@ -59157,7 +59292,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       }
     ],
     "totals": [
@@ -59167,7 +59302,7 @@
       },
       {
         "company": "BioMar",
-        "count": 633
+        "count": 635
       },
       {
         "company": "Cargill",
@@ -59179,7 +59314,7 @@
       },
       {
         "company": "Skretting",
-        "count": 531
+        "count": 533
       }
     ]
   }
