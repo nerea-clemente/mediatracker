@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-15T08:21:20+00:00",
+  "generated_at": "2026-05-15T11:32:30+00:00",
   "stats": {
-    "mention_count": 1541,
-    "story_count": 1380,
+    "mention_count": 1543,
+    "story_count": 1381,
     "analyzed_count": 632,
     "off_topic_mentions": 48,
     "off_topic_stories": 33
@@ -7489,7 +7489,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Cargill"
     },
@@ -15134,6 +15134,20 @@
       "story_summary": "Oslo byfogdembete (Oslo city court) has reached a conclusion in a legal matter involving BioMar. The article indicates a formal judicial resolution but does not detail the nature of the case or its outcome in the provided excerpt.",
       "first_seen": "2020-12-09T08:00:00+00:00",
       "last_seen": "2020-12-09T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1403,
+      "headline": "BioMar skal drifte planlagt fôrfabrikk ved Europas største landbaserte matfiskanlegg for laks - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2RrVkNhb2xFOGhfNU1YMEU2b2I5Y3RkRTJWRlVTR2lFR2RxQTVIMDJaNDVFeWZMeS1XUW5RWkgtUzB4WklrVGZ6TWxPTU5VMk5QV2o0dkpIWncwY2hCNmFROG5icHZBNjVzeXBQOUU5a3FuY1BkN2Z4UF9aWmt1Sy1YV1ZDRVkyYXpCLTZIWUFwZDFBVThwTDhpMHB0aEdENVdfN3JyUkZZZXBxR2hVSQ?oc=5\" target=\"_blank\">BioMar skal drifte planlagt fôrfabrikk ved Europas største landbaserte matfiskanlegg for laks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2020-12-08T08:00:00+00:00",
+      "last_seen": "2020-12-08T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -55552,6 +55566,52 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONzJrbjFMbllWSXZZQkNYOUFVVTZ0S1dWRm5UUE5kU2p0SnhfZURLcktRNUg4N2JVWG9WRXJnVU12Wk1sX29Hd2ZtRjlyeWVMR1RuVUhPXzNtT3o2WWhyNWMzRVFiRGQwZWpPYktjdFZqUE5zMUZPVW0xbkxCLXhzM0tybmhNQQ?oc=5\" target=\"_blank\">Skretting strengthens footprint in China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 63898,
+      "story_id": 1403,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2RrVkNhb2xFOGhfNU1YMEU2b2I5Y3RkRTJWRlVTR2lFR2RxQTVIMDJaNDVFeWZMeS1XUW5RWkgtUzB4WklrVGZ6TWxPTU5VMk5QV2o0dkpIWncwY2hCNmFROG5icHZBNjVzeXBQOUU5a3FuY1BkN2Z4UF9aWmt1Sy1YV1ZDRVkyYXpCLTZIWUFwZDFBVThwTDhpMHB0aEdENVdfN3JyUkZZZXBxR2hVSQ?oc=5",
+      "title": "BioMar skal drifte planlagt fôrfabrikk ved Europas største landbaserte matfiskanlegg for laks - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2020-12-08T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2RrVkNhb2xFOGhfNU1YMEU2b2I5Y3RkRTJWRlVTR2lFR2RxQTVIMDJaNDVFeWZMeS1XUW5RWkgtUzB4WklrVGZ6TWxPTU5VMk5QV2o0dkpIWncwY2hCNmFROG5icHZBNjVzeXBQOUU5a3FuY1BkN2Z4UF9aWmt1Sy1YV1ZDRVkyYXpCLTZIWUFwZDFBVThwTDhpMHB0aEdENVdfN3JyUkZZZXBxR2hVSQ?oc=5\" target=\"_blank\">BioMar skal drifte planlagt fôrfabrikk ved Europas største landbaserte matfiskanlegg for laks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 64629,
+      "story_id": 672,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXpzOVktRHduQjhhaURZMDh5V1VqS3FtVnF2bEdDUnRzanc0dWxVSlNfWEhUemE2S0xoVXpMUzI5bG14NUJDS1JRRXoyVmxLVUVHOGtjd2dBeDRYVjk5dVNRaEpMeUpoUnFEOG0xajk1R2N0Wkh5cE1IV1Y4ZGF4SlhCQ09WNmdpOTQ3M3NB0gGOAUFVX3lxTE1JenM5WS1Ed25COGFpRFkwOHlXVWpLcW1WcXZsR0NSdHNqdzR1bFVKU19YSFR6YTZLTGhVekxTMjlsbXg1QkNLUlFFejJWbEtVRUc4a2N3Z0F4NFhWOTl1U1FoSkx5SmhScUQ4bTFqOTVHY3RaSHlwTUhXVjhkYXhKWEJDT1Y2Z2k5NDczc0E?oc=5",
+      "title": "Cargill’s Scottish aquafeed facility now ASC-certified - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "published_at": "2025-06-25T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXpzOVktRHduQjhhaURZMDh5V1VqS3FtVnF2bEdDUnRzanc0dWxVSlNfWEhUemE2S0xoVXpMUzI5bG14NUJDS1JRRXoyVmxLVUVHOGtjd2dBeDRYVjk5dVNRaEpMeUpoUnFEOG0xajk1R2N0Wkh5cE1IV1Y4ZGF4SlhCQ09WNmdpOTQ3M3NB0gGOAUFVX3lxTE1JenM5WS1Ed25COGFpRFkwOHlXVWpLcW1WcXZsR0NSdHNqdzR1bFVKU19YSFR6YTZLTGhVekxTMjlsbXg1QkNLUlFFejJWbEtVRUc4a2N3Z0F4NFhWOTl1U1FoSkx5SmhScUQ4bTFqOTVHY3RaSHlwTUhXVjhkYXhKWEJDT1Y2Z2k5NDczc0E?oc=5\" target=\"_blank\">Cargill’s Scottish aquafeed facility now ASC-certified</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
     }
   ],
   "share_of_voice": {
@@ -57110,7 +57170,7 @@
       {
         "week": "2020-W50",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -58727,7 +58787,7 @@
         "week": "2025-W26",
         "Aller Aqua": 2,
         "BioMar": 1,
-        "Cargill": 3,
+        "Cargill": 4,
         "Polarfeed": 0,
         "Skretting": 3
       },
@@ -59107,11 +59167,11 @@
       },
       {
         "company": "BioMar",
-        "count": 632
+        "count": 633
       },
       {
         "company": "Cargill",
-        "count": 222
+        "count": 223
       },
       {
         "company": "Polarfeed",
