@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-15T17:40:49+00:00",
+  "generated_at": "2026-05-15T22:51:50+00:00",
   "stats": {
-    "mention_count": 1547,
-    "story_count": 1384,
+    "mention_count": 1551,
+    "story_count": 1388,
     "analyzed_count": 635,
     "off_topic_mentions": 48,
     "off_topic_stories": 33
@@ -204,6 +204,7 @@
     "The Urban Developer",
     "Tidens Krav",
     "TradingView",
+    "Transfermarkt",
     "Tribute Archive",
     "Undercurrent News",
     "Universitetet i Bergen",
@@ -266,6 +267,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1410,
+      "headline": "Sebastian Skretting Sandtorv - Transfermarkt",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGtvbDFRbjRGQVdoTG9UNVo2dkZybnRrdmVsdlB1dFV1NDJsczZBb0FaRXlrMWNwUElPSFhCMjdoNVc3cG9CLUtVdzBBbHR1ZDNrWU9YME94UlhZYXgyVUFnNHowS3l5R0VPclkzUjRoX1VYcTg5MGJ5b1hQbldLNnBYbDBTbU9XbDYw?oc=5\" target=\"_blank\">Sebastian Skretting Sandtorv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transfermarkt</font>",
+      "first_seen": "2026-05-14T19:05:44+00:00",
+      "last_seen": "2026-05-14T19:05:44+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -1289,6 +1304,20 @@
       "id": 1033,
       "headline": "Russiske råvarer og etiske krumspring - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HRGtsSmRqQ3BoOHVabE5MX0xUYThmVm1mRnlQdGg4OEQ5cGVXbzQxMVhGOGVITzRqdl9kT3pnWUhLS1g1SW9EdUxGVmI4UGNiNFNOMUZnUXlQdzNOZkVETzRhcjFCUQ?oc=5\" target=\"_blank\">Russiske råvarer og etiske krumspring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2026-04-20T07:00:00+00:00",
+      "last_seen": "2026-04-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1409,
+      "headline": "Salmar-laks også inn i russisk søkelys - Intrafish",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDZELUs2MkZ6cDdwSjNzTW1KUmhMZ1F4Zmoyd2lKZlUyREtOYWJQNWdub0xfVXNka2NmSTZ6NHEzR1VILTlPbEUtYXRnOWdZRndzdWFib0tHZHNZbFRXR2l0blpOQXlzR2JVMGN2eHBWYllSeU9PaDhTRGZLdmFGNXR1ajdGaURhbkE?oc=5\" target=\"_blank\">Salmar-laks også inn i russisk søkelys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
       "first_seen": "2026-04-20T07:00:00+00:00",
       "last_seen": "2026-04-20T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -6038,6 +6067,20 @@
       "id": 708,
       "headline": "(+) – Nefrokalsinose er mer utbredt enn vi trodde - LandbasedAQ.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnpkQjZ0VkMwQUhFZFpFXzYzdFA0eFdzVzFLNGVJUkRGQTdJR09Ca28zMk83eTlKaER0OUpwR2Zwd1lCWDVYU2tKTUVfTi01THNrR2tNNUVLQnlWd2JwbWcxb1BydE5PNWlvZTAxZ0gtcjFSem1FRTg3d1Z6UWRJbWJPVkxsTnNKclByYXVjTUZTRWs4YXczNEpZWTlLODA0TjBRdmJ6NThoUXh2S1BIeVUzeFhzUQ?oc=5\" target=\"_blank\">(+) – Nefrokalsinose er mer utbredt enn vi trodde</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LandbasedAQ.no</font>",
+      "first_seen": "2025-09-10T07:00:00+00:00",
+      "last_seen": "2025-09-10T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1408,
+      "headline": "Kan styrke laksens overlevelse og vekst i overføringsfasen - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRHpmLUJsd1BFUFVIYVZuSTJrWlNmRXoxU3FEeXEzbTlhcWdhZHIxZWktNnh4TDZ6UnhBU1ZjeWo2QUc3UVFkbzI0ZHUtSmFtaFdQQktSTTZfSjRjdUQ1TVl2Y1FkVU93amxCX0t1T3dqMnI4dDZXbjBQbDctX1hfR1lkOERscUpTbTM5d1hrT3UzUWt3Mi1sd1hCVk0zdm9NS2ZwYlo3RTY5YWx3MXUwWlhXT3J3NVYxNHlJ?oc=5\" target=\"_blank\">Kan styrke laksens overlevelse og vekst i overføringsfasen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
       "first_seen": "2025-09-10T07:00:00+00:00",
       "last_seen": "2025-09-10T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -15766,6 +15809,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPczJ6dEFkakpYOHJGWExJWEtQTGloWFFCczU1S19TNm1Dbm5EMU5KRnlGRFd5RG9xNEZ1OEhrSXhQZTR5Z1VHOUc1YW4wRWx1TnVXSlpCYy1zU2hGSXdLNUprSUNkWEJRZ0tXWTJXWUIzZHZ0ZjhzWDl5N3p3V0VpejlyVzdqenlhNWQ5UjY0TWpGUXNWa1gweThUTVRINVk?oc=5\" target=\"_blank\">Cargill incrementa 19% sus ganancias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2020-01-07T08:00:00+00:00",
       "last_seen": "2020-01-07T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1407,
+      "headline": "200 millioner kroner bedre for Ewos - Finansavisen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOemd4Z3ZmWlIzbVVFZkF0TDlNYmdqYXA1bzJBbU52bmVaYko0RjRsUHdZME4ydnZGUlpjVXV0NDV6bjlaX3MxamdpNm5CN09fYlFfU25vdl9kM2lRbHVZanlRcW9obUhRV0FZamp2aDNSUi1tRVRtbzNKbVJzbzg3MmFWVDJMWUNtM2NNeE1fUWZEUzdiOENYUXh2N1Aydw?oc=5\" target=\"_blank\">200 millioner kroner bedre for Ewos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+      "first_seen": "2019-12-23T08:00:00+00:00",
+      "last_seen": "2019-12-23T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -55747,6 +55804,98 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3psbFp0Nk00RTZjQk84TXpqN2V4OUltZGZSRG1iVjNFVlpsT1RBQ0RJbDlSU2pKZU1ucmpzZ2FzaURjYkFwRndfUkdfWE1NRm1FMmttLXhRZkttMjRGbGpnSEh5eW5EcWlZdFNuTm51WlQ1RlYtTFNrU2lvS3lua0VuOERCWVNXejA1c1Z3SDlqbTlKbnQzR2FHdkxFeHVwNmV3ei1WTk1uSEstLUHSAbMBQVVfeXFMTWFNeGNJRlJXWHNpUmpWZ2h5alU5VzBSdVJDRG92dkpjNC1xQXpBemdCamhMa3RHSDlOTWMwNGNwaE15bjA0Mms1cDNEMmtpT3lyWDNnWFBwTWJzcFlrZWFadkFlVmYwdTNpQmxaczMxRDFnWjRXS1dQSzdMd09sMnRSb0RnSUNLaUhEd1NiVDRyU2tUbmhid3BNcU5tVjktVlhqRVdfSGRnU1NTa2prOExGbGc?oc=5\" target=\"_blank\">LideraMdo aborda en Burgos la gestión de los recursos humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BURGOSconecta</font>"
+    },
+    {
+      "id": 66336,
+      "story_id": 1410,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGtvbDFRbjRGQVdoTG9UNVo2dkZybnRrdmVsdlB1dFV1NDJsczZBb0FaRXlrMWNwUElPSFhCMjdoNVc3cG9CLUtVdzBBbHR1ZDNrWU9YME94UlhZYXgyVUFnNHowS3l5R0VPclkzUjRoX1VYcTg5MGJ5b1hQbldLNnBYbDBTbU9XbDYw?oc=5",
+      "title": "Sebastian Skretting Sandtorv - Transfermarkt",
+      "source_name": "Transfermarkt",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-14T19:05:44+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGtvbDFRbjRGQVdoTG9UNVo2dkZybnRrdmVsdlB1dFV1NDJsczZBb0FaRXlrMWNwUElPSFhCMjdoNVc3cG9CLUtVdzBBbHR1ZDNrWU9YME94UlhZYXgyVUFnNHowS3l5R0VPclkzUjRoX1VYcTg5MGJ5b1hQbldLNnBYbDBTbU9XbDYw?oc=5\" target=\"_blank\">Sebastian Skretting Sandtorv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transfermarkt</font>"
+    },
+    {
+      "id": 66457,
+      "story_id": 1409,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDZELUs2MkZ6cDdwSjNzTW1KUmhMZ1F4Zmoyd2lKZlUyREtOYWJQNWdub0xfVXNka2NmSTZ6NHEzR1VILTlPbEUtYXRnOWdZRndzdWFib0tHZHNZbFRXR2l0blpOQXlzR2JVMGN2eHBWYllSeU9PaDhTRGZLdmFGNXR1ajdGaURhbkE?oc=5",
+      "title": "Salmar-laks også inn i russisk søkelys - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-04-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDZELUs2MkZ6cDdwSjNzTW1KUmhMZ1F4Zmoyd2lKZlUyREtOYWJQNWdub0xfVXNka2NmSTZ6NHEzR1VILTlPbEUtYXRnOWdZRndzdWFib0tHZHNZbFRXR2l0blpOQXlzR2JVMGN2eHBWYllSeU9PaDhTRGZLdmFGNXR1ajdGaURhbkE?oc=5\" target=\"_blank\">Salmar-laks også inn i russisk søkelys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>"
+    },
+    {
+      "id": 66501,
+      "story_id": 1408,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRHpmLUJsd1BFUFVIYVZuSTJrWlNmRXoxU3FEeXEzbTlhcWdhZHIxZWktNnh4TDZ6UnhBU1ZjeWo2QUc3UVFkbzI0ZHUtSmFtaFdQQktSTTZfSjRjdUQ1TVl2Y1FkVU93amxCX0t1T3dqMnI4dDZXbjBQbDctX1hfR1lkOERscUpTbTM5d1hrT3UzUWt3Mi1sd1hCVk0zdm9NS2ZwYlo3RTY5YWx3MXUwWlhXT3J3NVYxNHlJ?oc=5",
+      "title": "Kan styrke laksens overlevelse og vekst i overføringsfasen - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-09-10T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRHpmLUJsd1BFUFVIYVZuSTJrWlNmRXoxU3FEeXEzbTlhcWdhZHIxZWktNnh4TDZ6UnhBU1ZjeWo2QUc3UVFkbzI0ZHUtSmFtaFdQQktSTTZfSjRjdUQ1TVl2Y1FkVU93amxCX0t1T3dqMnI4dDZXbjBQbDctX1hfR1lkOERscUpTbTM5d1hrT3UzUWt3Mi1sd1hCVk0zdm9NS2ZwYlo3RTY5YWx3MXUwWlhXT3J3NVYxNHlJ?oc=5\" target=\"_blank\">Kan styrke laksens overlevelse og vekst i overføringsfasen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 66798,
+      "story_id": 1407,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemd4Z3ZmWlIzbVVFZkF0TDlNYmdqYXA1bzJBbU52bmVaYko0RjRsUHdZME4ydnZGUlpjVXV0NDV6bjlaX3MxamdpNm5CN09fYlFfU25vdl9kM2lRbHVZanlRcW9obUhRV0FZamp2aDNSUi1tRVRtbzNKbVJzbzg3MmFWVDJMWUNtM2NNeE1fUWZEUzdiOENYUXh2N1Aydw?oc=5",
+      "title": "200 millioner kroner bedre for Ewos - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2019-12-23T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOemd4Z3ZmWlIzbVVFZkF0TDlNYmdqYXA1bzJBbU52bmVaYko0RjRsUHdZME4ydnZGUlpjVXV0NDV6bjlaX3MxamdpNm5CN09fYlFfU25vdl9kM2lRbHVZanlRcW9obUhRV0FZamp2aDNSUi1tRVRtbzNKbVJzbzg3MmFWVDJMWUNtM2NNeE1fUWZEUzdiOENYUXh2N1Aydw?oc=5\" target=\"_blank\">200 millioner kroner bedre for Ewos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
     }
   ],
   "share_of_voice": {
@@ -57069,6 +57218,14 @@
         "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 1
+      },
+      {
+        "week": "2019-W52",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2020-W02",
@@ -59012,7 +59169,7 @@
         "BioMar": 4,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 7
+        "Skretting": 8
       },
       {
         "week": "2025-W38",
@@ -59268,7 +59425,7 @@
         "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 7
+        "Skretting": 8
       },
       {
         "week": "2026-W18",
@@ -59292,7 +59449,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       }
     ],
     "totals": [
@@ -59306,7 +59463,7 @@
       },
       {
         "company": "Cargill",
-        "count": 223
+        "count": 224
       },
       {
         "company": "Polarfeed",
@@ -59314,7 +59471,7 @@
       },
       {
         "company": "Skretting",
-        "count": 533
+        "count": 536
       }
     ]
   }
