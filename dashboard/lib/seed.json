@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-15T22:51:50+00:00",
+  "generated_at": "2026-05-16T07:31:07+00:00",
   "stats": {
-    "mention_count": 1551,
+    "mention_count": 1552,
     "story_count": 1388,
-    "analyzed_count": 635,
-    "off_topic_mentions": 48,
+    "analyzed_count": 636,
+    "off_topic_mentions": 49,
     "off_topic_stories": 33
   },
   "outlets": [
@@ -60,6 +60,7 @@
     "Diario Sustentable",
     "Diario de Burgos",
     "Diario de León",
+    "Diario de Noticias de Álava",
     "Diario de Osorno",
     "Diario de Valdivia",
     "Domain",
@@ -4026,7 +4027,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -55896,6 +55897,29 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOemd4Z3ZmWlIzbVVFZkF0TDlNYmdqYXA1bzJBbU52bmVaYko0RjRsUHdZME4ydnZGUlpjVXV0NDV6bjlaX3MxamdpNm5CN09fYlFfU25vdl9kM2lRbHVZanlRcW9obUhRV0FZamp2aDNSUi1tRVRtbzNKbVJzbzg3MmFWVDJMWUNtM2NNeE1fUWZEUzdiOENYUXh2N1Aydw?oc=5\" target=\"_blank\">200 millioner kroner bedre for Ewos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+    },
+    {
+      "id": 67191,
+      "story_id": 275,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb01MSjloWDNCUTdzdmpRNy1ZQW15YmdPNU8tVFNqX0swcWpidEdCZnNVTURTdmRPbEMwZlBTdjRhNmh3TGludlVhMmI0WnY2Nlk0Mjc1c3pWZktZaGJ0TTB1T3U3U0k2bW1WeDFpWEJXN3p4VlpsaEhNN2JxVU9QS3cyWXZacGZzMEpaMldzRFVTank5SmhXQ2g4VW15UjjSAaQBQVVfeXFMTXhpVVNMOG9XSkJ2V19GWndEZVNBWDlfM1pXTEhYTEk5Um1PbXpNd2NVdE5vRXF2UkEzZ2thWGQtVG1kaHU4TWIxYy1NR3dRT3dxTi1RdnIwbGhNRHB6cXdlak1fUU5sV01JRkVhUl9XOG1FNFR4eTNJQjc4bG1uemZ1WlAwSm83TnpSblVTUUd5OExac19PS2QxTWcyRXc3T1NCejk?oc=5",
+      "title": "El golpe a Biomar: coches y relojes de lujo, millones de euros y un taller ilegal de armas - Diario de Noticias de Álava",
+      "source_name": "Diario de Noticias de Álava",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2025-12-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Spanish law enforcement operation against an unrelated entity",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This article reports on a police operation targeting an entity called 'Biomar' in Spain involving luxury goods, weapons, and financial crimes. The article is about a Spanish criminal/fraud case unrelated to BioMar Group, the Danish aquaculture feed producer, which appears to be a case of name collision with a different organization operating in Spain (consistent with the Spanish hydrocarbons/VAT-fraud company Biomar S.A. referenced in the brand disambiguation guidelines)."
     }
   ],
   "share_of_voice": {
@@ -59278,7 +59302,7 @@
       {
         "week": "2025-W51",
         "Aller Aqua": 0,
-        "BioMar": 16,
+        "BioMar": 17,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -59459,7 +59483,7 @@
       },
       {
         "company": "BioMar",
-        "count": 635
+        "count": 636
       },
       {
         "company": "Cargill",
