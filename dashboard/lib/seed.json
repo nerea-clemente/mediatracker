@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T17:00:43+00:00",
+  "generated_at": "2026-05-16T22:41:22+00:00",
   "stats": {
-    "mention_count": 1555,
-    "story_count": 1391,
+    "mention_count": 1557,
+    "story_count": 1393,
     "analyzed_count": 637,
     "off_topic_mentions": 49,
     "off_topic_stories": 33
@@ -270,6 +270,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1415,
+      "headline": "41’ - Gult kort til Ingeborg Skretting - TV2.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlA3NkhoRlFSd3FTb2JoWTI1czI2THNfUHJwbWphSzEzT3BIYVZKU3RRWVcwQU5La1MyTDQ4aGp3ZDc0em9qejJiZEhEU0pUdHpWM3FjcDBuSE1WS1AtMXpqZi1Bd1pHbzN2Y2VDSEpfU0VxUFVQTG4wY3doSC1OdA?oc=5\" target=\"_blank\">41’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>",
+      "first_seen": "2026-05-15T07:00:00+00:00",
+      "last_seen": "2026-05-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1402,
@@ -14730,6 +14744,20 @@
       "first_seen": "2021-06-02T07:00:00+00:00",
       "last_seen": "2021-06-02T07:00:00+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1414,
+      "headline": "Primer granelero híbrido del mundo que transporta alimento para peces inicia operaciones - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ1NkMllDclUyODNMMXhEdHJzLTZSS2RPSEttajFINjBPc1k2eWM3RGpvbUI5aGttRmNXVC1PYWdBR3FnY0RWY2Q5cXhnd0NDM05HN1ZHRlpGUWVtbzlma3NmdG9LWTFiYzhHdm40LW44UWlHa0JFSVN3c0Q4ZkMzNjJsTWVWOW5nZHFDVDdEM0RoaU1EZTZabVJJMWRCLUh3a2JiNngyTWZLcG5VeC1BTk82cU85TmZqdjByS1V4bEZUUS1qbGVQZlRqS25SRFBWLS1ManctRFdBZnM0ZlN3?oc=5\" target=\"_blank\">Primer granelero híbrido del mundo que transporta alimento para peces inicia operaciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2021-05-27T07:00:00+00:00",
+      "last_seen": "2021-05-27T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -56031,6 +56059,52 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3BXaGptRmtCQ2xXLVg0aUxPMjJpTTdfY3pCdkZpRGZkTmRxVzFpUmNCNTd5YXlDNWl4UXBaZ3pIdURnVFFXbjdmX0I3TnUwMkdONk9hLUlibHZZMVBBVERYd2hkbEN3V211bVBXTjFMbWFqSi1CcEhFeVA0NWJZX2tfZURrUllEY0RkWU5KbXFHcXVRSkNYZUJR?oc=5\" target=\"_blank\">Skretting Chile publica reporte de sustentabilidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 70414,
+      "story_id": 1414,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ1NkMllDclUyODNMMXhEdHJzLTZSS2RPSEttajFINjBPc1k2eWM3RGpvbUI5aGttRmNXVC1PYWdBR3FnY0RWY2Q5cXhnd0NDM05HN1ZHRlpGUWVtbzlma3NmdG9LWTFiYzhHdm40LW44UWlHa0JFSVN3c0Q4ZkMzNjJsTWVWOW5nZHFDVDdEM0RoaU1EZTZabVJJMWRCLUh3a2JiNngyTWZLcG5VeC1BTk82cU85TmZqdjByS1V4bEZUUS1qbGVQZlRqS25SRFBWLS1ManctRFdBZnM0ZlN3?oc=5",
+      "title": "Primer granelero híbrido del mundo que transporta alimento para peces inicia operaciones - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2021-05-27T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ1NkMllDclUyODNMMXhEdHJzLTZSS2RPSEttajFINjBPc1k2eWM3RGpvbUI5aGttRmNXVC1PYWdBR3FnY0RWY2Q5cXhnd0NDM05HN1ZHRlpGUWVtbzlma3NmdG9LWTFiYzhHdm40LW44UWlHa0JFSVN3c0Q4ZkMzNjJsTWVWOW5nZHFDVDdEM0RoaU1EZTZabVJJMWRCLUh3a2JiNngyTWZLcG5VeC1BTk82cU85TmZqdjByS1V4bEZUUS1qbGVQZlRqS25SRFBWLS1ManctRFdBZnM0ZlN3?oc=5\" target=\"_blank\">Primer granelero híbrido del mundo que transporta alimento para peces inicia operaciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 70644,
+      "story_id": 1415,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlA3NkhoRlFSd3FTb2JoWTI1czI2THNfUHJwbWphSzEzT3BIYVZKU3RRWVcwQU5La1MyTDQ4aGp3ZDc0em9qejJiZEhEU0pUdHpWM3FjcDBuSE1WS1AtMXpqZi1Bd1pHbzN2Y2VDSEpfU0VxUFVQTG4wY3doSC1OdA?oc=5",
+      "title": "41’ - Gult kort til Ingeborg Skretting - TV2.no",
+      "source_name": "TV2.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlA3NkhoRlFSd3FTb2JoWTI1czI2THNfUHJwbWphSzEzT3BIYVZKU3RRWVcwQU5La1MyTDQ4aGp3ZDc0em9qejJiZEhEU0pUdHpWM3FjcDBuSE1WS1AtMXpqZi1Bd1pHbzN2Y2VDSEpfU0VxUFVQTG4wY3doSC1OdA?oc=5\" target=\"_blank\">41’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
     }
   ],
   "share_of_voice": {
@@ -57753,6 +57827,14 @@
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 1
+      },
+      {
+        "week": "2021-W21",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2021-W22",
@@ -59592,7 +59674,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       }
     ],
     "totals": [
@@ -59602,7 +59684,7 @@
       },
       {
         "company": "BioMar",
-        "count": 637
+        "count": 638
       },
       {
         "company": "Cargill",
@@ -59614,7 +59696,7 @@
       },
       {
         "company": "Skretting",
-        "count": 538
+        "count": 539
       }
     ]
   }
