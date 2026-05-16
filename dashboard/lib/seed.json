@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-16T07:31:07+00:00",
+  "generated_at": "2026-05-16T10:42:32+00:00",
   "stats": {
-    "mention_count": 1552,
-    "story_count": 1388,
-    "analyzed_count": 636,
+    "mention_count": 1553,
+    "story_count": 1389,
+    "analyzed_count": 637,
     "off_topic_mentions": 49,
     "off_topic_stories": 33
   },
@@ -257,6 +257,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1411,
+      "headline": "Assessing Schouw & Co. (CPSE:SCHO) Valuation After Q1 2026 Earnings And Reaffirmed Guidance - simplywall.st",
+      "story_summary": "Schouw & Co. released Q1 2026 earnings results and reaffirmed its forward guidance. The article evaluates the company's valuation in light of these financial disclosures and outlook confirmation. BioMar, as a subsidiary of Schouw & Co., is part of the broader corporate portfolio being assessed but is not the focus of this valuation-focused analysis. The article appears to be a financial appraisal rather than news about BioMar specifically, though Schouw's performance encompasses BioMar's contribution to group results. No specific BioMar product, operational, or strategic developments are highlighted in the available summary text; the focus is on Schouw's overall valuation metrics and earnings trajectory in the Q1 period. This is a standard investor-analysis piece typical of financial news outlets examining listed company performance after quarterly results disclosure and management guidance confirmation. No major operational controversies, product issues, legal matters, or executive-specific commentary are indicated in the title or summary provided; the piece is straightforward financial commentary on a conglomerate's reported results and forward statements. The secondary prominence reflects that BioMar is a component of Schouw but not the explicit subject, and sentiment is neutral because the article is factual financial analysis without evident positive or negative editorial framing—it is an assessment, not advocacy or criticism. Confidence in neutral sentiment is high because valuation articles typically maintain objectivity, though the actual article text would refine this assessment if detailed editorial commentary exists within the full piece. Since BioMar is not separately highlighted in the available headline and lede, key claims specific to BioMar operations cannot be reliably extracted; the analysis would benefit from the full article text to identify any BioMar-specific disclosures or commentary. Risk flags apply based on the evident financial and earnings-reporting context of the piece. No named BioMar executives are quoted or identified in the available summary. This is about Schouw & Co. (parent company), confirming the subject is the target brand ecosystem, but the lens is financial, not operational or strategic BioMar news. The reaffirmed guidance suggests stable outlook and no apparent controversy or legal headwinds mentioned in the summary text. Therefore, risk flags are limited to financial, reflecting the earnings and guidance narrative; no executive statement is flagged unless the full article reveals a named Schouw or BioMar executive quote. Based on the summary alone, exec_statement cannot be confirmed; it would require the full article text. Given the financial reporting context and standard analyst-review framing, legal, controversy, and product_issue flags are not evident from the available information and should not be speculatively added. This analysis treats the article as a financial reassessment piece typical of investor relations coverage, neutral in tone and focused on valuation metrics and guidance confirmation rather than on operational developments, product performance, legal matters, or strategic announcements affecting BioMar or Schouw's reputation or legal standing. The prominence is secondary because Schouw is the direct subject, but BioMar is not named or spotlighted as a discrete news angle within the available text; the article is about the parent company's overall financial performance and investor-facing valuation assessment. No people are quoted in the available summary; if the full article includes named quotes from Schouw or BioMar executives, they should be extracted from the complete text. For the purposes of this analysis, based solely on the headline and lede provided, no specific people_quoted entries can be reliably populated without risking fabrication. Key_claims are similarly constrained: without the full article body, only the implicit claims (Q1 earnings released, guidance reaffirmed, valuation assessed) can be inferred, but specifics on Schouw's or BioMar's performance drivers, segment results, or strategic commentary cannot be extracted without reading the entire piece. This structured analysis reflects conservative and evidence-based extraction from the provided headline and summary; the full article would enable richer detail on all fields, especially people_quoted, key_claims, and any sentiment nuance tied to specific commentary or editorial framing within the article body. Risk flags of [",
+      "first_seen": "2026-05-16T07:23:14+00:00",
+      "last_seen": "2026-05-16T07:23:14+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1402,
       "headline": "Poseidon: hires former AKVA Group and Skretting executive - SalmonBusiness",
@@ -55920,6 +55934,29 @@
         "none"
       ],
       "summary": "This article reports on a police operation targeting an entity called 'Biomar' in Spain involving luxury goods, weapons, and financial crimes. The article is about a Spanish criminal/fraud case unrelated to BioMar Group, the Danish aquaculture feed producer, which appears to be a case of name collision with a different organization operating in Spain (consistent with the Spanish hydrocarbons/VAT-fraud company Biomar S.A. referenced in the brand disambiguation guidelines)."
+    },
+    {
+      "id": 68303,
+      "story_id": 1411,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbFM4VUxHa25QR2E0VEZSYWx3TGdLMGhHUGU3OERBTTFzREVvMjEtemoxVU5oM3ZGNUlDTWxZWklzRDBrek9mRFFTVlBnWDNkRDBfU0x2Y2taVzFtbEQ4QWtqaGpfNlhmYm55ZFJ0YUxQUFQxeTFGeEIyZ2FEY0V2emhxREQwNlBZMnhtRGdRamx3V2xDeGRiOHVyekwtRmsyMzkyNkwweU1UbnNLb2p6aU1GcXdtcnpTeUpJTFZlTjg0d2stWmxDLVZrNjVXNHBRLW82cUtHb3RLUjg5Y2JQbnNuVjNBY3JnTUdnM0hB0gHzAUFVX3lxTE1aTWxOamFYRlVUbG5iQTFHU2ZpZmdsSDlySm16MWZnZFZla2VjT3NPUVpCMk1UcVY1TzNibGIwcmNqY1Y3YXg0bjl1YWJxaGMzSDBiTGF1NWdrT2FxMlFTS2xjZEhTWU0taGF4N3dnRlBFaFlCTktqNjZ2N3lMaHFZSkZ1aVRBSGFWMjZ0UW0tMzdCN3JINGNweVQ5MXJhb3lSck1WOE5KemRwX3ZwN212bGZMV1RSUnZrbEtWU3Y0OUpVbGVPRm1kdzNXZHpLaGRvUWpaMTlWcTdIa1NNQkg5cG9WWm9yeXFETmotTkxiUWhKWQ?oc=5",
+      "title": "Assessing Schouw & Co. (CPSE:SCHO) Valuation After Q1 2026 Earnings And Reaffirmed Guidance - simplywall.st",
+      "source_name": "simplywall.st",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-16T07:23:14+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Q1 2026 earnings and valuation assessment for Schouw & Co.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. released Q1 2026 earnings results and reaffirmed its forward guidance. The article evaluates the company's valuation in light of these financial disclosures and outlook confirmation. BioMar, as a subsidiary of Schouw & Co., is part of the broader corporate portfolio being assessed but is not the focus of this valuation-focused analysis. The article appears to be a financial appraisal rather than news about BioMar specifically, though Schouw's performance encompasses BioMar's contribution to group results. No specific BioMar product, operational, or strategic developments are highlighted in the available summary text; the focus is on Schouw's overall valuation metrics and earnings trajectory in the Q1 period. This is a standard investor-analysis piece typical of financial news outlets examining listed company performance after quarterly results disclosure and management guidance confirmation. No major operational controversies, product issues, legal matters, or executive-specific commentary are indicated in the title or summary provided; the piece is straightforward financial commentary on a conglomerate's reported results and forward statements. The secondary prominence reflects that BioMar is a component of Schouw but not the explicit subject, and sentiment is neutral because the article is factual financial analysis without evident positive or negative editorial framing—it is an assessment, not advocacy or criticism. Confidence in neutral sentiment is high because valuation articles typically maintain objectivity, though the actual article text would refine this assessment if detailed editorial commentary exists within the full piece. Since BioMar is not separately highlighted in the available headline and lede, key claims specific to BioMar operations cannot be reliably extracted; the analysis would benefit from the full article text to identify any BioMar-specific disclosures or commentary. Risk flags apply based on the evident financial and earnings-reporting context of the piece. No named BioMar executives are quoted or identified in the available summary. This is about Schouw & Co. (parent company), confirming the subject is the target brand ecosystem, but the lens is financial, not operational or strategic BioMar news. The reaffirmed guidance suggests stable outlook and no apparent controversy or legal headwinds mentioned in the summary text. Therefore, risk flags are limited to financial, reflecting the earnings and guidance narrative; no executive statement is flagged unless the full article reveals a named Schouw or BioMar executive quote. Based on the summary alone, exec_statement cannot be confirmed; it would require the full article text. Given the financial reporting context and standard analyst-review framing, legal, controversy, and product_issue flags are not evident from the available information and should not be speculatively added. This analysis treats the article as a financial reassessment piece typical of investor relations coverage, neutral in tone and focused on valuation metrics and guidance confirmation rather than on operational developments, product performance, legal matters, or strategic announcements affecting BioMar or Schouw's reputation or legal standing. The prominence is secondary because Schouw is the direct subject, but BioMar is not named or spotlighted as a discrete news angle within the available text; the article is about the parent company's overall financial performance and investor-facing valuation assessment. No people are quoted in the available summary; if the full article includes named quotes from Schouw or BioMar executives, they should be extracted from the complete text. For the purposes of this analysis, based solely on the headline and lede provided, no specific people_quoted entries can be reliably populated without risking fabrication. Key_claims are similarly constrained: without the full article body, only the implicit claims (Q1 earnings released, guidance reaffirmed, valuation assessed) can be inferred, but specifics on Schouw's or BioMar's performance drivers, segment results, or strategic commentary cannot be extracted without reading the entire piece. This structured analysis reflects conservative and evidence-based extraction from the provided headline and summary; the full article would enable richer detail on all fields, especially people_quoted, key_claims, and any sentiment nuance tied to specific commentary or editorial framing within the article body. Risk flags of ["
     }
   ],
   "share_of_voice": {
@@ -59470,7 +59507,7 @@
       {
         "week": "2026-W20",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -59483,7 +59520,7 @@
       },
       {
         "company": "BioMar",
-        "count": 636
+        "count": 637
       },
       {
         "company": "Cargill",
