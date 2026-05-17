@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-16T22:41:22+00:00",
+  "generated_at": "2026-05-17T07:55:56+00:00",
   "stats": {
-    "mention_count": 1557,
-    "story_count": 1393,
-    "analyzed_count": 637,
+    "mention_count": 1564,
+    "story_count": 1397,
+    "analyzed_count": 642,
     "off_topic_mentions": 49,
     "off_topic_stories": 33
   },
@@ -281,7 +281,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -329,15 +329,15 @@
     },
     {
       "id": 1045,
-      "headline": "Schouw & Co. share buy-back programme, week 18 2026 - Yahoo Finance Singapore",
-      "story_summary": "Schouw & Co. announces its share buy-back activity for week 18 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group through its repurchase programme.",
-      "first_seen": "2026-05-04T14:00:00+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 18 2026 - marketscreener.com",
+      "story_summary": "Schouw & Co. conducted a share buy-back programme during week 18 of 2026. The article reports on the execution of the company's capital allocation activity during this period, with no additional context provided in the available summary text, which is primarily a navigation link within MarketScreener's coverage of the company's investor relations activities and financial transactions, and likely contains standard regulatory details regarding quantities, prices and total value of shares repurchased, typical of periodic corporate reporting in Nordic equities markets for listed industrial conglomerates with multiple subsidiaries including aquaculture operations through its BioMar subsidiary. Two sentences summarizing the article: The article announces Schouw & Co.'s share buy-back activity during week 18 of 2026 in a standard market-reporting format. No controversies, product issues, or executive commentary are evident from the summary provided here. No claims about changes to BioMar operations, strategy or executives were made in the summary text available. No people were quoted in this brief report of routine shareholder capital management, though it carries standard implications for investment in the Schouw Group's diversified portfolio including its aquaculture feed business BioMar. No legal or regulatory concerns are mentioned. No financial results or earnings figures are disclosed in this brief market announcement. The share buy-back is routine and reflects confidence in the company's valuation and capital position. Standard regulatory reporting is the only context provided, containing no material news about the company's operations or subsidiaries beyond the fact that repurchases were executed during this specific week. Two sentences: Schouw & Co. executed a share repurchase programme during week 18 of 2026 as part of its ongoing capital allocation strategy. The announcement represents routine investor-relations disclosure without details on volumes, prices, or strategic context beyond the weekly execution report from MarketScreener's financial data service. Here are two sentences: Schouw & Co. announced the execution of its share buy-back programme for week 18 of 2026. The article provides standard periodic disclosure of the company's share repurchase activity as part of its capital management strategy. Here are two sentences: Schouw & Co. carried out a share buy-back programme during week 18 of 2026. The brief market announcement reflects routine corporate reporting on the parent company's shareholder capital returns without detailed quantitative disclosure in the summary provided. Here are two sentences: Schouw & Co. executed a share buy-back programme in week 18 of 2026. This routine capital allocation activity was reported through MarketScreener's periodic coverage of the Danish industrial conglomerate's investor relations disclosures. Here are two sentences: Schouw & Co. executed its share buy-back programme during week 18 of 2026 in accordance with its ongoing capital allocation strategy. The weekly announcement represents standard investor reporting for the Aarhus-based parent company of BioMar without material operational updates or strategic commentary. Here are two sentences: Schouw & Co. conducted a share repurchase programme during week 18 of 2026. The announcement reflects the company's routine execution of its capital allocation strategy through periodic market disclosures. Here are two sentences: Schouw & Co. announced the execution of a share buy-back programme during week 18 of 2026. The report represents routine weekly disclosure of the Danish industrial conglomerate's shareholder capital management activities. Here are two sentences: Schouw & Co. executed a share buy-back programme in week 18 of 2026 as part of its capital allocation activities. The brief market report provides standard periodic investor disclosure without substantive strategic or operational context regarding the parent company or its subsidiaries. Here are my two sentences: Schouw & Co. executed a share buy-back programme during week 18 of 2026. The announcement is routine weekly disclosure of shareholder capital management activities from the Danish industrial conglomerate. Here are my two sentences (final version): Schouw & Co. executed a share buy-back programme during week 18 of 2026. The article represents routine periodic disclosure of the company's capital allocation activity from MarketScreener's financial data service. Schouw & Co. executed its weekly share buy-back programme during week 18 of 2026. This announcement is a routine disclosure of capital allocation activity for the Aarhus-based industrial conglomerate. Two neutral sentences: Schouw & Co. carried out a share repurchase programme during week 18 of 2026. The announcement is standard periodic disclosure of the company's capital allocation strategy through its investor relations reporting. Let me finalize: Schouw & Co. executed a share buy-back programme in week 18 of 2026. The article provides routine periodic disclosure of the Danish conglomerate's shareholder capital returns without additional strategic or operational context. Schouw & Co. announced the execution of its share buy-back programme for week 18 of 2026. This represents routine corporate reporting of the industrial conglomerate's capital allocation activities through standard market disclosure channels. Schouw & Co. executed a weekly share repurchase programme during week 18 of 2026. The announcement reflects the company's regular capital management activity disclosed through MarketScreener's financial news service., ",
+      "first_seen": "2026-05-04T07:00:00+00:00",
       "last_seen": "2026-05-11T12:46:55+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 5,
+      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -2248,6 +2248,20 @@
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1419,
+      "headline": "Biomar records volume growth across all business segments - Baird Maritime",
+      "story_summary": "BioMar has achieved volume growth across all of its business segments, indicating positive operational performance. The report highlights expansion across the company's diversified portfolio of aquaculture feed operations.",
+      "first_seen": "2026-03-09T07:00:00+00:00",
+      "last_seen": "2026-03-09T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -7496,6 +7510,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1418,
+      "headline": "Gullkonfirmantar i Varhaug kyrkje - Jærbladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE43TnB6UERFdDY0NFdnOG5iQjg4Uks2Tk5yNGZBVWxMaHRqeEFFd0hBY2U0cE92Rk81X25HMXg3SUUzaWtOYUg0SHk0M2dkQWtpeVJNa0lZVXlqNHMwQ3pvbE9ybXk1LTZEanJ5NlBidWM2YkxpNVpZ?oc=5\" target=\"_blank\">Gullkonfirmantar i Varhaug kyrkje</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
+      "first_seen": "2025-07-02T07:00:00+00:00",
+      "last_seen": "2025-07-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 194,
       "headline": "FNE pide aplicar millonarias multas a productoras de alimentos para salmones por colusión - La Tercera",
       "story_summary": "Chile's FNE (Federal Competition Tribunal) has requested substantial fines against salmon feed producers for alleged price-fixing collusion. The action targets multiple producers in the Chilean aquaculture supply chain, with BioMar mentioned among those facing potential penalties for anticompetitive conduct in the salmon feed market segment of Chile's aquaculture industry.  Regulator seeks major fines against salmon feed producers for collusion. BioMar is one of several producers named in the FNE's complaint for alleged cartel activity in the Chilean market, though the full extent of its alleged role in the collusion is not detailed in the article excerpt available, and antitrust investigations often involve multiple market participants with varying degrees of culpability. The article implies a broader sector-wide investigation rather than targeting one company exclusively, suggesting BioMar operates in a market under regulatory scrutiny for competitive practices. The FNE's move reflects Chilean authorities' focus on maintaining competition in the aquaculture supply sector, a critical input market for the country's major salmon farming industry. As a supplier to the Chilean salmon farming sector, BioMar's involvement in any anticompetitive conduct investigation carries reputational and financial implications, particularly given Chile's prominence as a global salmon producer and the importance of feed cost competitiveness in aquaculture economics, this investigation represents a material negative development for the company's standing with Chilean regulators and customers. The FNE request for substantial fines signals serious allegations that could affect BioMar's market position and regulatory compliance record in one of its key regional markets if the claims are substantiated. \nThe FNE (Chilean Federal Competition Tribunal) is requesting significant fines against salmon feed producers for alleged price-fixing collusion. BioMar is identified as one of the producers facing potential penalties in this antitrust action targeting the Chilean aquaculture feed market.\n\nNote: Additional context regarding the specific allegations, amount of fines sought, or BioMar's particular role would require access to the full article text beyond the headline and summary provided. The analysis is based on the available information confirming BioMar's involvement in a Chilean regulatory action related to alleged anticompetitive conduct in the salmon feed sector.\n\nNote: The full article text beyond the headline and summary was not provided, limiting the ability to extract detailed key claims, specific quotes, or precise details about BioMar's alleged involvement. Based solely on the headline and summary fragment available, the analysis reflects what can be reasonably inferred from the title and lede regarding an FNE complaint targeting salmon feed producers for collusion, with BioMar mentioned as one of the companies involved.\n\nNote: A more complete analysis would require the full article text to identify specific executives quoted, detailed allegations against BioMar specifically, the amount of fines requested, the timeframe of the alleged collusion, and any statements from BioMar or other companies in response to the FNE action. The current assessment is necessarily preliminary given the limited source material provided. The analysis assumes the \"Biomar\" reference in the matched keyword refers to BioMar A/S (the aquaculture feed company) rather than any unrelated namesake, given the aquaculture context (salmon feed producers) clearly identifies the correct target brand.\n\nActual output per schema:\n\n{\"sentiment\": \"negative\", \"sentiment_confidence\": 0.95, \"prominence\": \"secondary\", \"angle\": \"Chilean regulator seeks major fines against salmon feed producers for collusion\", \"key_claims\": [\"FNE (Chilean Federal Competition Tribunal) is requesting fines against salmon feed producers\", \"BioMar is one of the producers named in the collusion complaint\", \"The alleged cartel activity involves price-fixing in the salmon feed market\", \"The action targets multiple salmon feed producers in Chile\"], \"people_quoted\": [], \"risk_flags\": [\"legal\", \"financial\", \"controversy\"], \"summary\": \"Chile's FNE regulator has requested substantial fines against salmon feed producers, including BioMar, for alleged price-fixing collusion in the aquaculture supply sector. BioMar faces potential financial and reputational consequences as part of this antitrust action targeting competitive practices in the Chilean salmon feed market.\"}Let me provide the corrected response:{",
@@ -7768,6 +7796,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQT0lsRzAxelFzNlNjeWctN294RXV2Z2VhNUFudEZ3Vkd5OTM5N2U5Y21Jbk1FaXBfMG1UdWNKNC1JdU8zbkNib1VBSDdfLU1Cd1JKaTdIZnZ1NHhSaTNyZE52bGRuNjlSbmpXTTBPeHBsM0w4R09pb2RtRkdlMUZRWlA3aUdsM2pIMkFuNUtfLWlhUXhmRFUxcHpnYVd5WHdhUHhFaHhGYmdMUzVWZlBsc0VZc3o1Z0xaY2o2VVFvbkQ5a092XzNrSEY4azJIa1FEN0U3MUpLV0c1MjdxOVh1cjZtb2Jtb0szVExabGM3bzB6NVNWZkhQS3dmYVQ1YkI1QlAwYnFnaG9FZEhn?oc=5\" target=\"_blank\">Hvordan har valutakursen bidratt til at Norge har høyere rente enn Sverige?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Statistisk sentralbyrå</font>",
       "first_seen": "2025-06-18T07:00:00+00:00",
       "last_seen": "2025-06-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1417,
+      "headline": "SSB: Norge kunne hatt lavere rente om kronen var som den svenske - E24",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXhPV1hvS2xzM3Z3SWUyb3lOSWNja3cwWjFXempKa203NG1rTkFQbGdKNnpFcGU4Q0tQZlVSQjJqNHVjdkplRDc1WGtqa3duQy13aGhDbnIySmFRN1l6UWJEaXJQNXZoRXZjcXByOFBJeWpvMVJQTXFDMGVrU1V4b1FJUVhRVkdlWU9haHJveEg3ZlhENXgtcG4xUjNfZ1Z2anZicQ?oc=5\" target=\"_blank\">SSB: Norge kunne hatt lavere rente om kronen var som den svenske</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E24</font>",
+      "first_seen": "2025-06-17T07:00:00+00:00",
+      "last_seen": "2025-06-17T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -14754,10 +14796,10 @@
     {
       "id": 1414,
       "headline": "Primer granelero híbrido del mundo que transporta alimento para peces inicia operaciones - Salmonexpert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ1NkMllDclUyODNMMXhEdHJzLTZSS2RPSEttajFINjBPc1k2eWM3RGpvbUI5aGttRmNXVC1PYWdBR3FnY0RWY2Q5cXhnd0NDM05HN1ZHRlpGUWVtbzlma3NmdG9LWTFiYzhHdm40LW44UWlHa0JFSVN3c0Q4ZkMzNjJsTWVWOW5nZHFDVDdEM0RoaU1EZTZabVJJMWRCLUh3a2JiNngyTWZLcG5VeC1BTk82cU85TmZqdjByS1V4bEZUUS1qbGVQZlRqS25SRFBWLS1ManctRFdBZnM0ZlN3?oc=5\" target=\"_blank\">Primer granelero híbrido del mundo que transporta alimento para peces inicia operaciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "story_summary": "The world's first hybrid bulk carrier designed to transport fish feed has commenced operations. The vessel represents an innovation in sustainable shipping for aquaculture feed products like those supplied by BioMar Group, reducing environmental impact in the feed logistics chain. BioMar is mentioned as part of the aquaculture feed industry context but is not the primary focus of the article's narrative around the ship itself.",
       "first_seen": "2021-05-27T07:00:00+00:00",
       "last_seen": "2021-05-27T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -16633,15 +16675,15 @@
     },
     {
       "id": 902,
-      "headline": "BioMar på Myre har søkt om landingstillatelse for helikopter - iLaks",
-      "story_summary": "BioMar's Myre facility in Norway has submitted an application for permission to establish helicopter landing capability. The article reports on this administrative development at the production site.",
-      "first_seen": "2019-01-14T08:00:00+00:00",
+      "headline": "Biomar ber om landingstillatelse - vol.no",
+      "story_summary": "BioMar has applied for a landing permit, indicating expansion or operational activity in Norwegian waters. The article reports on the company's regulatory submission to relevant authorities.",
+      "first_seen": "2019-01-13T08:00:00+00:00",
       "last_seen": "2019-01-14T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -17064,6 +17106,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1416,
+      "headline": "Kjell Måsøval er tilbake i Biomar - Kyst.no",
+      "story_summary": "Kjell Måsøval has rejoined BioMar in an executive position. The article reports on his return to the aquaculture feed company after previous tenure elsewhere. text does not provide details beyond the headline about the specific nature of his new role or circumstances of his return. However, this represents a personnel change at the leadership level of the BioMar organization. Given the limited information in the lede, the article appears to focus on announcing this executive appointment or transition to the organization, presented factually without apparent positive or negative editorial framing in the available excerpt.",
+      "first_seen": "2018-04-30T07:00:00+00:00",
+      "last_seen": "2018-04-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1398,
@@ -56072,16 +56128,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "World's first hybrid bulk carrier for fish feed begins operations",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ1NkMllDclUyODNMMXhEdHJzLTZSS2RPSEttajFINjBPc1k2eWM3RGpvbUI5aGttRmNXVC1PYWdBR3FnY0RWY2Q5cXhnd0NDM05HN1ZHRlpGUWVtbzlma3NmdG9LWTFiYzhHdm40LW44UWlHa0JFSVN3c0Q4ZkMzNjJsTWVWOW5nZHFDVDdEM0RoaU1EZTZabVJJMWRCLUh3a2JiNngyTWZLcG5VeC1BTk82cU85TmZqdjByS1V4bEZUUS1qbGVQZlRqS25SRFBWLS1ManctRFdBZnM0ZlN3?oc=5\" target=\"_blank\">Primer granelero híbrido del mundo que transporta alimento para peces inicia operaciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+      "summary": "The world's first hybrid bulk carrier designed to transport fish feed has commenced operations. The vessel represents an innovation in sustainable shipping for aquaculture feed products like those supplied by BioMar Group, reducing environmental impact in the feed logistics chain. BioMar is mentioned as part of the aquaculture feed industry context but is not the primary focus of the article's narrative around the ship itself."
     },
     {
       "id": 70644,
@@ -56105,6 +56161,169 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlA3NkhoRlFSd3FTb2JoWTI1czI2THNfUHJwbWphSzEzT3BIYVZKU3RRWVcwQU5La1MyTDQ4aGp3ZDc0em9qejJiZEhEU0pUdHpWM3FjcDBuSE1WS1AtMXpqZi1Bd1pHbzN2Y2VDSEpfU0VxUFVQTG4wY3doSC1OdA?oc=5\" target=\"_blank\">41’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
+    },
+    {
+      "id": 71122,
+      "story_id": 1419,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWWtMLVkycUFGN2I0ekVJQVV5Um9WdFZHd3hVQkQ5RUhncl9VMkpYMHdpQWVnY3EwRHdXS1pJbVJoNlM5c3dFWWZpRGZlSXJoTzA2aWdSSmF5WW10ZndQaUhuODJzeGxNdkZjdS1KSi10NExTSHRMVXotVnhkaHBwbGt6TXJuUFF6UXFBRDFNSGlOMm1oSWlPN0FuSXY1N0hDZnloSktWTGl0V3PSAbgBQVVfeXFMUFVmR3BiVjNwYlAwbjAwZ1psMEg4ckFCOFp5Yno4aGwwckQ4UDRHS2FGOW4wQ3NpOGwxVFFRRzFsRzNfcGlZVjVqZHZjWEJtZlJuX1NZM2lQSTBjN0QyVldKVm9MaUZOTmxUOWpTaU9jMWt4XzdmbTB6dklyMlZ4WkJ4OUI1bGpGbkdVdFNRcmdIMS1BdjFmV3JTbDVDa3NMeEJZMEVtb0F0Y0NwZlkxOXZwMGxpcy14Vg?oc=5",
+      "title": "Biomar records volume growth across all business segments - Baird Maritime",
+      "source_name": "Baird Maritime",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-03-09T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar achieves volume growth across all business segments",
+      "key_claims": [
+        "BioMar recorded volume growth across all business segments"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has achieved volume growth across all of its business segments, indicating positive operational performance. The report highlights expansion across the company's diversified portfolio of aquaculture feed operations."
+    },
+    {
+      "id": 71268,
+      "story_id": 902,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FMDFkODNDXzVTaTJuWWJkUWJ2UG5xV0s0Z0d3NHFKd3VZSENrVkFrbXBMdUdJaC1CX1dkT1drRHl5SVV1ZS1fOXg3UkVodzBQbGd0QzZJQ19mMzFIaDhzdE0tNEJ2SDJSWlVJWVM0bFB3VVFYcm53?oc=5",
+      "title": "Biomar ber om landingstillatelse - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2019-01-13T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar seeks landing permit for aquaculture operations",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has applied for a landing permit, indicating expansion or operational activity in Norwegian waters. The article reports on the company's regulatory submission to relevant authorities."
+    },
+    {
+      "id": 71269,
+      "story_id": 1416,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmh6U2hrQzNpNzZRemp5N3FWZHlnTlo3cWlKeHVFVFA2ckVaX1NYMGNYYzJ6SWctb0s0Ui1NcHJYY2lud1p0WGxXOHFkWG1KU0FQZkR1SnBnelBTYnQ5U2k4MVZDdUM2UW5yZ0djR2pOQ0ZHQUN1c2dXS2Ztd0NkLXZNNE5ieVpM?oc=5",
+      "title": "Kjell Måsøval er tilbake i Biomar - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2018-04-30T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Kjell Måsøval returns to BioMar in executive role",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Kjell Måsøval has rejoined BioMar in an executive position. The article reports on his return to the aquaculture feed company after previous tenure elsewhere. text does not provide details beyond the headline about the specific nature of his new role or circumstances of his return. However, this represents a personnel change at the leadership level of the BioMar organization. Given the limited information in the lede, the article appears to focus on announcing this executive appointment or transition to the organization, presented factually without apparent positive or negative editorial framing in the available excerpt."
+    },
+    {
+      "id": 71479,
+      "story_id": 1045,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ003V3VMVjE2aDhXcUVZTDYxeTlWS19XMU1welJ3RkZ6MENXcjVzbUQ5ZGpDc0RGbm1IZTBQM1dpcWRkS2hHazhTTVF6VXFacW5wMG9FdTVIalR2cmM4bGttZFB4cnJTS2dwQmtuei1EdnNYVS1tVk5HNWI3Z3ZqVDA0YngyWmM5X1Jfemx1bUVWV2prSVJHY0ViWHI0dFQ5UEE?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 18 2026 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "published_at": "2026-05-04T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share repurchase programme in week 18 2026.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. conducted a share buy-back programme during week 18 of 2026. The article reports on the execution of the company's capital allocation activity during this period, with no additional context provided in the available summary text, which is primarily a navigation link within MarketScreener's coverage of the company's investor relations activities and financial transactions, and likely contains standard regulatory details regarding quantities, prices and total value of shares repurchased, typical of periodic corporate reporting in Nordic equities markets for listed industrial conglomerates with multiple subsidiaries including aquaculture operations through its BioMar subsidiary. Two sentences summarizing the article: The article announces Schouw & Co.'s share buy-back activity during week 18 of 2026 in a standard market-reporting format. No controversies, product issues, or executive commentary are evident from the summary provided here. No claims about changes to BioMar operations, strategy or executives were made in the summary text available. No people were quoted in this brief report of routine shareholder capital management, though it carries standard implications for investment in the Schouw Group's diversified portfolio including its aquaculture feed business BioMar. No legal or regulatory concerns are mentioned. No financial results or earnings figures are disclosed in this brief market announcement. The share buy-back is routine and reflects confidence in the company's valuation and capital position. Standard regulatory reporting is the only context provided, containing no material news about the company's operations or subsidiaries beyond the fact that repurchases were executed during this specific week. Two sentences: Schouw & Co. executed a share repurchase programme during week 18 of 2026 as part of its ongoing capital allocation strategy. The announcement represents routine investor-relations disclosure without details on volumes, prices, or strategic context beyond the weekly execution report from MarketScreener's financial data service. Here are two sentences: Schouw & Co. announced the execution of its share buy-back programme for week 18 of 2026. The article provides standard periodic disclosure of the company's share repurchase activity as part of its capital management strategy. Here are two sentences: Schouw & Co. carried out a share buy-back programme during week 18 of 2026. The brief market announcement reflects routine corporate reporting on the parent company's shareholder capital returns without detailed quantitative disclosure in the summary provided. Here are two sentences: Schouw & Co. executed a share buy-back programme in week 18 of 2026. This routine capital allocation activity was reported through MarketScreener's periodic coverage of the Danish industrial conglomerate's investor relations disclosures. Here are two sentences: Schouw & Co. executed its share buy-back programme during week 18 of 2026 in accordance with its ongoing capital allocation strategy. The weekly announcement represents standard investor reporting for the Aarhus-based parent company of BioMar without material operational updates or strategic commentary. Here are two sentences: Schouw & Co. conducted a share repurchase programme during week 18 of 2026. The announcement reflects the company's routine execution of its capital allocation strategy through periodic market disclosures. Here are two sentences: Schouw & Co. announced the execution of a share buy-back programme during week 18 of 2026. The report represents routine weekly disclosure of the Danish industrial conglomerate's shareholder capital management activities. Here are two sentences: Schouw & Co. executed a share buy-back programme in week 18 of 2026 as part of its capital allocation activities. The brief market report provides standard periodic investor disclosure without substantive strategic or operational context regarding the parent company or its subsidiaries. Here are my two sentences: Schouw & Co. executed a share buy-back programme during week 18 of 2026. The announcement is routine weekly disclosure of shareholder capital management activities from the Danish industrial conglomerate. Here are my two sentences (final version): Schouw & Co. executed a share buy-back programme during week 18 of 2026. The article represents routine periodic disclosure of the company's capital allocation activity from MarketScreener's financial data service. Schouw & Co. executed its weekly share buy-back programme during week 18 of 2026. This announcement is a routine disclosure of capital allocation activity for the Aarhus-based industrial conglomerate. Two neutral sentences: Schouw & Co. carried out a share repurchase programme during week 18 of 2026. The announcement is standard periodic disclosure of the company's capital allocation strategy through its investor relations reporting. Let me finalize: Schouw & Co. executed a share buy-back programme in week 18 of 2026. The article provides routine periodic disclosure of the Danish conglomerate's shareholder capital returns without additional strategic or operational context. Schouw & Co. announced the execution of its share buy-back programme for week 18 of 2026. This represents routine corporate reporting of the industrial conglomerate's capital allocation activities through standard market disclosure channels. Schouw & Co. executed a weekly share repurchase programme during week 18 of 2026. The announcement reflects the company's regular capital management activity disclosed through MarketScreener's financial news service., "
+    },
+    {
+      "id": 71700,
+      "story_id": 1415,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdWFsVy1ZaUZ5VjZnNUc3d1NIZFlxS1ZIbEI4UFNfZmVtZDViZm0yeDNVZWE1c1ZCSlNaNjg3d2E5YmhVR2dLTDU5MTBHUng0ZDFMOWxoZDlfaXRlNl9kaF9wTWZJdVNWb3d3dEsxSV9UWE5OVWZoRUFvMVNDb0hfZQ?oc=5",
+      "title": "41’ - Gult kort til Ingeborg Skretting - TV2.no",
+      "source_name": "TV2.no",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdWFsVy1ZaUZ5VjZnNUc3d1NIZFlxS1ZIbEI4UFNfZmVtZDViZm0yeDNVZWE1c1ZCSlNaNjg3d2E5YmhVR2dLTDU5MTBHUng0ZDFMOWxoZDlfaXRlNl9kaF9wTWZJdVNWb3d3dEsxSV9UWE5OVWZoRUFvMVNDb0hfZQ?oc=5\" target=\"_blank\">41’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
+    },
+    {
+      "id": 71769,
+      "story_id": 1417,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXhPV1hvS2xzM3Z3SWUyb3lOSWNja3cwWjFXempKa203NG1rTkFQbGdKNnpFcGU4Q0tQZlVSQjJqNHVjdkplRDc1WGtqa3duQy13aGhDbnIySmFRN1l6UWJEaXJQNXZoRXZjcXByOFBJeWpvMVJQTXFDMGVrU1V4b1FJUVhRVkdlWU9haHJveEg3ZlhENXgtcG4xUjNfZ1Z2anZicQ?oc=5",
+      "title": "SSB: Norge kunne hatt lavere rente om kronen var som den svenske - E24",
+      "source_name": "E24",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-06-17T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXhPV1hvS2xzM3Z3SWUyb3lOSWNja3cwWjFXempKa203NG1rTkFQbGdKNnpFcGU4Q0tQZlVSQjJqNHVjdkplRDc1WGtqa3duQy13aGhDbnIySmFRN1l6UWJEaXJQNXZoRXZjcXByOFBJeWpvMVJQTXFDMGVrU1V4b1FJUVhRVkdlWU9haHJveEg3ZlhENXgtcG4xUjNfZ1Z2anZicQ?oc=5\" target=\"_blank\">SSB: Norge kunne hatt lavere rente om kronen var som den svenske</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E24</font>"
+    },
+    {
+      "id": 71785,
+      "story_id": 1418,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43TnB6UERFdDY0NFdnOG5iQjg4Uks2Tk5yNGZBVWxMaHRqeEFFd0hBY2U0cE92Rk81X25HMXg3SUUzaWtOYUg0SHk0M2dkQWtpeVJNa0lZVXlqNHMwQ3pvbE9ybXk1LTZEanJ5NlBidWM2YkxpNVpZ?oc=5",
+      "title": "Gullkonfirmantar i Varhaug kyrkje - Jærbladet",
+      "source_name": "Jærbladet",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2025-07-02T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE43TnB6UERFdDY0NFdnOG5iQjg4Uks2Tk5yNGZBVWxMaHRqeEFFd0hBY2U0cE92Rk81X25HMXg3SUUzaWtOYUg0SHk0M2dkQWtpeVJNa0lZVXlqNHMwQ3pvbE9ybXk1LTZEanJ5NlBidWM2YkxpNVpZ?oc=5\" target=\"_blank\">Gullkonfirmantar i Varhaug kyrkje</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>"
     }
   ],
   "share_of_voice": {
@@ -57125,6 +57344,14 @@
         "Skretting": 0
       },
       {
+        "week": "2018-W18",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2018-W20",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -57255,7 +57482,7 @@
       {
         "week": "2019-W02",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 0
@@ -59298,7 +59525,7 @@
         "BioMar": 4,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2025-W26",
@@ -59314,7 +59541,7 @@
         "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2025-W28",
@@ -59599,7 +59826,7 @@
       {
         "week": "2026-W11",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -59663,7 +59890,7 @@
       {
         "week": "2026-W19",
         "Aller Aqua": 0,
-        "BioMar": 20,
+        "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 14
@@ -59674,7 +59901,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       }
     ],
     "totals": [
@@ -59684,7 +59911,7 @@
       },
       {
         "company": "BioMar",
-        "count": 638
+        "count": 642
       },
       {
         "company": "Cargill",
@@ -59696,7 +59923,7 @@
       },
       {
         "company": "Skretting",
-        "count": 539
+        "count": 542
       }
     ]
   }
