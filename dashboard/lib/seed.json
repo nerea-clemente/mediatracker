@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-17T22:49:33+00:00",
+  "generated_at": "2026-05-18T08:56:50+00:00",
   "stats": {
-    "mention_count": 1586,
-    "story_count": 1413,
-    "analyzed_count": 643,
+    "mention_count": 1587,
+    "story_count": 1414,
+    "analyzed_count": 644,
     "off_topic_mentions": 49,
     "off_topic_stories": 33
   },
@@ -15031,6 +15031,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1436,
+      "headline": "BioMar adquiere mayoría del negocio de alimento para camarón de empresa líder de Vietnam - Diario Acuícola",
+      "story_summary": "BioMar has acquired a majority stake in a shrimp feed operation owned by a leading Vietnamese aquaculture company. The acquisition expands BioMar's presence in the Asian shrimp farming market.",
+      "first_seen": "2021-03-04T08:00:00+00:00",
+      "last_seen": "2021-03-04T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 490,
@@ -57058,6 +57072,31 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVIMU5mdElRbzNGTXBEZHNjS3pYcnJVcmVYZXRGQzVxdUVBcTRRZVV2RXVSSGZYWXUwTXRnaDVoWHNHMjY2SThXSzVkVkZVWlFBWmM5UXo5aVd3aWpCS2lFSnJDdTk2MDdDT2tIa2VmRW9VekFZVGR0S21JaWlmODFKUnFvXzFoZFNkRGZVeXA4OXhlMTlr?oc=5\" target=\"_blank\">Skretting stenger ned fôrproduksjonen i Storbritannia: For tøff konkurranse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 75667,
+      "story_id": 1436,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVjZweGFCSVZiS1h5aXFtbGdoc1B6c2F1LVdoV2RZY2pRZm9CbVpXNmEwNXZEUE5JZ0pNdmRVM0dhTHRSNzJ3M2pNSUREaUR3azhJa01ucjF1OWVDakN0UnVCQXNjVlJJTzIxUTV3bGRQLTNSWlpkWlRCcVJERmh2MXVtXzVuWE5peVZmY1hOVmo5eWNIV0dXNHVOMHBnVWZOaEtDOTBmQXpSMkEydjNMLV9qM21BRUw1bjZKTGx2R0lld1RlNERabGZKS1daZ3NmMnI0OTBjNjFmT0hRcmc?oc=5",
+      "title": "BioMar adquiere mayoría del negocio de alimento para camarón de empresa líder de Vietnam - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2021-03-04T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar acquires majority stake in Vietnamese shrimp feed business",
+      "key_claims": [
+        "BioMar acquired a majority stake in a shrimp feed business from a leading Vietnamese company"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has acquired a majority stake in a shrimp feed operation owned by a leading Vietnamese aquaculture company. The acquisition expands BioMar's presence in the Asian shrimp farming market."
     }
   ],
   "share_of_voice": {
@@ -58744,7 +58783,7 @@
       {
         "week": "2021-W09",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -60661,7 +60700,7 @@
       },
       {
         "company": "BioMar",
-        "count": 643
+        "count": 644
       },
       {
         "company": "Cargill",
