@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-18T18:02:15+00:00",
+  "generated_at": "2026-05-18T22:57:04+00:00",
   "stats": {
-    "mention_count": 1595,
-    "story_count": 1421,
-    "analyzed_count": 646,
-    "off_topic_mentions": 49,
+    "mention_count": 1597,
+    "story_count": 1422,
+    "analyzed_count": 647,
+    "off_topic_mentions": 50,
     "off_topic_stories": 33
   },
   "outlets": [
@@ -4435,7 +4435,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 11,
+      "pickup_count": 12,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -13583,6 +13583,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTkVWT0ZJZkF3OVlJemYxMXMtY0tZN0pVbm5QYTB3dnlJQWJhR3JCRHp5LVg1WnRmMkdLOWp5YU9qUXVCT082ZXhPNWR5c2dETHpLU0MxaWxSWnF2cmJ1V1JGRHJ5ZGdQSi1ZemhVMzNsN1BDRGEyelYtZWFZZjVKei1zVWx4U2JLOHluSm83UTlYaGZudHU0VTZ2M3pzQkZDdWo4MjhiM2dfOXFKczJQV043aDNTUy1BZVBFLTcxczVVdzFSemluYVdwNC1XdTJFM1JubQ?oc=5\" target=\"_blank\">‘We have done well, but not well enough’: Skretting's growth weighs on its sustainability ambitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
       "first_seen": "2022-09-01T07:00:00+00:00",
       "last_seen": "2022-09-01T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1444,
+      "headline": "Skretting Australia partners with India’s StringBio in feed trials - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmdPR1NMMFNXMWJ4a2xUb1ZNUE1mTHEtZVE0ek4zVmY1UUVCYTFRc2ZmY1JjbUV1eV8wTlRCYjl5ZmlXYzdOLTJEekw0dDQ4Z0xYNGR3VkRnNjhkR3dXTWVKTjltbThuTW9adlhBVndiLUZaTjNGSjhRMFpINW1UOUg2cWduc0hETVBuaEtKOC10NkdFRVY4UkxtY0ZFZDg?oc=5\" target=\"_blank\">Skretting Australia partners with India’s StringBio in feed trials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2022-08-30T07:00:00+00:00",
+      "last_seen": "2022-08-30T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -57380,6 +57394,52 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY01XVTJiRXBSM2pSdXYzZjlfRVl3ZmY0TS14RGJ1STN3OWR5a3lOV3NGZjhGTVdqLThzWXlCRWZWQWVONlp1RUlMZC0xRVUwWmYtNGFEazQ3Y0lTd1hCUmhNMjBEUkhsTWlFSXNPT1hqa3FhUnYzaDBnMDBlMWdUcjcyU3BTM2hXQ0h1dDNmMG1vZHZQRUFFTXZiTlptbnUxU0tBVkhxSWJUVlk?oc=5\" target=\"_blank\">Kva gjer me når korta ikkje verkar og minibanken er tom?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 78763,
+      "story_id": 262,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORzJKYkt4dEVTZXhyNFJHQkpldnpETjFWLWFCOGNDLWpJUjBUamlPalBINmtxeTJpeVlCb0lYaDhNcXBwbUpYUkg5OVJqSFhkb2pwVEwwaHYxamhtTkw0NERxalV0QjZHUXJUSjBQNDBHZVRHMVhKZEltRjZKUkMtUU9NWkxHdG9QY0lPZEU0TTQtTGhOSVdJRlh6M1BkX2prMEtQekNCaTZabUh1Q2lzVEZmUlhtcVN4Nk5rR3VwVUE0Z3RCWTZXalZKYnBrTFgwYmZVd3RB?oc=5",
+      "title": "Varios detenidos tras un registro en Biomar Oil por un presunto fraude de hidrocarburos de 280 millones - El Periódico de la Energía",
+      "source_name": "El Periódico de la Energía",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Arrests and raid at Spanish hydrocarbon trading company Biomar Oil",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Spanish authorities arrested several individuals and conducted a raid at Biomar Oil, a hydrocarbon trading company, investigating an alleged €280 million fraud. This is a separate entity from BioMar Group, the aquaculture feed producer headquartered in Aarhus, Denmark, and is unrelated to the target brand's operations or executives."
+    },
+    {
+      "id": 79041,
+      "story_id": 1444,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmdPR1NMMFNXMWJ4a2xUb1ZNUE1mTHEtZVE0ek4zVmY1UUVCYTFRc2ZmY1JjbUV1eV8wTlRCYjl5ZmlXYzdOLTJEekw0dDQ4Z0xYNGR3VkRnNjhkR3dXTWVKTjltbThuTW9adlhBVndiLUZaTjNGSjhRMFpINW1UOUg2cWduc0hETVBuaEtKOC10NkdFRVY4UkxtY0ZFZDg?oc=5",
+      "title": "Skretting Australia partners with India’s StringBio in feed trials - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "published_at": "2022-08-30T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmdPR1NMMFNXMWJ4a2xUb1ZNUE1mTHEtZVE0ek4zVmY1UUVCYTFRc2ZmY1JjbUV1eV8wTlRCYjl5ZmlXYzdOLTJEekw0dDQ4Z0xYNGR3VkRnNjhkR3dXTWVKTjltbThuTW9adlhBVndiLUZaTjNGSjhRMFpINW1UOUg2cWduc0hETVBuaEtKOC10NkdFRVY4UkxtY0ZFZDg?oc=5\" target=\"_blank\">Skretting Australia partners with India’s StringBio in feed trials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
     }
   ],
   "share_of_voice": {
@@ -59581,7 +59641,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2022-W38",
@@ -60786,7 +60846,7 @@
       {
         "week": "2025-W49",
         "Aller Aqua": 0,
-        "BioMar": 30,
+        "BioMar": 31,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -60991,7 +61051,7 @@
       },
       {
         "company": "BioMar",
-        "count": 646
+        "count": 647
       },
       {
         "company": "Cargill",
@@ -61003,7 +61063,7 @@
       },
       {
         "company": "Skretting",
-        "count": 569
+        "count": 570
       }
     ]
   }
