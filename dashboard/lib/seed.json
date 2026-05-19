@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T12:24:15+00:00",
+  "generated_at": "2026-05-19T18:08:54+00:00",
   "stats": {
-    "mention_count": 1614,
-    "story_count": 1439,
-    "analyzed_count": 660,
-    "off_topic_mentions": 50,
-    "off_topic_stories": 33
+    "mention_count": 1621,
+    "story_count": 1444,
+    "analyzed_count": 665,
+    "off_topic_mentions": 51,
+    "off_topic_stories": 34
   },
   "outlets": [
     "20Minutos",
@@ -148,6 +148,7 @@
     "Mundo Marítimo",
     "Mundoacuicola",
     "Mynewsdesk",
+    "Málaga Hoy",
     "NRK",
     "NTB Kommunikasjon",
     "Nationen",
@@ -262,6 +263,34 @@
   ],
   "stories": [
     {
+      "id": 1466,
+      "headline": "BioMar details terms for Nasdaq Copenhagen IPO - Aquafeed.com",
+      "story_summary": "BioMar has disclosed the terms for its planned initial public offering on Nasdaq Copenhagen. The announcement outlines details of the company's entry to the public markets as a standalone entity or as part of its parent company structure.",
+      "first_seen": "2026-05-19T13:21:51+00:00",
+      "last_seen": "2026-05-19T13:21:51+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1465,
+      "headline": "Fiskefôrgigant mot børsnotering - Intrafish",
+      "story_summary": "BioMar, a major aquaculture feed producer, is moving toward a stock market listing. The article signals the company's expansion into public capital markets.",
+      "first_seen": "2026-05-19T12:27:22+00:00",
+      "last_seen": "2026-05-19T12:27:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1461,
       "headline": "Davis Polk Helps BioMar Shoot For $1.6B Copenhagen IPO - Law360",
       "story_summary": "BioMar is pursuing an initial public offering in Copenhagen with a valuation target of $1.6 billion, with law firm Davis Polk providing legal advisory services. The aquaculture feed producer is preparing to go public through this transaction in Denmark's capital market.",
@@ -271,7 +300,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -4324,6 +4353,20 @@
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
+      "id": 1464,
+      "headline": "Vídeo | La Policía localiza un taller ilegal de armas al investigar a Biomar por fraude en el IVA - Málaga Hoy",
+      "story_summary": "Spanish police discovered an illegal weapons manufacturing facility during an investigation into Biomar for alleged VAT fraud. The article indicates a criminal investigation into the company for tax evasion.",
+      "first_seen": "2025-12-18T08:00:00+00:00",
+      "last_seen": "2025-12-18T08:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "legal"
       ],
       "pickup_count": 1,
       "is_about_target_brand": false,
@@ -11484,12 +11527,12 @@
       "headline": "Skretting Chile se convierte en la primera planta de alimento para salmones en el mundo en obtener certificación ASC Feed - Mundoacuicola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZUwwZEtVTzZhME1DYmp3Y0xyZUxHaHd4cTdiZERZWmtxczRqeHVGci1vQjRybnl6bU5XSE43aXBHRTBaWnRqWm5SQ2tEYXZjUUJySDdzSlM5ckFrYW93NnRvbmplRm9yYUlrM0FjaERXUDZGMldmYWhuZ3JHUVB4T2tMem1uQ1pOU0JwOGJEOE1rYVI3dEpkLU9sQUhBaVZYY0paOTFpcXVheFY0N2RfeXpEdksxX3BPb2dkTEFYSkJIRGt3cnROZ1dOZFNZLUFFRzkzLWlJOXBZTzZLUTZ6Z1EyNnRuMFZhN2FR?oc=5\" target=\"_blank\">Skretting Chile se convierte en la primera planta de alimento para salmones en el mundo en obtener certificación ASC Feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
       "first_seen": "2024-02-05T08:00:00+00:00",
-      "last_seen": "2024-02-05T08:00:00+00:00",
+      "last_seen": "2024-02-06T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -11737,6 +11780,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DQXlHZEpWRmZMSENfREVCSXAwbTY5Vng0NXdrT0UwOTNrTnlvZGNFeVVET1daTThzUjNIMGVWQ3ZoVWhHdG9PMkZCVFZDbno3bGtqN2RlN24?oc=5\" target=\"_blank\">Obituary for Janet Lyn Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Christensen Salmon Generations Funeral Home</font>",
       "first_seen": "2023-12-30T08:00:00+00:00",
       "last_seen": "2023-12-30T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1463,
+      "headline": "Skretting Chile lleva la alegría de navidad a niños y jóvenes de la provincia de Llanquihue - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG5UUTdDRFdIclcyaVIzNnNBTVlSV0hxRTZ2Q3lWLVo2MXhpNXlRY2lsbTJqSnhWbkhYQUlybU1wTG41QzBBMy1aSE13RWUwMExueGVXeUR2VzVCZk5OLTFFaTBXR1RvV1NVOGthVkNNQ3NVYmlVOGZXWGk0dl9yZ19lWmFIbVV2dlIwVEd3blJ1RkU0TEhLRmh0em4zU3A2ajFJc3I5X3lmWU1Eek1CUS13?oc=5\" target=\"_blank\">Skretting Chile lleva la alegría de navidad a niños y jóvenes de la provincia de Llanquihue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2023-12-29T08:00:00+00:00",
+      "last_seen": "2023-12-29T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -17502,6 +17559,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1462,
+      "headline": "BioMar bygger ny 110.000 tonns fôrfabrikk - iLaks",
+      "story_summary": "BioMar is constructing a new feed factory with a capacity of 110,000 tonnes annually. The expansion represents a significant capital investment in production infrastructure for the aquaculture feed producer.",
+      "first_seen": "2018-08-15T07:00:00+00:00",
+      "last_seen": "2018-08-15T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 449,
@@ -58081,6 +58152,172 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUzhtZ1RKOU4xUHE3LTBSeHNTa01CTS1tVkd4RTlkQVZfNnZKR0YwMDRla3JGWmZJREc4SzNITVRhTk9PZFpDbnMyS01DX05KdFhyVFFKTDNZU1djRWR4a0RmWEIyWTI5eXRlX1dHSmlYazNLMk1kRHIyR0U2dEhfbExGenNwR0dxanFPVFdCZ00yNnZxSEhBVnNxYmhjOGllQjNxbnRTa2lDSkxtR0VEQV8tV1k?oc=5\" target=\"_blank\">Finaliza productiva temporada de Nutrainings 2021</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 81552,
+      "story_id": 1461,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PdFlJRy15R2R4clgyUlhuZnpZV3h4WDI1MElkdGRoc2JkcHBEUlFUYzExSTd1bzZvNmZnTHBnWmtycFVmd2oxaXhnNzZDaXVhbjlkLS130gFWQVVfeXFMT090WUlHLXlHZHhyWDJSWG5mellXeHhYMjUwSWR0ZGhzYmRwcERSUVRjMTFJN3VvNm82ZmdMcGdaa3JwVWZ3ajFpeGc3NkNpdWFuOWQtLXc?oc=5",
+      "title": "Davis Polk Helps BioMar Shoot For $1.6B Copenhagen IPO - Law360",
+      "source_name": "Law360",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-19T11:30:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar pursues $1.6B Copenhagen IPO with Davis Polk legal support",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar, an aquaculture feed producer, is preparing for an initial public offering on the Copenhagen stock exchange with a target valuation of $1.6 billion, with Davis Polk serving as legal counsel for the transaction. The IPO represents a significant capital-raising effort for the Aarhus-based company and its parent Schouw & Co division."
+    },
+    {
+      "id": 81553,
+      "story_id": 1466,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVVsVGJzV1RWNzNucDZfUmJoa0t4blRxajJKeEpVTnEtVnpjZE93RUpxbFAwWGNZWk5HbjZSd2FtbTBvS3BFNDRaMVJiSUZwbjhNTTF1UEZCR0FDNnFJV2lONUplaVFiWW5tVW03ZmVlYVNoWUdjWlRmZkYyWmVPb2R4MTNkY0VJVUNnSEdXRQ?oc=5",
+      "title": "BioMar details terms for Nasdaq Copenhagen IPO - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-19T13:21:51+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar announces IPO terms for Nasdaq Copenhagen listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has disclosed the terms for its planned initial public offering on Nasdaq Copenhagen. The announcement outlines details of the company's entry to the public markets as a standalone entity or as part of its parent company structure."
+    },
+    {
+      "id": 81651,
+      "story_id": 1465,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRGx0WlJ6R29vdUFTTDVLRW0xd3Q1cVcydE9nV1l2d1g3VUJGSXBhRFk3WjlycW1DbkQ2RTRqQkQyZ2hWRktITU1KQURDQXh1djNKNERBb2l5Y096WkN0ZTFmZjFEcy1SOFYybVpDRzVVOGJSaFFQRWtDM3EteXA1M2ln?oc=5",
+      "title": "Fiskefôrgigant mot børsnotering - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2026-05-19T12:27:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Aquaculture feed giant moves toward stock market listing",
+      "key_claims": [
+        "BioMar is considering a stock exchange listing",
+        "The company is positioning itself for public markets"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar, a major aquaculture feed producer, is moving toward a stock market listing. The article signals the company's expansion into public capital markets."
+    },
+    {
+      "id": 81717,
+      "story_id": 1462,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEdVlhZlZwMXRCZTIwSi1wTmFVUFV5SXVoQzNVTG1rMlVxSEY3cnRTX2k0czd6T3B5c1VrWVZURzVqb2NQVkxyd3hsUE9MazRKUC1QWFVpSzQ2amVWSjFVMXNaZ0h5ZWZ2QXpB?oc=5",
+      "title": "BioMar bygger ny 110.000 tonns fôrfabrikk - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "published_at": "2018-08-15T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar invests in major new feed production facility expansion",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is constructing a new feed factory with a capacity of 110,000 tonnes annually. The expansion represents a significant capital investment in production infrastructure for the aquaculture feed producer."
+    },
+    {
+      "id": 81941,
+      "story_id": 1464,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdEZmVndxelZiOHFfa0tQbFNPTlFpdTJpTDJ0NjRMVTZzVzNKVmh6RTRCNE81Vl9OZFg3OGRnRUpSTl81aG9IdS1YekFjUmlMYi1nbVE3Rzl5RVQtOG0yckVDeU1yRU5GRi1Pc01aZjNTVkFPVXY1dmVBS0R5eWo5d3ZIRFR4RTh0MjFETmVtUkd0QkhpWlFv0gGcAUFVX3lxTE1jWDA3M3VKV3Jjb3dpcFh1SDAyRE1QNTR3WmdLSGZ5eVRQSzhFTXlETWdBeUFGdE9PaC1kTVpNTDBseGZzY3JPRVhjZGFxZS1xSy1ZTDRFd0REX1JYaGdMX3ZEOEx0UkczaE1IUmN5NzZfbGVMV0RyZDVFdFZPZ0tHRDJ2NURuVUdON2R6N2U5SHFHYW5MLVExQ2ZOZg?oc=5",
+      "title": "Vídeo | La Policía localiza un taller ilegal de armas al investigar a Biomar por fraude en el IVA - Málaga Hoy",
+      "source_name": "Málaga Hoy",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-12-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Police uncover illegal weapons workshop during VAT fraud investigation into Biomar",
+      "key_claims": [
+        "Police located an illegal weapons workshop while investigating Biomar for VAT fraud"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal"
+      ],
+      "summary": "Spanish police discovered an illegal weapons manufacturing facility during an investigation into Biomar for alleged VAT fraud. The article indicates a criminal investigation into the company for tax evasion."
+    },
+    {
+      "id": 82421,
+      "story_id": 867,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajFoTWFTdEJNY04wZGlzbF9fdWM5eXRKXzZVbVF6TmdpeUdTZzJtT0t1a3pDV0J0QTdYdVRLazBMa0lUQjI0TnZhWXltZS13OTJVWHFRcmROR25jM2ZKRE1QbFlVUkVEZFlOSjJkZ1R3U0pnYTkxLVRNcVRrMWd2ZFpoVHhoUWktUzNqalA2NzZhRW1RNmRpQWxJZ3FZc2hRdTVaZVgzeGw0OXZt?oc=5",
+      "title": "Skretting Chile es la primera en el mundo en lograr certificación ASC Feed en su planta - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2024-02-06T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQajFoTWFTdEJNY04wZGlzbF9fdWM5eXRKXzZVbVF6TmdpeUdTZzJtT0t1a3pDV0J0QTdYdVRLazBMa0lUQjI0TnZhWXltZS13OTJVWHFRcmROR25jM2ZKRE1QbFlVUkVEZFlOSjJkZ1R3U0pnYTkxLVRNcVRrMWd2ZFpoVHhoUWktUzNqalA2NzZhRW1RNmRpQWxJZ3FZc2hRdTVaZVgzeGw0OXZt?oc=5\" target=\"_blank\">Skretting Chile es la primera en el mundo en lograr certificación ASC Feed en su planta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 82424,
+      "story_id": 1463,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG5UUTdDRFdIclcyaVIzNnNBTVlSV0hxRTZ2Q3lWLVo2MXhpNXlRY2lsbTJqSnhWbkhYQUlybU1wTG41QzBBMy1aSE13RWUwMExueGVXeUR2VzVCZk5OLTFFaTBXR1RvV1NVOGthVkNNQ3NVYmlVOGZXWGk0dl9yZ19lWmFIbVV2dlIwVEd3blJ1RkU0TEhLRmh0em4zU3A2ajFJc3I5X3lmWU1Eek1CUS13?oc=5",
+      "title": "Skretting Chile lleva la alegría de navidad a niños y jóvenes de la provincia de Llanquihue - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "published_at": "2023-12-29T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG5UUTdDRFdIclcyaVIzNnNBTVlSV0hxRTZ2Q3lWLVo2MXhpNXlRY2lsbTJqSnhWbkhYQUlybU1wTG41QzBBMy1aSE13RWUwMExueGVXeUR2VzVCZk5OLTFFaTBXR1RvV1NVOGthVkNNQ3NVYmlVOGZXWGk0dl9yZ19lWmFIbVV2dlIwVEd3blJ1RkU0TEhLRmh0em4zU3A2ajFJc3I5X3lmWU1Eek1CUS13?oc=5\" target=\"_blank\">Skretting Chile lleva la alegría de navidad a niños y jóvenes de la provincia de Llanquihue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -59161,6 +59398,14 @@
         "Aller Aqua": 0,
         "BioMar": 1,
         "Cargill": 3,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2018-W33",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -60722,7 +60967,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2024-W01",
@@ -60762,7 +61007,7 @@
         "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2024-W08",
@@ -61503,7 +61748,7 @@
       {
         "week": "2025-W51",
         "Aller Aqua": 0,
-        "BioMar": 17,
+        "BioMar": 18,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -61679,7 +61924,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 14,
+        "BioMar": 17,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -61692,7 +61937,7 @@
       },
       {
         "company": "BioMar",
-        "count": 660
+        "count": 665
       },
       {
         "company": "Cargill",
@@ -61704,7 +61949,7 @@
       },
       {
         "company": "Skretting",
-        "count": 573
+        "count": 575
       }
     ]
   }
