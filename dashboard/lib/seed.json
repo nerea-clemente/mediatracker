@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-19T23:00:16+00:00",
+  "generated_at": "2026-05-20T08:40:44+00:00",
   "stats": {
-    "mention_count": 1621,
-    "story_count": 1444,
-    "analyzed_count": 665,
-    "off_topic_mentions": 51,
+    "mention_count": 1628,
+    "story_count": 1448,
+    "analyzed_count": 672,
+    "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
   "outlets": [
@@ -62,6 +62,7 @@
     "Diario de León",
     "Diario de Noticias de Álava",
     "Diario de Osorno",
+    "Diario de Sevilla",
     "Diario de Valdivia",
     "Domain",
     "E24",
@@ -263,6 +264,34 @@
   ],
   "stories": [
     {
+      "id": 1470,
+      "headline": "BioMar IPO Books Are Covered On Full Deal Size Throughout Price, Says Bookrunner - TradingView",
+      "story_summary": "BioMar's initial public offering has received sufficient demand to cover the full deal size at all price points in the range, according to the IPO bookrunner. The article reports technical success of the IPO process without commentary on valuation or strategic rationale beyond market reception.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.",
+      "first_seen": "2026-05-20T07:21:47+00:00",
+      "last_seen": "2026-05-20T07:21:47+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1469,
+      "headline": "Daily recap: Cooke to close Avramar deal in 2 weeks; BioMar targest $1.6bn valuation - Undercurrent News",
+      "story_summary": "BioMar is targeting a $1.6 billion valuation in a reported transaction. The brief mention appears alongside news of Cooke's planned closure of an Avramar acquisition within two weeks.",
+      "first_seen": "2026-05-20T07:18:00+00:00",
+      "last_seen": "2026-05-20T07:18:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1466,
       "headline": "BioMar details terms for Nasdaq Copenhagen IPO - Aquafeed.com",
       "story_summary": "BioMar has disclosed the terms for its planned initial public offering on Nasdaq Copenhagen. The announcement outlines details of the company's entry to the public markets as a standalone entity or as part of its parent company structure.",
@@ -431,16 +460,30 @@
       "company": "BioMar"
     },
     {
-      "id": 1449,
-      "headline": "Schouw & Co Announces Indicative Price Range For Biomar IPO - TradingView",
-      "story_summary": "Schouw & Co has announced an indicative price range for the planned initial public offering of its BioMar subsidiary. The announcement marks a significant step in the parent company's plan to take the aquaculture feed producer public on the stock market.",
-      "first_seen": "2026-05-19T06:07:00+00:00",
-      "last_seen": "2026-05-19T06:07:00+00:00",
+      "id": 1468,
+      "headline": "Schouw & Co announces indicative price range for BioMar IPO - marketscreener.com",
+      "story_summary": "Schouw & Co has announced an indicative price range for the initial public offering of its subsidiary BioMar, signaling progress toward taking the aquaculture feed company public. The announcement provides potential investors with pricing guidance for the planned IPO transaction.",
+      "first_seen": "2026-05-19T06:13:50+00:00",
+      "last_seen": "2026-05-19T06:13:50+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
       "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1449,
+      "headline": "Schouw & Co Announces Indicative Price Range For Biomar IPO - TradingView",
+      "story_summary": "Schouw & Co has announced an indicative price range for the planned initial public offering of its BioMar subsidiary. The announcement marks a significant step in the parent company's plan to take the aquaculture feed producer public on the stock market.",
+      "first_seen": "2026-05-19T06:07:00+00:00",
+      "last_seen": "2026-05-19T06:07:33+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -454,7 +497,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -4368,7 +4411,7 @@
       "risk_flags": [
         "legal"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -14377,6 +14420,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1467,
+      "headline": "BioMar Group adquiere AQ1 System, el líder en tecnología acústica de alimentación de langostinos - misPeces",
+      "story_summary": "BioMar Group announced the acquisition of AQ1 System, a company specializing in acoustic feeding technology for shrimp production. The deal represents an expansion of BioMar's technological capabilities in aquaculture feeding solutions.",
+      "first_seen": "2022-04-12T13:34:22+00:00",
+      "last_seen": "2022-04-12T13:34:22+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 66,
@@ -58318,6 +58375,175 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG5UUTdDRFdIclcyaVIzNnNBTVlSV0hxRTZ2Q3lWLVo2MXhpNXlRY2lsbTJqSnhWbkhYQUlybU1wTG41QzBBMy1aSE13RWUwMExueGVXeUR2VzVCZk5OLTFFaTBXR1RvV1NVOGthVkNNQ3NVYmlVOGZXWGk0dl9yZ19lWmFIbVV2dlIwVEd3blJ1RkU0TEhLRmh0em4zU3A2ajFJc3I5X3lmWU1Eek1CUS13?oc=5\" target=\"_blank\">Skretting Chile lleva la alegría de navidad a niños y jóvenes de la provincia de Llanquihue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 83622,
+      "story_id": 1470,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUC11RG9vbVluejVKT1lUWXFDX2dlQlpYVms5RUZ1QVFCRDVzU3NzOUZjS2I3OHp0ZjhqNnpOc0Q4REoya3N5THJGSXMxM2g4Mm5ZNG5iVlhucEJjbkRzTWNLamo2Rk1GZlBIT2hCakZVa3VHSk9ob2NjZE43cC10Tm03M2FlTC1XN1Axc0t4ZEN3MmozaTdTMEVHOWU2OXdzZjhHZ0RGdHZGYzlOQU9rQXdJNktmd2N5enBUSnN0T1RsMXVvV29sdWh1X3k3M0luNE1abnE5QkJiWVpxTWJUbmpiUQ?oc=5",
+      "title": "BioMar IPO Books Are Covered On Full Deal Size Throughout Price, Says Bookrunner - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "published_at": "2026-05-20T07:21:47+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar IPO oversubscribed across full price range",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar's initial public offering has received sufficient demand to cover the full deal size at all price points in the range, according to the IPO bookrunner. The article reports technical success of the IPO process without commentary on valuation or strategic rationale beyond market reception.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors.\n\nNote: The provided article excerpt is minimal (title and lede only); full sentiment and key_claims analysis would benefit from complete article text, but based on available information the IPO is presented as successfully received by investors."
+    },
+    {
+      "id": 83623,
+      "story_id": 1469,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSk9KaDZYNlpudHNoMjVrMm9RMXhjc2xWZXM1UVFweFBOT1haTjRKY2l5RUd5M2lQVEJUTWxsT2E2RTZlSzlSSHpnR1FYNG9xc1hIYk0yVXV4NERfUkM0ai1sOHpDS3B6ZDFEMndObGpqa1VuckdMeElmMUUtaDluMk9uSTBVT0dCVDBzNFY1bG9obHlyYnZqdTliZlg5d0lNdnRLQ2FsamdyRjg0RERjRXBOVVU5WExySFpMMTJ5aDFmdXJQ?oc=5",
+      "title": "Daily recap: Cooke to close Avramar deal in 2 weeks; BioMar targest $1.6bn valuation - Undercurrent News",
+      "source_name": "Undercurrent News",
+      "language": "en",
+      "country": "GB",
+      "published_at": "2026-05-20T07:18:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "BioMar seeks $1.6bn valuation; Cooke-Avramar deal closure imminent",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is targeting a $1.6 billion valuation in a reported transaction. The brief mention appears alongside news of Cooke's planned closure of an Avramar acquisition within two weeks."
+    },
+    {
+      "id": 83629,
+      "story_id": 1468,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU1JlNVdmWkp1cDZkamstWm1jdllMVEFSXzdqVElZSHgtUDhyR0xMQjhMT1ItTkxiaV9VS2VXMFhOMzdiNzNSSno2bVRJbHdfdVhEQTRnZFU5RDd6aXJmcG9YY3p3bnc0OWxGYU5lYWxtTWpDOGFVLUJYalhTZ2xTVDRJRVZsblNpTWZuQXZuSUtIWFE1TTNrM18wVmZpNGhzWVdiang1ZnhpeHpHWGQ0?oc=5",
+      "title": "Schouw & Co announces indicative price range for BioMar IPO - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "published_at": "2026-05-19T06:13:50+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Schouw & Co announces indicative price range for BioMar IPO",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co has announced an indicative price range for the initial public offering of its subsidiary BioMar, signaling progress toward taking the aquaculture feed company public. The announcement provides potential investors with pricing guidance for the planned IPO transaction."
+    },
+    {
+      "id": 83640,
+      "story_id": 1448,
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNNjU0aWJwU1lhLTU5di1RUUh1N280cTRzbDNkZVlGQ2x2SlVOdVExRkdBYnEzczhvMWxkcElHTy1acUZHZDZqV1JUQ0I4RTFHcDFKMXJiZTVEbVZISl9jbkdObzVsc2pvLUNaTWtCWUM4QVZ0dGg2RGQtLXhqLVdpaTA5czRYZ0hOSUh3UTQ0bS1NTjRaYW9QeGFLazIyMFdUUHduWnJneXBWWWZldGFBRmp2S3RLUURlYktPQVhsaUZteDA1eEJaOFVNUFV3TUZQa1Zpd3NsR3REb3haTExVa0kyeFNvRmVHdld4clJLTGljRTRoT1RjZUZYWER5X3puOTk1Tk83ZTFGQThmTnNYUHU2LVhjWW1VVWVObERqLWRaQkc0N2tEOUFNYllXTDUyUWhTNEM3LUxvbW9YU3JJNUlVR2NvUdIBxgJBVV95cUxNNjU0aWJwU1lhLTU5di1RUUh1N280cTRzbDNkZVlGQ2x2SlVOdVExRkdBYnEzczhvMWxkcElHTy1acUZHZDZqV1JUQ0I4RTFHcDFKMXJiZTVEbVZISl9jbkdObzVsc2pvLUNaTWtCWUM4QVZ0dGg2RGQtLXhqLVdpaTA5czRYZ0hOSUh3UTQ0bS1NTjRaYW9QeGFLazIyMFdUUHduWnJneXBWWWZldGFBRmp2S3RLUURlYktPQVhsaUZteDA1eEJaOFVNUFV3TUZQa1Zpd3NsR3REb3haTExVa0kyeFNvRmVHdld4clJLTGljRTRoT1RjZUZYWER5X3puOTk1Tk83ZTFGQThmTnNYUHU2LVhjWW1VVWVObERqLWRaQkc0N2tEOUFNYllXTDUyUWhTNEM3LUxvbW9YU3JJNUlVR2NvUQ?oc=5",
+      "title": "Publication of Offering Circular and indicative price range for the Initial Public Offering of the shares of BioMar Group A/S on Nasdaq Copenhagen - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "published_at": "2026-05-19T05:59:50+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Group announces IPO offering circular and indicative price range",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Group A/S has published an offering circular and announced an indicative price range for its initial public offering on Nasdaq Copenhagen. The article covers the formal regulatory disclosure associated with the company's planned listing process."
+    },
+    {
+      "id": 83991,
+      "story_id": 1464,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXJsQ3NSYTZDTkNBRDN5WjZyZFhEdTRCVW13RWRWSURnSFJVRU9aY2QwVnJwdFo5OFBTVWtROXdTcnNnSEdIRl95OXZHR0tYeHRTeWhleHBRUVFrTlhsMno0OE1sM010R0pnejl6ZEpaU2t0SFM2bnVXRjVwbjhJMG5DZ2RqQVU4c0VnNnFRamU1VGEzb29oZ3l6QXo4UWvSAaQBQVVfeXFMTnRWSEQ0RUpzNXQ1bjJQeDY1Sk9mR294bnZodVFCbFZGYlIyeV9DMEJ5SGRJZHZrdTZyV1Z2b2wxODRSLXBFbm52dGVzSGo4SkVNS2Q5eVVjbXNCOGVZNHBZTlZHWHRHdGIwb0ZDRDk2dDB4cHluVEpwYkEyWk5XNW1vRVAzNUdfalVISi1nZ3JtMVhqR250Qko1cHRYNjNNNDJnN0g?oc=5",
+      "title": "Vídeo | La Policía localiza un taller ilegal de armas al investigar a Biomar por fraude en el IVA - Diario de Sevilla",
+      "source_name": "Diario de Sevilla",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2025-12-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Police discover illegal weapons workshop during VAT fraud investigation into Biomar",
+      "key_claims": [
+        "Police are investigating Biomar for VAT fraud",
+        "An illegal weapons workshop was discovered during the investigation"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal"
+      ],
+      "summary": "Spanish police discovered an illegal weapons workshop while investigating a company called Biomar for VAT fraud. The article appears to relate to a Spanish hydrocarbons or commercial entity involved in a fraud case, not the Danish aquaculture feed producer BioMar Group."
+    },
+    {
+      "id": 84064,
+      "story_id": 1449,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzZ3REt2d0QtSDRhdFdlc1RCQl85am9oaEt5UHVRQVlvNnZIc1hvT2RRbE9hcEdqd2tBSUtxU2wwR2ZmbDRiRWtreWdtbU1vaXFUaVNtQktjVHNFQlJBcTZVSTZJWGVpVEJlSU82TlFZT2ZXN3J1bmQ0aFZhWjNTRlhBdy1ydE1lODh5WThWeF80Mm9rR2VnNVdFbmVHTHJZWGUzcXVkWGE1SEtqMUh3Sm9ObDRNbHc1aUp6UXpjZlFaZU9s?oc=5",
+      "title": "Schouw & Co Announces Indicative Price Range For Biomar IPO - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "published_at": "2026-05-19T06:07:33+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co sets price range for BioMar aquaculture feed subsidiary IPO",
+      "key_claims": [
+        "Schouw & Co announced an indicative price range for BioMar's initial public offering"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co has announced an indicative price range for the planned initial public offering of its BioMar aquaculture feed subsidiary. This represents a significant capital market transaction and milestone for the business unit separation from its parent conglomerate."
+    },
+    {
+      "id": 84073,
+      "story_id": 1467,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMEN2X0c0dXFSdHd4Vi1vamlCSGRHcWhsaDB6NThzSVdDaThrcnNwM2dQV2RqQ0NOdWFobHE3cEZLUFRVVGt6Y2JyS1JnTjBsS1l6SzU3UW5Baks0bklJcTZrcE5GUkVaLWxmbGJZaEVYXzVxSkRWcDNpWDJwb1pNUFdheko5dHlMRGw4MGh4aTBsS18tU1AtNUtMLWlXTkRmTWR0cFFDSWQ2T2x2NXJaN0gzSkRYdk5zS2pRNEY0anFlLXBZZmpnbHNR?oc=5",
+      "title": "BioMar Group adquiere AQ1 System, el líder en tecnología acústica de alimentación de langostinos - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "published_at": "2022-04-12T13:34:22+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Group acquires AQ1 System, acoustic shrimp-feeding technology leader",
+      "key_claims": [
+        "BioMar Group acquired AQ1 System",
+        "AQ1 System is a leader in acoustic feeding technology for shrimp"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group announced the acquisition of AQ1 System, a company specializing in acoustic feeding technology for shrimp production. The deal represents an expansion of BioMar's technological capabilities in aquaculture feeding solutions."
     }
   ],
   "share_of_voice": {
@@ -60364,7 +60590,7 @@
       {
         "week": "2022-W15",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -61748,7 +61974,7 @@
       {
         "week": "2025-W51",
         "Aller Aqua": 0,
-        "BioMar": 18,
+        "BioMar": 19,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -61924,7 +62150,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 17,
+        "BioMar": 22,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -61937,7 +62163,7 @@
       },
       {
         "company": "BioMar",
-        "count": 665
+        "count": 672
       },
       {
         "company": "Cargill",
