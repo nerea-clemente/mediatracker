@@ -47,7 +47,7 @@ const RISK_BADGE: Record<RiskFlag, string> = {
   none: "bg-gray-100 text-gray-600 ring-gray-200",
 };
 
-type DateRange = "7d" | "14d" | "30d" | "3m" | "qtd" | "ytd" | "1y" | "all";
+type DateRange = "24h" | "7d" | "14d" | "30d" | "3m" | "qtd" | "ytd" | "1y" | "all";
 type Language = "all" | "en" | "da" | "no" | "es";
 
 const LANGUAGE_LABELS: Record<Exclude<Language, "all">, string> = {
@@ -66,6 +66,9 @@ function rangeCutoff(range: DateRange): Date | null {
   const now = new Date();
   const cutoff = new Date(now);
   switch (range) {
+    case "24h":
+      cutoff.setUTCHours(now.getUTCHours() - 24);
+      break;
     case "7d":
       cutoff.setUTCDate(now.getUTCDate() - 7);
       break;
@@ -406,6 +409,7 @@ export default function Page() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
           <FilterBox label="Date range">
             <select className="filter-select" value={dateRange} onChange={(e) => setDateRange(e.target.value as DateRange)}>
+              <option value="24h">Past 24 hours</option>
               <option value="7d">Last 7 days</option>
               <option value="14d">Last 14 days</option>
               <option value="30d">Last 30 days</option>
