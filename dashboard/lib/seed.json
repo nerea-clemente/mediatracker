@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-20T18:21:18+00:00",
+  "generated_at": "2026-05-20T23:08:44+00:00",
   "stats": {
-    "mention_count": 1638,
-    "story_count": 1455,
-    "analyzed_count": 677,
+    "mention_count": 1642,
+    "story_count": 1456,
+    "analyzed_count": 682,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -269,12 +269,27 @@
       "headline": "Fish feed giant BioMar lays out IPO target - Fish Farmer",
       "story_summary": "BioMar, a major aquaculture feed producer, has announced targets and plans related to a potential initial public offering. The announcement represents a significant strategic development for the company's future capital structure and market positioning.",
       "first_seen": "2026-05-20T10:52:30+00:00",
-      "last_seen": "2026-05-20T10:52:30+00:00",
+      "last_seen": "2026-05-20T23:02:56+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1460,
+      "headline": "Biomar targets $1.6bn valuation in planned May IPO - Undercurrent News",
+      "story_summary": "BioMar is planning an initial public offering in May with a targeted valuation of $1.6 billion. The article reports on the aquaculture feed producer's capital markets plans without editorial commentary on prospects or feasibility.",
+      "first_seen": "2026-05-19T09:41:00+00:00",
+      "last_seen": "2026-05-20T14:31:54+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -359,20 +374,6 @@
         "none"
       ],
       "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1460,
-      "headline": "Biomar targets $1.6bn valuation in planned May IPO - Undercurrent News",
-      "story_summary": "BioMar is planning an initial public offering in May with a targeted valuation of $1.6 billion. The article reports on the aquaculture feed producer's capital markets plans without editorial commentary on prospects or feasibility.",
-      "first_seen": "2026-05-19T09:41:00+00:00",
-      "last_seen": "2026-05-19T09:41:00+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -15181,10 +15182,10 @@
     {
       "id": 1476,
       "headline": "BioMars produksjon av fôr med mikroalger har nådd én million tonn - Kyst.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPbl93ZXhKaDZkQm51NFFiN2xEN0NKd2V2ajNvOFJLZFpQNXlKSWpORG9VcVkyeUJtdkR5WXNFdHRYV1RkRjJLQ0MxVjIwOTNjWjZVeXZWVzR6RmtlQ2hrYzBBd1lta1FxNHZxN05GODBfRUMzYVpTLVlYWG1SWXZiMHFEdThrMi1pVVZESFh4WTUtR05NaDBxOEtXSTg2aVpvcWxYNG5ZUjg0Z3RWRUE?oc=5\" target=\"_blank\">BioMars produksjon av fôr med mikroalger har nådd én million tonn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "story_summary": "BioMar has reached a production milestone of one million tons of feed containing microalgae. The achievement represents a significant volume milestone in the company's microalgae-based aquaculture feed operations.",
       "first_seen": "2021-09-13T07:00:00+00:00",
       "last_seen": "2021-09-13T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -16479,7 +16480,7 @@
         "financial",
         "legal"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -18504,6 +18505,20 @@
       "id": 1393,
       "headline": "Biomar: salmón potencia volúmenes de ventas en 28% - Salmonexpert",
       "story_summary": "BioMar reported a significant 28% increase in sales volumes for its salmon feed products. The growth demonstrates strong market demand for the company's aquaculture nutrition offerings.",
+      "first_seen": "2017-08-21T07:00:00+00:00",
+      "last_seen": "2017-08-21T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1478,
+      "headline": "BioMar med forbedret resultat, forventer å omsette for ti milliarder danske kroner i 2017 - iLaks",
+      "story_summary": "BioMar announced improved financial results and projects revenue of DKK 10 billion for 2017. The article reports on the company's positive performance outlook for the year.",
       "first_seen": "2017-08-21T07:00:00+00:00",
       "last_seen": "2017-08-21T07:00:00+00:00",
       "primary_sentiment": "positive",
@@ -60481,16 +60496,18 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reaches one million ton milestone in microalgae feed production.",
+      "key_claims": [
+        "BioMar has achieved one million tons of microalgae-based feed production"
+      ],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPbl93ZXhKaDZkQm51NFFiN2xEN0NKd2V2ajNvOFJLZFpQNXlKSWpORG9VcVkyeUJtdkR5WXNFdHRYV1RkRjJLQ0MxVjIwOTNjWjZVeXZWVzR6RmtlQ2hrYzBBd1lta1FxNHZxN05GODBfRUMzYVpTLVlYWG1SWXZiMHFEdThrMi1pVVZESFh4WTUtR05NaDBxOEtXSTg2aVpvcWxYNG5ZUjg0Z3RWRUE?oc=5\" target=\"_blank\">BioMars produksjon av fôr med mikroalger har nådd én million tonn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+      "summary": "BioMar has reached a production milestone of one million tons of feed containing microalgae. The achievement represents a significant volume milestone in the company's microalgae-based aquaculture feed operations."
     },
     {
       "id": 86268,
@@ -60515,6 +60532,109 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mYlNxZlNYWnR0ZXR4azFKMzhiSWIwQnBBUHpKS1lkZU5xbWdwc2hfZy12SFcwTFNhVFotODVXa2lKOUE4SXhvbExTdlp4N3NlZS1mZkEyaGxQOUhOazd5OHFzcDl5dGRV?oc=5\" target=\"_blank\">– En utrolig opplevelse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 86680,
+      "story_id": 1475,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1RFSFVUc082NFhtZUJWdmpLbGpGQUdrOU1JOW9yVDhzVmlONVhIcm0xNzIyczFMak9tTzE2eENYSklqaFRYZmdVNjZxeTBWYlpqSzkwZnV5M1FtUHlycGhHYVY2QVNnSzZFOUdDcUNYSGxrLVBJVUpWZXN3RUswYnpCbV9ubWR6ZTU0SDNTejQwaFpwUGNqNDFxYVd0WjZXNTlR?oc=5",
+      "title": "Fish feed giant BioMar lays out IPO target - Fish Farmer",
+      "source_name": "Fish Farmer",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-20T23:02:56+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar announces IPO plans as growth strategy",
+      "key_claims": [
+        "BioMar is pursuing an IPO",
+        "BioMar is described as a fish feed giant"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "BioMar Group has publicly outlined plans for an initial public offering, signaling expansion ambitions for the aquaculture feed producer. The announcement positions the company for potential capital markets entry to fund future growth initiatives."
+    },
+    {
+      "id": 86685,
+      "story_id": 1460,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckJOTGFpRHk3SjV6MVJoSk5WQWIzX0puellWbV9IQ2lfUzdhZ1hpblJUTGw2NTluZ0N5TXo1MWlxNXJqNVMtR2VUOVhZc1lzcHJGSXF2aktOWm9aWUktRWd3WUpuUm5waFFNMG5XZ3J0enc0Z3FtcDRlZkt5cC1CM1ppUFZWcnEyV1VBVFI1NGllTVdhaEhmatIBmAFBVV95cUxNckJOTGFpRHk3SjV6MVJoSk5WQWIzX0puellWbV9IQ2lfUzdhZ1hpblJUTGw2NTluZ0N5TXo1MWlxNXJqNVMtR2VUOVhZc1lzcHJGSXF2aktOWm9aWUktRWd3WUpuUm5waFFNMG5XZ3J0enc0Z3FtcDRlZkt5cC1CM1ppUFZWcnEyV1VBVFI1NGllTVdhaEhmag?oc=5",
+      "title": "BioMar: targets €1.6 billion valuation in Copenhagen IPO - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-20T14:31:54+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar seeks €1.6 billion valuation in Copenhagen IPO launch",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar, the Danish aquaculture feed producer, is targeting a €1.6 billion valuation for its initial public offering on the Copenhagen stock exchange. The IPO represents a significant capital-raising milestone for the Schouw & Co subsidiary as it seeks to expand its market presence in the global aquaculture sector."
+    },
+    {
+      "id": 86826,
+      "story_id": 38,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQzhjUWdwcmRxSW1BTUF2Vi0yUEpZejB4UGFOOGpkelBqUHhoZ3JHWE9KZFp5MVh4cEtDYlU3cWhxRFg2VjJmbkgyQVBtWlc2bHpNcHVhM25UalhaSGtnRkdEVjh1dWNIWFVERUsyeE1kdUJ6VEpROVJUOGdqLVRRVnNPOGh5T0tORFpzNWc1RGNJdV9xZElZ?oc=5",
+      "title": "BioMar må ut med 23 millioner kroner etter at patentkrangel endte i retten - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-02-24T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar ordered to pay 23 million kroner in patent dispute court ruling",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has been ordered by a court to pay 23 million kroner following the resolution of a patent dispute. The case represents a significant financial and legal outcome for the aquaculture feed company."
+    },
+    {
+      "id": 86853,
+      "story_id": 1478,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVRpTkc0MjZTSUxCNmE3d0piZUc5RE9nNkpGcTA2X3N3OHh3VGtrZmtoTDdSM2JNM3locTZJZ2dfNk0zS1had2NUOFE0Y0FZQ2M3bVB3VDBBdV9pZzBIa2h0d3ZVWVU5QjQ2aXlVNUFQUzZpNjIxNDlRWXdTc3RPNDVpdjA5Y0piV3hwSkM0ekt3eDNXZFRxdUxaSTRLdDZxRlZac0tCd1NjUQ?oc=5",
+      "title": "BioMar med forbedret resultat, forventer å omsette for ti milliarder danske kroner i 2017 - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-08-21T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports improved results and projects DKK 10 billion revenue",
+      "key_claims": [
+        "BioMar achieved improved financial results",
+        "BioMar expects to generate DKK 10 billion in revenue during 2017"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar announced improved financial results and projects revenue of DKK 10 billion for 2017. The article reports on the company's positive performance outlook for the year."
     }
   ],
   "share_of_voice": {
@@ -61361,7 +61481,7 @@
       {
         "week": "2017-W34",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -61929,7 +62049,7 @@
       {
         "week": "2020-W09",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -64121,7 +64241,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 27,
+        "BioMar": 29,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -64134,7 +64254,7 @@
       },
       {
         "company": "BioMar",
-        "count": 678
+        "count": 682
       },
       {
         "company": "Cargill",
