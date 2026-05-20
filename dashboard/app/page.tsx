@@ -226,11 +226,19 @@ export default function Page() {
     });
   }, [biomarMentions, dateRange, language, sentiment, risk, showOffTopic]);
 
-  // Share of voice = ALL mentions (BioMar + competitors), bucketed by
-  // company. Filtered only by date range so trends are comparable.
+  // Share of voice = mentions (BioMar + competitors) bucketed by company.
+  // Filtered by date range so trends are comparable, and — like the main
+  // view — off-topic mentions (wrong-company "Biomar" namesakes) are
+  // excluded unless the user opts in, so they don't inflate any company's
+  // share.
   const sovMentions = useMemo(
-    () => MENTIONS.filter((m) => withinRange(m.published_at, dateRange)),
-    [dateRange],
+    () =>
+      MENTIONS.filter(
+        (m) =>
+          withinRange(m.published_at, dateRange) &&
+          (showOffTopic || m.is_about_target_brand !== false),
+      ),
+    [dateRange, showOffTopic],
   );
 
   const sovPeriodTotals = useMemo(() => {
@@ -243,19 +251,33 @@ export default function Page() {
   }, [sovMentions]);
 
   const sovTimeseries = useMemo(() => {
-    // Reuse the pre-bucketed series from the seed, but only keep weeks
-    // within the active date range.
-    const cutoff = rangeCutoff(dateRange);
-    if (!cutoff) return SHARE_OF_VOICE.timeseries;
-    const cutoffWeek = (() => {
-      const y = cutoff.getUTCFullYear();
+    // Compute the per-week, per-company series client-side from the same
+    // filtered mention set the pie uses — so date range and the off-topic
+    // toggle apply consistently to both charts.
+    const weekOf = (iso: string) => {
+      const d = new Date(iso);
+      const y = d.getUTCFullYear();
       const oneJan = new Date(Date.UTC(y, 0, 1));
-      const day = Math.ceil((cutoff.getTime() - oneJan.getTime()) / 86400000);
+      const day = Math.floor((d.getTime() - oneJan.getTime()) / 86400000);
       const week = Math.ceil((day + oneJan.getUTCDay() + 1) / 7);
       return `${y}-W${String(week).padStart(2, "0")}`;
-    })();
-    return SHARE_OF_VOICE.timeseries.filter((row) => row.week >= cutoffWeek);
-  }, [dateRange]);
+    };
+    const byWeek = new Map<string, Record<string, number>>();
+    for (const m of sovMentions) {
+      if (!m.published_at) continue;
+      const wk = weekOf(m.published_at);
+      if (!byWeek.has(wk)) byWeek.set(wk, {});
+      const c = m.company ?? "Other";
+      byWeek.get(wk)![c] = (byWeek.get(wk)![c] ?? 0) + 1;
+    }
+    return Array.from(byWeek.entries())
+      .sort(([a], [b]) => a.localeCompare(b))
+      .map(([week, counts]) => {
+        const row: Record<string, number | string> = { week };
+        for (const c of SHARE_OF_VOICE.companies) row[c] = counts[c] ?? 0;
+        return row as { week: string } & Record<string, number | string>;
+      });
+  }, [sovMentions]);
 
   const filteredStories = useMemo(() => {
     const visibleStoryIds = new Set(filteredMentions.map((m) => m.story_id));
