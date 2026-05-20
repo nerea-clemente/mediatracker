@@ -27,6 +27,7 @@ export type Mention = {
   source_name: string;
   language: string;
   country?: string; // ISO-3166 alpha-2 or 'INT'
+  outlet_kind?: "press" | "release"; // 'release' = PR-wire / aggregator
   published_at: string; // ISO
   matched_keyword?: string;
   company?: string;

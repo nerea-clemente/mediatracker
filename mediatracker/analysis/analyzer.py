@@ -43,12 +43,25 @@ from ..feeds import BIOMAR_KEYWORDS
 # (Skretting, Cargill, …) get counted in share-of-voice but never
 # sent to Claude — keeps Anthropic spend flat as we add competitors.
 _BIOMAR_PLACEHOLDERS = ",".join("?" * len(BIOMAR_KEYWORDS))
+# Prioritise titles that look high-stakes (so a Lerøy mortality or a
+# fraud allegation gets analysed before a routine plant-tour piece when
+# the per-run cap bites), then most-recent first. The LIKE list is
+# lowercased keyword fragments across EN/NO/DA/ES.
+_PRIORITY_TERMS = [
+    "recall", "fraud", "lawsuit", "sue", "court", "investigation",
+    "mortality", "escape", "contaminat", "ban", "fine", "probe",
+    "tilbakekall", "svindel", "søksmål", "konkurs", "gransk",  # no/da
+    "fraude", "demanda", "investigaci", "multa", "retira",      # es
+]
+_PRIORITY_CASE = " OR ".join(["LOWER(title) LIKE ?" for _ in _PRIORITY_TERMS])
 SELECT_UNPROCESSED = f"""
 SELECT id, title, source_name, language, published_at, summary, matched_keyword
 FROM mentions
 WHERE processed = 0
   AND matched_keyword IN ({_BIOMAR_PLACEHOLDERS})
-ORDER BY published_at IS NULL, published_at DESC, id DESC
+ORDER BY
+  (CASE WHEN ({_PRIORITY_CASE}) THEN 0 ELSE 1 END),
+  published_at IS NULL, published_at DESC, id DESC
 LIMIT ?
 """
 
@@ -159,8 +172,10 @@ def main(argv: list[str] | None = None) -> int:
                 tuple(BIOMAR_KEYWORDS),
             ).rowcount
             log.info("--reset: %d BioMar mention(s) flagged for re-analysis", n)
+        priority_patterns = [f"%{t}%" for t in _PRIORITY_TERMS]
         rows = conn.execute(
-            SELECT_UNPROCESSED, (*BIOMAR_KEYWORDS, args.limit)
+            SELECT_UNPROCESSED,
+            (*BIOMAR_KEYWORDS, *priority_patterns, args.limit),
         ).fetchall()
         log.info("analyzing %d unprocessed mention(s)", len(rows))
 

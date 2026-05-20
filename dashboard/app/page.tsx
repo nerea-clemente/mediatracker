@@ -200,6 +200,7 @@ export default function Page() {
   const [dateRange, setDateRange] = useState<DateRange>("30d");
   const [language, setLanguage] = useState<Language>("all");
   const [showOffTopic, setShowOffTopic] = useState(false);
+  const [hideReleases, setHideReleases] = useState(false);
   const [sentiment, setSentiment] = useState<Sentiment | "all">("all");
   const [risk, setRisk] = useState<RiskFlag | "all">("all");
   const [sortKey, setSortKey] = useState<SortKey>("last_seen");
@@ -220,11 +221,12 @@ export default function Page() {
       // Off-topic mentions are hidden unless the user opts in. Default
       // (no analysis yet, or no field) is treated as "on-topic".
       if (!showOffTopic && m.is_about_target_brand === false) return false;
+      if (hideReleases && m.outlet_kind === "release") return false;
       if (sentiment !== "all" && m.sentiment !== sentiment) return false;
       if (risk !== "all" && !m.risk_flags.includes(risk)) return false;
       return true;
     });
-  }, [biomarMentions, dateRange, language, sentiment, risk, showOffTopic]);
+  }, [biomarMentions, dateRange, language, sentiment, risk, showOffTopic, hideReleases]);
 
   // Share of voice = mentions (BioMar + competitors) bucketed by company.
   // Filtered by date range so trends are comparable, and — like the main
@@ -236,9 +238,10 @@ export default function Page() {
       MENTIONS.filter(
         (m) =>
           withinRange(m.published_at, dateRange) &&
-          (showOffTopic || m.is_about_target_brand !== false),
+          (showOffTopic || m.is_about_target_brand !== false) &&
+          !(hideReleases && m.outlet_kind === "release"),
       ),
-    [dateRange, showOffTopic],
+    [dateRange, showOffTopic, hideReleases],
   );
 
   const sovPeriodTotals = useMemo(() => {
@@ -470,20 +473,36 @@ export default function Page() {
             </select>
           </FilterBox>
         </div>
-        <label className="flex items-start sm:items-center gap-2 mt-3 text-xs text-slate-600 cursor-pointer select-none">
-          <input
-            type="checkbox"
-            className="rounded border-slate-300 mt-0.5 sm:mt-0 shrink-0"
-            checked={showOffTopic}
-            onChange={(e) => setShowOffTopic(e.target.checked)}
-          />
-          <span>
-            Include off-topic mentions{" "}
-            <span className="text-slate-400">
-              (other companies sharing the &ldquo;Biomar&rdquo; name)
+        <div className="mt-3 flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-5">
+          <label className="flex items-start sm:items-center gap-2 text-xs text-slate-600 cursor-pointer select-none">
+            <input
+              type="checkbox"
+              className="rounded border-slate-300 mt-0.5 sm:mt-0 shrink-0"
+              checked={showOffTopic}
+              onChange={(e) => setShowOffTopic(e.target.checked)}
+            />
+            <span>
+              Include off-topic mentions{" "}
+              <span className="text-slate-400">
+                (other companies sharing the &ldquo;Biomar&rdquo; name)
+              </span>
             </span>
-          </span>
-        </label>
+          </label>
+          <label className="flex items-start sm:items-center gap-2 text-xs text-slate-600 cursor-pointer select-none">
+            <input
+              type="checkbox"
+              className="rounded border-slate-300 mt-0.5 sm:mt-0 shrink-0"
+              checked={hideReleases}
+              onChange={(e) => setHideReleases(e.target.checked)}
+            />
+            <span>
+              Hide press releases{" "}
+              <span className="text-slate-400">
+                (PR wires &amp; aggregators — NTB, Ritzau, Mynewsdesk, etc.)
+              </span>
+            </span>
+          </label>
+        </div>
       </section>
 
       {/* Charts */}

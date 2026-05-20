@@ -83,6 +83,23 @@ def build_share_of_voice(mentions: list[dict]) -> dict:
     }
 
 
+# Press-release distributors and aggregators — coverage from these is a
+# republished release, not independent journalism. Used to let the
+# dashboard/export distinguish 'earned' media from wire pickups.
+_RELEASE_OUTLETS = {
+    "mynewsdesk", "ntb kommunikasjon", "via ritzau", "ritzau",
+    "cision", "pr newswire", "prnewswire", "business wire", "businesswire",
+    "globenewswire", "globe newswire", "marketscreener", "marketscreener españa",
+    "simplywall.st", "yahoo finance", "yahoo finance singapore",
+    "perishable news", "seafoodnews",
+}
+
+
+def _outlet_kind(source_name: str) -> str:
+    """'release' for PR-wire / aggregator republishers, else 'press'."""
+    return "release" if source_name.strip().lower() in _RELEASE_OUTLETS else "press"
+
+
 def _parse_json_field(s: str | None, default: Any) -> Any:
     if not s:
         return default
@@ -111,6 +128,7 @@ def _row_to_mention(row: sqlite3.Row) -> dict[str, Any]:
         "source_name": row["source_name"],
         "language": row["language"] or "en",
         "country": row["country"] or "INT",
+        "outlet_kind": _outlet_kind(row["source_name"]),
         "published_at": row["published_at"] or row["fetched_at"],
         "matched_keyword": row["matched_keyword"],
         "company": keyword_to_company(row["matched_keyword"]),
@@ -128,6 +146,37 @@ def _row_to_mention(row: sqlite3.Row) -> dict[str, Any]:
 
 def _sentiment_priority(s: str) -> int:
     return {"negative": 0, "neutral": 1, "positive": 2}.get(s, 1)
+
+
+def _weighted_story_sentiment(mentions: list[dict[str, Any]]) -> str:
+    """Confidence-weighted aggregate sentiment for a cluster.
+
+    Replaces the old 'any negative wins' rule, which tagged a story with
+    7 positive pickups and 1 low-confidence negative as negative.  Each
+    analyzed mention votes -1/0/+1 weighted by its sentiment_confidence
+    and prominence (primary counts double a passing mention).  Unanalyzed
+    mentions (confidence 0) don't vote.  Genuinely negative coverage is
+    still surfaced separately via risk_flags and the risk-highlights panel.
+    """
+    score = 0.0
+    weight = 0.0
+    prom_w = {"primary": 1.0, "secondary": 0.7, "passing": 0.4}
+    val = {"negative": -1.0, "neutral": 0.0, "positive": 1.0}
+    for m in mentions:
+        conf = m["sentiment_confidence"] or 0.0
+        if conf <= 0:
+            continue  # unanalyzed
+        w = conf * prom_w.get(m["prominence"], 0.4)
+        score += w * val.get(m["sentiment"], 0.0)
+        weight += w
+    if weight == 0:
+        return "neutral"
+    avg = score / weight
+    if avg <= -0.25:
+        return "negative"
+    if avg >= 0.25:
+        return "positive"
+    return "neutral"
 
 
 def _story_company(mentions: list[dict[str, Any]]) -> str:
@@ -151,8 +200,7 @@ def _build_story(cluster_id: int, mentions: list[dict[str, Any]]) -> dict[str, A
     first_seen = min(publish_dates) if publish_dates else primary["published_at"]
     last_seen = max(publish_dates) if publish_dates else primary["published_at"]
 
-    sentiments = [m["sentiment"] for m in mentions]
-    primary_sentiment = min(sentiments, key=_sentiment_priority)
+    primary_sentiment = _weighted_story_sentiment(mentions)
 
     risk_flags: set[str] = set()
     for m in mentions:
