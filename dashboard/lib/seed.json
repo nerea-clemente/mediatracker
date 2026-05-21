@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-20T23:08:44+00:00",
+  "generated_at": "2026-05-21T08:46:15+00:00",
   "stats": {
-    "mention_count": 1642,
-    "story_count": 1456,
-    "analyzed_count": 682,
+    "mention_count": 1645,
+    "story_count": 1458,
+    "analyzed_count": 683,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -253,6 +253,7 @@
     "kulingen.no",
     "marketscreener.com",
     "misPeces",
+    "news - Mongabay",
     "nord24.no",
     "randaberg24.no",
     "realcommercial.com.au",
@@ -597,7 +598,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -12310,6 +12311,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1480,
+      "headline": "Skal fortsette å levere fór for Biomar - Havpuls",
+      "story_summary": "A supplier has agreed to continue delivering feed or ingredients for BioMar, indicating ongoing commercial relationships. The arrangement reflects BioMar's stable supply chain management in its aquaculture operations.",
+      "first_seen": "2023-10-04T07:00:00+00:00",
+      "last_seen": "2023-10-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 937,
       "headline": "BioMar og Stornes Skip fortsetter samarbeidet med fornyet “Borgenfjord” - iLaks",
       "story_summary": "BioMar and Stornes Skip have extended their existing partnership, featuring an upgraded 'Borgenfjord' vessel. The collaboration continuation suggests ongoing operational coordination between the aquaculture feed supplier and the shipping partner.",
@@ -15332,6 +15347,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 1479,
+      "headline": "For Norway salmon farms giving up deforestation-linked soy, Cargill proves a roadblock - news - Mongabay",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3FMMjRpRTFLdTM5dVZ4d0JUU3NQZlBGQWQ4SkhIcWQ3blhGVDhLR3N3ZXlINzhUZkN6VDZROXhVdTA3Zm5HQ2FuVWNaV1F6UjN3c3NBeWpyYW5pamx1WTBzX2lidnRoMFZRY1FJR0ppZHJvVVctbnFaamp5c0FJTjdqbGpFSTlqUGhXdFk2RVVPQlFCTlVIcWJlOWpzcWlhQXBjQTF6ZXdFZzcweVozd2hJalViWUp1RnF2bdIBwgFBVV95cUxQQS1WcV9yLU83b29PVHFPOE5ZdW9HTnNOLUdtb2VscFpsU0VlbW1lQ3ZnMG9XSENNMVVuZXVYTzRRdGN3M3JFR29NRDBGM1I5bTRLUTZ3MjNIMGN0Uy1BQmt3M2hEZlJBUldUS01Mb1A0OVAxaVpSUFQ2Mk5fYU9WOURQdkVScTRfVmhHY3l3Y1NJd1dpVTNqcW1nUnZsS3FHSk5IVDNGVFZHUzAxNW5Xd1A3XzltX2xSakxRUFh4czgzdw?oc=5\" target=\"_blank\">For Norway salmon farms giving up deforestation-linked soy, Cargill proves a roadblock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news - Mongabay</font>",
+      "first_seen": "2021-07-07T07:00:00+00:00",
+      "last_seen": "2021-07-07T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 52,
@@ -60635,6 +60664,78 @@
         "financial"
       ],
       "summary": "BioMar announced improved financial results and projects revenue of DKK 10 billion for 2017. The article reports on the company's positive performance outlook for the year."
+    },
+    {
+      "id": 87884,
+      "story_id": 1480,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jR1JrUE1xUF80bnl6SnNmU1dnT1ZzZTlVTmZ6TDEybk02b3dMMzRtWWN4al8yR1FfbUNfWU9HQkdwQVZRZG1MWl9DUTlTSlhtWWJsMUdPdFIxbVFqR25ZMDZtOE9HYlBOTldvd0ZnSld4QjBBTTgwdGwwMA?oc=5",
+      "title": "Skal fortsette å levere fór for Biomar - Havpuls",
+      "source_name": "Havpuls",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-10-04T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "Supplier contract continuation with BioMar",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A supplier has agreed to continue delivering feed or ingredients for BioMar, indicating ongoing commercial relationships. The arrangement reflects BioMar's stable supply chain management in its aquaculture operations."
+    },
+    {
+      "id": 88316,
+      "story_id": 1415,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUpQMmVCVjh2RjYydTRjNlVPV2tZM1BYdVB5YThCaFVIc1BVa3phWEFJN1I2eHJfWGZFei1kc1VKQ3ZnR195WnJGMkVRbFVMRUtwQzlOSzFvdlRKTmU2a2pWT2owMmVtQ3kzNmdlZE5PbmFqd0NHeWRpUTlXN2dNQlZsQlFxb1V4TF9mVQ?oc=5",
+      "title": "41’ - Gult kort til Ingeborg Skretting - TV2.no",
+      "source_name": "TV2.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUpQMmVCVjh2RjYydTRjNlVPV2tZM1BYdVB5YThCaFVIc1BVa3phWEFJN1I2eHJfWGZFei1kc1VKQ3ZnR195WnJGMkVRbFVMRUtwQzlOSzFvdlRKTmU2a2pWT2owMmVtQ3kzNmdlZE5PbmFqd0NHeWRpUTlXN2dNQlZsQlFxb1V4TF9mVQ?oc=5\" target=\"_blank\">41’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
+    },
+    {
+      "id": 88624,
+      "story_id": 1479,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3FMMjRpRTFLdTM5dVZ4d0JUU3NQZlBGQWQ4SkhIcWQ3blhGVDhLR3N3ZXlINzhUZkN6VDZROXhVdTA3Zm5HQ2FuVWNaV1F6UjN3c3NBeWpyYW5pamx1WTBzX2lidnRoMFZRY1FJR0ppZHJvVVctbnFaamp5c0FJTjdqbGpFSTlqUGhXdFk2RVVPQlFCTlVIcWJlOWpzcWlhQXBjQTF6ZXdFZzcweVozd2hJalViWUp1RnF2bdIBwgFBVV95cUxQQS1WcV9yLU83b29PVHFPOE5ZdW9HTnNOLUdtb2VscFpsU0VlbW1lQ3ZnMG9XSENNMVVuZXVYTzRRdGN3M3JFR29NRDBGM1I5bTRLUTZ3MjNIMGN0Uy1BQmt3M2hEZlJBUldUS01Mb1A0OVAxaVpSUFQ2Mk5fYU9WOURQdkVScTRfVmhHY3l3Y1NJd1dpVTNqcW1nUnZsS3FHSk5IVDNGVFZHUzAxNW5Xd1A3XzltX2xSakxRUFh4czgzdw?oc=5",
+      "title": "For Norway salmon farms giving up deforestation-linked soy, Cargill proves a roadblock - news - Mongabay",
+      "source_name": "news - Mongabay",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2021-07-07T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3FMMjRpRTFLdTM5dVZ4d0JUU3NQZlBGQWQ4SkhIcWQ3blhGVDhLR3N3ZXlINzhUZkN6VDZROXhVdTA3Zm5HQ2FuVWNaV1F6UjN3c3NBeWpyYW5pamx1WTBzX2lidnRoMFZRY1FJR0ppZHJvVVctbnFaamp5c0FJTjdqbGpFSTlqUGhXdFk2RVVPQlFCTlVIcWJlOWpzcWlhQXBjQTF6ZXdFZzcweVozd2hJalViWUp1RnF2bdIBwgFBVV95cUxQQS1WcV9yLU83b29PVHFPOE5ZdW9HTnNOLUdtb2VscFpsU0VlbW1lQ3ZnMG9XSENNMVVuZXVYTzRRdGN3M3JFR29NRDBGM1I5bTRLUTZ3MjNIMGN0Uy1BQmt3M2hEZlJBUldUS01Mb1A0OVAxaVpSUFQ2Mk5fYU9WOURQdkVScTRfVmhHY3l3Y1NJd1dpVTNqcW1nUnZsS3FHSk5IVDNGVFZHUzAxNW5Xd1A3XzltX2xSakxRUFh4czgzdw?oc=5\" target=\"_blank\">For Norway salmon farms giving up deforestation-linked soy, Cargill proves a roadblock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news - Mongabay</font>"
     }
   ],
   "share_of_voice": {
@@ -62434,7 +62535,7 @@
         "week": "2021-W27",
         "Aller Aqua": 1,
         "BioMar": 1,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -63193,7 +63294,7 @@
       {
         "week": "2023-W40",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -64236,7 +64337,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 10
+        "Skretting": 11
       },
       {
         "week": "2026-W21",
@@ -64254,11 +64355,11 @@
       },
       {
         "company": "BioMar",
-        "count": 682
+        "count": 683
       },
       {
         "company": "Cargill",
-        "count": 225
+        "count": 226
       },
       {
         "company": "Polarfeed",
@@ -64266,7 +64367,7 @@
       },
       {
         "company": "Skretting",
-        "count": 579
+        "count": 580
       }
     ]
   }
