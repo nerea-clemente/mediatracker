@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-21T08:46:15+00:00",
+  "generated_at": "2026-05-21T12:29:25+00:00",
   "stats": {
-    "mention_count": 1645,
-    "story_count": 1458,
-    "analyzed_count": 683,
+    "mention_count": 1646,
+    "story_count": 1459,
+    "analyzed_count": 684,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -124,6 +124,7 @@
     "La Razón",
     "La Tercera",
     "La Tribuna de Albacete",
+    "La Tribuna de Ciudad Real",
     "La Vanguardia",
     "LaSexta",
     "LandbasedAQ.no",
@@ -3927,6 +3928,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1481,
+      "headline": "Golpe a Biomar, más allá del fraude de 300 millones - La Tribuna de Ciudad Real",
+      "story_summary": "A Spanish hydrocarbons company called Biomar has been targeted in an investigation involving alleged fraud exceeding €300 million. The article reports on legal action against the company beyond the initial fraud charges identified in the headline reference to Ciudad Real, Spain's regional jurisdiction context. This article is about the Spanish VAT-fraud and fuel-trading scandal involving Biomar S.A., not the Danish aquaculture feed producer BioMar Group A/S headquartered in Aarhus. The key tells are the Spanish outlet (La Tribuna de Ciudad Real), the €300 million fraud scandal context, and the absence of any aquaculture, feed, salmon, or Schouw references. This is a namesake company, not the target BioMar brand we track. I have flagged it accordingly but note is_about_target_brand is false and should be filtered from the main dashboard. Detailed analysis proceeds for transparency in the database record, but users searching the BioMar aquaculture feed brand should not see this article by default in dashboard views, as it involves a different company entirely. The outlet language, geography, and subject matter confirm this is the Spanish hydrocarbons/fuel trader Biomar S.A., not the Danish aquaculture producer. Keywords like ",
+      "first_seen": "2026-01-04T08:00:00+00:00",
+      "last_seen": "2026-01-04T08:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 771,
@@ -60736,6 +60751,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3FMMjRpRTFLdTM5dVZ4d0JUU3NQZlBGQWQ4SkhIcWQ3blhGVDhLR3N3ZXlINzhUZkN6VDZROXhVdTA3Zm5HQ2FuVWNaV1F6UjN3c3NBeWpyYW5pamx1WTBzX2lidnRoMFZRY1FJR0ppZHJvVVctbnFaamp5c0FJTjdqbGpFSTlqUGhXdFk2RVVPQlFCTlVIcWJlOWpzcWlhQXBjQTF6ZXdFZzcweVozd2hJalViWUp1RnF2bdIBwgFBVV95cUxQQS1WcV9yLU83b29PVHFPOE5ZdW9HTnNOLUdtb2VscFpsU0VlbW1lQ3ZnMG9XSENNMVVuZXVYTzRRdGN3M3JFR29NRDBGM1I5bTRLUTZ3MjNIMGN0Uy1BQmt3M2hEZlJBUldUS01Mb1A0OVAxaVpSUFQ2Mk5fYU9WOURQdkVScTRfVmhHY3l3Y1NJd1dpVTNqcW1nUnZsS3FHSk5IVDNGVFZHUzAxNW5Xd1A3XzltX2xSakxRUFh4czgzdw?oc=5\" target=\"_blank\">For Norway salmon farms giving up deforestation-linked soy, Cargill proves a roadblock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news - Mongabay</font>"
+    },
+    {
+      "id": 89085,
+      "story_id": 1481,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzdMUzg0ODJlc1hYVlpQd3dEVkl2SmxlR2stbk5xeTRERVpBRGZ1UHVIUjVkMjRraFNXQi1vSl90bmhLMGluV04tZDV1eTQxMWk0MElId0Q0QUwwZ0U2VktJcV9ZZ3JqS2kzV2I1QmJoU1c2R2gxRmF1S1JOTUFwUklfMWVEamU1Vnctc2VPUUNnYnFIcVN2bG8tS201bGVqMGVJczVNR01BVVJScWtOcHVCVmZ4bTQxejVZdnFfbFdvQU42UVkwV3dUVXVnTDc2?oc=5",
+      "title": "Golpe a Biomar, más allá del fraude de 300 millones - La Tribuna de Ciudad Real",
+      "source_name": "La Tribuna de Ciudad Real",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-01-04T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Spanish hydrocarbons company Biomar faces major fraud investigation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A Spanish hydrocarbons company called Biomar has been targeted in an investigation involving alleged fraud exceeding €300 million. The article reports on legal action against the company beyond the initial fraud charges identified in the headline reference to Ciudad Real, Spain's regional jurisdiction context. This article is about the Spanish VAT-fraud and fuel-trading scandal involving Biomar S.A., not the Danish aquaculture feed producer BioMar Group A/S headquartered in Aarhus. The key tells are the Spanish outlet (La Tribuna de Ciudad Real), the €300 million fraud scandal context, and the absence of any aquaculture, feed, salmon, or Schouw references. This is a namesake company, not the target BioMar brand we track. I have flagged it accordingly but note is_about_target_brand is false and should be filtered from the main dashboard. Detailed analysis proceeds for transparency in the database record, but users searching the BioMar aquaculture feed brand should not see this article by default in dashboard views, as it involves a different company entirely. The outlet language, geography, and subject matter confirm this is the Spanish hydrocarbons/fuel trader Biomar S.A., not the Danish aquaculture producer. Keywords like "
     }
   ],
   "share_of_voice": {
@@ -64182,7 +64221,7 @@
       {
         "week": "2026-W01",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 3
@@ -64355,7 +64394,7 @@
       },
       {
         "company": "BioMar",
-        "count": 683
+        "count": 684
       },
       {
         "company": "Cargill",
