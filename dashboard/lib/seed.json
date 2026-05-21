@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-21T18:01:34+00:00",
+  "generated_at": "2026-05-21T23:01:01+00:00",
   "stats": {
-    "mention_count": 1648,
-    "story_count": 1460,
-    "analyzed_count": 684,
+    "mention_count": 1656,
+    "story_count": 1466,
+    "analyzed_count": 687,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -209,6 +209,7 @@
     "The Manila Times",
     "The New Times",
     "The Objective",
+    "The Pig Site",
     "The Urban Developer",
     "Tidens Krav",
     "TradingView",
@@ -267,6 +268,76 @@
   ],
   "stories": [
     {
+      "id": 1488,
+      "headline": "BioMar IPO: Aquaculture Feed Company Lists on Nasdaq Copenhagen in May 2026 - News and Statistics - IndexBox",
+      "story_summary": "BioMar, the aquaculture feed producer, completed its initial public offering on Nasdaq Copenhagen in May 2026. The IPO marks a significant milestone for the company's capital markets entry and public ownership structure transition from its parent Schouw & Co ownership model.",
+      "first_seen": "2026-05-21T19:51:00+00:00",
+      "last_seen": "2026-05-21T19:51:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1487,
+      "headline": "BioMar pursuing IPO with first day of trading on 28 May - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1FiTkZmMWc0c25OS29yZWpzbjVvUTN2QWV4VmpMVnRVWWtoSVNfQUd1LTJGM0taZnlHREQ3QmJQc0JXZW4wZFpObndMalp3bzdLZmdzbUZiNFNEMm0xYVcxMGYxWjl1a3g3RWV3VVRlUnBpckR4QW5CX1hNb2Q2SGlwWUpSWnh0bWF6OWxweC1GNGpMVVlYVU92d3hBZ0dITkczLTJXTTJEM2c?oc=5\" target=\"_blank\">BioMar pursuing IPO with first day of trading on 28 May</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2026-05-21T19:21:43+00:00",
+      "last_seen": "2026-05-21T19:21:43+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1486,
+      "headline": "Former BioMar Global Marketing Director Katherine Bryar joins Aqua-Spark - WEAREAQUACULTURE",
+      "story_summary": "Katherine Bryar, who previously served as Global Marketing Director at BioMar, has joined Aqua-Spark. The move represents a personnel transition within the aquaculture sector investment and business communities.",
+      "first_seen": "2026-05-21T16:49:31+00:00",
+      "last_seen": "2026-05-21T16:49:31+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1460,
+      "headline": "Biomar targets $1.6bn valuation in planned May IPO - Undercurrent News",
+      "story_summary": "BioMar is planning an initial public offering in May with a targeted valuation of $1.6 billion. The article reports on the aquaculture feed producer's capital markets plans without editorial commentary on prospects or feasibility.",
+      "first_seen": "2026-05-19T09:41:00+00:00",
+      "last_seen": "2026-05-21T15:48:02+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1485,
+      "headline": "Aqua-Spark: former BioMar executive to lead strategic partnerships - SalmonBusiness",
+      "story_summary": "A former BioMar executive has been appointed to a leadership position at Aqua-Spark focused on strategic partnerships. The move reflects talent movement within the aquaculture sector.",
+      "first_seen": "2026-05-21T12:11:59+00:00",
+      "last_seen": "2026-05-21T12:11:59+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1475,
       "headline": "Fish feed giant BioMar lays out IPO target - Fish Farmer",
       "story_summary": "BioMar, a major aquaculture feed producer, has announced targets and plans related to a potential initial public offering. The announcement represents a significant strategic development for the company's future capital structure and market positioning.",
@@ -276,20 +347,6 @@
       "risk_flags": [
         "exec_statement",
         "financial"
-      ],
-      "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1460,
-      "headline": "Biomar targets $1.6bn valuation in planned May IPO - Undercurrent News",
-      "story_summary": "BioMar is planning an initial public offering in May with a targeted valuation of $1.6 billion. The article reports on the aquaculture feed producer's capital markets plans without editorial commentary on prospects or feasibility.",
-      "first_seen": "2026-05-19T09:41:00+00:00",
-      "last_seen": "2026-05-20T14:31:54+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
       ],
       "pickup_count": 2,
       "is_about_target_brand": true,
@@ -830,15 +887,15 @@
     },
     {
       "id": 1234,
-      "headline": "Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts - The Cattle Site",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzF2UURHOEtoNE1Xa2hmaXFsSE1scGJzSkZPcnRIUko0aTZobkRRZU13WF91RFBoZ3MzSGd6RnFBODRDWVdDejJzYVFnNUQ3N0dqR0VSb0tnZFNHTGplS2wyVFJObEw1VzJyellOazJ3Rzd1Y3dFbTBQSVc5T1QzbUJxR1pqQ2ZtTllGdEJBOVZfX1hDSUFmS253bDAzbDFSQmIwQ1VRbzZLN1M3OHBHQjZaYVo3T3MyR1c4WFBYYkxGTXE4dDVIUVRnbXk?oc=5\" target=\"_blank\">Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cattle Site</font>",
-      "first_seen": "2026-05-05T07:00:00+00:00",
+      "headline": "Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts - The Pig Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZER3YUtHdTZjUmJEbFo5VzBGb2xzWHdrSWYtYmFzWmVUVDVrUTRlRzg4Vm1KSXZmWTBIbHk2MXVBbGFibWRLTVBZQ2toaFpGYmpFTTBlUWRaaGpKcF9ZbUVtbEUtWjBpMXRtaG9PZGNHb0FUenp1NUFTdUVhdFFtdFhXc3JaTWk3b3VQVjNmUmpTdDJBOXpmc3FlU1JzMFk5aUNzZUlHNWNwSjNKV1JHWU1Udi1HR0k0ZGZjbUFmMkY1VTdIbmtFZQ?oc=5\" target=\"_blank\">Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pig Site</font>",
+      "first_seen": "2026-05-04T07:00:00+00:00",
       "last_seen": "2026-05-05T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -4902,6 +4959,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5aVFJka1dSYzZndjNYYnFfYTZaVjhzbGI4NHNuZ3ZRMWFhcW5rZmxFeVl2YjZMS1FKZjg2NC0tQ0ZDX3A1VHE1TmN4RG9PUWY2NjNsYWJJVm9UQjl4S3hXd0d0S2lGeVdMaVdWSS10SjlfUQ?oc=5\" target=\"_blank\">Reverserer flere kuttforslag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
       "first_seen": "2025-11-28T08:00:00+00:00",
       "last_seen": "2025-11-28T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1484,
+      "headline": "Alianza entre Skretting Vietnam y Entobel para impulsar la producción de alimento para camarón incorporando harina de insecto - IPac Acuicultura",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE51M0NISzJoZHRER2lxM3J4RlNNc0FaYVpKVDRJb3l3STJTUHhhT21iMlNEdllncE1FcGpZbzMxcEVReXE4TERDc2V0aXlBOUFrdWZNY29nNTJTUEhpcml1SzFnSGhNMFJyUmNuNQ?oc=5\" target=\"_blank\">Alianza entre Skretting Vietnam y Entobel para impulsar la producción de alimento para camarón incorporando harina de insecto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
+      "first_seen": "2025-11-27T15:12:09+00:00",
+      "last_seen": "2025-11-27T15:12:09+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -15593,6 +15664,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUZHSjlDNWtQV3UtQ08tQ3E3VHlCdWtydFBPUUFQX19Ya2s0NDEtVXVwZ3pORlBxTGExVk1lOFRPc3JIZkhmeDkxSXlabXlCVTVpYzFoWFRvSWkwSFpQYmVIX1AtWjMxWll4ZzVnZmhSdkU0QXRKdHh4MVozRnZzVzEtNG9XNUc3R3c5Q1M0aWtmMW5RSC1QMnRHWQ?oc=5\" target=\"_blank\">Skretting blir rektor ved Høgskolen i Innlandet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Universitetsavisa</font>",
       "first_seen": "2021-03-06T16:23:34+00:00",
       "last_seen": "2021-03-06T16:23:34+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1483,
+      "headline": "Skretting avanza en certificación ISO 50.001 con apoyo de la Agencia de Sostenibilidad Energética - Diario Sustentable",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFd6TFdWYk5CdmRrLWFTZ09wV2NOOF9PSjNEUTFMYWZqTHlmT3puWDVqTWE0Z21PSVExc01sRFZLamliYWZwU01uUnZrYWo4YzJHbGg0c3QyU3Y2RWhReWdtU0t1YVd2VFdVS2EyX2JvbDd1OENsREUxUEdzcEJmb21uc3hua2tRbDFnbERaNFR5UWJMMXlzR2dsUlFTUi01bkUwTFlpQTRnWVNEYzYtdnRnMmlxNnF0VXBJR3FhNEhYUFZjaWk2aHpfOHdCZVdKQWJMQnpUVQ?oc=5\" target=\"_blank\">Skretting avanza en certificación ISO 50.001 con apoyo de la Agencia de Sostenibilidad Energética</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sustentable</font>",
+      "first_seen": "2021-03-05T08:00:00+00:00",
+      "last_seen": "2021-03-05T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -60837,6 +60922,200 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2hoTFZ4Qk5PXzY5Y254UkQ0bkM4NVN5V3FTbjYxNmFQeHBVUUxSbEF1U2EtNGNJM2Y5VmZkd05MU1QxYTNWT1FEenB1OUc5VjRNUl83aU9EdXFkd3BtMXM1al9tTUNFUUVSTVFhZEdmVmwybnVSTk10RW9kYkJkb0h3ZDZOZ2NBLVBITWJlOXNzdUNiV0VITEV4ZmIwN2VyMU1hTHBORUJjYUMyQy1OYTYzOXRVdmdXUHRtSUlpVjdBb0ZIeDZhUVVvbnkxckV2?oc=5\" target=\"_blank\">Nuevo gerente de Intesal visitó planta acuícola de Skretting, la única con puerto propio en Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundo Marítimo</font>"
+    },
+    {
+      "id": 90770,
+      "story_id": 1487,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1FiTkZmMWc0c25OS29yZWpzbjVvUTN2QWV4VmpMVnRVWWtoSVNfQUd1LTJGM0taZnlHREQ3QmJQc0JXZW4wZFpObndMalp3bzdLZmdzbUZiNFNEMm0xYVcxMGYxWjl1a3g3RWV3VVRlUnBpckR4QW5CX1hNb2Q2SGlwWUpSWnh0bWF6OWxweC1GNGpMVVlYVU92d3hBZ0dITkczLTJXTTJEM2c?oc=5",
+      "title": "BioMar pursuing IPO with first day of trading on 28 May - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-05-21T19:21:43+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1FiTkZmMWc0c25OS29yZWpzbjVvUTN2QWV4VmpMVnRVWWtoSVNfQUd1LTJGM0taZnlHREQ3QmJQc0JXZW4wZFpObndMalp3bzdLZmdzbUZiNFNEMm0xYVcxMGYxWjl1a3g3RWV3VVRlUnBpckR4QW5CX1hNb2Q2SGlwWUpSWnh0bWF6OWxweC1GNGpMVVlYVU92d3hBZ0dITkczLTJXTTJEM2c?oc=5\" target=\"_blank\">BioMar pursuing IPO with first day of trading on 28 May</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+    },
+    {
+      "id": 90771,
+      "story_id": 1488,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlNZYUkxejdraHZsbVhmQmh4T2NRQWVScFlpWEhidXoxNThDaXMwbXNyUS0xclZ4X2dFWFVXdlFPc0RDMUJTZk9iZ2V0NWx1S20ydmxqRXYyY1JQZ1NHUjhuamtVemM4dlRVTVBvSTBHajkzc1ROdWJweFljdHdEcnVnZGpFMWFoblhndV92WTNjYXVMX1ZDTi1oT1ZJR0VmazZWbQ?oc=5",
+      "title": "BioMar IPO: Aquaculture Feed Company Lists on Nasdaq Copenhagen in May 2026 - News and Statistics - IndexBox",
+      "source_name": "IndexBox",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-21T19:51:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar lists on Nasdaq Copenhagen in May 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar, the aquaculture feed producer, completed its initial public offering on Nasdaq Copenhagen in May 2026. The IPO marks a significant milestone for the company's capital markets entry and public ownership structure transition from its parent Schouw & Co ownership model."
+    },
+    {
+      "id": 90772,
+      "story_id": 1486,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQlFURWRleS10V1Q4S202Y1ZvczZuZFJPU1Y3MWUwdDYzckhSNmptc1JlUThkSlR0NDhoTHNMaE9uajNoMENpZkxWY0xNWkVXb2x1MVRKSlhBM09KMGNiTi1GWUE1cVRvc0o1M2MwRGozckZYQ2g5TnhxU3JsQU53QmQ5QURnLXpKejJkaXVXRFNFOGk5NXZWMHFha2dnamdTWWZyUDBVcU0taHpXZm1Rb0pRckpqQl9FSFHSAboBQVVfeXFMUEJRVEVkZXktdFdUOEttNmNWb3M2bmRST1NWNzFlMHQ2M3JIUjZqbXNSZVE4ZEpUdDQ4aExzTGhPbmozaDBDaWZMVmNMTVpFV29sdTFUSkpYQTNPSjBjYk4tRllBNXFUb3NKNTNjMERqM3JGWENoOU54cVNybEFOd0JkOUFEZy16SnoyZGl1V0RTRThpOTV2VjBxYWtnZ2pnU1lmclAwVXFNLWh6V2ZtUW9KUXJKakJfRUhR?oc=5",
+      "title": "Former BioMar Global Marketing Director Katherine Bryar joins Aqua-Spark - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-05-21T16:49:31+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "passing",
+      "angle": "Former BioMar executive joins investment firm",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Katherine Bryar, who previously served as Global Marketing Director at BioMar, has joined Aqua-Spark. The move represents a personnel transition within the aquaculture sector investment and business communities."
+    },
+    {
+      "id": 90774,
+      "story_id": 1485,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZl9YQ1hJY01pN29MRmdaQXJPSzNpTk5RM2RyTVFWblBPOTdtM1dfdWVOTzJ2cEUyb1JkMFZYc2l0VllBZ2RLSmdBT0ZKSHQxZmYtS0FwQXVhTkFQMUpoR3N6ZGxJTHE0bjNSNDRzU1RlRVVvazdYQ1lYX2F1eFA1czRuWExIaEd1WFRJZ05KVkoxV3ByZ3RVVVBnTHVmUdIBngFBVV95cUxQZl9YQ1hJY01pN29MRmdaQXJPSzNpTk5RM2RyTVFWblBPOTdtM1dfdWVOTzJ2cEUyb1JkMFZYc2l0VllBZ2RLSmdBT0ZKSHQxZmYtS0FwQXVhTkFQMUpoR3N6ZGxJTHE0bjNSNDRzU1RlRVVvazdYQ1lYX2F1eFA1czRuWExIaEd1WFRJZ05KVkoxV3ByZ3RVVVBnTHVmUQ?oc=5",
+      "title": "Aqua-Spark: former BioMar executive to lead strategic partnerships - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-21T12:11:59+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Former BioMar executive joins Aqua-Spark in partnership leadership role",
+      "key_claims": [
+        "A former BioMar executive has been appointed to lead strategic partnerships at Aqua-Spark"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "A former BioMar executive has been appointed to a leadership position at Aqua-Spark focused on strategic partnerships. The move reflects talent movement within the aquaculture sector."
+    },
+    {
+      "id": 90781,
+      "story_id": 1460,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUVUNXdWVVZFQkt5YlpMa0lHRXMwcXFYc3ZobmlEZ2RmY2NLOVh5blRYaHlvZmstOVREdFF1OEpyS2tNTEJJQW12dXdzdzFTSG5KaDY0WmY2dkFLZElLSGFXbUhrb1ppWE9FbHBPSXlmaEpXVWxtOWNMRDVfcVFuMW5nY0JIX2xJa2FTMV9SSXpIX2lxVDJUWlczdHU3NlByYndPYjVlYWpycHlKMEowTjBYNnh3UdIBtgFBVV95cUxQQUVUNXdWVVZFQkt5YlpMa0lHRXMwcXFYc3ZobmlEZ2RmY2NLOVh5blRYaHlvZmstOVREdFF1OEpyS2tNTEJJQW12dXdzdzFTSG5KaDY0WmY2dkFLZElLSGFXbUhrb1ppWE9FbHBPSXlmaEpXVWxtOWNMRDVfcVFuMW5nY0JIX2xJa2FTMV9SSXpIX2lxVDJUWlczdHU3NlByYndPYjVlYWpycHlKMEowTjBYNnh3UQ?oc=5",
+      "title": "BioMar targets DKK 10.4bn valuation in planned public offering - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-05-21T15:48:02+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQQUVUNXdWVVZFQkt5YlpMa0lHRXMwcXFYc3ZobmlEZ2RmY2NLOVh5blRYaHlvZmstOVREdFF1OEpyS2tNTEJJQW12dXdzdzFTSG5KaDY0WmY2dkFLZElLSGFXbUhrb1ppWE9FbHBPSXlmaEpXVWxtOWNMRDVfcVFuMW5nY0JIX2xJa2FTMV9SSXpIX2lxVDJUWlczdHU3NlByYndPYjVlYWpycHlKMEowTjBYNnh3UdIBtgFBVV95cUxQQUVUNXdWVVZFQkt5YlpMa0lHRXMwcXFYc3ZobmlEZ2RmY2NLOVh5blRYaHlvZmstOVREdFF1OEpyS2tNTEJJQW12dXdzdzFTSG5KaDY0WmY2dkFLZElLSGFXbUhrb1ppWE9FbHBPSXlmaEpXVWxtOWNMRDVfcVFuMW5nY0JIX2xJa2FTMV9SSXpIX2lxVDJUWlczdHU3NlByYndPYjVlYWpycHlKMEowTjBYNnh3UQ?oc=5\" target=\"_blank\">BioMar targets DKK 10.4bn valuation in planned public offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 91286,
+      "story_id": 1234,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZER3YUtHdTZjUmJEbFo5VzBGb2xzWHdrSWYtYmFzWmVUVDVrUTRlRzg4Vm1KSXZmWTBIbHk2MXVBbGFibWRLTVBZQ2toaFpGYmpFTTBlUWRaaGpKcF9ZbUVtbEUtWjBpMXRtaG9PZGNHb0FUenp1NUFTdUVhdFFtdFhXc3JaTWk3b3VQVjNmUmpTdDJBOXpmc3FlU1JzMFk5aUNzZUlHNWNwSjNKV1JHWU1Udi1HR0k0ZGZjbUFmMkY1VTdIbmtFZQ?oc=5",
+      "title": "Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts - The Pig Site",
+      "source_name": "The Pig Site",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-04T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZER3YUtHdTZjUmJEbFo5VzBGb2xzWHdrSWYtYmFzWmVUVDVrUTRlRzg4Vm1KSXZmWTBIbHk2MXVBbGFibWRLTVBZQ2toaFpGYmpFTTBlUWRaaGpKcF9ZbUVtbEUtWjBpMXRtaG9PZGNHb0FUenp1NUFTdUVhdFFtdFhXc3JaTWk3b3VQVjNmUmpTdDJBOXpmc3FlU1JzMFk5aUNzZUlHNWNwSjNKV1JHWU1Udi1HR0k0ZGZjbUFmMkY1VTdIbmtFZQ?oc=5\" target=\"_blank\">Nutreco's Impact 2025 report highlights reduced emissions and increased sustainability efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pig Site</font>"
+    },
+    {
+      "id": 91591,
+      "story_id": 1484,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51M0NISzJoZHRER2lxM3J4RlNNc0FaYVpKVDRJb3l3STJTUHhhT21iMlNEdllncE1FcGpZbzMxcEVReXE4TERDc2V0aXlBOUFrdWZNY29nNTJTUEhpcml1SzFnSGhNMFJyUmNuNQ?oc=5",
+      "title": "Alianza entre Skretting Vietnam y Entobel para impulsar la producción de alimento para camarón incorporando harina de insecto - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2025-11-27T15:12:09+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE51M0NISzJoZHRER2lxM3J4RlNNc0FaYVpKVDRJb3l3STJTUHhhT21iMlNEdllncE1FcGpZbzMxcEVReXE4TERDc2V0aXlBOUFrdWZNY29nNTJTUEhpcml1SzFnSGhNMFJyUmNuNQ?oc=5\" target=\"_blank\">Alianza entre Skretting Vietnam y Entobel para impulsar la producción de alimento para camarón incorporando harina de insecto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+    },
+    {
+      "id": 91644,
+      "story_id": 1483,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFd6TFdWYk5CdmRrLWFTZ09wV2NOOF9PSjNEUTFMYWZqTHlmT3puWDVqTWE0Z21PSVExc01sRFZLamliYWZwU01uUnZrYWo4YzJHbGg0c3QyU3Y2RWhReWdtU0t1YVd2VFdVS2EyX2JvbDd1OENsREUxUEdzcEJmb21uc3hua2tRbDFnbERaNFR5UWJMMXlzR2dsUlFTUi01bkUwTFlpQTRnWVNEYzYtdnRnMmlxNnF0VXBJR3FhNEhYUFZjaWk2aHpfOHdCZVdKQWJMQnpUVQ?oc=5",
+      "title": "Skretting avanza en certificación ISO 50.001 con apoyo de la Agencia de Sostenibilidad Energética - Diario Sustentable",
+      "source_name": "Diario Sustentable",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2021-03-05T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFd6TFdWYk5CdmRrLWFTZ09wV2NOOF9PSjNEUTFMYWZqTHlmT3puWDVqTWE0Z21PSVExc01sRFZLamliYWZwU01uUnZrYWo4YzJHbGg0c3QyU3Y2RWhReWdtU0t1YVd2VFdVS2EyX2JvbDd1OENsREUxUEdzcEJmb21uc3hua2tRbDFnbERaNFR5UWJMMXlzR2dsUlFTUi01bkUwTFlpQTRnWVNEYzYtdnRnMmlxNnF0VXBJR3FhNEhYUFZjaWk2aHpfOHdCZVdKQWJMQnpUVQ?oc=5\" target=\"_blank\">Skretting avanza en certificación ISO 50.001 con apoyo de la Agencia de Sostenibilidad Energética</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sustentable</font>"
     }
   ],
   "share_of_voice": {
@@ -62534,7 +62813,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2021-W12",
@@ -64246,7 +64525,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 9
+        "Skretting": 10
       },
       {
         "week": "2025-W49",
@@ -64430,7 +64709,7 @@
         "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 15
+        "Skretting": 16
       },
       {
         "week": "2026-W20",
@@ -64443,7 +64722,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 29,
+        "BioMar": 34,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -64456,7 +64735,7 @@
       },
       {
         "company": "BioMar",
-        "count": 684
+        "count": 689
       },
       {
         "company": "Cargill",
@@ -64468,7 +64747,7 @@
       },
       {
         "company": "Skretting",
-        "count": 582
+        "count": 585
       }
     ]
   }
