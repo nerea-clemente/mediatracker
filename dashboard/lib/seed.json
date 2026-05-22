@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-22T08:36:53+00:00",
+  "generated_at": "2026-05-22T12:03:34+00:00",
   "stats": {
-    "mention_count": 1656,
-    "story_count": 1466,
-    "analyzed_count": 689,
+    "mention_count": 1661,
+    "story_count": 1471,
+    "analyzed_count": 692,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -37,6 +37,7 @@
     "Byggfakta Nyheter",
     "Cadena SER",
     "Centro Competencia",
+    "ChartMill",
     "Christensen Salmon Generations Funeral Home",
     "Cinco Días",
     "Civita",
@@ -267,6 +268,34 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1493,
+      "headline": "BioMar Group A/S : Precios y Cotizaciones, Precio BIOMAR Bolsa Nasdaq Copenhagen - MarketScreener España",
+      "story_summary": "This is a MarketScreener España listing page providing stock price and trading information for BioMar Group A/S on the Nasdaq Copenhagen exchange. The article serves as a reference tool for investors tracking the company's market valuation and quotes rather than reporting news or analysis about the company's operations or performance.",
+      "first_seen": "2026-05-22T06:54:41+00:00",
+      "last_seen": "2026-05-22T06:54:41+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1492,
+      "headline": "SCHO.CO Technical Analysis | Trend, Signals & Chart Patterns | SCHOUW & CO (CPH:SCHO) - ChartMill",
+      "story_summary": "ChartMill provides technical analysis, trend indicators, and chart patterns for Schouw & Co (CPH:SCHO) stock trading. The article is a financial charting tool output with no narrative content about the company itself.",
+      "first_seen": "2026-05-22T06:36:26+00:00",
+      "last_seen": "2026-05-22T06:36:26+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1488,
       "headline": "BioMar IPO: Aquaculture Feed Company Lists on Nasdaq Copenhagen in May 2026 - News and Statistics - IndexBox",
@@ -1969,6 +1998,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1491,
+      "headline": "Her har dei kutta ut russisk råstoff – men Mowi held fram med å kjøpe - Firdaposten",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVNReXMyTXFqbzRUNE1ycjNkd21vYk9OaDdEd01meW1aUGJOMFFGaUdXV0Nkc3RwdGM5b1AtYUNsNXRoZkVRQ0hoaGljRHJrT05jMnduNEE5cElLOGVRX0NidmhVUEV5WkxZZGsxd2JqNFJlbVZ4VEtfYW84NHlfX19HNUxHMDhRRjdPaEsxSVB3ZERxT1p0VHRUbUZuLUZ5d0hlZ0VRUHVkOXVB?oc=5\" target=\"_blank\">Her har dei kutta ut russisk råstoff – men Mowi held fram med å kjøpe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firdaposten</font>",
+      "first_seen": "2026-04-08T07:00:00+00:00",
+      "last_seen": "2026-04-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 333,
@@ -13335,6 +13378,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1490,
+      "headline": "BioMar concludes 2022 with record results - Aquafeed.com",
+      "story_summary": "BioMar Group reported record results for the full year 2022. The announcement highlights strong financial performance for the aquaculture feed producer.",
+      "first_seen": "2023-03-03T08:00:00+00:00",
+      "last_seen": "2023-03-03T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 542,
       "headline": "Skretting lanza campaña que visibiliza la importancia del alimento de peces para la seguridad alimentaria mundial - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU3QzbmdLeGpKbml6dHdrUkYyRjBKTEotb21UMlFyYm5yTDVma1lnM1U0R3pZV08tS0NyR25TNUFmT3RaaHVUMTdfTWdoVHY5WndBMkZVVjhpaWtHN21mRkptYUpIMVBGeDFCbmw4bkxLbUVYSm1BVFdPbkt2YnN6NW1VdEc5NlNaOXZNQ0FEZ2VGMWNxR1RwVURMbzYzVzdpRHpwQ3hRUFoxcXBmWkFoc3dfSTk4d1Vpd1BILWI3cHd6UW04OGVTd1VxYlhNNE9ndFd4YUthdUVwVC0wRnl1ZmctRDZnYXlmY2pCb3FwMmlkdGpWWlc5RDF3QzdKaDg?oc=5\" target=\"_blank\">Skretting lanza campaña que visibiliza la importancia del alimento de peces para la seguridad alimentaria mundial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
@@ -16275,6 +16332,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1489,
+      "headline": "Cargill reconoce cuatro centros como Best Site EWOS 2019 - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUNHVXpVWFVKU1h5T3lwZWN2Y1MxeVBpMFRtWGllTnFBUHFvVldzZk95RXhod2JOUlB3dmVGRkxta0NQemtGUlJBUEV3VG85dURLRGdiWndjMkNTRUdac2l6QXdQc2d0YndpUE5HWjgxUWhNWC1zN04xci1oTVJBMHc4U1I3SDJQNklOUF9KRDdIckFIYnZzRnFZMzNhd3p6dllSWDZ6TE1tYjJfNWd1djV3WWVPQV93RXc?oc=5\" target=\"_blank\">Cargill reconoce cuatro centros como Best Site EWOS 2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2020-08-03T07:00:00+00:00",
+      "last_seen": "2020-08-03T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1284,
@@ -61116,6 +61187,128 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFd6TFdWYk5CdmRrLWFTZ09wV2NOOF9PSjNEUTFMYWZqTHlmT3puWDVqTWE0Z21PSVExc01sRFZLamliYWZwU01uUnZrYWo4YzJHbGg0c3QyU3Y2RWhReWdtU0t1YVd2VFdVS2EyX2JvbDd1OENsREUxUEdzcEJmb21uc3hua2tRbDFnbERaNFR5UWJMMXlzR2dsUlFTUi01bkUwTFlpQTRnWVNEYzYtdnRnMmlxNnF0VXBJR3FhNEhYUFZjaWk2aHpfOHdCZVdKQWJMQnpUVQ?oc=5\" target=\"_blank\">Skretting avanza en certificación ISO 50.001 con apoyo de la Agencia de Sostenibilidad Energética</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sustentable</font>"
+    },
+    {
+      "id": 93120,
+      "story_id": 1493,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWtKd2FfT3dDbUduY2FqVXhXRk1sSXBscnVwaHM0aFozaUtCS015RUx6a1d4TEFtM3VWVjVkYXJZanVkR1FLSU5zOUtuSTB3djZYQnhkS0F5Mm9OOFU2RTEyNWd2Zjdmb3RmdklfaUpTbFUyU0Ffc3JzRlRDUkRnVW9KTGw0ei0ydGszVGZrOWdIZw?oc=5",
+      "title": "BioMar Group A/S : Precios y Cotizaciones, Precio BIOMAR Bolsa Nasdaq Copenhagen - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-05-22T06:54:41+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock price and quotation information for BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a MarketScreener España listing page providing stock price and trading information for BioMar Group A/S on the Nasdaq Copenhagen exchange. The article serves as a reference tool for investors tracking the company's market valuation and quotes rather than reporting news or analysis about the company's operations or performance."
+    },
+    {
+      "id": 93218,
+      "story_id": 1492,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lekI5ZmlEMkV3UFppOUFrdFd1bTdSQTJjMkZ6VnhCa3ZFR0xqLWJwQ3JyN1J2eTVFY1dvWVliOWtkXzM4MkVISzJuRW80eVBKb1hlYm82SUQxUXZPa1JMeU40UU9EbjdmVXNpWW5DQzNPZw?oc=5",
+      "title": "SCHO.CO Technical Analysis | Trend, Signals & Chart Patterns | SCHOUW & CO (CPH:SCHO) - ChartMill",
+      "source_name": "ChartMill",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-22T06:36:26+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Technical chart analysis of Schouw & Co stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "ChartMill provides technical analysis, trend indicators, and chart patterns for Schouw & Co (CPH:SCHO) stock trading. The article is a financial charting tool output with no narrative content about the company itself."
+    },
+    {
+      "id": 93289,
+      "story_id": 1490,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORW1XVnRETkxJbWdoa0lBdXM3Z2RJT1lXTWpBYW9JR3RHbVNMOHp1bGw4NXZ3RFBuNzNUX1VhUHVLMW92RV8yNUl5ay1jVHhKNllxNEZxZDFaN2Fpa08yZzV0WU9XdFFJekNNdkJhQ1NxbmE0LURPN1RHcGNmZDNEWl9GVG5ZWHhS?oc=5",
+      "title": "BioMar concludes 2022 with record results - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2023-03-03T08:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar achieves record financial results in 2022",
+      "key_claims": [
+        "BioMar concluded 2022 with record results"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group reported record results for the full year 2022. The announcement highlights strong financial performance for the aquaculture feed producer."
+    },
+    {
+      "id": 93785,
+      "story_id": 1491,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVNReXMyTXFqbzRUNE1ycjNkd21vYk9OaDdEd01meW1aUGJOMFFGaUdXV0Nkc3RwdGM5b1AtYUNsNXRoZkVRQ0hoaGljRHJrT05jMnduNEE5cElLOGVRX0NidmhVUEV5WkxZZGsxd2JqNFJlbVZ4VEtfYW84NHlfX19HNUxHMDhRRjdPaEsxSVB3ZERxT1p0VHRUbUZuLUZ5d0hlZ0VRUHVkOXVB?oc=5",
+      "title": "Her har dei kutta ut russisk råstoff – men Mowi held fram med å kjøpe - Firdaposten",
+      "source_name": "Firdaposten",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-04-08T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVNReXMyTXFqbzRUNE1ycjNkd21vYk9OaDdEd01meW1aUGJOMFFGaUdXV0Nkc3RwdGM5b1AtYUNsNXRoZkVRQ0hoaGljRHJrT05jMnduNEE5cElLOGVRX0NidmhVUEV5WkxZZGsxd2JqNFJlbVZ4VEtfYW84NHlfX19HNUxHMDhRRjdPaEsxSVB3ZERxT1p0VHRUbUZuLUZ5d0hlZ0VRUHVkOXVB?oc=5\" target=\"_blank\">Her har dei kutta ut russisk råstoff – men Mowi held fram med å kjøpe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firdaposten</font>"
+    },
+    {
+      "id": 93841,
+      "story_id": 1489,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUNHVXpVWFVKU1h5T3lwZWN2Y1MxeVBpMFRtWGllTnFBUHFvVldzZk95RXhod2JOUlB3dmVGRkxta0NQemtGUlJBUEV3VG85dURLRGdiWndjMkNTRUdac2l6QXdQc2d0YndpUE5HWjgxUWhNWC1zN04xci1oTVJBMHc4U1I3SDJQNklOUF9KRDdIckFIYnZzRnFZMzNhd3p6dllSWDZ6TE1tYjJfNWd1djV3WWVPQV93RXc?oc=5",
+      "title": "Cargill reconoce cuatro centros como Best Site EWOS 2019 - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2020-08-03T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUNHVXpVWFVKU1h5T3lwZWN2Y1MxeVBpMFRtWGllTnFBUHFvVldzZk95RXhod2JOUlB3dmVGRkxta0NQemtGUlJBUEV3VG85dURLRGdiWndjMkNTRUdac2l6QXdQc2d0YndpUE5HWjgxUWhNWC1zN04xci1oTVJBMHc4U1I3SDJQNklOUF9KRDdIckFIYnZzRnFZMzNhd3p6dllSWDZ6TE1tYjJfNWd1djV3WWVPQV93RXc?oc=5\" target=\"_blank\">Cargill reconoce cuatro centros como Best Site EWOS 2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -62632,6 +62825,14 @@
         "Skretting": 1
       },
       {
+        "week": "2020-W32",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2020-W33",
         "Aller Aqua": 0,
         "BioMar": 1,
@@ -63490,7 +63691,7 @@
       {
         "week": "2023-W09",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -64675,7 +64876,7 @@
         "week": "2026-W15",
         "Aller Aqua": 1,
         "BioMar": 6,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 11
       },
@@ -64722,7 +64923,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 34,
+        "BioMar": 36,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -64735,11 +64936,11 @@
       },
       {
         "company": "BioMar",
-        "count": 689
+        "count": 692
       },
       {
         "company": "Cargill",
-        "count": 226
+        "count": 228
       },
       {
         "company": "Polarfeed",
