@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-22T12:03:34+00:00",
+  "generated_at": "2026-05-22T17:54:13+00:00",
   "stats": {
-    "mention_count": 1661,
-    "story_count": 1471,
-    "analyzed_count": 692,
+    "mention_count": 1663,
+    "story_count": 1472,
+    "analyzed_count": 693,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -783,7 +783,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -1571,6 +1571,20 @@
       "story_summary": "BioMar has established a research hub focused on developing specialized feed solutions for emerging aquaculture species. The initiative positions the company to support the expansion of aquaculture into new fish and shellfish species beyond traditional farmed varieties.",
       "first_seen": "2026-04-28T12:11:12+00:00",
       "last_seen": "2026-04-28T12:11:12+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1494,
+      "headline": "BioMar expands research on new species at Hirtshals - The Fish Site",
+      "story_summary": "BioMar is expanding its research and development activities at its Hirtshals facility to investigate feed formulations for new aquaculture species. The expansion demonstrates the company's commitment to diversifying its product portfolio beyond its traditional salmon and shrimp focus areas. Summary: The company is scaling up R&D efforts at Hirtshals to develop feeds for additional species in aquaculture. This expansion signals BioMar's strategic investment in broadening its market reach within the aquaculture sector, aligning with sustainable food production trends and potential growth in emerging species farming segments.",
+      "first_seen": "2026-04-28T07:00:00+00:00",
+      "last_seen": "2026-04-28T07:00:00+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -61309,6 +61323,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTUNHVXpVWFVKU1h5T3lwZWN2Y1MxeVBpMFRtWGllTnFBUHFvVldzZk95RXhod2JOUlB3dmVGRkxta0NQemtGUlJBUEV3VG85dURLRGdiWndjMkNTRUdac2l6QXdQc2d0YndpUE5HWjgxUWhNWC1zN04xci1oTVJBMHc4U1I3SDJQNklOUF9KRDdIckFIYnZzRnFZMzNhd3p6dllSWDZ6TE1tYjJfNWd1djV3WWVPQV93RXc?oc=5\" target=\"_blank\">Cargill reconoce cuatro centros como Best Site EWOS 2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 93892,
+      "story_id": 1494,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU5wb1Eybm1HRm5uX1ZCeE84RlNWNHE2MUd3MXdyYkJXZ2NCTk5BNnZicFV2Z0NaTXl6dTBIdVhFcVB3Q0oxV2NtLS1rUFhCQzRvdEJHOW90X3l5ejgzbFN4V3lobU1GR2xfMzBvZEdObHFkQWJQUm1GQXIzc0lfcmtUeGRHeXpxU0JnSA?oc=5",
+      "title": "BioMar expands research on new species at Hirtshals - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-04-28T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar expands aquaculture feed research into new species",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is expanding its research and development activities at its Hirtshals facility to investigate feed formulations for new aquaculture species. The expansion demonstrates the company's commitment to diversifying its product portfolio beyond its traditional salmon and shrimp focus areas. Summary: The company is scaling up R&D efforts at Hirtshals to develop feeds for additional species in aquaculture. This expansion signals BioMar's strategic investment in broadening its market reach within the aquaculture sector, aligning with sustainable food production trends and potential growth in emerging species farming segments."
+    },
+    {
+      "id": 94473,
+      "story_id": 1273,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2ljTjdpZjhFOTNOb2w0bGtMMU1Jd2x1MXlQd2lQS01FMUUxQlR5eXo2NTRyUFA5WTNaV3E0WWRVVi1RVXZ6VUFVblM3dTFVcUFvdV84QWpHV2ZBSnVWanotaW5xbUdFX1owVm0tSU9WM2hpa0tnMFJpd3U5R0I5Xw?oc=5",
+      "title": "54’ - Gult kort til Ingeborg Skretting - TV2.no",
+      "source_name": "TV2.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2ljTjdpZjhFOTNOb2w0bGtMMU1Jd2x1MXlQd2lQS01FMUUxQlR5eXo2NTRyUFA5WTNaV3E0WWRVVi1RVXZ6VUFVblM3dTFVcUFvdV84QWpHV2ZBSnVWanotaW5xbUdFX1owVm0tSU9WM2hpa0tnMFJpd3U5R0I5Xw?oc=5\" target=\"_blank\">54’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
     }
   ],
   "share_of_voice": {
@@ -64899,7 +64961,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 65,
+        "BioMar": 66,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -64910,7 +64972,7 @@
         "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 16
+        "Skretting": 17
       },
       {
         "week": "2026-W20",
@@ -64936,7 +64998,7 @@
       },
       {
         "company": "BioMar",
-        "count": 692
+        "count": 693
       },
       {
         "company": "Cargill",
@@ -64948,7 +65010,7 @@
       },
       {
         "company": "Skretting",
-        "count": 585
+        "count": 586
       }
     ]
   }
