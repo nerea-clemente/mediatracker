@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-22T17:54:13+00:00",
+  "generated_at": "2026-05-22T22:54:07+00:00",
   "stats": {
-    "mention_count": 1663,
-    "story_count": 1472,
-    "analyzed_count": 693,
+    "mention_count": 1666,
+    "story_count": 1474,
+    "analyzed_count": 696,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -327,14 +327,14 @@
     {
       "id": 1486,
       "headline": "Former BioMar Global Marketing Director Katherine Bryar joins Aqua-Spark - WEAREAQUACULTURE",
-      "story_summary": "Katherine Bryar, who previously served as Global Marketing Director at BioMar, has joined Aqua-Spark. The move represents a personnel transition within the aquaculture sector investment and business communities.",
-      "first_seen": "2026-05-21T16:49:31+00:00",
+      "story_summary": "Katherine Bryar, a former Global Marketing Director at BioMar, has joined Aqua-Spark, an aquaculture investment and development firm. The move represents a personnel transition within the aquaculture sector.",
+      "first_seen": "2026-05-21T16:30:02+00:00",
       "last_seen": "2026-05-21T16:49:31+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -2992,6 +2992,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1496,
+      "headline": "Schouw & Co. share buy-back programme, week 8 2026 - Finansavisen",
+      "story_summary": "Schouw & Co. announced its share buyback programme activities for week 8 of 2026. The article is a routine corporate disclosure of repurchase activity during the specified reporting period.",
+      "first_seen": "2026-02-23T08:00:00+00:00",
+      "last_seen": "2026-02-23T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 794,
@@ -10067,6 +10081,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1495,
+      "headline": "Sindicato de Biomar critica decisión de cierre e inicia conversaciones para mejorar condiciones de salida de trabajadores - Periódico El Insular",
+      "story_summary": "A BioMar union representative has criticised the company's decision to close a facility and has begun negotiations to secure better exit conditions for affected workers. The article focuses on labour relations and workforce transition following the announced closure.",
+      "first_seen": "2024-11-28T08:00:00+00:00",
+      "last_seen": "2024-11-28T08:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "controversy"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -61371,6 +61399,84 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2ljTjdpZjhFOTNOb2w0bGtMMU1Jd2x1MXlQd2lQS01FMUUxQlR5eXo2NTRyUFA5WTNaV3E0WWRVVi1RVXZ6VUFVblM3dTFVcUFvdV84QWpHV2ZBSnVWanotaW5xbUdFX1owVm0tSU9WM2hpa0tnMFJpd3U5R0I5Xw?oc=5\" target=\"_blank\">54’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
+    },
+    {
+      "id": 94881,
+      "story_id": 1486,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWRwcHBWRVMzQ05uekowQXF6ZWZzN1oyUFNWUXdlVzdtcDZKV1BGNml0M0NIWjV2NUl1SzB6ZlBBVWxXRzJlMkFDdzYxZ0dtU3d5YmRZZTNaS0RjUmxIemZxOFVibm1QRXI3S2lsZFlYMTBROFNjb09TZHJneXVxV3VqUzkwMWZlZkEtNjRUQlBZZTdua2Z4SWdYR1NEc2lUb2ZjS253ckFMQm9R0gG6AUFVX3lxTFBCUVRFZGV5LXRXVDhLbTZjVm9zNm5kUk9TVjcxZTB0NjNySFI2am1zUmVROGRKVHQ0OGhMc0xoT25qM2gwQ2lmTFZjTE1aRVdvbHUxVEpKWEEzT0owY2JOLUZZQTVxVG9zSjUzYzBEajNyRlhDaDlOeHFTcmxBTndCZDlBRGctekp6MmRpdVdEU0U4aTk1dlYwcWFrZ2dqZ1NZZnJQMFVxTS1oeldmbVFvSlFySmpCX0VIUQ?oc=5",
+      "title": "Former BioMar Global Marketing Director Katherine Bryar joins Aqua-Spark - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-05-21T16:30:02+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Former BioMar marketing executive joins aquaculture investment firm",
+      "key_claims": [
+        "Katherine Bryar was Global Marketing Director at BioMar",
+        "Bryar has joined Aqua-Spark"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Katherine Bryar, a former Global Marketing Director at BioMar, has joined Aqua-Spark, an aquaculture investment and development firm. The move represents a personnel transition within the aquaculture sector."
+    },
+    {
+      "id": 95240,
+      "story_id": 1495,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ0d0YnRESnE1cEdick9uN3VKMkxaR1JEanYyUkJVS0FWNnRUbGZ1dTUycUtuOXlKd21fVlpYcHhLYnpLeWM0aGxGZ0t0RjVpb1pNblM2a0swRUEtYkVBTGhqc2pZNFA4RFhnUi1Wdzc4ZzI1aFdLWnpSdTZxQUJ6UDMwclpYUWFoMlVWM2NrN2Q2VTZwWkJXVm1vRVhocTVrYS0xZmFMS0xpdmd2QVlsNDZwSDF6WlRiRE5La29JcWJjdV9hTnQxMVp4bThTYjkzS3hvWjdoVUtyUjV1cmRoOHlRLWJGV09HR0E?oc=5",
+      "title": "Sindicato de Biomar critica decisión de cierre e inicia conversaciones para mejorar condiciones de salida de trabajadores - Periódico El Insular",
+      "source_name": "Periódico El Insular",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-11-28T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Union criticises facility closure and negotiates worker exit terms",
+      "key_claims": [
+        "BioMar has announced a facility closure",
+        "The union is initiating conversations to improve worker departure conditions"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "controversy"
+      ],
+      "summary": "A BioMar union representative has criticised the company's decision to close a facility and has begun negotiations to secure better exit conditions for affected workers. The article focuses on labour relations and workforce transition following the announced closure."
+    },
+    {
+      "id": 95300,
+      "story_id": 1496,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOVVnaFR2VGlCQ3JPQ1hlM2FjLWtkdTFOSENERWJ4ejFSY3Nocjdidm5FbG5HSTRVQ3ZibXBNUVBQbFBKWmlreEhRRXFhU0pyUEZJSkV2VmE0MzY1ZVFIMG4zcTQ1dml5NTFhdXVNS3p0SEJHaEp5eU9fcy14TXBjc0hCYnR1S1poUXA3ZTEyVC1qUEZQUEJiMEF3Q0t2RzJtSjNzV0RTdWtoTElEUDByX2pPVmhwbl9NQUNCd21waExjcHEwZy1UVjdSX21oWmd0NXdfYnY3SEY?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 8 2026 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-02-23T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Share buyback programme update for week 8 2026.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced its share buyback programme activities for week 8 of 2026. The article is a routine corporate disclosure of repurchase activity during the specified reporting period."
     }
   ],
   "share_of_voice": {
@@ -64369,7 +64475,7 @@
       {
         "week": "2024-W48",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -64889,7 +64995,7 @@
       {
         "week": "2026-W09",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 4
@@ -64985,7 +65091,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 36,
+        "BioMar": 37,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -64998,7 +65104,7 @@
       },
       {
         "company": "BioMar",
-        "count": 693
+        "count": 696
       },
       {
         "company": "Cargill",
