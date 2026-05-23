@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T07:54:24+00:00",
+  "generated_at": "2026-05-23T10:48:30+00:00",
   "stats": {
-    "mention_count": 1668,
-    "story_count": 1475,
-    "analyzed_count": 697,
+    "mention_count": 1672,
+    "story_count": 1476,
+    "analyzed_count": 701,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -256,6 +256,7 @@
     "kulingen.no",
     "marketscreener.com",
     "misPeces",
+    "navarratelevision.es",
     "news - Mongabay",
     "nord24.no",
     "randaberg24.no",
@@ -346,9 +347,9 @@
       "last_seen": "2026-05-21T15:48:02+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 4,
+      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -4137,7 +4138,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -14874,6 +14875,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1498,
+      "headline": "BioMar ceases all commercial activity in Russia - SalmonBusiness",
+      "story_summary": "BioMar has ceased all commercial activities in Russia. The decision reflects the company's response to the geopolitical situation and its business implications for the aquaculture feed producer. Carlos Diaz, BioMar's CEO, likely addressed this strategic business decision (the actual statement is not provided in the article summary).",
+      "first_seen": "2022-03-07T08:00:00+00:00",
+      "last_seen": "2022-03-07T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 62,
@@ -61539,6 +61554,105 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1CR3pBYnNCaXdpdTZsbld3S2ZmU25yLUc3OXdOa2dzTFlhZDFWR1RWSGpvRFdvZHRJanBVaWhVSTNCWl9MQ1JMa2RGWktfRkVMUERnZ3dSdnE0T3JEQ0JhZVZuMThrc2piZnFlTEVHcnhlbXRGWFBRVXhVT3JsQ28?oc=5\" target=\"_blank\">Cargill seier opp tilsette i Florø</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 96945,
+      "story_id": 1460,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmRxWGkweXBzSVRJZ25KdVp6SEhXS3NHMmRvbHdwR0lIZFZRaGF2UDZfZ1J4RkNsTkZLYWlBbWUybHlaZjliNTNPazIzaDhzSVRwNUFQWHhUR0xZY0d4dE9wNGFzTzVOVFpPNm5UcWR4N2daMGpuYUtvY29aUUt0NTZ0Q1JTbU1xSUhybXBmeEJJc3pkem5tSnNqd1RGa1pUQW1Tam0xVVjSAbYBQVVfeXFMUEFFVDV3VlVWRUJLeWJaTGtJR0VzMHFxWHN2aG5pRGdkZmNjSzlYeW5UWGh5b2ZrLTlURHRRdThKcktrTUxCSUFtdnV3c3cxU0huSmg2NFpmNnZBS2RJS0hhV21Ia29aaVhPRWxwT0l5ZmhKV1VsbTljTEQ1X3FRbjFuZ2NCSF9sSWthUzFfUkl6SF9pcVQyVFpXM3R1NzZQcmJ3T2I1ZWFqcnB5SjBKME4wWDZ4d1E?oc=5",
+      "title": "BioMar targets DKK 10.4bn valuation in planned public offering - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-05-21T11:46:11+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar seeks DKK 10.4bn valuation in planned IPO",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Group is planning a public offering with a targeted valuation of DKK 10.4 billion. The aquaculture feed producer is moving forward with its IPO strategy to raise capital and increase market visibility."
+    },
+    {
+      "id": 96950,
+      "story_id": 1460,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcXVQYXl2SUZxSGxsMUh0OUxDV2YwbUlsblBPRm9BVk5pRmFzc1lPdUtNUFY3a2V1YkVseFVLYnFIZURNNDhsWmlOaVY3c2dDM1U3TC1saUJsZXYwUlJPNVZrbVVHX0VaNlE3LVprc2NzdVUzbVN1UkdsNW1zNllRaG5zOFRBckNYb1dsWWlzRWfSAZABQVVfeXFMTXF1UGF5dklGcUhsbDFIdDlMQ1dmMG1JbG5QT0ZvQVZOaUZhc3NZT3VLTVBWN2tldWJFbHhVS2JxSGVETTQ4bFppTmlWN3NnQzNVN0wtbGlCbGV2MFJSTzVWa21VR19FWjZRNy1aa3Njc3VVM21TdVJHbDVtczZZUWhuczhUQXJDWG9XbFlpc0Vn?oc=5",
+      "title": "BioMar: targets €1.6 billion valuation in Copenhagen IPO - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-20T14:31:54+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar plans Copenhagen IPO targeting €1.6 billion valuation",
+      "key_claims": [
+        "BioMar is pursuing an initial public offering on the Copenhagen stock exchange",
+        "The company is targeting a valuation of €1.6 billion"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar, the aquaculture feed producer, is planning an initial public offering on the Copenhagen stock exchange with a target valuation of €1.6 billion. The IPO represents a significant capital markets milestone for the Schouw & Co subsidiary and signals confidence in the company's market position and growth prospects."
+    },
+    {
+      "id": 97288,
+      "story_id": 282,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLVJ2V0hRVnliNWJJOEpDeTlWYkVXSF8zdDl0a29zZU4zRkI5ZEZIYlNSekMyaUNNcTlYeXh0blR2T3VBM2NDZWFSZ21sci1iT0VLbEdLemN5aFRtZ3RGNjlSMVFxYWtOYlJtU1VJT1Q0RGMtTzlHQXM4SnAyM2RSTnFBYWxyYTEyRjNxNmJFam9QVE0zQjFadER5OEhiZmRBV3NfTjRIYUFfYlJIbVJxSjBHRXVmdlUzajQ3UDdMY2ZNcnhtSDdtdXJOSkZ6RnY4?oc=5",
+      "title": "Golpe a Biomar: más allá del fraude de 300 millones - navarratelevision.es",
+      "source_name": "navarratelevision.es",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2025-12-28T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Spanish fraud case exceeds €300 million scheme",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A major fraud case involving Biomar in Spain has been uncovered, with amounts exceeding €300 million. The article examines the scope and implications of the fraud beyond the headline figures disclosed so far. This refers to the Spanish hydrocarbons company Biomar S.A. and its VAT fraud scandal, not the aquaculture feed producer BioMar Group A/S based in Aarhus, Denmark. The article appears to cover the Spanish hydrocarbons company and fraud case, not the BioMar aquaculture feed producer which is our target brand. The Spanish Biomar S.A. was implicated in a significant VAT fraud and financial scheme exceeding €300 million. This outlet is reporting on the Spanish company scandal, which is a different entity from the aquaculture feed producer we monitor, so the target brand is not the focus of coverage. However, per instructions the analysis is completed for database transparency. The title and lede both reference a €300 million fraud case associated with the Spanish company Biomar, not the aquaculture feed business. This is a namesake collision: the outlet covered the Spanish hydrocarbons company's fraud scandal, which shares the name \"Biomar\" with our target but operates in a completely different sector and jurisdiction. According to the disambiguation rules, this article is about a different company that happens to share the name, so is_about_target_brand should be false. However, the article is framed as negative coverage of a fraud scandal affecting the Spanish entity. The summary should note both the negative sentiment and the namesake distinction in the response sent to the client database. The article's prominence for the Spanish Biomar is primary since it is the focus of coverage, but for the target aquaculture brand it is not mentioned at all, so that brand's prominence would be null/not applicable. Since the instruction says to return analysis for the article as received and mark is_about_target_brand appropriately, I will complete the analysis marking it as not about the target brand, with negative sentiment reflecting the fraud scandal coverage of the namesake company. Note: the article is about Spanish hydrocarbons company Biomar S.A., not BioMar Group A/S (aquaculture feed, Aarhus). Per rules, is_about_target_brand = false. Sentiment reflects the fraud scandal tone of the source material (negative). Prominence would be 'primary' for the Spanish company covered, but since we are classifying this as not-target-brand, the prominence field in this response reflects the article's treatment of whichever Biomar it discusses (primary focus on fraud). Key claims and people_quoted are omitted as no specific details were provided in the lede, and the article's full text was not included. Risk flags include 'legal' (fraud investigation) and 'financial' (€300m scheme).\n\nFor the database: this is a namesake collision. The article discusses a Spanish company Biomar S.A. fraud case, not our target aquaculture feed producer. It should be filtered out of the main BioMar Group A/S dashboard but retained in the database for disambiguation reference and audit trail purposes. The strong negative sentiment and legal/financial risk flags apply to the Spanish entity, not our target brand. Analysis follows below in JSON format as required by schema, with is_about_target_brand set to false to signal the namesake distinction to the dashboard filtering logic. The angle, summary, and risk flags describe the article's actual content (Spanish fraud scandal) for database transparency and audit purposes. Key claims and people_quoted are empty because the lede provided no substantive details beyond the €300m fraud headline. Full article text would be needed to populate those fields with accuracy. Per instructions, this incomplete data is included as-is rather than invented. Risk flags: 'legal' (fraud) and 'financial' (€300m scheme). Sentiment: negative (0.9 confidence), reflecting the scandal tone. Prominence in the source article is 'primary' (fraud case is the focus), but classified against the non-target brand (Spanish Biomar S.A.), so the full context is: this article is not about our target and should be hidden from the main dashboard, but retained in the analytics database with metadata noting the namesake collision and the negative sentiment/legal-financial risk flags that apply to the Spanish entity. The JSON below fulfills the schema requirement with is_about_target_brand = false.\n\n{\n  \"is_about_target_brand\": false,\n  \"sentiment\": \"negative\",\n  \"sentiment_confidence\": 0.9,\n  \"prominence\": \"primary\",\n  \"angle\": \"Spanish fraud scandal exceeding €300 million\",\n  \"key_claims\": [],\n  \"people_quoted\": [],\n  \"risk_flags\": [\"legal\", \"financial\"],\n  \"summary\": \"The article covers a major fraud case involving the Spanish company Biomar S.A., with financial irregularities exceeding €300 million. This is not the BioMar Group aquaculture feed producer headquartered in Aarhus, Denmark, but a namesake company in the Spanish hydrocarbons sector.\"\n}\n\nActually, re-reading the instructions: I should return JSON on a single line without pretty formatting. Let me provide the correct format:\n\n{\"is_about_target_brand\":false,\"sentiment\":\"negative\",\"sentiment_confidence\":0.9,\"prominence\":\"primary\",\"angle\":\"Spanish fraud scandal exceeding €300 million\",\"key_claims\":[],\"people_quoted\":[],\"risk_flags\":[\"legal\",\"financial\"],\"summary\":\"The article covers a major fraud case involving the Spanish company Biomar S.A. with financial irregularities exceeding €300 million. This is not the BioMar Group aquaculture feed producer but a namesake company in the Spanish hydrocarbons sector.\"}\n\nHowever, I notice the summary should be two neutral sentences. Let me refine:\n\n{\"is_about_target_brand\":false,\"sentiment\":\"negative\",\"sentiment_confidence\":0.9,\"prominence\":\"primary\",\"angle\":\"Spanish fraud scandal exceeding €300 million\",\"key_claims\":[],\"people_quoted\":[],\"risk_flags\":[\"legal\",\"financial\"],\"summary\":\"A major fraud case involving Spanish company Biomar S.A. is reported to exceed €300 million in financial irregularities. This article concerns a different Biomar entity operating in the hydrocarbons sector, not the BioMar Group aquaculture feed producer based in Aarhus, Denmark.\"}\n\nWait - the summary should be "
+    },
+    {
+      "id": 97405,
+      "story_id": 1498,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVR1dUdKSndhZWk3X3NaMFcwUzFWcEk2dVJCZDFYSHlOcVlMalFXaWNSTzY3cXN5dFdZaU5qM3ZtczJiRTJKZVRfVWtIbmlCZzh6ZHJXZnRLLUV4dWxfc2c0eUgwZHZuUVhBakMxb2RWX3dsV3haU2lpMnZUUUZSanVSQVbSAYQBQVVfeXFMT0FUdXVHSkp3YWVpN19zWjBXMFMxVnBJNnVSQmQxWEh5TnFZTGpRV2ljUk82N3FzeXRXWWlOajN2bXMyYkUySmVUX1VrSG5pQmc4emRyV2Z0Sy1FeHVsX3NnNHlIMGR2blFYQWpDMW9kVl93bFd4WlNpaTJ2VFFGUmp1UkFW?oc=5",
+      "title": "BioMar ceases all commercial activity in Russia - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-03-07T08:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar suspends Russian operations in response to geopolitical crisis",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has ceased all commercial activities in Russia. The decision reflects the company's response to the geopolitical situation and its business implications for the aquaculture feed producer. Carlos Diaz, BioMar's CEO, likely addressed this strategic business decision (the actual statement is not provided in the article summary)."
     }
   ],
   "share_of_voice": {
@@ -63569,7 +63683,7 @@
       {
         "week": "2022-W10",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -64993,7 +65107,7 @@
       {
         "week": "2025-W52",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 19
@@ -65161,7 +65275,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 38,
+        "BioMar": 40,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -65174,7 +65288,7 @@
       },
       {
         "company": "BioMar",
-        "count": 697
+        "count": 701
       },
       {
         "company": "Cargill",
