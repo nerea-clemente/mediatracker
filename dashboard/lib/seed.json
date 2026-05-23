@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T10:48:30+00:00",
+  "generated_at": "2026-05-23T17:02:26+00:00",
   "stats": {
-    "mention_count": 1672,
-    "story_count": 1476,
-    "analyzed_count": 701,
+    "mention_count": 1674,
+    "story_count": 1478,
+    "analyzed_count": 702,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -206,6 +206,7 @@
     "The Fish Site",
     "The Food Tech",
     "The Guardian Nigeria News",
+    "The Lethbridge Herald",
     "The Local Norway",
     "The Manila Times",
     "The New Times",
@@ -269,6 +270,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1500,
+      "headline": "Skretting took being the Polytech grad’s valedictorian as a ‘big surprise’ - The Lethbridge Herald",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPS2x0T0lRTmxMSzRranQxalNHWE9ZdGdTX2hsd0xnaU9rLTgtSXlVYVdGWEVuUDRZUkJVbmNSeDVrcHFfdGtRLVBScVRFM1BGNHlQT3ZfRnZfT1l3a2p0RmlQQ0FyN3hZSXB2N3VOdGx2X0I2cHc4U0dqSEdXZjNxdE5EWlRLR0xaQm9BRV9Xa3A0SEhwM0hKblJVSG5lUVNONmJiX01zMEh2d2REa1J5d2pyWE55Y09OZGltNGxQMDduYWJTX1pLYlJOYmJkZw?oc=5\" target=\"_blank\">Skretting took being the Polytech grad’s valedictorian as a ‘big surprise’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Lethbridge Herald</font>",
+      "first_seen": "2026-05-23T12:32:17+00:00",
+      "last_seen": "2026-05-23T12:32:17+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 1493,
       "headline": "BioMar Group A/S : Precios y Cotizaciones, Precio BIOMAR Bolsa Nasdaq Copenhagen - MarketScreener España",
@@ -7954,6 +7969,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1499,
+      "headline": "Why BioMar is quietly adding this ingredient to every salmon feed - SalmonBusiness",
+      "story_summary": "SalmonBusiness reports that BioMar is incorporating a new ingredient into its salmon feed formulations. The article suggests this is a noteworthy development in the company's product strategy, though specific details about the ingredient and rationale are not disclosed in the available summary.",
+      "first_seen": "2025-07-08T07:00:00+00:00",
+      "last_seen": "2025-07-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 197,
@@ -61653,6 +61682,57 @@
         "none"
       ],
       "summary": "BioMar has ceased all commercial activities in Russia. The decision reflects the company's response to the geopolitical situation and its business implications for the aquaculture feed producer. Carlos Diaz, BioMar's CEO, likely addressed this strategic business decision (the actual statement is not provided in the article summary)."
+    },
+    {
+      "id": 98066,
+      "story_id": 1499,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelNlU3QwYkJDNTdqOVZXQkJ1WlhfMl9nd1lwOFUxQ0RJVzJia2Nlamo4MTlFb3VveldlR3o5RG1aNnhHNy1mTTFmTnVyVWRuQTRhUTlVbFJHek1pV3JVdkRKODMxanRkd2J5Z1hiUGVING5ac1I4YXB0amZvdWFPWlR1ZEd4VzluTDhTNWliVllfTUt4RHVPaktlVlJ4QdIBngFBVV95cUxNelNlU3QwYkJDNTdqOVZXQkJ1WlhfMl9nd1lwOFUxQ0RJVzJia2Nlamo4MTlFb3VveldlR3o5RG1aNnhHNy1mTTFmTnVyVWRuQTRhUTlVbFJHek1pV3JVdkRKODMxanRkd2J5Z1hiUGVING5ac1I4YXB0amZvdWFPWlR1ZEd4VzluTDhTNWliVllfTUt4RHVPaktlVlJ4QQ?oc=5",
+      "title": "Why BioMar is quietly adding this ingredient to every salmon feed - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-07-08T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.7,
+      "prominence": "primary",
+      "angle": "BioMar incorporating new ingredient into salmon feed formulation",
+      "key_claims": [
+        "BioMar is adding a new ingredient to salmon feed products",
+        "The ingredient addition is being implemented across their salmon feed range"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "SalmonBusiness reports that BioMar is incorporating a new ingredient into its salmon feed formulations. The article suggests this is a noteworthy development in the company's product strategy, though specific details about the ingredient and rationale are not disclosed in the available summary."
+    },
+    {
+      "id": 98486,
+      "story_id": 1500,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS2x0T0lRTmxMSzRranQxalNHWE9ZdGdTX2hsd0xnaU9rLTgtSXlVYVdGWEVuUDRZUkJVbmNSeDVrcHFfdGtRLVBScVRFM1BGNHlQT3ZfRnZfT1l3a2p0RmlQQ0FyN3hZSXB2N3VOdGx2X0I2cHc4U0dqSEdXZjNxdE5EWlRLR0xaQm9BRV9Xa3A0SEhwM0hKblJVSG5lUVNONmJiX01zMEh2d2REa1J5d2pyWE55Y09OZGltNGxQMDduYWJTX1pLYlJOYmJkZw?oc=5",
+      "title": "Skretting took being the Polytech grad’s valedictorian as a ‘big surprise’ - The Lethbridge Herald",
+      "source_name": "The Lethbridge Herald",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-23T12:32:17+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPS2x0T0lRTmxMSzRranQxalNHWE9ZdGdTX2hsd0xnaU9rLTgtSXlVYVdGWEVuUDRZUkJVbmNSeDVrcHFfdGtRLVBScVRFM1BGNHlQT3ZfRnZfT1l3a2p0RmlQQ0FyN3hZSXB2N3VOdGx2X0I2cHc4U0dqSEdXZjNxdE5EWlRLR0xaQm9BRV9Xa3A0SEhwM0hKblJVSG5lUVNONmJiX01zMEh2d2REa1J5d2pyWE55Y09OZGltNGxQMDduYWJTX1pLYlJOYmJkZw?oc=5\" target=\"_blank\">Skretting took being the Polytech grad’s valedictorian as a ‘big surprise’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Lethbridge Herald</font>"
     }
   ],
   "share_of_voice": {
@@ -64915,7 +64995,7 @@
       {
         "week": "2025-W28",
         "Aller Aqua": 0,
-        "BioMar": 7,
+        "BioMar": 8,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 5
@@ -65278,7 +65358,7 @@
         "BioMar": 40,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       }
     ],
     "totals": [
@@ -65288,7 +65368,7 @@
       },
       {
         "company": "BioMar",
-        "count": 701
+        "count": 702
       },
       {
         "company": "Cargill",
@@ -65300,7 +65380,7 @@
       },
       {
         "company": "Skretting",
-        "count": 586
+        "count": 587
       }
     ]
   }
