@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-22T22:54:07+00:00",
+  "generated_at": "2026-05-23T07:54:24+00:00",
   "stats": {
-    "mention_count": 1666,
-    "story_count": 1474,
-    "analyzed_count": 696,
+    "mention_count": 1668,
+    "story_count": 1475,
+    "analyzed_count": 697,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -348,7 +348,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -18112,6 +18112,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1497,
+      "headline": "Cargill seier opp tilsette i Florø - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1CR3pBYnNCaXdpdTZsbld3S2ZmU25yLUc3OXdOa2dzTFlhZDFWR1RWSGpvRFdvZHRJanBVaWhVSTNCWl9MQ1JMa2RGWktfRkVMUERnZ3dSdnE0T3JEQ0JhZVZuMThrc2piZnFlTEVHcnhlbXRGWFBRVXhVT3JsQ28?oc=5\" target=\"_blank\">Cargill seier opp tilsette i Florø</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2018-05-09T07:00:00+00:00",
+      "last_seen": "2018-05-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1416,
@@ -61477,6 +61491,54 @@
         "none"
       ],
       "summary": "Schouw & Co. announced its share buyback programme activities for week 8 of 2026. The article is a routine corporate disclosure of repurchase activity during the specified reporting period."
+    },
+    {
+      "id": 95918,
+      "story_id": 1460,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcXVQYXl2SUZxSGxsMUh0OUxDV2YwbUlsblBPRm9BVk5pRmFzc1lPdUtNUFY3a2V1YkVseFVLYnFIZURNNDhsWmlOaVY3c2dDM1U3TC1saUJsZXYwUlJPNVZrbVVHX0VaNlE3LVprc2NzdVUzbVN1UkdsNW1zNllRaG5zOFRBckNYb1dsWWlzRWfSAZgBQVVfeXFMTXJCTkxhaUR5N0o1ejFSaEpOVkFiM19KbnpZVm1fSENpX1M3YWdYaW5SVExsNjU5bmdDeU16NTFpcTVyajVTLUdlVDlYWXNZc3ByRklxdmpLTlpvWllJLUVnd1lKblJucGhRTTBuV2dydHp3NGdxbXA0ZWZLeXAtQjNaaVBWVnJxMldVQVRSNTRpZU1XYWhIZmo?oc=5",
+      "title": "BioMar: targets €1.6 billion valuation in Copenhagen IPO - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-20T14:37:34+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "BioMar pursues Copenhagen IPO with €1.6 billion valuation target",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is targeting a €1.6 billion valuation for an initial public offering on the Copenhagen stock exchange. The move represents a significant milestone for the aquaculture feed producer, signalling confidence in its market position and growth prospects within the European capital markets ecosystem."
+    },
+    {
+      "id": 96874,
+      "story_id": 1497,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CR3pBYnNCaXdpdTZsbld3S2ZmU25yLUc3OXdOa2dzTFlhZDFWR1RWSGpvRFdvZHRJanBVaWhVSTNCWl9MQ1JMa2RGWktfRkVMUERnZ3dSdnE0T3JEQ0JhZVZuMThrc2piZnFlTEVHcnhlbXRGWFBRVXhVT3JsQ28?oc=5",
+      "title": "Cargill seier opp tilsette i Florø - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-05-09T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1CR3pBYnNCaXdpdTZsbld3S2ZmU25yLUc3OXdOa2dzTFlhZDFWR1RWSGpvRFdvZHRJanBVaWhVSTNCWl9MQ1JMa2RGWktfRkVMUERnZ3dSdnE0T3JEQ0JhZVZuMThrc2piZnFlTEVHcnhlbXRGWFBRVXhVT3JsQ28?oc=5\" target=\"_blank\">Cargill seier opp tilsette i Florø</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
     }
   ],
   "share_of_voice": {
@@ -62509,6 +62571,14 @@
         "Aller Aqua": 0,
         "BioMar": 1,
         "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2018-W19",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -65091,7 +65161,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 37,
+        "BioMar": 38,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -65104,11 +65174,11 @@
       },
       {
         "company": "BioMar",
-        "count": 696
+        "count": 697
       },
       {
         "company": "Cargill",
-        "count": 228
+        "count": 229
       },
       {
         "company": "Polarfeed",
