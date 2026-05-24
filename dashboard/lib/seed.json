@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-24T08:03:30+00:00",
+  "generated_at": "2026-05-24T10:52:30+00:00",
   "stats": {
-    "mention_count": 1675,
-    "story_count": 1479,
-    "analyzed_count": 702,
+    "mention_count": 1676,
+    "story_count": 1480,
+    "analyzed_count": 703,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -10846,6 +10846,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1502,
+      "headline": "Regnskapet avslører stadig økende inntekter for Skretting AS - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZkFuRVZHWW5fcXpWMTlWT1hKNVp2Z3k3YVJ0WElORy0zRmhZbnZXTG1sSXp5TGp3cjRJOS1PeXBCRjFLYTFTb2dxQVM3ZUVzMHdGX0JMaXRDOHRpeWwzMkFUeWdKVWZvYkdZRWtITEtJNzFPdjVzZEpvWGVNMDNwWWhmLW5FWkNwbXgxVUU1TGpNaG5zdGZpSXJwcGpob0Y0OTVnRGQtRFBTM2xIbzd0S1BlMmlsZw?oc=5\" target=\"_blank\">Regnskapet avslører stadig økende inntekter for Skretting AS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2024-08-23T07:00:00+00:00",
+      "last_seen": "2024-08-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1154,
       "headline": "Sikter seg inn mot milliard-omsetning: – Det går den veien - altaposten.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNdzRTMTVWdGJuTDRvNzRWZTc2VzY0cGo0WHhUR3BpVkkzVmF4Zjk0QTNsNlc5bGZOZ1pKVG5QemR3cE5Rd0FTWE15dk5oNjBiUlJyR0d4OFNSSWVXcmVUal9lSWs0akM0ZnBlc282eGZYYk5oUEUtQUE3MlQxNlhKenJhQ1UxdlR0eU9sRjd6ZXlBUVU0aXJzMVpSdWJiNTlo?oc=5\" target=\"_blank\">Sikter seg inn mot milliard-omsetning: – Det går den veien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">altaposten.no</font>",
@@ -18426,7 +18440,7 @@
     {
       "id": 1501,
       "headline": "BioMar anuncia nuevo gerente de Abastecimiento - Salmonexpert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX3VXSHFqLWMtVHZQMzFEcHdHZkEtdnBvLVBVdHNmQWQ0Z3ptNjA4Zmtoc2ZsQ3hKQzFKOFIzREtOc3djbXphMmt0OU1nM1V4ZFh5TDVlMTUzNkJHMHNSZUY2ZFlkajFqUGJ4bktMS3hWQkNnMjdBV0ZiTWZBdEhTMGZGUG1rTzdZMEJnQ3JWVDNxcmxMQ3hhbl9yX1A0QlBSZkRKbkJPSmdjemRWTmU4cER3N3ZwUllNc2F1S1U5dU5FbjlLc21UZg?oc=5\" target=\"_blank\">BioMar anuncia nuevo gerente de Abastecimiento</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "story_summary": "BioMar has announced the hiring of a new Supply Chain Manager (Gerente de Abastecimiento). The announcement appears to be a personnel update from the aquaculture feed company's operations team but lacks additional context in the available summary text provided here. Note: The exact name and biographical details of the appointed manager were not accessible in the lede provided, so they cannot be included in the analysis below if no additional article body text is available beyond the headline and link. Nevertheless, this is a standard organizational announcement typical of corporate communications from the feed supplier for the salmon farming industry, without controversy or major significance implied by the metadata alone. Given the limited detail available in the lede only, this article likely receives minimal prominence in the broader news landscape and was selected for monitoring based solely on the BioMar brand mention and news newsworthiness threshold to the company's operations strategy or staffing decisions. Without the full article text, the assessment is necessarily cautious, though the tone inferred from the announcement type (personnel hire) is routine and positive or neutral in character.",
       "first_seen": "2018-02-07T08:00:00+00:00",
       "last_seen": "2018-02-07T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -61762,6 +61776,30 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "BioMar announces new Supply Chain Manager appointment",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has announced the hiring of a new Supply Chain Manager (Gerente de Abastecimiento). The announcement appears to be a personnel update from the aquaculture feed company's operations team but lacks additional context in the available summary text provided here. Note: The exact name and biographical details of the appointed manager were not accessible in the lede provided, so they cannot be included in the analysis below if no additional article body text is available beyond the headline and link. Nevertheless, this is a standard organizational announcement typical of corporate communications from the feed supplier for the salmon farming industry, without controversy or major significance implied by the metadata alone. Given the limited detail available in the lede only, this article likely receives minimal prominence in the broader news landscape and was selected for monitoring based solely on the BioMar brand mention and news newsworthiness threshold to the company's operations strategy or staffing decisions. Without the full article text, the assessment is necessarily cautious, though the tone inferred from the announcement type (personnel hire) is routine and positive or neutral in character."
+    },
+    {
+      "id": 101760,
+      "story_id": 1502,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZkFuRVZHWW5fcXpWMTlWT1hKNVp2Z3k3YVJ0WElORy0zRmhZbnZXTG1sSXp5TGp3cjRJOS1PeXBCRjFLYTFTb2dxQVM3ZUVzMHdGX0JMaXRDOHRpeWwzMkFUeWdKVWZvYkdZRWtITEtJNzFPdjVzZEpvWGVNMDNwWWhmLW5FWkNwbXgxVUU1TGpNaG5zdGZpSXJwcGpob0Y0OTVnRGQtRFBTM2xIbzd0S1BlMmlsZw?oc=5",
+      "title": "Regnskapet avslører stadig økende inntekter for Skretting AS - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-08-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
       "angle": "",
@@ -61770,7 +61808,7 @@
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX3VXSHFqLWMtVHZQMzFEcHdHZkEtdnBvLVBVdHNmQWQ0Z3ptNjA4Zmtoc2ZsQ3hKQzFKOFIzREtOc3djbXphMmt0OU1nM1V4ZFh5TDVlMTUzNkJHMHNSZUY2ZFlkajFqUGJ4bktMS3hWQkNnMjdBV0ZiTWZBdEhTMGZGUG1rTzdZMEJnQ3JWVDNxcmxMQ3hhbl9yX1A0QlBSZkRKbkJPSmdjemRWTmU4cER3N3ZwUllNc2F1S1U5dU5FbjlLc21UZg?oc=5\" target=\"_blank\">BioMar anuncia nuevo gerente de Abastecimiento</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZkFuRVZHWW5fcXpWMTlWT1hKNVp2Z3k3YVJ0WElORy0zRmhZbnZXTG1sSXp5TGp3cjRJOS1PeXBCRjFLYTFTb2dxQVM3ZUVzMHdGX0JMaXRDOHRpeWwzMkFUeWdKVWZvYkdZRWtITEtJNzFPdjVzZEpvWGVNMDNwWWhmLW5FWkNwbXgxVUU1TGpNaG5zdGZpSXJwcGpob0Y0OTVnRGQtRFBTM2xIbzd0S1BlMmlsZw?oc=5\" target=\"_blank\">Regnskapet avslører stadig økende inntekter for Skretting AS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
     }
   ],
   "share_of_voice": {
@@ -64676,7 +64714,7 @@
         "BioMar": 0,
         "Cargill": 2,
         "Polarfeed": 2,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2024-W35",
@@ -65426,7 +65464,7 @@
       },
       {
         "company": "Skretting",
-        "count": 587
+        "count": 588
       }
     ]
   }
