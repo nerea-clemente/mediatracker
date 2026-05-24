@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-24T17:04:50+00:00",
+  "generated_at": "2026-05-24T22:55:01+00:00",
   "stats": {
-    "mention_count": 1677,
-    "story_count": 1481,
-    "analyzed_count": 704,
+    "mention_count": 1680,
+    "story_count": 1483,
+    "analyzed_count": 705,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -91,6 +91,7 @@
     "Fisk.no",
     "Fiskeribladet",
     "Food Business Middle East & Africa",
+    "Food Dive",
     "FoodChain Magazine",
     "Forbes Ecuador",
     "Forsvarets forskningsinstitutt (FFI)",
@@ -622,6 +623,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1505,
+      "headline": "BIOMAR GROUP: IPO-PRISINTERVALL DKK 100-108/AKSJE, VERDSETTES TIL CA. DKK 10,4 MDR - Finansavisen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzlJTnJYNXAyTnJSTWZHLVYtQnhaeDBKUU9XaER0MWxHLXJVTlZNeXoxWUpWRXhDV00xdmtxLUg5MDQ0MWpZeW15cy04VTNyQmU1TVZITDBrOUlxNXNNTldUZHpNaElJeHpsMm44N2MxWUxyUmRBVnM0ZEJRWXVSUzVUbjVRWEh0d1VXYTR2U3U4WENZSnRqZHhUT2JHYW5GVFFFc2JCMWFfdF9FX0trclhoVHI2X3E1YjBfMl9ieXhBb2Q5c0RVSVd1S0E?oc=5\" target=\"_blank\">BIOMAR GROUP: IPO-PRISINTERVALL DKK 100-108/AKSJE, VERDSETTES TIL CA. DKK 10,4 MDR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+      "first_seen": "2026-05-19T06:13:28+00:00",
+      "last_seen": "2026-05-19T06:13:28+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1449,
       "headline": "Schouw & Co Announces Indicative Price Range For Biomar IPO - TradingView",
       "story_summary": "Schouw & Co has announced an indicative price range for the planned initial public offering of its BioMar subsidiary. The announcement marks a significant step in the parent company's plan to take the aquaculture feed producer public on the stock market.",
@@ -637,15 +652,15 @@
     },
     {
       "id": 1448,
-      "headline": "Publication of Offering Circular and indicative price range for the Initial Public Offering of the shares of BioMar Group A/S on Nasdaq Copenhagen - The Manila Times",
-      "story_summary": "BioMar Group A/S has published an Offering Circular and indicative price range for its Initial Public Offering on Nasdaq Copenhagen. The IPO represents a significant corporate action for the aquaculture feed producer and its parent company Schouw & Co.",
-      "first_seen": "2026-05-19T05:59:50+00:00",
+      "headline": "Publication of Offering Circular and indicative price range for the Initial Public Offering of the shares of BioMar Group A/S on Nasdaq Copenhagen - NTB Kommunikasjon",
+      "story_summary": "BioMar Group A/S has published its offering circular and released an indicative price range for its initial public offering on Nasdaq Copenhagen. The announcement marks a significant corporate milestone for the aquaculture feed producer as it moves toward listing its shares publicly.",
+      "first_seen": "2026-05-19T05:53:02+00:00",
       "last_seen": "2026-05-19T05:59:50+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -20052,6 +20067,20 @@
       "id": 1013,
       "headline": "Cargill lands fish feed maker Ewos amid growing demand for salmon - London Evening Standard",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkJrRTJSQ2Rhc2dEQ2NhWm9FM2NDb2lZSHBQMUxoa1dlOGM3eVRYX0YtV1hla2RZWVZrZW9nYmI4ck1CS1FScC1Da3ZTVVlJRjRmTDhhR0J0SmF4UDlsSmdSZGQ1UGtscUdIczhwdlB2U0hrMHRyWjZ6LWZldGU2dG5Rb3JFbl96ZnJhRi01MXhBVG5DN1ZCUHBhMkZ2aVVGeE5hdW5RMFFidE94di0wTXdEY3JmbDYwS2NhdVBDMEw4M0xoMGc?oc=5\" target=\"_blank\">Cargill lands fish feed maker Ewos amid growing demand for salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London Evening Standard</font>",
+      "first_seen": "2015-08-17T07:00:00+00:00",
+      "last_seen": "2015-08-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1504,
+      "headline": "Cargill acquires Norwegian aquaculture company for $1.5B - Food Dive",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORFpibi1rMGJxRE1MYTZjMEItRW41TGZKQlNDbTExSGR2X1drM1FqM2NEWDFZOTZQeV8wVkNGZGJ1VjEzQTZXY0ZZU0Y5bVI4OG9XRXd5OTRqU1Jyd2pXY3QxSVg0MUJfSnh1WmN0Ukx5UkhzV2QyTk9MNktjeHlSd3J1aGlLMDZKTGtwcWM4QnZiTDF6MVhV?oc=5\" target=\"_blank\">Cargill acquires Norwegian aquaculture company for $1.5B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Food Dive</font>",
       "first_seen": "2015-08-17T07:00:00+00:00",
       "last_seen": "2015-08-17T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -61847,6 +61876,78 @@
         "none"
       ],
       "summary": "Aktieselskabet Schouw is examined for valuation metrics as its subsidiary BioMar prepares for an initial public offering on Nasdaq Copenhagen. The article focuses primarily on Schouw's valuation while contextualizing BioMar's planned IPO as a significant corporate event for the parent company's portfolio restructuring and shareholder value creation strategies."
+    },
+    {
+      "id": 103172,
+      "story_id": 1448,
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOR1ZKZlRVNnlJT2tUZlBPS01qSzNGWndpS2I0M2l6QndYbXQ3MHZyaGF6cC1BOXdMdWI3b3dnOS1qQ0R2cVl6U2lRQTZhME42WmdDNTBFbUREZXUwRF9jdHJRNHBuald3VFl2TEd4QnltOTg2emM5WUY3cURlMTcyWGRGUmRZZDJZdE1HX1V1VENQdHlCc1hhYXhxSlA1WHRlZmpMdTJvYTNrV1gyNnF1OFpoVVNiNWRFUGZwX1Q3S3NvTGVsUWFrcFlBM2ZSWjZMckxVZG9Lb09qUzZXOUNpOHd0c1V5NTJqbURjX203VUZwU2FKM3Zqd3lQMG5wNWxIOHBxVUp2cmNOZlN5b292LWd1eFRlbk11bzQ3a2pBYnZONkJ4NDE1bU91LVFBN3pvdXFWakZndTFqb3RpNnRyV3k2X0hSamht?oc=5",
+      "title": "Publication of Offering Circular and indicative price range for the Initial Public Offering of the shares of BioMar Group A/S on Nasdaq Copenhagen - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2026-05-19T05:53:02+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar Group announces IPO offering circular and indicative price range",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Group A/S has published its offering circular and released an indicative price range for its initial public offering on Nasdaq Copenhagen. The announcement marks a significant corporate milestone for the aquaculture feed producer as it moves toward listing its shares publicly."
+    },
+    {
+      "id": 103224,
+      "story_id": 1505,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzlJTnJYNXAyTnJSTWZHLVYtQnhaeDBKUU9XaER0MWxHLXJVTlZNeXoxWUpWRXhDV00xdmtxLUg5MDQ0MWpZeW15cy04VTNyQmU1TVZITDBrOUlxNXNNTldUZHpNaElJeHpsMm44N2MxWUxyUmRBVnM0ZEJRWXVSUzVUbjVRWEh0d1VXYTR2U3U4WENZSnRqZHhUT2JHYW5GVFFFc2JCMWFfdF9FX0trclhoVHI2X3E1YjBfMl9ieXhBb2Q5c0RVSVd1S0E?oc=5",
+      "title": "BIOMAR GROUP: IPO-PRISINTERVALL DKK 100-108/AKSJE, VERDSETTES TIL CA. DKK 10,4 MDR - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-19T06:13:28+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzlJTnJYNXAyTnJSTWZHLVYtQnhaeDBKUU9XaER0MWxHLXJVTlZNeXoxWUpWRXhDV00xdmtxLUg5MDQ0MWpZeW15cy04VTNyQmU1TVZITDBrOUlxNXNNTldUZHpNaElJeHpsMm44N2MxWUxyUmRBVnM0ZEJRWXVSUzVUbjVRWEh0d1VXYTR2U3U4WENZSnRqZHhUT2JHYW5GVFFFc2JCMWFfdF9FX0trclhoVHI2X3E1YjBfMl9ieXhBb2Q5c0RVSVd1S0E?oc=5\" target=\"_blank\">BIOMAR GROUP: IPO-PRISINTERVALL DKK 100-108/AKSJE, VERDSETTES TIL CA. DKK 10,4 MDR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+    },
+    {
+      "id": 104051,
+      "story_id": 1504,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFpibi1rMGJxRE1MYTZjMEItRW41TGZKQlNDbTExSGR2X1drM1FqM2NEWDFZOTZQeV8wVkNGZGJ1VjEzQTZXY0ZZU0Y5bVI4OG9XRXd5OTRqU1Jyd2pXY3QxSVg0MUJfSnh1WmN0Ukx5UkhzV2QyTk9MNktjeHlSd3J1aGlLMDZKTGtwcWM4QnZiTDF6MVhV?oc=5",
+      "title": "Cargill acquires Norwegian aquaculture company for $1.5B - Food Dive",
+      "source_name": "Food Dive",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2015-08-17T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORFpibi1rMGJxRE1MYTZjMEItRW41TGZKQlNDbTExSGR2X1drM1FqM2NEWDFZOTZQeV8wVkNGZGJ1VjEzQTZXY0ZZU0Y5bVI4OG9XRXd5OTRqU1Jyd2pXY3QxSVg0MUJfSnh1WmN0Ukx5UkhzV2QyTk9MNktjeHlSd3J1aGlLMDZKTGtwcWM4QnZiTDF6MVhV?oc=5\" target=\"_blank\">Cargill acquires Norwegian aquaculture company for $1.5B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Food Dive</font>"
     }
   ],
   "share_of_voice": {
@@ -62270,7 +62371,7 @@
         "week": "2015-W34",
         "Aller Aqua": 0,
         "BioMar": 1,
-        "Cargill": 14,
+        "Cargill": 15,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -65477,7 +65578,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 41,
+        "BioMar": 43,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -65490,11 +65591,11 @@
       },
       {
         "company": "BioMar",
-        "count": 704
+        "count": 706
       },
       {
         "company": "Cargill",
-        "count": 229
+        "count": 230
       },
       {
         "company": "Polarfeed",
