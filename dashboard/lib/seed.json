@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-24T10:52:30+00:00",
+  "generated_at": "2026-05-24T17:04:50+00:00",
   "stats": {
-    "mention_count": 1676,
-    "story_count": 1480,
-    "analyzed_count": 703,
+    "mention_count": 1677,
+    "story_count": 1481,
+    "analyzed_count": 704,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -270,6 +270,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1503,
+      "headline": "A Look At Aktieselskabet Schouw (CPSE:SCHO) Valuation As It Prepares BioMar IPO On Nasdaq Copenhagen - simplywall.st",
+      "story_summary": "Aktieselskabet Schouw is examined for valuation metrics as its subsidiary BioMar prepares for an initial public offering on Nasdaq Copenhagen. The article focuses primarily on Schouw's valuation while contextualizing BioMar's planned IPO as a significant corporate event for the parent company's portfolio restructuring and shareholder value creation strategies.",
+      "first_seen": "2026-05-24T10:03:55+00:00",
+      "last_seen": "2026-05-24T10:03:55+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1500,
       "headline": "Skretting took being the Polytech grad’s valedictorian as a ‘big surprise’ - The Lethbridge Herald",
@@ -61809,6 +61823,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZkFuRVZHWW5fcXpWMTlWT1hKNVp2Z3k3YVJ0WElORy0zRmhZbnZXTG1sSXp5TGp3cjRJOS1PeXBCRjFLYTFTb2dxQVM3ZUVzMHdGX0JMaXRDOHRpeWwzMkFUeWdKVWZvYkdZRWtITEtJNzFPdjVzZEpvWGVNMDNwWWhmLW5FWkNwbXgxVUU1TGpNaG5zdGZpSXJwcGpob0Y0OTVnRGQtRFBTM2xIbzd0S1BlMmlsZw?oc=5\" target=\"_blank\">Regnskapet avslører stadig økende inntekter for Skretting AS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 102099,
+      "story_id": 1503,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQkNpRkJXVUNxWGpZZ3F1Z25PY0Fxa1BVNkxMdldRbEgxOWU0V3A1Y0hUdnZhbHdqSTIwb2VxRGw4UGc3bkFHWlNnTjk3THdsWmJqMFdlX1FaaFFucmxpU3FLemp6c3dqcFVTSGtXVWYzQXlfU1pqZ2t0TDdLUGdiWHgtcFpVYXpPRXV3RzBMTFFNeUxoc0JUOVExWUthWFI1RDR2dmhsOEE1S2hUcGtNNUZrMDJuOXdqRTc3R3YxVTB2aHBBVTZ0NjF6bUR6NFpDLTZ5cHZoNUJVZmVCZ00xdVFqR09pN2huNU1hREQyOUhvM0XSAfMBQVVfeXFMTUJDaUZCV1VDcVhqWWdxdWduT2NBcWtQVTZMTHZXUWxIMTllNFdwNWNIVHZ2YWx3akkyMG9lcURsOFBnN25BR1pTZ045N0x3bFpiajBXZV9RWmhRbnJsaVNxS3pqenN3anBVU0hrV1VmM0F5X1NaamdrdEw3S1BnYlh4LXBaVWF6T0V1d0cwTExRTXlMaHNCVDlRMVlLYVhSNUQ0dnZobDhBNUtoVHBrTTVGazAybjl3akU3N0d2MVUwdmhwQVU2dDYxem1EejRaQy02eXB2aDVCVWZlQmdNMXVRakdPaTdobjVNYUREMjlIbzNF?oc=5",
+      "title": "A Look At Aktieselskabet Schouw (CPSE:SCHO) Valuation As It Prepares BioMar IPO On Nasdaq Copenhagen - simplywall.st",
+      "source_name": "simplywall.st",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-05-24T10:03:55+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Schouw valuation assessment ahead of BioMar Nasdaq Copenhagen IPO",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Aktieselskabet Schouw is examined for valuation metrics as its subsidiary BioMar prepares for an initial public offering on Nasdaq Copenhagen. The article focuses primarily on Schouw's valuation while contextualizing BioMar's planned IPO as a significant corporate event for the parent company's portfolio restructuring and shareholder value creation strategies."
     }
   ],
   "share_of_voice": {
@@ -65439,7 +65477,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 40,
+        "BioMar": 41,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -65452,7 +65490,7 @@
       },
       {
         "company": "BioMar",
-        "count": 703
+        "count": 704
       },
       {
         "company": "Cargill",
