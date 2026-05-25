@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-24T22:55:01+00:00",
+  "generated_at": "2026-05-25T09:11:20+00:00",
   "stats": {
-    "mention_count": 1680,
-    "story_count": 1483,
-    "analyzed_count": 705,
+    "mention_count": 1683,
+    "story_count": 1485,
+    "analyzed_count": 709,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -277,6 +277,20 @@
       "story_summary": "Aktieselskabet Schouw is examined for valuation metrics as its subsidiary BioMar prepares for an initial public offering on Nasdaq Copenhagen. The article focuses primarily on Schouw's valuation while contextualizing BioMar's planned IPO as a significant corporate event for the parent company's portfolio restructuring and shareholder value creation strategies.",
       "first_seen": "2026-05-24T10:03:55+00:00",
       "last_seen": "2026-05-24T10:03:55+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1507,
+      "headline": "A Look At Aktieselskabet Schouw (CPSE:SCHO) Valuation As It Prepares BioMar IPO On Nasdaq Copenhagen - simplywall.st",
+      "story_summary": "The article examines Aktieselskabet Schouw's valuation as the company prepares to list its BioMar subsidiary on Nasdaq Copenhagen. BioMar, an aquaculture feed producer, is a key asset within Schouw's portfolio and the IPO represents a significant corporate event for the parent company. The article appears to be a financial/valuation analysis typically published by Simply Wall St. focused on the publicly traded parent company and the impending BioMar public offering.`\nBioMar is the subject of the IPO mentioned, with Schouw as the parent company preparing the listing on Nasdaq Copenhagen.`\nNo specific factual claims, quotes, or controversies are evident from the headline and summary provided.",
+      "first_seen": "2026-05-24T03:59:17+00:00",
+      "last_seen": "2026-05-24T03:59:17+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -625,10 +639,10 @@
     {
       "id": 1505,
       "headline": "BIOMAR GROUP: IPO-PRISINTERVALL DKK 100-108/AKSJE, VERDSETTES TIL CA. DKK 10,4 MDR - Finansavisen",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzlJTnJYNXAyTnJSTWZHLVYtQnhaeDBKUU9XaER0MWxHLXJVTlZNeXoxWUpWRXhDV00xdmtxLUg5MDQ0MWpZeW15cy04VTNyQmU1TVZITDBrOUlxNXNNTldUZHpNaElJeHpsMm44N2MxWUxyUmRBVnM0ZEJRWXVSUzVUbjVRWEh0d1VXYTR2U3U4WENZSnRqZHhUT2JHYW5GVFFFc2JCMWFfdF9FX0trclhoVHI2X3E1YjBfMl9ieXhBb2Q5c0RVSVd1S0E?oc=5\" target=\"_blank\">BIOMAR GROUP: IPO-PRISINTERVALL DKK 100-108/AKSJE, VERDSETTES TIL CA. DKK 10,4 MDR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+      "story_summary": "BioMar Group has announced an IPO price interval of DKK 100–108 per share, valuing the company at approximately DKK 10.4 billion. The aquaculture feed producer, owned by Schouw & Co, is proceeding toward its initial public offering on the stock exchange.",
       "first_seen": "2026-05-19T06:13:28+00:00",
       "last_seen": "2026-05-19T06:13:28+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -666,15 +680,15 @@
     },
     {
       "id": 1442,
-      "headline": "Schouw & Co. share buy-back programme, week 20 2026 - The Manila Times",
-      "story_summary": "Schouw & Co. announces details of its share buy-back programme for week 20 of 2026. The article reports routine corporate share repurchase activity by the parent company of BioMar Group A/S.",
+      "headline": "Schouw & Co. Share Buy-back Programme, Week 20 2026 - Moomoo",
+      "story_summary": "Schouw & Co. announced its share buy-back activity for week 20 of 2026. The article reports on the company's capital allocation decision as part of its ongoing share repurchase programme.",
       "first_seen": "2026-05-18T11:00:00+00:00",
       "last_seen": "2026-05-18T11:02:14+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -9803,6 +9817,20 @@
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1506,
+      "headline": "Lanzan nuevos desarrollos para instalaciones salmonicultoras con alimentación por agua - Salmonexpert",
+      "story_summary": "The article announces new technological developments for salmon farming installations using water-based feeding systems. BioMar is mentioned in connection with these innovations in aquaculture feeding infrastructure, though specific details are limited in the provided excerpt.",
+      "first_seen": "2025-01-27T08:00:00+00:00",
+      "last_seen": "2025-01-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -61914,16 +61942,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Group sets IPO price range and valuation ahead of public offering",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOYzlJTnJYNXAyTnJSTWZHLVYtQnhaeDBKUU9XaER0MWxHLXJVTlZNeXoxWUpWRXhDV00xdmtxLUg5MDQ0MWpZeW15cy04VTNyQmU1TVZITDBrOUlxNXNNTldUZHpNaElJeHpsMm44N2MxWUxyUmRBVnM0ZEJRWXVSUzVUbjVRWEh0d1VXYTR2U3U4WENZSnRqZHhUT2JHYW5GVFFFc2JCMWFfdF9FX0trclhoVHI2X3E1YjBfMl9ieXhBb2Q5c0RVSVd1S0E?oc=5\" target=\"_blank\">BIOMAR GROUP: IPO-PRISINTERVALL DKK 100-108/AKSJE, VERDSETTES TIL CA. DKK 10,4 MDR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+      "summary": "BioMar Group has announced an IPO price interval of DKK 100–108 per share, valuing the company at approximately DKK 10.4 billion. The aquaculture feed producer, owned by Schouw & Co, is proceeding toward its initial public offering on the stock exchange."
     },
     {
       "id": 104051,
@@ -61948,6 +61976,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORFpibi1rMGJxRE1MYTZjMEItRW41TGZKQlNDbTExSGR2X1drM1FqM2NEWDFZOTZQeV8wVkNGZGJ1VjEzQTZXY0ZZU0Y5bVI4OG9XRXd5OTRqU1Jyd2pXY3QxSVg0MUJfSnh1WmN0Ukx5UkhzV2QyTk9MNktjeHlSd3J1aGlLMDZKTGtwcWM4QnZiTDF6MVhV?oc=5\" target=\"_blank\">Cargill acquires Norwegian aquaculture company for $1.5B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Food Dive</font>"
+    },
+    {
+      "id": 104552,
+      "story_id": 1506,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWHM2NktGZnk5bEp0WjlPN1NwY21yRGpMWkRVWV9lV1NFUFV1ZGRrT3NocjVQc2JsWC1Ud01wM2QxMDEtNEMxR0FhbWtULUEtNFBmYVVmTDZpWW5kUnRqSzZkWk11TzlXcm81TWZabmpaUi1ENFI2Qms2UHhxMWlNQTVzWUhNUU9lUkx3cEdFNm5YQUptaEpuMWV2RlNCdTZuR3JGcF9jcFZ3ZVRoM2V6NjRVMWFWaGR2M3d4SjhRZWJTc1JySTk2cUdtd2JVVVhORm1RaThyVHpIS2da?oc=5",
+      "title": "Lanzan nuevos desarrollos para instalaciones salmonicultoras con alimentación por agua - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-01-27T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "New water-feeding technology developments for salmon farming facilities",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article announces new technological developments for salmon farming installations using water-based feeding systems. BioMar is mentioned in connection with these innovations in aquaculture feeding infrastructure, though specific details are limited in the provided excerpt."
+    },
+    {
+      "id": 104560,
+      "story_id": 1507,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeWlPd3VTaWVodTRZRjFCVUZKMi1XeW5zU3ZldENuanZoanhNZ1I4dHZXeDZLUUtXY2dBRDc1STJrSVJRMnZCOUlpeWhmVkE2dU1tNWNDZ0RwTzV6UnR6ajllM1pxR1JxeVN3TndrVEcwZHduZHp0bFV1NUlidnFobEZKSU1NSVBYRUJFVW9zeXF1d085emdWM2pvWG1BT0RBVjNyLWNITEd6RVkwVUVUTE41NG5yNElWTUlkNjZFRUdSTU5uMkNuTVB2V2hQV0ZjUU5CQ255UW9XLS1QQ01IYWt5ZDBOT2pnSVhfVXhB0gHzAUFVX3lxTE1CQ2lGQldVQ3FYallncXVnbk9jQXFrUFU2TEx2V1FsSDE5ZTRXcDVjSFR2dmFsd2pJMjBvZXFEbDhQZzduQUdaU2dOOTdMd2xaYmowV2VfUVpoUW5ybGlTcUt6anpzd2pwVVNIa1dVZjNBeV9TWmpna3RMN0tQZ2JYeC1wWlVhek9FdXdHMExMUU15TGhzQlQ5UTFZS2FYUjVENHZ2aGw4QTVLaFRwa001RmswMm45d2pFNzdHdjFVMHZocEFVNnQ2MXptRHo0WkMtNnlwdmg1QlVmZUJnTTF1UWpHT2k3aG41TWFERDI5SG8zRQ?oc=5",
+      "title": "A Look At Aktieselskabet Schouw (CPSE:SCHO) Valuation As It Prepares BioMar IPO On Nasdaq Copenhagen - simplywall.st",
+      "source_name": "simplywall.st",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-05-24T03:59:17+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Schouw valuation analysis ahead of BioMar Nasdaq Copenhagen IPO",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article examines Aktieselskabet Schouw's valuation as the company prepares to list its BioMar subsidiary on Nasdaq Copenhagen. BioMar, an aquaculture feed producer, is a key asset within Schouw's portfolio and the IPO represents a significant corporate event for the parent company. The article appears to be a financial/valuation analysis typically published by Simply Wall St. focused on the publicly traded parent company and the impending BioMar public offering.`\nBioMar is the subject of the IPO mentioned, with Schouw as the parent company preparing the listing on Nasdaq Copenhagen.`\nNo specific factual claims, quotes, or controversies are evident from the headline and summary provided."
+    },
+    {
+      "id": 104566,
+      "story_id": 1442,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZlJZLTZCTC1YRE93LTRYX184T3pIckE2VnctaXk3NnNqNTNobW5PTWR1bVNkVUR2aV9vOFdkSVRZOFBwRURoeE02RHRKT01lcGF2TlU0Z0x4OXRuQkRET0xtbFVWZWN5dU4tSTNYME5TSlhVOTNvWW92TG9UV2V1M2hCTDZzV0FzYk0tNkM2UDM2T28?oc=5",
+      "title": "Schouw & Co. Share Buy-back Programme, Week 20 2026 - Moomoo",
+      "source_name": "Moomoo",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-18T11:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buy-back programme in week 20.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced its share buy-back activity for week 20 of 2026. The article reports on the company's capital allocation decision as part of its ongoing share repurchase programme."
     }
   ],
   "share_of_voice": {
@@ -65034,7 +65134,7 @@
       {
         "week": "2025-W05",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -65578,7 +65678,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 43,
+        "BioMar": 45,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -65591,7 +65691,7 @@
       },
       {
         "company": "BioMar",
-        "count": 706
+        "count": 709
       },
       {
         "company": "Cargill",
