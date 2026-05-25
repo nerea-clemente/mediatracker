@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-25T09:11:20+00:00",
+  "generated_at": "2026-05-25T12:46:57+00:00",
   "stats": {
-    "mention_count": 1683,
-    "story_count": 1485,
-    "analyzed_count": 709,
+    "mention_count": 1686,
+    "story_count": 1488,
+    "analyzed_count": 710,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -36,6 +36,7 @@
     "Bygg.no",
     "Byggfakta Nyheter",
     "Cadena SER",
+    "Carey",
     "Centro Competencia",
     "ChartMill",
     "Christensen Salmon Generations Funeral Home",
@@ -271,6 +272,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1510,
+      "headline": "Aqua-Spark hires former BioMar executive; Coastal Villages Region Fund longtime CEO retires - SeafoodSource",
+      "story_summary": "Aqua-Spark, an aquaculture investment firm, has hired a former BioMar executive to its team. The announcement coincides with the retirement of the Coastal Villages Region Fund's longtime CEO. The article appears to focus on personnel transitions within aquaculture finance and investment sectors with BioMar mentioned as context for the hire's background. A former senior leader from the feed producer has moved into the investment space, signaling potential industry networking or strategic interest in aquaculture ventures. The article treats this as routine executive mobility rather than a major strategic development for BioMar itself.",
+      "first_seen": "2026-05-25T09:52:21+00:00",
+      "last_seen": "2026-05-25T09:52:21+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1503,
       "headline": "A Look At Aktieselskabet Schouw (CPSE:SCHO) Valuation As It Prepares BioMar IPO On Nasdaq Copenhagen - simplywall.st",
@@ -15411,6 +15426,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1509,
+      "headline": "'Feed costs should not be the farmer's problem': Cargill Aqua Nutrition's new president eyes new price models, M&A and a bold sustainability agenda - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQZzN1LTVaMm1UNDgzMjhtc0tJZ3VUamtZbnFjMVRLV0pyMmxLelVpa0hRdzBfQmJCeThpSHBEOGszZFB0Y3F6VGdkeXhLb2JZOGxBVUZ4VElBQXB5S2JjN19ERjZFaEZnTHdTZGlBdGl0QkV2Tk1jdjdmOEpmZkY2XzJVQm1kY2ZUTTU1ZUJYak9tZHcwSDUxUlJTSHR2a1J6S0tHLUctczhQZ040MDNWQWdxWXFlUWI2OWVkdzVxMndqVExGZnh0VGZzUlZEWFh5VjVER3ZUM0JxLVlFTnBmMnk2eUswMnZhU3VOTE90VWVFTlFJb1JTQWhQOEZqRndqcEJuR09JQTVEeFRtMVdERzNTMURNcjEt?oc=5\" target=\"_blank\">'Feed costs should not be the farmer's problem': Cargill Aqua Nutrition's new president eyes new price models, M&amp;A and a bold sustainability agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2021-10-07T07:00:00+00:00",
+      "last_seen": "2021-10-07T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 933,
       "headline": "Expertos globales de ScaleAQ abordarán la acuicultura \"de precisión” en nueva charla FISH Great Talks de Skretting - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOQzM2ZnF4Z2dLV3pwRWZtMGJCTE9aZUY2RWFrbFFDaTI4SC0xUjAwVGlOd3Y4S3BNNlA3TmhJdGlhX3NEMkdPQlgxZWJxTFRlMDlrZXRFM2ZqSUZIRUIxdUpla1N0VXF6TGExcWxnYU1WM3ZqbzlodU4zSXRMME1UR0tnbG5HUUVtZmNVOEpLUk1mRDBudXNRbUpzS2Jqc0pVMGx1eV95Mjc0bEdwcnNYUVowNVUzSmpMNU5nNk9sZmFBQ3VIa1I1dmlVbmhFNU8xLVctYlVhc3YtNHpOVWJzRjAtMnJvVUpkcXJSUVhwUkRJTG85cHJudVhlRzhpVk4weEFqX3Yyaw?oc=5\" target=\"_blank\">Expertos globales de ScaleAQ abordarán la acuicultura \"de precisión” en nueva charla FISH Great Talks de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
@@ -20314,6 +20343,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1508,
+      "headline": "EWOS adquiere Nova Austral por US$180 millones - Carey",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZbHoya1JDUjFJcjN0LTRFdEVtZzJwc3dQNFl4VDFvNkZXOFc5ZEV3dW5fbmN3N195dXJaRmRiWlh2bWFfdG9qTGFRQm5yc1U5NzR3bmp6VjVrLVVOdVJPX1ktYTVwUHF5OEtyallfV2RMbzYt?oc=5\" target=\"_blank\">EWOS adquiere Nova Austral por US$180 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carey</font>",
+      "first_seen": "2014-11-13T08:00:00+00:00",
+      "last_seen": "2014-11-13T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1021,
@@ -62048,6 +62091,78 @@
         "none"
       ],
       "summary": "Schouw & Co. announced its share buy-back activity for week 20 of 2026. The article reports on the company's capital allocation decision as part of its ongoing share repurchase programme."
+    },
+    {
+      "id": 105191,
+      "story_id": 1510,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTJ3T3J0WWcxVnd5SElsNUlGUUNWR24wRHlCQ1ZmYkxsSjhsODV3Q0lGQ1UyLTZYOEtyQngzdHhPNDhCWUVKWkVhM2ZBTVhKUU1tR1VlWUd2N3VxM2JHQUl3QllBVDNtZVVpVktlaG4xZnNCdzh2dFUzR1pRbE05bThuZ245TmlSZUozeWkwMFFYT20wLWJCU3VZUWIyTVV3MG1Ub0lic1BQbEFXcFFmS2pjME1JUFMtalNZbHNkaFZNaUZhM0Nialo4LVNyTDlBaHB1M29DN042Zw?oc=5",
+      "title": "Aqua-Spark hires former BioMar executive; Coastal Villages Region Fund longtime CEO retires - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-05-25T09:52:21+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Executive movement: former BioMar leader joins Aqua-Spark investment firm",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Aqua-Spark, an aquaculture investment firm, has hired a former BioMar executive to its team. The announcement coincides with the retirement of the Coastal Villages Region Fund's longtime CEO. The article appears to focus on personnel transitions within aquaculture finance and investment sectors with BioMar mentioned as context for the hire's background. A former senior leader from the feed producer has moved into the investment space, signaling potential industry networking or strategic interest in aquaculture ventures. The article treats this as routine executive mobility rather than a major strategic development for BioMar itself."
+    },
+    {
+      "id": 106118,
+      "story_id": 1509,
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZzN1LTVaMm1UNDgzMjhtc0tJZ3VUamtZbnFjMVRLV0pyMmxLelVpa0hRdzBfQmJCeThpSHBEOGszZFB0Y3F6VGdkeXhLb2JZOGxBVUZ4VElBQXB5S2JjN19ERjZFaEZnTHdTZGlBdGl0QkV2Tk1jdjdmOEpmZkY2XzJVQm1kY2ZUTTU1ZUJYak9tZHcwSDUxUlJTSHR2a1J6S0tHLUctczhQZ040MDNWQWdxWXFlUWI2OWVkdzVxMndqVExGZnh0VGZzUlZEWFh5VjVER3ZUM0JxLVlFTnBmMnk2eUswMnZhU3VOTE90VWVFTlFJb1JTQWhQOEZqRndqcEJuR09JQTVEeFRtMVdERzNTMURNcjEt?oc=5",
+      "title": "'Feed costs should not be the farmer's problem': Cargill Aqua Nutrition's new president eyes new price models, M&A and a bold sustainability agenda - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2021-10-07T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQZzN1LTVaMm1UNDgzMjhtc0tJZ3VUamtZbnFjMVRLV0pyMmxLelVpa0hRdzBfQmJCeThpSHBEOGszZFB0Y3F6VGdkeXhLb2JZOGxBVUZ4VElBQXB5S2JjN19ERjZFaEZnTHdTZGlBdGl0QkV2Tk1jdjdmOEpmZkY2XzJVQm1kY2ZUTTU1ZUJYak9tZHcwSDUxUlJTSHR2a1J6S0tHLUctczhQZ040MDNWQWdxWXFlUWI2OWVkdzVxMndqVExGZnh0VGZzUlZEWFh5VjVER3ZUM0JxLVlFTnBmMnk2eUswMnZhU3VOTE90VWVFTlFJb1JTQWhQOEZqRndqcEJuR09JQTVEeFRtMVdERzNTMURNcjEt?oc=5\" target=\"_blank\">'Feed costs should not be the farmer's problem': Cargill Aqua Nutrition's new president eyes new price models, M&amp;A and a bold sustainability agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 106214,
+      "story_id": 1508,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZbHoya1JDUjFJcjN0LTRFdEVtZzJwc3dQNFl4VDFvNkZXOFc5ZEV3dW5fbmN3N195dXJaRmRiWlh2bWFfdG9qTGFRQm5yc1U5NzR3bmp6VjVrLVVOdVJPX1ktYTVwUHF5OEtyallfV2RMbzYt?oc=5",
+      "title": "EWOS adquiere Nova Austral por US$180 millones - Carey",
+      "source_name": "Carey",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2014-11-13T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZbHoya1JDUjFJcjN0LTRFdEVtZzJwc3dQNFl4VDFvNkZXOFc5ZEV3dW5fbmN3N195dXJaRmRiWlh2bWFfdG9qTGFRQm5yc1U5NzR3bmp6VjVrLVVOdVJPX1ktYTVwUHF5OEtyallfV2RMbzYt?oc=5\" target=\"_blank\">EWOS adquiere Nova Austral por US$180 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carey</font>"
     }
   ],
   "share_of_voice": {
@@ -62368,6 +62483,14 @@
         "Aller Aqua": 0,
         "BioMar": 1,
         "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2014-W46",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -63935,7 +64058,7 @@
         "week": "2021-W40",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
       },
@@ -65682,6 +65805,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
+      },
+      {
+        "week": "2026-W22",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
@@ -65691,11 +65822,11 @@
       },
       {
         "company": "BioMar",
-        "count": 709
+        "count": 710
       },
       {
         "company": "Cargill",
-        "count": 230
+        "count": 232
       },
       {
         "company": "Polarfeed",
