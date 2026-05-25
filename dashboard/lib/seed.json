@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-25T17:45:52+00:00",
+  "generated_at": "2026-05-25T22:56:46+00:00",
   "stats": {
-    "mention_count": 1688,
-    "story_count": 1490,
+    "mention_count": 1690,
+    "story_count": 1492,
     "analyzed_count": 710,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
@@ -3844,6 +3844,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY01XVTJiRXBSM2pSdXYzZjlfRVl3ZmY0TS14RGJ1STN3OWR5a3lOV3NGZjhGTVdqLThzWXlCRWZWQWVONlp1RUlMZC0xRVUwWmYtNGFEazQ3Y0lTd1hCUmhNMjBEUkhsTWlFSXNPT1hqa3FhUnYzaDBnMDBlMWdUcjcyU3BTM2hXQ0h1dDNmMG1vZHZQRUFFTXZiTlptbnUxU0tBVkhxSWJUVlk?oc=5\" target=\"_blank\">Kva gjer me når korta ikkje verkar og minibanken er tom?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
       "first_seen": "2026-01-27T08:00:00+00:00",
       "last_seen": "2026-01-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1514,
+      "headline": "– Man skal høre mye før ørene faller av - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXJhV1BlOV9RTUFkem1TVUd3WXZXVDFFYnE5Q3R1NHQtZEJHNkRhNnZxMGJjTVJMMUlTNXgwR0tyWVo5NzNtYTVqZGEwMHJtYTRIemtHWmRBWDBJVUtEZWpEZzJGQ2gwSmNXYkF6U1MxQzlXSmpOSEdodnZHRG9QTkZ3cTJCLUZIWXlEanM0RQ?oc=5\" target=\"_blank\">– Man skal høre mye før ørene faller av</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2026-01-21T08:00:00+00:00",
+      "last_seen": "2026-01-21T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -13876,6 +13890,20 @@
       "id": 1019,
       "headline": "Skretting opens new fish feed factory in Vietnam - SeafoodSource",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3dES1R4Y0hDY2FpOFNfVFdpMWdLM0hKYXJnS0hWRzhlUC02MTI1dzdaRE1oN3ZZc1VZMDBFcGx3SDJGZ0dRd0RReVlBSEZ2WF82SWhPb0lPVEx6VkJCU1VYSXlOMlFWYmZaaTY3VVFfQVYtdGc1T21oQ1Byc1NBLUdhd3Ffb0F5VWdtUEE3ZTc4V0VBQVBycFFRR2VDWWVSLTlEb3RB?oc=5\" target=\"_blank\">Skretting opens new fish feed factory in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2022-11-30T08:00:00+00:00",
+      "last_seen": "2022-11-30T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1513,
+      "headline": "Skretting’s new aquafeed factory - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1g4Y25Rb1lZaWhqeFhVSVhReWlMbW5ZZHZRbEp3Vk9JY1lZS1BLcnV4YmNMU0VSb2l5LTh3Q1BrVkJCaEhzT2RhMmVtN2hGZW9wdVljcmZvNDBmTURnRE80ZlpLRWRPTjRWOHIwZVhpZWxBaVgxQWVnYzNmMURyWWIwS2MzUdIBXkFVX3lxTE83YlJteGhEOFZQdTZ4bjJkRnRUbFJJbWMydUdJT2RZc2l1MEVtcmRDZGYwS1pqLVgzWXYzbThpRVRFejNjVTRaR21GajhOZHdVVzVXRWNrWWdPQ2FzNHc?oc=5\" target=\"_blank\">Skretting’s new aquafeed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
       "first_seen": "2022-11-30T08:00:00+00:00",
       "last_seen": "2022-11-30T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -62240,6 +62268,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTHVkU2d1alpXTXY1bWN0aGZCUWkweHl0TDV0Q25VeWxGWER1WFIyMkI4cnpOZGR1LW9nUnd0MGg0T0xtUzdkRl9Pd2RSVm5XSkJfeWlxY3ViV1hMVFh3aTdoV0RnUm0wdjVvbHQwcFUybFBPOXNlQl8xcU5EV3M1ZEIwWEFReWc5Q1UzQi1KZGJBUXp2Y1RHbERzRjRYVTc5bXBmYnRrSE1uVi01X2xYM2VnMVVGYTE3bkp6cHNldGo1ZTNZWkVCUWNadTZkeHJyTF9nblk3U2pqV29jamZ2WjNVMGk5YmZYeWc?oc=5\" target=\"_blank\">Revalidan eficacia de solución nutricional para el salmón tras ensayo realizado en Magallanes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 107871,
+      "story_id": 1513,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1g4Y25Rb1lZaWhqeFhVSVhReWlMbW5ZZHZRbEp3Vk9JY1lZS1BLcnV4YmNMU0VSb2l5LTh3Q1BrVkJCaEhzT2RhMmVtN2hGZW9wdVljcmZvNDBmTURnRE80ZlpLRWRPTjRWOHIwZVhpZWxBaVgxQWVnYzNmMURyWWIwS2MzUdIBXkFVX3lxTE83YlJteGhEOFZQdTZ4bjJkRnRUbFJJbWMydUdJT2RZc2l1MEVtcmRDZGYwS1pqLVgzWXYzbThpRVRFejNjVTRaR21GajhOZHdVVzVXRWNrWWdPQ2FzNHc?oc=5",
+      "title": "Skretting’s new aquafeed factory - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2022-11-30T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1g4Y25Rb1lZaWhqeFhVSVhReWlMbW5ZZHZRbEp3Vk9JY1lZS1BLcnV4YmNMU0VSb2l5LTh3Q1BrVkJCaEhzT2RhMmVtN2hGZW9wdVljcmZvNDBmTURnRE80ZlpLRWRPTjRWOHIwZVhpZWxBaVgxQWVnYzNmMURyWWIwS2MzUdIBXkFVX3lxTE83YlJteGhEOFZQdTZ4bjJkRnRUbFJJbWMydUdJT2RZc2l1MEVtcmRDZGYwS1pqLVgzWXYzbThpRVRFejNjVTRaR21GajhOZHdVVzVXRWNrWWdPQ2FzNHc?oc=5\" target=\"_blank\">Skretting’s new aquafeed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 107931,
+      "story_id": 1514,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXJhV1BlOV9RTUFkem1TVUd3WXZXVDFFYnE5Q3R1NHQtZEJHNkRhNnZxMGJjTVJMMUlTNXgwR0tyWVo5NzNtYTVqZGEwMHJtYTRIemtHWmRBWDBJVUtEZWpEZzJGQ2gwSmNXYkF6U1MxQzlXSmpOSEdodnZHRG9QTkZ3cTJCLUZIWXlEanM0RQ?oc=5",
+      "title": "– Man skal høre mye før ørene faller av - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-01-21T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXJhV1BlOV9RTUFkem1TVUd3WXZXVDFFYnE5Q3R1NHQtZEJHNkRhNnZxMGJjTVJMMUlTNXgwR0tyWVo5NzNtYTVqZGEwMHJtYTRIemtHWmRBWDBJVUtEZWpEZzJGQ2gwSmNXYkF6U1MxQzlXSmpOSEdodnZHRG9QTkZ3cTJCLUZIWXlEanM0RQ?oc=5\" target=\"_blank\">– Man skal høre mye før ørene faller av</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
     }
   ],
   "share_of_voice": {
@@ -64553,7 +64629,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2022-W49",
@@ -65753,7 +65829,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2026-W05",
@@ -65919,7 +65995,7 @@
       },
       {
         "company": "Skretting",
-        "count": 590
+        "count": 592
       }
     ]
   }
