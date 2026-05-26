@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-25T22:56:46+00:00",
+  "generated_at": "2026-05-26T08:49:23+00:00",
   "stats": {
-    "mention_count": 1690,
-    "story_count": 1492,
-    "analyzed_count": 710,
+    "mention_count": 1698,
+    "story_count": 1500,
+    "analyzed_count": 712,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -273,6 +273,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1522,
+      "headline": "Biomar IPO Orders Below DKK 108 Per Share Risk Missing, Says Bookrunner - TradingView",
+      "story_summary": "BioMar's IPO bookrunner warns that subscription orders below DKK 108 per share risk missing the initial pricing target. The article reports on demand dynamics during the IPO process for the aquaculture feed company's public listing on TradingView's financial news feed on 2026-05-26T06:16:00+00:00 (a future date, suggesting this is a hypothetical or test scenario).",
+      "first_seen": "2026-05-26T06:16:00+00:00",
+      "last_seen": "2026-05-26T06:16:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1510,
       "headline": "Aqua-Spark hires former BioMar executive; Coastal Villages Region Fund longtime CEO retires - SeafoodSource",
@@ -602,6 +616,20 @@
       "story_summary": "BioMar, a leading aquaculture feed producer, is targeting a $1.7 billion valuation in a landmark initial public offering on the Copenhagen stock exchange. The IPO represents a significant capital-raising milestone for the Denmark-headquartered company and its parent Schouw & Co portfolio companies expanding into the public markets for growth funding and visibility in aquaculture sectors including salmon, shrimp, and tilapia feed production globally. The public listing would enhance market access and potential investor participation for a major feed manufacturing provider serving global aquaculture producers amid ongoing industry consolidation and sustainable-feed market expansion trends identified within the sector over 2025–2026 periods reported in market analysis by aquafeed trade journals and investor research publications tracking the aquaculture value chain and input-supplier strategies covering Nordic-based and multinational feed manufacturers operating in this segment.",
       "first_seen": "2026-05-19T08:22:25+00:00",
       "last_seen": "2026-05-19T08:22:25+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1521,
+      "headline": "Aktieselskabet Schouw & Co.'s BioMar Targets Up to DKK3 Billion in Copenhagen IPO - marketscreener.com",
+      "story_summary": "BioMar, the aquaculture feed subsidiary of Schouw & Co., is targeting an initial public offering on the Copenhagen stock exchange with a valuation of up to DKK 3 billion. The IPO represents a significant capital-raising milestone for the Aarhus-based feed producer as it pursues expansion and growth in the global aquaculture market.",
+      "first_seen": "2026-05-19T07:23:37+00:00",
+      "last_seen": "2026-05-19T07:23:37+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -12459,6 +12487,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1520,
+      "headline": "Atlantic Canada’s fish health ‘grandfather’ honoured - Fishfarming expert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaTVxTk9WbXRZeTNFTWNscHp2aDhzNWpxTVNsQ2xpcnptSmdIZWU2VkZSUlpnZllWSHY5a0V5RGQ5WHpoS25RX0RKXzI3YmtIdjQ5dXVYWHg4S0hRNHBISGhhYjRjSnFwYzM5dndWWXZaTTkteTd5MGpNeWdUTzBvVEZqNFFiU3VZdGpqSVRMY09DeUpwVGYwWXF2NDRQTmZyM085b0hfYzlydHdDb1RNTk04eFZoejQ4Sk93c2hfa0Y0SU84TWRka2tzOXJSb1BRbWRJcWplVWM2bUpoSWZGVg?oc=5\" target=\"_blank\">Atlantic Canada’s fish health ‘grandfather’ honoured</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "first_seen": "2023-10-30T07:00:00+00:00",
+      "last_seen": "2023-10-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 567,
       "headline": "Double-Storey Penthouse to Crown Cronulla Plans - The Urban Developer",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnExZmFrTXB2R0ZueUZqM1J1dUlFbHJQNk1PdUdwMVRzb1ktRTE5eU5abGlkY3FpUUFac01zakdqVWpWQ1JVQW1fZFB4RVdMX1NraHBWRGpoRXdUNXkwSTBHRTY2cGRJSGhja3h0dURpMTBxbzlVZUNXS3ROUHZGeUxJRkVCckZhRjUw?oc=5\" target=\"_blank\">Double-Storey Penthouse to Crown Cronulla Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Urban Developer</font>",
@@ -12814,6 +12856,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5UVU9WOUdNR1ZwR0h4bWRLb3pDcHZLTGNtSDNvS0JkYnA3NGJIQU5XelhIeVdQeUFrUHEteVctM05URDl0TzBmdGhRY0NaVXRFRmhTcDlWRm9qcUJFa0FkeWlXQ2IwQ24yYjRCa3hYakJ2a0hJM2R5VWFGWkNwY2laSmN1OUZUdE9oTWlkNWVTOGFoZFBWeW01WGIzTkJvcGs1bnRqMnhpZmhpdDR5YnFn?oc=5\" target=\"_blank\">Oman: Skretting and IFFC align on fish and shrimp feed market expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgTechNavigator.com</font>",
       "first_seen": "2023-09-08T07:00:00+00:00",
       "last_seen": "2023-09-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1519,
+      "headline": "Industry collaboration aims to boost aquaculture industry in Oman - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnpxSTRaaTAtaW9OVGgyOWR2LWNfSUZzWjRERTlZVHJzVm1oYVpxSnVRQ1ZtUzJZVjZDdzY4YkxFdFJzX3JNemR0SjVtTjJCTnhmZi1yYUxBaXFSSW43SnFMTml3djlzWnhiWFFNMUZXN29uZmt1clI3Q2V5c2RLOUpkQjljcGNRSV9mTXdMRS0zVVRJYkxBQlZYajVCeDQ?oc=5\" target=\"_blank\">Industry collaboration aims to boost aquaculture industry in Oman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2023-09-04T07:00:00+00:00",
+      "last_seen": "2023-09-04T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -15665,6 +15721,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1518,
+      "headline": "Unga, not hunger: Skretting plans to help feed Kenya's growing population - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3BXZmZwNnNGVk5WVTR5Q1pzMVZwV1d1YUxlWW5DZFU0eDNaM2puMXNwdnh1Z3VqR05QWGRWakpRb2ZHeUZDdTM5YzdWWWY3bC1Xcm5kY1BOLTZOYlJkQUdrT19uaXp2dUtfSHlVZFloeElHejRlalNvQno2WE9tbjlldDBqcGg1dncxNHl3MVhCQUZwRDVuV2YtYkxXRlNMZ2xBaENR?oc=5\" target=\"_blank\">Unga, not hunger: Skretting plans to help feed Kenya's growing population</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2021-08-11T07:00:00+00:00",
+      "last_seen": "2021-08-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 495,
       "headline": "Marcelo Oyarzún y programa Fish Quality de Skretting: “Somos líderes en el seguimiento de estrategias de calidad de producto final - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNQjd5S3JnUUZSTVlYa1lTaDZZMVZ6eHRLODRhdE9FZWlodC1tLW0xaElHams2T3dPODhEUkFMQnVHWjlrOW9QMU5iWDlyYXlqSmRNc0UyN1UxWVhVTVpSZ2FESGdYYWNvaUJVTkxJQkJydGZIRXVURUJfR1hsaG5EOVpVamxsTHpVZEFUYk5oVEt5Rk5NX0RaY2RBeGQzS3Fpc3k1MkdBTHVLeUJMOXQtcjBrb0Fud29FN1VmMHdiLXVjeTJxODk0aGdMVjFwc1dSMXhyU2ZiMU5VU2dNNjhZZXJCRXdVT2w1SnFUQ2c1Y2tJYXIzVUZMUnZkUzhvTXVBQlc4MFBReElVQThTNVV4blFLUVFkQVNlTjdCZg?oc=5\" target=\"_blank\">Marcelo Oyarzún y programa Fish Quality de Skretting: “Somos líderes en el seguimiento de estrategias de calidad de producto final</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
@@ -16510,6 +16580,20 @@
       "id": 1017,
       "headline": "Barramundi boom predicted by Skretting - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1PRE5RMm96V3VTOE05dFRBM0VQZ3pZZVpfTnlNcmJDc1J0Um55dzFrMThfNElwdnBOX1N5VzhaZ3dEcWFIWGZUbzdsalZWaFFwRDN4YVpWam5FWC1wTEpCUDNVTUNDc0FtRy1kMlZQWVZEWDE3U1NucnNKMA?oc=5\" target=\"_blank\">Barramundi boom predicted by Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2020-10-09T07:00:00+00:00",
+      "last_seen": "2020-10-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1517,
+      "headline": "Skretting introduces new growth model for barramundi - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1dYNG45MTZfZWcxTEhUZzFpQ2JrV0R1UkpPa19XaTQ0RDBvVFJGNXhpX2pwaGRfUnBnNFFZT05FSk42WmF5M1JLMDVHLW5JVGMwaDdCSElIZ01BZHRWeV9TUnd0VTcwNlBhUXJJMi0yOThvM3RhQWpKV05lNlZRNURTZkpVM0c0ZldJT0M5NlNUOWlZYmpZ?oc=5\" target=\"_blank\">Skretting introduces new growth model for barramundi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
       "first_seen": "2020-10-09T07:00:00+00:00",
       "last_seen": "2020-10-09T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -18987,6 +19071,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 1516,
+      "headline": "Skretting destaca como \"top\" a centro de cultivo \"Italia\" de Australis Mar - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQTZrSVhZUF91RC1hZ3lKNzlwbTY4SFp1UERKQkVWeEphS1FnaXViY3R3a2g0UG9BVFM0SDJ0T0NKRFF6NmRUbFVVRWRUU3Niblg1SnVMVG9vVThkdzRBWXdYSnQya3I5c281RWtMZVdrWjdHWDRpY0dYaWItalJCRXcwbkI5aXBUbnFnNE1KT09pOHFoVlMySGlaODBIblUwYXhZQ2F5N3hWaGpPV0s2SUM1NUVFNG40Uy0xRDh4bGVueGpZajU4S05UTWctUHljMnY0?oc=5\" target=\"_blank\">Skretting destaca como \"top\" a centro de cultivo \"Italia\" de Australis Mar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-08-30T07:00:00+00:00",
+      "last_seen": "2017-08-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1393,
       "headline": "Biomar: salmón potencia volúmenes de ventas en 28% - Salmonexpert",
       "story_summary": "BioMar reported a significant 28% increase in sales volumes for its salmon feed products. The growth demonstrates strong market demand for the company's aquaculture nutrition offerings.",
@@ -21177,6 +21275,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJVUVOQS1BXzNKd1FRZDBHOWtMNnBqbmlYZk9EZHRvV2tHX2g2bXI3U25aWm5KV0xWZ09Xck1TZUNCLWhqZ3p5Sm1hZWVBYlZQTW5uVHlaWEFDNjF3?oc=5\" target=\"_blank\">EWOS Fish Feed Packaging Line, Westfield</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Packaging Gateway</font>",
       "first_seen": "2006-12-14T08:00:00+00:00",
       "last_seen": "2006-12-14T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1515,
+      "headline": "EGI - ny vekstmodell fra EWOS - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzV1d1MHFTQzJGR1pDVnBIQkVYR3ViQ005ZDZlMmJkdHFNWWlRS2ZkWkFHVWZHOXVyd3Blb3NEMlNyeTVpLUEwQnQyUWpvQ2Q0Nlp3VjlVcXVvaE14T1VRdkpvZzRoa0VENVB1UWdyekN6akx3UUNPMw?oc=5\" target=\"_blank\">EGI - ny vekstmodell fra EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2001-11-07T08:00:00+00:00",
+      "last_seen": "2001-11-07T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -62316,6 +62428,198 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZXJhV1BlOV9RTUFkem1TVUd3WXZXVDFFYnE5Q3R1NHQtZEJHNkRhNnZxMGJjTVJMMUlTNXgwR0tyWVo5NzNtYTVqZGEwMHJtYTRIemtHWmRBWDBJVUtEZWpEZzJGQ2gwSmNXYkF6U1MxQzlXSmpOSEdodnZHRG9QTkZ3cTJCLUZIWXlEanM0RQ?oc=5\" target=\"_blank\">– Man skal høre mye før ørene faller av</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 108291,
+      "story_id": 1522,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2U5Y0RxVnhnTmk2dUUzcTdOa3JqZGswUk45RWY3dHdoUU1oTERRRlRpMDQ0YTlUR2NBUU1oeGlERFJkUVlGT3phcVhTWHRmZW5fS09RRUpGMXdmYkR5M3RJSmNmZHBVVzJCTXdUb2d1TzY5SHkxMG52SW9tT3Q0anpwV3Jmc25YMkdGeFpPVWlBMmF2MUxHT05uYWdCLXowUWFsYzVwWHZsbnNjSHJaT0hvTno3TWY3VTlrc3hHMkZXQWNRTExZMHZ2U3lVRnpUaGtfV2dKZw?oc=5",
+      "title": "Biomar IPO Orders Below DKK 108 Per Share Risk Missing, Says Bookrunner - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-26T06:16:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar IPO subscription demand below initial pricing guidance threshold",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar's IPO bookrunner warns that subscription orders below DKK 108 per share risk missing the initial pricing target. The article reports on demand dynamics during the IPO process for the aquaculture feed company's public listing on TradingView's financial news feed on 2026-05-26T06:16:00+00:00 (a future date, suggesting this is a hypothetical or test scenario)."
+    },
+    {
+      "id": 108346,
+      "story_id": 1521,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbUdEc0F1RHFaSllPSnhXNDVhNkV5ODJMV1REa1VtX1MyX0ZrREdNN19IUEo1WFR2TUcxaC1wWlRQWGJSVzJ3SlllSktiLU9QdlU5T1RPV3I4Y3FVakhHVlJkcnZDSV8zYWdKX2h4d19RcWczemdhN1ktVjU5eGNkamFZUG80X0pOb3gybDFkOUpWSll1dURVRkdVN3Z0S0dJZy1SWFFkZUtFVHFBY2k0MV9kZzlZNGNzS1hNWHRqd0ZJMGNxMUNNbmZhdw?oc=5",
+      "title": "Aktieselskabet Schouw & Co.'s BioMar Targets Up to DKK3 Billion in Copenhagen IPO - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-05-19T07:23:37+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar seeks up to DKK 3 billion in Copenhagen IPO",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar, the aquaculture feed subsidiary of Schouw & Co., is targeting an initial public offering on the Copenhagen stock exchange with a valuation of up to DKK 3 billion. The IPO represents a significant capital-raising milestone for the Aarhus-based feed producer as it pursues expansion and growth in the global aquaculture market."
+    },
+    {
+      "id": 108899,
+      "story_id": 1518,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3BXZmZwNnNGVk5WVTR5Q1pzMVZwV1d1YUxlWW5DZFU0eDNaM2puMXNwdnh1Z3VqR05QWGRWakpRb2ZHeUZDdTM5YzdWWWY3bC1Xcm5kY1BOLTZOYlJkQUdrT19uaXp2dUtfSHlVZFloeElHejRlalNvQno2WE9tbjlldDBqcGg1dncxNHl3MVhCQUZwRDVuV2YtYkxXRlNMZ2xBaENR?oc=5",
+      "title": "Unga, not hunger: Skretting plans to help feed Kenya's growing population - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2021-08-11T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3BXZmZwNnNGVk5WVTR5Q1pzMVZwV1d1YUxlWW5DZFU0eDNaM2puMXNwdnh1Z3VqR05QWGRWakpRb2ZHeUZDdTM5YzdWWWY3bC1Xcm5kY1BOLTZOYlJkQUdrT19uaXp2dUtfSHlVZFloeElHejRlalNvQno2WE9tbjlldDBqcGg1dncxNHl3MVhCQUZwRDVuV2YtYkxXRlNMZ2xBaENR?oc=5\" target=\"_blank\">Unga, not hunger: Skretting plans to help feed Kenya's growing population</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 108901,
+      "story_id": 1519,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnpxSTRaaTAtaW9OVGgyOWR2LWNfSUZzWjRERTlZVHJzVm1oYVpxSnVRQ1ZtUzJZVjZDdzY4YkxFdFJzX3JNemR0SjVtTjJCTnhmZi1yYUxBaXFSSW43SnFMTml3djlzWnhiWFFNMUZXN29uZmt1clI3Q2V5c2RLOUpkQjljcGNRSV9mTXdMRS0zVVRJYkxBQlZYajVCeDQ?oc=5",
+      "title": "Industry collaboration aims to boost aquaculture industry in Oman - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2023-09-04T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnpxSTRaaTAtaW9OVGgyOWR2LWNfSUZzWjRERTlZVHJzVm1oYVpxSnVRQ1ZtUzJZVjZDdzY4YkxFdFJzX3JNemR0SjVtTjJCTnhmZi1yYUxBaXFSSW43SnFMTml3djlzWnhiWFFNMUZXN29uZmt1clI3Q2V5c2RLOUpkQjljcGNRSV9mTXdMRS0zVVRJYkxBQlZYajVCeDQ?oc=5\" target=\"_blank\">Industry collaboration aims to boost aquaculture industry in Oman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 108902,
+      "story_id": 1517,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1dYNG45MTZfZWcxTEhUZzFpQ2JrV0R1UkpPa19XaTQ0RDBvVFJGNXhpX2pwaGRfUnBnNFFZT05FSk42WmF5M1JLMDVHLW5JVGMwaDdCSElIZ01BZHRWeV9TUnd0VTcwNlBhUXJJMi0yOThvM3RhQWpKV05lNlZRNURTZkpVM0c0ZldJT0M5NlNUOWlZYmpZ?oc=5",
+      "title": "Skretting introduces new growth model for barramundi - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2020-10-09T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1dYNG45MTZfZWcxTEhUZzFpQ2JrV0R1UkpPa19XaTQ0RDBvVFJGNXhpX2pwaGRfUnBnNFFZT05FSk42WmF5M1JLMDVHLW5JVGMwaDdCSElIZ01BZHRWeV9TUnd0VTcwNlBhUXJJMi0yOThvM3RhQWpKV05lNlZRNURTZkpVM0c0ZldJT0M5NlNUOWlZYmpZ?oc=5\" target=\"_blank\">Skretting introduces new growth model for barramundi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 108904,
+      "story_id": 1520,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaTVxTk9WbXRZeTNFTWNscHp2aDhzNWpxTVNsQ2xpcnptSmdIZWU2VkZSUlpnZllWSHY5a0V5RGQ5WHpoS25RX0RKXzI3YmtIdjQ5dXVYWHg4S0hRNHBISGhhYjRjSnFwYzM5dndWWXZaTTkteTd5MGpNeWdUTzBvVEZqNFFiU3VZdGpqSVRMY09DeUpwVGYwWXF2NDRQTmZyM085b0hfYzlydHdDb1RNTk04eFZoejQ4Sk93c2hfa0Y0SU84TWRka2tzOXJSb1BRbWRJcWplVWM2bUpoSWZGVg?oc=5",
+      "title": "Atlantic Canada’s fish health ‘grandfather’ honoured - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2023-10-30T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaTVxTk9WbXRZeTNFTWNscHp2aDhzNWpxTVNsQ2xpcnptSmdIZWU2VkZSUlpnZllWSHY5a0V5RGQ5WHpoS25RX0RKXzI3YmtIdjQ5dXVYWHg4S0hRNHBISGhhYjRjSnFwYzM5dndWWXZaTTkteTd5MGpNeWdUTzBvVEZqNFFiU3VZdGpqSVRMY09DeUpwVGYwWXF2NDRQTmZyM085b0hfYzlydHdDb1RNTk04eFZoejQ4Sk93c2hfa0Y0SU84TWRka2tzOXJSb1BRbWRJcWplVWM2bUpoSWZGVg?oc=5\" target=\"_blank\">Atlantic Canada’s fish health ‘grandfather’ honoured</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 109201,
+      "story_id": 1516,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQTZrSVhZUF91RC1hZ3lKNzlwbTY4SFp1UERKQkVWeEphS1FnaXViY3R3a2g0UG9BVFM0SDJ0T0NKRFF6NmRUbFVVRWRUU3Niblg1SnVMVG9vVThkdzRBWXdYSnQya3I5c281RWtMZVdrWjdHWDRpY0dYaWItalJCRXcwbkI5aXBUbnFnNE1KT09pOHFoVlMySGlaODBIblUwYXhZQ2F5N3hWaGpPV0s2SUM1NUVFNG40Uy0xRDh4bGVueGpZajU4S05UTWctUHljMnY0?oc=5",
+      "title": "Skretting destaca como \"top\" a centro de cultivo \"Italia\" de Australis Mar - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-08-30T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQTZrSVhZUF91RC1hZ3lKNzlwbTY4SFp1UERKQkVWeEphS1FnaXViY3R3a2g0UG9BVFM0SDJ0T0NKRFF6NmRUbFVVRWRUU3Niblg1SnVMVG9vVThkdzRBWXdYSnQya3I5c281RWtMZVdrWjdHWDRpY0dYaWItalJCRXcwbkI5aXBUbnFnNE1KT09pOHFoVlMySGlaODBIblUwYXhZQ2F5N3hWaGpPV0s2SUM1NUVFNG40Uy0xRDh4bGVueGpZajU4S05UTWctUHljMnY0?oc=5\" target=\"_blank\">Skretting destaca como \"top\" a centro de cultivo \"Italia\" de Australis Mar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 109232,
+      "story_id": 1515,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzV1d1MHFTQzJGR1pDVnBIQkVYR3ViQ005ZDZlMmJkdHFNWWlRS2ZkWkFHVWZHOXVyd3Blb3NEMlNyeTVpLUEwQnQyUWpvQ2Q0Nlp3VjlVcXVvaE14T1VRdkpvZzRoa0VENVB1UWdyekN6akx3UUNPMw?oc=5",
+      "title": "EGI - ny vekstmodell fra EWOS - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2001-11-07T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzV1d1MHFTQzJGR1pDVnBIQkVYR3ViQ005ZDZlMmJkdHFNWWlRS2ZkWkFHVWZHOXVyd3Blb3NEMlNyeTVpLUEwQnQyUWpvQ2Q0Nlp3VjlVcXVvaE14T1VRdkpvZzRoa0VENVB1UWdyekN6akx3UUNPMw?oc=5\" target=\"_blank\">EGI - ny vekstmodell fra EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
     }
   ],
   "share_of_voice": {
@@ -62327,6 +62631,14 @@
       "Skretting"
     ],
     "timeseries": [
+      {
+        "week": "2001-W45",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
       {
         "week": "2006-W50",
         "Aller Aqua": 0,
@@ -63176,6 +63488,14 @@
         "Skretting": 0
       },
       {
+        "week": "2017-W35",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2017-W36",
         "Aller Aqua": 1,
         "BioMar": 0,
@@ -63901,7 +64221,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2020-W42",
@@ -64173,7 +64493,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2021-W33",
@@ -64877,7 +65197,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2023-W37",
@@ -64941,7 +65261,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2023-W45",
@@ -65962,7 +66282,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 45,
+        "BioMar": 46,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -65970,7 +66290,7 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -65983,11 +66303,11 @@
       },
       {
         "company": "BioMar",
-        "count": 710
+        "count": 712
       },
       {
         "company": "Cargill",
-        "count": 232
+        "count": 233
       },
       {
         "company": "Polarfeed",
@@ -65995,7 +66315,7 @@
       },
       {
         "company": "Skretting",
-        "count": 592
+        "count": 597
       }
     ]
   }
