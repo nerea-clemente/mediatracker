@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-26T08:49:23+00:00",
+  "generated_at": "2026-05-26T18:28:40+00:00",
   "stats": {
-    "mention_count": 1698,
-    "story_count": 1500,
-    "analyzed_count": 712,
+    "mention_count": 1702,
+    "story_count": 1504,
+    "analyzed_count": 715,
     "off_topic_mentions": 52,
     "off_topic_stories": 34
   },
@@ -30,6 +30,7 @@
     "BioProcess International",
     "Bladet Vesterålen",
     "Bloomberg.com",
+    "BriefGlance",
     "Budstikka",
     "Business News Nigeria",
     "Business in Vancouver",
@@ -273,6 +274,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1526,
+      "headline": "Schouw & Co. share buy-back programme, week 21 2026 - The Manila Times",
+      "story_summary": "Schouw & Co. announced details of its share buyback programme for week 21 of 2026. The article reports on the execution of the company's ongoing capital allocation initiative during this period.",
+      "first_seen": "2026-05-26T11:18:55+00:00",
+      "last_seen": "2026-05-26T11:18:55+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1522,
       "headline": "Biomar IPO Orders Below DKK 108 Per Share Risk Missing, Says Bookrunner - TradingView",
@@ -2229,6 +2244,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1525,
+      "headline": "– Kjører med forsterket stab - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE13V05fVkEtakFJZ3JpWTFSeC1zcFBwQXJaQnM0Vnd6T0dISUo0TlJVX2V3aThQQnZSUGxBS3hfaEJQTUxVdTVyYktKR0lOQU1sMFAyQkxIcUVCTWpGWjNwenc0MDdHbENBZ3ZhVG1xSnJHWGs?oc=5\" target=\"_blank\">– Kjører med forsterket stab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2026-04-05T07:00:00+00:00",
+      "last_seen": "2026-04-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1209,
       "headline": "Aller Aqua fined NOK 5m over 2022 Norway salmon escape - Undercurrent News",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWotZ3NTU3ZxNHRrbTVhQkYzVTY1aWVqRHRJZUlGcWFyaFp4X2NPbDNvZGxfOFNGVW9weUlqZE4tTU9tUGhGT3R5LXJPWlltallzS1A0TnpVTy1uVlJKcWZMWE8xVS1raF9GV3pTZzBYMVRUbkRIQUYxRnpsdmp6bGxqQ1U1TS1vQlc1QTRDcE1oWkVXSWZkVGxKdGRUSC1s?oc=5\" target=\"_blank\">Aller Aqua fined NOK 5m over 2022 Norway salmon escape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
@@ -3683,6 +3712,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1524,
+      "headline": "Schouw & Co. Seeks Bondholder Nod for BioMar IPO Strategy - BriefGlance",
+      "story_summary": "Schouw & Co is seeking bondholder consent for a strategy involving a potential BioMar IPO. The announcement indicates corporate governance processes underway around the aquaculture feed subsidiary's future ownership structure and market positioning.\n\nNote: the article URL suggests this is reporting on a bondholder meeting or disclosure, but the full text was not provided, limiting detailed fact extraction from the actual article body.\n\n# EDIT: Given only the headline and URL structure, the following analysis is based on what the title and context indicate. The key claim involves an IPO strategy requiring bondholder approval, which is a significant corporate governance and financial event for the Schouw Group / BioMar constellation. Without the article body, I cannot verify specific quotes, financial figures or other details, but the prominence is clearly primary (BioMar and the IPO are the central subject), and sentiment is neutral (a procedural corporate announcement).\n\n# EDIT NOTE: This analysis may be incomplete. The actual article text would typically contain detail about timing, valuation expectations, market rationale, management commentary, bondholder reactions, and strategic context. Please provide the full article if available.\n\nNote 2: article body not supplied (only headline/summary stub), so key_claims and people_quoted cannot be reliably extracted. Analysis based on headline and keyword match only.\n\nOther fields:\n- is_about_target_brand: true (Schouw & Co and BioMar are the central subject)\n- key_claims: [\"Schouw & Co is seeking bondholder approval for a BioMar IPO strategy\"] — only claim inferrable from headline without article body\n- people_quoted: [] — no quotes available in the provided snippet\n- risk_flags: [\"financial\", \"exec_statement\"] — IPO and corporate governance are financial in nature; any such announcement typically involves management or board-level positioning (marked as exec_statement pending confirmation from full text)\n\nACTUAL JSON RESPONSE (no preamble):\n\n{\"sentiment\": \"neutral\", \"sentiment_confidence\": 0.85, \"prominence\": \"primary\", \"angle\": \"Schouw seeks bondholder approval for BioMar IPO strategy\", \"key_claims\": [\"Schouw & Co is seeking bondholder consent for a BioMar IPO strategy\"], \"people_quoted\": [], \"risk_flags\": [\"financial\"], \"summary\": \"Schouw & Co is seeking bondholder approval for a corporate strategy involving BioMar. The announcement signals governance processes underway regarding the aquaculture feed subsidiary's potential future market structure.\"}{",
+      "first_seen": "2026-02-06T08:00:00+00:00",
+      "last_seen": "2026-02-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1406,
@@ -14809,6 +14852,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1523,
+      "headline": "BioMar and Deep Branch team up to trial single cell protein in salmon feeds - Global Seafood Alliance",
+      "story_summary": "BioMar has partnered with Deep Branch to conduct trials of single cell protein as an ingredient in salmon feeds. The collaboration represents an initiative to explore alternative, more sustainable feed components for aquaculture.",
+      "first_seen": "2022-05-10T07:00:00+00:00",
+      "last_seen": "2022-05-10T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 68,
@@ -62620,6 +62677,105 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzV1d1MHFTQzJGR1pDVnBIQkVYR3ViQ005ZDZlMmJkdHFNWWlRS2ZkWkFHVWZHOXVyd3Blb3NEMlNyeTVpLUEwQnQyUWpvQ2Q0Nlp3VjlVcXVvaE14T1VRdkpvZzRoa0VENVB1UWdyekN6akx3UUNPMw?oc=5\" target=\"_blank\">EGI - ny vekstmodell fra EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 109385,
+      "story_id": 1524,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGM0RkxZaFF4cTFaZ1M3ckdFZ0R1dkRlak50M3kxczlaTFA2MU9TWGZWNFpudXFIVmZSWnJLankzWGFucGNKWFVfMldoQTdzNUMzSDZ5dUdFYTBCSXF5Z19nWXNNTGpoZmdLTEpnTzVPMFpHZjhtek5iTUNmblAybTgyeExjY3NjQ3ZtajAyMk0?oc=5",
+      "title": "Schouw & Co. Seeks Bondholder Nod for BioMar IPO Strategy - BriefGlance",
+      "source_name": "BriefGlance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-02-06T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw seeks bondholder approval for BioMar IPO strategy",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co is seeking bondholder consent for a strategy involving a potential BioMar IPO. The announcement indicates corporate governance processes underway around the aquaculture feed subsidiary's future ownership structure and market positioning.\n\nNote: the article URL suggests this is reporting on a bondholder meeting or disclosure, but the full text was not provided, limiting detailed fact extraction from the actual article body.\n\n# EDIT: Given only the headline and URL structure, the following analysis is based on what the title and context indicate. The key claim involves an IPO strategy requiring bondholder approval, which is a significant corporate governance and financial event for the Schouw Group / BioMar constellation. Without the article body, I cannot verify specific quotes, financial figures or other details, but the prominence is clearly primary (BioMar and the IPO are the central subject), and sentiment is neutral (a procedural corporate announcement).\n\n# EDIT NOTE: This analysis may be incomplete. The actual article text would typically contain detail about timing, valuation expectations, market rationale, management commentary, bondholder reactions, and strategic context. Please provide the full article if available.\n\nNote 2: article body not supplied (only headline/summary stub), so key_claims and people_quoted cannot be reliably extracted. Analysis based on headline and keyword match only.\n\nOther fields:\n- is_about_target_brand: true (Schouw & Co and BioMar are the central subject)\n- key_claims: [\"Schouw & Co is seeking bondholder approval for a BioMar IPO strategy\"] — only claim inferrable from headline without article body\n- people_quoted: [] — no quotes available in the provided snippet\n- risk_flags: [\"financial\", \"exec_statement\"] — IPO and corporate governance are financial in nature; any such announcement typically involves management or board-level positioning (marked as exec_statement pending confirmation from full text)\n\nACTUAL JSON RESPONSE (no preamble):\n\n{\"sentiment\": \"neutral\", \"sentiment_confidence\": 0.85, \"prominence\": \"primary\", \"angle\": \"Schouw seeks bondholder approval for BioMar IPO strategy\", \"key_claims\": [\"Schouw & Co is seeking bondholder consent for a BioMar IPO strategy\"], \"people_quoted\": [], \"risk_flags\": [\"financial\"], \"summary\": \"Schouw & Co is seeking bondholder approval for a corporate strategy involving BioMar. The announcement signals governance processes underway regarding the aquaculture feed subsidiary's potential future market structure.\"}{"
+    },
+    {
+      "id": 109425,
+      "story_id": 1523,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYml3MG1TOXQyYUhRYzNzUWRTVkd3a2t0ZVdFUnA0MHMxUFVUMnJTcFJ4ZHZocjc4NUF0ZkxaT21lLWk4Q25vQ3l6S05UM25UWVNzeDNTdWg3NEpWUnd1d3Uzb3pjZnM3RDFUVXhrR29jQkRETlFaNHVqYWdGVUxhWEpMU29DTVFGSS0xMzRUWG5nQXoyQ3pSUDBqZ3hmaTI0eVozUkI0OFpzTElPOTJJSVBmZUVwZw?oc=5",
+      "title": "BioMar and Deep Branch team up to trial single cell protein in salmon feeds - Global Seafood Alliance",
+      "source_name": "Global Seafood Alliance",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2022-05-10T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar partners with Deep Branch to trial novel sustainable feed ingredient",
+      "key_claims": [
+        "BioMar is trialling single cell protein in salmon feeds",
+        "The trial involves partnership with Deep Branch"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has partnered with Deep Branch to conduct trials of single cell protein as an ingredient in salmon feeds. The collaboration represents an initiative to explore alternative, more sustainable feed components for aquaculture."
+    },
+    {
+      "id": 109726,
+      "story_id": 1526,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHJyX0xxVXZDTVhVMVBlSXdudENEcF9vanFUUWZQVGJjMDFMdDZyeWRwendEaHBWaG5rUm95TGxmTFZ0TEtBSnc1NUFhWmU2MHZnaXpoMmdXMVhMMmNhc2dJbk4wMnBPdExUc04xUlJ2SUpaZWZ1dEEtOUgxeE5VaG1MMkhLY2ZQWDEwOEpmOV9jVFhrLVJ2TDRMc1R5M193cXFabC1HS204eXNSTWZoUHdwQkRaN0NZRURHRWN30gHDAUFVX3lxTE5DRHJJTTl0MlRGYVNSVVBXaXoxSWI2Y2lOM1RpZWdlUEpJS0VXRXlVM1hST0lKekUzVzhUOU1BZTR2MnVjNE1SbU8tYWRnanUyY04yS0IxOWQ0SmNyV25Gb0pvV3VZVUF2bmRXRGVLM283Y1EzWTZuckhUSDZFNkd3OWhwMklQVkFGRkdJaG1nRlVnR2VFajFTNWZXU2lxUzBWZUtEbk5RY18xWUYzSGhMemhfWmFuTHdKeEhlaHVXR21vbw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 21 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-05-26T11:18:55+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Share buyback programme execution update for week 21 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced details of its share buyback programme for week 21 of 2026. The article reports on the execution of the company's ongoing capital allocation initiative during this period."
+    },
+    {
+      "id": 109991,
+      "story_id": 1525,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13V05fVkEtakFJZ3JpWTFSeC1zcFBwQXJaQnM0Vnd6T0dISUo0TlJVX2V3aThQQnZSUGxBS3hfaEJQTUxVdTVyYktKR0lOQU1sMFAyQkxIcUVCTWpGWjNwenc0MDdHbENBZ3ZhVG1xSnJHWGs?oc=5",
+      "title": "– Kjører med forsterket stab - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-04-05T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE13V05fVkEtakFJZ3JpWTFSeC1zcFBwQXJaQnM0Vnd6T0dISUo0TlJVX2V3aThQQnZSUGxBS3hfaEJQTUxVdTVyYktKR0lOQU1sMFAyQkxIcUVCTWpGWjNwenc0MDdHbENBZ3ZhVG1xSnJHWGs?oc=5\" target=\"_blank\">– Kjører med forsterket stab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
     }
   ],
   "share_of_voice": {
@@ -64746,7 +64902,7 @@
       {
         "week": "2022-W19",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -66162,7 +66318,7 @@
       {
         "week": "2026-W06",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 1
@@ -66229,7 +66385,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2026-W15",
@@ -66290,7 +66446,7 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -66303,7 +66459,7 @@
       },
       {
         "company": "BioMar",
-        "count": 712
+        "count": 715
       },
       {
         "company": "Cargill",
@@ -66315,7 +66471,7 @@
       },
       {
         "company": "Skretting",
-        "count": 597
+        "count": 598
       }
     ]
   }
