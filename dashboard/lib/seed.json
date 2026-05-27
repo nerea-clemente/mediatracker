@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-27T18:28:33+00:00",
+  "generated_at": "2026-05-27T23:13:55+00:00",
   "stats": {
-    "mention_count": 1723,
-    "story_count": 1522,
-    "analyzed_count": 721,
+    "mention_count": 1729,
+    "story_count": 1526,
+    "analyzed_count": 724,
     "off_topic_mentions": 53,
     "off_topic_stories": 34
   },
@@ -277,6 +277,20 @@
   ],
   "stories": [
     {
+      "id": 1548,
+      "headline": "Enighet for fiskefôr-industrien - vol.no",
+      "story_summary": "The article reports on an agreement reached within the fish feed industry. BioMar is mentioned in connection with industry-wide consensus, though details are not fully visible in the provided excerpt.",
+      "first_seen": "2026-05-27T23:08:18+00:00",
+      "last_seen": "2026-05-27T23:08:18+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1538,
       "headline": "News - Katherine Bryar switches from BioMar to global investment fund - Fish Farmer",
       "story_summary": "Katherine Bryar has left BioMar to take a position with a global investment fund. The move represents a career transition for the executive away from the aquaculture feed company to the investment sector.",
@@ -352,6 +366,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQncxVEtqbzhkNW1qc1hoaU9OYXRSTGdKNU51ak81a1NlaUg5Mm9PZzJnN1M4ZUpDejhlRlZrM2xzdjRTTHdWNklmZmtRSXZMYzVrX2I3aTNfMUVwUDc3RkxjZ3h6TFM1YlQ3V0VUMlVMSElvTkhVN3JaT01VVFp0SDVxenlncjhyZlNOOXlkcEFpZ9IBkgFBVV95cUxOQncxVEtqbzhkNW1qc1hoaU9OYXRSTGdKNU51ak81a1NlaUg5Mm9PZzJnN1M4ZUpDejhlRlZrM2xzdjRTTHdWNklmZmtRSXZMYzVrX2I3aTNfMUVwUDc3RkxjZ3h6TFM1YlQ3V0VUMlVMSElvTkhVN3JaT01VVFp0SDVxenlncjhyZlNOOXlkcEFpZw?oc=5\" target=\"_blank\">Skretting: highlights emissions cuts in new impact report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2026-05-27T07:28:46+00:00",
       "last_seen": "2026-05-27T07:28:46+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1547,
+      "headline": "Skretting publica su Reporte de Impacto 2025 destacando avances - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWdERlQxMUI1dWFRRWxCLXRaTkNZREFpcTRoQU41emxYQW5MdmYwc0x5VC16ZjVzX3BRemRzbzJreGN0a3JXUkxRSlNpM21mTjU4QWJxLVNUYW9EOF9fLUNHMTUxQnFvTUdQVGVTRTFKWnZKOWptNFB5NXlkYU1aNS1JWExvbFI5eGdlQ3VfYVZlTnRvb3o4QXp4UlNpYW9YT2lWU2J3b1BUaDhEUzFTYmJPNUhpTXZBTl9YNldNa3JXSVE?oc=5\" target=\"_blank\">Skretting publica su Reporte de Impacto 2025 destacando avances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2026-05-26T20:50:00+00:00",
+      "last_seen": "2026-05-26T20:50:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -987,7 +1015,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 5,
+      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -1590,14 +1618,14 @@
     {
       "id": 1012,
       "headline": "Schouw & Co Keeps Full-Year 2026 Revenue, EBITDA Guidance - TradingView",
-      "story_summary": "Schouw & Co, the Danish industrial conglomerate and parent of BioMar, confirmed it is maintaining its full-year 2026 revenue and EBITDA guidance. The announcement suggests the company is on track with its financial targets despite market conditions or operational challenges that may have prompted the clarification statement.",
-      "first_seen": "2026-05-01T06:02:00+00:00",
+      "story_summary": "Schouw & Co reaffirmed its full-year 2026 revenue and EBITDA guidance, indicating management confidence in meeting its forecasts. The announcement suggests stable operational performance across the conglomerate's portfolio, which includes BioMar Group aquaculture operations.",
+      "first_seen": "2026-04-30T07:00:00+00:00",
       "last_seen": "2026-05-01T06:04:18+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -2356,6 +2384,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 1546,
+      "headline": "Sang, Sosialt fellesskap | Kristin vil skape mer hverdagslykke: – Meld dere på! - Solabladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGpISmJ0VW5hVV9TeFdoNUZsbldGbW1YUE5VYWh2YVdYVmtNZzVDdFctLUFEUEk2ZS1raXdXS3Z6OVl6WEhrcmZ3X2FLN2RZRjZmRzhYSGlJWmVadGNqa1VwVGo3X1dVVk42UHozcmcxUlkzOEpOQkljODVRSHNNU1pQcXhWVmlOVDlVTVlmbFpyN0kxRk1aQg?oc=5\" target=\"_blank\">Sang, Sosialt fellesskap | Kristin vil skape mer hverdagslykke: – Meld dere på!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>",
+      "first_seen": "2026-04-02T07:00:00+00:00",
+      "last_seen": "2026-04-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 809,
@@ -17630,6 +17672,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1545,
+      "headline": "Patentkrangel mellom STIM og BioMar havner i retten - iLaks",
+      "story_summary": "A patent dispute between STIM and BioMar has reached the court system. The article reports on the legal conflict between the two parties without indicating the underlying details or outcome of the case.",
+      "first_seen": "2019-10-08T07:00:00+00:00",
+      "last_seen": "2019-10-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1335,
@@ -63537,6 +63593,150 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPakt6c2tUb2pwbHBQMVBuaV9aYks3bXVDeUFiV3dSTEVya1plZ1VYeW5lQU1FNE5NTnNGckNKdjBFVWVPYlRmbmQwY0kxV0VEVkNET1hnTGd4UmdxUzltWjR3U3FnbVdXZjZHVkJTUjhwMDVNMTI2SlNzR1N1OHVKMXhHdndTNEQ4VkpUQw?oc=5\" target=\"_blank\">Empresa dona casi 20.000 insumos a Cesfam de Osorno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonChile</font>"
+    },
+    {
+      "id": 114595,
+      "story_id": 1548,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16bW5DRXZDU0trdFRPLVpJQVhtMW1HOUtpanZvQ0FGS0h1WFlaTmJfdGtpZnI2czZsOUoxUHM4ejV0b0FnMmpSUDNNWUw0cmtjeTZ6S29nT0FfYWtFQ0tNS3JSMjViUFo2OENkM25SRm1DZUlyaGc?oc=5",
+      "title": "Enighet for fiskefôr-industrien - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-27T23:08:18+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "Fish feed industry reaches agreement on common standards",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article reports on an agreement reached within the fish feed industry. BioMar is mentioned in connection with industry-wide consensus, though details are not fully visible in the provided excerpt."
+    },
+    {
+      "id": 114683,
+      "story_id": 1545,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10MDdOX3FOMGlRTk9sbjFXVHplTVJObVI4cEdSR1V6ZnBkejFoYVBnOGZhbUFqV0FXYUhNRnNpcC1tUzVHcHRlekRWZ21yV2dMZkxQUGROV0FYdS1YV09TTFI4VlBxNlVrQnpQXzVTeVI3X2h4T25pNQ?oc=5",
+      "title": "Patentkrangel mellom STIM og BioMar havner i retten - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-10-08T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Patent dispute between STIM and BioMar escalates to court",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A patent dispute between STIM and BioMar has reached the court system. The article reports on the legal conflict between the two parties without indicating the underlying details or outcome of the case."
+    },
+    {
+      "id": 114911,
+      "story_id": 1012,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTk9KT2FDaWRRd0IzLVRPakd2QkN4S1NaZmVNTkszd1FxSjF1RU9FVnhGby1pTmo4RFd4WTBZR0RpQ3VzSzF3Z1cwaXpGTTJtSmhEU1FhZnZmSXBpSVU5OHZ0YjEwdjVWdjJHWkpuQUdaT3lNdkZ1eFpoS1pYNlAwdnpqcWFwTC05M2lhMHVqa29JbHdkUzF4S3locU9QVzVXWExfWUZXSXpSbGppdU5KX3dNbjNQT3ZIVUxhZ1piZjNiUQ?oc=5",
+      "title": "Schouw & Co Keeps Full-Year 2026 Revenue, EBITDA Guidance - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-04-30T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co maintains full-year 2026 financial guidance",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co reaffirmed its full-year 2026 revenue and EBITDA guidance, indicating management confidence in meeting its forecasts. The announcement suggests stable operational performance across the conglomerate's portfolio, which includes BioMar Group aquaculture operations."
+    },
+    {
+      "id": 115120,
+      "story_id": 1273,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uZWZLcDVyX2VSOExsSFN2dlRQajdkdjBkd1M1VGpacHNzdjBXRkdKQTZabXJscDM2NjhpZm9hRmg4NG41MEsxN2w2UlpoYU5oaGxYOS1Uekg5bnFzTzEwaW5jODRZVEs4SmM1Zk5BRWhaTGdLZWdwb2JLTms?oc=5",
+      "title": "19’ - Mål av Ingeborg Skretting (1-0) - TV2.no",
+      "source_name": "TV2.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9uZWZLcDVyX2VSOExsSFN2dlRQajdkdjBkd1M1VGpacHNzdjBXRkdKQTZabXJscDM2NjhpZm9hRmg4NG41MEsxN2w2UlpoYU5oaGxYOS1Uekg5bnFzTzEwaW5jODRZVEs4SmM1Zk5BRWhaTGdLZWdwb2JLTms?oc=5\" target=\"_blank\">19’ - Mål av Ingeborg Skretting (1-0)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
+    },
+    {
+      "id": 115136,
+      "story_id": 1546,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGpISmJ0VW5hVV9TeFdoNUZsbldGbW1YUE5VYWh2YVdYVmtNZzVDdFctLUFEUEk2ZS1raXdXS3Z6OVl6WEhrcmZ3X2FLN2RZRjZmRzhYSGlJWmVadGNqa1VwVGo3X1dVVk42UHozcmcxUlkzOEpOQkljODVRSHNNU1pQcXhWVmlOVDlVTVlmbFpyN0kxRk1aQg?oc=5",
+      "title": "Sang, Sosialt fellesskap | Kristin vil skape mer hverdagslykke: – Meld dere på! - Solabladet",
+      "source_name": "Solabladet",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-04-02T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGpISmJ0VW5hVV9TeFdoNUZsbldGbW1YUE5VYWh2YVdYVmtNZzVDdFctLUFEUEk2ZS1raXdXS3Z6OVl6WEhrcmZ3X2FLN2RZRjZmRzhYSGlJWmVadGNqa1VwVGo3X1dVVk42UHozcmcxUlkzOEpOQkljODVRSHNNU1pQcXhWVmlOVDlVTVlmbFpyN0kxRk1aQg?oc=5\" target=\"_blank\">Sang, Sosialt fellesskap | Kristin vil skape mer hverdagslykke: – Meld dere på!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>"
+    },
+    {
+      "id": 115309,
+      "story_id": 1547,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWdERlQxMUI1dWFRRWxCLXRaTkNZREFpcTRoQU41emxYQW5MdmYwc0x5VC16ZjVzX3BRemRzbzJreGN0a3JXUkxRSlNpM21mTjU4QWJxLVNUYW9EOF9fLUNHMTUxQnFvTUdQVGVTRTFKWnZKOWptNFB5NXlkYU1aNS1JWExvbFI5eGdlQ3VfYVZlTnRvb3o4QXp4UlNpYW9YT2lWU2J3b1BUaDhEUzFTYmJPNUhpTXZBTl9YNldNa3JXSVE?oc=5",
+      "title": "Skretting publica su Reporte de Impacto 2025 destacando avances - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-05-26T20:50:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWdERlQxMUI1dWFRRWxCLXRaTkNZREFpcTRoQU41emxYQW5MdmYwc0x5VC16ZjVzX3BRemRzbzJreGN0a3JXUkxRSlNpM21mTjU4QWJxLVNUYW9EOF9fLUNHMTUxQnFvTUdQVGVTRTFKWnZKOWptNFB5NXlkYU1aNS1JWExvbFI5eGdlQ3VfYVZlTnRvb3o4QXp4UlNpYW9YT2lWU2J3b1BUaDhEUzFTYmJPNUhpTXZBTl9YNldNa3JXSVE?oc=5\" target=\"_blank\">Skretting publica su Reporte de Impacto 2025 destacando avances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -64895,7 +65095,7 @@
       {
         "week": "2019-W41",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -67146,7 +67346,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2026-W15",
@@ -67175,7 +67375,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 66,
+        "BioMar": 67,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -67186,7 +67386,7 @@
         "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 17
+        "Skretting": 18
       },
       {
         "week": "2026-W20",
@@ -67207,10 +67407,10 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       }
     ],
     "totals": [
@@ -67220,7 +67420,7 @@
       },
       {
         "company": "BioMar",
-        "count": 721
+        "count": 724
       },
       {
         "company": "Cargill",
@@ -67232,7 +67432,7 @@
       },
       {
         "company": "Skretting",
-        "count": 613
+        "count": 616
       }
     ]
   }
