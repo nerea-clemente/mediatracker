@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-26T23:05:25+00:00",
+  "generated_at": "2026-05-27T08:51:47+00:00",
   "stats": {
-    "mention_count": 1702,
-    "story_count": 1504,
-    "analyzed_count": 715,
-    "off_topic_mentions": 52,
+    "mention_count": 1708,
+    "story_count": 1509,
+    "analyzed_count": 718,
+    "off_topic_mentions": 53,
     "off_topic_stories": 34
   },
   "outlets": [
@@ -164,6 +164,7 @@
     "Norsk Lokalradioforbund",
     "Noticias de Navarra",
     "Næringslivets sikkerhetsorganisasjon",
+    "Offshore-Energy.biz",
     "Onda Vasca",
     "Oppland Arbeiderblad",
     "PR Newswire",
@@ -274,6 +275,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1531,
+      "headline": "53’ - Sjanse til Ingeborg Skretting - TV2.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42WnhxSTlBcnF3SnNDNlAwelZSYzJDY1BqVkU4amRyTzNRekF2RXAyMF9FT19JZXhqMlZBRkxsVlhEU3RTd3ItX2hpa2xDbUZvX1RRN3g2dXFmbkUwVlA2VUp0ZlRRV3pSRlJyLUFjdVg4ZlJQODFoT3ZPUUU?oc=5\" target=\"_blank\">53’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>",
+      "first_seen": "2026-05-26T22:57:18+00:00",
+      "last_seen": "2026-05-26T22:57:18+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 1526,
       "headline": "Schouw & Co. share buy-back programme, week 21 2026 - The Manila Times",
@@ -3882,6 +3897,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1530,
+      "headline": "BioMar cierra 2025 en línea con sus proyecciones financieras - Mundoacuicola",
+      "story_summary": "BioMar concluded its 2025 financial year meeting its forecasted financial projections. The company's performance aligned with previously communicated guidance for the period.",
+      "first_seen": "2026-01-28T08:00:00+00:00",
+      "last_seen": "2026-01-28T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 285,
       "headline": "Good results for 2025 given the circumstances and a strong outlook for 2026 - Finansavisen",
       "story_summary": "Schouw & Co reports satisfactory 2025 financial results despite challenging circumstances and expresses a positive outlook for 2026. The company demonstrates resilience and confidence in its market position moving forward into the new year.",
@@ -5053,7 +5082,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 12,
+      "pickup_count": 13,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -6123,6 +6152,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1529,
+      "headline": "Håvard Walde visita Chile por primera vez como líder global de Skretting Salmon - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFpJVEVYa2ZVWjdBMmlqdlpZRlVWb0FQb2ZmUEJnODZrQmVDbGpPQkxJRUdjdjloblNqWjJSU1c4Y3ktbmVrNXdGUTRyam5lY3RJdGhyLW9Oams2RWhUa3ktdm4wMm5YWTRmeVpGajFfRWltUlNrZ3VHQk4xXzVqbHFodE91TUIzeG5wblFURXlYWUlxS2JpRVpFQWFNdk9oNWpDS1A4MEc5SUxHLW53Xy1fYw?oc=5\" target=\"_blank\">Håvard Walde visita Chile por primera vez como líder global de Skretting Salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2025-10-10T07:00:00+00:00",
+      "last_seen": "2025-10-10T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 727,
@@ -9296,6 +9339,20 @@
       "id": 643,
       "headline": "Skal fôre fôrfabrikkene med nye skip og lavere utslipp - MTLogistikk.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTl5NVpOU2NsdzFRRnduZ1BrbUZxcVRHSzdXaUhsMFBiak9vXzNaOE1HcXY0TzY4eldDLUhTcHcyRW1EYmtLeVQwZXhEX0FGUURjQjFmYjJiaU81MVBjeE1zdlV3ZVhsQVJENXFaUGVFNTNzMHlWVWd0YjlmaWgxY0Q1YllrWU11blFSdk5VZjdtVHhhYWhWOGdsTUhBaldwdXB6QktOSFVCWl9IT2lmYjRSVEN5UFJwTElOZ2dsMDZFU0ZW?oc=5\" target=\"_blank\">Skal fôre fôrfabrikkene med nye skip og lavere utslipp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MTLogistikk.no</font>",
+      "first_seen": "2025-04-15T07:00:00+00:00",
+      "last_seen": "2025-04-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1528,
+      "headline": "Vertom to support green shipping efforts in Norway with new diesel-electric quartet deal - Offshore-Energy.biz",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPd1c1X1YxTG5waVpkVnJBbG1aUFVmOUQ2SVBGYU9sNUVmazE1LXk2eHVzWUdDVkRra1BuRExnQmJMVklLVU9qeExSRWc0cFBUVkNnSl9PVUhhZW5LcGo2UFFuZVFWbGJtSG1ZTTNHUElrdDVXOThQMW9EdHZ2VDJ3N0FJaVdHMEJ0OHFNZHZXdHdhQlhXYTdSZjNhTm1kS1VVSzF4VDF5clBxd0RXNTVqYnNKbEZVc0JxYlVsanpB?oc=5\" target=\"_blank\">Vertom to support green shipping efforts in Norway with new diesel-electric quartet deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Offshore-Energy.biz</font>",
       "first_seen": "2025-04-15T07:00:00+00:00",
       "last_seen": "2025-04-15T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -18971,6 +19028,20 @@
       ],
       "pickup_count": 1,
       "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
+      "id": 1527,
+      "headline": "Onsdag åpnet Biomar verdens største produksjonslinje på Karmøy. Dette sier ledelsen om fabrikken på Myre - vol.no",
+      "story_summary": "BioMar inaugurated the world's largest aquaculture feed production line at its Karmøy facility on Myre. The opening represents a significant expansion of the company's manufacturing capacity.",
+      "first_seen": "2017-10-26T07:00:00+00:00",
+      "last_seen": "2017-10-26T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
       "company": "BioMar"
     },
     {
@@ -62776,6 +62847,153 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE13V05fVkEtakFJZ3JpWTFSeC1zcFBwQXJaQnM0Vnd6T0dISUo0TlJVX2V3aThQQnZSUGxBS3hfaEJQTUxVdTVyYktKR0lOQU1sMFAyQkxIcUVCTWpGWjNwenc0MDdHbENBZ3ZhVG1xSnJHWGs?oc=5\" target=\"_blank\">– Kjører med forsterket stab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 111556,
+      "story_id": 1527,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3FWNUpBajBnUlRSWWRjZGM1TURBa3Rsc1JuWGM0Nnk3VzZWQkJRakkwb1VBSkJEZGZrZF93eTZLUzI5OGdvcnVPdjZKUmVvMTRDSXpuUk42Rlk0RE9zd1ZhbWxSYkRmRE9KeVVuNHQtRjlqNVJFa1NtZk1HeUVGdFV5Q2phUVc0QmVRS0ZaSzFqNFBQUXZRYWgyeUJ4elIzcmV0U1laLWE2VWk0TjR2dThaTGgyeUtmS0lOemNWTTBjQ18ySTR5TWxKSnZzd1hYaXJ2NXZ3?oc=5",
+      "title": "Onsdag åpnet Biomar verdens største produksjonslinje på Karmøy. Dette sier ledelsen om fabrikken på Myre - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-10-26T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar opens world's largest aquaculture feed production line on Karmøy",
+      "key_claims": [
+        "BioMar opened the world's largest production line on Wednesday",
+        "The facility is located on Karmøy at Myre"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar inaugurated the world's largest aquaculture feed production line at its Karmøy facility on Myre. The opening represents a significant expansion of the company's manufacturing capacity."
+    },
+    {
+      "id": 111702,
+      "story_id": 1530,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVRaSGlJRlkzLWY5QTRmb3QzZkZoak1oYVpoTjRGMG5JdVl4VklBaW5DSTI0RExtdHVfSkFkUWVaLVdfLU5uc1I2QW1wR0VxSmZTSFJ5SHd1Vlh5Y3QtR2JzOFoyc3AzeFNhWWFoTC1KRXB4ZE5ZM095c0VTb2NlTWdGcXVWRFZsam5MVEV3bzVPMHVoRENMY3NB?oc=5",
+      "title": "BioMar cierra 2025 en línea con sus proyecciones financieras - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-01-28T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar closes 2025 financial year in line with projections",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar concluded its 2025 financial year meeting its forecasted financial projections. The company's performance aligned with previously communicated guidance for the period."
+    },
+    {
+      "id": 111793,
+      "story_id": 262,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGlwN0t4cTJyNGhfdUZIQThKZDBGTXdyNUJjUUYwVE1ZR2U1X2hSRTBQdGNDTktaS3pic1BpMGhhOEJwYUlKajZhbkkxSEVxcWMwMVJubTZSZ3dMV1RKaE50aUZ2UUhWdEVnZnNfdzVYbmZhajhIUktrM09SODRaMENibFZ0VDFJV2Z2Q3h4VER1LVJwdWpTUmJycmFoNDZJMGZKSGFSY9IBrAFBVV95cUxNSjJsSzQwUUFjQXdIYTNOUkYxZHpLN3lkck1adGlhMXFCTmxPMUp2NE0tR3JLMEtTU2dJWFAzQ3Q5d0NCd1dtYzhQU0FkeHhkUTZhR3FtQlNiUF9aU2paRUI3dnJra05SQmtsMVpublpmNXVSX0pST1dSQXg0YThQQV85YlJrUEpNbWQxRzhMak9TSWhsNVZCOFJyT19IUU93N1RqZ2NFSmtrb0Ew?oc=5",
+      "title": "Ocho detenidos tras registros en Biomar Oil por un presunto fraude de hidrocarburos de 280 millones - Noticias de Navarra",
+      "source_name": "Noticias de Navarra",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Spanish hydrocarbon company Biomar Oil under investigation for alleged fraud",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Eight people were arrested following raids on Biomar Oil in connection with a suspected hydrocarbon fraud scheme involving €280 million. The operation was conducted by Spanish authorities investigating financial crimes at the company."
+    },
+    {
+      "id": 112006,
+      "story_id": 1528,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd1c1X1YxTG5waVpkVnJBbG1aUFVmOUQ2SVBGYU9sNUVmazE1LXk2eHVzWUdDVkRra1BuRExnQmJMVklLVU9qeExSRWc0cFBUVkNnSl9PVUhhZW5LcGo2UFFuZVFWbGJtSG1ZTTNHUElrdDVXOThQMW9EdHZ2VDJ3N0FJaVdHMEJ0OHFNZHZXdHdhQlhXYTdSZjNhTm1kS1VVSzF4VDF5clBxd0RXNTVqYnNKbEZVc0JxYlVsanpB?oc=5",
+      "title": "Vertom to support green shipping efforts in Norway with new diesel-electric quartet deal - Offshore-Energy.biz",
+      "source_name": "Offshore-Energy.biz",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-04-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPd1c1X1YxTG5waVpkVnJBbG1aUFVmOUQ2SVBGYU9sNUVmazE1LXk2eHVzWUdDVkRra1BuRExnQmJMVklLVU9qeExSRWc0cFBUVkNnSl9PVUhhZW5LcGo2UFFuZVFWbGJtSG1ZTTNHUElrdDVXOThQMW9EdHZ2VDJ3N0FJaVdHMEJ0OHFNZHZXdHdhQlhXYTdSZjNhTm1kS1VVSzF4VDF5clBxd0RXNTVqYnNKbEZVc0JxYlVsanpB?oc=5\" target=\"_blank\">Vertom to support green shipping efforts in Norway with new diesel-electric quartet deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Offshore-Energy.biz</font>"
+    },
+    {
+      "id": 112007,
+      "story_id": 1531,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42WnhxSTlBcnF3SnNDNlAwelZSYzJDY1BqVkU4amRyTzNRekF2RXAyMF9FT19JZXhqMlZBRkxsVlhEU3RTd3ItX2hpa2xDbUZvX1RRN3g2dXFmbkUwVlA2VUp0ZlRRV3pSRlJyLUFjdVg4ZlJQODFoT3ZPUUU?oc=5",
+      "title": "53’ - Sjanse til Ingeborg Skretting - TV2.no",
+      "source_name": "TV2.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-26T22:57:18+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42WnhxSTlBcnF3SnNDNlAwelZSYzJDY1BqVkU4amRyTzNRekF2RXAyMF9FT19JZXhqMlZBRkxsVlhEU3RTd3ItX2hpa2xDbUZvX1RRN3g2dXFmbkUwVlA2VUp0ZlRRV3pSRlJyLUFjdVg4ZlJQODFoT3ZPUUU?oc=5\" target=\"_blank\">53’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>"
+    },
+    {
+      "id": 112222,
+      "story_id": 1529,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFpJVEVYa2ZVWjdBMmlqdlpZRlVWb0FQb2ZmUEJnODZrQmVDbGpPQkxJRUdjdjloblNqWjJSU1c4Y3ktbmVrNXdGUTRyam5lY3RJdGhyLW9Oams2RWhUa3ktdm4wMm5YWTRmeVpGajFfRWltUlNrZ3VHQk4xXzVqbHFodE91TUIzeG5wblFURXlYWUlxS2JpRVpFQWFNdk9oNWpDS1A4MEc5SUxHLW53Xy1fYw?oc=5",
+      "title": "Håvard Walde visita Chile por primera vez como líder global de Skretting Salmon - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-10-10T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFpJVEVYa2ZVWjdBMmlqdlpZRlVWb0FQb2ZmUEJnODZrQmVDbGpPQkxJRUdjdjloblNqWjJSU1c4Y3ktbmVrNXdGUTRyam5lY3RJdGhyLW9Oams2RWhUa3ktdm4wMm5YWTRmeVpGajFfRWltUlNrZ3VHQk4xXzVqbHFodE91TUIzeG5wblFURXlYWUlxS2JpRVpFQWFNdk9oNWpDS1A4MEc5SUxHLW53Xy1fYw?oc=5\" target=\"_blank\">Håvard Walde visita Chile por primera vez como líder global de Skretting Salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
     }
   ],
   "share_of_voice": {
@@ -63694,7 +63912,7 @@
       {
         "week": "2017-W43",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -65985,7 +66203,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2025-W17",
@@ -66185,7 +66403,7 @@
         "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 1,
-        "Skretting": 11
+        "Skretting": 12
       },
       {
         "week": "2025-W42",
@@ -66246,7 +66464,7 @@
       {
         "week": "2025-W49",
         "Aller Aqua": 0,
-        "BioMar": 31,
+        "BioMar": 32,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -66310,7 +66528,7 @@
       {
         "week": "2026-W05",
         "Aller Aqua": 0,
-        "BioMar": 10,
+        "BioMar": 11,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -66449,7 +66667,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       }
     ],
     "totals": [
@@ -66459,7 +66677,7 @@
       },
       {
         "company": "BioMar",
-        "count": 715
+        "count": 718
       },
       {
         "company": "Cargill",
@@ -66471,7 +66689,7 @@
       },
       {
         "company": "Skretting",
-        "count": 598
+        "count": 601
       }
     ]
   }
