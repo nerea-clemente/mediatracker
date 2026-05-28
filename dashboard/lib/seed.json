@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-28T18:38:51+00:00",
+  "generated_at": "2026-05-28T23:11:44+00:00",
   "stats": {
-    "mention_count": 1756,
-    "story_count": 1547,
-    "analyzed_count": 747,
+    "mention_count": 1759,
+    "story_count": 1550,
+    "analyzed_count": 750,
     "off_topic_mentions": 53,
     "off_topic_stories": 34
   },
@@ -279,6 +279,34 @@
   ],
   "stories": [
     {
+      "id": 1572,
+      "headline": "BioMar Finalizes IPO with Valuation of DKK 10.85 Billion | Aquafeed Giant Goes Public - News and Statistics - IndexBox",
+      "story_summary": "BioMar Group, the aquaculture feed producer, has finalized its initial public offering at a valuation of DKK 10.85 billion. The IPO marks a significant milestone for the company as it transitions to public ownership and listing status.",
+      "first_seen": "2026-05-28T19:20:00+00:00",
+      "last_seen": "2026-05-28T19:20:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1571,
+      "headline": "Skretting reporta avances en sostenibilidad e innovación acuícola durante 2025 - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHFKaUgxeWpqUlIwTHhwVnNnQ3RjLXNSWTFPc1pPZU1WOGZIMEM1YjF2UG53UFVaTVVpWGpKYUZyNmhnT3N4M3JrWjR4ZVZsLXR3SXFuLWhLd2ZYUGRTc050ZjdDeDFpTDdORlZpWWdPb1JGOEI2X1J2NkdvRE44eVZVT2FjQldvNGNxVFJQRzlNdklGblBWa3FWNXNENEczdnFnTlRranpMMGhianF0OGR3?oc=5\" target=\"_blank\">Skretting reporta avances en sostenibilidad e innovación acuícola durante 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-05-28T19:08:53+00:00",
+      "last_seen": "2026-05-28T19:08:53+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1569,
       "headline": "BioMar completes IPO, achieves USD 1.7 billion valuation - SeafoodSource",
       "story_summary": "BioMar, the aquaculture feed producer, has completed its initial public offering with a valuation of USD 1.7 billion. The IPO marks a significant milestone for the company, separating it from parent company Schouw & Co.",
@@ -309,10 +337,10 @@
     {
       "id": 1567,
       "headline": "BioMar debuta en Bolsa de Copenhague manteniendo el control mayoritario del grupo - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXNwdERuNTBSTk5iZUlLVjNEVHhTajVUUF9kS3F5OG5jeDBhSktGeVd3VzZOQkQtN1d1TG9kaFdtcXVvRENRU3ZoLXpsSWpoUUxwQTlTT0dCSlJ3cXNrc09TcldILVhkNDR4MmszcFZiay1qZ2VyRnI4RGJSUjZyQXNjdnVaWVJMMG1STEZEMTBsXzBjTzRkbUJwOEI5TkNxalpmOXlsWUswcWVNSzk1OWMxRHMtTzA?oc=5\" target=\"_blank\">BioMar debuta en Bolsa de Copenhague manteniendo el control mayoritario del grupo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar, the aquaculture feed producer, has completed its debut on the Copenhagen Stock Exchange while maintaining majority control of the group. The listing represents a significant milestone in the company's corporate structure and market presence in Denmark's financial markets.",
       "first_seen": "2026-05-28T12:53:29+00:00",
       "last_seen": "2026-05-28T12:53:29+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -368,6 +396,20 @@
       "story_summary": "BioMar made its public market debut on the Copenhagen stock exchange and saw its share price rise 6.9% on the opening day. The positive opening reflects investor confidence in the aquaculture feed producer's market entry as a publicly listed company.}, ",
       "first_seen": "2026-05-28T08:47:22+00:00",
       "last_seen": "2026-05-28T08:47:22+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1570,
+      "headline": "BioMar goes public with DKK 10.85bn valuation - WEAREAQUACULTURE",
+      "story_summary": "BioMar has completed an initial public offering with a company valuation of DKK 10.85 billion. The listing marks a significant milestone for the aquaculture feed producer and its parent company Schouw & Co.",
+      "first_seen": "2026-05-28T08:23:05+00:00",
+      "last_seen": "2026-05-28T08:23:05+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -64655,16 +64697,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "BioMar's aquaculture feed company lists on Copenhagen stock exchange",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXNwdERuNTBSTk5iZUlLVjNEVHhTajVUUF9kS3F5OG5jeDBhSktGeVd3VzZOQkQtN1d1TG9kaFdtcXVvRENRU3ZoLXpsSWpoUUxwQTlTT0dCSlJ3cXNrc09TcldILVhkNDR4MmszcFZiay1qZ2VyRnI4RGJSUjZyQXNjdnVaWVJMMG1STEZEMTBsXzBjTzRkbUJwOEI5TkNxalpmOXlsWUswcWVNSzk1OWMxRHMtTzA?oc=5\" target=\"_blank\">BioMar debuta en Bolsa de Copenhague manteniendo el control mayoritario del grupo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar, the aquaculture feed producer, has completed its debut on the Copenhagen Stock Exchange while maintaining majority control of the group. The listing represents a significant milestone in the company's corporate structure and market presence in Denmark's financial markets."
     },
     {
       "id": 118121,
@@ -64716,6 +64758,82 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQZzRGWEVmZGZFcGlxNDFtODdCY2daVFVFaUpCSjF1OTVxQUJncDhSY2plaHpmQTUtTjJKVXRlaXpPWU8zWGE3WTU2RHhRWTdCSnpFNWpXVjZ3QTVhSV9LaXhOSGxrWU1XYUQ5NlU1dVU3aXFtcHFRZTd0S1ZtNEJwMjlSQUdyYlV2R0pYYTVYMDBWMWdCLTBrMDRUdjdjZ1JiamUxV29STHNWRUpCSTlieUJqVmtrY0NfX2VVY09UY00tQTU1YjQ2SzRvLUs4aThpc2dYRnBWWUlCNWsyZnlTdFBKNHhkaWdhUnQxQlZkZzVDaUNGU2dneEV0cWpIallodWhIMQ?oc=5\" target=\"_blank\">Skretting Chile recibe certificación ISO 50.001 de eficiencia energética marcando un hito en la industria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 118664,
+      "story_id": 1572,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1BlRm91VVlzV2dCcFpIV0lpeWNqWERpOFNpX1RNRjQ3QWlLY0ZvRl9ncTdGT1NJT3BJNHZ4WXl6S0wzRHJFZzlPQks0UHdXUmFXZFVYaWtycmNHYWJfMWtPenlPZ3FKZkhXSWJlN3lwVlNxUDFEeHV1ZGstZS1TRlZubDRYS3c?oc=5",
+      "title": "BioMar Finalizes IPO with Valuation of DKK 10.85 Billion | Aquafeed Giant Goes Public - News and Statistics - IndexBox",
+      "source_name": "IndexBox",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-28T19:20:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Aquaculture feed producer BioMar completes IPO at DKK 10.85 billion valuation",
+      "key_claims": [
+        "BioMar completed an initial public offering",
+        "The company was valued at DKK 10.85 billion in the IPO",
+        "BioMar is an aquaculture feed company"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group, the aquaculture feed producer, has finalized its initial public offering at a valuation of DKK 10.85 billion. The IPO marks a significant milestone for the company as it transitions to public ownership and listing status."
+    },
+    {
+      "id": 118668,
+      "story_id": 1570,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnNsUm1jaDAwdDd0RWVBSnkyZVJiNkx2SUx3a1Fwa1F1UTA4TXV2bVpiaVJQQ0JyNkptbUhZeGN4R0V5NFAtY2xtYUp4cEZYTnh5OFR2NkhManp1a1pET1UyMS1WWUFad25YRnVxdDI1X2MtOWQxc0hmTElhTWpMME1LREJoc3RMTnpWQ3ZGQlBLMDU50gGiAUFVX3lxTFBfMlJNbkNYalp4MlVaSklyMjBJci1TY0didW9CVEpkV05FMjlqSlRJc24xTDkyZ1N2WFJVdUFXRVRsVXJBUkwzdEkyZzc4V283OE14RXBFTTBqUDFEd3NISGk1VUpYSDc4V29EWU5EYVNYb2NrWEZtdnpuZWE1em9pLXlmUHdaNzFFUGRtUUVBWkx2eXREUVVwRTdPUEx1cXJfZw?oc=5",
+      "title": "BioMar goes public with DKK 10.85bn valuation - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-05-28T08:23:05+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar completes IPO at substantial valuation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has completed an initial public offering with a company valuation of DKK 10.85 billion. The listing marks a significant milestone for the aquaculture feed producer and its parent company Schouw & Co."
+    },
+    {
+      "id": 119487,
+      "story_id": 1571,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHFKaUgxeWpqUlIwTHhwVnNnQ3RjLXNSWTFPc1pPZU1WOGZIMEM1YjF2UG53UFVaTVVpWGpKYUZyNmhnT3N4M3JrWjR4ZVZsLXR3SXFuLWhLd2ZYUGRTc050ZjdDeDFpTDdORlZpWWdPb1JGOEI2X1J2NkdvRE44eVZVT2FjQldvNGNxVFJQRzlNdklGblBWa3FWNXNENEczdnFnTlRranpMMGhianF0OGR3?oc=5",
+      "title": "Skretting reporta avances en sostenibilidad e innovación acuícola durante 2025 - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-05-28T19:08:53+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHFKaUgxeWpqUlIwTHhwVnNnQ3RjLXNSWTFPc1pPZU1WOGZIMEM1YjF2UG53UFVaTVVpWGpKYUZyNmhnT3N4M3JrWjR4ZVZsLXR3SXFuLWhLd2ZYUGRTc050ZjdDeDFpTDdORlZpWWdPb1JGOEI2X1J2NkdvRE44eVZVT2FjQldvNGNxVFJQRzlNdklGblBWa3FWNXNENEczdnFnTlRranpMMGhianF0OGR3?oc=5\" target=\"_blank\">Skretting reporta avances en sostenibilidad e innovación acuícola durante 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
     }
   ],
   "share_of_voice": {
@@ -68386,10 +68504,10 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 25,
+        "BioMar": 27,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 8
+        "Skretting": 9
       }
     ],
     "totals": [
@@ -68399,7 +68517,7 @@
       },
       {
         "company": "BioMar",
-        "count": 748
+        "count": 750
       },
       {
         "company": "Cargill",
@@ -68411,7 +68529,7 @@
       },
       {
         "company": "Skretting",
-        "count": 618
+        "count": 619
       }
     ]
   }
