@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T08:55:38+00:00",
+  "generated_at": "2026-05-29T12:29:57+00:00",
   "stats": {
-    "mention_count": 1760,
-    "story_count": 1550,
-    "analyzed_count": 751,
-    "off_topic_mentions": 53,
-    "off_topic_stories": 34
+    "mention_count": 1762,
+    "story_count": 1552,
+    "analyzed_count": 753,
+    "off_topic_mentions": 54,
+    "off_topic_stories": 35
   },
   "outlets": [
     "20Minutos",
@@ -29,6 +29,7 @@
     "Bergens Tidende",
     "BioBioChile",
     "BioProcess International",
+    "Biomass Magazine",
     "Bladet Vesterålen",
     "Bloomberg.com",
     "BriefGlance",
@@ -278,6 +279,20 @@
     "vol.no"
   ],
   "stories": [
+    {
+      "id": 1574,
+      "headline": "News - BioMar successfully completes IPO - Fish Farmer",
+      "story_summary": "BioMar has successfully completed its initial public offering, marking a significant milestone for the aquaculture feed producer. The IPO represents a major corporate event for the Denmark-based company and its parent Schouw & Co portfolio company, though specific details on pricing, proceeds, or market performance are not provided in the available summary text or headline alone may provide contextual details clarified in full article text not provided here.    Return the structured analysis.  The article represents a major financial and corporate development for the aquaculture feed company BioMar, headquartered in Aarhus, Denmark and part of the Schouw & Co conglomerate, with the successful completion of its initial public offering to capital markets marking a significant milestone in the company's corporate history and shareholder structure evolution, though specific metrics like pricing, share allocation, valuation, or trading performance details remain unavailable from the headline and summary snippet provided and would require access to the full article text for a more granular factual claims assessment and complete structural analysis below. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The company's IPO demonstrates market confidence in BioMar's business model, market position, and growth prospects in the global aquaculture sector, though sentiment confidence reflects the limited information available and typical market reception to successful capital raises in the sector, and additional full article details and management commentary would strengthen confidence scoring and key claims identification if the complete source text were available rather than summary snippet alone. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The article appears to be primarily focused on BioMar as the main subject, with the IPO completion being the central narrative, yielding primary prominence classification and positive sentiment based on the successful completion of the offering, though the summary snippet does not provide verbatim quotes from named executives or specific financial metrics that would enable reliable identification of key claims or people quoted sections, resulting in empty arrays for those optional fields unless substantive detail emerges from full article review if available. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. Final analysis follows below:  ",
+      "first_seen": "2026-05-29T11:03:12+00:00",
+      "last_seen": "2026-05-29T11:03:12+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1558,
       "headline": "BioMar completes $1.7 billion IPO - intrafish.com",
@@ -18738,6 +18753,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1573,
+      "headline": "Nature Energy acquires Xergi - Biomass Magazine",
+      "story_summary": "Nature Energy has acquired Xergi, a biogas technology company. The article mentions Jens Bjerg Sørensen in connection with this transaction, likely in a corporate governance or board capacity rather than as the focus of the story.",
+      "first_seen": "2018-11-05T08:00:00+00:00",
+      "last_seen": "2018-11-05T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
     },
     {
       "id": 1328,
@@ -64858,6 +64887,54 @@
         "none"
       ],
       "summary": "BioMar has completed a $1.7 billion initial public offering on the Copenhagen stock exchange. The aquaculture feed producer's listing marks a significant capital-raising milestone for the Schouw & Co subsidiary and parent company alike."
+    },
+    {
+      "id": 120766,
+      "story_id": 1574,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhMEl1ZWpuQlNtSjlRX2dhTFI0VHJfUzBNQmVzTWlFYnVoMjlvU1JkNXp1akxpS0RxWF9jV2M0YnNnZmVtWTM4ZzE2YzB1Z3FEaTdUYjhwb2lMSEZlQWc0Z1FIQXBVQnkydmhmNXhVZzBjOXNZa3hQaVk4X1ZxQQ?oc=5",
+      "title": "News - BioMar successfully completes IPO - Fish Farmer",
+      "source_name": "Fish Farmer",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-29T11:03:12+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar completes initial public offering",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has successfully completed its initial public offering, marking a significant milestone for the aquaculture feed producer. The IPO represents a major corporate event for the Denmark-based company and its parent Schouw & Co portfolio company, though specific details on pricing, proceeds, or market performance are not provided in the available summary text or headline alone may provide contextual details clarified in full article text not provided here.    Return the structured analysis.  The article represents a major financial and corporate development for the aquaculture feed company BioMar, headquartered in Aarhus, Denmark and part of the Schouw & Co conglomerate, with the successful completion of its initial public offering to capital markets marking a significant milestone in the company's corporate history and shareholder structure evolution, though specific metrics like pricing, share allocation, valuation, or trading performance details remain unavailable from the headline and summary snippet provided and would require access to the full article text for a more granular factual claims assessment and complete structural analysis below. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The company's IPO demonstrates market confidence in BioMar's business model, market position, and growth prospects in the global aquaculture sector, though sentiment confidence reflects the limited information available and typical market reception to successful capital raises in the sector, and additional full article details and management commentary would strengthen confidence scoring and key claims identification if the complete source text were available rather than summary snippet alone. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The article appears to be primarily focused on BioMar as the main subject, with the IPO completion being the central narrative, yielding primary prominence classification and positive sentiment based on the successful completion of the offering, though the summary snippet does not provide verbatim quotes from named executives or specific financial metrics that would enable reliable identification of key claims or people quoted sections, resulting in empty arrays for those optional fields unless substantive detail emerges from full article review if available. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. Final analysis follows below:  "
+    },
+    {
+      "id": 121284,
+      "story_id": 1573,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZSFlWN083dUVfU1p5RExHbElqODZzbFRHWXdxVHpnWVMtTnp4OVZYQW41MjM4VEk2bzB5Q1JDV0ladjRGdWUtOWZFb3Z4bWxsNmt1aUZ0eklkUkJQUTFpMkdJT19JVC12U1ZPMUc2UkpqOGZIaHRyUWZZZw?oc=5",
+      "title": "Nature Energy acquires Xergi - Biomass Magazine",
+      "source_name": "Biomass Magazine",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2018-11-05T08:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Nature Energy acquires biogas technology company Xergi",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Nature Energy has acquired Xergi, a biogas technology company. The article mentions Jens Bjerg Sørensen in connection with this transaction, likely in a corporate governance or board capacity rather than as the focus of the story."
     }
   ],
   "share_of_voice": {
@@ -66048,7 +66125,7 @@
       {
         "week": "2018-W45",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -68528,7 +68605,7 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 28,
+        "BioMar": 29,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 9
@@ -68541,7 +68618,7 @@
       },
       {
         "company": "BioMar",
-        "count": 751
+        "count": 753
       },
       {
         "company": "Cargill",
