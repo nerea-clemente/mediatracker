@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-29T12:29:57+00:00",
+  "generated_at": "2026-05-29T18:36:06+00:00",
   "stats": {
-    "mention_count": 1762,
-    "story_count": 1552,
-    "analyzed_count": 753,
+    "mention_count": 1768,
+    "story_count": 1557,
+    "analyzed_count": 755,
     "off_topic_mentions": 54,
     "off_topic_stories": 35
   },
@@ -103,6 +103,7 @@
     "Global Seafood Alliance",
     "GlobeNewswire",
     "Grimstad kommune",
+    "GuruFocus",
     "Haugesunds Avis",
     "Havpuls",
     "Herald.co.zw",
@@ -203,6 +204,7 @@
     "Stavanger kommune",
     "Strandbuen",
     "Sydvesten",
+    "TV 2",
     "TV2.no",
     "TVU | Televisión Universidad de Concepción",
     "Teletrece",
@@ -276,9 +278,24 @@
     "smp.no",
     "soychile.cl",
     "streamlinefeed.co.ke",
-    "vol.no"
+    "vol.no",
+    "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1579,
+      "headline": "OCSE:BIOMAR TEMP PB Ratio: 4.43 - GuruFocus",
+      "story_summary": "GuruFocus reports a price-to-book ratio of 4.43 for OCSE:BIOMAR. The article is a routine financial data point with no substantive narrative or context provided beyond the metric itself.",
+      "first_seen": "2026-05-29T15:15:47+00:00",
+      "last_seen": "2026-05-29T15:15:47+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1574,
       "headline": "News - BioMar successfully completes IPO - Fish Farmer",
@@ -292,6 +309,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1578,
+      "headline": "Sebastian Skretting Sandtorv - Transfermarkt",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFU5R09KZEp2WWpTTmRWdWdsWFhtM0xhb3pjVnlHNkhzSVFtWENJWi02dTI1a204WUt1M0RUZDZhTzVRdVVCb0R5N0JHTHJjX3doV0Y5X1Rod0JNUWcyQTlQLTFiUFVhRGV1cjVVY0Y1RTRfYUVETFJEdmU3V0IwbmxhUWR3UUFqQXQwb25PY3A5R09vdjNnQXdIdVRVdnlaZXNfVDg2aW93Q1lGZkc0?oc=5\" target=\"_blank\">Sebastian Skretting Sandtorv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transfermarkt</font>",
+      "first_seen": "2026-05-29T06:24:55+00:00",
+      "last_seen": "2026-05-29T06:24:55+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1558,
@@ -404,6 +435,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1577,
+      "headline": "BioMar Group A/S has completed an IPO in the amount of DKK 2.717604 billion. - marketscreener.com",
+      "story_summary": "BioMar Group A/S has completed an initial public offering raising DKK 2.717604 billion. The IPO marks a significant capital-raising milestone for the aquaculture feed producer and its parent Schouw & Co group spun out to public markets.ö, ",
+      "first_seen": "2026-05-28T09:52:33+00:00",
+      "last_seen": "2026-05-28T09:52:33+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1553,
@@ -602,6 +647,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1531,
+      "headline": "53’ - Sjanse til Ingeborg Skretting - TV2.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42WnhxSTlBcnF3SnNDNlAwelZSYzJDY1BqVkU4amRyTzNRekF2RXAyMF9FT19JZXhqMlZBRkxsVlhEU3RTd3ItX2hpa2xDbUZvX1RRN3g2dXFmbkUwVlA2VUp0ZlRRV3pSRlJyLUFjdVg4ZlJQODFoT3ZPUUU?oc=5\" target=\"_blank\">53’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>",
+      "first_seen": "2026-05-26T22:57:18+00:00",
+      "last_seen": "2026-05-27T09:52:09+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1537,
       "headline": "Aquafeed sustainability enters the phase of technical verification - misPeces",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmhvRkg5YzFYMG4tY2l2aUdDLXE2RFpoOE4xUzdscEFvYlB0ak9iRXJiYjd6cW9iTVJvN1hQYVRBR0dTdHF4R3BNTURyNWlxaUFUbFB5RlU3OTUxUFNHamRvR0J4SVBLcmpMamx6QVRhbXdtLXB6bGR2WGxHR3NCYXFmUDZNanpRZHhkLTFjLU84TkJMd0NNVkcyOWx4VThKa3c?oc=5\" target=\"_blank\">Aquafeed sustainability enters the phase of technical verification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
@@ -626,20 +685,6 @@
         "none"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "Skretting"
-    },
-    {
-      "id": 1531,
-      "headline": "53’ - Sjanse til Ingeborg Skretting - TV2.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42WnhxSTlBcnF3SnNDNlAwelZSYzJDY1BqVkU4amRyTzNRekF2RXAyMF9FT19JZXhqMlZBRkxsVlhEU3RTd3ItX2hpa2xDbUZvX1RRN3g2dXFmbkUwVlA2VUp0ZlRRV3pSRlJyLUFjdVg4ZlJQODFoT3ZPUUU?oc=5\" target=\"_blank\">53’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>",
-      "first_seen": "2026-05-26T22:57:18+00:00",
-      "last_seen": "2026-05-27T09:32:42+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -17817,6 +17862,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1576,
+      "headline": "Chilean authorities accuse four salmon feed producers of price fixing and seek $70 million fine - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlZZUnBKQ3BRNktMWHVtTFlMMlhLb01uUUh2M19NV1JOS0RLQ3EydGhuTjZoOWRQRVFOa1ZBWE1aanJxVEpwcUp5UlZaMVlGamE2S3g5WUFJRnFUY1Z4eWdSd3dMdFFHN1d0U0t4MEcyVjNRV1hGV2c3TVdVd1ZUbS1VQldEcUpQRU9Od1JkaVpLamRHczdsT1hsV0RmUHVGNDVtOVlrY3l3MlJqeERpSlRQbFNBS0Uwdk01M2Iyc2tXV3Nm0gHEAUFVX3lxTE52VllScEpDcFE2S0xYdW1MWUwyWEtvTW5RSHYzX01XUk5LREtDcTJ0aG5ONmg5ZFBFUU5rVkFYTVpqcnFUSnBxSnlSVloxWUZqYTZLeDlZQUlGcVRjVnh5Z1J3d0x0UUc3V3RTS3gwRzJWM1FXWEZXZzdNV1V3VlRtLVVCV0RxSlBFT053UmRpWktqZEdzN2xPWGxXRGZQdUY0NW05WWtjeXcyUmp4RGlKVFBsU0FLRTB2TTUzYjJza1dXc2Y?oc=5\" target=\"_blank\">Chilean authorities accuse four salmon feed producers of price fixing and seek $70 million fine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2019-12-20T08:00:00+00:00",
+      "last_seen": "2019-12-20T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 470,
       "headline": "FNE acusa colusión de empresas productoras de alimentos para salmón y pide multas de US$ 70 millones - Teletrece",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ2xWTF9wX2lPMEg4eGkycmpNLTIta0J5MW45a2VtOXNJLW91OXVLUE5odHhvSjlMOXQ1bWc4S3M5VjlQU2I1aEFsM3dpN0NkZEdvaDgycEJ3OXExVTZpbGJoMmZfUUs0aDNURjhhYTBycmlyMXlvMUJWQ2p0Vm1SZktMTXNnelV2SmozS0o1blJuMGhILTdRSjNvNA?oc=5\" target=\"_blank\">FNE acusa colusión de empresas productoras de alimentos para salmón y pide multas de US$ 70 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Teletrece</font>",
@@ -18963,6 +19022,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1575,
+      "headline": "Vertner Skretting - View Obituary & Service Information - washburn-mcreavy.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9RN1ZjOFpyQ0JsaG9DUlZSLUVha2ZiQS1jTnladEUzNWRpZ3VFTXBYOWozY3UwVm55YXltSkZrcW0yRVRiZ0Fxcm1YMWpUdUhqemlEV1Jvd2syLUY5eWVIWmF1M05uQmZKYzF2dTVTaExhRXRxTmY5U2xVbGV0a1k?oc=5\" target=\"_blank\">Vertner Skretting - View Obituary & Service Information</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">washburn-mcreavy.com</font>",
+      "first_seen": "2018-08-03T08:02:00+00:00",
+      "last_seen": "2018-08-03T08:02:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1075,
@@ -64935,6 +65008,150 @@
         "none"
       ],
       "summary": "Nature Energy has acquired Xergi, a biogas technology company. The article mentions Jens Bjerg Sørensen in connection with this transaction, likely in a corporate governance or board capacity rather than as the focus of the story."
+    },
+    {
+      "id": 121824,
+      "story_id": 1579,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mdDY1aE5ET3V3Y3VwRWFucU1HclF0eTBVNFB1YWh4bkZPcTNIdmppdzBsM0kzU3JoSHZuV0NmX3dfY0ZtanFwTWRQTEx4bkNpU3ZDLW94b001aFpGWmN2TjlZMHV2YXhaLWc?oc=5",
+      "title": "OCSE:BIOMAR TEMP PB Ratio: 4.43 - GuruFocus",
+      "source_name": "GuruFocus",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-29T15:15:47+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Stock valuation metric update for ticker OCSE:BIOMAR",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "GuruFocus reports a price-to-book ratio of 4.43 for OCSE:BIOMAR. The article is a routine financial data point with no substantive narrative or context provided beyond the metric itself."
+    },
+    {
+      "id": 121833,
+      "story_id": 1577,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORzBXcGF2NnZtUzctNnJGb053QWctX3AyQXdjTk94SFAxSzM1M3pGZEZoNWs4UmdJVzM3UENpbEV3Yjg5S3gtcktWS0g4bmVvdHBqSGpScjJzS2c0cXlQTEJ4WnhLekg4WklNSndENU03U1JpMHJ5Mm9nVENoLUZzdVphQjZSdTlPbXVrYVFEeEx3cHYxbDRZb2k4cXpEdHIzNHAteXdKanhhc0tMSzVZajRzVzRNTVdicXdHR0VRU2R3aTNk?oc=5",
+      "title": "BioMar Group A/S has completed an IPO in the amount of DKK 2.717604 billion. - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-05-28T09:52:33+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Group completes IPO raising DKK 2.7 billion",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Group A/S has completed an initial public offering raising DKK 2.717604 billion. The IPO marks a significant capital-raising milestone for the aquaculture feed producer and its parent Schouw & Co group spun out to public markets.ö, "
+    },
+    {
+      "id": 122408,
+      "story_id": 1575,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RN1ZjOFpyQ0JsaG9DUlZSLUVha2ZiQS1jTnladEUzNWRpZ3VFTXBYOWozY3UwVm55YXltSkZrcW0yRVRiZ0Fxcm1YMWpUdUhqemlEV1Jvd2syLUY5eWVIWmF1M05uQmZKYzF2dTVTaExhRXRxTmY5U2xVbGV0a1k?oc=5",
+      "title": "Vertner Skretting - View Obituary & Service Information - washburn-mcreavy.com",
+      "source_name": "washburn-mcreavy.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2018-08-03T08:02:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9RN1ZjOFpyQ0JsaG9DUlZSLUVha2ZiQS1jTnladEUzNWRpZ3VFTXBYOWozY3UwVm55YXltSkZrcW0yRVRiZ0Fxcm1YMWpUdUhqemlEV1Jvd2syLUY5eWVIWmF1M05uQmZKYzF2dTVTaExhRXRxTmY5U2xVbGV0a1k?oc=5\" target=\"_blank\">Vertner Skretting - View Obituary & Service Information</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">washburn-mcreavy.com</font>"
+    },
+    {
+      "id": 122436,
+      "story_id": 1531,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0xEOVA3ZFdKRTdOb3FvWUtyRmtNd0tOMmhVTm5JTFE2aTRYM0tyYnFhbzJOcU9fU1hRbnpQV0Q3MUlEMlVfUW0wcGdWYWlWZE54SjlKT21wU1phQlNFeEw1TnpuQmR6TV9fMEU2UE1XZFdoZXZabGhaQXhGcDhtMFNDcElpeEpa?oc=5",
+      "title": "53’ - Sjanse til Ingeborg Skretting - TV 2",
+      "source_name": "TV 2",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-27T09:52:09+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0xEOVA3ZFdKRTdOb3FvWUtyRmtNd0tOMmhVTm5JTFE2aTRYM0tyYnFhbzJOcU9fU1hRbnpQV0Q3MUlEMlVfUW0wcGdWYWlWZE54SjlKT21wU1phQlNFeEw1TnpuQmR6TV9fMEU2UE1XZFdoZXZabGhaQXhGcDhtMFNDcElpeEpa?oc=5\" target=\"_blank\">53’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>"
+    },
+    {
+      "id": 122639,
+      "story_id": 1578,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFU5R09KZEp2WWpTTmRWdWdsWFhtM0xhb3pjVnlHNkhzSVFtWENJWi02dTI1a204WUt1M0RUZDZhTzVRdVVCb0R5N0JHTHJjX3doV0Y5X1Rod0JNUWcyQTlQLTFiUFVhRGV1cjVVY0Y1RTRfYUVETFJEdmU3V0IwbmxhUWR3UUFqQXQwb25PY3A5R09vdjNnQXdIdVRVdnlaZXNfVDg2aW93Q1lGZkc0?oc=5",
+      "title": "Sebastian Skretting Sandtorv - Transfermarkt",
+      "source_name": "Transfermarkt",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-05-29T06:24:55+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFU5R09KZEp2WWpTTmRWdWdsWFhtM0xhb3pjVnlHNkhzSVFtWENJWi02dTI1a204WUt1M0RUZDZhTzVRdVVCb0R5N0JHTHJjX3doV0Y5X1Rod0JNUWcyQTlQLTFiUFVhRGV1cjVVY0Y1RTRfYUVETFJEdmU3V0IwbmxhUWR3UUFqQXQwb25PY3A5R09vdjNnQXdIdVRVdnlaZXNfVDg2aW93Q1lGZkc0?oc=5\" target=\"_blank\">Sebastian Skretting Sandtorv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transfermarkt</font>"
+    },
+    {
+      "id": 122766,
+      "story_id": 1576,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlZZUnBKQ3BRNktMWHVtTFlMMlhLb01uUUh2M19NV1JOS0RLQ3EydGhuTjZoOWRQRVFOa1ZBWE1aanJxVEpwcUp5UlZaMVlGamE2S3g5WUFJRnFUY1Z4eWdSd3dMdFFHN1d0U0t4MEcyVjNRV1hGV2c3TVdVd1ZUbS1VQldEcUpQRU9Od1JkaVpLamRHczdsT1hsV0RmUHVGNDVtOVlrY3l3MlJqeERpSlRQbFNBS0Uwdk01M2Iyc2tXV3Nm0gHEAUFVX3lxTE52VllScEpDcFE2S0xYdW1MWUwyWEtvTW5RSHYzX01XUk5LREtDcTJ0aG5ONmg5ZFBFUU5rVkFYTVpqcnFUSnBxSnlSVloxWUZqYTZLeDlZQUlGcVRjVnh5Z1J3d0x0UUc3V3RTS3gwRzJWM1FXWEZXZzdNV1V3VlRtLVVCV0RxSlBFT053UmRpWktqZEdzN2xPWGxXRGZQdUY0NW05WWtjeXcyUmp4RGlKVFBsU0FLRTB2TTUzYjJza1dXc2Y?oc=5",
+      "title": "Chilean authorities accuse four salmon feed producers of price fixing and seek $70 million fine - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-12-20T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlZZUnBKQ3BRNktMWHVtTFlMMlhLb01uUUh2M19NV1JOS0RLQ3EydGhuTjZoOWRQRVFOa1ZBWE1aanJxVEpwcUp5UlZaMVlGamE2S3g5WUFJRnFUY1Z4eWdSd3dMdFFHN1d0U0t4MEcyVjNRV1hGV2c3TVdVd1ZUbS1VQldEcUpQRU9Od1JkaVpLamRHczdsT1hsV0RmUHVGNDVtOVlrY3l3MlJqeERpSlRQbFNBS0Uwdk01M2Iyc2tXV3Nm0gHEAUFVX3lxTE52VllScEpDcFE2S0xYdW1MWUwyWEtvTW5RSHYzX01XUk5LREtDcTJ0aG5ONmg5ZFBFUU5rVkFYTVpqcnFUSnBxSnlSVloxWUZqYTZLeDlZQUlGcVRjVnh5Z1J3d0x0UUc3V3RTS3gwRzJWM1FXWEZXZzdNV1V3VlRtLVVCV0RxSlBFT053UmRpWktqZEdzN2xPWGxXRGZQdUY0NW05WWtjeXcyUmp4RGlKVFBsU0FLRTB2TTUzYjJza1dXc2Y?oc=5\" target=\"_blank\">Chilean authorities accuse four salmon feed producers of price fixing and seek $70 million fine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
     }
   ],
   "share_of_voice": {
@@ -66051,6 +66268,14 @@
         "Skretting": 0
       },
       {
+        "week": "2018-W31",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2018-W32",
         "Aller Aqua": 0,
         "BioMar": 1,
@@ -66334,7 +66559,7 @@
         "week": "2019-W51",
         "Aller Aqua": 1,
         "BioMar": 3,
-        "Cargill": 3,
+        "Cargill": 4,
         "Polarfeed": 0,
         "Skretting": 1
       },
@@ -68605,10 +68830,10 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 29,
+        "BioMar": 31,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 9
+        "Skretting": 11
       }
     ],
     "totals": [
@@ -68618,11 +68843,11 @@
       },
       {
         "company": "BioMar",
-        "count": 753
+        "count": 755
       },
       {
         "company": "Cargill",
-        "count": 234
+        "count": 235
       },
       {
         "company": "Polarfeed",
@@ -68630,7 +68855,7 @@
       },
       {
         "company": "Skretting",
-        "count": 619
+        "count": 622
       }
     ]
   }
