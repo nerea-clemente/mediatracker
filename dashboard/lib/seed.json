@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-29T18:36:06+00:00",
+  "generated_at": "2026-05-29T23:08:37+00:00",
   "stats": {
-    "mention_count": 1768,
-    "story_count": 1557,
-    "analyzed_count": 755,
+    "mention_count": 1772,
+    "story_count": 1560,
+    "analyzed_count": 758,
     "off_topic_mentions": 54,
     "off_topic_stories": 35
   },
@@ -297,6 +297,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1582,
+      "headline": "BioMar: listing draws 10,800 investors, values company at €1.4 billion - SalmonBusiness",
+      "story_summary": "BioMar's initial public offering attracted 10,800 investors and valued the aquaculture feed company at €1.4 billion. The listing demonstrates significant investor confidence in the aquaculture nutrition sector and BioMar's market position within it.",
+      "first_seen": "2026-05-29T13:13:30+00:00",
+      "last_seen": "2026-05-29T13:13:30+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1574,
       "headline": "News - BioMar successfully completes IPO - Fish Farmer",
       "story_summary": "BioMar has successfully completed its initial public offering, marking a significant milestone for the aquaculture feed producer. The IPO represents a major corporate event for the Denmark-based company and its parent Schouw & Co portfolio company, though specific details on pricing, proceeds, or market performance are not provided in the available summary text or headline alone may provide contextual details clarified in full article text not provided here.    Return the structured analysis.  The article represents a major financial and corporate development for the aquaculture feed company BioMar, headquartered in Aarhus, Denmark and part of the Schouw & Co conglomerate, with the successful completion of its initial public offering to capital markets marking a significant milestone in the company's corporate history and shareholder structure evolution, though specific metrics like pricing, share allocation, valuation, or trading performance details remain unavailable from the headline and summary snippet provided and would require access to the full article text for a more granular factual claims assessment and complete structural analysis below. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The company's IPO demonstrates market confidence in BioMar's business model, market position, and growth prospects in the global aquaculture sector, though sentiment confidence reflects the limited information available and typical market reception to successful capital raises in the sector, and additional full article details and management commentary would strengthen confidence scoring and key claims identification if the complete source text were available rather than summary snippet alone. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The article appears to be primarily focused on BioMar as the main subject, with the IPO completion being the central narrative, yielding primary prominence classification and positive sentiment based on the successful completion of the offering, though the summary snippet does not provide verbatim quotes from named executives or specific financial metrics that would enable reliable identification of key claims or people quoted sections, resulting in empty arrays for those optional fields unless substantive detail emerges from full article review if available. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. Final analysis follows below:  ",
@@ -351,6 +365,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1581,
+      "headline": "SalmonChile y Asociación de Agricultores de Malleco estrechan vínculos en gira técnica - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVQwV3Y0ek54a05YQ1A5QTRrNVdQZkc4ejl2dzNZWjNscWZtY2J6cm1OLVN6QUNCbWdWdWN5UENrLWVsTnBaUm1aT0JWQXBXaXNjTFdoQkRJeHlybnhFNTFxemV5WmRBaDVYLWR2cnk4RUFYQUpRaTdQVlRxYTVORmlQc3VCN3YwbTBkQ181Z2RtVW1EY2lTSmU1cDdzQ3VVNVRCUnRfV2s0NU80N3RVNWZ4UVU1ZTNLelUwSHFsaEhNbVBXWTAxZlVBbjVnVW4wbUFMR0R5Z1FWMDF2RDdONFZVV3N3WWdQVVJuVg?oc=5\" target=\"_blank\">SalmonChile y Asociación de Agricultores de Malleco estrechan vínculos en gira técnica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2026-05-28T19:10:00+00:00",
+      "last_seen": "2026-05-28T19:10:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1571,
@@ -8740,6 +8768,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1580,
+      "headline": "Fiscalía Económica solicita sanciones máximas para Biomar, Skretting y Salmofood - Paislobo Prensa",
+      "story_summary": "Chile's Economic Prosecutor has requested maximum penalties for BioMar, Skretting, and Salmofood. The action appears to relate to alleged violations or misconduct by these salmon feed companies operating in Chile's aquaculture sector.",
+      "first_seen": "2025-07-02T07:00:00+00:00",
+      "last_seen": "2025-07-02T07:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 194,
       "headline": "FNE pide aplicar millonarias multas a productoras de alimentos para salmones por colusión - La Tercera",
       "story_summary": "Chile's FNE (Federal Competition Tribunal) has requested substantial fines against salmon feed producers for alleged price-fixing collusion. The action targets multiple producers in the Chilean aquaculture supply chain, with BioMar mentioned among those facing potential penalties for anticompetitive conduct in the salmon feed market segment of Chile's aquaculture industry.  Regulator seeks major fines against salmon feed producers for collusion. BioMar is one of several producers named in the FNE's complaint for alleged cartel activity in the Chilean market, though the full extent of its alleged role in the collusion is not detailed in the article excerpt available, and antitrust investigations often involve multiple market participants with varying degrees of culpability. The article implies a broader sector-wide investigation rather than targeting one company exclusively, suggesting BioMar operates in a market under regulatory scrutiny for competitive practices. The FNE's move reflects Chilean authorities' focus on maintaining competition in the aquaculture supply sector, a critical input market for the country's major salmon farming industry. As a supplier to the Chilean salmon farming sector, BioMar's involvement in any anticompetitive conduct investigation carries reputational and financial implications, particularly given Chile's prominence as a global salmon producer and the importance of feed cost competitiveness in aquaculture economics, this investigation represents a material negative development for the company's standing with Chilean regulators and customers. The FNE request for substantial fines signals serious allegations that could affect BioMar's market position and regulatory compliance record in one of its key regional markets if the claims are substantiated. \nThe FNE (Chilean Federal Competition Tribunal) is requesting significant fines against salmon feed producers for alleged price-fixing collusion. BioMar is identified as one of the producers facing potential penalties in this antitrust action targeting the Chilean aquaculture feed market.\n\nNote: Additional context regarding the specific allegations, amount of fines sought, or BioMar's particular role would require access to the full article text beyond the headline and summary provided. The analysis is based on the available information confirming BioMar's involvement in a Chilean regulatory action related to alleged anticompetitive conduct in the salmon feed sector.\n\nNote: The full article text beyond the headline and summary was not provided, limiting the ability to extract detailed key claims, specific quotes, or precise details about BioMar's alleged involvement. Based solely on the headline and summary fragment available, the analysis reflects what can be reasonably inferred from the title and lede regarding an FNE complaint targeting salmon feed producers for collusion, with BioMar mentioned as one of the companies involved.\n\nNote: A more complete analysis would require the full article text to identify specific executives quoted, detailed allegations against BioMar specifically, the amount of fines requested, the timeframe of the alleged collusion, and any statements from BioMar or other companies in response to the FNE action. The current assessment is necessarily preliminary given the limited source material provided. The analysis assumes the \"Biomar\" reference in the matched keyword refers to BioMar A/S (the aquaculture feed company) rather than any unrelated namesake, given the aquaculture context (salmon feed producers) clearly identifies the correct target brand.\n\nActual output per schema:\n\n{\"sentiment\": \"negative\", \"sentiment_confidence\": 0.95, \"prominence\": \"secondary\", \"angle\": \"Chilean regulator seeks major fines against salmon feed producers for collusion\", \"key_claims\": [\"FNE (Chilean Federal Competition Tribunal) is requesting fines against salmon feed producers\", \"BioMar is one of the producers named in the collusion complaint\", \"The alleged cartel activity involves price-fixing in the salmon feed market\", \"The action targets multiple salmon feed producers in Chile\"], \"people_quoted\": [], \"risk_flags\": [\"legal\", \"financial\", \"controversy\"], \"summary\": \"Chile's FNE regulator has requested substantial fines against salmon feed producers, including BioMar, for alleged price-fixing collusion in the aquaculture supply sector. BioMar faces potential financial and reputational consequences as part of this antitrust action targeting competitive practices in the Chilean salmon feed market.\"}Let me provide the corrected response:{",
@@ -8747,9 +8789,10 @@
       "last_seen": "2025-07-01T07:00:00+00:00",
       "primary_sentiment": "negative",
       "risk_flags": [
-        "none"
+        "controversy",
+        "legal"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -65152,6 +65195,106 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlZZUnBKQ3BRNktMWHVtTFlMMlhLb01uUUh2M19NV1JOS0RLQ3EydGhuTjZoOWRQRVFOa1ZBWE1aanJxVEpwcUp5UlZaMVlGamE2S3g5WUFJRnFUY1Z4eWdSd3dMdFFHN1d0U0t4MEcyVjNRV1hGV2c3TVdVd1ZUbS1VQldEcUpQRU9Od1JkaVpLamRHczdsT1hsV0RmUHVGNDVtOVlrY3l3MlJqeERpSlRQbFNBS0Uwdk01M2Iyc2tXV3Nm0gHEAUFVX3lxTE52VllScEpDcFE2S0xYdW1MWUwyWEtvTW5RSHYzX01XUk5LREtDcTJ0aG5ONmg5ZFBFUU5rVkFYTVpqcnFUSnBxSnlSVloxWUZqYTZLeDlZQUlGcVRjVnh5Z1J3d0x0UUc3V3RTS3gwRzJWM1FXWEZXZzdNV1V3VlRtLVVCV0RxSlBFT053UmRpWktqZEdzN2xPWGxXRGZQdUY0NW05WWtjeXcyUmp4RGlKVFBsU0FLRTB2TTUzYjJza1dXc2Y?oc=5\" target=\"_blank\">Chilean authorities accuse four salmon feed producers of price fixing and seek $70 million fine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 122866,
+      "story_id": 1582,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbXZrOXN5RV9EMjNHeV91ai10V2tPRGxIVkFPNHhGQnVid2NsdXBKVkZ1WU9hdlhWb3FFRU9VY3NvREJLRDhUZm1kNmt1a0Q5bVpoOGw4RjlKWTViVkw2OFZVNXhSOVEtbDNXZDdZUkhFaTg4cU1UYzNDS1RXWlpoUnNJeDNTakUyR3kycVJqeDAyNHhTX3BBSGpmeUQtaHQ1Z2fSAaIBQVVfeXFMUG12azlzeUVfRDIzR3lfdWotdFdrT0RsSFZBTzR4RkJ1YndjbHVwSlZGdVlPYXZYVm9xRUVPVWNzb0RCS0Q4VGZtZDZrdWtEOW1aaDhsOEY5Slk1YlZMNjhWVTV4UjlRLWwzV2Q3WVJIRWk4OHFNVGMzQ0tUV1paaFJzSXgzU2pFMkd5MnFSangwMjR4U19wQUhqZnlELWh0NWdn?oc=5",
+      "title": "BioMar: listing draws 10,800 investors, values company at €1.4 billion - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-29T13:13:30+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar IPO oversubscribed, values firm at €1.4 billion with strong investor demand",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar's initial public offering attracted 10,800 investors and valued the aquaculture feed company at €1.4 billion. The listing demonstrates significant investor confidence in the aquaculture nutrition sector and BioMar's market position within it."
+    },
+    {
+      "id": 123184,
+      "story_id": 1580,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNW9jaUFKVE5YWWd1RklSdEZmaHU2eFFmRVdIRVctYTlMMEI2LXJIcEthVnJKcm5kQ25JTVJiejF5bUpGTFRQTWVReTA3Q3B2MVRBOEVwZXRQRHBqS0ttcjd4NlFKVmt2SDFLdi1TdUI4ZklIWl9tTlU4eXF1RTVSOWdrYzQ0NVRKZkRzdjM2VmdyNlpwMkVTTXRZUGRmMW92bEEyb1pkcjhKTWZRSVEza3h3YXRjZHM?oc=5",
+      "title": "Fiscalía Económica solicita sanciones máximas para Biomar, Skretting y Salmofood - Paislobo Prensa",
+      "source_name": "Paislobo Prensa",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-07-02T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Economic Prosecutor seeks maximum sanctions against BioMar",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Chile's Economic Prosecutor has requested maximum penalties for BioMar, Skretting, and Salmofood. The action appears to relate to alleged violations or misconduct by these salmon feed companies operating in Chile's aquaculture sector."
+    },
+    {
+      "id": 123189,
+      "story_id": 194,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQTh5dWR0SmJydFlhVDlmdHNSektxUGc4NWg4Snd4bXhtY240R0Z0dHNnSVpHWFpmN0xLbjh3Sm1CNW1fZFJGT1JJWlh2ckRGUE83Tk9JeHZVcDVoVzM5b3dkb2RIaXB2b0sxQnE2QjhoM25DR0pQNjRGY2Z6VVJmSXRlNGp2Vk14V0w1RldoWm9UNXRRcUhSRGlscVBDTHlwaDhNZ2NZV2t0dXNmMzl5UHlxcFRpLVY1RXJ3cTJFZ3dpNFluYzhTOGtR?oc=5",
+      "title": "FNE pide aplicar millonarias multas a productoras de alimentos para salmones por colusión - La Tercera",
+      "source_name": "La Tercera",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-07-01T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Chilean antitrust authority seeks fines against salmon feed producers for collusion",
+      "key_claims": [
+        "The FNE (Chilean antitrust authority) is requesting substantial fines against salmon feed producers",
+        "The fines relate to alleged collusive behavior in the salmon feed market"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal",
+        "controversy"
+      ],
+      "summary": "Chile's FNE antitrust authority has requested significant fines against salmon feed producers, including BioMar, for alleged price-fixing collusion. The case involves competition law violations in the aquaculture feed sector."
+    },
+    {
+      "id": 123697,
+      "story_id": 1581,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVQwV3Y0ek54a05YQ1A5QTRrNVdQZkc4ejl2dzNZWjNscWZtY2J6cm1OLVN6QUNCbWdWdWN5UENrLWVsTnBaUm1aT0JWQXBXaXNjTFdoQkRJeHlybnhFNTFxemV5WmRBaDVYLWR2cnk4RUFYQUpRaTdQVlRxYTVORmlQc3VCN3YwbTBkQ181Z2RtVW1EY2lTSmU1cDdzQ3VVNVRCUnRfV2s0NU80N3RVNWZ4UVU1ZTNLelUwSHFsaEhNbVBXWTAxZlVBbjVnVW4wbUFMR0R5Z1FWMDF2RDdONFZVV3N3WWdQVVJuVg?oc=5",
+      "title": "SalmonChile y Asociación de Agricultores de Malleco estrechan vínculos en gira técnica - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-05-28T19:10:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVQwV3Y0ek54a05YQ1A5QTRrNVdQZkc4ejl2dzNZWjNscWZtY2J6cm1OLVN6QUNCbWdWdWN5UENrLWVsTnBaUm1aT0JWQXBXaXNjTFdoQkRJeHlybnhFNTFxemV5WmRBaDVYLWR2cnk4RUFYQUpRaTdQVlRxYTVORmlQc3VCN3YwbTBkQ181Z2RtVW1EY2lTSmU1cDdzQ3VVNVRCUnRfV2s0NU80N3RVNWZ4UVU1ZTNLelUwSHFsaEhNbVBXWTAxZlVBbjVnVW4wbUFMR0R5Z1FWMDF2RDdONFZVV3N3WWdQVVJuVg?oc=5\" target=\"_blank\">SalmonChile y Asociación de Agricultores de Malleco estrechan vínculos en gira técnica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -68454,7 +68597,7 @@
       {
         "week": "2025-W27",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 7,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -68830,10 +68973,10 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 31,
+        "BioMar": 32,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 11
+        "Skretting": 12
       }
     ],
     "totals": [
@@ -68843,7 +68986,7 @@
       },
       {
         "company": "BioMar",
-        "count": 755
+        "count": 758
       },
       {
         "company": "Cargill",
@@ -68855,7 +68998,7 @@
       },
       {
         "company": "Skretting",
-        "count": 622
+        "count": 623
       }
     ]
   }
