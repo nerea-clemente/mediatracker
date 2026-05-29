@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-28T23:11:44+00:00",
+  "generated_at": "2026-05-29T08:55:38+00:00",
   "stats": {
-    "mention_count": 1759,
+    "mention_count": 1760,
     "story_count": 1550,
-    "analyzed_count": 750,
+    "analyzed_count": 751,
     "off_topic_mentions": 53,
     "off_topic_stories": 34
   },
@@ -279,6 +279,20 @@
   ],
   "stories": [
     {
+      "id": 1558,
+      "headline": "BioMar completes $1.7 billion IPO - intrafish.com",
+      "story_summary": "BioMar has completed a $1.7 billion initial public offering, marking a significant milestone for the aquaculture feed producer. The IPO represents a major capital event for the company and its parent Schouw & Co ownership structure, signaling investor confidence in the aquaculture sector and BioMar's market position.",
+      "first_seen": "2026-05-28T08:22:58+00:00",
+      "last_seen": "2026-05-28T19:39:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1572,
       "headline": "BioMar Finalizes IPO with Valuation of DKK 10.85 Billion | Aquafeed Giant Goes Public - News and Statistics - IndexBox",
       "story_summary": "BioMar Group, the aquaculture feed producer, has finalized its initial public offering at a valuation of DKK 10.85 billion. The IPO marks a significant milestone for the company as it transitions to public ownership and listing status.",
@@ -410,20 +424,6 @@
       "story_summary": "BioMar has completed an initial public offering with a company valuation of DKK 10.85 billion. The listing marks a significant milestone for the aquaculture feed producer and its parent company Schouw & Co.",
       "first_seen": "2026-05-28T08:23:05+00:00",
       "last_seen": "2026-05-28T08:23:05+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1558,
-      "headline": "BioMar completes $1.7 billion IPO - intrafish.com",
-      "story_summary": "BioMar has completed a $1.7 billion initial public offering, marking a significant milestone for the aquaculture feed producer. The IPO represents a major capital event for the company and its parent Schouw & Co ownership structure, signaling investor confidence in the aquaculture sector and BioMar's market position.",
-      "first_seen": "2026-05-28T08:22:58+00:00",
-      "last_seen": "2026-05-28T08:22:58+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -64834,6 +64834,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHFKaUgxeWpqUlIwTHhwVnNnQ3RjLXNSWTFPc1pPZU1WOGZIMEM1YjF2UG53UFVaTVVpWGpKYUZyNmhnT3N4M3JrWjR4ZVZsLXR3SXFuLWhLd2ZYUGRTc050ZjdDeDFpTDdORlZpWWdPb1JGOEI2X1J2NkdvRE44eVZVT2FjQldvNGNxVFJQRzlNdklGblBWa3FWNXNENEczdnFnTlRranpMMGhianF0OGR3?oc=5\" target=\"_blank\">Skretting reporta avances en sostenibilidad e innovación acuícola durante 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 119715,
+      "story_id": 1558,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU2RQclY0dEFaNXh0TFdtQzdmWGF5b0c3a2ZHNzkwbGhWMUV0aVFHWWlmTDY0NU8tdkx5b2ttb0ZsVlJ6dzVLNTk0RnVMc19NY2lUdGVMY29DN1RJaE5qZ0Z1SG5tQ3dzc0hZeU5ZejhmWkYzaElkaG1EVVdRWk9yaGhZY08wR19OaUE?oc=5",
+      "title": "BioMar completes $1.7bn Copenhagen IPO - Undercurrent News",
+      "source_name": "Undercurrent News",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-05-28T19:39:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar completes major $1.7bn Copenhagen IPO listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has completed a $1.7 billion initial public offering on the Copenhagen stock exchange. The aquaculture feed producer's listing marks a significant capital-raising milestone for the Schouw & Co subsidiary and parent company alike."
     }
   ],
   "share_of_voice": {
@@ -68504,7 +68528,7 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 27,
+        "BioMar": 28,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 9
@@ -68517,7 +68541,7 @@
       },
       {
         "company": "BioMar",
-        "count": 750
+        "count": 751
       },
       {
         "company": "Cargill",
