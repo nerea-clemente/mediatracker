@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-29T23:08:37+00:00",
+  "generated_at": "2026-05-30T08:02:44+00:00",
   "stats": {
-    "mention_count": 1772,
-    "story_count": 1560,
-    "analyzed_count": 758,
+    "mention_count": 1775,
+    "story_count": 1561,
+    "analyzed_count": 760,
     "off_topic_mentions": 54,
     "off_topic_stories": 35
   },
@@ -304,9 +304,9 @@
       "last_seen": "2026-05-29T13:13:30+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -4128,6 +4128,20 @@
       "company": "Skretting"
     },
     {
+      "id": 296,
+      "headline": "BioMar takes full ownership of BioMar Ecuador, plans capacity expansion - Aquafeed.com",
+      "story_summary": "BioMar has achieved full ownership of its Ecuador subsidiary and plans to expand production capacity. The move represents the company's continued investment in its Latin American operations and market growth strategy for aquaculture feed products in the region.Aquafeed.com has reported on BioMar's acquisition of full ownership in its Ecuador subsidiary alongside announced capacity expansion plans. The report highlights the company's strategic commitment to strengthening its presence and production capabilities in the Latin American market segment of the aquaculture feed industry, while the specific details and scale of the expansion remain unreported in the summary provided.",
+      "first_seen": "2026-02-06T08:00:00+00:00",
+      "last_seen": "2026-02-09T06:54:12+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 294,
       "headline": "BioMar reports flat revenue and EBITDA for FY 2025, announces full purchase of BioMar Ecuador - SeafoodSource",
       "story_summary": "BioMar Group reported unchanged revenue and EBITDA performance for the full year 2025. The company announced a full acquisition of its Ecuador operations, signaling continued investment in its Latin American aquaculture feed business.",
@@ -4138,20 +4152,6 @@
         "financial"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 296,
-      "headline": "BioMar takes full ownership of BioMar Ecuador, plans capacity expansion - Aquafeed.com",
-      "story_summary": "BioMar has achieved full ownership of its Ecuador subsidiary and plans to expand production capacity. The move represents the company's continued investment in its Latin American operations and market growth strategy for aquaculture feed products in the region.Aquafeed.com has reported on BioMar's acquisition of full ownership in its Ecuador subsidiary alongside announced capacity expansion plans. The report highlights the company's strategic commitment to strengthening its presence and production capabilities in the Latin American market segment of the aquaculture feed industry, while the specific details and scale of the expansion remain unreported in the summary provided.",
-      "first_seen": "2026-02-06T08:00:00+00:00",
-      "last_seen": "2026-02-06T08:00:00+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -19751,6 +19751,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1583,
+      "headline": "Cargill lanza nuevo Portal Web para clientes - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUJ6LUZkUzFHbEhUdmMwV0JGclMtYzI1V2xUWGNsTGNUOEJKb0stWUV5d1QzdDltcU9tM0Q5QlR2ZUpOejdNdXhTdzhadUpJbHgyQzNqQkNSLWJfN3FmNVFBWlE3a0tHcXFUNWZ6SzJxTWp6UVZBaUJwMkZndXpWU0hXMGstUlBfOGJGc2ZxRnhCTUx6NU54QlJ2VVZNcXhLT1prU3g2bEk?oc=5\" target=\"_blank\">Cargill lanza nuevo Portal Web para clientes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-10-24T07:00:00+00:00",
+      "last_seen": "2017-10-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1368,
@@ -65295,6 +65309,81 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVQwV3Y0ek54a05YQ1A5QTRrNVdQZkc4ejl2dzNZWjNscWZtY2J6cm1OLVN6QUNCbWdWdWN5UENrLWVsTnBaUm1aT0JWQXBXaXNjTFdoQkRJeHlybnhFNTFxemV5WmRBaDVYLWR2cnk4RUFYQUpRaTdQVlRxYTVORmlQc3VCN3YwbTBkQ181Z2RtVW1EY2lTSmU1cDdzQ3VVNVRCUnRfV2s0NU80N3RVNWZ4UVU1ZTNLelUwSHFsaEhNbVBXWTAxZlVBbjVnVW4wbUFMR0R5Z1FWMDF2RDdONFZVV3N3WWdQVVJuVg?oc=5\" target=\"_blank\">SalmonChile y Asociación de Agricultores de Malleco estrechan vínculos en gira técnica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 123926,
+      "story_id": 1582,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWDJHR0JFZ2g3Zy01N3RDUWNKazE4S1dnWWZjdllRVDBIV0xhUW1tYVdXbnIwTjJXbzBhU2RWMHc5TVJxQkRpNWNZSXFjN2pySUQ2cjJMa1hiY2dzVTBqVlNVQ0prX1B0M3BfeVQ4Nm9kZ1A4WkVtMFVZV1c4OU9LV09CUDdxM3luYUtKbTZxYUhteGRlSUFfZHN30gGaAUFVX3lxTE9YMkdHQkVnaDdnLTU3dENRY0prMThLV2dZZmN2WVFUMEhXTGFRbW1hV1ducjBOMldvMGFTZFYwdzlNUnFCRGk1Y1lJcWM3anJJRDZyMkxrWGJjZ3NVMGpWU1VDSmtfUHQzcF95VDg2b2RnUDhaRW0wVVlXVzg5T0tXT0JQN3EzeW5hS0ptNnFhSG14ZGVJQV9kc3c?oc=5",
+      "title": "BioMar: listing draws 10,800 investors, values company at €1.4 billion - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-29T13:13:30+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar IPO attracts strong investor demand and €1.4 billion valuation",
+      "key_claims": [
+        "BioMar listing attracted 10,800 investors",
+        "Company valued at €1.4 billion in IPO"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar's initial public offering drew significant investor interest from 10,800 participants and established a company valuation of €1.4 billion. The listing represents a major capital-raising milestone for the aquaculture feed producer."
+    },
+    {
+      "id": 123995,
+      "story_id": 296,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTFkYUNOcjh1NHpNVGlfeU5oRHpicXA2VER3ZVFHNUZ1NF81bEdEM2xIY2JvWlRJUWNYdktob0ZCTndhS3ZIeGRTNVhlaHZqZFo0elFCY0daeE91cVFZLXV4OVlmMndxUENldGRmS3RrcFFBNFlrTEZ5bkR4RHBzVjBRLW5WQ1MxY2VCU3JFaHBnQkgwX1dqWXk4TVNESVp2Yzh4Zl9OMUpaMjRSMGRDdUV6cDhqSENOUUItMm5fMnB1QQ?oc=5",
+      "title": "BioMar takes full control of its Ecuador subsidiary and announces major capacity expansion - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-02-09T06:54:12+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar assumes full ownership and expands Ecuador operations significantly",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has acquired full control of its Ecuador subsidiary and announced a major capacity expansion in the country. The move strengthens BioMar's operational footprint in South America's aquaculture feed market."
+    },
+    {
+      "id": 124969,
+      "story_id": 1583,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUJ6LUZkUzFHbEhUdmMwV0JGclMtYzI1V2xUWGNsTGNUOEJKb0stWUV5d1QzdDltcU9tM0Q5QlR2ZUpOejdNdXhTdzhadUpJbHgyQzNqQkNSLWJfN3FmNVFBWlE3a0tHcXFUNWZ6SzJxTWp6UVZBaUJwMkZndXpWU0hXMGstUlBfOGJGc2ZxRnhCTUx6NU54QlJ2VVZNcXhLT1prU3g2bEk?oc=5",
+      "title": "Cargill lanza nuevo Portal Web para clientes - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-10-24T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUJ6LUZkUzFHbEhUdmMwV0JGclMtYzI1V2xUWGNsTGNUOEJKb0stWUV5d1QzdDltcU9tM0Q5QlR2ZUpOejdNdXhTdzhadUpJbHgyQzNqQkNSLWJfN3FmNVFBWlE3a0tHcXFUNWZ6SzJxTWp6UVZBaUJwMkZndXpWU0hXMGstUlBfOGJGc2ZxRnhCTUx6NU54QlJ2VVZNcXhLT1prU3g2bEk?oc=5\" target=\"_blank\">Cargill lanza nuevo Portal Web para clientes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -66214,7 +66303,7 @@
         "week": "2017-W43",
         "Aller Aqua": 0,
         "BioMar": 3,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -68853,7 +68942,7 @@
       {
         "week": "2026-W07",
         "Aller Aqua": 0,
-        "BioMar": 13,
+        "BioMar": 14,
         "Cargill": 6,
         "Polarfeed": 0,
         "Skretting": 3
@@ -68973,7 +69062,7 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 32,
+        "BioMar": 33,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 12
@@ -68986,11 +69075,11 @@
       },
       {
         "company": "BioMar",
-        "count": 758
+        "count": 760
       },
       {
         "company": "Cargill",
-        "count": 235
+        "count": 236
       },
       {
         "company": "Polarfeed",
