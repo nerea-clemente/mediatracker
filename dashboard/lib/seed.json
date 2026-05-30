@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-30T08:02:44+00:00",
+  "generated_at": "2026-05-30T10:55:17+00:00",
   "stats": {
-    "mention_count": 1775,
-    "story_count": 1561,
-    "analyzed_count": 760,
+    "mention_count": 1778,
+    "story_count": 1563,
+    "analyzed_count": 762,
     "off_topic_mentions": 54,
     "off_topic_stories": 35
   },
@@ -99,6 +99,7 @@
     "FoodChain Magazine",
     "Forbes Ecuador",
     "Forsvarets forskningsinstitutt (FFI)",
+    "FotMob",
     "FriFagbevegelse",
     "Global Seafood Alliance",
     "GlobeNewswire",
@@ -305,6 +306,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1585,
+      "headline": "BioMar Group A/S: Performance & Quotes, BIOMAR Stock Price on Nasdaq Copenhagen Exchange - marketscreener.com",
+      "story_summary": "This is a financial data page tracking BioMar Group A/S stock performance and quotes on the Nasdaq Copenhagen Exchange. The content is factual and informational, presenting market information without editorial analysis or commentary.",
+      "first_seen": "2026-05-29T11:02:02+00:00",
+      "last_seen": "2026-05-29T12:30:25+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 2,
       "is_about_target_brand": true,
@@ -3041,6 +3056,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmotRGx4enREV1BjX0ltSkQ3VEVsN01CejUtSEFvZzZKUUtBNjRiRzFPci1OYlNYb2FORFhMd0xvWWh1YU4yLVRjZzU2RVVRZmtOTkdqSGhNZzJGUkFId3NJaFA5Ty1WX3BKSVFaTVBQZ0xaenR5T0owNjhJdHNfUWNQZzBaZlExOEY0WHc1c0tZeWgzQlVTTjNLdVpSTWFWVHl6MUxudURtMkh1?oc=5\" target=\"_blank\">Sport, Folk | Tor Helge (72) har viet 60 år til sykkelen: – Å skape glede er det beste</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>",
       "first_seen": "2026-03-22T07:00:00+00:00",
       "last_seen": "2026-03-22T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1584,
+      "headline": "Aalesund (W) vs Lyn Fotball (W) - live score, predicted lineups and H2H stats - FotMob",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVm1KN1l4NVkyWGtxYnlQRTcxLWdtSUJiR2JDTExyRXdHY0o1Vl9NWXdNbmFPajFOaFJ2TFN3Q2xqT2RqeWlUMG1CcVdHRm9HbG0zdkN6ZDh2cVZtbGtnRHUwV3FGLUt3UFVPdG1OYnc?oc=5\" target=\"_blank\">Aalesund (W) vs Lyn Fotball (W) - live score, predicted lineups and H2H stats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FotMob</font>",
+      "first_seen": "2026-03-22T06:04:48+00:00",
+      "last_seen": "2026-03-22T06:04:48+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -65384,6 +65413,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUJ6LUZkUzFHbEhUdmMwV0JGclMtYzI1V2xUWGNsTGNUOEJKb0stWUV5d1QzdDltcU9tM0Q5QlR2ZUpOejdNdXhTdzhadUpJbHgyQzNqQkNSLWJfN3FmNVFBWlE3a0tHcXFUNWZ6SzJxTWp6UVZBaUJwMkZndXpWU0hXMGstUlBfOGJGc2ZxRnhCTUx6NU54QlJ2VVZNcXhLT1prU3g2bEk?oc=5\" target=\"_blank\">Cargill lanza nuevo Portal Web para clientes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 124982,
+      "story_id": 1585,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPejd0WVhkc3B6TjRYYkpwYWVGd2Q3TzJWM2xaSGxqeF9kYldOelRHQ3ZOVWxoMXJIUmZqbWN3RDg3ZVlXY0hCWVVxZU1feDZWVXJpeFl6MWRWQVZlZDBENlItZ0xHcnZwa0JqSWNSTV9tdGtjZVU0SE1HUENsbjR2SmxrYw?oc=5",
+      "title": "BioMar Group A/S: Performance & Quotes, BIOMAR Stock Price on Nasdaq Copenhagen Exchange - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-05-29T12:30:25+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Stock price and performance data for BioMar Group on Nasdaq Copenhagen.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a financial data page tracking BioMar Group A/S stock performance and quotes on the Nasdaq Copenhagen Exchange. The content is factual and informational, presenting market information without editorial analysis or commentary."
+    },
+    {
+      "id": 124989,
+      "story_id": 1585,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHU2tRX3F1STFuTFJKcEVmNHBjREpSQTZNQml5TVpPZlNQQnR6UmVBa094NlZpRXFLZDktSElITC05ZmNkWl9ybU15YXFSMkZPMkpteF9VckY2RnVyQ2Y1SEVUMzNTclJRUzdMNU9ka2hwajlyTkg1VFZR?oc=5",
+      "title": "BioMar Group A/S Stock (BIOMAR TEMP) - Quote Nasdaq Copenhagen - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-05-29T11:02:02+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock quote page for BioMar Group A/S on Nasdaq Copenhagen.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a market data page providing stock quote information for BioMar Group A/S (ticker: BIOMAR TEMP) listed on Nasdaq Copenhagen. The page serves as a reference tool for investors tracking the company's share price and trading activity, with no substantive news or analysis included."
+    },
+    {
+      "id": 125556,
+      "story_id": 1584,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVm1KN1l4NVkyWGtxYnlQRTcxLWdtSUJiR2JDTExyRXdHY0o1Vl9NWXdNbmFPajFOaFJ2TFN3Q2xqT2RqeWlUMG1CcVdHRm9HbG0zdkN6ZDh2cVZtbGtnRHUwV3FGLUt3UFVPdG1OYnc?oc=5",
+      "title": "Aalesund (W) vs Lyn Fotball (W) - live score, predicted lineups and H2H stats - FotMob",
+      "source_name": "FotMob",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-03-22T06:04:48+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVm1KN1l4NVkyWGtxYnlQRTcxLWdtSUJiR2JDTExyRXdHY0o1Vl9NWXdNbmFPajFOaFJ2TFN3Q2xqT2RqeWlUMG1CcVdHRm9HbG0zdkN6ZDh2cVZtbGtnRHUwV3FGLUt3UFVPdG1OYnc?oc=5\" target=\"_blank\">Aalesund (W) vs Lyn Fotball (W) - live score, predicted lineups and H2H stats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FotMob</font>"
     }
   ],
   "share_of_voice": {
@@ -68985,7 +69086,7 @@
         "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2026-W13",
@@ -69062,7 +69163,7 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 33,
+        "BioMar": 35,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 12
@@ -69075,7 +69176,7 @@
       },
       {
         "company": "BioMar",
-        "count": 760
+        "count": 762
       },
       {
         "company": "Cargill",
@@ -69087,7 +69188,7 @@
       },
       {
         "company": "Skretting",
-        "count": 623
+        "count": 624
       }
     ]
   }
