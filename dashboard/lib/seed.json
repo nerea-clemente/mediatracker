@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-31T11:12:50+00:00",
+  "generated_at": "2026-05-31T17:08:52+00:00",
   "stats": {
-    "mention_count": 1788,
-    "story_count": 1571,
-    "analyzed_count": 768,
+    "mention_count": 1790,
+    "story_count": 1573,
+    "analyzed_count": 769,
     "off_topic_mentions": 55,
     "off_topic_stories": 36
   },
@@ -13073,6 +13073,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 1595,
+      "headline": "Norway closes ports to Russian ships. But that does not stop Skretting or Cargill from delivering feed to Russia - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOUZyeFV0VnV0MDZpMjAya2gwNVF6bHpxRVNMbzdxUUlQVDBTR1hBQVdIa3hCWkN6YVZmdGktcTd4Q3VZUnRlcUtnZDNFRmFwNWdCOWR5bURENHhvdFpLRjBCZnZRTnRVSkJpVW55d2hqLWVINWRQal9oMXdXeG44alZEWDIzVXZvRzBnWm5uR2ZrbU9kV1dreVZfR29TSGZReXc2MTFUS1l1ZUtTWHRwa1FHRzR2cE8tSzlvWGxwS242YUlyRzJMVWpYeGdZbVVrbGlzbXVlU1FYY0U?oc=5\" target=\"_blank\">Norway closes ports to Russian ships. But that does not stop Skretting or Cargill from delivering feed to Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2023-11-30T17:51:10+00:00",
+      "last_seen": "2023-11-30T17:51:10+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1005,
       "headline": "Skretting and Zooca Calanus join forces to develop copepod-based aquafeeds - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1FnRkt5eUlteXV4eWNIdTUtVmdGam02bWNSTTZUX0Iyc3plS1lKV2lBREdZYTZ5OVc0ZXZMbXptb3ZieTMzelNxUkFIS3ZhQ1VwSnN3WE92WHJCYU82SVQxM3B6UVEzOVNEckNPSmpHZ1EtcGJMeW9YaWhJeDVyN1RMaEdqRDlMa3NUekZsR2w5SHUwSTNfVnB5Z0d0TWtUdEllMklHV216Yms?oc=5\" target=\"_blank\">Skretting and Zooca Calanus join forces to develop copepod-based aquafeeds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
@@ -20103,6 +20117,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1594,
+      "headline": "Science ON Program: la nueva apuesta de Biomar por la ciencia aplicada - Salmonexpert",
+      "story_summary": "BioMar announces the launch of its Science ON Program, a new initiative centered on applied science research. The program represents the company's strategic commitment to scientific innovation in aquaculture.",
+      "first_seen": "2017-07-13T07:00:00+00:00",
+      "last_seen": "2017-07-13T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1068,
@@ -65838,6 +65866,57 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmRZdEU3cVh4Y2ZRcm93aUdzNW5GUEE1d3FTZkhTWm1RamlsSEJoOEFhNkpjSDd5ZHh3R1JNVTE1YnBLUXBMUnpUTm91Qmhmc0pzeGo0aUlEeUt4bHJPdk1wVUlrWU0wLWZ3dURsU1FYR0lrQndMWERob0pyTGpNZ0VZUkdzSkFraVZjRjln?oc=5\" target=\"_blank\">Cargill kjøper EWOS for 1,35 milliarder euro (+)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>"
+    },
+    {
+      "id": 130614,
+      "story_id": 1594,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkR1UWN0RnB1SUxFdnhrYmpXWnRKMklmeVd2dFowaWhOWHFrQmhMSlVVLUd2eGVQc1F2RjRtZjNYSnAwSEt2UTlxUjQ2YlBIWndwX3dNTFFSbW1GZG5sNnhaVmFVbUI3Wm5lcVkzTVpOTzdLSHZuZU1uVjNWQTZDaFFnRnRqV1IteFdUNVd0a2xaRUFmRUtvdTVnYWpsM0ZpZ1dBSkVCLXp0ZFVJZFB0Y1FlSEVKakU?oc=5",
+      "title": "Science ON Program: la nueva apuesta de Biomar por la ciencia aplicada - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-07-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.8,
+      "prominence": "primary",
+      "angle": "BioMar launches new Science ON program for applied research",
+      "key_claims": [
+        "BioMar has launched a Science ON program",
+        "The program focuses on applied science"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar announces the launch of its Science ON Program, a new initiative centered on applied science research. The program represents the company's strategic commitment to scientific innovation in aquaculture."
+    },
+    {
+      "id": 130843,
+      "story_id": 1595,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOUZyeFV0VnV0MDZpMjAya2gwNVF6bHpxRVNMbzdxUUlQVDBTR1hBQVdIa3hCWkN6YVZmdGktcTd4Q3VZUnRlcUtnZDNFRmFwNWdCOWR5bURENHhvdFpLRjBCZnZRTnRVSkJpVW55d2hqLWVINWRQal9oMXdXeG44alZEWDIzVXZvRzBnWm5uR2ZrbU9kV1dreVZfR29TSGZReXc2MTFUS1l1ZUtTWHRwa1FHRzR2cE8tSzlvWGxwS242YUlyRzJMVWpYeGdZbVVrbGlzbXVlU1FYY0U?oc=5",
+      "title": "Norway closes ports to Russian ships. But that does not stop Skretting or Cargill from delivering feed to Russia - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-11-30T17:51:10+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOUZyeFV0VnV0MDZpMjAya2gwNVF6bHpxRVNMbzdxUUlQVDBTR1hBQVdIa3hCWkN6YVZmdGktcTd4Q3VZUnRlcUtnZDNFRmFwNWdCOWR5bURENHhvdFpLRjBCZnZRTnRVSkJpVW55d2hqLWVINWRQal9oMXdXeG44alZEWDIzVXZvRzBnWm5uR2ZrbU9kV1dreVZfR29TSGZReXc2MTFUS1l1ZUtTWHRwa1FHRzR2cE8tSzlvWGxwS242YUlyRzJMVWpYeGdZbVVrbGlzbXVlU1FYY0U?oc=5\" target=\"_blank\">Norway closes ports to Russian ships. But that does not stop Skretting or Cargill from delivering feed to Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
     }
   ],
   "share_of_voice": {
@@ -66692,7 +66771,7 @@
       {
         "week": "2017-W28",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -68535,7 +68614,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2023-W49",
@@ -69545,7 +69624,7 @@
       },
       {
         "company": "BioMar",
-        "count": 768
+        "count": 769
       },
       {
         "company": "Cargill",
@@ -69557,7 +69636,7 @@
       },
       {
         "company": "Skretting",
-        "count": 627
+        "count": 628
       }
     ]
   }
