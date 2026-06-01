@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-31T22:57:16+00:00",
+  "generated_at": "2026-06-01T10:38:15+00:00",
   "stats": {
-    "mention_count": 1790,
-    "story_count": 1573,
-    "analyzed_count": 769,
+    "mention_count": 1800,
+    "story_count": 1577,
+    "analyzed_count": 776,
     "off_topic_mentions": 55,
     "off_topic_stories": 36
   },
@@ -209,6 +209,7 @@
     "TV 2",
     "TV2.no",
     "TVU | Televisión Universidad de Concepción",
+    "Taiwan News",
     "Teletrece",
     "The Barents Observer",
     "The Business Journals",
@@ -285,6 +286,48 @@
   ],
   "stories": [
     {
+      "id": 1599,
+      "headline": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - The Manila Times",
+      "story_summary": "The article reports a regulatory notification of share transactions by a manager and closely related parties in Schouw & Co. This appears to be a standard corporate disclosure document rather than substantive news coverage of the company's business activities or performance.",
+      "first_seen": "2026-06-01T09:15:30+00:00",
+      "last_seen": "2026-06-01T09:15:30+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1598,
+      "headline": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - Taiwan News",
+      "story_summary": "Taiwan News reports a notification of share transactions by Jens Bjerg Sørensen and related parties in Schouw & Co, the parent company of BioMar. The article appears to be a regulatory disclosure of insider trading activity by company leadership or their associates.",
+      "first_seen": "2026-06-01T09:08:00+00:00",
+      "last_seen": "2026-06-01T09:15:30+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1597,
+      "headline": "Solid overtegning av aksjer da BioMar gikk på børs - iLaks",
+      "story_summary": "BioMar completed a stock market listing with solid oversubscription of shares. The offering demonstrated investor confidence in the aquaculture feed producer's market positioning and growth prospects.",
+      "first_seen": "2026-06-01T05:58:46+00:00",
+      "last_seen": "2026-06-01T05:58:46+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1531,
       "headline": "53’ - Sjanse til Ingeborg Skretting - TV2.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42WnhxSTlBcnF3SnNDNlAwelZSYzJDY1BqVkU4amRyTzNRekF2RXAyMF9FT19JZXhqMlZBRkxsVlhEU3RTd3ItX2hpa2xDbUZvX1RRN3g2dXFmbkUwVlA2VUp0ZlRRV3pSRlJyLUFjdVg4ZlJQODFoT3ZPUUU?oc=5\" target=\"_blank\">53’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>",
@@ -294,7 +337,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -495,6 +538,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1596,
+      "headline": "ABG Sundal Collier : ABGSC acted as financial advisor to Schouw & Co., the selling shareholder in the IPO of BioMar on Nasdaq Copenhagen - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX1QzblBGd3VQd3ZKa1NPckdXSlBiRjdvaHFKREVSMk9LbWdLLTktQmkyeHNKal9GR240VEZJbDV1VFFwMkQ3emxDRFd0LXRvbGhoWVlPamN0akg1bHRTc0RrUGVoOGVaeGdZWEFEY2dMdG1wQ0RqWC1sVF9sdjFsbTVEX1lwSGVIQ2ttRVNHQnZBRDh0N3VLRnBjWkpSUVdBWUNSbmM3RWV1NDRtem5BZnlENDdNY0RpY0I0UEttOXQwckV1SkxEa0xQWHY2MzVsb2VhMjdvRC1TdEZsRF8tUg?oc=5\" target=\"_blank\">ABG Sundal Collier : ABGSC acted as financial advisor to Schouw & Co., the selling shareholder in the IPO of BioMar on Nasdaq Copenhagen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-05-28T11:12:09+00:00",
+      "last_seen": "2026-05-28T11:12:09+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1547,
       "headline": "Skretting publica su Reporte de Impacto 2025 destacando avances - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWdERlQxMUI1dWFRRWxCLXRaTkNZREFpcTRoQU41emxYQW5MdmYwc0x5VC16ZjVzX3BRemRzbzJreGN0a3JXUkxRSlNpM21mTjU4QWJxLVNUYW9EOF9fLUNHMTUxQnFvTUdQVGVTRTFKWnZKOWptNFB5NXlkYU1aNS1JWExvbFI5eGdlQ3VfYVZlTnRvb3o4QXp4UlNpYW9YT2lWU2J3b1BUaDhEUzFTYmJPNUhpTXZBTl9YNldNa3JXSVE?oc=5\" target=\"_blank\">Skretting publica su Reporte de Impacto 2025 destacando avances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -636,15 +693,15 @@
     },
     {
       "id": 1554,
-      "headline": "La salida a bolsa de BioMar en Copenhague registra una fuerte sobredemanda - MarketScreener España",
-      "story_summary": "BioMar, the aquaculture feed producer, launched an initial public offering on the Copenhagen stock exchange that attracted strong investor demand. The oversubscription of the IPO indicates significant market interest in the company's shares at the offering price and valuation level set for the flotation, though specific details regarding pricing and share allocation were not detailed in the article summary provided. This represents a significant capital markets milestone for the Aarhus-based firm and its parent company Schouw & Co in accessing public equity markets. The oversubscribed IPO signals positive market sentiment toward the company's growth prospects and business model in the aquaculture feed sector, though the summary provided does not include financial details or management commentary that would allow a deeper assessment of the transaction terms. The successful IPO launch represents a pivotal moment for the company's corporate strategy and shareholder base composition moving forward into the public markets. Two neutral sentences summarizing the article: BioMar launched an IPO on the Copenhagen stock exchange that was heavily oversubscribed, indicating strong investor demand. The oversubscription suggests positive market sentiment toward the aquaculture feed company's growth prospects and valuation at the time of flotation, though specific pricing and share allocation details were not available in the summary provided here. No management quotes or additional context was provided in the article summary to allow deeper analysis of strategic rationale or forward guidance from company leadership regarding the public listing transaction and capital allocation plans going forward. The fact that the IPO was oversubscribed is a positive indicator for the company's market positioning and investor appetite for exposure to the aquaculture feed sector at this point in time. This represents a significant milestone for both BioMar and its parent company Schouw & Co in terms of corporate structure and access to capital markets, though long-term implications for shareholder value creation and strategic execution remain to be seen as the company begins trading publicly and navigates the increased disclosure and governance requirements of being a public company listed on a major European exchange. The oversubscription also reflects confidence in the company's management team, competitive positioning within the global aquaculture feed market, and the underlying growth drivers within the salmon and aquaculture farming sectors that BioMar serves with its portfolio of product brands including INICIO, EFICO, ORBIT, SIGMA and LARVIVA feeds. The successful flotation provides BioMar with enhanced financial flexibility and currency for potential acquisitions or organic growth investments in expanding its geographic footprint and product capabilities across the aquaculture value chain globally. This positive market reception bodes well for the company's ability to execute on its strategic vision as a public company and to compete effectively with other major aquaculture feed suppliers in the increasingly competitive and consolidating global marketplace. The oversubscription of the IPO also reflects the broader investor appetite for exposure to the growing aquaculture sector as global protein consumption increases and farmed fish production becomes an increasingly important component of global food security and supply chains. Going forward, investors will be watching BioMar's quarterly earnings performance, margin expansion initiatives, geographic growth strategies, and ability to maintain market share in key salmon and shrimp farming regions against larger global competitors and regional players in the aquaculture feed market segments the company serves. The successful public listing represents validation of BioMar's business model and market positioning from the investment community, though execution of the company's strategic plans as a newly public company will be critical to delivering shareholder value and justifying the valuation implied by the oversubscribed IPO pricing in the months and years ahead as the company reports results to public market investors and analysts covering the aquaculture feed sector. This milestone marks an important transition for BioMar from a privately-held subsidiary of Schouw & Co to a publicly-traded company with direct access to capital markets and a broader shareholder base comprising institutional and retail investors who will be expecting transparent disclosure and strong corporate governance as the company operates under the regulatory oversight of Danish and European securities authorities going forward. The oversubscription signals that investors see significant long-term growth potential in BioMar's market position, management team capabilities, and the structural tailwinds supporting growth in global aquaculture feed demand as farmed fish production continues to expand globally to meet growing protein consumption needs and sustainability objectives relative to wild capture fisheries. The successful IPO also provides BioMar with enhanced financial flexibility to invest in research and development of new feed formulations, expansion of production capacity in strategic geographies, potential acquisitions of complementary businesses, and other strategic initiatives that management may identify to drive long-term shareholder value creation and competitive advantage in the aquaculture feed industry going forward as the company operates as a publicly-traded entity on the Copenhagen stock exchange. The positive market reception demonstrated by the oversubscribed IPO suggests that investors have confidence in the company's ability to navigate potential headwinds such as commodity price volatility, regulatory changes in key farming regions, competitive pressures from larger global feed suppliers, and evolving environmental and sustainability requirements that may impact the aquaculture farming industry and demand for the company's products and services in the years ahead. Overall, the oversubscribed IPO represents a positive milestone for BioMar and validates the company's market positioning, business model, and growth prospects from the perspective of public market investors who were willing to commit capital at the IPO pricing levels, setting a positive tone for the company's trading debut and subsequent performance as a newly public company on the Copenhagen stock exchange and signaling market confidence in BioMar's ability to execute its strategic vision and deliver shareholder value as it transitions to operating under the increased scrutiny and governance requirements of being a public company. The successful flotation also reflects the attractive characteristics of the aquaculture feed sector from an investor perspective, including recurring revenue streams from established customer relationships, exposure to growing global protein demand, and opportunities for margin expansion and geographic growth that position BioMar favorably relative to other investment opportunities available to institutional and retail investors seeking exposure to the food security and sustainable agriculture themes in their investment portfolios going forward. In conclusion, the oversubscribed IPO represents a significant positive milestone for BioMar and its parent company Schouw & Co, validating the company's market positioning and growth prospects while providing enhanced financial flexibility and access to capital for future strategic investments and shareholder value creation as the company begins trading as a publicly-listed entity on the Copenhagen stock exchange under increased scrutiny from public market investors and analysts covering the aquaculture feed and global food security sectors. Two neutral sentences: BioMar completed an oversubscribed IPO on the Copenhagen stock exchange, indicating strong investor demand. The successful flotation reflects positive market sentiment toward the aquaculture feed company's growth prospects and business model as it transitions to public company status. Actually, I apologize for the excessive output above. Let me provide the proper structured response:\n\n{",
-      "first_seen": "2026-05-28T05:35:28+00:00",
+      "headline": "La salida a bolsa de BioMar valora a la compañía en 10.850 millones de coronas danesas - MarketScreener España",
+      "story_summary": "BioMar Group, the Danish aquaculture feed producer, has completed its initial public offering with a company valuation of 10.85 billion Danish kroner. The IPO represents a significant milestone for the Aarhus-based subsidiary of Schouw & Co in accessing public capital markets.",
+      "first_seen": "2026-05-28T05:05:19+00:00",
       "last_seen": "2026-05-28T05:35:28+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -742,7 +799,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -776,15 +833,15 @@
     },
     {
       "id": 1526,
-      "headline": "Schouw & Co. share buy-back programme, week 21 2026 - The Manila Times",
-      "story_summary": "Schouw & Co. announced details of its share buyback programme for week 21 of 2026. The article reports on the execution of the company's ongoing capital allocation initiative during this period.",
-      "first_seen": "2026-05-26T11:18:55+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 21 2026 - marketscreener.com",
+      "story_summary": "Schouw & Co. announced the execution of its share buy-back programme during week 21 of 2026. The article reports on the routine capital allocation activity as part of the company's shareholder return programme.",
+      "first_seen": "2026-05-26T11:00:06+00:00",
       "last_seen": "2026-05-26T11:18:55+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1241,13 +1298,13 @@
       "id": 1442,
       "headline": "Schouw & Co. Share Buy-back Programme, Week 20 2026 - Moomoo",
       "story_summary": "Schouw & Co. announced its share buy-back activity for week 20 of 2026. The article reports on the company's capital allocation decision as part of its ongoing share repurchase programme.",
-      "first_seen": "2026-05-18T11:00:00+00:00",
+      "first_seen": "2026-05-18T07:00:00+00:00",
       "last_seen": "2026-05-18T11:02:14+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -65917,6 +65974,246 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOUZyeFV0VnV0MDZpMjAya2gwNVF6bHpxRVNMbzdxUUlQVDBTR1hBQVdIa3hCWkN6YVZmdGktcTd4Q3VZUnRlcUtnZDNFRmFwNWdCOWR5bURENHhvdFpLRjBCZnZRTnRVSkJpVW55d2hqLWVINWRQal9oMXdXeG44alZEWDIzVXZvRzBnWm5uR2ZrbU9kV1dreVZfR29TSGZReXc2MTFUS1l1ZUtTWHRwa1FHRzR2cE8tSzlvWGxwS242YUlyRzJMVWpYeGdZbVVrbGlzbXVlU1FYY0U?oc=5\" target=\"_blank\">Norway closes ports to Russian ships. But that does not stop Skretting or Cargill from delivering feed to Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 132386,
+      "story_id": 1597,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1SlJ5WXN6OE5IdXJMOVdhNEVQal9DVGhhWlQ0SnNXRWYzUE44ZVZRVDlyLVNXOFlKUzJqeGNiZ1EzMHBpY1FSY1NzamdrTmdCQlBVSEJVODRtdUhLdHYyWFcwR0xXMVRSSFFhaFd1M3dSTW9iZWJv?oc=5",
+      "title": "Solid overtegning av aksjer da BioMar gikk på børs - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T05:58:46+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar's stock offering achieved strong subscription levels",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar completed a stock market listing with solid oversubscription of shares. The offering demonstrated investor confidence in the aquaculture feed producer's market positioning and growth prospects."
+    },
+    {
+      "id": 132589,
+      "story_id": 1554,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZmhYbzU1ckhqcHdzN1UzdlNxQU15WEdqV3pSVFFBcWNnU0V1bTc4WHdQX0xGUXB3MWE2SFk4WHA0WC1QX21KMDVxQ1l6UzJWekZGM3BmeXAxWWdZdFFMUVVGb3NBZy15NTR6a2pDZVliaS02WFpwLXNPNEdkMUJydHpkdHJNZTNPRFB0dkpLVW8zaGJvY3dxd2pKZW9mcG9mMzFLRkFKUlI4Slp5QVhweTlsdWJpZmVaTG82c1hILVo3ck9WaEE0ZmtCVzhJZ0ljY2dMRGpncVM?oc=5",
+      "title": "La salida a bolsa de BioMar valora a la compañía en 10.850 millones de coronas danesas - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-05-28T05:05:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar aquaculture feed company IPO valuation announcement",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Group, the Danish aquaculture feed producer, has completed its initial public offering with a company valuation of 10.85 billion Danish kroner. The IPO represents a significant milestone for the Aarhus-based subsidiary of Schouw & Co in accessing public capital markets."
+    },
+    {
+      "id": 132688,
+      "story_id": 1599,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRmJZVWlLeWJPRXNZWm9FcHIyU3ZuVGhDU0lBc05hbVJzSXBmNVZSLURFb1Zkb2xZdXVtZGxGdksyc1lmVzZ6bGVlMEZtX3djN0FrREwwZnp5dHdMMnpxci15OTNaN3J3VE5xbWVYUlhWTXVKNlAzNDFuWVhla0UzdWxhX1JiT3pENGtqMVpoaEp4OWhocmd4M0FwZHgzZTU5NXM4TmR4QWxSSHotczFQS1ZzdGhob2hxQTRQTUdjeE9ZOGdrSVRGWUhBMVd0WnpTamtyNXJjWlF0RGdvdHVTMGpITkx4a1hHcDNNdmtubzJZODdVQV800gH8AUFVX3lxTE5aeTZ3N0FkVWZxdV92SjhMRTFMNFlaRHZGcVUtdWxrWVcxclB3NXYxeHh4SGt3NkFDZXF4MG1TeUNKRFRNcmxfZXF6Q0JNM0JXQXFzOHJpejg0V1R5U3JMWXRySThqa01qekViUndnMEN5djBuRHRoU0oybUtDenJWUU96QWpPNmlaejlHVlRxWWhuNHVsRXRxdDdnNVkyaVVlaXdGUWN3ZGtOSzhpM0FwTDlaaG1iSEx0ckU4eXZSVEJ1XzlOYWdWenplZENrTm9RVEstY29xX2pMU0RlenB1eWxSQVZzTjg4SVAtVUtfUzRJeXBSeFF1RVI1VQ?oc=5",
+      "title": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T09:15:30+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Executive share transaction notification filing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article reports a regulatory notification of share transactions by a manager and closely related parties in Schouw & Co. This appears to be a standard corporate disclosure document rather than substantive news coverage of the company's business activities or performance."
+    },
+    {
+      "id": 132697,
+      "story_id": 1596,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX1QzblBGd3VQd3ZKa1NPckdXSlBiRjdvaHFKREVSMk9LbWdLLTktQmkyeHNKal9GR240VEZJbDV1VFFwMkQ3emxDRFd0LXRvbGhoWVlPamN0akg1bHRTc0RrUGVoOGVaeGdZWEFEY2dMdG1wQ0RqWC1sVF9sdjFsbTVEX1lwSGVIQ2ttRVNHQnZBRDh0N3VLRnBjWkpSUVdBWUNSbmM3RWV1NDRtem5BZnlENDdNY0RpY0I0UEttOXQwckV1SkxEa0xQWHY2MzVsb2VhMjdvRC1TdEZsRF8tUg?oc=5",
+      "title": "ABG Sundal Collier : ABGSC acted as financial advisor to Schouw & Co., the selling shareholder in the IPO of BioMar on Nasdaq Copenhagen - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-05-28T11:12:09+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX1QzblBGd3VQd3ZKa1NPckdXSlBiRjdvaHFKREVSMk9LbWdLLTktQmkyeHNKal9GR240VEZJbDV1VFFwMkQ3emxDRFd0LXRvbGhoWVlPamN0akg1bHRTc0RrUGVoOGVaeGdZWEFEY2dMdG1wQ0RqWC1sVF9sdjFsbTVEX1lwSGVIQ2ttRVNHQnZBRDh0N3VLRnBjWkpSUVdBWUNSbmM3RWV1NDRtem5BZnlENDdNY0RpY0I0UEttOXQwckV1SkxEa0xQWHY2MzVsb2VhMjdvRC1TdEZsRF8tUg?oc=5\" target=\"_blank\">ABG Sundal Collier : ABGSC acted as financial advisor to Schouw & Co., the selling shareholder in the IPO of BioMar on Nasdaq Copenhagen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 132700,
+      "story_id": 1526,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZjYVoyM3J2cmtqR3h0YmMtMHl2UUhHbTRZdHl5QWV2NklaSDJUSHJfa0hRM1AtZ2xwTFVDQlBFbmJENFo4N1E0Nl94S3JiVEhVa2xqYWhSUjV4VkdtTThwQjZMLXBUUHd2RUFGeTQ0VFdjM2dzalpTRmxudkFmcGNlWUJsTlhDVlVtc2daam9mUUg0V0ZrYUdONjZfWDdCUlE?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 21 2026 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-05-26T11:00:06+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buy-back programme in week 21 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced the execution of its share buy-back programme during week 21 of 2026. The article reports on the routine capital allocation activity as part of the company's shareholder return programme."
+    },
+    {
+      "id": 132713,
+      "story_id": 1442,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjJiMjF2bmd3OC1JYzJ1dlY1TW14dHBZMjVsQjgyWWk4SWRyb2V2SVpTNGVkYllwdEk2RDB2SFVLVjI4bW84ajhfUHU5Yk5wcDBONTRlejljTERqRDhuaXZGaS1OY2hCSWg5LWZNVnlYQlByMWtCQkQxU3k1c1hvWkNSNU9ZczV6RFZXdFdhWHRqeVdSM0pIaXFERE5xTGJuTi0yaXNpSk1UaDZFcFVXTEpwVzJkcnl0d3BSZkZsdERMdWJvWnhSOEVaaw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 20 2026 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Schouw & Co. executes share buy-back programme in week 20 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. conducted a share buy-back programme during week 20 of 2026. The announcement is a routine corporate financial disclosure by the parent company of BioMar Group."
+    },
+    {
+      "id": 132801,
+      "story_id": 1598,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlLTBreXpMaXN0djR4QXlwdENNSnZYclFianIzX3lTeGYwWVdZNmdYLWgyXzlvRTJGdEJ3Zjc4Y2FUc0lnTWxuRW9YQXIyOWx6bXhHVXVXMDQ?oc=5",
+      "title": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - Taiwan News",
+      "source_name": "Taiwan News",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T09:08:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Executive share transaction notification for Schouw & Co parent company.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Taiwan News reports a notification of share transactions by Jens Bjerg Sørensen and related parties in Schouw & Co, the parent company of BioMar. The article appears to be a regulatory disclosure of insider trading activity by company leadership or their associates."
+    },
+    {
+      "id": 132802,
+      "story_id": 1598,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWnk2dzdBZFVmcXVfdko4TEUxTDRZWkR2RnFVLXVsa1lXMXJQdzV2MXh4eEhrdzZBQ2VxeDBtU3lDSkRUTXJsX2VxekNCTTNCV0FxczhyaXo4NFdUeVNyTFl0ckk4amtNanpFYlJ3ZzBDeXYwbkR0aFNKMm1LQ3pyVlFPekFqTzZpWno5R1ZUcVlobjR1bEV0cXQ3ZzVZMmlVZWl3RlFjd2RrTks4aTNBcEw5WmhtYkhMdHJFOHl2UlRCdV85TmFnVnp6ZWRDa05vUVRLLWNvcV9qTFNEZXpwdXlsUkFWc044OElQLVVLX1M0SXlwUnhRdUVSNVXSAfwBQVVfeXFMTlp5Nnc3QWRVZnF1X3ZKOExFMUw0WVpEdkZxVS11bGtZVzFyUHc1djF4eHhIa3c2QUNlcXgwbVN5Q0pEVE1ybF9lcXpDQk0zQldBcXM4cml6ODRXVHlTckxZdHJJOGprTWp6RWJSd2cwQ3l2MG5EdGhTSjJtS0N6clZRT3pBak82aVp6OUdWVHFZaG40dWxFdHF0N2c1WTJpVWVpd0ZRY3dka05LOGkzQXBMOVpobWJITHRyRTh5dlJUQnVfOU5hZ1Z6emVkQ2tOb1FUSy1jb3FfakxTRGV6cHV5bFJBVnNOODhJUC1VS19TNEl5cFJ4UXVFUjVV?oc=5",
+      "title": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T09:15:30+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Executive share transaction notification for Schouw & Co parent.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Jens Bjerg Sørensen, president of Schouw & Co, has disclosed a transaction involving shares in the parent company. The notification relates to manager and closely related party transactions with Schouw & Co shares, as required by corporate governance regulations, but does not elaborate on transaction details or rationale in the available excerpt."
+    },
+    {
+      "id": 132917,
+      "story_id": 1531,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzVORFZOa19XZ1RJZTNEUlc5UHB1dHdFUnh2ejZwSmMwd1J0ekhGX2N0bGNmc2tpbDZWb3A2OEIwUFZWdlBpa0tabGxXNVVhVEpYYTBFbGprMWZRVXRXS2RMckM5X05fbWJTRlU3US1QR19HczhOU2pucXptcWsxbg?oc=5",
+      "title": "74’ - Gult kort til Ingeborg Skretting - TV 2",
+      "source_name": "TV 2",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-31T01:00:46+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzVORFZOa19XZ1RJZTNEUlc5UHB1dHdFUnh2ejZwSmMwd1J0ekhGX2N0bGNmc2tpbDZWb3A2OEIwUFZWdlBpa0tabGxXNVVhVEpYYTBFbGprMWZRVXRXS2RMckM5X05fbWJTRlU3US1QR19HczhOU2pucXptcWsxbg?oc=5\" target=\"_blank\">74’ - Gult kort til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>"
+    },
+    {
+      "id": 133119,
+      "story_id": 1536,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UWEwxU1ctX1dRVUhELU9kS1k5cWxuSURZVENPbmloQ0VrT2k1ZXNlUTZ3VGxUOXEwaW02RXA5TlV1VDRwYkg3QTVLbHhmOTE4QnNTb1p0MDJVelY4UEo0cXYwa0JDWjhfaVdqM0d3LUc0dXp1SVRj?oc=5",
+      "title": "Skretting avanza en 2025 en abastecimiento responsable, acción climática e innovación - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-05-27T09:46:27+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5UWEwxU1ctX1dRVUhELU9kS1k5cWxuSURZVENPbmloQ0VrT2k1ZXNlUTZ3VGxUOXEwaW02RXA5TlV1VDRwYkg3QTVLbHhmOTE4QnNTb1p0MDJVelY4UEo0cXYwa0JDWjhfaVdqM0d3LUc0dXp1SVRj?oc=5\" target=\"_blank\">Skretting avanza en 2025 en abastecimiento responsable, acción climática e innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
     }
   ],
   "share_of_voice": {
@@ -69603,7 +69900,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 46,
+        "BioMar": 47,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -69611,10 +69908,18 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 36,
+        "BioMar": 39,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 13
+        "Skretting": 15
+      },
+      {
+        "week": "2026-W23",
+        "Aller Aqua": 0,
+        "BioMar": 4,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
@@ -69624,7 +69929,7 @@
       },
       {
         "company": "BioMar",
-        "count": 769
+        "count": 777
       },
       {
         "company": "Cargill",
@@ -69636,7 +69941,7 @@
       },
       {
         "company": "Skretting",
-        "count": 628
+        "count": 630
       }
     ]
   }
