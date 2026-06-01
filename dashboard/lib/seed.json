@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-01T20:19:32+00:00",
+  "generated_at": "2026-06-01T23:24:57+00:00",
   "stats": {
-    "mention_count": 1806,
-    "story_count": 1582,
-    "analyzed_count": 780,
+    "mention_count": 1809,
+    "story_count": 1585,
+    "analyzed_count": 781,
     "off_topic_mentions": 55,
     "off_topic_stories": 36
   },
@@ -285,6 +285,34 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1607,
+      "headline": "Katherine Bryar switches from BioMar to global investment fund - Fish Farmer",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXdaQUZDa01pZUpHcTB6RjVQUVZ2R1pSXzN0YzBYck1hblQ5MkJpRFA1aFV0OFpVLTdvQWhWY0FpZzhPa2swMUh5WF9rSXJvSGFzbV80Y2x0VVJyc1JIb0E2V2FrTVNGSElwVHBkMW9Ed0VRNmJuVWYza2FVTDQ2bC1lSE1NYXdva1JBV2Z0OUJibXBMZUlGZmQ0b3dEbjdkaWFzZE5PdWx2ckJFcVVEX09JendkaDJMb1h5SEtB?oc=5\" target=\"_blank\">Katherine Bryar switches from BioMar to global investment fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fish Farmer</font>",
+      "first_seen": "2026-06-01T23:00:56+00:00",
+      "last_seen": "2026-06-01T23:00:56+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1606,
+      "headline": "Más de 150 personas conocieron cómo se produce el alimento para salmones junto a Skretting - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1VjV01uMzhNeEdsMjlwRG4yejI0c25YTnN2czRDNGRlcHRUSGJ3bS1XVGVGSTlhYmdPWEVKOXdBZVZSUmZqZVowb0dtbms2YnBfNTBDTnZ0WkRBTl9vOEpLMWlac0U4bjhNT0NtMDg5SWNXZFZBZTNDaUJ1aHE3MjRXcFhFMVF0dV91b2FiaWJUTlFXVTNhTS1OcFhneENPeGJtWExfQ2JIMUI5Mm11T1BYbzNxSVFLWVE3WFRaWGJrdw?oc=5\" target=\"_blank\">Más de 150 personas conocieron cómo se produce el alimento para salmones junto a Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-06-01T22:44:31+00:00",
+      "last_seen": "2026-06-01T22:44:31+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 1603,
       "headline": "BioMar A/S : Reporting of transactions made by persons discharging managerial responsibilities and their closely associated persons in BioMar Group's shares - marketscreener.com",
@@ -13114,6 +13142,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1605,
+      "headline": "Proteínas nutritivas y sostenibles: “la industria salmonicultora tiene una gran ventaja” - Salmonexpert",
+      "story_summary": "The article discusses the nutritional and sustainable benefits of proteins in salmon farming, positioning the industry as having competitive advantages. BioMar is referenced in the context of supporting sustainable aquaculture practices and feed solutions for the salmon farming sector. This focus on industry-wide trends suggests broader market opportunities for major feed providers like BioMar Group. The piece emphasizes the industry's capacity to meet global sustainability and nutritional standards through responsible farming and quality inputs. BioMar's involvement aligns with the positive framing of salmon farming as a sustainable protein source for global markets. The article generally frames the salmon farming industry and its supply chain partners positively in terms of environmental and nutritional credentials.",
+      "first_seen": "2023-12-12T08:00:00+00:00",
+      "last_seen": "2023-12-12T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 912,
@@ -66432,6 +66474,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzFqS0MyYU1BTWREekt6M3dDd2NTRmFfaUZvS3paRDEyd05rRng2c3JQZ1Y1akJ1WGs4Z2Yta3VPZWh5a3QxQzYxMHUxMXJrQ09DSDQxNnpxOXBjVUFYNUlKR0RlX09FaVA0Rk5uYjIxVTRJblJ1bHQ1dmVOVzcyRnhqdjhSV20tSXFGX0loX3NzZF90dDFULW9Vc0xheXktU1pyc29qbS1mWkFqTWRsRVV3?oc=5\" target=\"_blank\">Cargill to collaborate with Skretting on new feed vessels in Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>"
+    },
+    {
+      "id": 135441,
+      "story_id": 1607,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXdaQUZDa01pZUpHcTB6RjVQUVZ2R1pSXzN0YzBYck1hblQ5MkJpRFA1aFV0OFpVLTdvQWhWY0FpZzhPa2swMUh5WF9rSXJvSGFzbV80Y2x0VVJyc1JIb0E2V2FrTVNGSElwVHBkMW9Ed0VRNmJuVWYza2FVTDQ2bC1lSE1NYXdva1JBV2Z0OUJibXBMZUlGZmQ0b3dEbjdkaWFzZE5PdWx2ckJFcVVEX09JendkaDJMb1h5SEtB?oc=5",
+      "title": "Katherine Bryar switches from BioMar to global investment fund - Fish Farmer",
+      "source_name": "Fish Farmer",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T23:00:56+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXdaQUZDa01pZUpHcTB6RjVQUVZ2R1pSXzN0YzBYck1hblQ5MkJpRFA1aFV0OFpVLTdvQWhWY0FpZzhPa2swMUh5WF9rSXJvSGFzbV80Y2x0VVJyc1JIb0E2V2FrTVNGSElwVHBkMW9Ed0VRNmJuVWYza2FVTDQ2bC1lSE1NYXdva1JBV2Z0OUJibXBMZUlGZmQ0b3dEbjdkaWFzZE5PdWx2ckJFcVVEX09JendkaDJMb1h5SEtB?oc=5\" target=\"_blank\">Katherine Bryar switches from BioMar to global investment fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fish Farmer</font>"
+    },
+    {
+      "id": 135837,
+      "story_id": 1605,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTy1jSUdZalJhRVJwZWtnWXVpV1Fvbk5DVnprbGhVQjc1V2dJSVNBeUVGbU8zM1Jmd2lFal9TRXdXQzdrQUJjaEd3VTlRN2M1Sm40LURxNDZ3bG1TUW5iZG1OOWhCMVJPWmpPUzc3MTZFd3Fmb3BFTFpUMTRGRU9Jcm9HMWMwME8zTVVja2dJb296cjEyMW1yc3JGNzRCZFVVZXRvQmVZdXBVUV9kcTk4NGhxQXRwVEZPdktJVEtsZnJoT3hmZTF4T2FsSGc3QmlEVi14b3I2YTFQRkk?oc=5",
+      "title": "Proteínas nutritivas y sostenibles: “la industria salmonicultora tiene una gran ventaja” - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-12-12T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "Salmon farming industry's sustainable protein advantage highlighted",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article discusses the nutritional and sustainable benefits of proteins in salmon farming, positioning the industry as having competitive advantages. BioMar is referenced in the context of supporting sustainable aquaculture practices and feed solutions for the salmon farming sector. This focus on industry-wide trends suggests broader market opportunities for major feed providers like BioMar Group. The piece emphasizes the industry's capacity to meet global sustainability and nutritional standards through responsible farming and quality inputs. BioMar's involvement aligns with the positive framing of salmon farming as a sustainable protein source for global markets. The article generally frames the salmon farming industry and its supply chain partners positively in terms of environmental and nutritional credentials."
+    },
+    {
+      "id": 136271,
+      "story_id": 1606,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1VjV01uMzhNeEdsMjlwRG4yejI0c25YTnN2czRDNGRlcHRUSGJ3bS1XVGVGSTlhYmdPWEVKOXdBZVZSUmZqZVowb0dtbms2YnBfNTBDTnZ0WkRBTl9vOEpLMWlac0U4bjhNT0NtMDg5SWNXZFZBZTNDaUJ1aHE3MjRXcFhFMVF0dV91b2FiaWJUTlFXVTNhTS1OcFhneENPeGJtWExfQ2JIMUI5Mm11T1BYbzNxSVFLWVE3WFRaWGJrdw?oc=5",
+      "title": "Más de 150 personas conocieron cómo se produce el alimento para salmones junto a Skretting - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T22:44:31+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1VjV01uMzhNeEdsMjlwRG4yejI0c25YTnN2czRDNGRlcHRUSGJ3bS1XVGVGSTlhYmdPWEVKOXdBZVZSUmZqZVowb0dtbms2YnBfNTBDTnZ0WkRBTl9vOEpLMWlac0U4bjhNT0NtMDg5SWNXZFZBZTNDaUJ1aHE3MjRXcFhFMVF0dV91b2FiaWJUTlFXVTNhTS1OcFhneENPeGJtWExfQ2JIMUI5Mm11T1BYbzNxSVFLWVE3WFRaWGJrdw?oc=5\" target=\"_blank\">Más de 150 personas conocieron cómo se produce el alimento para salmones junto a Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
     }
   ],
   "share_of_voice": {
@@ -69140,6 +69254,14 @@
         "Skretting": 1
       },
       {
+        "week": "2023-W50",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2023-W51",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -70134,10 +70256,10 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       }
     ],
     "totals": [
@@ -70147,7 +70269,7 @@
       },
       {
         "company": "BioMar",
-        "count": 780
+        "count": 782
       },
       {
         "company": "Cargill",
@@ -70159,7 +70281,7 @@
       },
       {
         "company": "Skretting",
-        "count": 632
+        "count": 633
       }
     ]
   }
