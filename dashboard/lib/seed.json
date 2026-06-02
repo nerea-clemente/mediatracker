@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T23:24:57+00:00",
+  "generated_at": "2026-06-02T09:48:57+00:00",
   "stats": {
-    "mention_count": 1809,
-    "story_count": 1585,
-    "analyzed_count": 781,
-    "off_topic_mentions": 55,
-    "off_topic_stories": 36
+    "mention_count": 1816,
+    "story_count": 1589,
+    "analyzed_count": 787,
+    "off_topic_mentions": 56,
+    "off_topic_stories": 37
   },
   "outlets": [
     "20Minutos",
@@ -271,6 +271,7 @@
     "kulingen.no",
     "marketscreener.com",
     "misPeces",
+    "moncloa.com",
     "navarratelevision.es",
     "news - Mongabay",
     "nord24.no",
@@ -286,9 +287,23 @@
   ],
   "stories": [
     {
+      "id": 1611,
+      "headline": "Pareto Securities initiates coverage on BioMar Group with Buy rating and DKK 130 price target - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM2dlUk5NTW5qRklmRnNrbHZyalJla3FXR3M1c09Ka3NKWTI3REhYTzQ5R2VmSWVIN3BmZVI3YkFsTlRzTnZRelB0Y0tkVldXOXZxRkc0R29CekVWNG5Od3Z2X0xXdkUtSkRIOXROcXpwbktKYUpxMXJoSHFwRndsa1poMlZ5VmhEQ0lqRmRVSE1mVXlTQm56NlcwRERnaldfTkROQlB5N2NKRlU0clppWW9LMU1aVklDN1JzYmxJX0NXb3lPNWt0NFI3al9wU0FwX0IzenJZbzIwdGUySTZv?oc=5\" target=\"_blank\">Pareto Securities initiates coverage on BioMar Group with Buy rating and DKK 130 price target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-06-02T05:39:54+00:00",
+      "last_seen": "2026-06-02T05:39:54+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1607,
       "headline": "Katherine Bryar switches from BioMar to global investment fund - Fish Farmer",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXdaQUZDa01pZUpHcTB6RjVQUVZ2R1pSXzN0YzBYck1hblQ5MkJpRFA1aFV0OFpVLTdvQWhWY0FpZzhPa2swMUh5WF9rSXJvSGFzbV80Y2x0VVJyc1JIb0E2V2FrTVNGSElwVHBkMW9Ed0VRNmJuVWYza2FVTDQ2bC1lSE1NYXdva1JBV2Z0OUJibXBMZUlGZmQ0b3dEbjdkaWFzZE5PdWx2ckJFcVVEX09JendkaDJMb1h5SEtB?oc=5\" target=\"_blank\">Katherine Bryar switches from BioMar to global investment fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fish Farmer</font>",
+      "story_summary": "Katherine Bryar has left BioMar to take a position with a global investment fund. The move represents a personnel change at the aquaculture feed company but no further details are provided in the headline and summary text available for analysis.",
       "first_seen": "2026-06-01T23:00:56+00:00",
       "last_seen": "2026-06-01T23:00:56+00:00",
       "primary_sentiment": "neutral",
@@ -329,15 +344,15 @@
     },
     {
       "id": 1602,
-      "headline": "Schouw & Co. share buy-back programme, week 22 2026 - The Manila Times",
-      "story_summary": "Schouw & Co., the Danish industrial conglomerate and parent of aquaculture feed producer BioMar, announced its share buy-back programme for week 22 of 2026. The article reports routine corporate financial activity related to share repurchases by the parent holding company.",
-      "first_seen": "2026-06-01T13:02:58+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 22 2026 - marketscreener.com",
+      "story_summary": "Schouw & Co. executed a share buyback programme during week 22 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group without commentary on operational or financial performance beyond the buyback itself.",
+      "first_seen": "2026-06-01T13:00:06+00:00",
       "last_seen": "2026-06-01T13:02:58+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -357,15 +372,15 @@
     },
     {
       "id": 1599,
-      "headline": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - The Manila Times",
-      "story_summary": "The article reports a regulatory notification of share transactions by a manager and closely related parties in Schouw & Co. This appears to be a standard corporate disclosure document rather than substantive news coverage of the company's business activities or performance.",
-      "first_seen": "2026-06-01T09:15:30+00:00",
+      "headline": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - marketscreener.com",
+      "story_summary": "This is a regulatory notification of share transactions by company managers and related parties in Schouw & Co. The article contains no substantive news about BioMar's operations, performance, or products, only administrative disclosure of insider trading activity required by law or stock exchange rules.",
+      "first_seen": "2026-06-01T09:09:05+00:00",
       "last_seen": "2026-06-01T09:15:30+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -2009,7 +2024,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -5578,6 +5593,20 @@
       "story_summary": "The article discusses a prominent figure in an alleged 280-million-euro fuel fraud case in Spain who was pardoned by former Prime Minister Zapatero. The keyword match to 'BioMar' appears to be incidental or a false positive, as the article concerns Spanish hydrocarbon fraud and political pardons, not the aquaculture feed company BioMar Group A/S based in Aarhus, Denmark.",
       "first_seen": "2025-12-08T08:00:00+00:00",
       "last_seen": "2025-12-08T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
+      "id": 1610,
+      "headline": "La AN investiga a una empresa de hidrocarburos que se querelló contra el subdirector del Miteco - moncloa.com",
+      "story_summary": "The Spanish National Court is investigating a hydrocarbon company that filed a complaint against a Ministry of Ecological Transition official. The article focuses on regulatory and legal matters in the energy sector, not aquaculture feed production.",
+      "first_seen": "2025-12-04T08:00:00+00:00",
+      "last_seen": "2025-12-04T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -14712,6 +14741,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1609,
+      "headline": "Aquafeed companies issue ultimatum: Fix North Atlantic blue whiting issues or we'll stop buying it - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDVlRy1mSVg3b0NQUWFKQ29zS21BVDZMYy1Qa25mZFF2ajVPYWlWVU9IdnhucWNlMTUtR1RRRGhYSXNUVjd3eXpFODg2TmR5OU5DV3pxc3pNYVlIVXpKQld3Z2FxMVJISGoxNVlBUGRwbmpfUkIxNDBkdDNvcEdGWDRLTzNxVUw1Wl92S0lqekwyLXNTbEVqLW56cl9vdlo5azBlOFB3ODNOeEJHbFRzM0hwVlcwNWU2LVNjNmt4cHRRWVFCSDhOY2l3WmlHN25pNFVTTE93?oc=5\" target=\"_blank\">Aquafeed companies issue ultimatum: Fix North Atlantic blue whiting issues or we'll stop buying it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2023-01-31T08:00:00+00:00",
+      "last_seen": "2023-01-31T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 536,
       "headline": "Skretting Chile logra más de 87% de avance en acciones realizables por Acuerdo de Producción Limpia - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRTc1emhwNWJLdDJCOXFQVV9GZWVVMEppVWNXZE1xVG9SQ2JSTU44OXdjWExsc0tVNWVXWWdOSzB5cXUzcTlMREpPSE1VUVVsV3BsVGMzZ3JuYWZaZklKUEF5Q3ZDR0hWTFF4bDJMSVZlemNkb0l1THZVZHkyWmNPT2xfWHIxMkx0S2NKRnY1dV9VdktXYlAxdFFMYXJSMGJINll6dS1JQ1dDM1hKbEhuejB5MHZVREw5X09BckUzZUREQ19wdGVEZHRnLXBBbjZqLVFDSl9zZkVWM3VpU3BvWHBsMXZXRHVfaGZB?oc=5\" target=\"_blank\">Skretting Chile logra más de 87% de avance en acciones realizables por Acuerdo de Producción Limpia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
@@ -16090,6 +16133,20 @@
       "first_seen": "2022-03-05T08:00:00+00:00",
       "last_seen": "2022-03-05T08:00:00+00:00",
       "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1608,
+      "headline": "BioMar Q4 results see decline in EBITDA as energy crisis bites - SalmonBusiness",
+      "story_summary": "BioMar reported a decline in Q4 EBITDA results, with the energy crisis cited as a significant factor affecting profitability. The article covers the company's financial performance during a challenging period marked by elevated energy costs across the aquaculture feed sector.key_claims?cs=1&rss_source=SalmonBusiness&sort=date&t=all&gl=US&ceid=US%3Aen&output=rss&oc=5&source=SalmonBusiness', the title indicates that BioMar's Q4 financial results showed declining EBITDA, which was adversely impacted by the energy crisis affecting production and operational costs. This financial contraction represents a meaningful challenge for the company during that period, though the company's ability to report results demonstrates it remained operationally sound despite the headwinds. The prominence is primary as the article focuses on BioMar's specific financial results, and the sentiment is negative due to the reported EBITDA decline, though this is presented as an external market challenge rather than company mismanagement. The risk flag for financial is applied due to the earnings/EBITDA reporting, and while no specific quote from an executive is provided in the snippet, the mention of Carlos Diaz in the keyword match suggests potential executive commentary in the full article, though this cannot be confirmed from the provided lede alone.key_claims?cs=1&rss_source=SalmonBusiness&sort=date&t=all&gl=US&ceid=US%3Aen&output=rss&oc=5&source=SalmonBusiness', ",
+      "first_seen": "2022-03-04T08:00:00+00:00",
+      "last_seen": "2022-03-04T08:00:00+00:00",
+      "primary_sentiment": "negative",
       "risk_flags": [
         "none"
       ],
@@ -66489,15 +66546,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Executive departure: Katherine Bryar leaves BioMar for investment fund role",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXdaQUZDa01pZUpHcTB6RjVQUVZ2R1pSXzN0YzBYck1hblQ5MkJpRFA1aFV0OFpVLTdvQWhWY0FpZzhPa2swMUh5WF9rSXJvSGFzbV80Y2x0VVJyc1JIb0E2V2FrTVNGSElwVHBkMW9Ed0VRNmJuVWYza2FVTDQ2bC1lSE1NYXdva1JBV2Z0OUJibXBMZUlGZmQ0b3dEbjdkaWFzZE5PdWx2ckJFcVVEX09JendkaDJMb1h5SEtB?oc=5\" target=\"_blank\">Katherine Bryar switches from BioMar to global investment fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fish Farmer</font>"
+      "summary": "Katherine Bryar has left BioMar to take a position with a global investment fund. The move represents a personnel change at the aquaculture feed company but no further details are provided in the headline and summary text available for analysis."
     },
     {
       "id": 135837,
@@ -66546,6 +66603,176 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1VjV01uMzhNeEdsMjlwRG4yejI0c25YTnN2czRDNGRlcHRUSGJ3bS1XVGVGSTlhYmdPWEVKOXdBZVZSUmZqZVowb0dtbms2YnBfNTBDTnZ0WkRBTl9vOEpLMWlac0U4bjhNT0NtMDg5SWNXZFZBZTNDaUJ1aHE3MjRXcFhFMVF0dV91b2FiaWJUTlFXVTNhTS1OcFhneENPeGJtWExfQ2JIMUI5Mm11T1BYbzNxSVFLWVE3WFRaWGJrdw?oc=5\" target=\"_blank\">Más de 150 personas conocieron cómo se produce el alimento para salmones junto a Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 136494,
+      "story_id": 1611,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM2dlUk5NTW5qRklmRnNrbHZyalJla3FXR3M1c09Ka3NKWTI3REhYTzQ5R2VmSWVIN3BmZVI3YkFsTlRzTnZRelB0Y0tkVldXOXZxRkc0R29CekVWNG5Od3Z2X0xXdkUtSkRIOXROcXpwbktKYUpxMXJoSHFwRndsa1poMlZ5VmhEQ0lqRmRVSE1mVXlTQm56NlcwRERnaldfTkROQlB5N2NKRlU0clppWW9LMU1aVklDN1JzYmxJX0NXb3lPNWt0NFI3al9wU0FwX0IzenJZbzIwdGUySTZv?oc=5",
+      "title": "Pareto Securities initiates coverage on BioMar Group with Buy rating and DKK 130 price target - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-02T05:39:54+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM2dlUk5NTW5qRklmRnNrbHZyalJla3FXR3M1c09Ka3NKWTI3REhYTzQ5R2VmSWVIN3BmZVI3YkFsTlRzTnZRelB0Y0tkVldXOXZxRkc0R29CekVWNG5Od3Z2X0xXdkUtSkRIOXROcXpwbktKYUpxMXJoSHFwRndsa1poMlZ5VmhEQ0lqRmRVSE1mVXlTQm56NlcwRERnaldfTkROQlB5N2NKRlU0clppWW9LMU1aVklDN1JzYmxJX0NXb3lPNWt0NFI3al9wU0FwX0IzenJZbzIwdGUySTZv?oc=5\" target=\"_blank\">Pareto Securities initiates coverage on BioMar Group with Buy rating and DKK 130 price target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 136823,
+      "story_id": 1309,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPXzlGOW81SXRDU2xxcmxYeVpFREhBa25CaUdSLVNHM3hMMlNjWXlZdkM0S0RKZG5JejlBMlhDaGJiclNlcWRycmZNa1QyV1ZkeHl1dm9WZFROSUZGRDEwOHlrNlhqSmVDQWMxQ3o0eEZXZS1pb2p2OHRZX2tpV1djSEpMOV9YZ1h6UnZfckQtZ2wxbEZSVUxvekI0NE5kekhHNk9kaDNIYw?oc=5",
+      "title": "BioMar Group A/S solicita su salida a bolsa (IPO). - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-05-01T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.8,
+      "prominence": "primary",
+      "angle": "BioMar Group files for IPO listing on stock exchange",
+      "key_claims": [
+        "BioMar Group A/S has filed for an initial public offering (IPO)"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group A/S, the aquaculture feed producer, has submitted its application for a public stock market listing. The IPO represents a significant capital markets milestone for the company."
+    },
+    {
+      "id": 136891,
+      "story_id": 1610,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmtydGstaWl0U29mN0VzT1Y0R1g5MnhhR3RJNlNUTUJJNWlYcmVwNF9WQktlYk1NcWNjY1lYSVdVX2ZjdjA4Q0diWXNhZnZybGtEeWx5dnh6U2Fic0k4TjRMTGhkVGNWUnk2ZFlyRW5ubloyTGNad1dyNkhaZ3BWVQ?oc=5",
+      "title": "La AN investiga a una empresa de hidrocarburos que se querelló contra el subdirector del Miteco - moncloa.com",
+      "source_name": "moncloa.com",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-12-04T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Spanish National Court investigates hydrocarbons company in regulatory dispute",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The Spanish National Court is investigating a hydrocarbon company that filed a complaint against a Ministry of Ecological Transition official. The article focuses on regulatory and legal matters in the energy sector, not aquaculture feed production."
+    },
+    {
+      "id": 136894,
+      "story_id": 1602,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEtBTGZkQXFBa09CQmJIOUptS0dWdzh4SWhrZ0FjUDJLWE1kRHVoMktuTnFvUjRXb1k1Z3VFSGJQc1FaYlVXYWtIZWFhVG8zcnFON0JMWkkycF81bzhha1llQXZPbEVQR3hPTlRYOHNPLXFWUmZCS0NhczNhYUxXRW80OEFjWWdFb3JkMU03cE5lYTYyeV9pTldNSUFXQWI5Y3c?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 22 2026 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T13:00:06+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Share buyback programme execution update for week 22 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. executed a share buyback programme during week 22 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group without commentary on operational or financial performance beyond the buyback itself."
+    },
+    {
+      "id": 136898,
+      "story_id": 1599,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWFQwaVdzZkY2bk9mTUU2Rm9wOGVuV0dQYzRuSnhMMVlfQXJLZE5mWlpuVFhJRFI0alpkRFYzWkMzLV9RUkQxVzBoVVBQcC1UWUw4WVIzSmZwbjh4dDdFNW1sMXFwVDJuRllzNi1NZm5SWXV1SDRzNTY0am9wTlJOeGpYdlZEckRvRjhfYTFCOFpRdU12NksxYmtuVDJlT19zSHhKMDBNUEhMUFVwNkZVLVlxM2wyTm81QkVIc1hrd2xpWGIwOHdGVDJUVFpNb1JlZGU2Z2k1YXVsZ2w1elZn?oc=5",
+      "title": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T09:09:05+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Insider trading notification for Schouw & Co shares.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a regulatory notification of share transactions by company managers and related parties in Schouw & Co. The article contains no substantive news about BioMar's operations, performance, or products, only administrative disclosure of insider trading activity required by law or stock exchange rules."
+    },
+    {
+      "id": 136973,
+      "story_id": 1608,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMW55REFrWVprc3hSWEtvMlJVYXQweEJVX043VWNsWHkxcnVIbTh2Q0p6RTBHYmJPa2hlYWl3RzZwWFRCdzk5cGJyWk04blBINUJOd2VsMWZYTGFsanNxRkJfWXFpMWwwOE9hWFF5ei1NWGRVRXhxM19RU3BKTEUxZ2ZSeWc3Q25SWG02U3dpTWhYSjI2VC1jcFFR0gGaAUFVX3lxTFAxbnlEQWtZWmtzeFJYS28yUlVhdDB4QlVfTjdVY2xYeTFydUhtOHZDSnpFMEdiYk9raGVhaXdHNnBYVEJ3OTlwYnJaTThuUEg1Qk53ZWwxZlhMYWxqc3FGQl9ZcWkxbDA4T2FYUXl6LU1YZFVFeHEzX1FTcEpMRTFnZlJ5ZzdDblJYbTZTd2lNaFhKMjZULWNwUVE?oc=5",
+      "title": "BioMar Q4 results see decline in EBITDA as energy crisis bites - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-03-04T08:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar Q4 EBITDA declines amid energy crisis impact",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar reported a decline in Q4 EBITDA results, with the energy crisis cited as a significant factor affecting profitability. The article covers the company's financial performance during a challenging period marked by elevated energy costs across the aquaculture feed sector.key_claims?cs=1&rss_source=SalmonBusiness&sort=date&t=all&gl=US&ceid=US%3Aen&output=rss&oc=5&source=SalmonBusiness', the title indicates that BioMar's Q4 financial results showed declining EBITDA, which was adversely impacted by the energy crisis affecting production and operational costs. This financial contraction represents a meaningful challenge for the company during that period, though the company's ability to report results demonstrates it remained operationally sound despite the headwinds. The prominence is primary as the article focuses on BioMar's specific financial results, and the sentiment is negative due to the reported EBITDA decline, though this is presented as an external market challenge rather than company mismanagement. The risk flag for financial is applied due to the earnings/EBITDA reporting, and while no specific quote from an executive is provided in the snippet, the mention of Carlos Diaz in the keyword match suggests potential executive commentary in the full article, though this cannot be confirmed from the provided lede alone.key_claims?cs=1&rss_source=SalmonBusiness&sort=date&t=all&gl=US&ceid=US%3Aen&output=rss&oc=5&source=SalmonBusiness', "
+    },
+    {
+      "id": 137115,
+      "story_id": 1609,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDVlRy1mSVg3b0NQUWFKQ29zS21BVDZMYy1Qa25mZFF2ajVPYWlWVU9IdnhucWNlMTUtR1RRRGhYSXNUVjd3eXpFODg2TmR5OU5DV3pxc3pNYVlIVXpKQld3Z2FxMVJISGoxNVlBUGRwbmpfUkIxNDBkdDNvcEdGWDRLTzNxVUw1Wl92S0lqekwyLXNTbEVqLW56cl9vdlo5azBlOFB3ODNOeEJHbFRzM0hwVlcwNWU2LVNjNmt4cHRRWVFCSDhOY2l3WmlHN25pNFVTTE93?oc=5",
+      "title": "Aquafeed companies issue ultimatum: Fix North Atlantic blue whiting issues or we'll stop buying it - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2023-01-31T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDVlRy1mSVg3b0NQUWFKQ29zS21BVDZMYy1Qa25mZFF2ajVPYWlWVU9IdnhucWNlMTUtR1RRRGhYSXNUVjd3eXpFODg2TmR5OU5DV3pxc3pNYVlIVXpKQld3Z2FxMVJISGoxNVlBUGRwbmpfUkIxNDBkdDNvcEdGWDRLTzNxVUw1Wl92S0lqekwyLXNTbEVqLW56cl9vdlo5azBlOFB3ODNOeEJHbFRzM0hwVlcwNWU2LVNjNmt4cHRRWVFCSDhOY2l3WmlHN25pNFVTTE93?oc=5\" target=\"_blank\">Aquafeed companies issue ultimatum: Fix North Atlantic blue whiting issues or we'll stop buying it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
     }
   ],
   "share_of_voice": {
@@ -68616,7 +68843,7 @@
       {
         "week": "2022-W09",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -68955,7 +69182,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2023-W06",
@@ -70048,7 +70275,7 @@
       {
         "week": "2025-W49",
         "Aller Aqua": 0,
-        "BioMar": 32,
+        "BioMar": 33,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -70216,7 +70443,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 67,
+        "BioMar": 68,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -70256,7 +70483,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 7,
+        "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -70269,7 +70496,7 @@
       },
       {
         "company": "BioMar",
-        "count": 782
+        "count": 788
       },
       {
         "company": "Cargill",
@@ -70281,7 +70508,7 @@
       },
       {
         "company": "Skretting",
-        "count": 633
+        "count": 634
       }
     ]
   }
