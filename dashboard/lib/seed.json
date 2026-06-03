@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-02T23:42:59+00:00",
+  "generated_at": "2026-06-03T10:19:46+00:00",
   "stats": {
-    "mention_count": 1825,
-    "story_count": 1594,
-    "analyzed_count": 790,
+    "mention_count": 1832,
+    "story_count": 1600,
+    "analyzed_count": 793,
     "off_topic_mentions": 57,
     "off_topic_stories": 37
   },
@@ -34,6 +34,7 @@
     "Bloomberg.com",
     "BriefGlance",
     "Budstikka",
+    "Business News Australia",
     "Business News Nigeria",
     "Business in Vancouver",
     "Bygg.no",
@@ -162,6 +163,7 @@
     "Mundoacuicola",
     "Mynewsdesk",
     "Málaga Hoy",
+    "NHO",
     "NRK",
     "NTB Kommunikasjon",
     "Nationen",
@@ -289,6 +291,48 @@
   ],
   "stories": [
     {
+      "id": 1622,
+      "headline": "BioMar gets over 10,800 new owners as public trading begins - Undercurrent News",
+      "story_summary": "BioMar has gone public and commenced trading, attracting over 10,800 new shareholders. The successful market debut marks a significant milestone for the aquaculture feed producer as it transitions to a publicly listed company structure.",
+      "first_seen": "2026-06-03T09:49:00+00:00",
+      "last_seen": "2026-06-03T09:49:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1621,
+      "headline": "In pictures: BioMar welcomes more than 10,800 new owners - intrafish.com",
+      "story_summary": "BioMar has welcomed more than 10,800 new owners, indicating a significant expansion of its shareholder base. The article features imagery documenting the company's engagement with its expanded ownership group.",
+      "first_seen": "2026-06-03T07:30:00+00:00",
+      "last_seen": "2026-06-03T07:30:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1620,
+      "headline": "Skretting abre su planta y lleva la cadena salmonera a la comunidad - FoodNewsLatam",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZkhCQWlIdFRPTlN4ZFMzekthODR1Q0I3dXQ4YmlhdnlPUGNPNFpES0tqd2NIVHhCM3VDakV4SlVwVWZqSGtjQnZ4SXN2aVdydkdpSXRnVlNxeXRuN21mZTk5c1EzS3FGM3pDLUh0WjRjV1pzMUc0NUJ3TFN6N1dON1JURDZkT0YwbmdpLWd5bjZHbVVHRFRENU9BMkZpZ3AzMkI0T20tbzBDVVk4NHlvQXdaMkVNNl9Bd1I1WmdpWlkzdw?oc=5\" target=\"_blank\">Skretting abre su planta y lleva la cadena salmonera a la comunidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FoodNewsLatam</font>",
+      "first_seen": "2026-06-03T05:03:17+00:00",
+      "last_seen": "2026-06-03T05:03:17+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1606,
       "headline": "Más de 150 personas conocieron cómo se produce el alimento para salmones junto a Skretting - Mundoacuicola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1VjV01uMzhNeEdsMjlwRG4yejI0c25YTnN2czRDNGRlcHRUSGJ3bS1XVGVGSTlhYmdPWEVKOXdBZVZSUmZqZVowb0dtbms2YnBfNTBDTnZ0WkRBTl9vOEpLMWlac0U4bjhNT0NtMDg5SWNXZFZBZTNDaUJ1aHE3MjRXcFhFMVF0dV91b2FiaWJUTlFXVTNhTS1OcFhneENPeGJtWExfQ2JIMUI5Mm11T1BYbzNxSVFLWVE3WFRaWGJrdw?oc=5\" target=\"_blank\">Más de 150 personas conocieron cómo se produce el alimento para salmones junto a Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
@@ -355,6 +399,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1553,
+      "headline": "BioMar IPO in Copenhagen heavily oversubscribed - marketscreener.com",
+      "story_summary": "BioMar has launched an initial public offering on the Copenhagen stock exchange that received substantially more demand than shares available. The oversubscription indicates strong investor confidence in the aquaculture feed company's market prospects and growth trajectory.",
+      "first_seen": "2026-05-28T05:35:28+00:00",
+      "last_seen": "2026-06-01T12:46:15+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -677,20 +735,6 @@
         "none"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1553,
-      "headline": "BioMar IPO in Copenhagen heavily oversubscribed - marketscreener.com",
-      "story_summary": "BioMar has launched an initial public offering on the Copenhagen stock exchange that received substantially more demand than shares available. The oversubscription indicates strong investor confidence in the aquaculture feed company's market prospects and growth trajectory.",
-      "first_seen": "2026-05-28T05:35:28+00:00",
-      "last_seen": "2026-05-28T08:47:22+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1560,6 +1604,20 @@
         "none"
       ],
       "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1619,
+      "headline": "Økt pessimisme blant NHOs medlemmer i mai - NHO",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmhlS1ZfZUtra3VlbUZYMXVtTkFDWS0xSWpvYmlRRE4xVVA5VFV6NVJtQTAwWDhFSEh0WkZPUGhoTFJzQlBtR01BelFUMjhZdWt4ekdmeFB2OW5sa1RBOVZFeHZ1RzVrZXRMZjBrNHVGY1lJYzY0cTlROFBDdVQyXzhHeDc2YkRzcm1mRkRHR0xzVU1hTWdneER3YlQ3RXNla0ZreWpGQllTVmtTdUU4?oc=5\" target=\"_blank\">Økt pessimisme blant NHOs medlemmer i mai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHO</font>",
+      "first_seen": "2026-05-08T07:00:00+00:00",
+      "last_seen": "2026-05-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -12223,6 +12281,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1618,
+      "headline": "Insect protein scale-up Goterra signs breakthrough offtake deal with fish feed group Skretting - Business News Australia",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3JhS09zdnhORVRnWjRIRHhyWTJkZ0lkcjg2Nk4wNXFmVmw1cTNnQ2ZJZXZ6R284M05VU0Z3Sm41QjNRWTQ3RFY1eXdGN3ZkYTVSU21CNTRtX3dILV9CZnlBLUxzWGlvczY2b0tCODFUeEQwVTN4OEVMcFNYQ1hqcDZxUW5ZV0Z3NDlRYnpfSmJPU3RvT0dGcXlidmVtSmtoZEFVaGMxUWRKRi0zbVlRdGptdWN6dkhNZlVUNTJoSlVNZFF5aWh1U1pYOU9SWlZINWhYaGtnSzFkSENITHVZ?oc=5\" target=\"_blank\">Insect protein scale-up Goterra signs breakthrough offtake deal with fish feed group Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business News Australia</font>",
+      "first_seen": "2024-05-27T07:00:00+00:00",
+      "last_seen": "2024-05-27T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1305,
       "headline": "Farmers of the Year 2023 BioMar: Reconocen a CES Capeahuapi de Marine Farm - Mundoacuicola",
       "story_summary": "BioMar has recognized CES Capeahuapi de Marine Farm as its 2023 Farmers of the Year award recipient. The award highlights exemplary farming practices within BioMar's customer base.",
@@ -13215,6 +13287,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1617,
+      "headline": "Skretting appoints Charlie Granfelt as Global Manager Closed Aquaculture Systems - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHo1cHRCOWFyTnBKODR4TTdvOHZrV3VCS2xuYmM0NzVzT0NFelhDZlhnZjRMMjVsbHREdktGZ3NqR3dpX1dNcU0wWThTWHlLM21uMU56Z2hqTlM3SFZwQUdhY0dabW9sTVhrenZpVUI1SjlRTXhhN2xkUDJYTFY5bldxZHBibDdKOGZZT1ZyenMwYVNQU19HNXVEVEJJMEd6cVF0aFBiSEFpb0E3SlV1a3d30gG6AUFVX3lxTFBneUNRREJaSnhpN29LYnktTmFOVjVIeERBTFZIS2wxblpabHYwSEw3TlN5RGVTdFhuYXc2MUdSSVVJMGVrMmdpM1lxM3hKVkZjMHNka0RJaWc1NHItMkh6Mks5aTF0Q29YZ2tFRTQ3N2RpeVFwR09ubTNUdEZnZml4Zm44djcyNllMM1N3NW1kbkFndkc1cVBiZFZ6TDY0aG5NUXNnU2R1X09JOGFEemlXVXVGekVTeGtWZw?oc=5\" target=\"_blank\">Skretting appoints Charlie Granfelt as Global Manager Closed Aquaculture Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2023-12-10T01:47:22+00:00",
+      "last_seen": "2023-12-10T01:47:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1142,
@@ -67065,6 +67151,174 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVnBBZlpZa09rZGJhbVVieVVERlF0TE5VbzExQjg4RU55WlE4a0xnQlhvT2NXWWRKUVJzLWpfdHkxS2VfdjVQSG5adVhTYlNNcVN2MHdsMmYtQ2RSRkMxRlZkc3hfS2FBellFSC1rZ3NteTBVbWlGNjhicHhPSVBNM0hjc1pwUDZocFB4dVlHUGtNSjRra2luOTcxczhRV2swZXlQSzZvOHBrWjBZYkFJaVZvS0s3Ym1ZVFpFaVB1cUZQeHFNcVNudFFfbGNuQ0dGR2RuLWtuN3Q?oc=5\" target=\"_blank\">Skretting acompaña a profesionales de Blumar en gira técnica por Noruega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 140674,
+      "story_id": 1621,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN09OSWl5QTZhclVEMlB3X21IT25EVzY4akdsTGk0c1VYVldZci1TSENEY1M3U0Z5UXUyZXQ5T3BqTFBuQjRuZDRXQTF1M0RnQTdQY3d1MWYzX0VXQ3hNS0hYeGNNLXU2VXJXNnczWndWUFRYbnVEZWJELVdjMi1pTnA4dXVvdHE0Q054SDZrSG56RjFxU0tkdmlUQndEdFk?oc=5",
+      "title": "In pictures: BioMar welcomes more than 10,800 new owners - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-03T07:30:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar welcomes over 10,800 new shareholders in ownership expansion",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has welcomed more than 10,800 new owners, indicating a significant expansion of its shareholder base. The article features imagery documenting the company's engagement with its expanded ownership group."
+    },
+    {
+      "id": 140675,
+      "story_id": 1622,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmIwTmVXcGZZNVlXVHdBdjhfOE03NUZZdzNIWkkxUmhKMmJsd3p1Z1g4VmdpSFd2cTlpUm5jX21MTHFTWVkwdFhrbENBc2tIRnVVZ2ljS2RkUTl3eEhzdVBfQzduV0w0S0tiQnJDNi1COWJ4VFR2d2wxZ3cwS3hEZXkzeG5uMjdPX1Q3QkV2ZHpuSmNNZkFhQThMQXFWZUF3bVYtVUFB?oc=5",
+      "title": "BioMar gets over 10,800 new owners as public trading begins - Undercurrent News",
+      "source_name": "Undercurrent News",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-06-03T09:49:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar completes IPO and begins public trading with strong investor demand",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has gone public and commenced trading, attracting over 10,800 new shareholders. The successful market debut marks a significant milestone for the aquaculture feed producer as it transitions to a publicly listed company structure."
+    },
+    {
+      "id": 140680,
+      "story_id": 1553,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkI3Q0VMT3NIVTZVQ05lVXBIX0c4MGo5VVdmdmlDSHZUUFMxbHphYjJodTVVd3B5WWJhbl9OTGU4TndkMl9BQjJNNnA0dGs4Yi1ScGs2OEJXRkc2Z0RabURXNXBDTENWTTFUOWJUSkduT2ZGeXhJU2ROSGM5bE5ILU1wVEJSSVVSWmpJWE00b2ZhYm5nVDBMcmdvNUJpNnRxM3A0dFo4cElub3RHNVFYb0dsYW5DY0c1bTJsZUVlMVVFeEdl?oc=5",
+      "title": "BioMar A/S : Major shareholder announcement - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T12:46:15+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Major shareholder announcement regarding BioMar A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar A/S issued a major shareholder announcement. The specific details of the announcement are not provided in the available summary or article excerpt provided to the analysis system. Given the article title refers to a shareholder announcement, the announcement likely concerns corporate governance, ownership changes, or investor relations matters relevant to the aquaculture feed company and its parent Schouw & Co shareholders. Without access to the full article text, the precise nature and implications of the announcement cannot be determined from the information available in this analysis request. A major shareholder announcement typically warrants investor attention and may involve changes to share capital, dividend policy, board composition, or strategic direction that would be of interest to equity holders in the BioMar Group parent company structure. The formal nature of such announcements suggests standard corporate communication rather than unexpected developments or controversies requiring immediate risk assessment or sentiment adjustment beyond neutral positioning of factual corporate communications."
+    },
+    {
+      "id": 141302,
+      "story_id": 1618,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3JhS09zdnhORVRnWjRIRHhyWTJkZ0lkcjg2Nk4wNXFmVmw1cTNnQ2ZJZXZ6R284M05VU0Z3Sm41QjNRWTQ3RFY1eXdGN3ZkYTVSU21CNTRtX3dILV9CZnlBLUxzWGlvczY2b0tCODFUeEQwVTN4OEVMcFNYQ1hqcDZxUW5ZV0Z3NDlRYnpfSmJPU3RvT0dGcXlidmVtSmtoZEFVaGMxUWRKRi0zbVlRdGptdWN6dkhNZlVUNTJoSlVNZFF5aWh1U1pYOU9SWlZINWhYaGtnSzFkSENITHVZ?oc=5",
+      "title": "Insect protein scale-up Goterra signs breakthrough offtake deal with fish feed group Skretting - Business News Australia",
+      "source_name": "Business News Australia",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2024-05-27T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3JhS09zdnhORVRnWjRIRHhyWTJkZ0lkcjg2Nk4wNXFmVmw1cTNnQ2ZJZXZ6R284M05VU0Z3Sm41QjNRWTQ3RFY1eXdGN3ZkYTVSU21CNTRtX3dILV9CZnlBLUxzWGlvczY2b0tCODFUeEQwVTN4OEVMcFNYQ1hqcDZxUW5ZV0Z3NDlRYnpfSmJPU3RvT0dGcXlidmVtSmtoZEFVaGMxUWRKRi0zbVlRdGptdWN6dkhNZlVUNTJoSlVNZFF5aWh1U1pYOU9SWlZINWhYaGtnSzFkSENITHVZ?oc=5\" target=\"_blank\">Insect protein scale-up Goterra signs breakthrough offtake deal with fish feed group Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business News Australia</font>"
+    },
+    {
+      "id": 141303,
+      "story_id": 1617,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHo1cHRCOWFyTnBKODR4TTdvOHZrV3VCS2xuYmM0NzVzT0NFelhDZlhnZjRMMjVsbHREdktGZ3NqR3dpX1dNcU0wWThTWHlLM21uMU56Z2hqTlM3SFZwQUdhY0dabW9sTVhrenZpVUI1SjlRTXhhN2xkUDJYTFY5bldxZHBibDdKOGZZT1ZyenMwYVNQU19HNXVEVEJJMEd6cVF0aFBiSEFpb0E3SlV1a3d30gG6AUFVX3lxTFBneUNRREJaSnhpN29LYnktTmFOVjVIeERBTFZIS2wxblpabHYwSEw3TlN5RGVTdFhuYXc2MUdSSVVJMGVrMmdpM1lxM3hKVkZjMHNka0RJaWc1NHItMkh6Mks5aTF0Q29YZ2tFRTQ3N2RpeVFwR09ubTNUdEZnZml4Zm44djcyNllMM1N3NW1kbkFndkc1cVBiZFZ6TDY0aG5NUXNnU2R1X09JOGFEemlXVXVGekVTeGtWZw?oc=5",
+      "title": "Skretting appoints Charlie Granfelt as Global Manager Closed Aquaculture Systems - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-12-10T01:47:22+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaHo1cHRCOWFyTnBKODR4TTdvOHZrV3VCS2xuYmM0NzVzT0NFelhDZlhnZjRMMjVsbHREdktGZ3NqR3dpX1dNcU0wWThTWHlLM21uMU56Z2hqTlM3SFZwQUdhY0dabW9sTVhrenZpVUI1SjlRTXhhN2xkUDJYTFY5bldxZHBibDdKOGZZT1ZyenMwYVNQU19HNXVEVEJJMEd6cVF0aFBiSEFpb0E3SlV1a3d30gG6AUFVX3lxTFBneUNRREJaSnhpN29LYnktTmFOVjVIeERBTFZIS2wxblpabHYwSEw3TlN5RGVTdFhuYXc2MUdSSVVJMGVrMmdpM1lxM3hKVkZjMHNka0RJaWc1NHItMkh6Mks5aTF0Q29YZ2tFRTQ3N2RpeVFwR09ubTNUdEZnZml4Zm44djcyNllMM1N3NW1kbkFndkc1cVBiZFZ6TDY0aG5NUXNnU2R1X09JOGFEemlXVXVGekVTeGtWZw?oc=5\" target=\"_blank\">Skretting appoints Charlie Granfelt as Global Manager Closed Aquaculture Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 141323,
+      "story_id": 1619,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmhlS1ZfZUtra3VlbUZYMXVtTkFDWS0xSWpvYmlRRE4xVVA5VFV6NVJtQTAwWDhFSEh0WkZPUGhoTFJzQlBtR01BelFUMjhZdWt4ekdmeFB2OW5sa1RBOVZFeHZ1RzVrZXRMZjBrNHVGY1lJYzY0cTlROFBDdVQyXzhHeDc2YkRzcm1mRkRHR0xzVU1hTWdneER3YlQ3RXNla0ZreWpGQllTVmtTdUU4?oc=5",
+      "title": "Økt pessimisme blant NHOs medlemmer i mai - NHO",
+      "source_name": "NHO",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmhlS1ZfZUtra3VlbUZYMXVtTkFDWS0xSWpvYmlRRE4xVVA5VFV6NVJtQTAwWDhFSEh0WkZPUGhoTFJzQlBtR01BelFUMjhZdWt4ekdmeFB2OW5sa1RBOVZFeHZ1RzVrZXRMZjBrNHVGY1lJYzY0cTlROFBDdVQyXzhHeDc2YkRzcm1mRkRHR0xzVU1hTWdneER3YlQ3RXNla0ZreWpGQllTVmtTdUU4?oc=5\" target=\"_blank\">Økt pessimisme blant NHOs medlemmer i mai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHO</font>"
+    },
+    {
+      "id": 141505,
+      "story_id": 1620,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZkhCQWlIdFRPTlN4ZFMzekthODR1Q0I3dXQ4YmlhdnlPUGNPNFpES0tqd2NIVHhCM3VDakV4SlVwVWZqSGtjQnZ4SXN2aVdydkdpSXRnVlNxeXRuN21mZTk5c1EzS3FGM3pDLUh0WjRjV1pzMUc0NUJ3TFN6N1dON1JURDZkT0YwbmdpLWd5bjZHbVVHRFRENU9BMkZpZ3AzMkI0T20tbzBDVVk4NHlvQXdaMkVNNl9Bd1I1WmdpWlkzdw?oc=5",
+      "title": "Skretting abre su planta y lleva la cadena salmonera a la comunidad - FoodNewsLatam",
+      "source_name": "FoodNewsLatam",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-03T05:03:17+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZkhCQWlIdFRPTlN4ZFMzekthODR1Q0I3dXQ4YmlhdnlPUGNPNFpES0tqd2NIVHhCM3VDakV4SlVwVWZqSGtjQnZ4SXN2aVdydkdpSXRnVlNxeXRuN21mZTk5c1EzS3FGM3pDLUh0WjRjV1pzMUc0NUJ3TFN6N1dON1JURDZkT0YwbmdpLWd5bjZHbVVHRFRENU9BMkZpZ3AzMkI0T20tbzBDVVk4NHlvQXdaMkVNNl9Bd1I1WmdpWlkzdw?oc=5\" target=\"_blank\">Skretting abre su planta y lleva la cadena salmonera a la comunidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FoodNewsLatam</font>"
     }
   ],
   "share_of_voice": {
@@ -69786,7 +70040,7 @@
         "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 1,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2023-W50",
@@ -69970,7 +70224,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2024-W23",
@@ -70762,7 +71016,7 @@
         "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 18
+        "Skretting": 19
       },
       {
         "week": "2026-W20",
@@ -70791,10 +71045,10 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 10,
+        "BioMar": 13,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       }
     ],
     "totals": [
@@ -70804,7 +71058,7 @@
       },
       {
         "company": "BioMar",
-        "count": 790
+        "count": 793
       },
       {
         "company": "Cargill",
@@ -70816,7 +71070,7 @@
       },
       {
         "company": "Skretting",
-        "count": 641
+        "count": 645
       }
     ]
   }
