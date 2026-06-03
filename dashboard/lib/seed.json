@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-03T14:12:07+00:00",
+  "generated_at": "2026-06-03T19:51:28+00:00",
   "stats": {
-    "mention_count": 1836,
-    "story_count": 1603,
-    "analyzed_count": 796,
-    "off_topic_mentions": 57,
+    "mention_count": 1840,
+    "story_count": 1605,
+    "analyzed_count": 797,
+    "off_topic_mentions": 58,
     "off_topic_stories": 37
   },
   "outlets": [
@@ -268,6 +268,7 @@
     "explora.cl",
     "fvn.no",
     "gat.no",
+    "heraldo.es",
     "hitra-froya.no",
     "iFinnmark",
     "iLaks",
@@ -291,6 +292,20 @@
   ],
   "stories": [
     {
+      "id": 1622,
+      "headline": "BioMar gets over 10,800 new owners as public trading begins - Undercurrent News",
+      "story_summary": "BioMar has gone public and commenced trading, attracting over 10,800 new shareholders. The successful market debut marks a significant milestone for the aquaculture feed producer as it transitions to a publicly listed company structure.",
+      "first_seen": "2026-06-03T09:49:00+00:00",
+      "last_seen": "2026-06-03T17:50:26+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1625,
       "headline": "BioMar begins trading on Nasdaq Copenhagen with 10,800 new owners - Aquafeed.com",
       "story_summary": "BioMar completed its initial public offering and began trading on Nasdaq Copenhagen. The listing attracted approximately 10,800 new shareholders to the aquaculture feed producer.",
@@ -299,20 +314,6 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "financial"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1622,
-      "headline": "BioMar gets over 10,800 new owners as public trading begins - Undercurrent News",
-      "story_summary": "BioMar has gone public and commenced trading, attracting over 10,800 new shareholders. The successful market debut marks a significant milestone for the aquaculture feed producer as it transitions to a publicly listed company structure.",
-      "first_seen": "2026-06-03T09:49:00+00:00",
-      "last_seen": "2026-06-03T09:49:00+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -5837,9 +5838,9 @@
       "last_seen": "2025-12-02T08:00:00+00:00",
       "primary_sentiment": "negative",
       "risk_flags": [
-        "none"
+        "legal"
       ],
-      "pickup_count": 13,
+      "pickup_count": 14,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -6298,6 +6299,20 @@
       "id": 743,
       "headline": "Beer might be the solution to salmon's imported soy problem - intrafish.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTVnQXFXMFp4R0hJaFZ1WDlsSzN5YzlRR3pwak1QeDhwSEFicWhnb3A1V2FEQ1R6dEQ0ZUhGeVdYSmw0cUdZNVFtcEZxUFh4YjVreDN4WkNkRk1ld09ObG5qbi1WV3ZxaUdhNlAzeEdPZEJPeEh4Qm5ZaVFBOWU2dHJfS3ItRjdBODRZOHF1cHpQU3JMWjhBeEpTaWNoODdHSHFV?oc=5\" target=\"_blank\">Beer might be the solution to salmon's imported soy problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2025-11-11T08:00:00+00:00",
+      "last_seen": "2025-11-11T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1627,
+      "headline": "Satser flere milliarder kroner på drid og lort: – Ingen som står og klapper for dette - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVyanNlcW1ZSTZ6MlFGa1hMRkhvSmYtV1BjeEFFNUxIVUJ1SkY0LUJZaFFrRUtBYVZNeWliWmZhcVNPQVdUdEJzSTFWZlRwSWtjN0lHSUdVVHctREYyU1d5V0FaTmduS0pXWU1wbWVRa3phanlVaUcyNTRZdkcxMmRuVzNKS2xNM1NxeEN5MmVGZUp0OVNYSG0xVGVSa1VJbnBnaEJPUFpYbEt4ZlZNT2xJeTdMTDJtNUFGcV9ac1JLZ2ttdWc?oc=5\" target=\"_blank\">Satser flere milliarder kroner på drid og lort: – Ingen som står og klapper for dette</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
       "first_seen": "2025-11-11T08:00:00+00:00",
       "last_seen": "2025-11-11T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -21886,6 +21901,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1626,
+      "headline": "Norwegian aquaculture producer Ewos increases in Vietnam - Scandasia",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnBHUmk2dmxBRVhuUmlCVkg2TWsxMzF6aEQtcjVDZGV4RHVaV3lUblUzVmhMamlDWUl3Z2RIZVpLX3I2VnFCRWNEU2JfV3VuV3hzZnNibWU5ZXBzV3N0eGJaemprOGhLOXJBaVhDOHRDNWVuUDNlXy10MENadjJWMlhHek9Rdw?oc=5\" target=\"_blank\">Norwegian aquaculture producer Ewos increases in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scandasia</font>",
+      "first_seen": "2015-03-02T08:00:00+00:00",
+      "last_seen": "2015-03-02T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
     },
@@ -67460,6 +67489,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVhvZUEzaXlZTWJTWHltRVR6djJGNEJrbU9mVEJUcUpteWtwd0JqLUYwUW1Lb3dReXprTW9YTzR0R1BGUFVhVWNDOUZNTXBTMmJ4NHpJUjR0SXFoSmJqTUZ1VTdreWlmMlJHanhmY0k2RFRLVUdNTXdUek4zeHZaVm1tM2FCNXlOb1M3WXBxMnVGZ3FxbjdsNEZjc0ptRXdyRTN4WTE1cjRmckxyLTNlV19adEtOTFRQa1E?oc=5\" target=\"_blank\">Finalizando el Mes de la Mujer: Skretting Chile reconoce a su nueva generación de talento femenino</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 142677,
+      "story_id": 1622,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3lSVWxrUldiNUpuOXdUdG1LNDltNmx5VFFxd3dnTlBJSWlaS2ktN0pseFFhRnQybTJHelBxRW1qRmwwS2FkbHd3RHdHNnRnTzFOZ18tTUlQUTg0TmJtSFZLS2k2M2xGWXJZTVZWWkV5UlIxZkMxSnhMVGhXSlpqZDRLRHd0UE9uWTEtMzJVekxTd0ZDN3VOMDV0aEo?oc=5",
+      "title": "BioMar Welcomes More Than 10,800 New Owners as Trading Begins - Perishable News",
+      "source_name": "Perishable News",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-06-03T17:50:26+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3lSVWxrUldiNUpuOXdUdG1LNDltNmx5VFFxd3dnTlBJSWlaS2ktN0pseFFhRnQybTJHelBxRW1qRmwwS2FkbHd3RHdHNnRnTzFOZ18tTUlQUTg0TmJtSFZLS2k2M2xGWXJZTVZWWkV5UlIxZkMxSnhMVGhXSlpqZDRLRHd0UE9uWTEtMzJVekxTd0ZDN3VOMDV0aEo?oc=5\" target=\"_blank\">BioMar Welcomes More Than 10,800 New Owners as Trading Begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Perishable News</font>"
+    },
+    {
+      "id": 143037,
+      "story_id": 262,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjdreW1IM2p4ZnBTalpXSnQ1eXJxUWIwQzIwSUcwbHlGdDZkMVEyb3FFZlE0RmdXOE1hRjhtOXB5aUlPZUdpdUlfRmlIQkRCWmh6ck9rcXpEQWRiWDdCRnphZVpBNmlGcHhwRTZGYWlVMW5yNE0xRTB4TUx3YWcyQ25hdVg0UWlJV1NCS1R1UHpoQXphamllSEg2dUJpRmwtdV81SVJQOGtJb2dIQlkwSGROcnlhLXg1TV8tR3lEWWpuQW5Qd1NDT19OT2vSAdIBQVVfeXFMUDRNREJDVUg2NXplTXlBWko5dnBPQ1JpempMMGs3MWZuNWozQThISHVsS0xSV1NBc0dpalJHUjQ5TXhkMXI4dG9iUkpQblhvc3hIOXE4cG00VDdTajdObjhfT3R1eVN4b2Y4SERaNXoyTGliSkxyOWViNGN3VURnQ1lmRXNnclBmWmFJMkRCY0x6azlMSXRWSEVFYi1VZkktaloxWVdiQTBsb0lGb09OZ1Atb3dVY2xTaF9iSXJ5VTlxSVZMcGJVX1M4aHhnb0s4VXpB?oc=5",
+      "title": "Varios detenidos tras registros en Biomar Oil por un presunto fraude de hidrocarburos de 280 millones - heraldo.es",
+      "source_name": "heraldo.es",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Spanish hydrocarbon company faces fraud investigation and arrests",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal"
+      ],
+      "summary": "Spanish authorities conducted raids on Biomar Oil following arrests related to an alleged 280-million-euro hydrocarbon fraud scheme. This article concerns a Spanish fuel/hydrocarbons company, not the Danish aquaculture feed producer BioMar Group."
+    },
+    {
+      "id": 143358,
+      "story_id": 1627,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVyanNlcW1ZSTZ6MlFGa1hMRkhvSmYtV1BjeEFFNUxIVUJ1SkY0LUJZaFFrRUtBYVZNeWliWmZhcVNPQVdUdEJzSTFWZlRwSWtjN0lHSUdVVHctREYyU1d5V0FaTmduS0pXWU1wbWVRa3phanlVaUcyNTRZdkcxMmRuVzNKS2xNM1NxeEN5MmVGZUp0OVNYSG0xVGVSa1VJbnBnaEJPUFpYbEt4ZlZNT2xJeTdMTDJtNUFGcV9ac1JLZ2ttdWc?oc=5",
+      "title": "Satser flere milliarder kroner på drid og lort: – Ingen som står og klapper for dette - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-11-11T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUVyanNlcW1ZSTZ6MlFGa1hMRkhvSmYtV1BjeEFFNUxIVUJ1SkY0LUJZaFFrRUtBYVZNeWliWmZhcVNPQVdUdEJzSTFWZlRwSWtjN0lHSUdVVHctREYyU1d5V0FaTmduS0pXWU1wbWVRa3phanlVaUcyNTRZdkcxMmRuVzNKS2xNM1NxeEN5MmVGZUp0OVNYSG0xVGVSa1VJbnBnaEJPUFpYbEt4ZlZNT2xJeTdMTDJtNUFGcV9ac1JLZ2ttdWc?oc=5\" target=\"_blank\">Satser flere milliarder kroner på drid og lort: – Ingen som står og klapper for dette</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 143638,
+      "story_id": 1626,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnBHUmk2dmxBRVhuUmlCVkg2TWsxMzF6aEQtcjVDZGV4RHVaV3lUblUzVmhMamlDWUl3Z2RIZVpLX3I2VnFCRWNEU2JfV3VuV3hzZnNibWU5ZXBzV3N0eGJaemprOGhLOXJBaVhDOHRDNWVuUDNlXy10MENadjJWMlhHek9Rdw?oc=5",
+      "title": "Norwegian aquaculture producer Ewos increases in Vietnam - Scandasia",
+      "source_name": "Scandasia",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2015-03-02T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnBHUmk2dmxBRVhuUmlCVkg2TWsxMzF6aEQtcjVDZGV4RHVaV3lUblUzVmhMamlDWUl3Z2RIZVpLX3I2VnFCRWNEU2JfV3VuV3hzZnNibWU5ZXBzV3N0eGJaemprOGhLOXJBaVhDOHRDNWVuUDNlXy10MENadjJWMlhHek9Rdw?oc=5\" target=\"_blank\">Norwegian aquaculture producer Ewos increases in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scandasia</font>"
     }
   ],
   "share_of_voice": {
@@ -67820,6 +67945,14 @@
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 2,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2015-W10",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -70965,7 +71098,7 @@
         "BioMar": 13,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2025-W47",
@@ -70986,7 +71119,7 @@
       {
         "week": "2025-W49",
         "Aller Aqua": 0,
-        "BioMar": 34,
+        "BioMar": 35,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -71194,7 +71327,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 14,
+        "BioMar": 15,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -71207,11 +71340,11 @@
       },
       {
         "company": "BioMar",
-        "count": 796
+        "count": 798
       },
       {
         "company": "Cargill",
-        "count": 238
+        "count": 239
       },
       {
         "company": "Polarfeed",
@@ -71219,7 +71352,7 @@
       },
       {
         "company": "Skretting",
-        "count": 646
+        "count": 647
       }
     ]
   }
