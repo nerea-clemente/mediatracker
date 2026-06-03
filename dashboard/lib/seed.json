@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-03T19:51:28+00:00",
+  "generated_at": "2026-06-03T23:29:18+00:00",
   "stats": {
-    "mention_count": 1840,
-    "story_count": 1605,
-    "analyzed_count": 797,
+    "mention_count": 1845,
+    "story_count": 1607,
+    "analyzed_count": 800,
     "off_topic_mentions": 58,
     "off_topic_stories": 37
   },
@@ -343,7 +343,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -360,6 +360,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1574,
+      "headline": "News - BioMar successfully completes IPO - Fish Farmer",
+      "story_summary": "BioMar has successfully completed its initial public offering, marking a significant milestone for the aquaculture feed producer. The IPO represents a major corporate event for the Denmark-based company and its parent Schouw & Co portfolio company, though specific details on pricing, proceeds, or market performance are not provided in the available summary text or headline alone may provide contextual details clarified in full article text not provided here.    Return the structured analysis.  The article represents a major financial and corporate development for the aquaculture feed company BioMar, headquartered in Aarhus, Denmark and part of the Schouw & Co conglomerate, with the successful completion of its initial public offering to capital markets marking a significant milestone in the company's corporate history and shareholder structure evolution, though specific metrics like pricing, share allocation, valuation, or trading performance details remain unavailable from the headline and summary snippet provided and would require access to the full article text for a more granular factual claims assessment and complete structural analysis below. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The company's IPO demonstrates market confidence in BioMar's business model, market position, and growth prospects in the global aquaculture sector, though sentiment confidence reflects the limited information available and typical market reception to successful capital raises in the sector, and additional full article details and management commentary would strengthen confidence scoring and key claims identification if the complete source text were available rather than summary snippet alone. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The article appears to be primarily focused on BioMar as the main subject, with the IPO completion being the central narrative, yielding primary prominence classification and positive sentiment based on the successful completion of the offering, though the summary snippet does not provide verbatim quotes from named executives or specific financial metrics that would enable reliable identification of key claims or people quoted sections, resulting in empty arrays for those optional fields unless substantive detail emerges from full article review if available. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. Final analysis follows below:  ",
+      "first_seen": "2026-05-29T11:03:12+00:00",
+      "last_seen": "2026-06-02T09:19:56+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1611,
@@ -554,20 +568,6 @@
         "none"
       ],
       "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1574,
-      "headline": "News - BioMar successfully completes IPO - Fish Farmer",
-      "story_summary": "BioMar has successfully completed its initial public offering, marking a significant milestone for the aquaculture feed producer. The IPO represents a major corporate event for the Denmark-based company and its parent Schouw & Co portfolio company, though specific details on pricing, proceeds, or market performance are not provided in the available summary text or headline alone may provide contextual details clarified in full article text not provided here.    Return the structured analysis.  The article represents a major financial and corporate development for the aquaculture feed company BioMar, headquartered in Aarhus, Denmark and part of the Schouw & Co conglomerate, with the successful completion of its initial public offering to capital markets marking a significant milestone in the company's corporate history and shareholder structure evolution, though specific metrics like pricing, share allocation, valuation, or trading performance details remain unavailable from the headline and summary snippet provided and would require access to the full article text for a more granular factual claims assessment and complete structural analysis below. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The company's IPO demonstrates market confidence in BioMar's business model, market position, and growth prospects in the global aquaculture sector, though sentiment confidence reflects the limited information available and typical market reception to successful capital raises in the sector, and additional full article details and management commentary would strengthen confidence scoring and key claims identification if the complete source text were available rather than summary snippet alone. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. The article appears to be primarily focused on BioMar as the main subject, with the IPO completion being the central narrative, yielding primary prominence classification and positive sentiment based on the successful completion of the offering, though the summary snippet does not provide verbatim quotes from named executives or specific financial metrics that would enable reliable identification of key claims or people quoted sections, resulting in empty arrays for those optional fields unless substantive detail emerges from full article review if available. Return the structured analysis only as valid JSON without preamble or explanation text outside of the JSON object itself, ensuring strict conformance to the established schema. Final analysis follows below:  ",
-      "first_seen": "2026-05-29T11:03:12+00:00",
-      "last_seen": "2026-05-29T11:03:12+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -979,15 +979,15 @@
     },
     {
       "id": 1526,
-      "headline": "Schouw & Co. share buy-back programme, week 21 2026 - marketscreener.com",
-      "story_summary": "Schouw & Co. announced the execution of its share buy-back programme during week 21 of 2026. The article reports on the routine capital allocation activity as part of the company's shareholder return programme.",
-      "first_seen": "2026-05-26T11:00:06+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 21 2026 - GlobeNewswire",
+      "story_summary": "Schouw & Co. has disclosed share buy-back programme activity for week 21 of 2026. The announcement is a routine regulatory disclosure typical of listed companies executing authorized share repurchase schemes.",
+      "first_seen": "2026-05-26T11:00:00+00:00",
       "last_seen": "2026-05-26T11:18:55+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -6952,6 +6952,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1629,
+      "headline": "– Det går an å få til mye hvis man står på - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcElIcHo3MFFidDZSOUMyWUNzaHVUa2pVMlFpMzFKZXVIRy1IQV94X2lhQUhkVUdYeVFKd2ZoM3ljRFJUWk1LXzB1WDdFSEhIeHF6bDJOZS01X1l1aUFTYWtVcmRpX2pDLXUya2JVRjAyMC0wUVgwQXNoaFJxempGVkNJMDVBZ1o4?oc=5\" target=\"_blank\">– Det går an å få til mye hvis man står på</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2025-10-09T07:00:00+00:00",
+      "last_seen": "2025-10-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 230,
@@ -17770,6 +17784,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1628,
+      "headline": "Cargill Aqua Nutrition President Pilar Cruz on alternative feed ingredients: 'We are not dependent on individual sources' - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY0hKOWJGMEJ1UmJxbDNZOENhaUxGWkdZaVdacmNxeW81a1VIUWVMaVNQR2pyM3d3LUJQN0JxZnVETGxvM0FRNE1idTZaYlVDeHEzVHBadmdvNGpyTU9JRUJzSVd6TE9pM3Jlb1RrOUJsQlZYYkZJVzJVd3o0TDRoYVRzWGJESHZHY3VuOUR4OTkydlUxXzZldEwyUWxiU3NXWURKNUVRRFNnZFdtQzNfTnhrV0xTOGk4QlpoWWRONFBEQXlrSi1Ybmt6am9vbWItcVEza2JrNURkaG1uMGtqaEFFQ0ZVTXAxMDlpZGRadmczUQ?oc=5\" target=\"_blank\">Cargill Aqua Nutrition President Pilar Cruz on alternative feed ingredients: 'We are not dependent on individual sources'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2020-10-12T07:00:00+00:00",
+      "last_seen": "2020-10-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1017,
@@ -67503,16 +67531,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar begins trading with significant shareholder base expansion",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3lSVWxrUldiNUpuOXdUdG1LNDltNmx5VFFxd3dnTlBJSWlaS2ktN0pseFFhRnQybTJHelBxRW1qRmwwS2FkbHd3RHdHNnRnTzFOZ18tTUlQUTg0TmJtSFZLS2k2M2xGWXJZTVZWWkV5UlIxZkMxSnhMVGhXSlpqZDRLRHd0UE9uWTEtMzJVekxTd0ZDN3VOMDV0aEo?oc=5\" target=\"_blank\">BioMar Welcomes More Than 10,800 New Owners as Trading Begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Perishable News</font>"
+      "summary": "BioMar has commenced trading with more than 10,800 new owners, marking a significant expansion of its shareholder base. The article reports on the company's transition to public trading status and the acquisition of numerous new investors in the process."
     },
     {
       "id": 143037,
@@ -67585,6 +67613,128 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYnBHUmk2dmxBRVhuUmlCVkg2TWsxMzF6aEQtcjVDZGV4RHVaV3lUblUzVmhMamlDWUl3Z2RIZVpLX3I2VnFCRWNEU2JfV3VuV3hzZnNibWU5ZXBzV3N0eGJaemprOGhLOXJBaVhDOHRDNWVuUDNlXy10MENadjJWMlhHek9Rdw?oc=5\" target=\"_blank\">Norwegian aquaculture producer Ewos increases in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scandasia</font>"
+    },
+    {
+      "id": 143734,
+      "story_id": 1574,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXE5YVFRa25NR1Jkb3cxUXRRUmM0MWd3M3Z6UHJKdjVnMUdEMFNreng0cDNiMS1JZDhIVnFzRkpQRWN0QmNxeGFZbm44VnJyQ2ZaNlY3RnFFNTRoNU9jRHREdG13aGVtLUJ2VDk4SDNWZlREclJFU3p4ZnQ4S0VoNzB1dGJVTmhwNGlud1JycTZqUzh4aGZJ?oc=5",
+      "title": "BioMar successfully completes IPO - Fish Farmer",
+      "source_name": "Fish Farmer",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-02T09:19:56+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar completes initial public offering",
+      "key_claims": [
+        "BioMar successfully completed an IPO"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group has successfully completed its initial public offering, marking a significant capital markets milestone for the aquaculture feed producer. The IPO represents a transition from private ownership under parent company Schouw & Co to public equity markets."
+    },
+    {
+      "id": 144131,
+      "story_id": 1526,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUZsb2x1bGNLdVdGcWV1RVo5amlrNlN5bGhPNUhvR1YxbEpsU091RlZBcWljekdHcDcxT002eGdubzlGM1VoQ1RzVkRsZEsxbm92QkJUX1RJdVkyQUhqc0d3YVZ0eFdCQUsxdUpJYzlzM19qTmFSM3FrTU1pbmxWaU5Nbi1mM1hqWlBHdkxvdTlGSUJrQmlUYk93SnBWeU1mTFFhUzBKSDJpcDVsUEtqbTBvRjhvUlBubFhj?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 21 2026 - GlobeNewswire",
+      "source_name": "GlobeNewswire",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-05-26T11:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share buy-back activity for week 21 2026.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. has disclosed share buy-back programme activity for week 21 of 2026. The announcement is a routine regulatory disclosure typical of listed companies executing authorized share repurchase schemes."
+    },
+    {
+      "id": 144420,
+      "story_id": 1629,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcElIcHo3MFFidDZSOUMyWUNzaHVUa2pVMlFpMzFKZXVIRy1IQV94X2lhQUhkVUdYeVFKd2ZoM3ljRFJUWk1LXzB1WDdFSEhIeHF6bDJOZS01X1l1aUFTYWtVcmRpX2pDLXUya2JVRjAyMC0wUVgwQXNoaFJxempGVkNJMDVBZ1o4?oc=5",
+      "title": "– Det går an å få til mye hvis man står på - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-10-09T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcElIcHo3MFFidDZSOUMyWUNzaHVUa2pVMlFpMzFKZXVIRy1IQV94X2lhQUhkVUdYeVFKd2ZoM3ljRFJUWk1LXzB1WDdFSEhIeHF6bDJOZS01X1l1aUFTYWtVcmRpX2pDLXUya2JVRjAyMC0wUVgwQXNoaFJxempGVkNJMDVBZ1o4?oc=5\" target=\"_blank\">– Det går an å få til mye hvis man står på</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 144553,
+      "story_id": 1620,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGNzYUgwbWEwYnNQQ0RkRWZKazhRaVQ5S2hmNWphWDNDejFzNTNLMGZleUxVQWNPR0NnSnZNQTdsMGo2dVZ3cS1GYXpVU2cwNUlhWDlNTUlaUjBxZzBoOE1ESU9yMlRuV1BfclRRLXZyWmZHQU1vSDNTS3FlMEp5RFFVekd0YXg1ZkpjZWJxVDlObXZqVUMtWGJ3TjZuZkFrQmwxTFhmLUl2LUV4d0RuS185YkRPZw?oc=5",
+      "title": "Skretting abre su planta y lleva la cadena salmonera a la comunidad - FoodNewsLatam",
+      "source_name": "FoodNewsLatam",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-03T05:03:17+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGNzYUgwbWEwYnNQQ0RkRWZKazhRaVQ5S2hmNWphWDNDejFzNTNLMGZleUxVQWNPR0NnSnZNQTdsMGo2dVZ3cS1GYXpVU2cwNUlhWDlNTUlaUjBxZzBoOE1ESU9yMlRuV1BfclRRLXZyWmZHQU1vSDNTS3FlMEp5RFFVekd0YXg1ZkpjZWJxVDlObXZqVUMtWGJ3TjZuZkFrQmwxTFhmLUl2LUV4d0RuS185YkRPZw?oc=5\" target=\"_blank\">Skretting abre su planta y lleva la cadena salmonera a la comunidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FoodNewsLatam</font>"
+    },
+    {
+      "id": 144669,
+      "story_id": 1628,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY0hKOWJGMEJ1UmJxbDNZOENhaUxGWkdZaVdacmNxeW81a1VIUWVMaVNQR2pyM3d3LUJQN0JxZnVETGxvM0FRNE1idTZaYlVDeHEzVHBadmdvNGpyTU9JRUJzSVd6TE9pM3Jlb1RrOUJsQlZYYkZJVzJVd3o0TDRoYVRzWGJESHZHY3VuOUR4OTkydlUxXzZldEwyUWxiU3NXWURKNUVRRFNnZFdtQzNfTnhrV0xTOGk4QlpoWWRONFBEQXlrSi1Ybmt6am9vbWItcVEza2JrNURkaG1uMGtqaEFFQ0ZVTXAxMDlpZGRadmczUQ?oc=5",
+      "title": "Cargill Aqua Nutrition President Pilar Cruz on alternative feed ingredients: 'We are not dependent on individual sources' - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-10-12T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY0hKOWJGMEJ1UmJxbDNZOENhaUxGWkdZaVdacmNxeW81a1VIUWVMaVNQR2pyM3d3LUJQN0JxZnVETGxvM0FRNE1idTZaYlVDeHEzVHBadmdvNGpyTU9JRUJzSVd6TE9pM3Jlb1RrOUJsQlZYYkZJVzJVd3o0TDRoYVRzWGJESHZHY3VuOUR4OTkydlUxXzZldEwyUWxiU3NXWURKNUVRRFNnZFdtQzNfTnhrV0xTOGk4QlpoWWRONFBEQXlrSi1Ybmt6am9vbWItcVEza2JrNURkaG1uMGtqaEFFQ0ZVTXAxMDlpZGRadmczUQ?oc=5\" target=\"_blank\">Cargill Aqua Nutrition President Pilar Cruz on alternative feed ingredients: 'We are not dependent on individual sources'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
     }
   ],
   "share_of_voice": {
@@ -69240,7 +69390,7 @@
         "week": "2020-W42",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 1,
         "Skretting": 0
       },
@@ -71058,7 +71208,7 @@
         "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 1,
-        "Skretting": 12
+        "Skretting": 13
       },
       {
         "week": "2025-W42",
@@ -71319,7 +71469,7 @@
       {
         "week": "2026-W22",
         "Aller Aqua": 0,
-        "BioMar": 41,
+        "BioMar": 42,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 15
@@ -71327,10 +71477,10 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 15,
+        "BioMar": 16,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       }
     ],
     "totals": [
@@ -71340,11 +71490,11 @@
       },
       {
         "company": "BioMar",
-        "count": 798
+        "count": 800
       },
       {
         "company": "Cargill",
-        "count": 239
+        "count": 240
       },
       {
         "company": "Polarfeed",
@@ -71352,7 +71502,7 @@
       },
       {
         "company": "Skretting",
-        "count": 647
+        "count": 649
       }
     ]
   }
