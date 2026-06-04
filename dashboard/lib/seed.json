@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-04T09:11:13+00:00",
+  "generated_at": "2026-06-04T12:24:07+00:00",
   "stats": {
-    "mention_count": 1852,
-    "story_count": 1613,
-    "analyzed_count": 802,
+    "mention_count": 1857,
+    "story_count": 1617,
+    "analyzed_count": 805,
     "off_topic_mentions": 58,
     "off_topic_stories": 37
   },
@@ -88,6 +88,7 @@
     "El Universo",
     "Europa Press",
     "Farmers Review Africa",
+    "Feed Strategy",
     "Feedstuffs",
     "Finansavisen",
     "Firda",
@@ -291,6 +292,35 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1639,
+      "headline": "News - BioMar CEO hails ‘turning point’ as trading begins on Nasdaq Copenhagen - Fish Farmer",
+      "story_summary": "BioMar Group has commenced trading on Nasdaq Copenhagen, marking a significant corporate milestone. The company's CEO has publicly characterized the listing as a turning point in the firm's strategic development.",
+      "first_seen": "2026-06-04T10:52:30+00:00",
+      "last_seen": "2026-06-04T10:52:30+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1638,
+      "headline": "BioMar møter El Niño med algefôr: – Viktig med flere ben å stå på - iLaks",
+      "story_summary": "BioMar is addressing El Niño-related disruptions in aquaculture by developing and promoting algae-based feed as part of a diversified feed strategy. The company emphasizes the importance of having multiple product options to navigate environmental challenges affecting salmon farming.",
+      "first_seen": "2026-06-04T10:20:31+00:00",
+      "last_seen": "2026-06-04T10:20:31+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1635,
       "headline": "BioMar bets public listing will boost trust in seafood - intrafish.com",
@@ -10700,10 +10730,10 @@
     {
       "id": 1633,
       "headline": "BioMar y Lallemand celebran 15 años de innovación - aqua.cl",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE56bFhMVDhFZUZyVl9NOEZSajhOOEFpSU5nU2NNZkMtUkVSZmdQNFItZl9Yd09uc0V5NFBIc05hejY1MU5DcThib2dpU2VIaFRMTmNOZGxLZmRIdkNoMDlfNjdxSnRVR25VekduWkZ1dVNIWTRrcktoX0dB?oc=5\" target=\"_blank\">BioMar y Lallemand celebran 15 años de innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "story_summary": "BioMar and Lallemand celebrate 15 years of collaborative innovation in aquaculture. The partnership milestone highlights their joint work in advancing feed and biological solutions for the sector.",
       "first_seen": "2025-02-14T08:00:00+00:00",
       "last_seen": "2025-02-14T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -12730,6 +12760,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1637,
+      "headline": "Nutreco, Skretting CEOs to step down - Feed Strategy",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3pWWmZiLXhHeS1RM0p4eXFJczhWd1lmdWhJcmNmTk8xbUdkYjh1enkwRldUUmJxdTZuVnhMeDZEbzBOcDJ6dnhVWHR0QmpDLW82dVhQYkdWYlJJa2dHUzJTaGlkejFIUUxHV00zc0ZfczQ1ZWZiM2lCYTgxYWpBQ284aVVkNHNBcVJybDZmcGQ5V3RiTGNpeUlMQy1kVUpZa182RUQwTl94WHlxakVUaA?oc=5\" target=\"_blank\">Nutreco, Skretting CEOs to step down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Feed Strategy</font>",
+      "first_seen": "2024-04-08T07:00:00+00:00",
+      "last_seen": "2024-04-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 110,
       "headline": "BioMar med nybygg på Myre - vol.no",
       "story_summary": "BioMar is building a new facility at its Myre location. The expansion represents operational development for the aquaculture feed producer in Norway.",
@@ -14601,7 +14645,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -15183,6 +15227,20 @@
       "id": 1615,
       "headline": "World’s largest fish feed maker opens second plant in Vietnam - Theinvestor",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPUElQQ3JlcDlxcFMwYUJRZDBkekdRem1kVDRoQVRKNVA0eTlOcV94ZWFEOWN3ZDZITlZ2bG96RXFJaGJUdGZlR2NheC1yZHRWQTZ1ZmFWVjMyOEk1dFZrcndHYzRkQTBvbnVSb0JuRGJOeGlvWEFKeUJzblZxYVlDVU9VXzN2NWdQQ1VubFZzZXFjaTVEWDU4SHNB?oc=5\" target=\"_blank\">World’s largest fish feed maker opens second plant in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Theinvestor</font>",
+      "first_seen": "2022-11-21T08:00:00+00:00",
+      "last_seen": "2022-11-21T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1636,
+      "headline": "Skretting opens new $24m fish feed plant in Vietnam - Undercurrent News",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWF9RWl83X1k2MTBLcDdjQ2JJaXdhWVY2SUdGM3U4VU1JcHd6aDAtc3NjMFRqZXpaTGJONEJCTmgxcU9JYzhzTGVuc0NGVU13R0draEVBaXdlcjBvOHRRMDh4QWVwRnhGcFdOWUNTY2FlNTVCNDg4aFZLM09Bc1RfYnhlZWZNbW5kWmNOWDNNbktqaXg1MWZ4UHI4SQ?oc=5\" target=\"_blank\">Skretting opens new $24m fish feed plant in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
       "first_seen": "2022-11-21T08:00:00+00:00",
       "last_seen": "2022-11-21T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -67887,16 +67945,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar and Lallemand mark 15-year partnership milestone in aquaculture innovation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE56bFhMVDhFZUZyVl9NOEZSajhOOEFpSU5nU2NNZkMtUkVSZmdQNFItZl9Yd09uc0V5NFBIc05hejY1MU5DcThib2dpU2VIaFRMTmNOZGxLZmRIdkNoMDlfNjdxSnRVR25VekduWkZ1dVNIWTRrcktoX0dB?oc=5\" target=\"_blank\">BioMar y Lallemand celebran 15 años de innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+      "summary": "BioMar and Lallemand celebrate 15 years of collaborative innovation in aquaculture. The partnership milestone highlights their joint work in advancing feed and biological solutions for the sector."
     },
     {
       "id": 145392,
@@ -67993,6 +68051,136 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQS1QTjFxUDgtX2Q0MjVubHMtYjRoZ2RUY3lQSEw2aWZUdFBEa2RKNVRQdEhRREdPYTBlLVdQbE9aXzNiMTIydWNJZmtvWVNjNEU2VVRkYWJ5bS1PX29DMXF6czR1LXBBNzljZ2l4RHkwcDdnajI5N2prbWRoSkFwQXdKUzRab1N6ajJr?oc=5\" target=\"_blank\">Skretting supports Egyptian tilapia farming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 145822,
+      "story_id": 1639,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORTE2NFEwM09OQWRLenV6SDlNS2kyZi16akd4NGtuNW5MWEoxMFZIMWFhMG02b0xNMzQtMGxEYjFXLUVVdlhCdi1UZHVDRjZvLVpuV3pqLWFBQW4wa3lEa2wzeTBLcW00X1o1bnFLVC1oVHVxMkN6Z293ZWtVTVo3cUVEZnZGdVZwY2Y0NHB4cWg2S05FX2dIdGE5bzFlNGVzalRBMVl6WmFsalViYmc?oc=5",
+      "title": "News - BioMar CEO hails ‘turning point’ as trading begins on Nasdaq Copenhagen - Fish Farmer",
+      "source_name": "Fish Farmer",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-04T10:52:30+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar CEO celebrates market listing as strategic milestone",
+      "key_claims": [
+        "BioMar has begun trading on Nasdaq Copenhagen",
+        "CEO describes the listing as a turning point for the company"
+      ],
+      "people_quoted": [
+        {
+          "name": "Carlos Diaz",
+          "affiliation": "BioMar Group",
+          "quote_summary": "Characterized the Nasdaq Copenhagen listing as a turning point for the company's future."
+        }
+      ],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "BioMar Group has commenced trading on Nasdaq Copenhagen, marking a significant corporate milestone. The company's CEO has publicly characterized the listing as a turning point in the firm's strategic development."
+    },
+    {
+      "id": 145921,
+      "story_id": 1638,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNFlwWWItZDZ6MGpSMVd1dkhtenplWnNTb1hhb2wweGJZREJoVGYtZkdPdzhpbC0yblJabmRHeHhwVzF6S1pzbWhib0E1OUdTY1BPYm5WMWo3Z3lhYWE5Q0ZucDJlYTNoMU40SE4wMkhyOGg3VTlidFlZcUJrSmRDWnhFMEF0Tzg?oc=5",
+      "title": "BioMar møter El Niño med algefôr: – Viktig med flere ben å stå på - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-04T10:20:31+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar responds to El Niño challenges with algae-based feed",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is addressing El Niño-related disruptions in aquaculture by developing and promoting algae-based feed as part of a diversified feed strategy. The company emphasizes the importance of having multiple product options to navigate environmental challenges affecting salmon farming."
+    },
+    {
+      "id": 146405,
+      "story_id": 1637,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3pWWmZiLXhHeS1RM0p4eXFJczhWd1lmdWhJcmNmTk8xbUdkYjh1enkwRldUUmJxdTZuVnhMeDZEbzBOcDJ6dnhVWHR0QmpDLW82dVhQYkdWYlJJa2dHUzJTaGlkejFIUUxHV00zc0ZfczQ1ZWZiM2lCYTgxYWpBQ284aVVkNHNBcVJybDZmcGQ5V3RiTGNpeUlMQy1kVUpZa182RUQwTl94WHlxakVUaA?oc=5",
+      "title": "Nutreco, Skretting CEOs to step down - Feed Strategy",
+      "source_name": "Feed Strategy",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2024-04-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3pWWmZiLXhHeS1RM0p4eXFJczhWd1lmdWhJcmNmTk8xbUdkYjh1enkwRldUUmJxdTZuVnhMeDZEbzBOcDJ6dnhVWHR0QmpDLW82dVhQYkdWYlJJa2dHUzJTaGlkejFIUUxHV00zc0ZfczQ1ZWZiM2lCYTgxYWpBQ284aVVkNHNBcVJybDZmcGQ5V3RiTGNpeUlMQy1kVUpZa182RUQwTl94WHlxakVUaA?oc=5\" target=\"_blank\">Nutreco, Skretting CEOs to step down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Feed Strategy</font>"
+    },
+    {
+      "id": 146448,
+      "story_id": 1636,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWF9RWl83X1k2MTBLcDdjQ2JJaXdhWVY2SUdGM3U4VU1JcHd6aDAtc3NjMFRqZXpaTGJONEJCTmgxcU9JYzhzTGVuc0NGVU13R0draEVBaXdlcjBvOHRRMDh4QWVwRnhGcFdOWUNTY2FlNTVCNDg4aFZLM09Bc1RfYnhlZWZNbW5kWmNOWDNNbktqaXg1MWZ4UHI4SQ?oc=5",
+      "title": "Skretting opens new $24m fish feed plant in Vietnam - Undercurrent News",
+      "source_name": "Undercurrent News",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2022-11-21T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWF9RWl83X1k2MTBLcDdjQ2JJaXdhWVY2SUdGM3U4VU1JcHd6aDAtc3NjMFRqZXpaTGJONEJCTmgxcU9JYzhzTGVuc0NGVU13R0draEVBaXdlcjBvOHRRMDh4QWVwRnhGcFdOWUNTY2FlNTVCNDg4aFZLM09Bc1RfYnhlZWZNbW5kWmNOWDNNbktqaXg1MWZ4UHI4SQ?oc=5\" target=\"_blank\">Skretting opens new $24m fish feed plant in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>"
+    },
+    {
+      "id": 146731,
+      "story_id": 864,
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVk9raGRWbXhWMTdZQW5TSlBzcHloS2xDUHBMdTA0OC1KbG5UWllRb1ZJcV9UcmloQUVpTDdvWmxLcVFvMUQtYmphVlJLeVBFM3otN2lNWmtKcjFYbDR6a0xBdHlyOV9NX2hMam5jTUhZZ2g1TTRZcTZjZVhGYnJMMi1uVzZ6V2dYbzYwbVpNUXZqV1l3N0ZJcTRxblpNNy1qeGVXMk9LanVqSnFOaFdTWnItUU5NMGJzMmdKQ0hLaThEN2hEd1VmQTJQdTF0NnVKR2JnTS1CNHhVTDlrYmJ0bVUyMGh5elk1Ny1YNGFKLTRYRkU4NF9iWG42QWctWmh5?oc=5",
+      "title": "Skretting presenta portafolio de soluciones digitales y destaca la importancia del ciclo de vida del producto - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-03-31T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOVk9raGRWbXhWMTdZQW5TSlBzcHloS2xDUHBMdTA0OC1KbG5UWllRb1ZJcV9UcmloQUVpTDdvWmxLcVFvMUQtYmphVlJLeVBFM3otN2lNWmtKcjFYbDR6a0xBdHlyOV9NX2hMam5jTUhZZ2g1TTRZcTZjZVhGYnJMMi1uVzZ6V2dYbzYwbVpNUXZqV1l3N0ZJcTRxblpNNy1qeGVXMk9LanVqSnFOaFdTWnItUU5NMGJzMmdKQ0hLaThEN2hEd1VmQTJQdTF0NnVKR2JnTS1CNHhVTDlrYmJ0bVUyMGh5elk1Ny1YNGFKLTRYRkU4NF9iWG42QWctWmh5?oc=5\" target=\"_blank\">Skretting presenta portafolio de soluciones digitales y destaca la importancia del ciclo de vida del producto</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
     }
   ],
   "share_of_voice": {
@@ -70370,7 +70558,7 @@
         "BioMar": 0,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2022-W48",
@@ -70498,7 +70686,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2023-W14",
@@ -70866,7 +71054,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2024-W16",
@@ -71743,7 +71931,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 18,
+        "BioMar": 20,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -71756,7 +71944,7 @@
       },
       {
         "company": "BioMar",
-        "count": 803
+        "count": 805
       },
       {
         "company": "Cargill",
@@ -71768,7 +71956,7 @@
       },
       {
         "company": "Skretting",
-        "count": 653
+        "count": 656
       }
     ]
   }
