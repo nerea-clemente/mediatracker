@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-04T18:20:05+00:00",
+  "generated_at": "2026-06-04T23:06:29+00:00",
   "stats": {
-    "mention_count": 1858,
-    "story_count": 1617,
-    "analyzed_count": 805,
-    "off_topic_mentions": 58,
+    "mention_count": 1860,
+    "story_count": 1618,
+    "analyzed_count": 807,
+    "off_topic_mentions": 59,
     "off_topic_stories": 37
   },
   "outlets": [
@@ -5898,7 +5898,7 @@
       "risk_flags": [
         "legal"
       ],
-      "pickup_count": 14,
+      "pickup_count": 15,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -18473,6 +18473,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1640,
+      "headline": "BioMar CEO Carlos Diaz: This year's strategic initiatives 'will surprise the market' - intrafish.com",
+      "story_summary": "BioMar CEO Carlos Diaz announces that the company's strategic initiatives for 2020 will surprise the market. The statement indicates forward momentum and confidence in the company's planned business moves for the year ahead.",
+      "first_seen": "2020-01-07T08:00:00+00:00",
+      "last_seen": "2020-01-07T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1407,
@@ -68205,6 +68219,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxON3c3MEp5dmh6QldHZ01EZ0swT1VhSlMxTEVndGNjUXpfbXNvV1BKb2ZZa1hKNDRRQkloWTdTUUhXZTNXa1pzM0VTZ09CdF84OTRaYk9TclVBbHJNdlRMcTNodDF5LWZteTQ0MjVSY2RsWEN3MEh4WlVRWlUza3pzSmJhRUpjbmZPdmZTWE1icUhsbUNtYTNiR3UxelFxajNmRkxqLUU0LUJCVFZSaldxaVBuZlg3NW5YeVpuSTI1Vk4xcmt6UDJzNU9iZmt5ZFpfc0hBRDNfLU0xNGZZdnNNUFdiZlppRVg3Tnc?oc=5\" target=\"_blank\">Skretting Chile convoca al ecosistema salmonicultor en su primer evento de Sostenibilidad e Innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 148173,
+      "story_id": 262,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeXBsalBmYldGMlpGdEM4QWMtTGJtMllMSlZQb25fcHQ5NlhlZ3JsUlJTUUNSU2pXbG9OeFNnOTZoUFZKeTFnTThhd0MyUjNJMXVrZU5BNWZ3a1dmSnYyRHVDVV9WYW9BV2UyMUNNU0FkdThjQkJ4eVhmd2FlckxEbENBOXFHcUVyUmJVc0E3Nk5Wd2tidkhsVFFFXzVZdEo3RFhVSmZYRXBVaWlMM0stZjNaaDU2NHNEajM0amZZY3dHSkpDV1lTQWZlUnh4VmthZkhNTnN4Yk45VjJ4cjllRkFETQ?oc=5",
+      "title": "Varios detenidos tras registros en Biomar Oil por un presunto fraude de hidrocarburos de 280 millones - Diario Red",
+      "source_name": "Diario Red",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-12-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Police raids on Spanish hydrocarbons company over alleged fraud.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Spanish authorities conducted raids on Biomar Oil and arrested several individuals in connection with an alleged 280-million hydrocarbons fraud scheme. The article concerns a Spanish fuel/hydrocarbons company unrelated to the Danish aquaculture feed producer BioMar Group."
+    },
+    {
+      "id": 148298,
+      "story_id": 1640,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmpGTHN1RWtRSm1NczVKZmhJUmd4RjhILTdnWUlSRWJZR25yMTV1YldZaUxXQkp5dmdaYUp1Z1hRM1F6ZjlXeGgxZ0g2NTRXamZLeE9pMk0wOXBqRDdHY2RxT1ZmaFZ5RHJXVW1YNXpOaUoxLVV2TzFvRnVoYlkxblNmMXFQaWN6U0FWSzRqVHFhY0p5Q1UyTS1nNnNVa01YQWVqbjhtUzBEM3dNa2kxbF9TYXRWdFMyaTloR2EtSQ?oc=5",
+      "title": "BioMar CEO Carlos Diaz: This year's strategic initiatives 'will surprise the market' - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-01-07T08:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "BioMar CEO signals confidence in 2020 strategic plans",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar CEO Carlos Diaz announces that the company's strategic initiatives for 2020 will surprise the market. The statement indicates forward momentum and confidence in the company's planned business moves for the year ahead."
     }
   ],
   "share_of_voice": {
@@ -69675,7 +69737,7 @@
       {
         "week": "2020-W02",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -71747,7 +71809,7 @@
       {
         "week": "2025-W49",
         "Aller Aqua": 0,
-        "BioMar": 35,
+        "BioMar": 36,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -71968,7 +72030,7 @@
       },
       {
         "company": "BioMar",
-        "count": 805
+        "count": 807
       },
       {
         "company": "Cargill",
