@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-03T23:29:18+00:00",
+  "generated_at": "2026-06-04T09:11:13+00:00",
   "stats": {
-    "mention_count": 1845,
-    "story_count": 1607,
-    "analyzed_count": 800,
+    "mention_count": 1852,
+    "story_count": 1613,
+    "analyzed_count": 802,
     "off_topic_mentions": 58,
     "off_topic_stories": 37
   },
@@ -292,6 +292,20 @@
   ],
   "stories": [
     {
+      "id": 1635,
+      "headline": "BioMar bets public listing will boost trust in seafood - intrafish.com",
+      "story_summary": "BioMar is pursuing a public listing as a strategic move to strengthen trust and credibility in the seafood industry. The company views the listing as a means to demonstrate transparency and boost confidence among stakeholders in aquaculture products.",
+      "first_seen": "2026-06-04T05:07:00+00:00",
+      "last_seen": "2026-06-04T05:07:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1622,
       "headline": "BioMar gets over 10,800 new owners as public trading begins - Undercurrent News",
       "story_summary": "BioMar has gone public and commenced trading, attracting over 10,800 new shareholders. The successful market debut marks a significant milestone for the aquaculture feed producer as it transitions to a publicly listed company structure.",
@@ -302,6 +316,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1634,
+      "headline": "Nasdaq listing gives BioMar almost 11,000 new shareholders - Fishfarming expert",
+      "story_summary": "BioMar has completed a Nasdaq listing that brought nearly 11,000 new shareholders into the company. The listing represents a significant milestone in the aquaculture feed producer's corporate development.",
+      "first_seen": "2026-06-03T15:36:21+00:00",
+      "last_seen": "2026-06-03T15:36:21+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -9768,7 +9796,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -10661,6 +10689,20 @@
       "story_summary": "Schouw & Co. conducted its share buyback programme during week 7 of 2025. The announcement reports on the execution of the company's capital allocation programme during this period as required by regulatory disclosure standards for listed companies on regulated exchanges, typically announcing the number of shares repurchased and price paid per share.",
       "first_seen": "2025-02-17T08:00:00+00:00",
       "last_seen": "2025-02-17T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1633,
+      "headline": "BioMar y Lallemand celebran 15 años de innovación - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE56bFhMVDhFZUZyVl9NOEZSajhOOEFpSU5nU2NNZkMtUkVSZmdQNFItZl9Yd09uc0V5NFBIc05hejY1MU5DcThib2dpU2VIaFRMTmNOZGxLZmRIdkNoMDlfNjdxSnRVR25VekduWkZ1dVNIWTRrcktoX0dB?oc=5\" target=\"_blank\">BioMar y Lallemand celebran 15 años de innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2025-02-14T08:00:00+00:00",
+      "last_seen": "2025-02-14T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -16622,6 +16664,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1632,
+      "headline": "Skretting to build Florida feed plant dedicated to Atlantic Sapphire - Undercurrent News",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk5UZ0RLYjlTSEd4MkNaMUItQ0VSSHhUeEVSSUZubDN4WGZWd0Rva0xONTRaSWkzM1EyQW42M0FhN0QySTMxYXl1WEx0Y0IxdWtUVmNISWNmcVpqaVNZMXpEQTl1d0JBNmtwaDYtMUdpcUc4cU0yNWlfcjZrS2lRMEhKUVdUT3FCd1E3WVZfTVhELS1TVks4TlBCZjIzbW9ONWNLeF9aT04wOVNqS3kxTnFKcEVNZ2lSUUl6dUM5cmZIdHl4TVRv?oc=5\" target=\"_blank\">Skretting to build Florida feed plant dedicated to Atlantic Sapphire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
+      "first_seen": "2021-11-10T08:00:00+00:00",
+      "last_seen": "2021-11-10T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1096,
       "headline": "Lasse Tengs blir ny fabrikksjef i Polarfeed - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE82ZmZTdjd1YU5TdHM2alZPMkFnQVdVRk1MeDZVSkpuel9uVzRvblNiRC1pNjZBWU1PVFRHOXJHYnFhYzh0My1UZ3hNR0NFNFpSYkFfWFMtcFVtd2phc2VsWWJnLXdtdHdOLUszYXp3?oc=5\" target=\"_blank\">Lasse Tengs blir ny fabrikksjef i Polarfeed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -18950,6 +19006,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1631,
+      "headline": "Skretting supports Egyptian tilapia farming - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQS1QTjFxUDgtX2Q0MjVubHMtYjRoZ2RUY3lQSEw2aWZUdFBEa2RKNVRQdEhRREdPYTBlLVdQbE9aXzNiMTIydWNJZmtvWVNjNEU2VVRkYWJ5bS1PX29DMXF6czR1LXBBNzljZ2l4RHkwcDdnajI5N2prbWRoSkFwQXdKUzRab1N6ajJr?oc=5\" target=\"_blank\">Skretting supports Egyptian tilapia farming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2019-03-27T07:00:00+00:00",
+      "last_seen": "2019-03-27T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 27,
       "headline": "BioMar tar full kontroll i chilensk fôrfabrikk - iLaks",
       "story_summary": "BioMar has taken full control of its Chilean feed production facility. The move represents an expansion of the company's operational control in the region's aquaculture sector.",
@@ -19415,6 +19485,20 @@
       "id": 1428,
       "headline": "Skretting stenger ned fôrproduksjonen i Storbritannia: For tøff konkurranse - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVIMU5mdElRbzNGTXBEZHNjS3pYcnJVcmVYZXRGQzVxdUVBcTRRZVV2RXVSSGZYWXUwTXRnaDVoWHNHMjY2SThXSzVkVkZVWlFBWmM5UXo5aVd3aWpCS2lFSnJDdTk2MDdDT2tIa2VmRW9VekFZVGR0S21JaWlmODFKUnFvXzFoZFNkRGZVeXA4OXhlMTlr?oc=5\" target=\"_blank\">Skretting stenger ned fôrproduksjonen i Storbritannia: For tøff konkurranse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2018-11-06T08:00:00+00:00",
+      "last_seen": "2018-11-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1630,
+      "headline": "Skretting to cease UK production - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAyUVZUTjBqQmhPWHFGcVdEa0hiamh3Sl9ZU1Uza3NrNGhESkNqclBYM0wtWnlnZGZzbURTY0VVeTY2bTUtRVVfal9ZOVdreVEwUGQ2Sml1b1VMeE1UZG9FcVE4T295QUZPOVZPR0N1MTFZZ9IBckFVX3lxTFAyUVZUTjBqQmhPWHFGcVdEa0hiamh3Sl9ZU1Uza3NrNGhESkNqclBYM0wtWnlnZGZzbURTY0VVeTY2bTUtRVVfal9ZOVdreVEwUGQ2Sml1b1VMeE1UZG9FcVE4T295QUZPOVZPR0N1MTFZZw?oc=5\" target=\"_blank\">Skretting to cease UK production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2018-11-06T08:00:00+00:00",
       "last_seen": "2018-11-06T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -67735,6 +67819,180 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY0hKOWJGMEJ1UmJxbDNZOENhaUxGWkdZaVdacmNxeW81a1VIUWVMaVNQR2pyM3d3LUJQN0JxZnVETGxvM0FRNE1idTZaYlVDeHEzVHBadmdvNGpyTU9JRUJzSVd6TE9pM3Jlb1RrOUJsQlZYYkZJVzJVd3o0TDRoYVRzWGJESHZHY3VuOUR4OTkydlUxXzZldEwyUWxiU3NXWURKNUVRRFNnZFdtQzNfTnhrV0xTOGk4QlpoWWRONFBEQXlrSi1Ybmt6am9vbWItcVEza2JrNURkaG1uMGtqaEFFQ0ZVTXAxMDlpZGRadmczUQ?oc=5\" target=\"_blank\">Cargill Aqua Nutrition President Pilar Cruz on alternative feed ingredients: 'We are not dependent on individual sources'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 144774,
+      "story_id": 1635,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcWUtTnF0bHppZElzMEUtTGl2SlRqbERMMUdGTnBpZDZKNnN4Qjl1YWtPU3M0Y092eDg5dnJaWHp5TTlEUnJiZ0VWSkhGMUZaalhNQXN2d3FwdXRvZVF6RHFSeDlvZkpYVmFrekp4V25xRzAwTnZzTDZFZjZ5Mld0TnhIVzBuZmpnQVN2bmdLZW9CT3haQV9MNU1QdE9iQQ?oc=5",
+      "title": "BioMar bets public listing will boost trust in seafood - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-04T05:07:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "BioMar pursues public listing to enhance industry credibility",
+      "key_claims": [
+        "BioMar is pursuing a public listing",
+        "The company believes going public will boost trust in seafood"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar is pursuing a public listing as a strategic move to strengthen trust and credibility in the seafood industry. The company views the listing as a means to demonstrate transparency and boost confidence among stakeholders in aquaculture products."
+    },
+    {
+      "id": 144776,
+      "story_id": 1634,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUE05cXJNdGNReWktcnpUUml2ckF3aU8ya1JHMDBON0ZFOEI0Q0RKM1VVRUFydm5FOEdzNHhoSUdqX2F0WEU2R2QwOTVyZmxtNGFTYThhUjM3ZTEwNFJ0aDdRenl3eXRoVXZHYndFa0hfcm1zaEJZdHNQaUtxWXFmek5mUHhkWVFzd01WZDlSYWNsaFlSVHZMMnZlM2dRdkxyRnBZeDNyMmxGLURHX3JnUFNlWXdQVXcwMXd4YjBYR3BmSmI3d2hYczJB?oc=5",
+      "title": "Nasdaq listing gives BioMar almost 11,000 new shareholders - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-06-03T15:36:21+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.8,
+      "prominence": "primary",
+      "angle": "BioMar's Nasdaq listing expands shareholder base significantly",
+      "key_claims": [
+        "BioMar listed on Nasdaq",
+        "The listing resulted in approximately 11,000 new shareholders"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has completed a Nasdaq listing that brought nearly 11,000 new shareholders into the company. The listing represents a significant milestone in the aquaculture feed producer's corporate development."
+    },
+    {
+      "id": 145138,
+      "story_id": 1633,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56bFhMVDhFZUZyVl9NOEZSajhOOEFpSU5nU2NNZkMtUkVSZmdQNFItZl9Yd09uc0V5NFBIc05hejY1MU5DcThib2dpU2VIaFRMTmNOZGxLZmRIdkNoMDlfNjdxSnRVR25VekduWkZ1dVNIWTRrcktoX0dB?oc=5",
+      "title": "BioMar y Lallemand celebran 15 años de innovación - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-02-14T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE56bFhMVDhFZUZyVl9NOEZSajhOOEFpSU5nU2NNZkMtUkVSZmdQNFItZl9Yd09uc0V5NFBIc05hejY1MU5DcThib2dpU2VIaFRMTmNOZGxLZmRIdkNoMDlfNjdxSnRVR25VekduWkZ1dVNIWTRrcktoX0dB?oc=5\" target=\"_blank\">BioMar y Lallemand celebran 15 años de innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 145392,
+      "story_id": 1632,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk5UZ0RLYjlTSEd4MkNaMUItQ0VSSHhUeEVSSUZubDN4WGZWd0Rva0xONTRaSWkzM1EyQW42M0FhN0QySTMxYXl1WEx0Y0IxdWtUVmNISWNmcVpqaVNZMXpEQTl1d0JBNmtwaDYtMUdpcUc4cU0yNWlfcjZrS2lRMEhKUVdUT3FCd1E3WVZfTVhELS1TVks4TlBCZjIzbW9ONWNLeF9aT04wOVNqS3kxTnFKcEVNZ2lSUUl6dUM5cmZIdHl4TVRv?oc=5",
+      "title": "Skretting to build Florida feed plant dedicated to Atlantic Sapphire - Undercurrent News",
+      "source_name": "Undercurrent News",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2021-11-10T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk5UZ0RLYjlTSEd4MkNaMUItQ0VSSHhUeEVSSUZubDN4WGZWd0Rva0xONTRaSWkzM1EyQW42M0FhN0QySTMxYXl1WEx0Y0IxdWtUVmNISWNmcVpqaVNZMXpEQTl1d0JBNmtwaDYtMUdpcUc4cU0yNWlfcjZrS2lRMEhKUVdUT3FCd1E3WVZfTVhELS1TVks4TlBCZjIzbW9ONWNLeF9aT04wOVNqS3kxTnFKcEVNZ2lSUUl6dUM5cmZIdHl4TVRv?oc=5\" target=\"_blank\">Skretting to build Florida feed plant dedicated to Atlantic Sapphire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>"
+    },
+    {
+      "id": 145395,
+      "story_id": 656,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3NjVDA1TE50UVNHNDRSeGhTSl9DYm54SmtzUndsRWF3dGlsYjI4YmNoejBnNVl1YTBUUjdJakVicVpBX1dDUTRBUkRWaGhFOE9QRFNNTGhLckcyRmdubE5uOUdPak1wSjB1ejBQcFJwcGNaVm9rUU52Z2d0aHBqazQxb21MenFKRnpHdC1YbVpLdjg1UWRJ0gGfAUFVX3lxTE5rNkxFT3JQQXBWaDRUd2tDcDdWRktYQWlzOFpDZV9BalRURmdRNHctVHFrN2ZfMS1BWXZYeGFlbU9CWGRFbFdNanllZTdqYkw0b3dGN2xNTnM2MjF0cnBkb3lYTEZXWUlnZmpLSzA4cXpPWm5id2ZkcUZjNlhrMnJSdkZyX3dyZXFkdHJEeE9McDQyalNOWm1udHNxQ09QWQ?oc=5",
+      "title": "Mads Martinsen appointed General Manager of Skretting Norway - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-05-22T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3NjVDA1TE50UVNHNDRSeGhTSl9DYm54SmtzUndsRWF3dGlsYjI4YmNoejBnNVl1YTBUUjdJakVicVpBX1dDUTRBUkRWaGhFOE9QRFNNTGhLckcyRmdubE5uOUdPak1wSjB1ejBQcFJwcGNaVm9rUU52Z2d0aHBqazQxb21MenFKRnpHdC1YbVpLdjg1UWRJ0gGfAUFVX3lxTE5rNkxFT3JQQXBWaDRUd2tDcDdWRktYQWlzOFpDZV9BalRURmdRNHctVHFrN2ZfMS1BWXZYeGFlbU9CWGRFbFdNanllZTdqYkw0b3dGN2xNTnM2MjF0cnBkb3lYTEZXWUlnZmpLSzA4cXpPWm5id2ZkcUZjNlhrMnJSdkZyX3dyZXFkdHJEeE9McDQyalNOWm1udHNxQ09QWQ?oc=5\" target=\"_blank\">Mads Martinsen appointed General Manager of Skretting Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 145398,
+      "story_id": 1630,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyUVZUTjBqQmhPWHFGcVdEa0hiamh3Sl9ZU1Uza3NrNGhESkNqclBYM0wtWnlnZGZzbURTY0VVeTY2bTUtRVVfal9ZOVdreVEwUGQ2Sml1b1VMeE1UZG9FcVE4T295QUZPOVZPR0N1MTFZZ9IBckFVX3lxTFAyUVZUTjBqQmhPWHFGcVdEa0hiamh3Sl9ZU1Uza3NrNGhESkNqclBYM0wtWnlnZGZzbURTY0VVeTY2bTUtRVVfal9ZOVdreVEwUGQ2Sml1b1VMeE1UZG9FcVE4T295QUZPOVZPR0N1MTFZZw?oc=5",
+      "title": "Skretting to cease UK production - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-11-06T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAyUVZUTjBqQmhPWHFGcVdEa0hiamh3Sl9ZU1Uza3NrNGhESkNqclBYM0wtWnlnZGZzbURTY0VVeTY2bTUtRVVfal9ZOVdreVEwUGQ2Sml1b1VMeE1UZG9FcVE4T295QUZPOVZPR0N1MTFZZ9IBckFVX3lxTFAyUVZUTjBqQmhPWHFGcVdEa0hiamh3Sl9ZU1Uza3NrNGhESkNqclBYM0wtWnlnZGZzbURTY0VVeTY2bTUtRVVfal9ZOVdreVEwUGQ2Sml1b1VMeE1UZG9FcVE4T295QUZPOVZPR0N1MTFZZw?oc=5\" target=\"_blank\">Skretting to cease UK production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 145401,
+      "story_id": 1631,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQS1QTjFxUDgtX2Q0MjVubHMtYjRoZ2RUY3lQSEw2aWZUdFBEa2RKNVRQdEhRREdPYTBlLVdQbE9aXzNiMTIydWNJZmtvWVNjNEU2VVRkYWJ5bS1PX29DMXF6czR1LXBBNzljZ2l4RHkwcDdnajI5N2prbWRoSkFwQXdKUzRab1N6ajJr?oc=5",
+      "title": "Skretting supports Egyptian tilapia farming - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2019-03-27T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQS1QTjFxUDgtX2Q0MjVubHMtYjRoZ2RUY3lQSEw2aWZUdFBEa2RKNVRQdEhRREdPYTBlLVdQbE9aXzNiMTIydWNJZmtvWVNjNEU2VVRkYWJ5bS1PX29DMXF6czR1LXBBNzljZ2l4RHkwcDdnajI5N2prbWRoSkFwQXdKUzRab1N6ajJr?oc=5\" target=\"_blank\">Skretting supports Egyptian tilapia farming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -68960,7 +69218,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2018-W46",
@@ -69049,6 +69307,14 @@
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2019-W13",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2019-W14",
@@ -69736,7 +70002,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2021-W46",
@@ -70933,7 +71199,7 @@
       {
         "week": "2025-W07",
         "Aller Aqua": 1,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 0
@@ -71048,7 +71314,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 7
+        "Skretting": 8
       },
       {
         "week": "2025-W22",
@@ -71477,7 +71743,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 16,
+        "BioMar": 18,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -71490,7 +71756,7 @@
       },
       {
         "company": "BioMar",
-        "count": 800
+        "count": 803
       },
       {
         "company": "Cargill",
@@ -71502,7 +71768,7 @@
       },
       {
         "company": "Skretting",
-        "count": 649
+        "count": 653
       }
     ]
   }
