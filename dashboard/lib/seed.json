@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:58:21+00:00",
+  "generated_at": "2026-06-05T23:04:24+00:00",
   "stats": {
-    "mention_count": 1868,
-    "story_count": 1625,
-    "analyzed_count": 810,
-    "off_topic_mentions": 59,
-    "off_topic_stories": 37
+    "mention_count": 1890,
+    "story_count": 1629,
+    "analyzed_count": 830,
+    "off_topic_mentions": 60,
+    "off_topic_stories": 38
   },
   "outlets": [
     "20Minutos",
@@ -263,6 +263,7 @@
     "aqua.cl",
     "armada.cl",
     "banett.no",
+    "brenny.com",
     "elDiario.es",
     "elciudadano.com",
     "espana.gastronomia.com",
@@ -292,6 +293,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1651,
+      "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
+      "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
+      "first_seen": "2026-06-05T17:23:58+00:00",
+      "last_seen": "2026-06-05T19:44:33+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 18,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1644,
       "headline": "La cotización en Bolsa le brinda a BioMar casi 11.000 nuevos accionistas - Salmonexpert",
@@ -2162,6 +2177,20 @@
       "company": "BioMar"
     },
     {
+      "id": 928,
+      "headline": "Interim report – first quarter of 2026 - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co released its first quarter 2026 interim report, with Jens Bjerg Sørensen (President) providing commentary on the period's performance. The report covers consolidated financial results across the company's industrial portfolio, which includes BioMar Group's aquaculture feed operations among other subsidiaries. The report appears to be a standard quarterly earnings disclosure by the parent holding company of BioMar A/S.\"2026 Q1\"]{}, ",
+      "first_seen": "2026-05-01T06:00:00+00:00",
+      "last_seen": "2026-05-01T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1309,
       "headline": "BioMar Group A/S has filed an IPO. - marketscreener.com",
       "story_summary": "BioMar Group A/S, the aquaculture feed producer, has filed for an initial public offering. The move represents a significant capital markets milestone for the Aarhus-based company.",
@@ -2257,20 +2286,6 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
-      ],
-      "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 928,
-      "headline": "Interim report – first quarter of 2026 - NTB Kommunikasjon",
-      "story_summary": "Schouw & Co released its first quarter 2026 interim report, with Jens Bjerg Sørensen (President) providing commentary on the period's performance. The report covers consolidated financial results across the company's industrial portfolio, which includes BioMar Group's aquaculture feed operations among other subsidiaries. The report appears to be a standard quarterly earnings disclosure by the parent holding company of BioMar A/S.\"2026 Q1\"]{}, ",
-      "first_seen": "2026-05-01T06:00:00+00:00",
-      "last_seen": "2026-05-01T06:07:53+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
       ],
       "pickup_count": 2,
       "is_about_target_brand": true,
@@ -10632,12 +10647,12 @@
     {
       "id": 1646,
       "headline": "BioMar adquire LetSea, un referente noruego en investigación acuícola - misPeces",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2otSXplMTdWdVVOMGtEcUdFWDNxdEloXzh4Z0VtbHV3NGlndFZNOHB1UFVJaDJUckVUVUhKWjdtN1FiTGhTSkh0WWZ2YVJwNmxhMGJJVGgtX242NWVCVERZQjFqNnZydl9sSXJQaXFKcW9yNHlVLWhaYnRaUXVNd2RlcUZfRDVtWHFvbE91eGpuY1UwenpETXpqU0QzY0NxQ21IVzFB?oc=5\" target=\"_blank\">BioMar adquire LetSea, un referente noruego en investigación acuícola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "story_summary": "BioMar has completed an acquisition of LetSea, a Norwegian firm specializing in aquaculture research. The deal strengthens BioMar's research and development capabilities in the aquaculture sector.",
       "first_seen": "2025-03-11T07:00:00+00:00",
       "last_seen": "2025-03-11T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -15728,6 +15743,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1650,
+      "headline": "Declaran la quiebra de empresa que cosechaba peces en centros de cultivo - Salmonexpert",
+      "story_summary": "An aquaculture company that operated fish farming centers has been declared bankrupt. The article appears to be a general industry news item about a business failure in the salmon farming sector, in which BioMar was matched on a keyword but does not appear to be the subject of the story or directly involved in the bankruptcy proceedings described.",
+      "first_seen": "2022-08-18T07:00:00+00:00",
+      "last_seen": "2022-08-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 1307,
       "headline": "BioMar, Icelandic seafood giant to build net-zero aquaculture feed facility - intrafish.com",
       "story_summary": "BioMar and an Icelandic seafood company are partnering to construct a net-zero aquaculture feed production facility. The project represents a sustainability-focused expansion for BioMar's operations in the region and aligns with industry trends toward environmentally responsible aquaculture inputs.\n      BioMar is building a net-zero aquaculture feed facility with an Icelandic seafood partner, signaling the company's commitment to sustainable production practices in the sector. This represents a strategic investment in decarbonized feed manufacturing for farmed seafood production. The move is described as combining BioMar's feed expertise with Icelandic resources and priorities, reflecting market demand for lower-carbon aquaculture inputs. The deal underscores the aquaculture feed industry's shift toward net-zero production methods to support farmed fish and shrimp producers seeking sustainable supply chains. BioMar operates globally with regional production facilities and this project expands its presence in the northern Atlantic region. The net-zero facility represents capital investment and operational innovation in aquaculture sustainability.\n            The net-zero facility represents a significant sustainability initiative marking BioMar's commitment to decarbonized aquaculture feed production. This strategic partnership with an Icelandic company signals growing market demand for environmentally responsible feed products in salmon and seafood farming.\n                    The facility is being built to net-zero standards. BioMar is partnering with an Icelandic seafood company on this project. The venture aligns with global sustainability trends in aquaculture. The facility will support regional aquaculture producers seeking lower-carbon feed inputs. BioMar continues expanding its geographic footprint and product sustainability profile.BioMar is investing in net-zero aquaculture feed manufacturing. The company is partnering with an Icelandic seafood producer. The facility will serve regional salmon and seafood farmers. The project reflects industry-wide movement toward sustainable aquaculture inputs. BioMar's expansion strengthens its market position in northern Atlantic aquaculture regions., ",
@@ -19862,6 +19891,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1649,
+      "headline": "Skretting launches community development project for tilapia farmers in Zambia - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPeG5fNGw2Q2FVRkFMV3ppSzNfNm1nWHVxeW5CVVhWU3Yxc1duQ2ZSTVF5VWdEeHhXLUlPM0REbzhTc0Z2OHJaUk1uN3IwdjM5U1lHQnRYN3lUUmk0cElmYVVFMGtnQ21GSHo0X2lFY1dHbnJaWlFraDhfOXJ0X3hHaWhJMUV3dEdEcTRlRmRNVGVmcWpsUldNcGN0SHlyd1liSmp5TlE5ZzhheWRHVWx0T0lRb0xYTE4wSmc?oc=5\" target=\"_blank\">Skretting launches community development project for tilapia farmers in Zambia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2018-08-15T07:00:00+00:00",
+      "last_seen": "2018-08-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 449,
       "headline": "Einar Wathne trekker seg som Cargill-direktør - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1rRVpBcWFwTDItSkkwTW1YcDRKTXRGbC1aOWZBMFU2QzVnS0pnM25Ja1VpYnNuQXlWWUZaOVJsWnIxOTdDR2huWnQ2eUpEOUM1djdJc3pNcWZid3djWU43YlpkNUlyenFrMUtZMmwzd2U?oc=5\" target=\"_blank\">Einar Wathne trekker seg som Cargill-direktør</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -22997,6 +23040,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1648,
+      "headline": "Nancy Skretting Obituary June 25, 2009 - brenny.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JNFhFYzJKcnF4dGs5NEZMcjJkaWNJQVpQU213QUx6T1FfTkxYVno5dkpIUzMxOUZaejhoMnNtSnpaRWtHdEdCdHlJV2xQaGxIX01kSjd4NFlOU25NLVE?oc=5\" target=\"_blank\">Nancy Skretting Obituary June 25, 2009</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">brenny.com</font>",
+      "first_seen": "2009-06-25T07:00:00+00:00",
+      "last_seen": "2009-06-25T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 369,
@@ -68504,16 +68561,19 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar acquires Norwegian aquaculture research firm LetSea",
+      "key_claims": [
+        "BioMar has acquired LetSea",
+        "LetSea is a Norwegian aquaculture research company"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2otSXplMTdWdVVOMGtEcUdFWDNxdEloXzh4Z0VtbHV3NGlndFZNOHB1UFVJaDJUckVUVUhKWjdtN1FiTGhTSkh0WWZ2YVJwNmxhMGJJVGgtX242NWVCVERZQjFqNnZydl9sSXJQaXFKcW9yNHlVLWhaYnRaUXVNd2RlcUZfRDVtWHFvbE91eGpuY1UwenpETXpqU0QzY0NxQ21IVzFB?oc=5\" target=\"_blank\">BioMar adquire LetSea, un referente noruego en investigación acuícola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+      "summary": "BioMar has completed an acquisition of LetSea, a Norwegian firm specializing in aquaculture research. The deal strengthens BioMar's research and development capabilities in the aquaculture sector."
     },
     {
       "id": 151623,
@@ -68562,6 +68622,536 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUDRkbExVd3RFZ0RpM2l0bGlsRUFtNU5URGw2WVBnRThSekJ0Q3RCVmVtUVZ5bGRWek9od29GaEpGWGxKY0dDYk9EWTVBWWVyNHMwWU5SbU1aOEpzQ0RYblVkZHN2alNxVVFwYkZ2dElMNy0wMEpoLTZJOVFwZGI1WlphNXJzb19vXzF5VFB2U0MwbHlvamV5RzRvelBDbko1dHNrVzlkWXd4VkxMYzNldjEzcHVCVWF0SmdqeWd0LVlZRHNIejlrdF8tS0VUMkd1d3BSbzIwdw?oc=5\" target=\"_blank\">Skretting celebra y reconoce la contribución de sus mujeres en el mes de marzo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 151976,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjVVRXFZbVpDMmdjb2htb2ZLUlYwUFFiNEZqcXBfaWxJSmFKZVIzMDQyTFkzMmlSenZtRWVtS1NBSVpaN1k4ZEZQaGt4MmlHa3hvenZETkMwZS1RZVR2WkxzRm5GTWxGNlRYMlhsN2F4dmF2dnZ6M2lIR3MxSHlNZWpvbnZRLWF4cFZ4N1UxMkJpSE5yQ1JlSEh1UHk?oc=5",
+      "title": "Discontinued operations of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:44:33+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjVVRXFZbVpDMmdjb2htb2ZLUlYwUFFiNEZqcXBfaWxJSmFKZVIzMDQyTFkzMmlSenZtRWVtS1NBSVpaN1k4ZEZQaGt4MmlHa3hvenZETkMwZS1RZVR2WkxzRm5GTWxGNlRYMlhsN2F4dmF2dnZ6M2lIR3MxSHlNZWpvbnZRLWF4cFZ4N1UxMkJpSE5yQ1JlSEh1UHk?oc=5\" target=\"_blank\">Discontinued operations of BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 151977,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1lnNHNIaFFQd0t5RTFYZ0FwUURscUNHS1VzLVpPbU9MWERRNW8tdmhxUDFLQVR6RFdUSFVINERheEp4dUF5eDRaRlpFdEpfYkZGVFFUelkxTmtsVlVrTzRGWGZIRHgxNE14UE44WFlOdENwcjFjaFJkVFRlWUtpYkpwVHRaUEg3OFAzblZnQQ?oc=5",
+      "title": "Cost of goods sold of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:38:26+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Financial metric reporting on BioMar Group cost structure",
+      "key_claims": [
+        "BioMar Group A/S has measurable cost of goods sold"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView reports on the cost of goods sold metric for BioMar Group A/S, a standard financial data point. The article is a factual financial data presentation without commentary or analysis."
+    },
+    {
+      "id": 151978,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME16ZGJtdzJidGxCQ0lxMHVWU05lVHZNUmxHT3p4LWgxUE5hNThMTTQtQ3NWdTcyV21iUFRuVGIxanF1S0g5WjB3U3FRaHNpakxuZUp4Mm9tdUI1SzhFN1Z1b2VHbmZCdldDY1p0R0UyN0c0b3ZHTFM2V2J6eVBmQjZkZ3NiVU0?oc=5",
+      "title": "Free cash flow of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:39:32+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Financial metric analysis of BioMar Group's free cash flow",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial analysis of BioMar Group A/S's free cash flow performance. The article focuses on a specific financial metric tracked on the trading platform under ticker MUN:2IT (the company's Copenhagen stock listing)."
+    },
+    {
+      "id": 151979,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelR2ekVZcVFUblh0cTlwaXowUS1XM3VwRmtMZERWYU5jV0RmNExGRWVZSE1zYUcxSTJzY3hCS2czVmdzeGFjUUxQZDVNSlpyNlhBN20wbWNQUGI5UHlmdzUtVmlidWRWV1k3SndMVUlSeVBpdmRKUks2TFpTSkRPWHFQX2h2cTVBZXhtZ3d6NA?oc=5",
+      "title": "Total revenue of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:50:06+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial data snapshot on BioMar Group revenue",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial data page showing total revenue figures for BioMar Group A/S listed under ticker MUN:2IT. The article is a straightforward reference to publicly available financial metrics with no narrative framing or analysis beyond the data point itself."
+    },
+    {
+      "id": 151980,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHg5WUFlb2plNGxTem5DMEdWc2MxUG1VMTl0QXFSZFBQaGhXS2dWd0FCVldEdWxyVjl1QmNhN3Vvb3VGX0R5c1ZqaHRkWXIyVENady1EQ0ZrRndlY0p1MlB3ZUdxclNIcXpSb0NEa2dYZDNlRUlwUWRIblBhb2hsY3Y1Z2lMYkpTWUJjTmNDV084cDNYUkE?oc=5",
+      "title": "Total operating expenses of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:04:32+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial data on BioMar Group operating expenses",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on total operating expenses of BioMar Group A/S. The article presents financial metrics without editorial commentary or narrative framing beyond factual disclosure of expense data."
+    },
+    {
+      "id": 151981,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOal8teFdvQjJxa0JnMTdJSENHQnl1NTQxb215UVNvUHNCWndFRmpDa2ZyYlFUcFByQU5ybHF5UmRFTWM1U3ZMdURXSEcwVW5kZDczeXNWdmtGREliYzVwUTd1NVhOaHMybVpDcnEzWFQzS1piUENyOC1ZY2owUjU4ZUcxNDVVWm51UEEwWEppdWtJTGtfeVlvWUVZU2FaT1NtM0dlSQ?oc=5",
+      "title": "Total common shares outstanding of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:41:16+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Share count data for BioMar Group A/S listed on TradingView",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView financial data page displaying the total common shares outstanding for BioMar Group A/S (ticker MUN:2IT). The article contains no substantive reporting, quotes, or narrative about the company's operations or performance beyond the share count metric itself."
+    },
+    {
+      "id": 151982,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHBqUVpySlA5cHlUeDRrNmxOZmMxdkxrR2dLSWpsOWFXa3JhX2xHQ3J0ZG5mbGVZLTlmWEcyb09icVQ3cEVyZ29PR1JoQ1p4M18wY1FPTjExVVBjem5PTUw5bXVEbEpyUTVVd2N3RkhWeWotdXl1amxUdkxPU2JocUU3NFQ2WTJ0cmg1d21SZzJTOVliTDRPTg?oc=5",
+      "title": "Cash from operating activities of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:12:58+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric: operating cash flow data for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports cash flow from operating activities for BioMar Group A/S. The article presents factual financial data without editorial commentary or analysis of the company's performance or prospects."
+    },
+    {
+      "id": 151983,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkRGYkJFVjdyS0VzWHhyOEtIdUh1NDNhbEhVcnRkdkZsNi1EcXNDUEdiVnhKOVB5dEFtRFVpOE16M2EtRVFzaG9XRjF2MlZpYkFqclNmdndBcDEzckd5RTlkV0VhQmhqQjdjSUFmWlBqenpJenUycDhMazhJeDRVY2xkMTRoVHlsbE1aSkVobG9oLTI1akFtLW8xQUY0bWttRC0zUQ?oc=5",
+      "title": "Free float of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:09:41+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Free float trading information for BioMar Group stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView published a page displaying free float data for BioMar Group A/S shares listed on the Nasdaq under ticker MUN:2IT. The article is a technical stock-market reference page with no news narrative or commentary about the company's operations or performance."
+    },
+    {
+      "id": 151984,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlFIbGVwbXlGUkpUOHZRdEJRVHJ6SnJlUmo5YnJ1SnV6V3ZKNVhwYlBYem9qTVNqTmhmNzQxQ0hCdEx0a3JLaXZ0b0c3eVZjUmNuTW9lajc2TE1XVU96RExndUpscHRyVUVUZkVkUV9NSlROWHBoM3RkVWJGSG5pZXdLZF9GUlhzbzZBSlBpNDlZM1kzMVo1LQ?oc=5",
+      "title": "Cash from investing activities of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:18:05+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting on BioMar Group cash flow statement",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports a financial data point regarding cash from investing activities for BioMar Group A/S (listed as MUN:2IT). The article is a routine disclosure of accounting metrics with no narrative framing or commentary provided."
+    },
+    {
+      "id": 151985,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEc0U1U5S2xmWEtKc2JMNnNrbXdlaFhoLXM2NTk4YXhFanBrWE1JUkdEWGRkRDRUaFRrdDNBcVl5dUxmVmp3c2c2WW4zSXBHcUVlS0djU3V1STdOV3Fyaml4dHBmamhBclBIOU1DRHo1ZFhmOVZzWEJEQzlJRnlIbExwRk1zRUMwaUh3VDNCVktJancyM1ZkOGxhUQ?oc=5",
+      "title": "After tax other income/expense of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:19:28+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data reporting on tax and other income/expense line items",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial data point regarding BioMar Group A/S's after-tax other income and expense figures. The article is a routine financial metric display with no narrative context or commentary provided."
+    },
+    {
+      "id": 151986,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkhjTFBncnZ1YzhELW92X0tRVU4tbUcxVG1VNE1QbTNtTVdocjd3TTF6X19YRnMta3UtNUpaYnZKZkdITVhvVHJTY3VSdGh3VjRQQnhFelFfYTFxRlJvOXRGaGdHUlZCdFp5TUVLVjh6Rll4OWRQeDB3dG9rbjdjRlp2V1RBVUdWdVlR?oc=5",
+      "title": "Net income of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T17:35:24+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial reporting on BioMar Group's net income",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on the net income of BioMar Group A/S (listed as MUN:2IT). The article presents financial data about the aquaculture feed producer without apparent positive or negative editorial framing."
+    },
+    {
+      "id": 151987,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZEtpY1JlMThOWjFBUUdqUFpMb2ExZTBCNWlmT18wOFJOOE5iNnpoTkJQLVJpX05PdF9DSEoyMDBJMFJPX3BDRDF6SE41NUsySGc5dnNsWTlrMlhTZkZqcE14NXk5Sl9oNXl6ekotdVA2UGZSRVNhSXpaWDZhek1pMTRIVDI?oc=5",
+      "title": "Net debt of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:21:42+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group's net debt position",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial data point on BioMar Group A/S's net debt. The article appears to be a routine financial metric update from a trading platform tracking the company's stock performance (ticker MUN:2IT)."
+    },
+    {
+      "id": 151988,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MaHY1QWVvbW91UWpjbFI3WDVQRkZBQktTaHZCUEZvSnVxVWRjYnVLNHZHck9xWEg5RkVRYVBfSjlodW03TW5LV1hGSjN6cDN4SExMSUo4UDh0aVVKN0NPUlhZX0JqQnRQYXpmYTBkZ1RLQQ?oc=5",
+      "title": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T17:23:58+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Publication of BioMar Group A/S financial statements",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform."
+    },
+    {
+      "id": 151989,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEOERqWWFIZXJGRXFCNTlTcmpFNUV0cGZsdDBPbUlvLVJYQkh4b1JKVmUxUUk5d2JsVElHSWFiRzgtQkxETmFJaG9rc1NBRkxvV25yOFJjRWZPNV9UcHdBUjhVTE9JbEQ4S1QxWGF3VG1Ndw?oc=5",
+      "title": "BioMar Group A/S Earnings and Revenue – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:00:14+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial reporting on BioMar Group earnings and revenue",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial overview of BioMar Group A/S earnings and revenue data. The article appears to be a standard earnings report or financial dashboard entry tracking the company's performance metrics on the stock exchange ticker MUN:2IT."
+    },
+    {
+      "id": 151990,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwVmRaR1FSMThjTTVjc1NwUVZpTTNDT1FGSWVKcXBOOG9aNW9KSlZoaUZTSWdMQVZ1X1ZCQ0FKcENRVThtZHRMSzlkOHNZV2hZbWNKVkhQTm5ub0dUbTk0QkVhZzJITmlwZHJMa1dBaWJCY1k?oc=5",
+      "title": "BioMar Group A/S Dividends – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T17:30:29+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data page listing BioMar dividend information",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView financial data page displaying dividend information for BioMar Group A/S (ticker MUN:2IT). The article serves as a reference resource for investors seeking dividend details rather than news or commentary on the company's operations or performance."
+    },
+    {
+      "id": 151991,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RbDBQaUMtUmw0RGRHMXRXY1NadXRwU0MtaThjZmZGRU1mLWNQYXU3c2YtSEMzOU5jSjM5ZWhBZG1Gei1sTXY0bE1oOU9Icy1DdDNhWkJFR1c1YkxtTm9LcHpmN1I4UE9GcjI5dWFtSmd5RlU?oc=5",
+      "title": "BioMar Group A/S Cash Flow – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:00:06+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial data and cash flow metrics for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView presents cash flow financial data for BioMar Group A/S (listed as MUN:2IT). The article is a financial data presentation with no narrative commentary or claims beyond standard metrics reporting."
+    },
+    {
+      "id": 151992,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpRlpLblJqaFl0T3ZKTlpadHF1RDlGOFhLSVRkMXlHQ2J4NGxqT2ZUMnJzSFBCZEZvZ0NzWjBIelV5T2NiUDY0YWlLNmZqX3k4MF8tT1pCYUNSQy1oZ1YyR0FrVjEwd2FIS19FWUcwbHU?oc=5",
+      "title": "BioMar Group A/S Revenue Breakdown – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T17:26:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial breakdown of BioMar Group revenue by segment.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial analysis of BioMar Group A/S revenue composition, likely segmented by geographic region or product category. The article focuses on presenting structured financial data rather than news or commentary on company performance or strategy."
+    },
+    {
+      "id": 151993,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Kbk1DUHFiWmpqNWlXNzFjaENMRFlFeXA2aEh0OVVLNDVJS3FBS2JObTZvZWx2V3JzMHB1a0Rnc2JSQjF1SktzZjhMeUZzUWhHa2VBVFJ1d21VeTdCcXpXMnhNX2lwOWRiMDlPV25CZTRtYjRjTDVnTA?oc=5",
+      "title": "BioMar Group A/S Balance Sheet – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:01:17+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial data presentation and balance sheet metrics",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView presents BioMar Group A/S balance sheet information indexed under the ticker MUN:2IT. The article is a straightforward financial data page with no narrative or commentary beyond tabular financial metrics and indicators typical of investment research platforms."
+    },
+    {
+      "id": 152371,
+      "story_id": 1650,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR2gxNGJjNXJPc3pJeFh3TXVJVWZ0YVItU2lLVnFtbUVGcUJsck5nU0laYnd6Zm1hczJiMUxsRl9lTkFQcWlDN2F5cWRTdV9PaVJfUk5INHA2bTNDZl9LSzFRbjFuUXk2OGMxRXNEeGN0YVUwWXVWeXUxOFNaRDd4VXVLRV9wTElVdG4xTWpzdm8zaHczZkdzeU1DWk1hZzZZOFExQUg3U3JFS2xQSWs2VndPbFFqdjFMVDBQa0J3UzhIZUpnX01jSTBnVE1wZ212VHRHZU5nbkRDQ1lT?oc=5",
+      "title": "Declaran la quiebra de empresa que cosechaba peces en centros de cultivo - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-08-18T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.8,
+      "prominence": "passing",
+      "angle": "Company bankruptcy in aquaculture sector",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "An aquaculture company that operated fish farming centers has been declared bankrupt. The article appears to be a general industry news item about a business failure in the salmon farming sector, in which BioMar was matched on a keyword but does not appear to be the subject of the story or directly involved in the bankruptcy proceedings described."
+    },
+    {
+      "id": 152490,
+      "story_id": 928,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85blI0YXV0Y0lRc3BMdUR6dFIzWWNkMWZ4ZEpFdEJxeElydDhrRWFpbDBYeUo3TUp5b0haZWVISFJPNDlGd0ZqWHdHeGZSRFlZVmkwTA?oc=5",
+      "title": "Interim report – first quarter of 2026 - Taiwan News",
+      "source_name": "Taiwan News",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-01T07:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Schouw Q1 2026 interim financial results announcement",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co released its first-quarter 2026 interim financial report. The document was indexed by news aggregators and references Jens Bjerg Sørensen in connection with the company's results disclosure. Jens Bjerg Sørensen serves as President of Schouw & Co, BioMar's parent company. The article appears to be a republication or link to the official interim report rather than independent coverage of it."
+    },
+    {
+      "id": 152601,
+      "story_id": 1649,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeG5fNGw2Q2FVRkFMV3ppSzNfNm1nWHVxeW5CVVhWU3Yxc1duQ2ZSTVF5VWdEeHhXLUlPM0REbzhTc0Z2OHJaUk1uN3IwdjM5U1lHQnRYN3lUUmk0cElmYVVFMGtnQ21GSHo0X2lFY1dHbnJaWlFraDhfOXJ0X3hHaWhJMUV3dEdEcTRlRmRNVGVmcWpsUldNcGN0SHlyd1liSmp5TlE5ZzhheWRHVWx0T0lRb0xYTE4wSmc?oc=5",
+      "title": "Skretting launches community development project for tilapia farmers in Zambia - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2018-08-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPeG5fNGw2Q2FVRkFMV3ppSzNfNm1nWHVxeW5CVVhWU3Yxc1duQ2ZSTVF5VWdEeHhXLUlPM0REbzhTc0Z2OHJaUk1uN3IwdjM5U1lHQnRYN3lUUmk0cElmYVVFMGtnQ21GSHo0X2lFY1dHbnJaWlFraDhfOXJ0X3hHaWhJMUV3dEdEcTRlRmRNVGVmcWpsUldNcGN0SHlyd1liSmp5TlE5ZzhheWRHVWx0T0lRb0xYTE4wSmc?oc=5\" target=\"_blank\">Skretting launches community development project for tilapia farmers in Zambia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 152603,
+      "story_id": 1648,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JNFhFYzJKcnF4dGs5NEZMcjJkaWNJQVpQU213QUx6T1FfTkxYVno5dkpIUzMxOUZaejhoMnNtSnpaRWtHdEdCdHlJV2xQaGxIX01kSjd4NFlOU25NLVE?oc=5",
+      "title": "Nancy Skretting Obituary June 25, 2009 - brenny.com",
+      "source_name": "brenny.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2009-06-25T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JNFhFYzJKcnF4dGs5NEZMcjJkaWNJQVpQU213QUx6T1FfTkxYVno5dkpIUzMxOUZaejhoMnNtSnpaRWtHdEdCdHlJV2xQaGxIX01kSjd4NFlOU25NLVE?oc=5\" target=\"_blank\">Nancy Skretting Obituary June 25, 2009</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">brenny.com</font>"
     }
   ],
   "share_of_voice": {
@@ -68612,6 +69202,14 @@
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2009-W26",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2010-W19",
@@ -69723,7 +70321,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2018-W34",
@@ -70856,7 +71454,7 @@
       {
         "week": "2022-W33",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -72272,7 +72870,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 68,
+        "BioMar": 69,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -72312,7 +72910,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 22,
+        "BioMar": 40,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -72325,7 +72923,7 @@
       },
       {
         "company": "BioMar",
-        "count": 811
+        "count": 831
       },
       {
         "company": "Cargill",
@@ -72337,7 +72935,7 @@
       },
       {
         "company": "Skretting",
-        "count": 661
+        "count": 663
       }
     ]
   }
