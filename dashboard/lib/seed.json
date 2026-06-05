@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-04T23:06:29+00:00",
+  "generated_at": "2026-06-05T08:55:44+00:00",
   "stats": {
-    "mention_count": 1860,
-    "story_count": 1618,
-    "analyzed_count": 807,
+    "mention_count": 1863,
+    "story_count": 1620,
+    "analyzed_count": 809,
     "off_topic_mentions": 59,
     "off_topic_stories": 37
   },
@@ -406,6 +406,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1585,
+      "headline": "BioMar Group A/S: Performance & Quotes, BIOMAR Stock Price on Nasdaq Copenhagen Exchange - marketscreener.com",
+      "story_summary": "This is a financial data page tracking BioMar Group A/S stock performance and quotes on the Nasdaq Copenhagen Exchange. The content is factual and informational, presenting market information without editorial analysis or commentary.",
+      "first_seen": "2026-05-29T11:02:02+00:00",
+      "last_seen": "2026-06-02T22:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1606,
       "headline": "Más de 150 personas conocieron cómo se produce el alimento para salmones junto a Skretting - Mundoacuicola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1VjV01uMzhNeEdsMjlwRG4yejI0c25YTnN2czRDNGRlcHRUSGJ3bS1XVGVGSTlhYmdPWEVKOXdBZVZSUmZqZVowb0dtbms2YnBfNTBDTnZ0WkRBTl9vOEpLMWlac0U4bjhNT0NtMDg5SWNXZFZBZTNDaUJ1aHE3MjRXcFhFMVF0dV91b2FiaWJUTlFXVTNhTS1OcFhneENPeGJtWExfQ2JIMUI5Mm11T1BYbzNxSVFLWVE3WFRaWGJrdw?oc=5\" target=\"_blank\">Más de 150 personas conocieron cómo se produce el alimento para salmones junto a Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
@@ -596,20 +610,6 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "financial"
-      ],
-      "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1585,
-      "headline": "BioMar Group A/S: Performance & Quotes, BIOMAR Stock Price on Nasdaq Copenhagen Exchange - marketscreener.com",
-      "story_summary": "This is a financial data page tracking BioMar Group A/S stock performance and quotes on the Nasdaq Copenhagen Exchange. The content is factual and informational, presenting market information without editorial analysis or commentary.",
-      "first_seen": "2026-05-29T11:02:02+00:00",
-      "last_seen": "2026-05-29T12:30:25+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
       ],
       "pickup_count": 2,
       "is_about_target_brand": true,
@@ -18152,6 +18152,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1642,
+      "headline": "Skretting entrega ayuda por contingencia a través de innovador método en 360° - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYzBnQTBWSE5jMV9ydjVKS1hVdWg4R0paLWNaNXpraDRra21wbFN2LWhhWkQ2c2pfaThqT0JaMVZ3a2pocjFWc3ZGcFlNWTZxcmhNQ1g3YjRlTm9kRDhjMEVmV19WQ0xqeGlLMDhBR1dKYkNhTFBwTkR2aWFjMlh3N2l4dlNVYzlfYXNxaGE1aWQxNWI0bmk2blY1Vmk1dw?oc=5\" target=\"_blank\">Skretting entrega ayuda por contingencia a través de innovador método en 360°</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2020-06-18T07:00:00+00:00",
+      "last_seen": "2020-06-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1377,
       "headline": "Skretting launches water improver for aquaculture - Fishfarming expert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWlOTjF6YnN2MTI4TnBvYWRhWlhpNXJwYXQyTWpQbmM3ZGE4U2FsMnNDQURKcXBRQ2p6SXRPaVY5MXZzWW5JMTQwWUNHbDhTdlVXQlJLcTBiSEhhU3NxY1p0dDRxRXhCUEdpcEo4VUptYlRiMXJHTE9UUXd3aG9KSGNNRXVheFJsSHJPT1ZBZVNkLWljV0ZsVGtVUmdKU3VXWTBEVi1LZzZLSE9aM2g4TXlJcw?oc=5\" target=\"_blank\">Skretting launches water improver for aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
@@ -19126,6 +19140,20 @@
       "first_seen": "2019-03-14T07:00:00+00:00",
       "last_seen": "2019-03-14T07:00:00+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1641,
+      "headline": "Alitec Pargua pasará a ser 100% propiedad de Biomar - Salmonexpert",
+      "story_summary": "BioMar is set to acquire full ownership of Alitec Pargua, a Chilean aquaculture operation. The transaction represents a significant expansion of BioMar's presence in the Latin American market.",
+      "first_seen": "2019-03-14T07:00:00+00:00",
+      "last_seen": "2019-03-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
@@ -68267,6 +68295,80 @@
         "none"
       ],
       "summary": "BioMar CEO Carlos Diaz announces that the company's strategic initiatives for 2020 will surprise the market. The statement indicates forward momentum and confidence in the company's planned business moves for the year ahead."
+    },
+    {
+      "id": 148876,
+      "story_id": 1585,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3NfN2ZONGJ4dHRQdEgzbEdaQS15RjRqR1QycGtRcHpGSVh1RHRibXhvOVpkbGJya3A1elBXTUIxbUVfVUt5LXUwallGWEdLZzFhMGZfQXRaeENEaFpwTnpnQTJWSWp5bXUwMDRuVmVuSTcxSUZLMF9GcjZaUElhLUoyaU9kMWhXS09jN1FFNWd4Z2dKN1RYVEtDSFg2eXN0cERjQk9PbnJKUW44a2ZJbU82c3NOdjdx?oc=5",
+      "title": "BioMar Group A/S(CPSE: BIOMAR) added to OMX Nordic All-Share Index - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-02T22:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Group added to major Nordic stock market index",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Group A/S has been included in the OMX Nordic All-Share Index, a significant milestone for the aquaculture feed producer. The index addition reflects the company's market prominence among Nordic-listed equities and signals investor confidence in the company's positioning and liquidity on the Nasdaq exchange in Copenhagen (CPSE: BIOMAR)."
+    },
+    {
+      "id": 149266,
+      "story_id": 1641,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbnZYRGl5dnBoWGRLNE1oOFVTQW5kRGpZY002UU03MUZjQk9wVkF1RmhCcG1xTkVmX3VWb2ZsX0duMVlJOWlydDZac1hWVmstOWVWaGd0RHZVbm4xRTAzNUVSU1FRbWM2cVRpNFp5VU9vRE16MThoLXMyN0xLYWZ0WkRTV2Q1N2F5UTh2UGVfZU1UOGFuWkxjNzVqQ19PaERUZEE?oc=5",
+      "title": "Alitec Pargua pasará a ser 100% propiedad de Biomar - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-03-14T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar acquires full ownership of Alitec Pargua",
+      "key_claims": [
+        "BioMar is acquiring 100% ownership of Alitec Pargua"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar is set to acquire full ownership of Alitec Pargua, a Chilean aquaculture operation. The transaction represents a significant expansion of BioMar's presence in the Latin American market."
+    },
+    {
+      "id": 149778,
+      "story_id": 1642,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYzBnQTBWSE5jMV9ydjVKS1hVdWg4R0paLWNaNXpraDRra21wbFN2LWhhWkQ2c2pfaThqT0JaMVZ3a2pocjFWc3ZGcFlNWTZxcmhNQ1g3YjRlTm9kRDhjMEVmV19WQ0xqeGlLMDhBR1dKYkNhTFBwTkR2aWFjMlh3N2l4dlNVYzlfYXNxaGE1aWQxNWI0bmk2blY1Vmk1dw?oc=5",
+      "title": "Skretting entrega ayuda por contingencia a través de innovador método en 360° - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2020-06-18T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYzBnQTBWSE5jMV9ydjVKS1hVdWg4R0paLWNaNXpraDRra21wbFN2LWhhWkQ2c2pfaThqT0JaMVZ3a2pocjFWc3ZGcFlNWTZxcmhNQ1g3YjRlTm9kRDhjMEVmV19WQ0xqeGlLMDhBR1dKYkNhTFBwTkR2aWFjMlh3N2l4dlNVYzlfYXNxaGE1aWQxNWI0bmk2blY1Vmk1dw?oc=5\" target=\"_blank\">Skretting entrega ayuda por contingencia a través de innovador método en 360°</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -69577,7 +69679,7 @@
       {
         "week": "2019-W11",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -69852,7 +69954,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2020-W27",
@@ -72017,7 +72119,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 20,
+        "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -72030,7 +72132,7 @@
       },
       {
         "company": "BioMar",
-        "count": 807
+        "count": 809
       },
       {
         "company": "Cargill",
@@ -72042,7 +72144,7 @@
       },
       {
         "company": "Skretting",
-        "count": 657
+        "count": 658
       }
     ]
   }
