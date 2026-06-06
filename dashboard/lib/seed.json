@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-06T17:18:11+00:00",
+  "generated_at": "2026-06-06T22:59:42+00:00",
   "stats": {
-    "mention_count": 1915,
+    "mention_count": 1919,
     "story_count": 1638,
-    "analyzed_count": 851,
+    "analyzed_count": 855,
     "off_topic_mentions": 61,
     "off_topic_stories": 39
   },
@@ -319,7 +319,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 34,
+      "pickup_count": 38,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -69882,6 +69882,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQczc2WmtFa2FCOU01S1g4TVVRMG1OYUFNTk96YVRCYk9ZaXRSTUY1OG9nODVZWVFpYjlaUThRVXNBbVh6VDlzMFJqal9hemJFcWNQbXJBQWdYbUdsdTZuTDdVU3poRWVxNktDLWVpNE4ycFF0X0JNMVROenJwWjZBbjF2QjNXUU8wU2lCSTB2YUlSYW9GeExLWlYtSXhIMGZscXl0QWNDYw?oc=5\" target=\"_blank\">– Trolljegerprøven er bare kanonkjekt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 156154,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGpudXFyVmdiVy1YQkM2bDFNV0RGdkRUUmhWX2NvdU1lN2FPdHIzd2h4WS1oRHltZE5BYXNLdE5sU2xGZ1kxaUdTNnU3RTIwYjlzYUNDbk5YTFVQRnNMTkduZFZWNkpHTXNxek1CNXFJcHUwZ3BINThrS3kwTGpQT3V1TXRoemYwZVYtc1pOUW1oX3UtbnB1OA?oc=5",
+      "title": "Cash from financing activities of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:57:38+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial reporting on BioMar Group's cash financing activities",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on cash flow from financing activities for BioMar Group A/S. The article presents financial data on the company's financing cash movements as part of routine financial disclosures."
+    },
+    {
+      "id": 156157,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWdwN2tkYl9xMjhxdC1nVThSMFNCOUVGODUxemtLRjZ0M29TRkc5UzZEd0dSYVE3SWJuWkpOdktFZW90NVpGZVljQXBnMjQ0SU9lN0tZODg0OTRfZ3A5MlZHQzlpRnFiZFZCMXVKYzNPUTIwQ1RxUXFQLVpxdzBLR0tqb1M5T2lfcjF6YnFsdm80amRG?oc=5",
+      "title": "Net current asset value per share of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:41:09+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting for BioMar Group A/S shares",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView published a financial metric page reporting the net current asset value per share for BioMar Group A/S (ticker: MUN:2IT). The article is a data-driven financial tracking tool with no substantive narrative or claims about the company's operations or performance beyond the stated valuation metric itself."
+    },
+    {
+      "id": 156158,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTRtRFhKekFQUUIybl8xRGozNnhOc1FXc2NWQ1dDSTlodEtBbEtZbDE0LW9OOE1ZbDQyaXpPcnVlNVhnY1EzTThPWmRZd29JUWY3QVZPYXdLQ3cwS3RCQXBueVdlYmdvMDRHU2FaSERKbldNNmxwcFNHQ1NKdDJ0TVlHalEtVlNrOXRjb211SGZuWTJjWjRB?oc=5",
+      "title": "Dilution adjustment of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:40:15+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Dilution adjustment announcement for BioMar Group shares",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports a dilution adjustment for BioMar Group A/S shares under ticker MUN:2IT. The announcement is a routine corporate action notification typical of stock market reporting platforms."
+    },
+    {
+      "id": 156163,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVprUzFJS09uMFFkYVNfZUNJU0puckhrRVBxS05wTVNYMVpKenJkQjVSQ1o5amVYZjVidGxnUGMyZ0lXTXI1dWRkNTFuUU1kVTc0Uk5JU1d2cEF5ZF9Wa01qVXZ6OHljLW9ua3ZkMkM3eUxvdHpPUDhQZFNjMzRoaVF2NTBESklqeGxvU1E3WlNPaHBFTTBJZzBR?oc=5",
+      "title": "Operating margin % of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:39:35+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "passing",
+      "angle": "Financial metric tracking for BioMar Group's operating margin",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView displays operating margin percentage data for BioMar Group A/S (ticker: MUN:2IT). The article is a financial dashboard entry presenting performance metrics without editorial commentary or analysis."
     }
   ],
   "share_of_voice": {
@@ -73648,7 +73744,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 56,
+        "BioMar": 60,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 6
@@ -73661,7 +73757,7 @@
       },
       {
         "company": "BioMar",
-        "count": 851
+        "count": 855
       },
       {
         "company": "Cargill",
