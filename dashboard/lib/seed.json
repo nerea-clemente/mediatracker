@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-06T08:06:31+00:00",
+  "generated_at": "2026-06-06T11:01:48+00:00",
   "stats": {
-    "mention_count": 1895,
-    "story_count": 1630,
-    "analyzed_count": 835,
+    "mention_count": 1905,
+    "story_count": 1634,
+    "analyzed_count": 842,
     "off_topic_mentions": 60,
     "off_topic_stories": 38
   },
@@ -298,12 +298,12 @@
       "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
       "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
       "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-06T01:46:53+00:00",
+      "last_seen": "2026-06-06T07:26:26+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 22,
+      "pickup_count": 28,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -17311,6 +17311,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1656,
+      "headline": "Skretting to buy Tasmania fish feed facility from Ridley - Fishfarming expert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3d2d2IxV01yc0xsUUc3RDZ5NGhvcmtYNWF5MzhzVjFnanM5aVBVQmxjaEVKNnNPbGZQQ3RfSGVmTkVHTDY4Y18xSXpxODN6VXh4ZTh1bjg2NkdwRFRXbzMyWTJjMUN4YUNBaHpPTlJNaVE0OGpUdUVkYWxLUzhraWNDbGEzeDJVZ21hclZHUmJsTGYyMmR2dmdoOEtacG03TFJWUHZRRG5BYXl5RExYNXJBV1NVY1I2?oc=5\" target=\"_blank\">Skretting to buy Tasmania fish feed facility from Ridley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "first_seen": "2021-05-24T07:00:00+00:00",
+      "last_seen": "2021-05-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1432,
       "headline": "Skretting får tilbud om landstrøm i havnen på Børøya - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9UejlSYWdfX092aTRHZ05iN0VQbUJxckstRmVnNkNQMHM3Qmp1clMxdGsxbmF1TVBURm91V05WWFRkYkJIZUk5ZGVPM2Zwci1DZVVjOWhlWkdkUXpKQl9rR3Q3cG9lNUY1VktkUEtDcldKTWpkMkQ1ZmNn?oc=5\" target=\"_blank\">Skretting får tilbud om landstrøm i havnen på Børøya</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -19317,6 +19331,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1655,
+      "headline": "Firefighters tackled blaze at US Skretting feed manufacturing plant - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQi1Ld0xQaS1wTGk1eFBUZE5BZl9NSlRQLWxCMFdVX3pVY2RjUFZweGRsTDhQeWRxNFF4bmxlejZHU3Y3NWlDRXl6dGdUQVFlUVhLS2UxS2ViTWpCd1cxaVZmMHE3d1RucTh3amhqWVFVdFJ0am1wSXpudlRQdXA3Njc5SVhkN2lKUHNLX1pJRkhtUlpvdWZwZzFCc0dkTE9I0gGgAUFVX3lxTE5CLUt3TFBpLXBMaTV4UFRkTkFmX01KVFAtbEIwV1VfelVjZGNQVnB4ZGxMOFB5ZHE0UXhubGV6NkdTdjc1aUNFeXp0Z1RBUWVRWEtLZTFLZWJNakJ3VzFpVmYwcTd3VG5xOHdqaGpZUVV0UnRqbXBJem52VFB1cDc2NzlJWGQ3aUpQc0tfWklGSG1SWm91ZnBnMUJzR2RMT0g?oc=5\" target=\"_blank\">Firefighters tackled blaze at US Skretting feed manufacturing plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2019-02-25T08:00:00+00:00",
+      "last_seen": "2019-02-25T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1079,
       "headline": "Feed maker launches new range for RAS - Fishfarming expert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEhBOHVKd3I1b3M4cXhxamdLTDdjUEdYaGl4aHRkcjhmVjU3c3FiWTZ4bVllS283SWU1QXRheWlLcWtlc2RoVWlkR2F1SWttczdVV3pMSUZpSGtVVGtVOFJEYklzak1neHpqcG5VaW1NMHIyNlE2cWczYmtReEw4blk2dDFKeVFBN2RVRVdHQnNGVG9CR0JfemI0TGRQMFhK?oc=5\" target=\"_blank\">Feed maker launches new range for RAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
@@ -20491,6 +20519,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1654,
+      "headline": "Centro de cultivo Quitralco 7 es reconocido como \"Biomar Farmer of the Year 2017\" - Salmonexpert",
+      "story_summary": "BioMar has awarded the Quitralco 7 farming operation in Chile its 2017 Farmer of the Year recognition. The award highlights the farm's performance and relationship with BioMar as a feed supplier and partner in aquaculture production standards.",
+      "first_seen": "2018-01-03T08:00:00+00:00",
+      "last_seen": "2018-01-03T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1031,
@@ -22354,6 +22396,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1653,
+      "headline": "New-generation diets omit rotifer enrichment, improve water quality - Global Seafood Alliance",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWVsNGpnUU1lWFd4SEYtdFQtSVVHcHhDaFFqV3llSWN1Q3VfckNvbDFCZU8zVGdzaVRKQ19zcmhBcDU1a0o4WUNndjFlaXpzaEZfX3VTOVdaT1lMTVp6UWNyaEhlbDBMNjVBQTVNc2pSQWd4b3JKRmttOEFtU1dSRk5MTTN5TElKdjNUdWd2LUxZY0tIMkpLZTFZckJsT0xob3NKdS1NNFpDUQ?oc=5\" target=\"_blank\">New-generation diets omit rotifer enrichment, improve water quality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>",
+      "first_seen": "2014-11-02T07:00:00+00:00",
+      "last_seen": "2014-11-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1059,
@@ -69288,6 +69344,246 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaG52eFZjNGlWWVh5S3NlVzROTjVQdV9EUDlTaUxSd0JISlNaS2MzNWw3V25qbXBhaDBBSmhFOVVncl9Ec05YNHhnRkdxUXpWUHdmaGdPYi1QaFZ5a0k4VXhBR0c1NTVBLVJrWEJHYzZMdm1SRWI5R0U3YkJxeXp4UGZvc05GekRfX21tVm1UR2xXcDEyd0ZVMDIzY0FYa1JxUFZ5TU5WaUE0dlQ4bzQ0OEZvWUxETEFhSEl5TWRWaG5EOUp6b0N4MWthVGZ0TElt?oc=5\" target=\"_blank\">Reporte de Sostenibilidad global de Skretting destaca dos iniciativas chilenas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 154066,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSm05Ujkwa1k0YjB3RHZpcU4tbDR1X1RYeDBJRzVwdnNoWTVOd01KcTVNZ1A1Q0dpT0J5aW43N1NSVVpJbHRsOGdiV0Q3YWE2ekZlWl9GdEN6ZzF5TjFnX19xN255bDBnLXoxa2EwVjU1Uy1YYWR0VGZ4MTliVmtqd3ZUMFBySkJPMHc?oc=5",
+      "title": "Total assets of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-06T07:26:26+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data snapshot on BioMar Group's total assets",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial metric snapshot for BioMar Group A/S showing total assets data. The article appears to be a routine financial reporting tool entry rather than investigative or narrative coverage."
+    },
+    {
+      "id": 154069,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWlaMjg1aW40MFBPRjJ0SEpRNDZkTUJYVVhmTkpmXzNFeGppazdGemlsekdjS1pNUzJHbTV4LThlV3FHb1VfeENWT2VmNFdDN0xrSHFpZEUxci04MDRJbzkya2NtQXRNZU5sSGdFUjV1b21YNHZ1a3hKU2NTYkZGa0dpdzhFakljbWwzT25iUHU2RnhQM3B5X2dSTWFXa3lSOXc?oc=5",
+      "title": "Number of shareholders of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:16:56+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "passing",
+      "angle": "Shareholder count metric for BioMar Group trading data",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on the number of shareholders holding BioMar Group A/S stock. The article appears to be a routine financial data listing or metric display on the trading platform's database of listed companies."
+    },
+    {
+      "id": 154070,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFdtblNEcS1zMWpsYnZnRUsxT0Q1Y1FIZ3JvNVFueURDWTNoR2VHSXpfVm9GQTNHSFZXSlU1NzhpX3d3Q2FFOGhtZzNLdGZ3NzBLRHVRaUt2eks1U3ZTZHdreXF2dnR0VnlhMWhjRWJUQThLbFduZmVZREJwUUVnbmVZTQ?oc=5",
+      "title": "EBIT of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:17:56+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group's EBIT performance.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView reports on the EBIT (earnings before interest and taxes) metric for BioMar Group A/S, listed on the MUN exchange under ticker 2IT. The article presents financial performance data without editorial commentary or context."
+    },
+    {
+      "id": 154071,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTF3cUxIczl2a1pQaGlFRk5KcnZ4S0FtTGZObmhySkxsaE5wTFZKQjM1cnVpeTZlOEdZLUthb1RTbDI0ZmljN0h0VXA2d2JtVkdyNEUzczI3QVd0cEpDNm8tTmlyNnI0N3JnUm1fSEh6dXQ5VDRuSDhoejc3a3lRZTRBN3RNQTRJV24tXy1ETTZqQ2VaWXZ3Sw?oc=5",
+      "title": "CapEx per share of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:35:21+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Capital expenditure per share metric for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView presents a financial metric dashboard entry for BioMar Group A/S capital expenditure per share. The article appears to be a data visualization or charting tool page rather than news analysis or commentary."
+    },
+    {
+      "id": 154089,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVERMdWVDbjRCcXNxcFRva2JRVXRlUTFNWG42Tm5kaXh1akJnNVI2NXJ5aGdpNG1kQnZCWUNuU3FzaC0xcDdFZ042ZzBUaVBlcFdJTDNvVkQxUmpSRThqQ3NuQkFLbFAxLUdUUExyOWg1S0F5ZU9tdEJLSlZkWEF4WEwtcw?oc=5",
+      "title": "BioMar Group A/S Statistics – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:04:54+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock statistics page for BioMar Group listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a statistics page for BioMar Group A/S stock listed under ticker MUN:2IT. The page presents trading and financial data for the aquaculture feed producer."
+    },
+    {
+      "id": 154093,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tU00tZEE5Y25FaW9XXzRBTzBRRS0tUFRqN2hTSkNuZU1PRUlVcUdycVlNNFNKNVlSSWNBY0Z5T1ZyQV9Pd3BmMy0zQkpadlI3cWNZdnVrbVRaQ0lVWVU5N2pyVnE4Y0V1NDJ0ZHQ2NVRKZnFjR1VoS2JmRGs?oc=5",
+      "title": "BioMar Group A/S Income Statement – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T17:28:47+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data dashboard listing for BioMar Group.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView displays BioMar Group A/S's income statement under the ticker MUN:2IT. The article is a routine financial data listing with no narrative or commentary content."
+    },
+    {
+      "id": 154465,
+      "story_id": 1654,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPU1JtbmJnM0ZUeGJBTkp1elhjRHdTcE9ZWW9HWVRpV3lZTHB4eVREby1HSHJDNUhGbTBJM2FWVW85YmZTc3V3R0xvcFZBTWJkRGpzdFlaZDFEdlp5c2FGSm01VWJyNEZpVERVWHc1SVJlRXZHRTVDaUZwUnhaR1RsS2FOaUxWTmlCV2NreWx3ZzR0UGtQV1JodFcxdWxIdGtPQ3VfU3prZ2VMRlRfMXZqNzNfVVhVNGFoVmlhY1ZFVjdZNHpBLTdFaWIyY1dTVlBOcGd1ZGhHa3pPdV9BR1h4SWNKTUEwc0h3UXJCeW1IaXNpRnVMVV9NajgxREQ?oc=5",
+      "title": "Centro de cultivo Quitralco 7 es reconocido como \"Biomar Farmer of the Year 2017\" - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2018-01-03T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "BioMar recognizes Chilean salmon farm with annual farmer award",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has awarded the Quitralco 7 farming operation in Chile its 2017 Farmer of the Year recognition. The award highlights the farm's performance and relationship with BioMar as a feed supplier and partner in aquaculture production standards."
+    },
+    {
+      "id": 154688,
+      "story_id": 1653,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWVsNGpnUU1lWFd4SEYtdFQtSVVHcHhDaFFqV3llSWN1Q3VfckNvbDFCZU8zVGdzaVRKQ19zcmhBcDU1a0o4WUNndjFlaXpzaEZfX3VTOVdaT1lMTVp6UWNyaEhlbDBMNjVBQTVNc2pSQWd4b3JKRmttOEFtU1dSRk5MTTN5TElKdjNUdWd2LUxZY0tIMkpLZTFZckJsT0xob3NKdS1NNFpDUQ?oc=5",
+      "title": "New-generation diets omit rotifer enrichment, improve water quality - Global Seafood Alliance",
+      "source_name": "Global Seafood Alliance",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2014-11-02T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWVsNGpnUU1lWFd4SEYtdFQtSVVHcHhDaFFqV3llSWN1Q3VfckNvbDFCZU8zVGdzaVRKQ19zcmhBcDU1a0o4WUNndjFlaXpzaEZfX3VTOVdaT1lMTVp6UWNyaEhlbDBMNjVBQTVNc2pSQWd4b3JKRmttOEFtU1dSRk5MTTN5TElKdjNUdWd2LUxZY0tIMkpLZTFZckJsT0xob3NKdS1NNFpDUQ?oc=5\" target=\"_blank\">New-generation diets omit rotifer enrichment, improve water quality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>"
+    },
+    {
+      "id": 154690,
+      "story_id": 1655,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQi1Ld0xQaS1wTGk1eFBUZE5BZl9NSlRQLWxCMFdVX3pVY2RjUFZweGRsTDhQeWRxNFF4bmxlejZHU3Y3NWlDRXl6dGdUQVFlUVhLS2UxS2ViTWpCd1cxaVZmMHE3d1RucTh3amhqWVFVdFJ0am1wSXpudlRQdXA3Njc5SVhkN2lKUHNLX1pJRkhtUlpvdWZwZzFCc0dkTE9I0gGgAUFVX3lxTE5CLUt3TFBpLXBMaTV4UFRkTkFmX01KVFAtbEIwV1VfelVjZGNQVnB4ZGxMOFB5ZHE0UXhubGV6NkdTdjc1aUNFeXp0Z1RBUWVRWEtLZTFLZWJNakJ3VzFpVmYwcTd3VG5xOHdqaGpZUVV0UnRqbXBJem52VFB1cDc2NzlJWGQ3aUpQc0tfWklGSG1SWm91ZnBnMUJzR2RMT0g?oc=5",
+      "title": "Firefighters tackled blaze at US Skretting feed manufacturing plant - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-02-25T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQi1Ld0xQaS1wTGk1eFBUZE5BZl9NSlRQLWxCMFdVX3pVY2RjUFZweGRsTDhQeWRxNFF4bmxlejZHU3Y3NWlDRXl6dGdUQVFlUVhLS2UxS2ViTWpCd1cxaVZmMHE3d1RucTh3amhqWVFVdFJ0am1wSXpudlRQdXA3Njc5SVhkN2lKUHNLX1pJRkhtUlpvdWZwZzFCc0dkTE9I0gGgAUFVX3lxTE5CLUt3TFBpLXBMaTV4UFRkTkFmX01KVFAtbEIwV1VfelVjZGNQVnB4ZGxMOFB5ZHE0UXhubGV6NkdTdjc1aUNFeXp0Z1RBUWVRWEtLZTFLZWJNakJ3VzFpVmYwcTd3VG5xOHdqaGpZUVV0UnRqbXBJem52VFB1cDc2NzlJWGQ3aUpQc0tfWklGSG1SWm91ZnBnMUJzR2RMT0g?oc=5\" target=\"_blank\">Firefighters tackled blaze at US Skretting feed manufacturing plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 154691,
+      "story_id": 1656,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3d2d2IxV01yc0xsUUc3RDZ5NGhvcmtYNWF5MzhzVjFnanM5aVBVQmxjaEVKNnNPbGZQQ3RfSGVmTkVHTDY4Y18xSXpxODN6VXh4ZTh1bjg2NkdwRFRXbzMyWTJjMUN4YUNBaHpPTlJNaVE0OGpUdUVkYWxLUzhraWNDbGEzeDJVZ21hclZHUmJsTGYyMmR2dmdoOEtacG03TFJWUHZRRG5BYXl5RExYNXJBV1NVY1I2?oc=5",
+      "title": "Skretting to buy Tasmania fish feed facility from Ridley - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2021-05-24T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3d2d2IxV01yc0xsUUc3RDZ5NGhvcmtYNWF5MzhzVjFnanM5aVBVQmxjaEVKNnNPbGZQQ3RfSGVmTkVHTDY4Y18xSXpxODN6VXh4ZTh1bjg2NkdwRFRXbzMyWTJjMUN4YUNBaHpPTlJNaVE0OGpUdUVkYWxLUzhraWNDbGEzeDJVZ21hclZHUmJsTGYyMmR2dmdoOEtacG03TFJWUHZRRG5BYXl5RExYNXJBV1NVY1I2?oc=5\" target=\"_blank\">Skretting to buy Tasmania fish feed facility from Ridley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
     }
   ],
   "share_of_voice": {
@@ -69617,7 +69913,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2014-W45",
@@ -70294,7 +70590,7 @@
       {
         "week": "2018-W01",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
@@ -70594,6 +70890,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2019-W09",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2019-W10",
@@ -71161,7 +71465,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2021-W22",
@@ -73046,7 +73350,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 44,
+        "BioMar": 50,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -73059,7 +73363,7 @@
       },
       {
         "company": "BioMar",
-        "count": 835
+        "count": 842
       },
       {
         "company": "Cargill",
@@ -73071,7 +73375,7 @@
       },
       {
         "company": "Skretting",
-        "count": 664
+        "count": 667
       }
     ]
   }
