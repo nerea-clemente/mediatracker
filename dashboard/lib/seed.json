@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T11:01:48+00:00",
+  "generated_at": "2026-06-06T17:18:11+00:00",
   "stats": {
-    "mention_count": 1905,
-    "story_count": 1634,
-    "analyzed_count": 842,
-    "off_topic_mentions": 60,
-    "off_topic_stories": 38
+    "mention_count": 1915,
+    "story_count": 1638,
+    "analyzed_count": 851,
+    "off_topic_mentions": 61,
+    "off_topic_stories": 39
   },
   "outlets": [
     "20Minutos",
@@ -81,6 +81,7 @@
     "El Correo de Burgos",
     "El Español",
     "El HuffPost",
+    "El Mostrador",
     "El Mundo",
     "El Periódico de Ceuta",
     "El Periódico de la Energía",
@@ -179,6 +180,7 @@
     "PR Newswire",
     "Packaging Gateway",
     "Paislobo Prensa",
+    "Patagonia Radio",
     "Pattison Funeral Home",
     "Perishable News",
     "Periódico El Insular",
@@ -294,6 +296,20 @@
   ],
   "stories": [
     {
+      "id": 1660,
+      "headline": "– Trolljegerprøven er bare kanonkjekt - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQczc2WmtFa2FCOU01S1g4TVVRMG1OYUFNTk96YVRCYk9ZaXRSTUY1OG9nODVZWVFpYjlaUThRVXNBbVh6VDlzMFJqal9hemJFcWNQbXJBQWdYbUdsdTZuTDdVU3poRWVxNktDLWVpNE4ycFF0X0JNMVROenJwWjZBbjF2QjNXUU8wU2lCSTB2YUlSYW9GeExLWlYtSXhIMGZscXl0QWNDYw?oc=5\" target=\"_blank\">– Trolljegerprøven er bare kanonkjekt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-06-06T11:04:54+00:00",
+      "last_seen": "2026-06-06T11:04:54+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1651,
       "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
       "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
@@ -303,7 +319,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 28,
+      "pickup_count": 34,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -6663,6 +6679,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1659,
+      "headline": "La Fiscalía ‘salva’ a un alto cargo del Gobierno investigado por retirar una licencia de fuel - The Objective",
+      "story_summary": "A Spanish prosecutor's office has closed an investigation into a high-ranking government official accused of withdrawing a fuel license. The article appears to focus on a Spanish regulatory or corruption matter unrelated to aquaculture feed production.",
+      "first_seen": "2025-10-28T07:00:00+00:00",
+      "last_seen": "2025-10-28T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 237,
       "headline": "Biomar Winter Banner - iLaks",
       "story_summary": "The article appears to be a promotional or banner announcement from BioMar for a winter campaign. Limited textual content is available beyond the headline and outlet reference.",
@@ -11340,6 +11370,20 @@
       "primary_sentiment": "negative",
       "risk_flags": [
         "controversy"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1658,
+      "headline": "BioMar anuncia cierre de su planta en Putemún: Un duro golpe para 90 familias chilotas - Patagonia Radio",
+      "story_summary": "BioMar has announced the closure of its production facility in Putemún (Chiloé region), affecting approximately 90 families in the local community. The closure represents a significant economic impact for the region, which depends on the aquaculture feed manufacturing operation for employment and economic activity. This is the target BioMar Group's Chilean operation announced a facility shutdown with major local employment consequences. The outlet is Patagonia Radio, a regional Chilean news source covering the southern regions including Chiloé, where BioMar maintains aquaculture feed production operations as part of its South American regional presence under parent company Schouw & Co. The article focuses on the closure announcement and its socioeconomic impact on the local community rather than providing operational or strategic rationale from the company perspective in the available summary text. The negative sentiment reflects the job losses and economic disruption described, though the full article text is not provided for complete analysis of any company statements or context. Note that Putemún is a recognized locality in Chiloé, and BioMar has had significant aquaculture feed operations in Chile as a major regional market for salmon farming input supplies. The closure announcement is presented as significant news with community impact framing typical of regional news outlets covering major employer decisions affecting small populations in resource-dependent regions. Key claims cannot be fully verified from the summary alone; risk flags reflect the financial and employment impact nature of the announcement as a facility closure affecting a substantial local workforce. Sentiment confidence is high given the clearly negative framing of job losses and community impact in the headline and available text. Prominence is primary as the announcement is the article's main focus rather than a passing reference or secondary mention alongside other topics. Angle captures the core narrative: a closure announcement with specific impacts on a defined local population. People quoted cannot be identified from the summary provided, so that field is omitted per schema requirements for unverified information. Risk flags include financial (facility closure, operational/employment impact) and potentially controversy (community impact) aspects of the announcement, reflecting the serious local implications described in the headline and summary text available for analysis at time of review. Confidence in sentiment assessment (0.95) reflects the clear negative framing without access to company statements that might provide mitigation or strategic context not evident in the summary provided here. The analysis treats BioMar Group Chile as the target brand subject (not a namesake) based on the Chiloé geography, aquaculture sector focus, and regional news outlet context consistent with BioMar's known South American operations under Schouw & Co ownership and management structure. Analysis assumes this refers to the target BioMar Group based on available contextual indicators present in outlet type, geography, and sector alignment with known company operations, though URL details and full article text would enable definitive confirmation beyond the summary excerpt provided here for this structured response. Recommendation: full article text review advised to identify any executive statements, additional details on closure rationale, timeline, or community impact mitigation plans that might refine sentiment assessment or add people_quoted entries currently impossible to populate from summary alone. Angle phrase kept to ≤12 words per schema requirement. Key_claims, people_quoted, and is_about_target_brand fields treated per instructions: claims omitted when unverifiable from summary text alone (conservative approach); people_quoted omitted when no names/quotes provided in available text; is_about_target_brand omitted from response as default True per schema when field not required in output per instructions (only include when False to flag a namesake). Summary provides two neutral sentences synthesizing headline and context without editorial color beyond factual announcement and impact description present in source text provided for analysis. Sentiment_confidence of 0.95 (not 1.0) reflects minor uncertainty inherent in summary-only analysis without full article text for complete context assessment. Prominence set to primary given headline focus and clear main subject status. Risk_flags set to [",
+      "first_seen": "2024-11-27T08:00:00+00:00",
+      "last_seen": "2024-11-27T08:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -18741,6 +18785,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1657,
+      "headline": "FNE acusa de colusión a productoras de alimentos de salmón y pide multas millonarias - El Mostrador",
+      "story_summary": "Chile's FNE (competition authority) has filed accusations of collusion against salmon feed producers, seeking substantial fines. BioMar is among the companies named in the antitrust complaint regarding alleged price-fixing or anti-competitive practices in the salmon feed market. The article does not provide detail on specific allegations against BioMar individually but places it within a broader industry investigation for alleged cartel behavior. This is a secondary mention as part of a multi-company antitrust case rather than the article's sole focus, though the allegation is serious in nature and carries legal and financial implications for the company and sector. The timeline is December 2019, Chilean jurisdiction, and represents official regulatory action rather than speculative reporting. No named BioMar executives are quoted, and the article appears to summarize the FNE's formal accusation announcement without direct company response included in the summary provided. The negative sentiment reflects the serious nature of a collusion allegation, though the confidence is high given the factual nature of the regulatory filing rather than unsubstantiated claims. Risk flags apply due to the legal and potential financial consequences of the accusation, though the ultimate outcome remains subject to regulatory proceedings. The article is clearly about the target BioMar (aquaculture feed producer) given the context of salmon food producers in Chile, where BioMar operates, and the product category aligns with BioMar's core business (salmon feed).\n\nActual JSON response:\n\n{\"is_about_target_brand\": true, \"sentiment\": \"negative\", \"sentiment_confidence\": 0.92, \"prominence\": \"secondary\", \"angle\": \"Chilean competition authority accuses salmon feed producers of collusion\", \"key_claims\": [\"FNE (Chilean competition authority) accused salmon feed producers of collusion\", \"FNE is seeking substantial fines against the accused companies\", \"BioMar is named among the accused feed producers\"], \"people_quoted\": [], \"risk_flags\": [\"legal\", \"financial\"], \"summary\": \"Chile's FNE competition authority has filed collusion accusations against salmon feed producers, including BioMar, and is seeking significant fines. The case involves alleged anti-competitive behavior in the salmon feed market and represents formal regulatory action against multiple industry players.\"}",
+      "first_seen": "2019-12-19T08:00:00+00:00",
+      "last_seen": "2019-12-19T08:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1349,
@@ -69584,6 +69642,246 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3d2d2IxV01yc0xsUUc3RDZ5NGhvcmtYNWF5MzhzVjFnanM5aVBVQmxjaEVKNnNPbGZQQ3RfSGVmTkVHTDY4Y18xSXpxODN6VXh4ZTh1bjg2NkdwRFRXbzMyWTJjMUN4YUNBaHpPTlJNaVE0OGpUdUVkYWxLUzhraWNDbGEzeDJVZ21hclZHUmJsTGYyMmR2dmdoOEtacG03TFJWUHZRRG5BYXl5RExYNXJBV1NVY1I2?oc=5\" target=\"_blank\">Skretting to buy Tasmania fish feed facility from Ridley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 155114,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUnRhV3lYclFmTDdpNnBwQ082WjV4RG05OGgyZGZTN0NBdXBnS1IzSXExVnhSVnFLd05WWGJUSXVpREpEYk1wWFFlOGtLNHdhbXVPWjRCRmd1N0hnRDR5MDhLUTFrMVZ3cm44Mkp6NjJRLWU5dU9TZ0pLbFJwbDMzYkIxM2cyR3JiSE9sdTdTczFOc2JaV3hwZWlVMC1Odw?oc=5",
+      "title": "Net income before discontinued operations of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:02:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric listing for BioMar Group on trading platform",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports a financial metric (net income before discontinued operations) for BioMar Group A/S. The article appears to be a stock data feed entry rather than substantive financial reporting or analysis."
+    },
+    {
+      "id": 155115,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGNSX3d0NjNoczBPX1pnOEtCSlpyNi1JeXRhY0ViT3NTWUJrbmd1NzJoSFp3WmZWNVJmU3h5V1FJd0k0QzItRkxWVnZ6bjRZSEZ0YWZzZEdXMVYzMU9jb2R5VU1PRHFXb3NiYzlBUThLR1BtaWNNdl83eVJDZldBT3Jrb08zRktleEgwSG93UmU2TGoxTUhnRA?oc=5",
+      "title": "Price to cash flow ratio of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:34:39+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric analysis of BioMar Group A/S stock valuation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This TradingView article presents the price-to-cash-flow ratio metric for BioMar Group A/S shares trading under ticker MUN:2IT. The piece is a straightforward financial data presentation without editorial commentary or claims about the company's performance or operations."
+    },
+    {
+      "id": 155116,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjg3Ny1WUmJ0NEhlS0tDWTFXZm55NklvRUVDbkxJWDhMTGswcW1rUHVCaURHMlR6ajU4MXNwNzZwUU5KV3Etb183NlpHUEsxNjNfSDJKNWFGeXZFeTZUVEhVNU1Pd3o5bUFVTUJRenoyZjBmX2N1X1BmUnczbW1ZcXdsaFdfSDhpOGNzVlZSdURiRXV2TkE?oc=5",
+      "title": "Equity in earnings of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:10:54+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Financial reporting on BioMar Group equity earnings",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on equity earnings figures for BioMar Group A/S under the ticker MUN:2IT. The article presents financial data without editorial commentary or analysis beyond the headline reference to earnings equity information."
+    },
+    {
+      "id": 155117,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObkNSMVNGOHBsNUlVZnhrZWRGX0ZBNVJ2VDFUY1VxSVZmM05KU2RXZHNPSnZ0QWF5NTVjZm94U2FFT0paZHhLVmJUaHZfTmQ1eXg4VlNwVVpOU2lXZFRuNHowYTVFZlpXcFJwZUVrT3ctRlo2QkdTNDVxSldwTkZqdDREUE9WQQ?oc=5",
+      "title": "EBITDA of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:40:23+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group EBITDA",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on EBITDA performance data for BioMar Group A/S, listed under ticker MUN:2IT. The article provides financial metric information relevant to investors tracking the company's operational performance."
+    },
+    {
+      "id": 155123,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWcwSzdzUjVoSjRQaHNkajhtZ1FGOEthNWtoNWxZNWxZRU9Za3BJVVN4MjU3VjBmZXNpalJtR0RQNi1vWF9YSFVOMmVPX3ZwTjZhNEFRcUtCU1VfWnlkNnlqdEdrY01iaV9pZnJGbVVPVWNFZlFISWRKck1yemg0TDFWemIyWnUyUndVVHI2T3E3SC1MVGxn?oc=5",
+      "title": "Price to earnings ratio of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:23:08+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric snapshot for BioMar Group A/S stock.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView displays the price-to-earnings ratio for BioMar Group A/S traded under ticker MUN:2IT. The article is a routine financial data presentation with no narrative commentary or analysis beyond the metric itself."
+    },
+    {
+      "id": 155409,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yM1hub3BPcVBFeUN5eEpQakx0YTVtUURMYkpxY0I3aVdUR0h2MFMzUlpIdFVZeFhFTHRaRVVfVVRGZzZiTkwzU3liemlUVXU2U0JXZ2c5dnI3OG9FdV9oSlk2amZZUko5MDdZVkIzanQ?oc=5",
+      "title": "Resultados financieros de BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-06T04:54:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Financial results reporting for BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView published financial results data for BioMar Group A/S, the Danish aquaculture feed producer. The article presents factual earnings or performance figures without editorial commentary or sentiment indicators present in the available text excerpt."
+    },
+    {
+      "id": 155504,
+      "story_id": 1659,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOak1lVGk5Q0FRenZ2U2YxZUhEc01VX2xUc3FYcUY3VVJNTV83VlFaaGd1eFl5dnNMcFNDX0M4cEtHQVVOendncFdhVGpxX2JPQThXc1NMbVdua25HSmNwbnFCWVJJWHZrVXd1NUdNZHhtZEFTRnJlSW0wNjkyYURMblRLTlAwTGZ5ZVdESTZ5SlFaZ0dlRlJ3TFIyb9IBoAFBVV95cUxQWEJQMWszdXBxYUlVNkpDN3ozYU9hdE11Z2dXbm1ObXMtdDRNRVZoVXNiX3pxamFPM01wRE9EX0hsekNYaUtqUHJ4bDd0OHVfWnAwX2JpeTlfWHdSMmVxQ2kwb2V1XzE3T0hGcU9DSjZ3cmJoMjlFWGFwUDFHSkF1WTdyVGl0Z0N4RWIxblNvcHJwNTljcjhhNWp3dlFFSW9n?oc=5",
+      "title": "La Fiscalía ‘salva’ a un alto cargo del Gobierno investigado por retirar una licencia de fuel - The Objective",
+      "source_name": "The Objective",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-10-28T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Spanish government official investigated for fuel license revocation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A Spanish prosecutor's office has closed an investigation into a high-ranking government official accused of withdrawing a fuel license. The article appears to focus on a Spanish regulatory or corruption matter unrelated to aquaculture feed production."
+    },
+    {
+      "id": 155506,
+      "story_id": 1657,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNnF2ckdFbzFSVG84akVlRnhVLUNKRk54TW5ON3l2VHRMOEw5NXhWWW80UC1FTGNiYlVmRWc5MG1pXzhqUWY5VW1fLW1XNnV1Zzl4U285eWRFcjVQa0lTcnZYWFBQcE5IYkVNQk9LZlBuaERFRUdRdm9qTVgycFdLQXByd2luVEI4ZUFyb054NjBQczZ2UGJEemN4ZmNvTm1nYnJ2RVgzdTB2VG5sem14UjhXMmh1Z01hUzVoYXFzQXVFbE1zbWc?oc=5",
+      "title": "FNE acusa de colusión a productoras de alimentos de salmón y pide multas millonarias - El Mostrador",
+      "source_name": "El Mostrador",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-12-19T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.92,
+      "prominence": "secondary",
+      "angle": "Chilean competition authority accuses salmon feed producers of collusion",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Chile's FNE (competition authority) has filed accusations of collusion against salmon feed producers, seeking substantial fines. BioMar is among the companies named in the antitrust complaint regarding alleged price-fixing or anti-competitive practices in the salmon feed market. The article does not provide detail on specific allegations against BioMar individually but places it within a broader industry investigation for alleged cartel behavior. This is a secondary mention as part of a multi-company antitrust case rather than the article's sole focus, though the allegation is serious in nature and carries legal and financial implications for the company and sector. The timeline is December 2019, Chilean jurisdiction, and represents official regulatory action rather than speculative reporting. No named BioMar executives are quoted, and the article appears to summarize the FNE's formal accusation announcement without direct company response included in the summary provided. The negative sentiment reflects the serious nature of a collusion allegation, though the confidence is high given the factual nature of the regulatory filing rather than unsubstantiated claims. Risk flags apply due to the legal and potential financial consequences of the accusation, though the ultimate outcome remains subject to regulatory proceedings. The article is clearly about the target BioMar (aquaculture feed producer) given the context of salmon food producers in Chile, where BioMar operates, and the product category aligns with BioMar's core business (salmon feed).\n\nActual JSON response:\n\n{\"is_about_target_brand\": true, \"sentiment\": \"negative\", \"sentiment_confidence\": 0.92, \"prominence\": \"secondary\", \"angle\": \"Chilean competition authority accuses salmon feed producers of collusion\", \"key_claims\": [\"FNE (Chilean competition authority) accused salmon feed producers of collusion\", \"FNE is seeking substantial fines against the accused companies\", \"BioMar is named among the accused feed producers\"], \"people_quoted\": [], \"risk_flags\": [\"legal\", \"financial\"], \"summary\": \"Chile's FNE competition authority has filed collusion accusations against salmon feed producers, including BioMar, and is seeking significant fines. The case involves alleged anti-competitive behavior in the salmon feed market and represents formal regulatory action against multiple industry players.\"}"
+    },
+    {
+      "id": 155507,
+      "story_id": 1658,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzh2aC0wdGpQS0pVYmFfTmxMajU2cV9LTlZZUlFBLTh1WHFwWTg2dE0tTHplQmgwcVNJaVJJdGRwdGxPOFZ3VFdZeEo5bklzNmhsalcxX21jeG91ZW9HaFVBNzRTMUh1aF9GQnR4SHdHOXJHMWZkVFBnT3ZfVUR1SGJZSkdGdzdwbnlfUVNfRDR2Mms0YXExM0U0UW42N1RsbDVfX2FR?oc=5",
+      "title": "BioMar anuncia cierre de su planta en Putemún: Un duro golpe para 90 familias chilotas - Patagonia Radio",
+      "source_name": "Patagonia Radio",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-11-27T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar announces plant closure in Puntamen affecting 90 families",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has announced the closure of its production facility in Putemún (Chiloé region), affecting approximately 90 families in the local community. The closure represents a significant economic impact for the region, which depends on the aquaculture feed manufacturing operation for employment and economic activity. This is the target BioMar Group's Chilean operation announced a facility shutdown with major local employment consequences. The outlet is Patagonia Radio, a regional Chilean news source covering the southern regions including Chiloé, where BioMar maintains aquaculture feed production operations as part of its South American regional presence under parent company Schouw & Co. The article focuses on the closure announcement and its socioeconomic impact on the local community rather than providing operational or strategic rationale from the company perspective in the available summary text. The negative sentiment reflects the job losses and economic disruption described, though the full article text is not provided for complete analysis of any company statements or context. Note that Putemún is a recognized locality in Chiloé, and BioMar has had significant aquaculture feed operations in Chile as a major regional market for salmon farming input supplies. The closure announcement is presented as significant news with community impact framing typical of regional news outlets covering major employer decisions affecting small populations in resource-dependent regions. Key claims cannot be fully verified from the summary alone; risk flags reflect the financial and employment impact nature of the announcement as a facility closure affecting a substantial local workforce. Sentiment confidence is high given the clearly negative framing of job losses and community impact in the headline and available text. Prominence is primary as the announcement is the article's main focus rather than a passing reference or secondary mention alongside other topics. Angle captures the core narrative: a closure announcement with specific impacts on a defined local population. People quoted cannot be identified from the summary provided, so that field is omitted per schema requirements for unverified information. Risk flags include financial (facility closure, operational/employment impact) and potentially controversy (community impact) aspects of the announcement, reflecting the serious local implications described in the headline and summary text available for analysis at time of review. Confidence in sentiment assessment (0.95) reflects the clear negative framing without access to company statements that might provide mitigation or strategic context not evident in the summary provided here. The analysis treats BioMar Group Chile as the target brand subject (not a namesake) based on the Chiloé geography, aquaculture sector focus, and regional news outlet context consistent with BioMar's known South American operations under Schouw & Co ownership and management structure. Analysis assumes this refers to the target BioMar Group based on available contextual indicators present in outlet type, geography, and sector alignment with known company operations, though URL details and full article text would enable definitive confirmation beyond the summary excerpt provided here for this structured response. Recommendation: full article text review advised to identify any executive statements, additional details on closure rationale, timeline, or community impact mitigation plans that might refine sentiment assessment or add people_quoted entries currently impossible to populate from summary alone. Angle phrase kept to ≤12 words per schema requirement. Key_claims, people_quoted, and is_about_target_brand fields treated per instructions: claims omitted when unverifiable from summary text alone (conservative approach); people_quoted omitted when no names/quotes provided in available text; is_about_target_brand omitted from response as default True per schema when field not required in output per instructions (only include when False to flag a namesake). Summary provides two neutral sentences synthesizing headline and context without editorial color beyond factual announcement and impact description present in source text provided for analysis. Sentiment_confidence of 0.95 (not 1.0) reflects minor uncertainty inherent in summary-only analysis without full article text for complete context assessment. Prominence set to primary given headline focus and clear main subject status. Risk_flags set to ["
+    },
+    {
+      "id": 155729,
+      "story_id": 1660,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczc2WmtFa2FCOU01S1g4TVVRMG1OYUFNTk96YVRCYk9ZaXRSTUY1OG9nODVZWVFpYjlaUThRVXNBbVh6VDlzMFJqal9hemJFcWNQbXJBQWdYbUdsdTZuTDdVU3poRWVxNktDLWVpNE4ycFF0X0JNMVROenJwWjZBbjF2QjNXUU8wU2lCSTB2YUlSYW9GeExLWlYtSXhIMGZscXl0QWNDYw?oc=5",
+      "title": "– Trolljegerprøven er bare kanonkjekt - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-06T11:04:54+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQczc2WmtFa2FCOU01S1g4TVVRMG1OYUFNTk96YVRCYk9ZaXRSTUY1OG9nODVZWVFpYjlaUThRVXNBbVh6VDlzMFJqal9hemJFcWNQbXJBQWdYbUdsdTZuTDdVU3poRWVxNktDLWVpNE4ycFF0X0JNMVROenJwWjZBbjF2QjNXUU8wU2lCSTB2YUlSYW9GeExLWlYtSXhIMGZscXl0QWNDYw?oc=5\" target=\"_blank\">– Trolljegerprøven er bare kanonkjekt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
     }
   ],
   "share_of_voice": {
@@ -71054,7 +71352,7 @@
       {
         "week": "2019-W51",
         "Aller Aqua": 1,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 4,
         "Polarfeed": 0,
         "Skretting": 1
@@ -72718,7 +73016,7 @@
       {
         "week": "2024-W48",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -73102,7 +73400,7 @@
       {
         "week": "2025-W44",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -73350,10 +73648,10 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 50,
+        "BioMar": 56,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       }
     ],
     "totals": [
@@ -73363,7 +73661,7 @@
       },
       {
         "company": "BioMar",
-        "count": 842
+        "count": 851
       },
       {
         "company": "Cargill",
@@ -73375,7 +73673,7 @@
       },
       {
         "company": "Skretting",
-        "count": 667
+        "count": 668
       }
     ]
   }
