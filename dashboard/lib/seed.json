@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-06T22:59:42+00:00",
+  "generated_at": "2026-06-07T08:34:44+00:00",
   "stats": {
-    "mention_count": 1919,
-    "story_count": 1638,
-    "analyzed_count": 855,
+    "mention_count": 1940,
+    "story_count": 1656,
+    "analyzed_count": 857,
     "off_topic_mentions": 61,
     "off_topic_stories": 39
   },
@@ -128,6 +128,7 @@
     "Investing.com Nigeria",
     "Investing.com South Africa",
     "Investing.com UK",
+    "Journalisten",
     "Jærbladet",
     "KRS - Avisen Kristiansand",
     "KSU.NO",
@@ -156,6 +157,7 @@
     "MarketScreener España",
     "Martin Brothers Funeral Services",
     "MatvareWatch",
+    "Medier24",
     "Miami Today",
     "Miljøstiftelsen Bellona",
     "Modern Ghana",
@@ -296,6 +298,20 @@
   ],
   "stories": [
     {
+      "id": 1651,
+      "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
+      "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
+      "first_seen": "2026-06-05T17:23:58+00:00",
+      "last_seen": "2026-06-06T11:26:28+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 39,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1660,
       "headline": "– Trolljegerprøven er bare kanonkjekt - Stavanger Aftenblad",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQczc2WmtFa2FCOU01S1g4TVVRMG1OYUFNTk96YVRCYk9ZaXRSTUY1OG9nODVZWVFpYjlaUThRVXNBbVh6VDlzMFJqal9hemJFcWNQbXJBQWdYbUdsdTZuTDdVU3poRWVxNktDLWVpNE4ycFF0X0JNMVROenJwWjZBbjF2QjNXUU8wU2lCSTB2YUlSYW9GeExLWlYtSXhIMGZscXl0QWNDYw?oc=5\" target=\"_blank\">– Trolljegerprøven er bare kanonkjekt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
@@ -308,20 +324,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
-    },
-    {
-      "id": 1651,
-      "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
-      "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
-      "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-06T07:26:26+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 38,
-      "is_about_target_brand": true,
-      "company": "BioMar"
     },
     {
       "id": 1644,
@@ -11292,6 +11294,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1678,
+      "headline": "Blodprøvetaking-Kjetil-Skretting-16×9 - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3Jub2Y3bWJUdDQtR3BSRWhpSjdRbGZRUDZxc0Y4R2Y3ZTgwVFVvdGozUklfbi0zUV90MVNQZGp2UkNYTUdfQk16bGI3VGROd3p1RF92b1hSb3NmbHdOX0VadUtHZG95Smkzb2lVVHBVSW80RzlaQnBZekR0MUJzc0Y2S0VCdTI1RHg0UTdwNFVXdU10MmZ3V1RZVFIxcnJBSGZXNkZVa096T3M?oc=5\" target=\"_blank\">Blodprøvetaking-Kjetil-Skretting-16×9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2024-12-15T07:12:04+00:00",
+      "last_seen": "2024-12-15T07:12:04+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 141,
       "headline": "BioMar lanza SmartCare Endurance para liderar la lucha contra SRS - Salmonexpert",
       "story_summary": "BioMar has launched SmartCare Endurance, a new aquaculture feed product designed to help combat Salmon Rickettsial Syndrome (SRS) in farmed salmon. The product launch positions BioMar as a leader in addressing this significant health challenge in the salmon farming industry.",
@@ -12026,6 +12042,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTNpQU5iYW1nemdyM0lSMm5iTUpyX3I1X3VOTEI2eV80WFBraUNCdmhIRGIyeTdPd2JJTldaMThqRzFqeE1UTUVGWTJUMHV5dU5RWUJyWkVnTG40MWR2TG1TdFd1U08yTFd5TEtsLVJKLVNfZnd2cDBQMUpMSzdaVTFjUkh3cnJiTmxaRl9tY0NfZ0ZKbEJSWk5QakQxMlVPY25oMHlRM1JUVm560gG6AUFVX3lxTFBEZEhaWGZiZUduQmV1VzhFX1lOS3Q4VFRpbmhRNTRzRk1KQXVDR0IyalJRR2tPRnRpQ3Q1SW4wLURQR0k2VE93MlhoWk5FR1JUcFBkTDF4STg5QjNlMUw4cTk4b2N4UUVRaDJoRXhSem13TnFKbmdQaWh2RXNVUUVaYjJGeml5clVmbkpWcUU1ZHRBYVQ5WjgybmxiZy1iOVhpTlZDVVdrQTlFY19XSXU1WTYxT2pUdnA2Zw?oc=5\" target=\"_blank\">Lenaïg Richard-Breivik is Corbion's new Business Development Manager</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
       "first_seen": "2024-09-11T07:00:00+00:00",
       "last_seen": "2024-09-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1677,
+      "headline": "“Detente y tómate un Minuto” es el tema central de la nueva versión de la Semana de la Seguridad de Skretting - Diario de Osorno",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVKeGNzWVBsMnRTcy05MEh2VHljWXpGUmRtQmpqU3hJemQyZmdjTUlNcmY2RXpuT1dPNWk0SUc3RkJYSTM2bnpxWjE1eGNNeVZFNk52eXF6OTZudFBka1E5XzNBWE9fQUtHS2VuTThUZWNpSC11WGFlTmktTm5JTHZJdXc5Q05ZUEZkZUtRVTJqR1BvcVBSTzhyMGZab3RZNEdQZkRyZU9SMWlmU051ZklsSW55VmlYdFRNTFVXM1lRNDhOQ3VFYjFxUGJHVURMQ25YajA0b2ZyX1FvbHlac1VUejdrZ1VudW1WLTN0QzB5aTBlRi1hcERUc1pCQQ?oc=5\" target=\"_blank\">“Detente y tómate un Minuto” es el tema central de la nueva versión de la Semana de la Seguridad de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>",
+      "first_seen": "2024-09-09T07:00:00+00:00",
+      "last_seen": "2024-09-09T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -14289,11 +14319,39 @@
       "company": "Cargill"
     },
     {
+      "id": 1676,
+      "headline": "Aslak Skretting gjenvalgt som leder i Norsk Lokalradioforbund - Journalisten",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUUw3bnY2dE5ReHRkdW5yeTlxQ1ZfdE1vYkw2YzJyVUZ6b3lieGNwWlctT2xLRTFCZlJsdUhjZDBTMFlYa3ZDUU0tTTNwQnpqRU9fOW04UmRSeVhKb04yUUZoSF94U1NDWEFKRW9vaWVNQ0JNWWdDdlZPd0NiRUFaeFpfOHIyWGZHQ2FSZ0N5UmVIV0VqaVg1Q1dOMkF0bjFCNUU0QzZBMkI1V2FGRzFNdThlRE1KV1doakhibmR0SjhiY21aMjJTSXotS0MtUS00NkpaQW1Qc2lKN1R1MUd3dmhxZnpUbnJuWlJjRA?oc=5\" target=\"_blank\">Aslak Skretting gjenvalgt som leder i Norsk Lokalradioforbund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journalisten</font>",
+      "first_seen": "2023-07-23T02:36:11+00:00",
+      "last_seen": "2023-07-23T02:36:11+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 556,
       "headline": "Los desafíos del nuevo Product Manager de Dietas de Engorda de Skretting Chile - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQOFk4Y0dHTERwZ2NnN0RnOFB6czVvTlZyMVl1OGNXS0xobjJOQUIzZWM1b1NEMmpnay1HRS1mVVRtSjJwWUFMbXdWZmVxVEVvdk9ZbjRRLUk3WkhObEYxSlVjMGZKUTQ5cmYwS1BHNTNBMUlCRG1hbDNzRktLUmY5aTU4UlJZRzdXUlE1VFItQ1R4c256LWhNNWNhWm9tM2VMcFdEX084dzN4a0JNdnZSdGd3dlNYT2paWXV1bFRTTThTNnQ2R08tVl9fNUZpSnc?oc=5\" target=\"_blank\">Los desafíos del nuevo Product Manager de Dietas de Engorda de Skretting Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2023-07-19T07:00:00+00:00",
       "last_seen": "2023-07-19T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1675,
+      "headline": "Renate Skretting (Kristelig Folkeparti) mener | Valgomat VG – 2023 - VG",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1TcFZWOWFGeGc5bXBsemVmcklscFhuSmsyNnZraDJfYmI4U1JGRi1VbDJEX1NjbW42a25QU0M1TktaSDdPN3MwcFlKNWxSbEhsMDVmWjZHdzB2VzJRSGlkcnlUSU5VQTRHdVlr?oc=5\" target=\"_blank\">Renate Skretting (Kristelig Folkeparti) mener | Valgomat VG – 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VG</font>",
+      "first_seen": "2023-06-29T18:40:54+00:00",
+      "last_seen": "2023-06-29T18:40:54+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -14775,6 +14833,20 @@
         "none"
       ],
       "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1674,
+      "headline": "Landsmøtetale: Beate Skretting - Høyre",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1jR0kzdDk0T3VIdTBBUWpaOVV1b0NjVkp4MVdjYm9vTUJaY0JxbVlrekZCX1lLRi1XNUZPdDBManU0VUtBWndwTjhnTFV2NGpPa3kxVDN1Sm03T2Rra0lwVjdndVR5TXI4VzlzaEF3?oc=5\" target=\"_blank\">Landsmøtetale: Beate Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Høyre</font>",
+      "first_seen": "2023-03-30T07:00:00+00:00",
+      "last_seen": "2023-03-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -15283,6 +15355,34 @@
       "company": "BioMar"
     },
     {
+      "id": 1673,
+      "headline": "Aslak Sommerfelt Skretting er ny konsernsjef for Jærradiogruppen - Medier24",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGhoVU9DNUJNbVZYMTZUcldGcmFQc0xOa05ZOXNzTVFRRFlfd2dEX04zUmZJQ3d2V0VFWFdZTENsS25EbjlXTDRUTkt0UWZZZjkxNXdiRGY3WFNOdFJmdVJfWGU0TFUwaVplVFcwYmpIeWZEb0NlX3Z6MWlaZ2MwLUJ2OVZndlZzckYzUDF4VzhoSGFZSkYzTGtVQnF6VEFrRXRJdU1Qd0R3MllWMWF5QWIyZnlWb1pDM1Y3c3IyRVkzd3M5dHhBLQ?oc=5\" target=\"_blank\">Aslak Sommerfelt Skretting er ny konsernsjef for Jærradiogruppen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medier24</font>",
+      "first_seen": "2022-12-02T08:00:00+00:00",
+      "last_seen": "2022-12-02T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1672,
+      "headline": "Gadus Group og Skretting med langsiktig fôravtale - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXNydEFFcHBsTTZ5cVFNSzVNQjZSSC1zYUJWTEc4TlR6SGRZbnk4dWVTZVBiWkxIRGJId3l2QzZsY0xMZGZlNzJlbU0xNE5XVy1PbHFDUTQ2QUM1b2trYWROdU11QWxwTklLREV1S3hqV0lJeDE3NlFQLXVDVHNlVjJjOTFVS3NrbGVHbEpYdnI1c0FNdEF1MkdnYXI4dHZZVkZCaE1PMA?oc=5\" target=\"_blank\">Gadus Group og Skretting med langsiktig fôravtale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2022-12-01T08:00:00+00:00",
+      "last_seen": "2022-12-01T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1019,
       "headline": "Skretting opens new fish feed factory in Vietnam - SeafoodSource",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3dES1R4Y0hDY2FpOFNfVFdpMWdLM0hKYXJnS0hWRzhlUC02MTI1dzdaRE1oN3ZZc1VZMDBFcGx3SDJGZ0dRd0RReVlBSEZ2WF82SWhPb0lPVEx6VkJCU1VYSXlOMlFWYmZaaTY3VVFfQVYtdGc1T21oQ1Byc1NBLUdhd3Ffb0F5VWdtUEE3ZTc4V0VBQVBycFFRR2VDWWVSLTlEb3RB?oc=5\" target=\"_blank\">Skretting opens new fish feed factory in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
@@ -15370,6 +15470,20 @@
       "id": 1636,
       "headline": "Skretting opens new $24m fish feed plant in Vietnam - Undercurrent News",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWF9RWl83X1k2MTBLcDdjQ2JJaXdhWVY2SUdGM3U4VU1JcHd6aDAtc3NjMFRqZXpaTGJONEJCTmgxcU9JYzhzTGVuc0NGVU13R0draEVBaXdlcjBvOHRRMDh4QWVwRnhGcFdOWUNTY2FlNTVCNDg4aFZLM09Bc1RfYnhlZWZNbW5kWmNOWDNNbktqaXg1MWZ4UHI4SQ?oc=5\" target=\"_blank\">Skretting opens new $24m fish feed plant in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
+      "first_seen": "2022-11-21T08:00:00+00:00",
+      "last_seen": "2022-11-21T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1671,
+      "headline": "Gigante Salmon og Skretting har inngått en strategisk samarbeidsavtale for det landbaserte anlegget i Rødøy - Rana Blad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVm9kSXg2bDRncVVjTHhKdHQ4UWtCRm9USS05Mm9kRE11VUY4aHROMnY1VkhkX3FWUzV2d0JPOHlMYzFjNkdYaDZ6NW42Y0dibVNacDRpWnJqd25DRlBOVWg1dkZOMEdkMzB0X2hTZWNtTkRGMmlqVlNmZG1pWWRGdFVMdjJhSGt2ODdEVzZHdTN0el9URjh2Z1BpWWlvQ3ozRzR0TkNBMGt2c3N1a214SVg4ZFI4MGh6a0NndTBUM1dsNWJGYjBTc0p3THZoSVBUOHJzSGlTM3FTLWV6UjZJ?oc=5\" target=\"_blank\">Gigante Salmon og Skretting har inngått en strategisk samarbeidsavtale for det landbaserte anlegget i Rødøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rana Blad</font>",
       "first_seen": "2022-11-21T08:00:00+00:00",
       "last_seen": "2022-11-21T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -16529,6 +16643,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1670,
+      "headline": "Aslak Skretting gjenvalgt som leder av Norsk Lokalradioforbund - Medier24",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjA0dDVTeWVZbG1QZV8yRldZNm9rQk4yQzg5c3NobVotUXBMRGFncXFqQmd2Q1BIeWZaRnNXajZod0hTRW5QUFZSUFR5cVZDMWZWbThSMDdFTW85NUZwZllha3h0eGpzTGhnQ0ZlVTZld09DYkpudkN0M0ZjUjQ2cjk2eVMtU2o2elVmSVFZRkpUR2N5M2xaOGJybU5OaElqMHM1cVlhbkdDXzZQOFptMl9JMk9DOGFwaEMyaHNXMHRidw?oc=5\" target=\"_blank\">Aslak Skretting gjenvalgt som leder av Norsk Lokalradioforbund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medier24</font>",
+      "first_seen": "2022-03-14T07:00:00+00:00",
+      "last_seen": "2022-03-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 510,
       "headline": "Nutreco and Skretting release new policy for responsibly sourcing marine feed ingredients - Global Seafood Alliance",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVRlZEJzU2RYZ2UxZFRlUmNYTk1QZ3Q1UjE2YjFhZ3YxMVl0YU05dXp0bjVwd0l2dGFYcTBnaDRKWTk5SmJuMlJqbm83REwtNXpDMEJHb1lpR2RLbHdhUjVUbGRJSGx4US1HdW9JWFFyT1hsYjFoenZpano1NUdtbXJUWGJUQzNyM0Z3b2NhTWVvcGd5VHNDalA0YkJ3V0JycVNXTklsVU91bl9iSXRpbV93TzVsbjgtNGNVdGdSVFFPSWl3WUdXNQ?oc=5\" target=\"_blank\">Nutreco and Skretting release new policy for responsibly sourcing marine feed ingredients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>",
@@ -16823,6 +16951,20 @@
       "company": "BioMar"
     },
     {
+      "id": 502,
+      "headline": "Skretting vil bygge fôrfabrikk i Florida. Inngår tiårig avtale med Atlantic Sapphire - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHdma2hka0hTNGRGRUNGVXN3bV9WM1BFWk9pR25oMUd4QVc4NkZpUmRTZHUybGlEemY1MDY1SkNBOXI2eUF2Y2xOYXdwTFZPODhjMWRZVWt6aEdYbHhWRHIxc1J6YXNRbzdtelhGTmhkeGpZWHR0V0k4V0FmZk5xVnhUWVFBT3lSX2RRS3Vydk5Gc29GTHFyOG9lTFdzVXlBdGRF?oc=5\" target=\"_blank\">Skretting vil bygge fôrfabrikk i Florida. Inngår tiårig avtale med Atlantic Sapphire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2021-11-10T08:00:00+00:00",
+      "last_seen": "2021-11-11T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 934,
       "headline": "Skretting construirá planta de alimentos para abastecer a productor terrestre de salmón - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSmFPQXB2UXBCV2QwTDMtMVRCMGZwa1JqSlZ5OG5nNWRDWlltYU9yZ085MlBnZkNPVkpYV0pGa3FPYkU5WFFKQmNIUTFyUHh4OFBFUGlUblNodE5sanFsOHJiSXFhX01ONFE2SHI3Tk8xZm1CVHZSZlI4cmFoNG9BbkRJRjNYbkhwLUJCQ3dKMHpTMDhKNG15R1Noby1QSUw1VHpVNU5CX2FlN083aXA0N0xYSnBXU2VFMWZHSEdjRkJpT0ZzT0EyXzZLRGNfOWtlU3ZKVmE4eHpsMDdIcmlrTXZoMU1UbkhwaVE?oc=5\" target=\"_blank\">Skretting construirá planta de alimentos para abastecer a productor terrestre de salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -16856,20 +16998,6 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWJ6eFhKa0RmTUc2YUgwaWVPWS1NYTZ4T0p6X0tPM1hXUkkzRHdIcldOU2V5NXhtLVVKVENTTTdDaDd4cE1lWkVVY3RMc2pzWkZVanNEbG5ZTHA2dHhITXhyZy1ScmItYXY1eVRnbjVoLTQxT18tbkVoVkpFenQzRGpxQTNRX2FxMkhBWXpjRF9MZkVkeDhKcmtJdkhIYlVXVkI5N1JLQ0hMMGhCWjk3aVlEWnhST0R3Q2h5OTZQSHVhY25fTWZick53?oc=5\" target=\"_blank\">Tor Helge Skretting er fylkesvinner til prisen Årets ildsjel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
       "first_seen": "2021-11-11T08:00:00+00:00",
       "last_seen": "2021-11-11T08:00:00+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "Skretting"
-    },
-    {
-      "id": 502,
-      "headline": "Skretting vil bygge fôrfabrikk i Florida. Inngår tiårig avtale med Atlantic Sapphire - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHdma2hka0hTNGRGRUNGVXN3bV9WM1BFWk9pR25oMUd4QVc4NkZpUmRTZHUybGlEemY1MDY1SkNBOXI2eUF2Y2xOYXdwTFZPODhjMWRZVWt6aEdYbHhWRHIxc1J6YXNRbzdtelhGTmhkeGpZWHR0V0k4V0FmZk5xVnhUWVFBT3lSX2RRS3Vydk5Gc29GTHFyOG9lTFdzVXlBdGRF?oc=5\" target=\"_blank\">Skretting vil bygge fôrfabrikk i Florida. Inngår tiårig avtale med Atlantic Sapphire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
-      "first_seen": "2021-11-10T08:00:00+00:00",
-      "last_seen": "2021-11-10T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -18519,6 +18647,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1669,
+      "headline": "Kultur, Forfatter | Tobias Skretting er død - Jærbladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRMlJ0X1FOdW03M3hCLWZmTlZNZ01keVVpWXBsQWxOSkVXa0pXenR0QXdEbHQwclVBS2ZNRE5TZjZ5aHhHYW5qdmM3ZHd1aEZzODRFbWNneHZOVm9oVWl0aWVfQVU3STI4?oc=5\" target=\"_blank\">Kultur, Forfatter | Tobias Skretting er død</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
+      "first_seen": "2020-03-15T07:00:00+00:00",
+      "last_seen": "2020-03-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 39,
       "headline": "Rekordresultat for BioMar - iLaks",
       "story_summary": "BioMar reports record results for the period covered in this financial announcement. The article highlights strong performance metrics for the aquaculture feed producer.",
@@ -19086,6 +19228,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVnBBZlpZa09rZGJhbVVieVVERlF0TE5VbzExQjg4RU55WlE4a0xnQlhvT2NXWWRKUVJzLWpfdHkxS2VfdjVQSG5adVhTYlNNcVN2MHdsMmYtQ2RSRkMxRlZkc3hfS2FBellFSC1rZ3NteTBVbWlGNjhicHhPSVBNM0hjc1pwUDZocFB4dVlHUGtNSjRra2luOTcxczhRV2swZXlQSzZvOHBrWjBZYkFJaVZvS0s3Ym1ZVFpFaVB1cUZQeHFNcVNudFFfbGNuQ0dGR2RuLWtuN3Q?oc=5\" target=\"_blank\">Skretting acompaña a profesionales de Blumar en gira técnica por Noruega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2019-07-05T07:00:00+00:00",
       "last_seen": "2019-07-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1668,
+      "headline": "Minneord, Bjerkreim | Gaute Skretting til minne - Dalane Tidende",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10dVpUWWt0M2tBTWozdlA0djFVUkRsWjZDUF9RTjhlRVNOY1ZaS0RwT3d4Um9BZVZlRUNoeTEwZ3JFSVZTUHVFSEpXcGxWbW11UkFPRjRDbGVsSDRLV3NuN0NrWGVoUW5maGlweWh3V09jWjdyYzFBQ2tR?oc=5\" target=\"_blank\">Minneord, Bjerkreim | Gaute Skretting til minne</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dalane Tidende</font>",
+      "first_seen": "2019-06-14T07:00:00+00:00",
+      "last_seen": "2019-06-14T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -20117,6 +20273,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1667,
+      "headline": "Nyansatt i Skretting - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5qeHFERS1SdkFkbXRNZXBweUNOUEFtTVpxekFPbHc5VHRlc1F5RzZDdGZIU2ZvcTRGd2NNTzN6QW1XUi0zcHFVUXBwVEpDWFlQblBnX0p1RXFtSzczckVDYS1UNlBnLWt4UmJSWTRPTQ?oc=5\" target=\"_blank\">Nyansatt i Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2018-06-04T07:00:00+00:00",
+      "last_seen": "2018-06-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1482,
       "headline": "Nuevo gerente de Intesal visitó planta acuícola de Skretting, la única con puerto propio en Pargua - Mundo Marítimo",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2hoTFZ4Qk5PXzY5Y254UkQ0bkM4NVN5V3FTbjYxNmFQeHBVUUxSbEF1U2EtNGNJM2Y5VmZkd05MU1QxYTNWT1FEenB1OUc5VjRNUl83aU9EdXFkd3BtMXM1al9tTUNFUUVSTVFhZEdmVmwybnVSTk10RW9kYkJkb0h3ZDZOZ2NBLVBITWJlOXNzdUNiV0VITEV4ZmIwN2VyMU1hTHBORUJjYUMyQy1OYTYzOXRVdmdXUHRtSUlpVjdBb0ZIeDZhUVVvbnkxckV2?oc=5\" target=\"_blank\">Nuevo gerente de Intesal visitó planta acuícola de Skretting, la única con puerto propio en Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundo Marítimo</font>",
@@ -20542,6 +20712,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVTZ6NUN1TWtORTZGemV3MDI1MW1zWFRqNDlIZzRvVVJnNDdpdHNsNWhpdXdCRE1UVGdlVk1jWGl3MzlvS3BYMzhTTGF5dDJjN2ZqYm50ZkgzdEdMUTYwcUpSTWZiako3WEJXSTVBWWVQbm01Zkowdy1nSVNQb3lGcmRXQm1CdDVNN0t6LWtkVUFlQTYzTTVzcVhobW12OXdGcHJraFJOaC1sYkFmal91eWdzY2VYN0JhdG1QTVpmUFU0cWxPSVhR?oc=5\" target=\"_blank\">CEO de Nutreco y nueva directora de Skretting visitaron Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2018-01-12T08:00:00+00:00",
       "last_seen": "2018-01-12T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1666,
+      "headline": "Skretting Norge ansetter ny produktsjef vekstfôr - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE81Wl9iSERLUkF4dEJkcUhlX21xX1pfX0I3Skd1bW9Gc0JGd2lwSkczY1RuNXpTbnF1TmhMdnNReXg4eFQzbDV2b0UxaG1iMmluZDhYaERfQkN0RU53cXVfN1RDX0JHVWRYQ0xvdQ?oc=5\" target=\"_blank\">Skretting Norge ansetter ny produktsjef vekstfôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2018-01-11T08:00:00+00:00",
+      "last_seen": "2018-01-11T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -21139,6 +21323,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1665,
+      "headline": "Skretting styrket med tre nyansettelser innen fiskehelse - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVlhWllxSFo3SkZPa2oxMElMUGhrb3B3S0NnTG5ZcmFkT3JlQ1AtOHNzYV9DMUtBY0hGVHNKNlBBOHh2b3BfRXVXZ0tlOEZlZm92N0Z2b3RHUGEwSHgtcG5OeVJXcmgzYVVta1BQUUROMXFfQURqWVpPOUhMU1ZxeTFIdWwtNDZ4LVVJdW44S0tzczRla3hCamZXT2tlSlp3V2dHV004T1YzNnUxNS1jajJJOG5HU1JEb01SWWh4b1g?oc=5\" target=\"_blank\">Skretting styrket med tre nyansettelser innen fiskehelse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2017-05-15T07:00:00+00:00",
+      "last_seen": "2017-05-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1067,
       "headline": "Galleros colombianos comprometidos contra el Newcastle - WATTPoultry.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVjB4N1RmU2pXaV9ubWcxdkZRWndZN185UllBeU8tNFRIWUlraGVtREtTVkRfNUVQMXNnSThJQ0t1RHhEUXBzMnFXOGhGWXJiaGk5OVVRbTM1R1NLek5uSFhRY2s4MFBzUVdtems0ampHU3daREFUNGJKSkctVGx0R09SRXhfOGhlTnE3RHN3S1poMWtSV0hZTkhxd20yRTUxNFVMYW1oUTcyQlB5aEVocEtBVENUREVNZmVfUzNER1NfQQ?oc=5\" target=\"_blank\">Galleros colombianos comprometidos contra el Newcastle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WATTPoultry.com</font>",
@@ -21221,6 +21419,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 1664,
+      "headline": "Kathrine Skretting blir ny ansatt rektor i Innlandet - Khrono",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0hNWXJldDYxdE82czdWNTdwbUlIdjdWTWtONHVpT1QzRVRUM3Zjd084X0x5SWtuT3FWSGZINWxUcWVuaUEwWlVvVlVWMnZVM1psbjIxd1lRUGFjaWxxLVdPenZscFZINVJQWTJDVjVxU0lGZ1VMQTI5VWxxOW90Zzc1dXdHXzFpMjhlenY0ekpEWFlfZzZ3QzdRTThrNkowbmdCalE1cnlGcEVF?oc=5\" target=\"_blank\">Kathrine Skretting blir ny ansatt rektor i Innlandet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Khrono</font>",
+      "first_seen": "2017-03-24T07:00:00+00:00",
+      "last_seen": "2017-03-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 14,
@@ -21529,6 +21741,20 @@
       "pickup_count": 1,
       "is_about_target_brand": false,
       "company": "BioMar"
+    },
+    {
+      "id": 1663,
+      "headline": "Skretting solgte fiskefôr for 5,9 milliarder i Norge i fjor - E24",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjF0MzRObkhrTWp3VndqV3ZIQmE2cU1nTlU4UmQ2T2hMMmx2eXRTVTBWdnFyRkVmVWY2bW5mZjYtN3E0TGoyNUlnSFdFLVVvc2dmTnc5VFJvY2pqVnJjSkN1TUdHdHlTeWYyZE5HWmd3U0kzR0FvSHJLR2hiZTluVS1DT3VveEtaaGFEOUV0Vks4cEN2djhiNjZJc01zM1k?oc=5\" target=\"_blank\">Skretting solgte fiskefôr for 5,9 milliarder i Norge i fjor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E24</font>",
+      "first_seen": "2016-07-29T07:00:00+00:00",
+      "last_seen": "2016-07-29T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 424,
@@ -21891,6 +22117,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1662,
+      "headline": "Skretting forsterker satsing på rensefisk - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFByNzRQZEhBQkNsdXBwWURYaVBTLW8zZHFyU2EzRVF5LWw0NmFxQWxzdzBSSVZEVFJjbFctTzhwaEI1RGpUcUdJbmhSc0Z2OHdDVzZBUHU3SkF0OE1CWTRoZTBub1RSdVZINHhN?oc=5\" target=\"_blank\">Skretting forsterker satsing på rensefisk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2015-12-22T08:00:00+00:00",
+      "last_seen": "2015-12-22T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -22342,6 +22582,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1661,
+      "headline": "BioMar lanza la dieta de recirculación Orbit - Salmonexpert",
+      "story_summary": "BioMar announced the launch of ORBIT, a new diet formulated for recirculation aquaculture systems. The product represents an expansion of BioMar's feed portfolio for specialized production environments.",
+      "first_seen": "2015-03-10T07:00:00+00:00",
+      "last_seen": "2015-03-10T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1626,
@@ -69978,6 +70232,512 @@
         "none"
       ],
       "summary": "TradingView displays operating margin percentage data for BioMar Group A/S (ticker: MUN:2IT). The article is a financial dashboard entry presenting performance metrics without editorial commentary or analysis."
+    },
+    {
+      "id": 157485,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUFA0dFptTVRNaHRCcEFtSzEtM2ppTDFpN0xrNWdYYmJNclhQNGltRzJILUU0LUFRV1EwSEc1MW1rcHRnbEpDMnJYa2RmejFLeWt0LTFtZHluNGNFWk1HeXdhb2hHQzhuY3paSHBpaFh5WWtxN3pKczBLemdTZWRqU05fcnU5UjVtdHJILTZfMG1TcHQ2?oc=5",
+      "title": "Margen EBITDA % de BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-06T11:26:28+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric tracking for BioMar Group's EBITDA margin.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView presents EBITDA margin percentage data for BioMar Group A/S (ticker: MUN:2IT). The article is a financial metrics page with no narrative content or claims beyond displaying the indicator itself."
+    },
+    {
+      "id": 157583,
+      "story_id": 1661,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWRBMjE0VHRhaTl6dWdBTGl2aTRXWkhmSXJDMm1KdWk4WFZleXpmZnhHSk5JOWpaUldLQ1dINmMwbkNtUjB4bTRtV0UyYXJJRGM4LTd6Z0txazBNbmNNdHVJTmF3MHlFYlhhaEp1NU4zVkF5Mi1UODNPYnhaeEMtbENQMHdjMWVuRk5hblYwc1M?oc=5",
+      "title": "BioMar lanza la dieta de recirculación Orbit - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2015-03-10T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar launches new aquaculture recirculation diet product",
+      "key_claims": [
+        "BioMar launched ORBIT, a recirculation diet for aquaculture"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar announced the launch of ORBIT, a new diet formulated for recirculation aquaculture systems. The product represents an expansion of BioMar's feed portfolio for specialized production environments."
+    },
+    {
+      "id": 157877,
+      "story_id": 1673,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGhoVU9DNUJNbVZYMTZUcldGcmFQc0xOa05ZOXNzTVFRRFlfd2dEX04zUmZJQ3d2V0VFWFdZTENsS25EbjlXTDRUTkt0UWZZZjkxNXdiRGY3WFNOdFJmdVJfWGU0TFUwaVplVFcwYmpIeWZEb0NlX3Z6MWlaZ2MwLUJ2OVZndlZzckYzUDF4VzhoSGFZSkYzTGtVQnF6VEFrRXRJdU1Qd0R3MllWMWF5QWIyZnlWb1pDM1Y3c3IyRVkzd3M5dHhBLQ?oc=5",
+      "title": "Aslak Sommerfelt Skretting er ny konsernsjef for Jærradiogruppen - Medier24",
+      "source_name": "Medier24",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-12-02T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGhoVU9DNUJNbVZYMTZUcldGcmFQc0xOa05ZOXNzTVFRRFlfd2dEX04zUmZJQ3d2V0VFWFdZTENsS25EbjlXTDRUTkt0UWZZZjkxNXdiRGY3WFNOdFJmdVJfWGU0TFUwaVplVFcwYmpIeWZEb0NlX3Z6MWlaZ2MwLUJ2OVZndlZzckYzUDF4VzhoSGFZSkYzTGtVQnF6VEFrRXRJdU1Qd0R3MllWMWF5QWIyZnlWb1pDM1Y3c3IyRVkzd3M5dHhBLQ?oc=5\" target=\"_blank\">Aslak Sommerfelt Skretting er ny konsernsjef for Jærradiogruppen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medier24</font>"
+    },
+    {
+      "id": 157878,
+      "story_id": 1666,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81Wl9iSERLUkF4dEJkcUhlX21xX1pfX0I3Skd1bW9Gc0JGd2lwSkczY1RuNXpTbnF1TmhMdnNReXg4eFQzbDV2b0UxaG1iMmluZDhYaERfQkN0RU53cXVfN1RDX0JHVWRYQ0xvdQ?oc=5",
+      "title": "Skretting Norge ansetter ny produktsjef vekstfôr - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-01-11T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE81Wl9iSERLUkF4dEJkcUhlX21xX1pfX0I3Skd1bW9Gc0JGd2lwSkczY1RuNXpTbnF1TmhMdnNReXg4eFQzbDV2b0UxaG1iMmluZDhYaERfQkN0RU53cXVfN1RDX0JHVWRYQ0xvdQ?oc=5\" target=\"_blank\">Skretting Norge ansetter ny produktsjef vekstfôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 157880,
+      "story_id": 1673,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkdnajNKcDIxNDhraTFvTHhLSW1RTUJob3NSVU1HYUZVRlJfS1Z5VFpNX2NILU4ySkpWbVVCNUJyMlAtbmZ2by1FWkVYamZKVW91SU0xOFc3U0lTWE5qVmFhQWU3VW1EdGIzQ1VUcFAzV1pUOFdfTE84SjRyUDNNZ2VDOVVrM1dvbGRPMXhSVm9YcVFkWUlQMnV4bHVqdFBLaFE?oc=5",
+      "title": "Aslak Sommerfelt Skretting er ny konsernsjef for Jærradiogruppen - Journalisten",
+      "source_name": "Journalisten",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-12-02T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkdnajNKcDIxNDhraTFvTHhLSW1RTUJob3NSVU1HYUZVRlJfS1Z5VFpNX2NILU4ySkpWbVVCNUJyMlAtbmZ2by1FWkVYamZKVW91SU0xOFc3U0lTWE5qVmFhQWU3VW1EdGIzQ1VUcFAzV1pUOFdfTE84SjRyUDNNZ2VDOVVrM1dvbGRPMXhSVm9YcVFkWUlQMnV4bHVqdFBLaFE?oc=5\" target=\"_blank\">Aslak Sommerfelt Skretting er ny konsernsjef for Jærradiogruppen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journalisten</font>"
+    },
+    {
+      "id": 157882,
+      "story_id": 1676,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUUw3bnY2dE5ReHRkdW5yeTlxQ1ZfdE1vYkw2YzJyVUZ6b3lieGNwWlctT2xLRTFCZlJsdUhjZDBTMFlYa3ZDUU0tTTNwQnpqRU9fOW04UmRSeVhKb04yUUZoSF94U1NDWEFKRW9vaWVNQ0JNWWdDdlZPd0NiRUFaeFpfOHIyWGZHQ2FSZ0N5UmVIV0VqaVg1Q1dOMkF0bjFCNUU0QzZBMkI1V2FGRzFNdThlRE1KV1doakhibmR0SjhiY21aMjJTSXotS0MtUS00NkpaQW1Qc2lKN1R1MUd3dmhxZnpUbnJuWlJjRA?oc=5",
+      "title": "Aslak Skretting gjenvalgt som leder i Norsk Lokalradioforbund - Journalisten",
+      "source_name": "Journalisten",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-07-23T02:36:11+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUUw3bnY2dE5ReHRkdW5yeTlxQ1ZfdE1vYkw2YzJyVUZ6b3lieGNwWlctT2xLRTFCZlJsdUhjZDBTMFlYa3ZDUU0tTTNwQnpqRU9fOW04UmRSeVhKb04yUUZoSF94U1NDWEFKRW9vaWVNQ0JNWWdDdlZPd0NiRUFaeFpfOHIyWGZHQ2FSZ0N5UmVIV0VqaVg1Q1dOMkF0bjFCNUU0QzZBMkI1V2FGRzFNdThlRE1KV1doakhibmR0SjhiY21aMjJTSXotS0MtUS00NkpaQW1Qc2lKN1R1MUd3dmhxZnpUbnJuWlJjRA?oc=5\" target=\"_blank\">Aslak Skretting gjenvalgt som leder i Norsk Lokalradioforbund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journalisten</font>"
+    },
+    {
+      "id": 157883,
+      "story_id": 1674,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jR0kzdDk0T3VIdTBBUWpaOVV1b0NjVkp4MVdjYm9vTUJaY0JxbVlrekZCX1lLRi1XNUZPdDBManU0VUtBWndwTjhnTFV2NGpPa3kxVDN1Sm03T2Rra0lwVjdndVR5TXI4VzlzaEF3?oc=5",
+      "title": "Landsmøtetale: Beate Skretting - Høyre",
+      "source_name": "Høyre",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-03-30T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1jR0kzdDk0T3VIdTBBUWpaOVV1b0NjVkp4MVdjYm9vTUJaY0JxbVlrekZCX1lLRi1XNUZPdDBManU0VUtBWndwTjhnTFV2NGpPa3kxVDN1Sm03T2Rra0lwVjdndVR5TXI4VzlzaEF3?oc=5\" target=\"_blank\">Landsmøtetale: Beate Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Høyre</font>"
+    },
+    {
+      "id": 157886,
+      "story_id": 1663,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjF0MzRObkhrTWp3VndqV3ZIQmE2cU1nTlU4UmQ2T2hMMmx2eXRTVTBWdnFyRkVmVWY2bW5mZjYtN3E0TGoyNUlnSFdFLVVvc2dmTnc5VFJvY2pqVnJjSkN1TUdHdHlTeWYyZE5HWmd3U0kzR0FvSHJLR2hiZTluVS1DT3VveEtaaGFEOUV0Vks4cEN2djhiNjZJc01zM1k?oc=5",
+      "title": "Skretting solgte fiskefôr for 5,9 milliarder i Norge i fjor - E24",
+      "source_name": "E24",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2016-07-29T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjF0MzRObkhrTWp3VndqV3ZIQmE2cU1nTlU4UmQ2T2hMMmx2eXRTVTBWdnFyRkVmVWY2bW5mZjYtN3E0TGoyNUlnSFdFLVVvc2dmTnc5VFJvY2pqVnJjSkN1TUdHdHlTeWYyZE5HWmd3U0kzR0FvSHJLR2hiZTluVS1DT3VveEtaaGFEOUV0Vks4cEN2djhiNjZJc01zM1k?oc=5\" target=\"_blank\">Skretting solgte fiskefôr for 5,9 milliarder i Norge i fjor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E24</font>"
+    },
+    {
+      "id": 157888,
+      "story_id": 1662,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByNzRQZEhBQkNsdXBwWURYaVBTLW8zZHFyU2EzRVF5LWw0NmFxQWxzdzBSSVZEVFJjbFctTzhwaEI1RGpUcUdJbmhSc0Z2OHdDVzZBUHU3SkF0OE1CWTRoZTBub1RSdVZINHhN?oc=5",
+      "title": "Skretting forsterker satsing på rensefisk - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2015-12-22T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFByNzRQZEhBQkNsdXBwWURYaVBTLW8zZHFyU2EzRVF5LWw0NmFxQWxzdzBSSVZEVFJjbFctTzhwaEI1RGpUcUdJbmhSc0Z2OHdDVzZBUHU3SkF0OE1CWTRoZTBub1RSdVZINHhN?oc=5\" target=\"_blank\">Skretting forsterker satsing på rensefisk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 157889,
+      "story_id": 502,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT18tcmdEdFpuaTd4Q2pXTWlSR0prUlU3VGlfSG1RYlZFQlBFSkRHN296S1djNEY1UGRROWhHRmtHZDRtal8yOHR1YlZDekJWNktPZmFVTWV0ZGRaVjJ5SzB2WUIyTVctaGNzYjJLeTlndmhzdDhvU2JtVTJFWFVjc0M2LU1EWVJRUnJpTDMxNVJpdmlIOURWd1lZS2d0UzRKS3pjMG9peVY2R2F4dWJqQ3pBYmZBcHY1?oc=5",
+      "title": "Skretting bygger fôrfabrikk for å betjene Atlantic Sapphire - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2021-11-11T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT18tcmdEdFpuaTd4Q2pXTWlSR0prUlU3VGlfSG1RYlZFQlBFSkRHN296S1djNEY1UGRROWhHRmtHZDRtal8yOHR1YlZDekJWNktPZmFVTWV0ZGRaVjJ5SzB2WUIyTVctaGNzYjJLeTlndmhzdDhvU2JtVTJFWFVjc0M2LU1EWVJRUnJpTDMxNVJpdmlIOURWd1lZS2d0UzRKS3pjMG9peVY2R2F4dWJqQ3pBYmZBcHY1?oc=5\" target=\"_blank\">Skretting bygger fôrfabrikk for å betjene Atlantic Sapphire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 157891,
+      "story_id": 1671,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVm9kSXg2bDRncVVjTHhKdHQ4UWtCRm9USS05Mm9kRE11VUY4aHROMnY1VkhkX3FWUzV2d0JPOHlMYzFjNkdYaDZ6NW42Y0dibVNacDRpWnJqd25DRlBOVWg1dkZOMEdkMzB0X2hTZWNtTkRGMmlqVlNmZG1pWWRGdFVMdjJhSGt2ODdEVzZHdTN0el9URjh2Z1BpWWlvQ3ozRzR0TkNBMGt2c3N1a214SVg4ZFI4MGh6a0NndTBUM1dsNWJGYjBTc0p3THZoSVBUOHJzSGlTM3FTLWV6UjZJ?oc=5",
+      "title": "Gigante Salmon og Skretting har inngått en strategisk samarbeidsavtale for det landbaserte anlegget i Rødøy - Rana Blad",
+      "source_name": "Rana Blad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-11-21T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVm9kSXg2bDRncVVjTHhKdHQ4UWtCRm9USS05Mm9kRE11VUY4aHROMnY1VkhkX3FWUzV2d0JPOHlMYzFjNkdYaDZ6NW42Y0dibVNacDRpWnJqd25DRlBOVWg1dkZOMEdkMzB0X2hTZWNtTkRGMmlqVlNmZG1pWWRGdFVMdjJhSGt2ODdEVzZHdTN0el9URjh2Z1BpWWlvQ3ozRzR0TkNBMGt2c3N1a214SVg4ZFI4MGh6a0NndTBUM1dsNWJGYjBTc0p3THZoSVBUOHJzSGlTM3FTLWV6UjZJ?oc=5\" target=\"_blank\">Gigante Salmon og Skretting har inngått en strategisk samarbeidsavtale for det landbaserte anlegget i Rødøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rana Blad</font>"
+    },
+    {
+      "id": 157892,
+      "story_id": 1669,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRMlJ0X1FOdW03M3hCLWZmTlZNZ01keVVpWXBsQWxOSkVXa0pXenR0QXdEbHQwclVBS2ZNRE5TZjZ5aHhHYW5qdmM3ZHd1aEZzODRFbWNneHZOVm9oVWl0aWVfQVU3STI4?oc=5",
+      "title": "Kultur, Forfatter | Tobias Skretting er død - Jærbladet",
+      "source_name": "Jærbladet",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-03-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRMlJ0X1FOdW03M3hCLWZmTlZNZ01keVVpWXBsQWxOSkVXa0pXenR0QXdEbHQwclVBS2ZNRE5TZjZ5aHhHYW5qdmM3ZHd1aEZzODRFbWNneHZOVm9oVWl0aWVfQVU3STI4?oc=5\" target=\"_blank\">Kultur, Forfatter | Tobias Skretting er død</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>"
+    },
+    {
+      "id": 157894,
+      "story_id": 1667,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qeHFERS1SdkFkbXRNZXBweUNOUEFtTVpxekFPbHc5VHRlc1F5RzZDdGZIU2ZvcTRGd2NNTzN6QW1XUi0zcHFVUXBwVEpDWFlQblBnX0p1RXFtSzczckVDYS1UNlBnLWt4UmJSWTRPTQ?oc=5",
+      "title": "Nyansatt i Skretting - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-06-04T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5qeHFERS1SdkFkbXRNZXBweUNOUEFtTVpxekFPbHc5VHRlc1F5RzZDdGZIU2ZvcTRGd2NNTzN6QW1XUi0zcHFVUXBwVEpDWFlQblBnX0p1RXFtSzczckVDYS1UNlBnLWt4UmJSWTRPTQ?oc=5\" target=\"_blank\">Nyansatt i Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 157898,
+      "story_id": 1664,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0hNWXJldDYxdE82czdWNTdwbUlIdjdWTWtONHVpT1QzRVRUM3Zjd084X0x5SWtuT3FWSGZINWxUcWVuaUEwWlVvVlVWMnZVM1psbjIxd1lRUGFjaWxxLVdPenZscFZINVJQWTJDVjVxU0lGZ1VMQTI5VWxxOW90Zzc1dXdHXzFpMjhlenY0ekpEWFlfZzZ3QzdRTThrNkowbmdCalE1cnlGcEVF?oc=5",
+      "title": "Kathrine Skretting blir ny ansatt rektor i Innlandet - Khrono",
+      "source_name": "Khrono",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-03-24T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0hNWXJldDYxdE82czdWNTdwbUlIdjdWTWtONHVpT1QzRVRUM3Zjd084X0x5SWtuT3FWSGZINWxUcWVuaUEwWlVvVlVWMnZVM1psbjIxd1lRUGFjaWxxLVdPenZscFZINVJQWTJDVjVxU0lGZ1VMQTI5VWxxOW90Zzc1dXdHXzFpMjhlenY0ekpEWFlfZzZ3QzdRTThrNkowbmdCalE1cnlGcEVF?oc=5\" target=\"_blank\">Kathrine Skretting blir ny ansatt rektor i Innlandet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Khrono</font>"
+    },
+    {
+      "id": 157899,
+      "story_id": 1668,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10dVpUWWt0M2tBTWozdlA0djFVUkRsWjZDUF9RTjhlRVNOY1ZaS0RwT3d4Um9BZVZlRUNoeTEwZ3JFSVZTUHVFSEpXcGxWbW11UkFPRjRDbGVsSDRLV3NuN0NrWGVoUW5maGlweWh3V09jWjdyYzFBQ2tR?oc=5",
+      "title": "Minneord, Bjerkreim | Gaute Skretting til minne - Dalane Tidende",
+      "source_name": "Dalane Tidende",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-06-14T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10dVpUWWt0M2tBTWozdlA0djFVUkRsWjZDUF9RTjhlRVNOY1ZaS0RwT3d4Um9BZVZlRUNoeTEwZ3JFSVZTUHVFSEpXcGxWbW11UkFPRjRDbGVsSDRLV3NuN0NrWGVoUW5maGlweWh3V09jWjdyYzFBQ2tR?oc=5\" target=\"_blank\">Minneord, Bjerkreim | Gaute Skretting til minne</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dalane Tidende</font>"
+    },
+    {
+      "id": 157900,
+      "story_id": 1672,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXNydEFFcHBsTTZ5cVFNSzVNQjZSSC1zYUJWTEc4TlR6SGRZbnk4dWVTZVBiWkxIRGJId3l2QzZsY0xMZGZlNzJlbU0xNE5XVy1PbHFDUTQ2QUM1b2trYWROdU11QWxwTklLREV1S3hqV0lJeDE3NlFQLXVDVHNlVjJjOTFVS3NrbGVHbEpYdnI1c0FNdEF1MkdnYXI4dHZZVkZCaE1PMA?oc=5",
+      "title": "Gadus Group og Skretting med langsiktig fôravtale - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-12-01T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXNydEFFcHBsTTZ5cVFNSzVNQjZSSC1zYUJWTEc4TlR6SGRZbnk4dWVTZVBiWkxIRGJId3l2QzZsY0xMZGZlNzJlbU0xNE5XVy1PbHFDUTQ2QUM1b2trYWROdU11QWxwTklLREV1S3hqV0lJeDE3NlFQLXVDVHNlVjJjOTFVS3NrbGVHbEpYdnI1c0FNdEF1MkdnYXI4dHZZVkZCaE1PMA?oc=5\" target=\"_blank\">Gadus Group og Skretting med langsiktig fôravtale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 157901,
+      "story_id": 1675,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TcFZWOWFGeGc5bXBsemVmcklscFhuSmsyNnZraDJfYmI4U1JGRi1VbDJEX1NjbW42a25QU0M1TktaSDdPN3MwcFlKNWxSbEhsMDVmWjZHdzB2VzJRSGlkcnlUSU5VQTRHdVlr?oc=5",
+      "title": "Renate Skretting (Kristelig Folkeparti) mener | Valgomat VG – 2023 - VG",
+      "source_name": "VG",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-06-29T18:40:54+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1TcFZWOWFGeGc5bXBsemVmcklscFhuSmsyNnZraDJfYmI4U1JGRi1VbDJEX1NjbW42a25QU0M1TktaSDdPN3MwcFlKNWxSbEhsMDVmWjZHdzB2VzJRSGlkcnlUSU5VQTRHdVlr?oc=5\" target=\"_blank\">Renate Skretting (Kristelig Folkeparti) mener | Valgomat VG – 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VG</font>"
+    },
+    {
+      "id": 157902,
+      "story_id": 1678,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3Jub2Y3bWJUdDQtR3BSRWhpSjdRbGZRUDZxc0Y4R2Y3ZTgwVFVvdGozUklfbi0zUV90MVNQZGp2UkNYTUdfQk16bGI3VGROd3p1RF92b1hSb3NmbHdOX0VadUtHZG95Smkzb2lVVHBVSW80RzlaQnBZekR0MUJzc0Y2S0VCdTI1RHg0UTdwNFVXdU10MmZ3V1RZVFIxcnJBSGZXNkZVa096T3M?oc=5",
+      "title": "Blodprøvetaking-Kjetil-Skretting-16×9 - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-12-15T07:12:04+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3Jub2Y3bWJUdDQtR3BSRWhpSjdRbGZRUDZxc0Y4R2Y3ZTgwVFVvdGozUklfbi0zUV90MVNQZGp2UkNYTUdfQk16bGI3VGROd3p1RF92b1hSb3NmbHdOX0VadUtHZG95Smkzb2lVVHBVSW80RzlaQnBZekR0MUJzc0Y2S0VCdTI1RHg0UTdwNFVXdU10MmZ3V1RZVFIxcnJBSGZXNkZVa096T3M?oc=5\" target=\"_blank\">Blodprøvetaking-Kjetil-Skretting-16×9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 157903,
+      "story_id": 1665,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVlhWllxSFo3SkZPa2oxMElMUGhrb3B3S0NnTG5ZcmFkT3JlQ1AtOHNzYV9DMUtBY0hGVHNKNlBBOHh2b3BfRXVXZ0tlOEZlZm92N0Z2b3RHUGEwSHgtcG5OeVJXcmgzYVVta1BQUUROMXFfQURqWVpPOUhMU1ZxeTFIdWwtNDZ4LVVJdW44S0tzczRla3hCamZXT2tlSlp3V2dHV004T1YzNnUxNS1jajJJOG5HU1JEb01SWWh4b1g?oc=5",
+      "title": "Skretting styrket med tre nyansettelser innen fiskehelse - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-05-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVlhWllxSFo3SkZPa2oxMElMUGhrb3B3S0NnTG5ZcmFkT3JlQ1AtOHNzYV9DMUtBY0hGVHNKNlBBOHh2b3BfRXVXZ0tlOEZlZm92N0Z2b3RHUGEwSHgtcG5OeVJXcmgzYVVta1BQUUROMXFfQURqWVpPOUhMU1ZxeTFIdWwtNDZ4LVVJdW44S0tzczRla3hCamZXT2tlSlp3V2dHV004T1YzNnUxNS1jajJJOG5HU1JEb01SWWh4b1g?oc=5\" target=\"_blank\">Skretting styrket med tre nyansettelser innen fiskehelse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 157904,
+      "story_id": 1670,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjA0dDVTeWVZbG1QZV8yRldZNm9rQk4yQzg5c3NobVotUXBMRGFncXFqQmd2Q1BIeWZaRnNXajZod0hTRW5QUFZSUFR5cVZDMWZWbThSMDdFTW85NUZwZllha3h0eGpzTGhnQ0ZlVTZld09DYkpudkN0M0ZjUjQ2cjk2eVMtU2o2elVmSVFZRkpUR2N5M2xaOGJybU5OaElqMHM1cVlhbkdDXzZQOFptMl9JMk9DOGFwaEMyaHNXMHRidw?oc=5",
+      "title": "Aslak Skretting gjenvalgt som leder av Norsk Lokalradioforbund - Medier24",
+      "source_name": "Medier24",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-03-14T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWjA0dDVTeWVZbG1QZV8yRldZNm9rQk4yQzg5c3NobVotUXBMRGFncXFqQmd2Q1BIeWZaRnNXajZod0hTRW5QUFZSUFR5cVZDMWZWbThSMDdFTW85NUZwZllha3h0eGpzTGhnQ0ZlVTZld09DYkpudkN0M0ZjUjQ2cjk2eVMtU2o2elVmSVFZRkpUR2N5M2xaOGJybU5OaElqMHM1cVlhbkdDXzZQOFptMl9JMk9DOGFwaEMyaHNXMHRidw?oc=5\" target=\"_blank\">Aslak Skretting gjenvalgt som leder av Norsk Lokalradioforbund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medier24</font>"
+    },
+    {
+      "id": 158103,
+      "story_id": 1677,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVKeGNzWVBsMnRTcy05MEh2VHljWXpGUmRtQmpqU3hJemQyZmdjTUlNcmY2RXpuT1dPNWk0SUc3RkJYSTM2bnpxWjE1eGNNeVZFNk52eXF6OTZudFBka1E5XzNBWE9fQUtHS2VuTThUZWNpSC11WGFlTmktTm5JTHZJdXc5Q05ZUEZkZUtRVTJqR1BvcVBSTzhyMGZab3RZNEdQZkRyZU9SMWlmU051ZklsSW55VmlYdFRNTFVXM1lRNDhOQ3VFYjFxUGJHVURMQ25YajA0b2ZyX1FvbHlac1VUejdrZ1VudW1WLTN0QzB5aTBlRi1hcERUc1pCQQ?oc=5",
+      "title": "“Detente y tómate un Minuto” es el tema central de la nueva versión de la Semana de la Seguridad de Skretting - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-09-09T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVKeGNzWVBsMnRTcy05MEh2VHljWXpGUmRtQmpqU3hJemQyZmdjTUlNcmY2RXpuT1dPNWk0SUc3RkJYSTM2bnpxWjE1eGNNeVZFNk52eXF6OTZudFBka1E5XzNBWE9fQUtHS2VuTThUZWNpSC11WGFlTmktTm5JTHZJdXc5Q05ZUEZkZUtRVTJqR1BvcVBSTzhyMGZab3RZNEdQZkRyZU9SMWlmU051ZklsSW55VmlYdFRNTFVXM1lRNDhOQ3VFYjFxUGJHVURMQ25YajA0b2ZyX1FvbHlac1VUejdrZ1VudW1WLTN0QzB5aTBlRi1hcERUc1pCQQ?oc=5\" target=\"_blank\">“Detente y tómate un Minuto” es el tema central de la nueva versión de la Semana de la Seguridad de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
     }
   ],
   "share_of_voice": {
@@ -70360,7 +71120,7 @@
       {
         "week": "2015-W11",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
@@ -70499,7 +71259,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2015-W53",
@@ -70628,6 +71388,14 @@
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2016-W30",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2016-W32",
@@ -70763,7 +71531,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2017-W13",
@@ -70804,6 +71572,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2017-W20",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2017-W23",
@@ -70995,7 +71771,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2018-W03",
@@ -71099,7 +71875,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2018-W24",
@@ -71358,6 +72134,14 @@
         "Skretting": 2
       },
       {
+        "week": "2019-W24",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2019-W27",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -71516,6 +72300,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2020-W11",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2020-W15",
@@ -72003,7 +72795,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2021-W46",
@@ -72123,7 +72915,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2022-W12",
@@ -72371,7 +73163,7 @@
         "BioMar": 0,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2022-W48",
@@ -72379,7 +73171,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 5
       },
       {
         "week": "2022-W49",
@@ -72499,7 +73291,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2023-W14",
@@ -72598,12 +73390,20 @@
         "Skretting": 1
       },
       {
-        "week": "2023-W29",
+        "week": "2023-W26",
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
+      },
+      {
+        "week": "2023-W29",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 2
       },
       {
         "week": "2023-W33",
@@ -73027,7 +73827,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2024-W38",
@@ -73131,7 +73931,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2024-W51",
@@ -73744,7 +74544,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 60,
+        "BioMar": 61,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 6
@@ -73757,7 +74557,7 @@
       },
       {
         "company": "BioMar",
-        "count": 855
+        "count": 857
       },
       {
         "company": "Cargill",
@@ -73769,7 +74569,7 @@
       },
       {
         "company": "Skretting",
-        "count": 668
+        "count": 687
       }
     ]
   }
