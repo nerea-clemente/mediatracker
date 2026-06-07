@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-07T11:18:29+00:00",
+  "generated_at": "2026-06-07T17:19:44+00:00",
   "stats": {
-    "mention_count": 1941,
-    "story_count": 1656,
-    "analyzed_count": 858,
+    "mention_count": 1944,
+    "story_count": 1657,
+    "analyzed_count": 861,
     "off_topic_mentions": 61,
     "off_topic_stories": 39
   },
@@ -132,6 +132,7 @@
     "Jærbladet",
     "KRS - Avisen Kristiansand",
     "KSU.NO",
+    "Kalkine",
     "Khrono",
     "Kvinnheringen",
     "Kyst.no",
@@ -302,12 +303,12 @@
       "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
       "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
       "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-06T17:42:25+00:00",
+      "last_seen": "2026-06-07T16:23:05+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 40,
+      "pickup_count": 42,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -13001,6 +13002,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1679,
+      "headline": "Schouw & Co. share buy-back programme, week 11 2024 - Kalkine",
+      "story_summary": "Schouw & Co. conducted a share repurchase programme during week 11 of 2024. The article is a routine corporate disclosure of buyback activity by the parent company of BioMar Group A/S.",
+      "first_seen": "2024-03-19T07:00:00+00:00",
+      "last_seen": "2024-03-19T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 590,
@@ -70762,6 +70777,78 @@
         "financial"
       ],
       "summary": "TradingView displays a financial metric chart for BioMar Group A/S showing return on assets as a percentage. The article is a straightforward presentation of quantitative financial data without narrative context or commentary."
+    },
+    {
+      "id": 159259,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUFUa0g1WVJoN0VuZXhxdURNYzMyQTMxenNxSlI5ZUJKbVpYdUNOUXhTV3M3LW0tUVRIdlBTQ3puQ0x1aE1IVFVSSGFjcGtZU0syRmNmWmc2VE5GMHBESXBWYk5FM0ZKLVlvS05lNURFZTBSU3FTNDZhaFY1UU1KM0NRNjgwNmlMQlhZNWxxeGd2TzQ?oc=5",
+      "title": "Total debt of BioMar Group A/S – TURQUOISE:BIOMAC - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T16:23:05+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Financial metric reporting on BioMar Group debt levels",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a data-driven update on the total debt of BioMar Group A/S, tracking the company's financial position through stock ticker TURQUOISE:BIOMAC. The article appears to be a factual financial metric snapshot without editorial commentary or analysis beyond the debt figure itself."
+    },
+    {
+      "id": 159267,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1I3bUhzUjlMYUZwRnNNX2JJcFlreFF4SE5idlhfUy03cEdNYlpXVVktMlBaQVVxc0x6bWJ0UElpOGY2NDc5OEJ1aUZxVEwxUVE2SUt3UXFtQ2VjMGdKdHduakVLdjNYbWw3Z0ZBZUUzVTR4d0NTeWtna1dUS2xjS05hOGw0ZUNqdV9yay1EV2NlTFI2?oc=5",
+      "title": "Gross margin % of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:07:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Financial metric tracking for BioMar Group A/S.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial metric page tracking BioMar Group A/S's gross margin percentage. The article is a data presentation tool rather than editorial commentary on the company's performance or operations."
+    },
+    {
+      "id": 159686,
+      "story_id": 1679,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTUdPSkJxWVY2djMtVlRUeXRHamp1czhxMTUzMWhVck1DTWFnamg5RDJlbWZRRHk4d2VpTmU1Nk51eVNDQlRjM0Z2eGdtSDRYZ0NzVmp0TnFxWTI0TnVDOXhWdHIxeW5qYkNvaVNSWVo0bHc0SEZqb2VBbDJ5dktuLVRPM2tWSXpST0E?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 11 2024 - Kalkine",
+      "source_name": "Kalkine",
+      "language": "en",
+      "country": "AU",
+      "outlet_kind": "press",
+      "published_at": "2024-03-19T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buyback in week 11 of 2024",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. conducted a share repurchase programme during week 11 of 2024. The article is a routine corporate disclosure of buyback activity by the parent company of BioMar Group A/S."
     }
   ],
   "share_of_voice": {
@@ -73664,7 +73751,7 @@
       {
         "week": "2024-W12",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -74568,7 +74655,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 62,
+        "BioMar": 64,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 6
@@ -74581,7 +74668,7 @@
       },
       {
         "company": "BioMar",
-        "count": 858
+        "count": 861
       },
       {
         "company": "Cargill",
