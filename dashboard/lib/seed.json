@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-07T08:34:44+00:00",
+  "generated_at": "2026-06-07T11:18:29+00:00",
   "stats": {
-    "mention_count": 1940,
+    "mention_count": 1941,
     "story_count": 1656,
-    "analyzed_count": 857,
+    "analyzed_count": 858,
     "off_topic_mentions": 61,
     "off_topic_stories": 39
   },
@@ -302,12 +302,12 @@
       "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
       "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
       "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-06T11:26:28+00:00",
+      "last_seen": "2026-06-06T17:42:25+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 39,
+      "pickup_count": 40,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -70738,6 +70738,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVXVKeGNzWVBsMnRTcy05MEh2VHljWXpGUmRtQmpqU3hJemQyZmdjTUlNcmY2RXpuT1dPNWk0SUc3RkJYSTM2bnpxWjE1eGNNeVZFNk52eXF6OTZudFBka1E5XzNBWE9fQUtHS2VuTThUZWNpSC11WGFlTmktTm5JTHZJdXc5Q05ZUEZkZUtRVTJqR1BvcVBSTzhyMGZab3RZNEdQZkRyZU9SMWlmU051ZklsSW55VmlYdFRNTFVXM1lRNDhOQ3VFYjFxUGJHVURMQ25YajA0b2ZyX1FvbHlac1VUejdrZ1VudW1WLTN0QzB5aTBlRi1hcERUc1pCQQ?oc=5\" target=\"_blank\">“Detente y tómate un Minuto” es el tema central de la nueva versión de la Semana de la Seguridad de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 158520,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU3N2SmJxMG45b0hhekFoaV9zSkV1SE5teXRELUozVlhUWUxrb0c5NVNYMXpOa01HazBuUW52Zl9xNXY2dC05ajdtN2dIWnppVko1bXc1S3RvV1BiTkFHdlZfQUhidGFvckRsTWJ6YzdaTGdMVnV4Mko3UndqdmRJVEhMLVRTa25jcjdDWm5FSE5xa3M5ejVHUg?oc=5",
+      "title": "Rentab. sobre activos % de BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-06T17:42:25+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Return on assets financial metric for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView displays a financial metric chart for BioMar Group A/S showing return on assets as a percentage. The article is a straightforward presentation of quantitative financial data without narrative context or commentary."
     }
   ],
   "share_of_voice": {
@@ -74544,7 +74568,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 61,
+        "BioMar": 62,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 6
@@ -74557,7 +74581,7 @@
       },
       {
         "company": "BioMar",
-        "count": 857
+        "count": 858
       },
       {
         "company": "Cargill",
