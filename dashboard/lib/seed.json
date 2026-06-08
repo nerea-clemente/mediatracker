@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-08T13:48:55+00:00",
+  "generated_at": "2026-06-08T18:27:24+00:00",
   "stats": {
-    "mention_count": 1994,
-    "story_count": 1668,
-    "analyzed_count": 904,
+    "mention_count": 1997,
+    "story_count": 1670,
+    "analyzed_count": 906,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -322,7 +322,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 80,
+      "pickup_count": 81,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -19588,6 +19588,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1692,
+      "headline": "Biomar-rapport viser at deres soyaleverandører følger lovgivingen (+) - Intrafish",
+      "story_summary": "BioMar has released a report demonstrating that its soy suppliers operate in compliance with relevant legislation. The report addresses corporate responsibility and supply-chain governance in the aquaculture feed sector.",
+      "first_seen": "2019-04-10T07:00:00+00:00",
+      "last_seen": "2019-04-10T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1297,
       "headline": "BioMar lanza tecnología para medición digital del color de los peces - Salmonexpert",
       "story_summary": "BioMar has introduced a new digital technology for measuring fish color, expanding its product capabilities in aquaculture management. The innovation reflects the company's focus on technological advancement in salmon farming operations and feed optimization tools.",
@@ -20963,6 +20977,20 @@
       "id": 438,
       "headline": "Coastal communities land feed deal windfall - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHBxU0pld21pUDZPZXRGSlFZdVF4ZGpYMWliLThDcG5FUnBndHdsWVFJLU9NRFJLSWt0dDZES21oSHB5TVBZeFc4WjZ6blh3U2s4S0ppd3Q1dllUS194djNSMDlaMTZIZHBxWlpaRlpmeUMwMnlZR0IwRl93SnRvdy13?oc=5\" target=\"_blank\">Coastal communities land feed deal windfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2017-12-14T08:00:00+00:00",
+      "last_seen": "2017-12-14T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1691,
+      "headline": "Loch Duart goes with EWOS three more years - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUjVkZzBEQWJfSjJIX2dDdEhKZjNuUWlqbW55WHNEN2VkTEwzMWlGN0FFSkJiaXRlY3VVUi1TSXZlR3hhMGlMSHNOSlgzRGlLbENfajZJUk1SLWhuVUtlaFhMeEZENS1ZM3VZallZZ2ViT1lhOGFYOVpYRzRBR2_SAX9BVV95cUxOblI1ZGcwREFiX0oySF9nQ3RISmYzblFpam1ueVhzRDdlZExMMzFpRjdBRUpCYml0ZWN1VVItU0l2ZUd4YTBpTEhzTkpYM0RpS2xDX2o2SVJNUi1oblVLZWhYTHhGRDUtWTN1WWpZWWdlYk9ZYThhWDlaWEc0QUdv?oc=5\" target=\"_blank\">Loch Duart goes with EWOS three more years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2017-12-14T08:00:00+00:00",
       "last_seen": "2017-12-14T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -72205,6 +72233,80 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNaG1qLVRMUy1RMWpZenBnbmpuZVNzYnF5aXJ1UVBwVEQzZ291T3B5eDJRcDR2cDlVU0VRT1VYWlFvLWpRbEVWcGQ4clI3OW9Xd2lYZ3J4N0E5TjYwMUcwTnpJS0RaRnlxdmpEa0cyWU0zWkVkUXVQWmdHSlFwR3hZcHUtNTR6Y3pLUDBKTWFiTnNyZjB0UU1iR0VR0gGaAUFVX3lxTE1obWotVExTLVExall6cGduam5lU3NicXlpcnVRUHBURDNnb3VPcHl4MlFwNHZwOVVTRVFPVVhaUW8talFsRVZwZDhyUjc5b1d3aVhncng3QTlONjAxRzBOeklLRFpGeXF2akRrRzJZTTNaRWRRdVBaZ0dKUXBHeFlwdS01NHpjektQMEpNYWJOc3JmMHRRTWJHRVE?oc=5\" target=\"_blank\">String Bio and Skretting Australia team up for fish feeding trials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 163721,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3Z4VE1CU1N4TVdGYk1NMHVMWEFQd01mZVc1TUlUeUdMY1RTNWtuQWlJZTg4MnlEMHhHLU11TEtPY3ZfNlM2Yndjb1RzQ2hfamlMUWNuYW1HcUR3Y1d5X2V1N3ZkQVUybXIwTi1wRVVfVWtXeG5HbG1RcW9OMTlzcWFlOUt4bXJwVVM3RDJ3cHJjeXd4YXRHelhmNFh1Q3c0Q2stZTYzR2k?oc=5",
+      "title": "Número de accionistas de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T03:09:58+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Shareholder count data for BioMar Group listed on OMXCOP exchange",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView financial data page showing shareholder metrics for BioMar Group A/S traded on the Nasdaq Copenhagen exchange under ticker OMXCOP:BIOMAR. The page provides basic corporate registry information rather than news or analysis content."
+    },
+    {
+      "id": 163898,
+      "story_id": 1692,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYURDX2NjbmJqZ3ZfZzJEWF9rZ0NrNmtQSjJMV1FubjdOZ1ZMM1lWdWdrczFIcHZzVGMxN0RIX1pIUC15SVRTLUR3MGdjZTdqaGl5UEs2ZVYzd1ZBQmNrT09mTEhiUktLZEpsd3V1STdjTVcyMFVSQ2IxQmM5UXBJUGp1R0RsWXRWVEFxbnZWdmRRdk9CcXdPdEx2MVU2Q0w5MmRaX2ZaNG5jd09jWHc?oc=5",
+      "title": "Biomar-rapport viser at deres soyaleverandører følger lovgivingen (+) - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-04-10T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar's soy suppliers comply with applicable legislation",
+      "key_claims": [
+        "BioMar's soy suppliers follow applicable laws and regulations"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "BioMar has released a report demonstrating that its soy suppliers operate in compliance with relevant legislation. The report addresses corporate responsibility and supply-chain governance in the aquaculture feed sector."
+    },
+    {
+      "id": 164374,
+      "story_id": 1691,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUjVkZzBEQWJfSjJIX2dDdEhKZjNuUWlqbW55WHNEN2VkTEwzMWlGN0FFSkJiaXRlY3VVUi1TSXZlR3hhMGlMSHNOSlgzRGlLbENfajZJUk1SLWhuVUtlaFhMeEZENS1ZM3VZallZZ2ViT1lhOGFYOVpYRzRBR2_SAX9BVV95cUxOblI1ZGcwREFiX0oySF9nQ3RISmYzblFpam1ueVhzRDdlZExMMzFpRjdBRUpCYml0ZWN1VVItU0l2ZUd4YTBpTEhzTkpYM0RpS2xDX2o2SVJNUi1oblVLZWhYTHhGRDUtWTN1WWpZWWdlYk9ZYThhWDlaWEc0QUdv?oc=5",
+      "title": "Loch Duart goes with EWOS three more years - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-12-14T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUjVkZzBEQWJfSjJIX2dDdEhKZjNuUWlqbW55WHNEN2VkTEwzMWlGN0FFSkJiaXRlY3VVUi1TSXZlR3hhMGlMSHNOSlgzRGlLbENfajZJUk1SLWhuVUtlaFhMeEZENS1ZM3VZallZZ2ViT1lhOGFYOVpYRzRBR2_SAX9BVV95cUxOblI1ZGcwREFiX0oySF9nQ3RISmYzblFpam1ueVhzRDdlZExMMzFpRjdBRUpCYml0ZWN1VVItU0l2ZUd4YTBpTEhzTkpYM0RpS2xDX2o2SVJNUi1oblVLZWhYTHhGRDUtWTN1WWpZWWdlYk9ZYThhWDlaWEc0QUdv?oc=5\" target=\"_blank\">Loch Duart goes with EWOS three more years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
     }
   ],
   "share_of_voice": {
@@ -73212,7 +73314,7 @@
         "week": "2017-W50",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 1,
+        "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -73571,7 +73673,7 @@
       {
         "week": "2019-W15",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -76019,7 +76121,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -76032,11 +76134,11 @@
       },
       {
         "company": "BioMar",
-        "count": 904
+        "count": 906
       },
       {
         "company": "Cargill",
-        "count": 240
+        "count": 241
       },
       {
         "company": "Polarfeed",
