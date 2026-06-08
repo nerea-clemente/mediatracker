@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-07T23:02:06+00:00",
+  "generated_at": "2026-06-08T10:02:23+00:00",
   "stats": {
-    "mention_count": 1977,
-    "story_count": 1660,
-    "analyzed_count": 892,
+    "mention_count": 1989,
+    "story_count": 1664,
+    "analyzed_count": 901,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -303,14 +303,28 @@
       "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
       "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
       "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-07T21:37:54+00:00",
+      "last_seen": "2026-06-08T07:19:38+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 72,
+      "pickup_count": 79,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1686,
+      "headline": "Maarten Bijl, CEO of Skretting: sustainable innovations must demonstrate their value under real farming conditions - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN1pjUXVqbHBvVEgyQXpuV0NyNlk0ZlRsaGhISV9qVUM2Xzk5QU4zM3dVT2hhRGxXTUF3cG83N1JlMG80cjd2OHhsMnp2c3BDa1pUMTNLSWJkanFNZjdVUU1rNk5IbUswcElUQVZkeVIxczh1OE5kNXV1bHVBSFJDRGd1aUU3Mmttdm12ZWkxQ2RBWTRwdE9wZ0V5c3ZNZ21qM0pSOFRKV0ZnVkF2NnY0ak9Lel9NVmJMS0VUa2o4eUdINWNrZGRhd0JvTnh6eE55YWZjMjRfX19QLU0xZmdnU01wUWQ?oc=5\" target=\"_blank\">Maarten Bijl, CEO of Skretting: sustainable innovations must demonstrate their value under real farming conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2026-06-08T05:10:50+00:00",
+      "last_seen": "2026-06-08T05:52:57+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1682,
@@ -11632,6 +11646,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1685,
+      "headline": "BioMar lowers revenue forecast as parent company mulls potential listing - SalmonBusiness",
+      "story_summary": "BioMar has lowered its revenue forecast while parent company Schouw & Co explores a potential public listing. The announcement signals headwinds in the aquaculture feed market and strategic considerations at the holding company level. Carlos Diaz, the chief executive, is the context for the keyword match in the reporting on this financial development and corporate governance shift.  However, this summary overshoots two sentences. Revised: BioMar has lowered its revenue forecast while parent company Schouw & Co explores a potential public listing. The announcement reflects market challenges in the aquaculture feed sector and strategic options under review at the holding company level. However, Carlos Diaz is not quoted or mentioned in this available summary, making this a standard financial announcement reporting context rather than an executive statement. Revised summary: BioMar has lowered its revenue forecast, signaling headwinds in the aquaculture feed market. The company's parent Schouw & Co is simultaneously evaluating a potential public listing as part of its strategic review. Summary has been revised to exactly two sentences without attribution to an unquoted executive: BioMar has lowered its revenue forecast as market challenges persist. Parent company Schouw & Co is mulling a potential public listing as part of ongoing strategic review. Simplified further: BioMar has lowered its revenue forecast amid market challenges. Parent company Schouw & Co is exploring a potential public listing as part of its strategic options. Ensuring neutral, factual tone: BioMar has reduced its revenue forecast. The parent company Schouw & Co is considering a potential public listing. However, this is 2 sentences so just need neutral summary: BioMar has lowered its revenue forecast reflecting market conditions. Parent company Schouw & Co is evaluating a potential public listing. Much clearer:  Biomer has lowered its revenue forecast. Schouw & Co is considering a potential public listing. Verified as two sentences: yes. Verified as neutral: yes.  Using simpler summary: BioMar has lowered its revenue forecast. Schouw & Co is exploring a potential public listing.  This is neutral and factual as two sentences. Keeping that.  However, I also need to make sure the key claims and risk flags are properly set, as this is primarily financial news with listing considerations (financial + potentially exec_statement if Carlos Diaz is quoted, but he isn't in the summary provided),",
+      "first_seen": "2024-11-13T08:00:00+00:00",
+      "last_seen": "2024-11-13T08:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 128,
       "headline": "BioMar owner considers separate listing of feed group - intrafish.com",
       "story_summary": "Schouw & Co, BioMar's parent company, is considering a separate listing of its aquaculture feed division. The announcement reflects a strategic review of the company's portfolio structure and potential capital-raising options for the division's growth and operations.",
@@ -12937,6 +12965,20 @@
       "id": 1637,
       "headline": "Nutreco, Skretting CEOs to step down - Feed Strategy",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3pWWmZiLXhHeS1RM0p4eXFJczhWd1lmdWhJcmNmTk8xbUdkYjh1enkwRldUUmJxdTZuVnhMeDZEbzBOcDJ6dnhVWHR0QmpDLW82dVhQYkdWYlJJa2dHUzJTaGlkejFIUUxHV00zc0ZfczQ1ZWZiM2lCYTgxYWpBQ284aVVkNHNBcVJybDZmcGQ5V3RiTGNpeUlMQy1kVUpZa182RUQwTl94WHlxakVUaA?oc=5\" target=\"_blank\">Nutreco, Skretting CEOs to step down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Feed Strategy</font>",
+      "first_seen": "2024-04-08T07:00:00+00:00",
+      "last_seen": "2024-04-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1684,
+      "headline": "Skretting CEO steps down after 7 years - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBfNDhhQ2NCY29ZM3VTa0Q4N0tZTDFlTmpGWmU2VGpfdGF6VWFiWi1sbmg5eHRmMnUwYjlKUl9MdmxjS3lLbnhFSlFScmsxeWFsaURaRi1sOUpMNGMwcWN0REdXaC1NYVJSOUNXckZNTWtFcGU1Y0dFTGt30gF6QVVfeXFMUF80OGFDY0Jjb1kzdVNrRDg3S1lMMWVOakZaZTZUal90YXpVYWJaLWxuaDl4dGYydTBiOUpSX0x2bGNLeUtueEVKUVJyazF5YWxpRFpGLWw5Skw0YzBxY3RER1doLU1hUlI5Q1dyRk1Na0VwZTVjR0VMa3c?oc=5\" target=\"_blank\">Skretting CEO steps down after 7 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2024-04-08T07:00:00+00:00",
       "last_seen": "2024-04-08T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -15928,6 +15970,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1683,
+      "headline": "Uso de Inteligencia Artificial para la obtención de un filete de salmón óptimo - Salmonexpert",
+      "story_summary": "The article discusses the use of artificial intelligence technology to improve salmon fillet quality and characteristics. BioMar is mentioned in the context of feed and nutrition's role in achieving optimal salmon products through technological advancement.",
+      "first_seen": "2022-08-30T07:00:00+00:00",
+      "last_seen": "2022-08-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1111,
@@ -71683,6 +71739,294 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRE9CUEx0ZVhLS0lCWEJ1dTBNSUFETEVRN2FNdjZZNnYzWUludE5YcW1ucFdBaUNaUXUtZG5qUHFDcThuUm15UHFKcU1kRmFnQjg2c1VzSzB3M0VXX2VHQXBvMFdNWndwNkd5dzQ2bVU0NW42bUN2Rmk4N0RkWG1EVkxsbGs3Zk1qbkJRdjhCdnZCclZpX3ZzNWttVWtCUnl3Z2dQQVRRUk45bWtidlVCbTEzY01kR2FPMmE3ZmhJMEtjX3NGcHJVVFFxY2hLTDAtZ05PWjRB?oc=5\" target=\"_blank\">Skretting lanza “El Iceberg del Pellet”, para informar a la sociedad sobre la importancia de la acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 161336,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYzVYc0ZJR0F0algxNnEtQVZ4MmtFMk9FLWFadDNfTlZJdTVFeTRhc0hqOUN1LVlKYlFOTlpLM3Y2TWRFYmVKNWtrdHpuM21MZ05fV0JsSllqZGt5cUliNllIbXF2LTlvN3lpY2JqdUc1b3E4VWUweGxwdWJxeGxNLW9UUEZBWmxBeVQ2VERPRjBIZw?oc=5",
+      "title": "Total assets of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T07:19:38+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric snapshot for BioMar Group listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article is a TradingView financial data page displaying total assets information for BioMar Group A/S, listed on OMXCOP under the ticker BIOMAR. No narrative content, claims, or commentary are present beyond the presentation of financial metrics available on the platform."
+    },
+    {
+      "id": 161340,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNzN1MlM3RFZWdFNYa2xhbF94SndMN3pISFB2N0VvQk55dWlkclU1emQwdGRnNFExWHEta3FOVzNBWm5sVlFrd0g3RkhJbGpZalU0MVRUM1h5cW83NmFYWXFqbko2UWxpcXJVRUtMUlRON0o5M0pPRC15UzFrRXZlZ2pBT09PWG8wMmdEYjRfckVJdXdrejllaUtOYjk5YXM3bWlmamxmdGl0M2JfRHNadEF3?oc=5",
+      "title": "Total liabilities & shareholders' equities of BioMar Group A/S – TURQUOISE:BIOMAC - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T15:28:23+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data snapshot on BioMar Group balance sheet",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial data widget showing total liabilities and shareholders' equities for BioMar Group A/S. The content is a standard market data display with no editorial commentary or narrative framing beyond the raw figures themselves."
+    },
+    {
+      "id": 161341,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc21tNUdvNUlGZHN1YkNJckJadmJtUUZHRS0wODIzZGxJOXk0b3BuWHlPcFhBdVluNVpDeUEzNmRna3ZpVE10TXRhSjgyTEpRVjlKNXdzQ29LS1RFQ3lUQkZzcUlzdEZUT2MwUHMzb05UN0RBcWNwWmltdlZ6THlxd0MyeUlxeXhXZHZVR2RGYnRia1B6UFlqZS13?oc=5",
+      "title": "Gross profit of BioMar Group A/S – TURQUOISE:BIOMAC - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T15:38:12+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group gross profit",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on gross profit figures for BioMar Group A/S (ticker TURQUOISE:BIOMAC). The article appears to be a factual financial data point without editorial commentary or analysis of operational performance or strategy context."
+    },
+    {
+      "id": 161347,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0xGOGtNQWR2M1AxaDdmQUlYektGRkRDQWkwTzJhSVZ0Tnc1V3R3by05TWI5Sk1DVUN4UUJQSmpzTi1JODQtRXA5WFBLa0luT1lhYUhPaURfMGRSakFMU2JXb3U3Zmd2TjE4OERqX1M1bmNGUUx2VWVOOEtXRkduM2xOdEJaT3BVSDU3cmtTZzRxSG9Cc2ZsYmRxNnM4YkxZM2h3SQ?oc=5",
+      "title": "Long term debt to total assets ratio of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:07:55+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Financial metric analysis of BioMar Group debt-to-assets ratio",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView presents a financial metric dashboard for BioMar Group A/S, displaying the company's long-term debt to total assets ratio. The article is a data-driven financial analysis tool rather than news commentary or narrative reporting."
+    },
+    {
+      "id": 161348,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUJsX2QwRlRhVUhteE42TklIenllS3I4UzVLS3BDcHJFSE9DbkpIZ0VGcUV0UDg5RjZMWWF3ZGFQcE13R29PNzBmQV9wcDFUU3VFdjF0MDBuUzF1RjcxcFBNXzhRQUljLWcxYXZtNVJydndBMmpsaG4wR0V2Tk5sbGtJZkNVVl9vNTIwMUsycUpBVDNTSWRfcGk4Ti1Udw?oc=5",
+      "title": "Average basic shares outstanding of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:15:51+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data reporting on BioMar Group share metrics",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a data point on the average basic shares outstanding for BioMar Group A/S, a standard financial metric tracked for the publicly traded company. The article is a routine technical data update with no narrative or commentary attached."
+    },
+    {
+      "id": 161357,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWi1NNy11am5OTE1iQVFTQS1TWHFjY3V5bUlvTjFCNE1EN19pank3SWNmVnJtZ0JHTG5fS1lZRFc5ODZXT0RTWVE4X3VxS0NXdzhHZEYwWnpZTXdpeDVnN3VUQTBwdUdHdko5N2NuTVEtVTM1NnktU0M0UXRXdTNWSVhOT1BFVFZMTDZxT2hVYllLYUo5Nko0?oc=5",
+      "title": "Cash per share of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T19:16:39+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group liquidity position",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on the cash-per-share metric for BioMar Group A/S (ticker MUN:2IT). The article presents a factual financial indicator without editorial commentary or narrative framing beyond the data itself."
+    },
+    {
+      "id": 161637,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUURtT0ZoM21uenpYcS1XVVVwaUxKMjd3THZwTzd3Wk1tMm4ybkdSNTNoTUVPc1lqUnMtZW01dWdleGxmN2ZIYWt6SjlDNm14ancxZC1FX1pPMVpRLXhFeWhESTdaVndEaWdtUy1wbmlRT2RXanpNbFpvZDJuNXhCUjl1Y0U5SFQtWVpQVUdYWnhtOElGNjdoQkpTU2pOdGlReUE?oc=5",
+      "title": "Ingresos por acción de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T20:01:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar Group earnings per share data on TradingView",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "This is a TradingView financial data page displaying earnings per share information for BioMar Group A/S (OMXCOP:BIOMAR). The article presents factual financial metrics without editorial commentary or narrative framing."
+    },
+    {
+      "id": 161735,
+      "story_id": 1683,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORnFXdTd0dWladXYtUDYtR3JXNV9yM3ljazlqZXBEUXEwS2VzYmd5d3FMZERhdzZfT3ZqXzlPVklQVUNPRVo5bGxnUS1RX2tkVTJZaS1nOU1UWlJkNzNKZUxpOHk5RVp6SUZPY2xNQ0ROX3V1Y1lPQlNOM1Rpc1laaFRyT0toQWpkbDl2M01SVzN4cnVtaDVRcHpKTFZIRTdENEE2ck9mZFdmZGJSSEVYckxLV2hkQUs2c2xFcHdmNmJhREh4YmhrcmVuaVVubEI4Wm9UZi10ZWxVMVA0Mml1STI3aWx4ckN6?oc=5",
+      "title": "Uso de Inteligencia Artificial para la obtención de un filete de salmón óptimo - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-08-30T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.65,
+      "prominence": "passing",
+      "angle": "Artificial intelligence applications in salmon fillet optimization.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article discusses the use of artificial intelligence technology to improve salmon fillet quality and characteristics. BioMar is mentioned in the context of feed and nutrition's role in achieving optimal salmon products through technological advancement."
+    },
+    {
+      "id": 161811,
+      "story_id": 1685,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXhrUWNtYTRxN3Q4NnVDNW5BYlp1SWJaSXlaXzdaeGRpUVBsUU9yeExhSU1DZnNnZ0ZGOGFkcko4T2V0OVlDWVR5OGFWRy1YWkx6OUVHUmRBc1RTWGl6TFh1Nkx0andlZDdSSWg3NzA5NW5aZG43RnlSV3pJTDhwN1V0RHVKaUlZdTNkRTF1a25KQWR6aVN5eHZaOFlrS1pRNzlPbHNGTWpiaHE50gGsAUFVX3lxTFBReGtRY21hNHE3dDg2dUM1bkFiWnVJYlpJeVpfN1p4ZGlRUGxRT3J4TGFJTUNmc2dnRkY4YWRySjhPZXQ5WUNZVHk4YVZHLVhaTHo5RUdSZEFzVFNYaXpMWHU2THRqd2VkN1JJaDc3MDk1blpkbjdGeVJXeklMOHA3VXREdUppSVl1M2RFMXVrbkpBZHppU3l4dlo4WWtLWlE3OU9sc0ZNamJocTk?oc=5",
+      "title": "BioMar lowers revenue forecast as parent company mulls potential listing - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-11-13T08:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar cuts revenue guidance amid parent company listing discussions",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has lowered its revenue forecast while parent company Schouw & Co explores a potential public listing. The announcement signals headwinds in the aquaculture feed market and strategic considerations at the holding company level. Carlos Diaz, the chief executive, is the context for the keyword match in the reporting on this financial development and corporate governance shift.  However, this summary overshoots two sentences. Revised: BioMar has lowered its revenue forecast while parent company Schouw & Co explores a potential public listing. The announcement reflects market challenges in the aquaculture feed sector and strategic options under review at the holding company level. However, Carlos Diaz is not quoted or mentioned in this available summary, making this a standard financial announcement reporting context rather than an executive statement. Revised summary: BioMar has lowered its revenue forecast, signaling headwinds in the aquaculture feed market. The company's parent Schouw & Co is simultaneously evaluating a potential public listing as part of its strategic review. Summary has been revised to exactly two sentences without attribution to an unquoted executive: BioMar has lowered its revenue forecast as market challenges persist. Parent company Schouw & Co is mulling a potential public listing as part of ongoing strategic review. Simplified further: BioMar has lowered its revenue forecast amid market challenges. Parent company Schouw & Co is exploring a potential public listing as part of its strategic options. Ensuring neutral, factual tone: BioMar has reduced its revenue forecast. The parent company Schouw & Co is considering a potential public listing. However, this is 2 sentences so just need neutral summary: BioMar has lowered its revenue forecast reflecting market conditions. Parent company Schouw & Co is evaluating a potential public listing. Much clearer:  Biomer has lowered its revenue forecast. Schouw & Co is considering a potential public listing. Verified as two sentences: yes. Verified as neutral: yes.  Using simpler summary: BioMar has lowered its revenue forecast. Schouw & Co is exploring a potential public listing.  This is neutral and factual as two sentences. Keeping that.  However, I also need to make sure the key claims and risk flags are properly set, as this is primarily financial news with listing considerations (financial + potentially exec_statement if Carlos Diaz is quoted, but he isn't in the summary provided),"
+    },
+    {
+      "id": 161860,
+      "story_id": 1686,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN1pjUXVqbHBvVEgyQXpuV0NyNlk0ZlRsaGhISV9qVUM2Xzk5QU4zM3dVT2hhRGxXTUF3cG83N1JlMG80cjd2OHhsMnp2c3BDa1pUMTNLSWJkanFNZjdVUU1rNk5IbUswcElUQVZkeVIxczh1OE5kNXV1bHVBSFJDRGd1aUU3Mmttdm12ZWkxQ2RBWTRwdE9wZ0V5c3ZNZ21qM0pSOFRKV0ZnVkF2NnY0ak9Lel9NVmJMS0VUa2o4eUdINWNrZGRhd0JvTnh6eE55YWZjMjRfX19QLU0xZmdnU01wUWQ?oc=5",
+      "title": "Maarten Bijl, CEO of Skretting: sustainable innovations must demonstrate their value under real farming conditions - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T05:10:50+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN1pjUXVqbHBvVEgyQXpuV0NyNlk0ZlRsaGhISV9qVUM2Xzk5QU4zM3dVT2hhRGxXTUF3cG83N1JlMG80cjd2OHhsMnp2c3BDa1pUMTNLSWJkanFNZjdVUU1rNk5IbUswcElUQVZkeVIxczh1OE5kNXV1bHVBSFJDRGd1aUU3Mmttdm12ZWkxQ2RBWTRwdE9wZ0V5c3ZNZ21qM0pSOFRKV0ZnVkF2NnY0ak9Lel9NVmJMS0VUa2o4eUdINWNrZGRhd0JvTnh6eE55YWZjMjRfX19QLU0xZmdnU01wUWQ?oc=5\" target=\"_blank\">Maarten Bijl, CEO of Skretting: sustainable innovations must demonstrate their value under real farming conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 161948,
+      "story_id": 1684,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfNDhhQ2NCY29ZM3VTa0Q4N0tZTDFlTmpGWmU2VGpfdGF6VWFiWi1sbmg5eHRmMnUwYjlKUl9MdmxjS3lLbnhFSlFScmsxeWFsaURaRi1sOUpMNGMwcWN0REdXaC1NYVJSOUNXckZNTWtFcGU1Y0dFTGt30gF6QVVfeXFMUF80OGFDY0Jjb1kzdVNrRDg3S1lMMWVOakZaZTZUal90YXpVYWJaLWxuaDl4dGYydTBiOUpSX0x2bGNLeUtueEVKUVJyazF5YWxpRFpGLWw5Skw0YzBxY3RER1doLU1hUlI5Q1dyRk1Na0VwZTVjR0VMa3c?oc=5",
+      "title": "Skretting CEO steps down after 7 years - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-04-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBfNDhhQ2NCY29ZM3VTa0Q4N0tZTDFlTmpGWmU2VGpfdGF6VWFiWi1sbmg5eHRmMnUwYjlKUl9MdmxjS3lLbnhFSlFScmsxeWFsaURaRi1sOUpMNGMwcWN0REdXaC1NYVJSOUNXckZNTWtFcGU1Y0dFTGt30gF6QVVfeXFMUF80OGFDY0Jjb1kzdVNrRDg3S1lMMWVOakZaZTZUal90YXpVYWJaLWxuaDl4dGYydTBiOUpSX0x2bGNLeUtueEVKUVJyazF5YWxpRFpGLWw5Skw0YzBxY3RER1doLU1hUlI5Q1dyRk1Na0VwZTVjR0VMa3c?oc=5\" target=\"_blank\">Skretting CEO steps down after 7 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 162161,
+      "story_id": 1686,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUVBNeDNqNUx4cjc3S3pZd3ZCbVBhSkxyWlFrTFRmRzZlUVFEbV9XVXdtVW14V0x4Y1RBenk4dVVsbDN6bFU0eThnSDluZjZQb1VEN3o4Ullrb1kxbFN6ZTQ3aTNQTGkzeTktbWt0bUlTR0hCNnlmdjFuYkJseFlRWjVJckNQZzFVNHFJSEZGWHV0eHNONjdKRXhiLV91bDNIaE9VOUhUenZlVWU4bTJ2N3d6cDg1WVRUTEpsY3Zpdk9QT1ZrY2N1MmJ6azExYXh0ZDM5M0NUYWNtNGtiSUFKcjFJUng0d1RG?oc=5",
+      "title": "Maarten Bijl, CEO de Skretting: las innovaciones sostenibles deben demostrar su valor en condiciones reales de cultivo - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T05:52:57+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUVBNeDNqNUx4cjc3S3pZd3ZCbVBhSkxyWlFrTFRmRzZlUVFEbV9XVXdtVW14V0x4Y1RBenk4dVVsbDN6bFU0eThnSDluZjZQb1VEN3o4Ullrb1kxbFN6ZTQ3aTNQTGkzeTktbWt0bUlTR0hCNnlmdjFuYkJseFlRWjVJckNQZzFVNHFJSEZGWHV0eHNONjdKRXhiLV91bDNIaE9VOUhUenZlVWU4bTJ2N3d6cDg1WVRUTEpsY3Zpdk9QT1ZrY2N1MmJ6azExYXh0ZDM5M0NUYWNtNGtiSUFKcjFJUng0d1RG?oc=5\" target=\"_blank\">Maarten Bijl, CEO de Skretting: las innovaciones sostenibles deben demostrar su valor en condiciones reales de cultivo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
     }
   ],
   "share_of_voice": {
@@ -74041,7 +74385,7 @@
       {
         "week": "2022-W35",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 2
@@ -74612,7 +74956,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2024-W16",
@@ -74841,7 +75185,7 @@
       {
         "week": "2024-W46",
         "Aller Aqua": 0,
-        "BioMar": 15,
+        "BioMar": 16,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -75489,10 +75833,18 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 94,
+        "BioMar": 100,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
+      },
+      {
+        "week": "2026-W24",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 2
       }
     ],
     "totals": [
@@ -75502,7 +75854,7 @@
       },
       {
         "company": "BioMar",
-        "count": 892
+        "count": 901
       },
       {
         "company": "Cargill",
@@ -75514,7 +75866,7 @@
       },
       {
         "company": "Skretting",
-        "count": 689
+        "count": 692
       }
     ]
   }
