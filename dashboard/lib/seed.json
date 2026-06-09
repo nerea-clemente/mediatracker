@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-09T12:19:45+00:00",
+  "generated_at": "2026-06-09T18:08:08+00:00",
   "stats": {
-    "mention_count": 2013,
-    "story_count": 1677,
+    "mention_count": 2016,
+    "story_count": 1680,
     "analyzed_count": 914,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
@@ -110,6 +110,7 @@
     "GlobeNewswire",
     "Grimstad kommune",
     "GuruFocus",
+    "Hadsel kommune",
     "Haugesunds Avis",
     "Havpuls",
     "Herald.co.zw",
@@ -298,6 +299,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1702,
+      "headline": "Samhandling og beredskap testet under industrivernøvelse hos Skretting - Hadsel kommune",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzc5Q2paWERySTZNUlplVlMzMXVhaWF5VmZVNkkwM0VEVDhCNmNKWVlXOER6ZmhKdmx5N3B3Y1MwSXFJaXBKcUdKOF95dXJfRWZEemN4UkxmcUN3WEJhRmllakRvTzdrR0RPMTBQN0J6bThVaVhCTmFtVFluOWxRY1I1ekpEXzNiLWRuRDBNVmxRS25HNkl4Y3N0dF8wU1N0Q1RF?oc=5\" target=\"_blank\">Samhandling og beredskap testet under industrivernøvelse hos Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hadsel kommune</font>",
+      "first_seen": "2026-06-09T13:13:34+00:00",
+      "last_seen": "2026-06-09T13:13:34+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 1695,
       "headline": "Skretting reports progress on responsible sourcing, climate action and innovation - Aquafeed.com",
@@ -18999,6 +19014,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1701,
+      "headline": "Cargill Aqua Nutrition President: We cannot nourish the world alone - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRExWVGhGYnpuQ3BPTjBZVTZfa25QMk53VzhJbTU0TkZWbGkyTGxVX1ZxbDNBVTNTX1BabGNLTWEzT21iZmNSdlhaTHZCb0hJN3BQZzJZdm9rSmpPbGpQcHM1T0FMTnJHS1prOWhtTy1WV21KdnFZblUzR3pFRkZBTEU0V3FXRS1QUWtLcXlrMWNDRXFFak5VVXJrT3AtQkZyN3lOV2h3STB5RG5H?oc=5\" target=\"_blank\">Cargill Aqua Nutrition President: We cannot nourish the world alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2020-02-04T08:00:00+00:00",
+      "last_seen": "2020-02-04T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 473,
       "headline": "Skretting Chile anuncia cambios en su área comercial - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFhIUWJrQURsbVhaRk5DdUZEdUx3SFZ3Yzh6d3JiWjJ1WDVDaXFuNk1zNG5xbkNUTF9IaTFMYXFQZXdLNVJVdmt4SkhDQjhFN0tUeU9WeFR6TWFRQnp4MUxvd3c3UWVhOEFiTFVlS3kwYjZIWGhxWDNnTWNWTmlSM2d1TS1IODBQSXU0Ylh1elNhZG9fOUxNXzZuY2ZJZjduUGdxUA?oc=5\" target=\"_blank\">Skretting Chile anuncia cambios en su área comercial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -23365,6 +23394,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1700,
+      "headline": "EWOS is Now Independant and Set for Growth - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMk5xRlItYlhGQ1BBc1h6T2hqcDVQQkdESE0zODBkRWJIdVlPRHFOSXJfSi1QeV90bHE5U2ljQUpDU25wREFFbV8wYnZnd09QNEYxQnpseDI2b1Ywd1o5dGZlVjVYVU4xbkNxMU9fSlVaRlZGd1ZJMV9lc282TzZkYQ?oc=5\" target=\"_blank\">EWOS is Now Independant and Set for Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2013-11-04T08:00:00+00:00",
+      "last_seen": "2013-11-04T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
     },
@@ -72791,6 +72834,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTlyeHZpelg5cndUWWlUV2VZMDNZZFM4MlFBUG1TTFoyRWliTTVVbUthZlJ3aUUzZVlDMnlnOHAwTGNwTTBsdkxzb2xRU3hwR1ZXRXNqMXBCcklQYS1WcFZfZVBSOG9hVjNJbHZsMVZKMW42NnU4WTdEUVJEUGFRRVhJcjdlWkx2eU1QejFIaFR3dXNaTUp4RnZJZGkzYjZQMGU2dmxqb0FzUXl1OE9KZHRzVlpZWm9xVi1kNFNDREJUNzA?oc=5\" target=\"_blank\">Cosecha de Coho: Australis Mar destaca entre clientes de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 168232,
+      "story_id": 1702,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzc5Q2paWERySTZNUlplVlMzMXVhaWF5VmZVNkkwM0VEVDhCNmNKWVlXOER6ZmhKdmx5N3B3Y1MwSXFJaXBKcUdKOF95dXJfRWZEemN4UkxmcUN3WEJhRmllakRvTzdrR0RPMTBQN0J6bThVaVhCTmFtVFluOWxRY1I1ekpEXzNiLWRuRDBNVmxRS25HNkl4Y3N0dF8wU1N0Q1RF?oc=5",
+      "title": "Samhandling og beredskap testet under industrivernøvelse hos Skretting - Hadsel kommune",
+      "source_name": "Hadsel kommune",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-09T13:13:34+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzc5Q2paWERySTZNUlplVlMzMXVhaWF5VmZVNkkwM0VEVDhCNmNKWVlXOER6ZmhKdmx5N3B3Y1MwSXFJaXBKcUdKOF95dXJfRWZEemN4UkxmcUN3WEJhRmllakRvTzdrR0RPMTBQN0J6bThVaVhCTmFtVFluOWxRY1I1ekpEXzNiLWRuRDBNVmxRS25HNkl4Y3N0dF8wU1N0Q1RF?oc=5\" target=\"_blank\">Samhandling og beredskap testet under industrivernøvelse hos Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hadsel kommune</font>"
+    },
+    {
+      "id": 168547,
+      "story_id": 1701,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRExWVGhGYnpuQ3BPTjBZVTZfa25QMk53VzhJbTU0TkZWbGkyTGxVX1ZxbDNBVTNTX1BabGNLTWEzT21iZmNSdlhaTHZCb0hJN3BQZzJZdm9rSmpPbGpQcHM1T0FMTnJHS1prOWhtTy1WV21KdnFZblUzR3pFRkZBTEU0V3FXRS1QUWtLcXlrMWNDRXFFak5VVXJrT3AtQkZyN3lOV2h3STB5RG5H?oc=5",
+      "title": "Cargill Aqua Nutrition President: We cannot nourish the world alone - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-02-04T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRExWVGhGYnpuQ3BPTjBZVTZfa25QMk53VzhJbTU0TkZWbGkyTGxVX1ZxbDNBVTNTX1BabGNLTWEzT21iZmNSdlhaTHZCb0hJN3BQZzJZdm9rSmpPbGpQcHM1T0FMTnJHS1prOWhtTy1WV21KdnFZblUzR3pFRkZBTEU0V3FXRS1QUWtLcXlrMWNDRXFFak5VVXJrT3AtQkZyN3lOV2h3STB5RG5H?oc=5\" target=\"_blank\">Cargill Aqua Nutrition President: We cannot nourish the world alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 168558,
+      "story_id": 1700,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMk5xRlItYlhGQ1BBc1h6T2hqcDVQQkdESE0zODBkRWJIdVlPRHFOSXJfSi1QeV90bHE5U2ljQUpDU25wREFFbV8wYnZnd09QNEYxQnpseDI2b1Ywd1o5dGZlVjVYVU4xbkNxMU9fSlVaRlZGd1ZJMV9lc282TzZkYQ?oc=5",
+      "title": "EWOS is Now Independant and Set for Growth - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2013-11-04T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMk5xRlItYlhGQ1BBc1h6T2hqcDVQQkdESE0zODBkRWJIdVlPRHFOSXJfSi1QeV90bHE5U2ljQUpDU25wREFFbV8wYnZnd09QNEYxQnpseDI2b1Ywd1o5dGZlVjVYVU4xbkNxMU9fSlVaRlZGd1ZJMV9lc282TzZkYQ?oc=5\" target=\"_blank\">EWOS is Now Independant and Set for Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
     }
   ],
   "share_of_voice": {
@@ -72998,7 +73113,7 @@
         "week": "2013-W45",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 2,
+        "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -74337,6 +74452,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
+      },
+      {
+        "week": "2020-W06",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2020-W07",
@@ -76624,7 +76747,7 @@
         "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       }
     ],
     "totals": [
@@ -76638,7 +76761,7 @@
       },
       {
         "company": "Cargill",
-        "count": 241
+        "count": 243
       },
       {
         "company": "Polarfeed",
@@ -76646,7 +76769,7 @@
       },
       {
         "company": "Skretting",
-        "count": 702
+        "count": 703
       }
     ]
   }
