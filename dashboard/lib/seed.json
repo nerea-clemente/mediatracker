@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-08T23:10:15+00:00",
+  "generated_at": "2026-06-09T08:46:34+00:00",
   "stats": {
-    "mention_count": 2000,
-    "story_count": 1672,
-    "analyzed_count": 907,
+    "mention_count": 2008,
+    "story_count": 1673,
+    "analyzed_count": 913,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -299,6 +299,20 @@
   ],
   "stories": [
     {
+      "id": 1695,
+      "headline": "Skretting reports progress on responsible sourcing, climate action and innovation - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmVYVlJidm1iNzNJRDFCRDVsemtCLTl5RUdNTEpWdHNoT0RmcDNCZHFrWmY5QnRBamU4Z3ZDeWFTSGZoOTZBNG82N1Q4NHRRS1FsRll5QmpjZkZscklSZ1FWdFpGQ0VXblFKOENEZFVIVlFsaG41b1kwNjJTUjl1YzFSNEY1WHJKWmx1YlpVZnFma3R4VFNiY0lFOHRFSkloSlhHRmdMOVF1cWFOQ1cwOVJ3dGFJYzBMSGx1VGNobDRjdktMR1NCRA?oc=5\" target=\"_blank\">Skretting reports progress on responsible sourcing, climate action and innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2026-06-09T06:59:38+00:00",
+      "last_seen": "2026-06-09T06:59:38+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1694,
       "headline": "Skretting Reports 40% Reduction in Operational Emissions Since 2018, Highlights Scope 3 Challenges - IndexBox",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzhJaWRVeHJOemhjR3pqdlhWUGdsSFptbEprSmpITFowWmxnYTVfTGxRb0RITVl2VUhjWkJOOW9rQ3hwRGF5TGVVNVZxbHJ6UkhnQXMyUENzQUZWZHV5Rng3MVF0ckxKS2FzR09wQXk4aTd5MzJTNmtHS1hDcllSMFZ1eXdGYkNLRVltV001Y0hyeE1XWFBrUUxUTXFma252dmFHZGYyZlpoNWhQbjNYY2FNbWJHUktSOFhPTUczQWJaeG9C?oc=5\" target=\"_blank\">Skretting Reports 40% Reduction in Operational Emissions Since 2018, Highlights Scope 3 Challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
@@ -350,7 +364,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 81,
+      "pickup_count": 87,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -12159,7 +12173,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -72407,6 +72421,198 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzhJaWRVeHJOemhjR3pqdlhWUGdsSFptbEprSmpITFowWmxnYTVfTGxRb0RITVl2VUhjWkJOOW9rQ3hwRGF5TGVVNVZxbHJ6UkhnQXMyUENzQUZWZHV5Rng3MVF0ckxKS2FzR09wQXk4aTd5MzJTNmtHS1hDcllSMFZ1eXdGYkNLRVltV001Y0hyeE1XWFBrUUxUTXFma252dmFHZGYyZlpoNWhQbjNYY2FNbWJHUktSOFhPTUczQWJaeG9C?oc=5\" target=\"_blank\">Skretting Reports 40% Reduction in Operational Emissions Since 2018, Highlights Scope 3 Challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+    },
+    {
+      "id": 165513,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc3ZRREUxblRBeGEtVU1EZXRERlkxbmpHU3VrRkVUSDBlWFV6dHg4ZV94TGdwZDZrS0tkOE1vWTNxeUFSV1haOGJCdUoyQ3RVV3ZHNXBJX1h5WTlXMjRHbk5OX203RmFTX2FuTHZvT18takV4OHBJR1Z1d2V1YzVnQjUtUlprWmp4bFVlRFZ6cms5QjdZTVRvVDdzZGx1eVBERFFBSkFSRjltekRl?oc=5",
+      "title": "Long term debt to total equity ratio of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:31:30+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group's long-term debt-to-equity ratio",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial metric dashboard entry for BioMar Group A/S tracking the company's long-term debt to total equity ratio. The article is a data-driven financial reporting piece with no narrative commentary or events described. No substantive claims, people, or risk factors are evident in the available content beyond the metric itself. The piece appears to be part of TradingView's standard equity research and financial ratio tracking for the NASDAQ OMX Copenhagen ticker BIOMAR. No sentiment-driving language, claims about performance, or executive commentary is present in the provided summary or title, allowing sentiment to remain neutral with high confidence. The prominence is primary as BioMar is the sole focus of the financial metric reporting. No risk flags apply as this is routine financial data presentation without legal, controversy, product, or executive statement dimensions visible in the provided excerpt. TradingView continues to track BioMar Group's publicly available financial data as part of its equity research platform coverage. The absence of any narrative framing, claims, or quoted sources reflects the mechanical nature of financial metric dashboards."
+    },
+    {
+      "id": 165515,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODBsZTNDVnk2OXA1aUNjaVZzTWRmSHFraEJqamZDdy1SVW9JSk9LR0c3RGpWVnd1U0V2Z0g2Tms1dzNXV1dMR25BM3hleWc5NW5XMGZCNjlKMFR6elpYaWJtWms3bFZDZHlKTWVnWWpBTDJuVWphS05RVkFPMlRkcE9BX2xmSUJoSXVTWTFwSHVqNy1TX2hwLTRpbm9fcXdM?oc=5",
+      "title": "Cash from investing activities of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:53:01+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "passing",
+      "angle": "Financial metric reporting on BioMar Group cash flow statement.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports cash flow data from BioMar Group A/S investing activities as part of financial tracking. The article is a standard financial data aggregation with no narrative or analysis provided."
+    },
+    {
+      "id": 165517,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0MyM1NRek84TzN5WWhKWW5aYU1QVnFOWDVkVGdGWWgyZWUtMmR0MGlDWmtxZXNjX0k0VTU4NUdGZUpaOTVELXowWGg4U190azN6N0FHZlRpZ3U1UWY2MzlUOWlqRlNGc2o4U25oNjVXcDNKNV80bm9ZWjNWcTFWal9zR09BT1NLLTd0ODVfU29Ycy1aZXc?oc=5",
+      "title": "Gross profit of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:33:50+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Financial reporting on BioMar Group gross profit metrics",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView publishes financial data on BioMar Group A/S gross profit performance. The article appears to be a routine financial metric summary for the publicly-traded company on the OMXCOP exchange."
+    },
+    {
+      "id": 165518,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlZnek9WLTdULVpQMTNIUkpxa3ctLW1nTGxYQkhzcGNONF9XMDljUWRPRmdWY19DVk5FS2ZLVC1Ndlc1S0VrZFlQQy14WjBwZlpiUDZ2akxodkl1R1MyczBsSFNadmljYmZWOTVMZFRXVGhYdEg5UlJnUDFfbUk3Q05yQk54SWxMTnVIdFhmR1I2TTUyRzVrbkFtWFVIWTYyY1E?oc=5",
+      "title": "Operating margin % of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:38:44+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Operating margin performance metric for BioMar Group A/S stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView publishes a financial metric page showing the operating margin percentage for BioMar Group A/S listed on the OMXCOP exchange. The article is a data visualization tool rather than news content with claims or context."
+    },
+    {
+      "id": 165520,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTV4a2VZVFh1Y0dSS2JKYlNJS3k4YWJlNndKUUp2M3FsRkhsaW5NS2tLcWZOZm82N0JYZGoyeUN3c3A5Y3NtNzNuZkE1RWhaYlp1bGNGMmVhMjBYclJzVGhzUU9Rc2NaSWNKdGprZ2tsVmpFbkgzR01CV2RBaDdjdHpsc2tuR2s0THc?oc=5",
+      "title": "Total assets of BioMar Group A/S – FWB:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T02:21:07+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data snapshot for BioMar Group trading listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article is a TradingView financial data page displaying total assets information for BioMar Group A/S under its Frankfurt stock exchange ticker. It presents factual financial metrics without narrative commentary or analysis."
+    },
+    {
+      "id": 165813,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZlBZa2QzaXhLUm1xWnlFbmU3d240MU5UYldXMm1tOU90M2d3MWZPZHEtVXY2dmFCa2ZiRGxFMy1XZjJ5SWZkamlKQllpWnB0TndXNVgtLXhxNG5nRXlFS0pEMHZXcVVZMmJNcTBDdGw0WU5qTThiRExsc1NsLUFGM0cxQmdVeHZGWmdMc2lrenowZGJvUzViSEJWQUM?oc=5",
+      "title": "Ingresos netos diluidos disponibles para los accionistas ordinarios de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:57:45+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting for BioMar Group stock listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article is a TradingView financial data page reporting diluted net income available to ordinary shareholders for BioMar Group A/S traded on OMXCOP. This is a routine financial data presentation without narrative or editorial commentary about the company's performance or operations."
+    },
+    {
+      "id": 166043,
+      "story_id": 1695,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmVYVlJidm1iNzNJRDFCRDVsemtCLTl5RUdNTEpWdHNoT0RmcDNCZHFrWmY5QnRBamU4Z3ZDeWFTSGZoOTZBNG82N1Q4NHRRS1FsRll5QmpjZkZscklSZ1FWdFpGQ0VXblFKOENEZFVIVlFsaG41b1kwNjJTUjl1YzFSNEY1WHJKWmx1YlpVZnFma3R4VFNiY0lFOHRFSkloSlhHRmdMOVF1cWFOQ1cwOVJ3dGFJYzBMSGx1VGNobDRjdktMR1NCRA?oc=5",
+      "title": "Skretting reports progress on responsible sourcing, climate action and innovation - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-09T06:59:38+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmVYVlJidm1iNzNJRDFCRDVsemtCLTl5RUdNTEpWdHNoT0RmcDNCZHFrWmY5QnRBamU4Z3ZDeWFTSGZoOTZBNG82N1Q4NHRRS1FsRll5QmpjZkZscklSZ1FWdFpGQ0VXblFKOENEZFVIVlFsaG41b1kwNjJTUjl1YzFSNEY1WHJKWmx1YlpVZnFma3R4VFNiY0lFOHRFSkloSlhHRmdMOVF1cWFOQ1cwOVJ3dGFJYzBMSGx1VGNobDRjdktMR1NCRA?oc=5\" target=\"_blank\">Skretting reports progress on responsible sourcing, climate action and innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 166380,
+      "story_id": 1677,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWmFhaUNnY1NoSXNqdFF6LVk0cEREYTV2Ry1lV0RrbHQ5VE1yWW94OHMtcGtwRl9aU3VDelNKVmVmNU5RdGlFNU9SR1pZRW5QRkNBbDYtRk0xb1ZsSk51VW5lRjM2Q25saTVCVjFrTnJtaXZRRGgwMlJYNDNkSUxucVJOakM1Wkt3dE1EbmdNbFlkVU5ISE9BbHoybFpxRWU3ZHhtenFzR3NQOWVjM2dqLW41V01wNmd1Ty1hNmVMazVodU9zcmlTWjZKdGUxV01vRnRON0thbHM3anZqVmdublFyQ2w0QlZtLTExNG5BVnJhMXBKMUk4?oc=5",
+      "title": "“Detente y tómate un Minuto” es el tema central de la nueva versión de la Semana de la Seguridad de Skretting - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-09-09T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWmFhaUNnY1NoSXNqdFF6LVk0cEREYTV2Ry1lV0RrbHQ5VE1yWW94OHMtcGtwRl9aU3VDelNKVmVmNU5RdGlFNU9SR1pZRW5QRkNBbDYtRk0xb1ZsSk51VW5lRjM2Q25saTVCVjFrTnJtaXZRRGgwMlJYNDNkSUxucVJOakM1Wkt3dE1EbmdNbFlkVU5ISE9BbHoybFpxRWU3ZHhtenFzR3NQOWVjM2dqLW41V01wNmd1Ty1hNmVMazVodU9zcmlTWjZKdGUxV01vRnRON0thbHM3anZqVmdublFyQ2w0QlZtLTExNG5BVnJhMXBKMUk4?oc=5\" target=\"_blank\">“Detente y tómate un Minuto” es el tema central de la nueva versión de la Semana de la Seguridad de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
     }
   ],
   "share_of_voice": {
@@ -75496,7 +75702,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W38",
@@ -76213,7 +76419,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 100,
+        "BioMar": 105,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -76221,10 +76427,10 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       }
     ],
     "totals": [
@@ -76234,7 +76440,7 @@
       },
       {
         "company": "BioMar",
-        "count": 907
+        "count": 913
       },
       {
         "company": "Cargill",
@@ -76246,7 +76452,7 @@
       },
       {
         "company": "Skretting",
-        "count": 696
+        "count": 698
       }
     ]
   }
