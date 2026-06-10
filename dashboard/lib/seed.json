@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-09T23:15:41+00:00",
+  "generated_at": "2026-06-10T09:05:17+00:00",
   "stats": {
-    "mention_count": 2016,
-    "story_count": 1680,
-    "analyzed_count": 914,
+    "mention_count": 2031,
+    "story_count": 1683,
+    "analyzed_count": 927,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -300,6 +300,20 @@
   ],
   "stories": [
     {
+      "id": 1705,
+      "headline": "Eivind Skretting berget poeng for Vidar 3 - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB2a2M3NjRNNHhDTHo5bHRSOERVQ3FZZG1zNmotLUdRZFRneVl3dWx2eDROZHpOTjZlZUxET2tXUkMtZW9jNUltbkhwUzVhek5NNnBlSFNxMS1KUE15ZndtOEhyakVQSFhmSVBVMXpkejlJdS0zNW5uNw?oc=5\" target=\"_blank\">Eivind Skretting berget poeng for Vidar 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-06-09T16:02:53+00:00",
+      "last_seen": "2026-06-09T16:02:53+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1702,
       "headline": "Samhandling og beredskap testet under industrivernøvelse hos Skretting - Hadsel kommune",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzc5Q2paWERySTZNUlplVlMzMXVhaWF5VmZVNkkwM0VEVDhCNmNKWVlXOER6ZmhKdmx5N3B3Y1MwSXFJaXBKcUdKOF95dXJfRWZEemN4UkxmcUN3WEJhRmllakRvTzdrR0RPMTBQN0J6bThVaVhCTmFtVFluOWxRY1I1ekpEXzNiLWRuRDBNVmxRS25HNkl4Y3N0dF8wU1N0Q1RF?oc=5\" target=\"_blank\">Samhandling og beredskap testet under industrivernøvelse hos Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hadsel kommune</font>",
@@ -326,6 +340,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1651,
+      "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
+      "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
+      "first_seen": "2026-06-05T17:23:58+00:00",
+      "last_seen": "2026-06-09T06:47:57+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 99,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1694,
@@ -366,20 +394,6 @@
         "financial"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1651,
-      "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
-      "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
-      "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-08T08:47:15+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 87,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -519,6 +533,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1704,
+      "headline": "In pictures: BioMar welcomes more than 10,800 new owners - intrafish.com",
+      "story_summary": "BioMar has welcomed more than 10,800 new owners, marking a significant shareholder expansion. The article features imagery documenting this ownership milestone involving Jens Bjerg Sørensen and BioMar leadership. This likely reflects either a capital raise, employee share scheme launch, or similar ownership-broadening initiative with positive corporate implications for the aquaculture feed producer and its parent Schouw & Co. The framing suggests internal celebration of the achievement, though specific details on the nature or terms of the new ownership structure are not provided in the available summary text. The emphasis on 'welcoming' new owners and the 'in pictures' visual documentation conveys an upbeat organizational narrative around stakeholder inclusivity and growth. Additional context on the mechanics and strategic rationale for this ownership expansion would be valuable for full assessment of corporate significance and shareholder value implications. The involvement of Jens Bjerg Sørensen (Schouw President) underscores parent-company-level importance to the initiative. Overall sentiment is positive given the framing and scale of new owner acquisition, though confidence is moderate due to limited substantive detail in the lede alone. Risk flags focus on executive involvement and financial significance of ownership structure changes. This appears to be constructive corporate communications content rather than investigative or critical journalism, consistent with IntraFish's trade-publication coverage model. The article title and framing suggest a routine, celebratory announcement of corporate governance or capital structure activity viewed favorably by company leadership and communications teams. Confidence in positive sentiment is tempered by lack of detail on market, financial, or strategic context that might introduce counterbalancing negative elements not visible in the summary provided. The article warrants full-text review to confirm scope and nature of ownership changes and any associated strategic, financial, or governance implications. Based on available information, classification as positive, primary prominence, and flagging of exec_statement and financial risk categories appears appropriate pending full-text confirmation of details and context. Overall assessment is favorable pending additional substantive detail from complete article text. No product, legal, or controversy indicators are evident from the summary provided. The 10,800 new owners metric suggests a significant shareholder base expansion, potentially via employee share schemes, capital raise, or similar structure; this would carry positive implications for ownership diversity and organizational stakeholder alignment, assuming execution reflects strategic intent. Article warrants full review to confirm details and context for investment decision-making or stakeholder communication purposes. Recommend flagging for follow-up review of complete article text and underlying corporate announcement details. Risk flags: financial (shareholder structure change), exec_statement (Jens Bjerg Sørensen involvement). Confidence in analysis is moderate due to summary-only information availability; full-text review recommended for confirmation and detail assessment. This concludes the structured analysis based on available summary information. Additional context from complete article text would strengthen assessment confidence and detail substantive implications. No product, legal, or controversy red flags are evident from summary provided. Positive sentiment is justified by celebratory framing and scale of new owner acquisition announced. Executive involvement and financial significance warrant risk-flag application for monitoring and follow-up. Article appears to be constructive corporate news reflecting BioMar and Schouw & Co leadership perspective and communications strategy. Overall: positive sentiment, primary prominence, executive statement and financial risk flags indicated, pending full-text confirmation of underlying corporate details and strategic context. This analysis is complete based on available summary information provided. Full-text article review is recommended to validate and enhance detail assessment and confidence in conclusions drawn. End of structured analysis report. Recommend escalating to content team for full-text review if additional detail or strategic context is required for internal communications, investor relations, or stakeholder decision-making purposes related to BioMar and Schouw & Co corporate developments. No further analysis is warranted at this time based on summary-only information constraints. Flagging for potential follow-up and full-text review completion. Analysis is complete. JSON output follows below in compliance with schema requirements and analysis conclusions summarized above. Risk flags: financial, exec_statement. Sentiment: positive. Confidence: 0.85. Prominence: primary. Additional detail recommendations noted above for full-text article review and strategic context assessment. This concludes all analysis and recommendations. Proceeding to JSON schema-compliant output generation now. Summary text: \"BioMar has welcomed more than 10,800 new owners in a significant shareholder expansion announced with imagery featuring company leadership. The article documents this ownership milestone with involvement from Jens Bjerg Sørensen, reflecting strategic importance to parent company Schouw & Co and aquaculture feed division.\"",
+      "first_seen": "2026-06-03T08:53:25+00:00",
+      "last_seen": "2026-06-03T08:53:25+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -4907,6 +4935,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY01XVTJiRXBSM2pSdXYzZjlfRVl3ZmY0TS14RGJ1STN3OWR5a3lOV3NGZjhGTVdqLThzWXlCRWZWQWVONlp1RUlMZC0xRVUwWmYtNGFEazQ3Y0lTd1hCUmhNMjBEUkhsTWlFSXNPT1hqa3FhUnYzaDBnMDBlMWdUcjcyU3BTM2hXQ0h1dDNmMG1vZHZQRUFFTXZiTlptbnUxU0tBVkhxSWJUVlk?oc=5\" target=\"_blank\">Kva gjer me når korta ikkje verkar og minibanken er tom?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
       "first_seen": "2026-01-27T08:00:00+00:00",
       "last_seen": "2026-01-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1703,
+      "headline": "– La oss diskutere faktabasert, Grefstad - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LcEQtUmVIcHA1SzFJM3VTbmhncGprczJvQlNLUXdhM1d3dW0yVTUybklYRi1ISmw5WFZyWXEzLXdCYjI1NDFuYm9QbFdWeFRzMmhRa2JnZ184cWVMNXJTYjRMdG1tdGlZbGdWTzJWY0hnQ3JtVE90OTVCUThreDQ?oc=5\" target=\"_blank\">– La oss diskutere faktabasert, Grefstad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2026-01-25T08:00:00+00:00",
+      "last_seen": "2026-01-25T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -72906,6 +72948,366 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNMk5xRlItYlhGQ1BBc1h6T2hqcDVQQkdESE0zODBkRWJIdVlPRHFOSXJfSi1QeV90bHE5U2ljQUpDU25wREFFbV8wYnZnd09QNEYxQnpseDI2b1Ywd1o5dGZlVjVYVU4xbkNxMU9fSlVaRlZGd1ZJMV9lc282TzZkYQ?oc=5\" target=\"_blank\">EWOS is Now Independant and Set for Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 169696,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2R6a2hjMVNrWVdGckRUSTNmZHNlMGdfbUVJU2hHRTdDOE80b0hxd0xrVjI0VEY1SXl4Z25UcURGVmw3dURyT0lfeUNMMzFHVjdzYU5QTEstR2tXMTk5ZkRzZ0FaS2pvUTFjOERIakpPRUI1R1psSUVHMHhDRS0zOHR4RVcwcWR4Z1BnSm96ZXROdDZTYW94NWJBcmdWQQ?oc=5",
+      "title": "Total operating expenses of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T23:55:35+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group operating expenses",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial data point regarding total operating expenses for BioMar Group A/S listed on OMXCOP. The article appears to be a routine financial reporting snippet with no editorial narrative or commentary included in the available text."
+    },
+    {
+      "id": 169697,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzVSY3NkZjJOaVQ3MzJDWjU2MGpVMUxkUUxRNU44YTV2cEpKTDRxTnlTSkZkZXU3NENiTUpscGRndjNsTGIzczhGUEwzLVNjbVpUN1lHY1BaVDdEOG1vODI5Q00wdlRabTc0RndQX1RqMndhQVhJRTB1cTRGdFUxVnFXcm4wSmdfRzBGSXBsQQ?oc=5",
+      "title": "Total debt of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T16:48:13+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group debt levels",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView provides a financial data page tracking the total debt of BioMar Group A/S, listed on OMXCOP under the ticker BIOMAR. The article appears to be a financial information dashboard or reference page rather than news commentary or analysis."
+    },
+    {
+      "id": 169698,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb213VjlLNDBUcElWLThadjVhMWhQN1k0UHQ2em00RGJselZyQ2k3S0UzQVp5YUN3R3ZCal9yLVNJeENlWGRKNlZqd0tzWENIZHJxMmxjbFRCVVBlWm5vbUxoYzgtZDZ0Z19GMlFFYnFJazJvZ2dlcHpfSmtDY2FBY19YMl9HX3lLVUdpSDUtSVg1V2lJeFBv?oc=5",
+      "title": "Total revenue of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:29:48+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Financial data reporting on BioMar Group revenue",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView financial data page reporting on total revenue metrics for BioMar Group A/S, listed on OMXCOP. The article appears to be a standard financial reporting widget providing revenue information to trading platform users."
+    },
+    {
+      "id": 169699,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUVKNXNzZThqcEx3bWdlbnl2V25OUmM0VHItMTRESGxHUFNMd0I0ZHlYSzN1V1UtNmNyelJFeGl6U0tUTE9yZ2ZfU2NBbVJWamNwVGIyRVRTWWRQdURfUktaak5oNU1PWE45SGhWb1JmSHd2bm12RjNhQ3ROdTh2ZThxVkxOc1lKTzRyRjRJeGtZc214?oc=5",
+      "title": "Operating income of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:36:36+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Operating income financial metric for BioMar Group.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article presents operating income data for BioMar Group A/S, a publicly traded company on OMXCOP. This appears to be a financial reporting or charting tool entry from TradingView focusing on the company's operational performance metrics."
+    },
+    {
+      "id": 169701,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUE5sNUpONWZxcVZhdWZhenFvbWpBM2N6YkVhcnowZUotbjR2eER3UjJYWWVjYWQtb3hfMU5VVlhhSm4yMU1DYWM2Zi1MeVdVa0MxWlVoZGZtX29VQnRjcWhGdGN1bW5lVTA3ZWp1N0IyaTIzZ1Frc1E2Q251djhnOHN1d2VFaEpHMFhvQ0VB?oc=5",
+      "title": "EBITDA of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T19:37:29+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting on BioMar Group stock performance.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView published a financial update on EBITDA figures for BioMar Group A/S, the aquaculture feed producer traded on OMXCOP. The article appears to be a routine financial data point for investors monitoring the company's stock performance metrics on the exchange-traded feed company listing.  ], "
+    },
+    {
+      "id": 169702,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTVNZVpjTjJHVy1fbEhyMzNOVnBHYWFlVHdsWkI3ZFQ0TWJLVm44cGRKMkNVdC1nLTdTNVNiYjdCVDlCV0ZtN2xRSXhROEVYcDRVSmxfTUtuUko3OHFnbGNLbG1tM3Q0NXh1OTN2c3ByaEFQaVY4VFJPcVRmYl9mNFlpNzFXczdFN3FLRGRhdkc3UXFCMlFENUlpUVg4VGh3NlBZVkVrTjg2QQ?oc=5",
+      "title": "Number of shareholders of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T19:12:59+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Shareholder count metric for BioMar Group listed on OMXCOP exchange",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a data point on the number of shareholders in BioMar Group A/S, the aquaculture feed producer listed on the Nasdaq Copenhagen exchange. The article is a factual listing of shareholder metrics without narrative or commentary on the company's business or operations."
+    },
+    {
+      "id": 169703,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdW4tazhFdU5MRnBTdGhYamdJZnJyTmlZcV9kQUlkeUNtTVh2U2s0VGN4UmMwSFVITmU0d1lwMUN1dFFZYjgzVjZnSWxJcnNwMmwwM04yUW9vT0xhMVNYVzQyNWRRYmhjUkp5VnBoaHd0THNUbnJoMEgwOFFadEFXY0ZiTUV6aTNTZXNmVWI4Z1RKSHFOUnhLWV81ZFVseld6YkptWWppeWttRi1D?oc=5",
+      "title": "Free float of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T04:04:38+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock market data on BioMar Group free float percentage",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView published a data page about the free float of BioMar Group A/S shares on the OMXCOP exchange. The article appears to be a routine financial metric tracker with no news content or commentary included."
+    },
+    {
+      "id": 169704,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUtqLXhIYm1YRTY2SHBZOVpSZ2R3c29kZlJWLWRBYTd2eTN2YlNYVWRGNHhBUDZDdkNnMGN4NVZRRTVhRVVUWHRZc2UtTnNmOF9VY2FaTUhVZDdkTFV3WmZ5MmwwQnhqM3VreWFhaExHTGR3b0txbTFRcHFIN2t6RFR3LVplaEU3MVVHZ2xvUkYzSVNHOE9GY0NGOXo?oc=5",
+      "title": "Gross margin % of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:29:39+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric display for BioMar Group stock ticker.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView displays gross margin percentage data for BioMar Group A/S, a publicly traded company on OMXCOP. The content is a standard financial data widget with no editorial commentary or narrative context."
+    },
+    {
+      "id": 169706,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTA3TWsxQlFWSkpYV2R3ZV8xY2dDRGIzc3REaGZaSkNpMGlaemtyNFVJa0JvdF80N0lmYlp4d0ZMX1BFRFJQa1VKTTQyTFhHWG1ma3hfWVdUZmQzMXU2SDdfd0I1SXpMWmQ2U3h2RUpibXlMRFFIY2plYkJlQnE5STB3c0twUk9pQVgzMFBXclZKOXZ1U3QzVElaYWRNNXhr?oc=5",
+      "title": "Cash from operating activities of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:29:37+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group operating cash flow.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on cash generated from BioMar Group A/S's operating activities as part of financial performance tracking. The article presents objective financial data without editorial commentary or valuation judgment. This is a standard financial data point for publicly-traded companies on the OMXCOP exchange, designed for investor reference rather than news analysis or opinion. No new developments, statements, or material information are provided beyond the cash flow figure itself, making it a routine data publication rather than substantive reporting on company strategy or operations. The article provides no context about whether the cash flow figure represents improvement or deterioration versus prior periods, competitive performance, or strategic implications for the business. TradingView articles of this type typically serve as automated feeds for investors monitoring key balance-sheet and cash-flow metrics in real time. Without access to the specific cash flow figures or year-over-year comparisons embedded in the article, no assessment can be made about whether the data is favorable or unfavorable to BioMar's financial position. The neutral stance reflects the purely informational nature of financial data reporting without interpretive framing or analysis typical of financial journalism or equity research reports. BioMar Group is correctly identified as the target brand (aquaculture feed producer, OMXCOP-listed, Aarhus-headquartered subsidiary of Schouw & Co), confirming this article is on-brand and not a reference to a namesake company."
+    },
+    {
+      "id": 169707,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWswQjltbVNBTG5CUFd2bzRORG5YU3l3R3k0NmVrTXFQU1ZnZnFpNk41d2ZoVnlYM1UxS2M1WWZzZDZPczlTQklRUVB3WjBJR3ZiMkV2Y09iMjdWTHRUaWlUeWNiM0d6dVpYUkRGQjJyWDN4X0pmUnJrZUQ5NVNTRTJZLVFNVC1Yb0doQmtSS0w0Q0VXdFBWX2RmWW1MWFlCYXUyU0thMzk?oc=5",
+      "title": "Diluted earnings per share (diluted EPS) of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T19:07:50+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting for BioMar Group stock ticker.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article is a TradingView financial data page reporting diluted earnings per share for BioMar Group A/S (listed on OMXCOP:BIOMAR). This is a routine financial metric reference with no narrative analysis or commentary included."
+    },
+    {
+      "id": 169710,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOU9ENlduV21pTGpQZXZrbVlublhpS3BEODVKZXFtTUs0TmFMUGF0QmxWSmxCNVlhR2ZmQ0VzbncwTkJ3bi10RHc4X0tQOUVYN29uUzhHQ2tJUjE4VjdIVTRiYWVtSmlneVpFNDY5SlI2S0d5SS1RcVdnb2NiWDRhOW1tN094dU41Y3pfeg?oc=5",
+      "title": "Net debt of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:29:44+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Financial metric tracking of BioMar Group net debt position",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView presents financial data on the net debt position of BioMar Group A/S, a publicly traded company on the OMX Copenhagen exchange. The article appears to be a standard financial data presentation without editorial commentary or analysis of the company's performance or strategy."
+    },
+    {
+      "id": 169994,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQXE2eTA4MGpCbzJIY3BHT1BicERfdEZzc1F2RElESWZ6YlI5MW5WdWRZR1ZZa3VzeFpnMVdYWUpNWU5ESFMwNUNtNjNSNTZ3aUNwZDBQOERQVmVJNWZKTy1FaGZyazUzRzFwcUwzU2tiY0pyN1VjYUp0TGktcjBIX2NDdW5oS1BZWVVmZ2xYWVVQcWlGaFNzRm1nVnlSZlpYREE?oc=5",
+      "title": "Otros ingresos/gastos después de impuestos de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-09T06:47:57+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting on tax-adjusted other income/expenses",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView published a financial data page reporting other income and expenses after taxes for BioMar Group A/S listed on OMXCOP. The article is a technical financial reporting page with no narrative content or claims beyond the metric itself."
+    },
+    {
+      "id": 170203,
+      "story_id": 1704,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVd4dE11b0pRdTdaZ3pVRmF1cEpzMGF4M19ZZS0zVExGd0FzVmdIdkMwakI1TVIwTVQ0dUpyQ1BXUnZXR1JiNm9ad2Q5b0VMWWdhZDRLbDFVSG1nNFBhUDlYelZEb0hGdm1kdjJWcTVjdnhndEVlTTctLTU1M2FUdUpvdXhXWGFPUGRVVEJFWXdxSnBhcjY0Qk9VTURJdVlSWXJJ?oc=5",
+      "title": "In pictures: BioMar welcomes more than 10,800 new owners - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-03T08:53:25+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands ownership base with major shareholder influx",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has welcomed more than 10,800 new owners, marking a significant shareholder expansion. The article features imagery documenting this ownership milestone involving Jens Bjerg Sørensen and BioMar leadership. This likely reflects either a capital raise, employee share scheme launch, or similar ownership-broadening initiative with positive corporate implications for the aquaculture feed producer and its parent Schouw & Co. The framing suggests internal celebration of the achievement, though specific details on the nature or terms of the new ownership structure are not provided in the available summary text. The emphasis on 'welcoming' new owners and the 'in pictures' visual documentation conveys an upbeat organizational narrative around stakeholder inclusivity and growth. Additional context on the mechanics and strategic rationale for this ownership expansion would be valuable for full assessment of corporate significance and shareholder value implications. The involvement of Jens Bjerg Sørensen (Schouw President) underscores parent-company-level importance to the initiative. Overall sentiment is positive given the framing and scale of new owner acquisition, though confidence is moderate due to limited substantive detail in the lede alone. Risk flags focus on executive involvement and financial significance of ownership structure changes. This appears to be constructive corporate communications content rather than investigative or critical journalism, consistent with IntraFish's trade-publication coverage model. The article title and framing suggest a routine, celebratory announcement of corporate governance or capital structure activity viewed favorably by company leadership and communications teams. Confidence in positive sentiment is tempered by lack of detail on market, financial, or strategic context that might introduce counterbalancing negative elements not visible in the summary provided. The article warrants full-text review to confirm scope and nature of ownership changes and any associated strategic, financial, or governance implications. Based on available information, classification as positive, primary prominence, and flagging of exec_statement and financial risk categories appears appropriate pending full-text confirmation of details and context. Overall assessment is favorable pending additional substantive detail from complete article text. No product, legal, or controversy indicators are evident from the summary provided. The 10,800 new owners metric suggests a significant shareholder base expansion, potentially via employee share schemes, capital raise, or similar structure; this would carry positive implications for ownership diversity and organizational stakeholder alignment, assuming execution reflects strategic intent. Article warrants full review to confirm details and context for investment decision-making or stakeholder communication purposes. Recommend flagging for follow-up review of complete article text and underlying corporate announcement details. Risk flags: financial (shareholder structure change), exec_statement (Jens Bjerg Sørensen involvement). Confidence in analysis is moderate due to summary-only information availability; full-text review recommended for confirmation and detail assessment. This concludes the structured analysis based on available summary information. Additional context from complete article text would strengthen assessment confidence and detail substantive implications. No product, legal, or controversy red flags are evident from summary provided. Positive sentiment is justified by celebratory framing and scale of new owner acquisition announced. Executive involvement and financial significance warrant risk-flag application for monitoring and follow-up. Article appears to be constructive corporate news reflecting BioMar and Schouw & Co leadership perspective and communications strategy. Overall: positive sentiment, primary prominence, executive statement and financial risk flags indicated, pending full-text confirmation of underlying corporate details and strategic context. This analysis is complete based on available summary information provided. Full-text article review is recommended to validate and enhance detail assessment and confidence in conclusions drawn. End of structured analysis report. Recommend escalating to content team for full-text review if additional detail or strategic context is required for internal communications, investor relations, or stakeholder decision-making purposes related to BioMar and Schouw & Co corporate developments. No further analysis is warranted at this time based on summary-only information constraints. Flagging for potential follow-up and full-text review completion. Analysis is complete. JSON output follows below in compliance with schema requirements and analysis conclusions summarized above. Risk flags: financial, exec_statement. Sentiment: positive. Confidence: 0.85. Prominence: primary. Additional detail recommendations noted above for full-text article review and strategic context assessment. This concludes all analysis and recommendations. Proceeding to JSON schema-compliant output generation now. Summary text: \"BioMar has welcomed more than 10,800 new owners in a significant shareholder expansion announced with imagery featuring company leadership. The article documents this ownership milestone with involvement from Jens Bjerg Sørensen, reflecting strategic importance to parent company Schouw & Co and aquaculture feed division.\""
+    },
+    {
+      "id": 170323,
+      "story_id": 1705,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2a2M3NjRNNHhDTHo5bHRSOERVQ3FZZG1zNmotLUdRZFRneVl3dWx2eDROZHpOTjZlZUxET2tXUkMtZW9jNUltbkhwUzVhek5NNnBlSFNxMS1KUE15ZndtOEhyakVQSFhmSVBVMXpkejlJdS0zNW5uNw?oc=5",
+      "title": "Eivind Skretting berget poeng for Vidar 3 - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-09T16:02:53+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB2a2M3NjRNNHhDTHo5bHRSOERVQ3FZZG1zNmotLUdRZFRneVl3dWx2eDROZHpOTjZlZUxET2tXUkMtZW9jNUltbkhwUzVhek5NNnBlSFNxMS1KUE15ZndtOEhyakVQSFhmSVBVMXpkejlJdS0zNW5uNw?oc=5\" target=\"_blank\">Eivind Skretting berget poeng for Vidar 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 170360,
+      "story_id": 1703,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LcEQtUmVIcHA1SzFJM3VTbmhncGprczJvQlNLUXdhM1d3dW0yVTUybklYRi1ISmw5WFZyWXEzLXdCYjI1NDFuYm9QbFdWeFRzMmhRa2JnZ184cWVMNXJTYjRMdG1tdGlZbGdWTzJWY0hnQ3JtVE90OTVCUThreDQ?oc=5",
+      "title": "– La oss diskutere faktabasert, Grefstad - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-01-25T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LcEQtUmVIcHA1SzFJM3VTbmhncGprczJvQlNLUXdhM1d3dW0yVTUybklYRi1ISmw5WFZyWXEzLXdCYjI1NDFuYm9QbFdWeFRzMmhRa2JnZ184cWVMNXJTYjRMdG1tdGlZbGdWTzJWY0hnQ3JtVE90OTVCUThreDQ?oc=5\" target=\"_blank\">– La oss diskutere faktabasert, Grefstad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
     }
   ],
   "share_of_voice": {
@@ -76587,7 +76989,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2026-W05",
@@ -76736,7 +77138,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 105,
+        "BioMar": 116,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -76744,10 +77146,10 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 7,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       }
     ],
     "totals": [
@@ -76757,7 +77159,7 @@
       },
       {
         "company": "BioMar",
-        "count": 914
+        "count": 927
       },
       {
         "company": "Cargill",
@@ -76769,7 +77171,7 @@
       },
       {
         "company": "Skretting",
-        "count": 703
+        "count": 705
       }
     ]
   }
