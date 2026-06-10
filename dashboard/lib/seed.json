@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-10T18:32:17+00:00",
+  "generated_at": "2026-06-10T23:23:20+00:00",
   "stats": {
-    "mention_count": 2048,
-    "story_count": 1686,
-    "analyzed_count": 944,
+    "mention_count": 2054,
+    "story_count": 1687,
+    "analyzed_count": 950,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -332,12 +332,12 @@
       "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
       "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
       "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-09T22:53:36+00:00",
+      "last_seen": "2026-06-09T23:38:24+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 113,
+      "pickup_count": 118,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -19096,6 +19096,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1709,
+      "headline": "Biomar ansetter - Intrafish",
+      "story_summary": "BioMar has announced a staffing appointment. The brief report provides minimal detail about the nature or scope of the hiring decision.",
+      "first_seen": "2020-02-04T08:00:00+00:00",
+      "last_seen": "2020-02-04T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 473,
@@ -73763,6 +73777,150 @@
         "none"
       ],
       "summary": "The article is a TradingView data page or widget displaying free float information for BioMar Group A/S shares listed on OMXCOP under the ticker BIOMAR. No substantive news, claims, or commentary about the company are provided beyond the technical stock market data reference."
+    },
+    {
+      "id": 172849,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VVTVMSjlhd3VJbGx2cXprVVNxVU5Wb3V0Qm05UmFOU0V3aWVJM2VCT0tiaG9KQVQ1WHlYZjlEb0VURHVOZnM1N2pDTThHeThYQ1ZYQzR1SVVmUm80RnRXdDlsYkhHR2tHNU5YS094eWNtNTdvaHRZbkhFaw?oc=5",
+      "title": "BioMar Group A/S Cash Flow – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:13:11+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Cash flow financial data and charting for BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes cash flow financial data and interactive charts for BioMar Group A/S, a publicly traded company on the OMX Copenhagen exchange. The article is a financial dashboard or data page rather than news analysis or commentary on the company's performance or business operations."
+    },
+    {
+      "id": 172860,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03Z3RDcEJuWEV2V0g0eUhfOWV0ekw5eE5kZ3F6WV91TV8xR1BwQ2dPR1VkOGs4UnJ0cXBPblc3MGVRamVhN3NRQ1lISHRhREVtYjJXa3U0Mng4ek9zUTZKSHFCZzE5X0U2QlE2S0hUdGEzVkJuWEJZcA?oc=5",
+      "title": "BioMar Group A/S Balance Sheet – FWB:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T00:18:40+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data reference for BioMar Group share price tracking",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView published a balance sheet reference page for BioMar Group A/S listed under ticker FWB:2IT. The content is a financial data aggregation service entry with no narrative or news angle beyond providing investor access to the company's balance sheet information."
+    },
+    {
+      "id": 172985,
+      "story_id": 1709,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42ZXF3bUNSNVlkNHZqZVZfWmlHRl9GWFVyWk9jWTZ1dUNvMUFmclB3aks2VXE3ank0WFNXU2N1d1RPZjFpUTNNLU1wZk1ZeENtUVhhdkhwaDByUGlqSUVhd2QySjZTQmhlX0NacHNPNUplSEFFbnc?oc=5",
+      "title": "Biomar ansetter - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-02-04T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "BioMar announces new hiring",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has announced a staffing appointment. The brief report provides minimal detail about the nature or scope of the hiring decision."
+    },
+    {
+      "id": 173123,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdnBFVkVxUFVBdFZkT2lsR2pSaXpzX3ZZUzVqYXJiMGFZX1NaVG1ERFVhaWZZT19VNy04SGN3aGsyaFdyVnc0UUZBUGpKWkl1dmZEQjJ0Q0RJYWRnQnNwUUp5X1NTSlowWXZ3NjlfOHdLZGhEWnpDNk1uWFBNbDd6bHRDWXF2SjdCRmxzLVZCTF9KR2VyNWJLLTViX21IQk0?oc=5",
+      "title": "Inversión de capital (CapEx) por acción de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-09T06:53:59+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Capital expenditure per share metric for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial metric page tracking BioMar Group A/S's capital expenditure (CapEx) per share on the OMXCOP exchange. The article is a data-driven financial reference tool without narrative framing or sentiment bias."
+    },
+    {
+      "id": 173124,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5NWRQVTVoM2paV3AwYTBaZ2V4UG5CRVZZWUkyTzN5ckxseWgtdUNHME9MT3dIRTBibjhQUUR3MW1GUXQ2WEJpUzlYekt3V0E5RFhnODAxWlZ6Y1FFN1V0WVJfRUxBMExNY0VDd0VUMldZTnpRMDU5Slh3?oc=5",
+      "title": "BioMar Group A/S Flujo de efectivo – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-09T17:34:35+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Cash flow financial metrics for BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView financial data page displaying cash flow information for BioMar Group A/S traded on OMXCOP under ticker BIOMAR. The article presents factual financial metrics without editorial commentary or analysis of company performance or strategy."
+    },
+    {
+      "id": 173125,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Cd05oNjhBdDdyQ1pacC13T2JTbVkwSk5FRjRjNG80a2ZPckp4TjEzSmlCdDQxRGtWMDMxM3ZoT0xSUUpzR1hIQVI3WEZxQUhCNlU3a1ZPTDlGWm0wdkJRaWlDRVZVcU9uRVJmZUhBZXY?oc=5",
+      "title": "Beneficios e ingresos de BioMar Group A/S: MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-09T23:38:24+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Stock listing of BioMar Group earnings and financial data",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView provides a financial data page displaying earnings and revenue information for BioMar Group A/S (ticker: MUN:2IT). The article is a factual financial reference page with no editorial commentary or narrative content beyond presenting standardized stock market data."
     }
   ],
   "share_of_voice": {
@@ -75321,7 +75479,7 @@
       {
         "week": "2020-W06",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -77601,7 +77759,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 125,
+        "BioMar": 126,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -77609,7 +77767,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 14,
+        "BioMar": 18,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -77622,7 +77780,7 @@
       },
       {
         "company": "BioMar",
-        "count": 944
+        "count": 950
       },
       {
         "company": "Cargill",
