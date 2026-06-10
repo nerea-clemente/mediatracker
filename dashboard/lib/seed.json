@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-10T09:05:17+00:00",
+  "generated_at": "2026-06-10T12:40:43+00:00",
   "stats": {
-    "mention_count": 2031,
-    "story_count": 1683,
-    "analyzed_count": 927,
+    "mention_count": 2039,
+    "story_count": 1685,
+    "analyzed_count": 935,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -300,6 +300,20 @@
   ],
   "stories": [
     {
+      "id": 1707,
+      "headline": "Former BioMar exec swaps Tidal for AKVA - Undercurrent News",
+      "story_summary": "A former BioMar executive has transitioned to a new role at AKVA Group, a competitor in aquaculture technology and equipment. The move represents typical industry mobility among senior personnel in the aquaculture sector. No substantive details are provided in the available excerpt beyond the headline and outlet attribution. The article highlights personnel movement within the sector rather than developments affecting BioMar directly. This type of coverage is standard business reporting on executive appointments and industry transitions. BioMar is mentioned primarily as the previous employer context for the executive's career history. AKVA Group is positioned as the new destination for this professional transition. The news does not raise concerns about BioMar's operations, strategy, or performance. Executive movements are common in specialized industrial sectors and typically indicate active job markets and talent mobility. While the executive's prior BioMar experience may be relevant background, the article's focus is clearly on the new appointment rather than BioMar itself. The transition from Tidal to AKVA suggests the executive may have had intermediate roles between leaving BioMar and joining AKVA. Without access to the full article text, the specific role, responsibilities, or implications cannot be determined with certainty. This appears to be a standard industry news brief covering routine personnel announcements typical of the aquaculture equipment and technology sector. The mention of BioMar serves primarily as career context rather than substantive coverage of the company itself. Overall sentiment remains neutral as no positive or negative claims about BioMar are evident in the available information provided through the headline and outlet attribution alone. The confidence level reflects the straightforward nature of executive appointment reporting without controversial or evaluative language present in the visible text. The prominence rating of secondary reflects that while BioMar is mentioned, the article's primary focus is on the career transition and new role at AKVA rather than BioMar-specific news or developments. Passing rating was not applied because the executive's former employment at BioMar appears to be a substantive part of the article's framing, even if not the main focus. The angle captures the core narrative of personnel movement between aquaculture sector companies. Key claims cannot be reliably extracted from the limited text available, so this field is left empty to avoid speculation. Similarly, no direct quotes from named BioMar or Schouw executives are evident in the available excerpt, so people_quoted is left empty. Risk flags are set to none as the article does not appear to touch on legal, financial, controversy, exec_statement, or product_issue dimensions based on the available information. The analysis reflects the constraints of working with headline and lede information only, with full article text unavailable for detailed claim extraction and quote attribution. The neutral sentiment and secondary prominence appropriately reflect an article that mentions BioMar in context of an executive's career history rather than as the central focus of substantive coverage about the company itself. BioMar is confirmed as the target brand based on the aquaculture feed producer context and executive references, distinguishing this from any of the various unrelated namesakes operating in automotive, pharmaceuticals, or other sectors. The analysis confirms this article is about BioMar Group / BioMar A/S and its personnel, making is_about_target_brand true. Without the full article text, the analysis appropriately remains conservative and avoids overinterpreting the limited information available in headlines and lede summaries alone.",
+      "first_seen": "2026-06-10T10:20:00+00:00",
+      "last_seen": "2026-06-10T10:20:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1705,
       "headline": "Eivind Skretting berget poeng for Vidar 3 - Stavanger Aftenblad",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB2a2M3NjRNNHhDTHo5bHRSOERVQ3FZZG1zNmotLUdRZFRneVl3dWx2eDROZHpOTjZlZUxET2tXUkMtZW9jNUltbkhwUzVhek5NNnBlSFNxMS1KUE15ZndtOEhyakVQSFhmSVBVMXpkejlJdS0zNW5uNw?oc=5\" target=\"_blank\">Eivind Skretting berget poeng for Vidar 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
@@ -351,7 +365,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 99,
+      "pickup_count": 105,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -22247,6 +22261,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1706,
+      "headline": "Knappe marginer for BioMar i første kvartal - iLaks",
+      "story_summary": "BioMar experienced narrow profit margins during the first quarter of 2016. The article focuses on the company's financial performance and margin pressures during this period.",
+      "first_seen": "2016-05-03T07:00:00+00:00",
+      "last_seen": "2016-05-03T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 846,
@@ -73308,6 +73336,200 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1LcEQtUmVIcHA1SzFJM3VTbmhncGprczJvQlNLUXdhM1d3dW0yVTUybklYRi1ISmw5WFZyWXEzLXdCYjI1NDFuYm9QbFdWeFRzMmhRa2JnZ184cWVMNXJTYjRMdG1tdGlZbGdWTzJWY0hnQ3JtVE90OTVCUThreDQ?oc=5\" target=\"_blank\">– La oss diskutere faktabasert, Grefstad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 170736,
+      "story_id": 1707,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzlXRkZmUzA0ekZKdFlXMG91bkpQMkNveXNoOWNLOFBpemNsaHB0S2dHLXJnZGxoUGQtZXpNRVc3Q256amUzc0JMX3lhZjZIUDEwLXBLZTY4WFNLOU1uT1VONjdJdDZSTUhoeDBwWGpORVdZV21GYUlUbE5uRUlHcTcwd1hzLWNDNUJ0WA?oc=5",
+      "title": "Former BioMar exec swaps Tidal for AKVA - Undercurrent News",
+      "source_name": "Undercurrent News",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-06-10T10:20:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "secondary",
+      "angle": "Executive career move from Tidal to AKVA Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A former BioMar executive has transitioned to a new role at AKVA Group, a competitor in aquaculture technology and equipment. The move represents typical industry mobility among senior personnel in the aquaculture sector. No substantive details are provided in the available excerpt beyond the headline and outlet attribution. The article highlights personnel movement within the sector rather than developments affecting BioMar directly. This type of coverage is standard business reporting on executive appointments and industry transitions. BioMar is mentioned primarily as the previous employer context for the executive's career history. AKVA Group is positioned as the new destination for this professional transition. The news does not raise concerns about BioMar's operations, strategy, or performance. Executive movements are common in specialized industrial sectors and typically indicate active job markets and talent mobility. While the executive's prior BioMar experience may be relevant background, the article's focus is clearly on the new appointment rather than BioMar itself. The transition from Tidal to AKVA suggests the executive may have had intermediate roles between leaving BioMar and joining AKVA. Without access to the full article text, the specific role, responsibilities, or implications cannot be determined with certainty. This appears to be a standard industry news brief covering routine personnel announcements typical of the aquaculture equipment and technology sector. The mention of BioMar serves primarily as career context rather than substantive coverage of the company itself. Overall sentiment remains neutral as no positive or negative claims about BioMar are evident in the available information provided through the headline and outlet attribution alone. The confidence level reflects the straightforward nature of executive appointment reporting without controversial or evaluative language present in the visible text. The prominence rating of secondary reflects that while BioMar is mentioned, the article's primary focus is on the career transition and new role at AKVA rather than BioMar-specific news or developments. Passing rating was not applied because the executive's former employment at BioMar appears to be a substantive part of the article's framing, even if not the main focus. The angle captures the core narrative of personnel movement between aquaculture sector companies. Key claims cannot be reliably extracted from the limited text available, so this field is left empty to avoid speculation. Similarly, no direct quotes from named BioMar or Schouw executives are evident in the available excerpt, so people_quoted is left empty. Risk flags are set to none as the article does not appear to touch on legal, financial, controversy, exec_statement, or product_issue dimensions based on the available information. The analysis reflects the constraints of working with headline and lede information only, with full article text unavailable for detailed claim extraction and quote attribution. The neutral sentiment and secondary prominence appropriately reflect an article that mentions BioMar in context of an executive's career history rather than as the central focus of substantive coverage about the company itself. BioMar is confirmed as the target brand based on the aquaculture feed producer context and executive references, distinguishing this from any of the various unrelated namesakes operating in automotive, pharmaceuticals, or other sectors. The analysis confirms this article is about BioMar Group / BioMar A/S and its personnel, making is_about_target_brand true. Without the full article text, the analysis appropriately remains conservative and avoids overinterpreting the limited information available in headlines and lede summaries alone."
+    },
+    {
+      "id": 170739,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajRrUHhlaElYejZLYzBVbzRleENWVXFWd0FMa2NBS241cHJpbUI3MVEwaEJYTFotc3RZYXkta1BpY0dRTnJ1SzgwUW9pNjZnMWtvVzlHdlk4b3RibzJZOV84NWxDc3hWNmRCRzdpWlJHcVc4Wm5ZRkxFUEpLT2hxcEQzdm1UajBNUlF0Y3VTa0lCcm1rbHloMw?oc=5",
+      "title": "Total liabilities of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T17:26:21+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial reporting on BioMar Group's total liabilities metric.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on the total liabilities figure for BioMar Group A/S, a publicly traded company on the OMXCOP exchange. The article presents factual financial data without editorial commentary or narrative framing beyond the metric itself."
+    },
+    {
+      "id": 170740,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjU1YVBvZWRmckJHRndUTDJDME83LXg0ZGxLVE9mVWtCZ3hoUGlhaHRjQ1dCWjRDdFd4UUJNQ3VFVHBKdlFTZ2R6czQ5YUxUb0NqaGFhSXpFMjlrMTgyanRYUXVrQmRVZHR4ZzlYdzQ0cmZSdlhuUTZBSlUxYlJVM0dPaEpIWkdRR2xnX3dxUXFfa1BwUEUtZlBlRm0?oc=5",
+      "title": "Net current asset value per share of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:37:59+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Financial metric reporting on BioMar Group share valuation",
+      "key_claims": [
+        "BioMar Group A/S trades on OMXCOP exchange under ticker BIOMAR"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView reports on the net current asset value per share metric for BioMar Group A/S, a publicly traded company on the Copenhagen stock exchange. The article presents factual financial data without editorial commentary or sentiment."
+    },
+    {
+      "id": 170746,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmV1YzZKTGQ0Y2hfOFlfdFJ4NmtJdlNWVzFzeHBDUG1vcWNSR3ZIcFVqeFRLZFFoT3hYQmxWY1lOcWJPRWVTZGRSRDZNY2twUUF6dzRrOVVuN3ByTlVVMmZZT0tPWFRDZC1IN3pRT2RNQlNicDZwa0FlT1pYNUt3a3pjRGRST01UdFltNjNOLUtFOEEzOEtLY3FBUnpKZw?oc=5",
+      "title": "EBITDA margin % of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T05:49:48+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric tracking for BioMar Group equity listing.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial tracking page displaying EBITDA margin percentage data for BioMar Group A/S on the OMXCOP exchange. The article is a data dashboard or metric page rather than news analysis or reporting, providing technical financial indicators for investors monitoring the stock ticker BIOMAR."
+    },
+    {
+      "id": 170754,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWHJEVWlvUXVUVlJXdUFhUnNtNW5na2lGVGdUZUU4WjY3SDJ6RXdBbGlBcF93dGhmWnFadDItd0JtUUxhRGYteHIyb0NTeC1GWVBWV25GTGtYLTdJZjljR1dDYnByUm9UYzhOVS1OaWl3NTR1bU0wZ3BRU2VFSE5jWmxlaW11akxMRHo1bTlSdklIdGowdlBWYnlVdlJIQjhEMGc?oc=5",
+      "title": "Non-controlling/minority interest of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:37:45+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial disclosure of minority interest in BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial data entry regarding non-controlling or minority interest holdings in BioMar Group A/S listed on OMXCOP. The article is a routine financial disclosure or data reference with no substantive news content about the company's operations or performance."
+    },
+    {
+      "id": 170757,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVklGMEhTUUlOU2UyTTZwQjNaM1p0aUpvMm5aR1VBNUV5WHRiem5WNmRjRUl2WjNWaEV1OGJzdms0b3I2SlFaTlA1SWhGbVZIakM1ckpMN1VzOEw2NE1OTk1vN0o3YkhVZWQybzBPUDVJTFRqQnNjR3NYbmJ1akRsOWptcGJuaHhieVVtaGFvLVg2di1JVEpj?oc=5",
+      "title": "Preferred dividends of BioMar Group A/S – FWB:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T02:27:34+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Financial data on preferred dividends for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports preferred dividend information for BioMar Group A/S listed on the Frankfurt exchange. The article is a factual financial data listing with no narrative analysis or commentary provided."
+    },
+    {
+      "id": 170761,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLU41ejlTLUxoeW5tT1cwWjBCVnFma2JFbzVOMTQ3Uktwa213SFdGUDFzZ0FfeUg3d2EzVWVMYVlaUnZ2cGtaY3E4N1J4c3NQcXFjSXFNVmhBVV93bHFYSm80WGtsQWdQSU9zTnQ1U0hlNVJmelZ4Z3Vyek9qTk1TTVQ1aGxDdzhHTkgydVEwUXBzb05FMFlKeXFR?oc=5",
+      "title": "Enterprise value of BioMar Group A/S – FWB:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T02:23:42+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data and enterprise valuation metric display",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView publishes enterprise value data for BioMar Group A/S listed on the Frankfurt exchange. The article is a financial reference page displaying valuation metrics."
+    },
+    {
+      "id": 170916,
+      "story_id": 1706,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1paUFEclFqYXFELXRXeXpDRlFsMkNFVDVvYTJRUHQ4U29MZkh2cERxRFhrRzNwQkRVSjBTTTI0SkZxQ1ZYOVRsbnQxZjQyd01tWXRreUo4Sy1lN2dzaWdaYkdSc2RzZ3IzYng3Yy1n?oc=5",
+      "title": "Knappe marginer for BioMar i første kvartal - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2016-05-03T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports tight margins in first quarter results",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar experienced narrow profit margins during the first quarter of 2016. The article focuses on the company's financial performance and margin pressures during this period."
     }
   ],
   "share_of_voice": {
@@ -73916,6 +74138,14 @@
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 2,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2016-W18",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -77138,7 +77368,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 116,
+        "BioMar": 119,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -77146,7 +77376,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 7,
+        "BioMar": 11,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -77159,7 +77389,7 @@
       },
       {
         "company": "BioMar",
-        "count": 927
+        "count": 935
       },
       {
         "company": "Cargill",
