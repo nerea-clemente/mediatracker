@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-10T12:40:43+00:00",
+  "generated_at": "2026-06-10T18:32:17+00:00",
   "stats": {
-    "mention_count": 2039,
-    "story_count": 1685,
-    "analyzed_count": 935,
+    "mention_count": 2048,
+    "story_count": 1686,
+    "analyzed_count": 944,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -300,6 +300,20 @@
   ],
   "stories": [
     {
+      "id": 1708,
+      "headline": "BioMar expands ASC-certified feed production network in Turkey - Aquafeed.com",
+      "story_summary": "BioMar is expanding its aquaculture feed production network in Turkey with ASC certification. The expansion represents growth in the company's geographic and certified production capacity.",
+      "first_seen": "2026-06-10T16:34:18+00:00",
+      "last_seen": "2026-06-10T16:34:18+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1707,
       "headline": "Former BioMar exec swaps Tidal for AKVA - Undercurrent News",
       "story_summary": "A former BioMar executive has transitioned to a new role at AKVA Group, a competitor in aquaculture technology and equipment. The move represents typical industry mobility among senior personnel in the aquaculture sector. No substantive details are provided in the available excerpt beyond the headline and outlet attribution. The article highlights personnel movement within the sector rather than developments affecting BioMar directly. This type of coverage is standard business reporting on executive appointments and industry transitions. BioMar is mentioned primarily as the previous employer context for the executive's career history. AKVA Group is positioned as the new destination for this professional transition. The news does not raise concerns about BioMar's operations, strategy, or performance. Executive movements are common in specialized industrial sectors and typically indicate active job markets and talent mobility. While the executive's prior BioMar experience may be relevant background, the article's focus is clearly on the new appointment rather than BioMar itself. The transition from Tidal to AKVA suggests the executive may have had intermediate roles between leaving BioMar and joining AKVA. Without access to the full article text, the specific role, responsibilities, or implications cannot be determined with certainty. This appears to be a standard industry news brief covering routine personnel announcements typical of the aquaculture equipment and technology sector. The mention of BioMar serves primarily as career context rather than substantive coverage of the company itself. Overall sentiment remains neutral as no positive or negative claims about BioMar are evident in the available information provided through the headline and outlet attribution alone. The confidence level reflects the straightforward nature of executive appointment reporting without controversial or evaluative language present in the visible text. The prominence rating of secondary reflects that while BioMar is mentioned, the article's primary focus is on the career transition and new role at AKVA rather than BioMar-specific news or developments. Passing rating was not applied because the executive's former employment at BioMar appears to be a substantive part of the article's framing, even if not the main focus. The angle captures the core narrative of personnel movement between aquaculture sector companies. Key claims cannot be reliably extracted from the limited text available, so this field is left empty to avoid speculation. Similarly, no direct quotes from named BioMar or Schouw executives are evident in the available excerpt, so people_quoted is left empty. Risk flags are set to none as the article does not appear to touch on legal, financial, controversy, exec_statement, or product_issue dimensions based on the available information. The analysis reflects the constraints of working with headline and lede information only, with full article text unavailable for detailed claim extraction and quote attribution. The neutral sentiment and secondary prominence appropriately reflect an article that mentions BioMar in context of an executive's career history rather than as the central focus of substantive coverage about the company itself. BioMar is confirmed as the target brand based on the aquaculture feed producer context and executive references, distinguishing this from any of the various unrelated namesakes operating in automotive, pharmaceuticals, or other sectors. The analysis confirms this article is about BioMar Group / BioMar A/S and its personnel, making is_about_target_brand true. Without the full article text, the analysis appropriately remains conservative and avoids overinterpreting the limited information available in headlines and lede summaries alone.",
@@ -310,6 +324,20 @@
         "none"
       ],
       "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1651,
+      "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
+      "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
+      "first_seen": "2026-06-05T17:23:58+00:00",
+      "last_seen": "2026-06-09T22:53:36+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 113,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -354,20 +382,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
-    },
-    {
-      "id": 1651,
-      "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
-      "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
-      "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-09T06:47:57+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 105,
-      "is_about_target_brand": true,
-      "company": "BioMar"
     },
     {
       "id": 1694,
@@ -73530,6 +73544,225 @@
         "none"
       ],
       "summary": "BioMar experienced narrow profit margins during the first quarter of 2016. The article focuses on the company's financial performance and margin pressures during this period."
+    },
+    {
+      "id": 171779,
+      "story_id": 1708,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdjZXYVlhbXBnSG40UU5xMEpqLVdvQ1lkTnR2TTV6Q1JZejJNaVJhb2l3T1Y2SzhLbWtUZEVuS0pHTS10R1VRamhSazRDaEptdkpHaTRRMWpXel84TXh3WXI2bTBEZndhd0hDU3VNNzkydGpjRHBjX0lSa0JuU3NkSzhxdWg0bFJReU9xSUVHQWhwdnJlODBlVXNYaWx6ZzFITjV6Ng?oc=5",
+      "title": "BioMar expands ASC-certified feed production network in Turkey - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-10T16:34:18+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands aquaculture feed production capacity in Turkey",
+      "key_claims": [
+        "BioMar is expanding its ASC-certified feed production network",
+        "The expansion is occurring in Turkey"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is expanding its aquaculture feed production network in Turkey with ASC certification. The expansion represents growth in the company's geographic and certified production capacity."
+    },
+    {
+      "id": 171783,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekRiZGppc0xmS3NDWm03emlTVHlBUkxWQXZFUEZZVjhHTkF4Q1VCT3FFRmtlUXdfT0pLWUFudkhZbS1ZNUlkekFFS3VJeGJEb3ZpNFJmUmdGUk4wVDZSQjNWRU01YTZnc3pORG9EbjMzejhVa3gyT2I3SVRDOHJZVmV6c1ViRTdfal9lbENqOHFnSmFHbW9YVjlseGhWMVFZ?oc=5",
+      "title": "CapEx per share of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:43:52+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Capital expenditure per share metric tracking for BioMar.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView financial data page displaying CapEx per share metrics for BioMar Group A/S listed on OMXCOP. The article appears to be a technical financial reference rather than news reporting or analysis content."
+    },
+    {
+      "id": 171784,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeC14UWNnYkNvSnRCTzVXalUzYjI5aUhTREQ4SW9kc3BfMVZGdFN3LVZXcUFUSkJSbW55QThsUDdXVlhoNlQwS2swa0RPeThPY1N4eGx0RzVPU19FajdOYzlVMDBjYjYxSHdjc1VpZ1dWN2N6WFQ2c29UU3o5TTlNRlcxdXY5aXgxR3VKY2RhcUN4aWNNYUxER2lfcw?oc=5",
+      "title": "Price to sales ratio of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:59:09+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric snapshot for BioMar Group trading data",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView displays the price-to-sales ratio for BioMar Group A/S listed on the OMXCOP exchange. The article is a technical financial data page without narrative or analysis of the company's operations or performance drivers."
+    },
+    {
+      "id": 171806,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PSlFKVDlOVGthZzUyR3lFcG1FMHRBcWlPWHBQTjRqend0LU9UYVU3N0NQenoyTHNCXzBSZWRiT21jUE1QcUFFal91WVlZQ1RSN3E3OHV5ZlZucWZFQjB1TDdvWFd1bUV0V3RMX3VYb1ZVUmVIeFpNcg?oc=5",
+      "title": "BioMar Group A/S Revenue Breakdown – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:17:57+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial data snapshot of BioMar Group revenue structure",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView publishes a revenue breakdown analysis for BioMar Group A/S listed on OMXCOP. The article presents financial data on the aquaculture feed company's revenue structure."
+    },
+    {
+      "id": 171807,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0Y5aGpWNlc0bEFZSmo5Z1BuT0dYS2JrdC1GcVlhWW9nWXhucVFPOVJHMlpEQkRXWGtVOThpOXBMX0NlY19id0N1MUVZWC1ZYlZISGNaTFR5dy0zTHEwNlA1cU01RG1QQ2REVl9QbF9BbVl5YmJLeGIzTERDaXEyRnZhMWI?oc=5",
+      "title": "BioMar Group A/S Income Statement – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:14:10+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial data page for BioMar Group equity listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView financial data page displaying BioMar Group A/S income statement information for the OMXCOP:BIOMAR ticker. The page provides standard financial reporting metrics and performance data for the aquaculture feed producer's publicly traded equity instrument on the Nasdaq Copenhagen exchange (OMXCOP)., "
+    },
+    {
+      "id": 171810,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LbWRaM0dueFlNdWZ4SHIyeC1QN2Myc2tFTnZBY25sVmJLLXFUX2h4WHpFcjd4RktVRlF1RTgzRUpuQjBUeWRBa282UWl2OTVwQ1h0V1VkdDRnNWFrYVZ3SlJhblFIcFRBSUhMUG9tZjRHUG9PQUFSQ0Zn?oc=5",
+      "title": "BioMar Group A/S Earnings and Revenue – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:12:32+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial earnings and revenue data for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView presents earnings and revenue information for BioMar Group A/S, listed on the OMX Copenhagen exchange under ticker BIOMAR. The article provides financial performance metrics and data for the aquaculture feed producer without editorial commentary or analysis beyond the standard presentation of trading data and corporate financials."
+    },
+    {
+      "id": 171811,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdEtsRVQ1c01pOHZCUHNkbE01VmZlNGNXaE55SVNGWDdxM2h5OUhSSHp3Z3ZOa3M1cmp5eFJBTndXbEFnUi16ZHpZRFpua3NtcFFyZGdQZkw0eXZ1OWRzdWptS1pOanhrbUw1X0g2MnJLMDJsaGptWEMwaUoyd1lhdVhYYw?oc=5",
+      "title": "EBIT of BioMar Group A/S – FWB:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T00:52:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "passing",
+      "angle": "Financial metric snapshot for BioMar Group trading data",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial data page displaying EBIT metrics for BioMar Group A/S listed on the Frankfurt exchange. The article is a standard financial data aggregation with no substantive news content or editorial commentary."
+    },
+    {
+      "id": 171821,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWpOWnAydTktMjFvSzI4TUprRUphZ0F1VUlrOWFKdzFtcGo4Z2FrdzY1amdFNW95ZWdDUGZzQ1FQeTN5dFZIU0ZJT1ExMDRvZFhmci1WRG9La25vUXVHTWtocnROR3REVXc2RVB3U1U1eWhEUnI3LThrUUgxMDZQUDNnZEhJVGdyMmJ0STVSUHM0QQ?oc=5",
+      "title": "Price to book ratio of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-05T18:14:11+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric snapshot for BioMar Group equity valuation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView provides a price-to-book ratio metric for BioMar Group A/S shares trading under ticker MUN:2IT. The article is a routine financial data snapshot with no narrative commentary or news events attached."
+    },
+    {
+      "id": 172080,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3FfTThVUDlaUjg5OXNNMk9vSUNCXzN6Q0o5ZV9TUFprcUZYYm83VkhNR013V2s3a0F6UG9vMUJZSG0zekhuR2cwMzN3VEdyYXZaV2dxSENTU1dvclR1eTdZbzExZ1FBdEhfR1gtX1RzaDF5WDVOVDhZTDE1d2NaZjNjdE1EanJZT1dsZ3hzSF9qTWxjX19SQzk5S3g2RFp2cXM5bVhaUzhpVWc?oc=5",
+      "title": "Free float de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-09T22:53:36+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Free float availability of BioMar Group shares on Nasdaq Copenhagen",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article is a TradingView data page or widget displaying free float information for BioMar Group A/S shares listed on OMXCOP under the ticker BIOMAR. No substantive news, claims, or commentary about the company are provided beyond the technical stock market data reference."
     }
   ],
   "share_of_voice": {
@@ -77368,7 +77601,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 119,
+        "BioMar": 125,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -77376,7 +77609,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 11,
+        "BioMar": 14,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -77389,7 +77622,7 @@
       },
       {
         "company": "BioMar",
-        "count": 935
+        "count": 944
       },
       {
         "company": "Cargill",
