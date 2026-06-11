@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-11T18:48:12+00:00",
+  "generated_at": "2026-06-11T23:19:13+00:00",
   "stats": {
-    "mention_count": 2066,
-    "story_count": 1692,
-    "analyzed_count": 958,
+    "mention_count": 2071,
+    "story_count": 1693,
+    "analyzed_count": 962,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -59,6 +59,7 @@
     "Det Norske Kongehus",
     "Diario Acuícola",
     "Diario Concepción",
+    "Diario De Puerto Montt",
     "Diario Digital El Calbucano",
     "Diario Financiero",
     "Diario Red",
@@ -301,6 +302,20 @@
   ],
   "stories": [
     {
+      "id": 1715,
+      "headline": "BioMar Sagun Achieves ASC Feed Certification - Perishable News",
+      "story_summary": "BioMar Sagun, a facility of the aquaculture feed producer BioMar, has achieved ASC (Aquaculture Stewardship Council) Feed Certification. This certification validates the facility's adherence to sustainable and responsible aquaculture feed production standards established by the ASC Board of Trustees and other industry stakeholders, reflecting positively on BioMar's commitment to environmental and social responsibility in aquaculture nutrition supply chain management practices and regulations compliance with sustainable sourcing and manufacturing standards and practices that assist farming partners gain competitive advantages in their own seafood product supply chains internationally in major export markets like the EU, USA and other regions demanding increased sustainability standards and transparency in supply chain monitoring.",
+      "first_seen": "2026-06-11T21:35:42+00:00",
+      "last_seen": "2026-06-11T21:35:42+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1713,
       "headline": "BioMar Chile confirma Patagonic RAS 2026 y reúne a líderes de acuicultura - aqua.cl",
       "story_summary": "BioMar Chile has confirmed its participation in Patagonic RAS 2026, a major gathering of aquaculture industry leaders. The event brings together key players in the Chilean and regional aquaculture sector to discuss developments and innovation in the field.&quot;, ",
@@ -380,7 +395,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 122,
+      "pickup_count": 124,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -4413,6 +4428,20 @@
       "company": "Skretting"
     },
     {
+      "id": 980,
+      "headline": "BioMar launches a new functional feed to boost seabass resilience against bacteria - Aquafeed.com",
+      "story_summary": "BioMar has introduced a new functional feed formulation intended to enhance seabass resistance to bacterial pathogens. The product launch reflects the company's continued focus on developing specialized aquaculture nutrition solutions.",
+      "first_seen": "2026-02-16T08:00:00+00:00",
+      "last_seen": "2026-02-17T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 311,
       "headline": "Schouw Shareholders Alter Bond Guarantees As BioMar Role Scales Back - simplywall.st",
       "story_summary": "Schouw & Co shareholders have modified bond guarantee arrangements as BioMar's position within the conglomerate scales back. The changes reflect evolving capital structure decisions at the parent company level rather than operational issues at BioMar itself.",
@@ -4453,20 +4482,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
-    },
-    {
-      "id": 980,
-      "headline": "BioMar launches a new functional feed to boost seabass resilience against bacteria - Aquafeed.com",
-      "story_summary": "BioMar has introduced a new functional feed formulation intended to enhance seabass resistance to bacterial pathogens. The product launch reflects the company's continued focus on developing specialized aquaculture nutrition solutions.",
-      "first_seen": "2026-02-16T08:00:00+00:00",
-      "last_seen": "2026-02-16T08:00:00+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
     },
     {
       "id": 787,
@@ -16305,7 +16320,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -74289,6 +74304,129 @@
         "none"
       ],
       "summary": "Schouw & Co. has announced a share buyback programme for week 23 of 2026. The article reports on the routine capital allocation activity by the parent company of BioMar Group, the aquaculture feed producer headquartered in Aarhus, Denmark."
+    },
+    {
+      "id": 176983,
+      "story_id": 1715,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1plem4zeTJieFFvbjQ4TTdEeE5PZHdFNUt4S25wNUNpbE1zQW96M1BMMGo5SGk4d3lwSHR0N2RlVVl2dE52NjlmbFRwcjlpMzcxNkpiNFl5bUlFSWFwZ0dwSGtVMU5BYVhITmlpVHBMWGhqSGlxQmxWRXlOSjMyUGRHOUNOLUk?oc=5",
+      "title": "BioMar Sagun Achieves ASC Feed Certification - Perishable News",
+      "source_name": "Perishable News",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-06-11T21:35:42+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Sagun obtains ASC Feed Certification milestone",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Sagun, a facility of the aquaculture feed producer BioMar, has achieved ASC (Aquaculture Stewardship Council) Feed Certification. This certification validates the facility's adherence to sustainable and responsible aquaculture feed production standards established by the ASC Board of Trustees and other industry stakeholders, reflecting positively on BioMar's commitment to environmental and social responsibility in aquaculture nutrition supply chain management practices and regulations compliance with sustainable sourcing and manufacturing standards and practices that assist farming partners gain competitive advantages in their own seafood product supply chains internationally in major export markets like the EU, USA and other regions demanding increased sustainability standards and transparency in supply chain monitoring."
+    },
+    {
+      "id": 176990,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY3dxaGxXb2pRWjJtaTRvcDFGWnFTVTZoOVhKODV4OXNvSU40REZDdk9XTk91V19XQk5sOWlFR2Z6eE9lNDJRYWJCMDF6Y1hGbE05cTFvWWdTMllOX2kyR2NSZE03RUN4WjcyQkV5N29Gd1lGNVgxSEFLcDlDSmI3SUFWLWJJYmtvemVXYjlRMA?oc=5",
+      "title": "Free cash flow of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:56:20+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group A/S cash flow.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView publishes a financial data page tracking the free cash flow metric for BioMar Group A/S (OMXCOP:BIOMAR). The article presents factual financial information without editorial commentary or sentiment."
+    },
+    {
+      "id": 177076,
+      "story_id": 980,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUNFMVBsVktsMXAxcXg5Y2JybnZCTjlLSkJQRmJFbHF6NmROWFV1elJ0MEIxNXlzTEt5S2JPblRnLUQ2M0NKZXpjRHRjcWs2clNaUk16TGdIMFI3SHprbEhMZEpJUHFoT0NWVml2TnlkWUtiYW5QNTgtN3N1SEVJbUJTSWZRZEtULVpWTjdyaGlyWUw5WVZyVG1yTFF5WEpzc1p0TDhXRTdrT2FiYkh3NEZBQ0nSAcIBQVVfeXFMUHBKb3Ria2dtVVZEUVE2VzRwZjhQUjlYNXRJRzVhTjA5bVhoV0RGb0dWQmhNejNWMFVEZDhDU3g1ejQtS3VCdjg1OVotY1RBM08tbDEzNEJtVXJ3UDF2bXRTRllCMXZZR0RZMUw4b2dRb2xyR0lRRGZ6cGJiRFJCM1RFRGhJQVFRTEpHSjB5ODM2TWhUVlBIMjJSSXV4bTh5NDVPSnNRT2xVZ0FZTzJoTlZ3UGhOLW1tWFlrVHJyUXdWclE?oc=5",
+      "title": "BioMar launches new functional feed to tackle bacterial diseases in seabass - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-02-17T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar launches innovative functional feed for seabass disease prevention",
+      "key_claims": [
+        "BioMar has developed a new functional feed product",
+        "The feed is designed to tackle bacterial diseases in seabass"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has launched a new functional feed formulation targeting bacterial disease management in seabass aquaculture. The product represents the company's innovation effort in health-focused aquaculture nutrition."
+    },
+    {
+      "id": 177286,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtX2poTzZpS2VTSmhGUzhZM1BzZ2doekI4bFZmMmpGQlN4VW9CYURVc3g5UVhoX1dQbWc0WXBWYzI5OTl3elVFb0VlSGtWUVF1VkdRSGtXMzNvY20xWTZvZ1hfVGxqVExqalk2aWJ4akUtLUJtenJOaQ?oc=5",
+      "title": "Beneficios e ingresos de BioMar Group A/S: OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-10T17:29:03+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial performance data for BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView published financial data for BioMar Group A/S listed on OMXCOP under ticker BIOMAR. The article focuses on presenting earnings and revenue information for the aquaculture feed company in a financial data format typical of investment platforms."
+    },
+    {
+      "id": 177908,
+      "story_id": 1652,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEQwNk00MU55NDVJVkQ3aXZwZ2JhZXlCTUFlSnE4RUcxdTBJQllkU056bTJVZ2RldS0wT3hGSlMtVnNKUTRZc0NzZmZIY2E5b041TjdnZVpkOGp2RVBsZVZ4X3NUNGdIdk9BVFZTMFByUVY4dDhGUFdia09MVm5veU9qNEFzS3dwVVZBeHNoQ2Z4MGV0bENNSURaYXNvR2hqZlZoUlFuM3hYdlF6X2U5RjhpNnhiQThRTjNUcWF4eVRwNnZFN3I0aXd2NDdWWm0zdGZyQUUwWQ?oc=5",
+      "title": "Reporte de Sostenibilidad global de Skretting destaca dos iniciativas chilenas - Diario De Puerto Montt",
+      "source_name": "Diario De Puerto Montt",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-08-18T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEQwNk00MU55NDVJVkQ3aXZwZ2JhZXlCTUFlSnE4RUcxdTBJQllkU056bTJVZ2RldS0wT3hGSlMtVnNKUTRZc0NzZmZIY2E5b041TjdnZVpkOGp2RVBsZVZ4X3NUNGdIdk9BVFZTMFByUVY4dDhGUFdia09MVm5veU9qNEFzS3dwVVZBeHNoQ2Z4MGV0bENNSURaYXNvR2hqZlZoUlFuM3hYdlF6X2U5RjhpNnhiQThRTjNUcWF4eVRwNnZFN3I0aXd2NDdWWm0zdGZyQUUwWQ?oc=5\" target=\"_blank\">Reporte de Sostenibilidad global de Skretting destaca dos iniciativas chilenas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario De Puerto Montt</font>"
     }
   ],
   "share_of_voice": {
@@ -76666,7 +76804,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2022-W34",
@@ -78007,7 +78145,7 @@
       {
         "week": "2026-W08",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 8
@@ -78127,7 +78265,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 127,
+        "BioMar": 128,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -78135,7 +78273,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 25,
+        "BioMar": 27,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 10
@@ -78148,7 +78286,7 @@
       },
       {
         "company": "BioMar",
-        "count": 958
+        "count": 962
       },
       {
         "company": "Cargill",
@@ -78160,7 +78298,7 @@
       },
       {
         "company": "Skretting",
-        "count": 709
+        "count": 710
       }
     ]
   }
