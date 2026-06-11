@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-11T09:50:12+00:00",
+  "generated_at": "2026-06-11T12:59:38+00:00",
   "stats": {
-    "mention_count": 2060,
-    "story_count": 1690,
-    "analyzed_count": 952,
+    "mention_count": 2063,
+    "story_count": 1691,
+    "analyzed_count": 955,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -301,6 +301,20 @@
   ],
   "stories": [
     {
+      "id": 1713,
+      "headline": "BioMar Chile confirma Patagonic RAS 2026 y reúne a líderes de acuicultura - aqua.cl",
+      "story_summary": "BioMar Chile has confirmed its participation in Patagonic RAS 2026, a major gathering of aquaculture industry leaders. The event brings together key players in the Chilean and regional aquaculture sector to discuss developments and innovation in the field.&quot;, ",
+      "first_seen": "2026-06-11T10:48:40+00:00",
+      "last_seen": "2026-06-11T10:48:40+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1712,
       "headline": "Skretting lanserer fôr-komponent som skal booste laksens helse - Intrafish",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNm1PQTVDTjdnckxHUDRrQkxKUXlMbmd1bmdiX3pzQmxEd3VkV2lVR21Oa05xaUFLMW80NjJLM2d0aURSVGJROTBYU2dKczBOZ0tnajFKOGpOUkpaZ1VBVnQwNVZXUGxGT1dIUDRLellKRnBuSG02cTZlRWkzd3dnZUoxOXhNcDVZZ0hxcWZHQUYxeVgwVmo0Y0JscnpWUVhMeV8zSlNJanlyUVV0Z2Vj?oc=5\" target=\"_blank\">Skretting lanserer fôr-komponent som skal booste laksens helse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
@@ -347,12 +361,12 @@
       "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
       "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
       "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-10T17:22:15+00:00",
+      "last_seen": "2026-06-11T01:38:47+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 120,
+      "pickup_count": 121,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -366,7 +380,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -74110,6 +74124,82 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMWlNU1B5QkxxQm9yREpyUC1xZUpmRGNmSkkzcWFXWXRaY1lkYXhVQlc4UlpJamhzQ2JTelU1dEtkZ21XRjN3UnVORm5LZ1ozMU0zY1VGNUNTcTd6X1Z0RXVsaHNXRXVmOGRLNjBMaXlla1hiczkwMGNPTVNfZ2FaZzlYaThVRDAzNHY0RGFMdUJPNVF2bkhQZUp4eDRYakFOemswZ2phTTAtV28yc3ZRdkRyNUdGZFIzbjc3MmRqQ0dydldMWEtENEp3WVE4LUZvNTc2YkZhWXg3Z3VqanNIczJkMjlNRG5UMnNVSUxwRVJSVFdKT09qXzc5bXFtZw?oc=5\" target=\"_blank\">Roberto Wehrt, de Skretting: “AquaSim cuenta con más de 20 años de experiencia y liderazgo a nivel global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Regional Aysén</font>"
+    },
+    {
+      "id": 174902,
+      "story_id": 1708,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRm5jMllZU2ZIYmtsNmhVa0FEeHU1WDQ0bmd0MllWLXBOYmxDbVNIR0hoQXctcGp0ajNWUHJ4am4tRmNGSi1LLVBUSm5YYUNuMFl1bnh2RUI4NlltV1NBR21HMGRMZ29uMkY0ZmNOS1ppMFRfVlp5WUlFQnN1WkcwekdXX2hwRFlTUkFwZWFRVDNILUdyQ0NTajRUVVh3R2x6Z0VPSUNn?oc=5",
+      "title": "BioMar expands ASC-certified feed production network in Turkey - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-10T16:34:18+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands ASC-certified aquaculture feed production in Turkey",
+      "key_claims": [
+        "BioMar is expanding its ASC-certified feed production network",
+        "The expansion involves Turkey as a production location",
+        "The expanded network maintains ASC certification standards"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has announced an expansion of its aquaculture feed production network in Turkey with ASC certification. The expansion strengthens BioMar's geographic footprint and certified production capacity in the region."
+    },
+    {
+      "id": 175201,
+      "story_id": 1713,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNenhWMkt3ZkVSYlBkYlgyRFVneXNOWldFeUdGTEF5ZXF5MWg3QUI3dHhsbF9BS0o5LVZhZzZKY1gzcV8xdkVHLW5mUk5xbEIzaU45R2VpUU51V3FqSDRPN0h5eFk0OUdKTDJPbTc2eXd3NFR4WmplaUZsME9GVVRySU9mdHkxN0xYSU1FOFRfWTNDYnZEWGVkdmtn?oc=5",
+      "title": "BioMar Chile confirma Patagonic RAS 2026 y reúne a líderes de acuicultura - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-06-11T10:48:40+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar Chile participates in Patagonic RAS 2026 aquaculture leadership event",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Chile has confirmed its participation in Patagonic RAS 2026, a major gathering of aquaculture industry leaders. The event brings together key players in the Chilean and regional aquaculture sector to discuss developments and innovation in the field.&quot;, "
+    },
+    {
+      "id": 175202,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkVtRTdZc2pGUW9IR1J5b0tpc1F3QTZhUHdRVjlyMHl6TDRVUkJwc3hfeUdESEVQOGJKaEJHMXRhRkxRbk1PS0FoUFZ5ODNyUjk3dGQyemxBZDRtbmp3N0xqTjdaMDdFeUpEb1daSXQ2QmRKRy1zZUZEWHBCZjRXeXM4aGJGMTdIUGk4LUVNVWNuSEZDS3VfbmRrZlA?oc=5",
+      "title": "Gastos operativos totales de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-11T01:38:47+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting on BioMar Group operating expenses",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article appears to be a financial data page from TradingView displaying total operating expenses for BioMar Group A/S (OMXCOP:BIOMAR stock ticker). This is a routine financial reporting and tracking resource for investors monitoring the company's operational costs."
     }
   ],
   "share_of_voice": {
@@ -77956,7 +78046,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 20,
+        "BioMar": 23,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 10
@@ -77969,7 +78059,7 @@
       },
       {
         "company": "BioMar",
-        "count": 952
+        "count": 955
       },
       {
         "company": "Cargill",
