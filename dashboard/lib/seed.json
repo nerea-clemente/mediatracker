@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-10T23:23:20+00:00",
+  "generated_at": "2026-06-11T09:50:12+00:00",
   "stats": {
-    "mention_count": 2054,
-    "story_count": 1687,
-    "analyzed_count": 950,
+    "mention_count": 2060,
+    "story_count": 1690,
+    "analyzed_count": 952,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -62,6 +62,7 @@
     "Diario Digital El Calbucano",
     "Diario Financiero",
     "Diario Red",
+    "Diario Regional Aysén",
     "Diario Sostenible",
     "Diario Sustentable",
     "Diario de Burgos",
@@ -300,6 +301,62 @@
   ],
   "stories": [
     {
+      "id": 1712,
+      "headline": "Skretting lanserer fôr-komponent som skal booste laksens helse - Intrafish",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNm1PQTVDTjdnckxHUDRrQkxKUXlMbmd1bmdiX3pzQmxEd3VkV2lVR21Oa05xaUFLMW80NjJLM2d0aURSVGJROTBYU2dKczBOZ0tnajFKOGpOUkpaZ1VBVnQwNVZXUGxGT1dIUDRLellKRnBuSG02cTZlRWkzd3dnZUoxOXhNcDVZZ0hxcWZHQUYxeVgwVmo0Y0JscnpWUVhMeV8zSlNJanlyUVV0Z2Vj?oc=5\" target=\"_blank\">Skretting lanserer fôr-komponent som skal booste laksens helse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
+      "first_seen": "2026-06-11T08:14:33+00:00",
+      "last_seen": "2026-06-11T08:14:33+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1711,
+      "headline": "Skretting tar stoffer fra hele planter inn i helsefôr - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5pYWxWNWxPcjVlem9aUExsMTNISG1CWDM5RzR0TGZBb2Etb05pZGNaeG9pMzBGQm5kckFjYXhtTFFFY0phVlg3eEw4U19FQm5KaVZaeGotaml4UndtXzNtaFd2OTFUUmdHRkRoRmljdEdndUh5eE1lVlE4UQ?oc=5\" target=\"_blank\">Skretting tar stoffer fra hele planter inn i helsefôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2026-06-11T07:05:22+00:00",
+      "last_seen": "2026-06-11T07:05:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1710,
+      "headline": "Skretting eyes feed factory site in Iceland - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZDdneEIwaHlDb3ZYQnI2YWZCVkFLaFR4aEx5Wlo2TnkyMWFWaU81RWJuYW11Vm5maThGcVBtV0NrMlk3S1pVRHJRTmZGc0VRSnVWNHM3TnJWU2xLN21naDdWVXFfbVdMV2NVNDVPQk9zelRWbXllYWppYi15RFJHQXNhVkJKdzl6ZTZmOXhIZw?oc=5\" target=\"_blank\">Skretting eyes feed factory site in Iceland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2026-06-11T06:14:00+00:00",
+      "last_seen": "2026-06-11T06:14:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1651,
+      "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
+      "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
+      "first_seen": "2026-06-05T17:23:58+00:00",
+      "last_seen": "2026-06-10T17:22:15+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 120,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1708,
       "headline": "BioMar expands ASC-certified feed production network in Turkey - Aquafeed.com",
       "story_summary": "BioMar is expanding its aquaculture feed production network in Turkey with ASC certification. The expansion represents growth in the company's geographic and certified production capacity.",
@@ -324,20 +381,6 @@
         "none"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1651,
-      "headline": "BioMar Group A/S Financial Statements – MUN:2IT - TradingView",
-      "story_summary": "TradingView has published financial statements for BioMar Group A/S under the ticker MUN:2IT. The article appears to be a routine filing or disclosure of corporate financial documents on the financial data platform.",
-      "first_seen": "2026-06-05T17:23:58+00:00",
-      "last_seen": "2026-06-09T23:38:24+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 118,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -17886,7 +17929,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -73921,6 +73964,152 @@
         "none"
       ],
       "summary": "TradingView provides a financial data page displaying earnings and revenue information for BioMar Group A/S (ticker: MUN:2IT). The article is a factual financial reference page with no editorial commentary or narrative content beyond presenting standardized stock market data."
+    },
+    {
+      "id": 174163,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlR2dXA4VkxDOWJQeXpBSS14a1luWmx2NDUxcHNtRjZ1NDRCRFMySjJub3IycURpaWVuZGRVaUpkbDR4Sl9iSlByNGE4VHZWQjJMZ2t0c1R2Y3Fqdzd6Y19xeWhGYk5iUE90VzltdlBZR1g5WnlhZFdJX0Vhdmo0QlVPMTBST0pjT1BkcnhCVUhLbzNMai1WZldLTGZBR2ZhYVAxUA?oc=5",
+      "title": "Ingresos netos antes de operaciones interrumpidas de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-10T17:22:15+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Financial reporting on BioMar Group net income before discontinued operations",
+      "key_claims": [
+        "BioMar Group A/S reports net income before discontinued operations"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView reports on BioMar Group A/S's net income before discontinued operations, a routine financial metric for the publicly traded aquaculture feed producer. The article appears to be a standard financial data update tied to earnings or periodic financial reporting."
+    },
+    {
+      "id": 174165,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aNlJMZVh2R2w5MUJ1YnlmdVhOLVpQajkwNTh5R3kxa0FyZGJIM1lQVFZMUzVOYlJvTTY2RWNSRmkzNDMwWVZWT1NUSFFWUjlOOWNHZmp6MF9CUVBCbkNmd0lfR2haNmFaQ1hFZmF2cDZydlRwamNJ?oc=5",
+      "title": "Desglose de los ingresos de BioMar Group A/S, OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T12:01:38+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Financial breakdown of BioMar Group revenue by segment",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial analysis of BioMar Group A/S revenue breakdown. The article focuses on disaggregating the company's earnings data by business segment or geographic region, typical of investor-oriented financial reporting platforms.  No positive or negative narrative is present—purely factual financial disclosure reporting. The article serves investors seeking detailed earnings composition information on the Copenhagen-listed aquaculture feed producer."
+    },
+    {
+      "id": 174388,
+      "story_id": 1710,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZDdneEIwaHlDb3ZYQnI2YWZCVkFLaFR4aEx5Wlo2TnkyMWFWaU81RWJuYW11Vm5maThGcVBtV0NrMlk3S1pVRHJRTmZGc0VRSnVWNHM3TnJWU2xLN21naDdWVXFfbVdMV2NVNDVPQk9zelRWbXllYWppYi15RFJHQXNhVkJKdzl6ZTZmOXhIZw?oc=5",
+      "title": "Skretting eyes feed factory site in Iceland - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-11T06:14:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZDdneEIwaHlDb3ZYQnI2YWZCVkFLaFR4aEx5Wlo2TnkyMWFWaU81RWJuYW11Vm5maThGcVBtV0NrMlk3S1pVRHJRTmZGc0VRSnVWNHM3TnJWU2xLN21naDdWVXFfbVdMV2NVNDVPQk9zelRWbXllYWppYi15RFJHQXNhVkJKdzl6ZTZmOXhIZw?oc=5\" target=\"_blank\">Skretting eyes feed factory site in Iceland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 174488,
+      "story_id": 1712,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNm1PQTVDTjdnckxHUDRrQkxKUXlMbmd1bmdiX3pzQmxEd3VkV2lVR21Oa05xaUFLMW80NjJLM2d0aURSVGJROTBYU2dKczBOZ0tnajFKOGpOUkpaZ1VBVnQwNVZXUGxGT1dIUDRLellKRnBuSG02cTZlRWkzd3dnZUoxOXhNcDVZZ0hxcWZHQUYxeVgwVmo0Y0JscnpWUVhMeV8zSlNJanlyUVV0Z2Vj?oc=5",
+      "title": "Skretting lanserer fôr-komponent som skal booste laksens helse - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-11T08:14:33+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNNm1PQTVDTjdnckxHUDRrQkxKUXlMbmd1bmdiX3pzQmxEd3VkV2lVR21Oa05xaUFLMW80NjJLM2d0aURSVGJROTBYU2dKczBOZ0tnajFKOGpOUkpaZ1VBVnQwNVZXUGxGT1dIUDRLellKRnBuSG02cTZlRWkzd3dnZUoxOXhNcDVZZ0hxcWZHQUYxeVgwVmo0Y0JscnpWUVhMeV8zSlNJanlyUVV0Z2Vj?oc=5\" target=\"_blank\">Skretting lanserer fôr-komponent som skal booste laksens helse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>"
+    },
+    {
+      "id": 174489,
+      "story_id": 1711,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pYWxWNWxPcjVlem9aUExsMTNISG1CWDM5RzR0TGZBb2Etb05pZGNaeG9pMzBGQm5kckFjYXhtTFFFY0phVlg3eEw4U19FQm5KaVZaeGotaml4UndtXzNtaFd2OTFUUmdHRkRoRmljdEdndUh5eE1lVlE4UQ?oc=5",
+      "title": "Skretting tar stoffer fra hele planter inn i helsefôr - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-11T07:05:22+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5pYWxWNWxPcjVlem9aUExsMTNISG1CWDM5RzR0TGZBb2Etb05pZGNaeG9pMzBGQm5kckFjYXhtTFFFY0phVlg3eEw4U19FQm5KaVZaeGotaml4UndtXzNtaFd2OTFUUmdHRkRoRmljdEdndUh5eE1lVlE4UQ?oc=5\" target=\"_blank\">Skretting tar stoffer fra hele planter inn i helsefôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 174786,
+      "story_id": 494,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMWlNU1B5QkxxQm9yREpyUC1xZUpmRGNmSkkzcWFXWXRaY1lkYXhVQlc4UlpJamhzQ2JTelU1dEtkZ21XRjN3UnVORm5LZ1ozMU0zY1VGNUNTcTd6X1Z0RXVsaHNXRXVmOGRLNjBMaXlla1hiczkwMGNPTVNfZ2FaZzlYaThVRDAzNHY0RGFMdUJPNVF2bkhQZUp4eDRYakFOemswZ2phTTAtV28yc3ZRdkRyNUdGZFIzbjc3MmRqQ0dydldMWEtENEp3WVE4LUZvNTc2YkZhWXg3Z3VqanNIczJkMjlNRG5UMnNVSUxwRVJSVFdKT09qXzc5bXFtZw?oc=5",
+      "title": "Roberto Wehrt, de Skretting: “AquaSim cuenta con más de 20 años de experiencia y liderazgo a nivel global - Diario Regional Aysén",
+      "source_name": "Diario Regional Aysén",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-04-26T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMWlNU1B5QkxxQm9yREpyUC1xZUpmRGNmSkkzcWFXWXRaY1lkYXhVQlc4UlpJamhzQ2JTelU1dEtkZ21XRjN3UnVORm5LZ1ozMU0zY1VGNUNTcTd6X1Z0RXVsaHNXRXVmOGRLNjBMaXlla1hiczkwMGNPTVNfZ2FaZzlYaThVRDAzNHY0RGFMdUJPNVF2bkhQZUp4eDRYakFOemswZ2phTTAtV28yc3ZRdkRyNUdGZFIzbjc3MmRqQ0dydldMWEtENEp3WVE4LUZvNTc2YkZhWXg3Z3VqanNIczJkMjlNRG5UMnNVSUxwRVJSVFdKT09qXzc5bXFtZw?oc=5\" target=\"_blank\">Roberto Wehrt, de Skretting: “AquaSim cuenta con más de 20 años de experiencia y liderazgo a nivel global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Regional Aysén</font>"
     }
   ],
   "share_of_voice": {
@@ -75850,7 +76039,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2021-W18",
@@ -77767,10 +77956,10 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 18,
+        "BioMar": 20,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 7
+        "Skretting": 10
       }
     ],
     "totals": [
@@ -77780,7 +77969,7 @@
       },
       {
         "company": "BioMar",
-        "count": 950
+        "count": 952
       },
       {
         "company": "Cargill",
@@ -77792,7 +77981,7 @@
       },
       {
         "company": "Skretting",
-        "count": 705
+        "count": 709
       }
     ]
   }
