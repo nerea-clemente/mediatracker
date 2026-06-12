@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-12T09:42:19+00:00",
+  "generated_at": "2026-06-12T12:40:29+00:00",
   "stats": {
-    "mention_count": 2080,
-    "story_count": 1699,
-    "analyzed_count": 967,
+    "mention_count": 2083,
+    "story_count": 1701,
+    "analyzed_count": 969,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -302,6 +302,20 @@
   ],
   "stories": [
     {
+      "id": 1723,
+      "headline": "Skretting incorpora fitocomplejos para fortalecer la salud del salmón - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQOFhib1FaZkJqdlF2U0t4R05DVkNPazhVVmo3N1VxaEJyWkJySFFaZlYtUGtlTDdqQ3R3bEJjUVNsNDJDZ0sxNWFoSXN6Z3BlWmVtQlJMUEVhZ0wtY3FmR1doUUJEVkVJVjhmdERNcC1zMGNiYVg0bGZERWZWd2hZTVhSQU10ak9wRDdmbUxhSFZfUjJt?oc=5\" target=\"_blank\">Skretting incorpora fitocomplejos para fortalecer la salud del salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2026-06-12T10:45:26+00:00",
+      "last_seen": "2026-06-12T10:45:26+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1715,
       "headline": "BioMar Sagun Achieves ASC Feed Certification - Perishable News",
       "story_summary": "BioMar Sagun, a facility of the aquaculture feed producer BioMar, has achieved ASC (Aquaculture Stewardship Council) Feed Certification. This certification validates the facility's adherence to sustainable and responsible aquaculture feed production standards established by the ASC Board of Trustees and other industry stakeholders, reflecting positively on BioMar's commitment to environmental and social responsibility in aquaculture nutrition supply chain management practices and regulations compliance with sustainable sourcing and manufacturing standards and practices that assist farming partners gain competitive advantages in their own seafood product supply chains internationally in major export markets like the EU, USA and other regions demanding increased sustainability standards and transparency in supply chain monitoring.",
@@ -395,7 +409,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 127,
+      "pickup_count": 128,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -16821,6 +16835,20 @@
       "first_seen": "2022-05-06T21:24:48+00:00",
       "last_seen": "2022-05-06T21:24:48+00:00",
       "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1722,
+      "headline": "Volúmenes de BioMar aumentan 8% en comparación con el primer trimestre de 2021 - aqua.cl",
+      "story_summary": "BioMar achieved an 8% increase in sales volumes in the first quarter compared to the same period in 2021. The article reports positive growth in the company's business performance during this reporting period.",
+      "first_seen": "2022-05-06T07:00:00+00:00",
+      "last_seen": "2022-05-06T07:00:00+00:00",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -74727,6 +74755,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd2E0ODNIOXpIZlVNVUtyQzdBNDNDUGMycU9zdUkzeG1kaTYwXzF6b2JLOFFlYWY0VUctRE51c2FGSHF4YmI2UmZURVVkSGpocXlsa05TSklWckdLbkxPWGliNnl0UzVjNTc3eXpGWXRCNEdBandSOFh4SW41NV9IRGQxRTNRMUUxSDJtbl84bEVsOEs5OUFhUnJ6bEN1NzJBcjZsMXF2Z3hBU3NTLVZldWNUckFmODJFX0pfV1FLZGRHbXdsUDctanBXVE0xVjZ1?oc=5\" target=\"_blank\">Skretting apunta a producir alimentos libres de ingredientes marinos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 179076,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeG8zNDhhWWFneGFtcHIxSDhvSjB3Z200RHNzcEVzNzlTUFdnZlpTamdWLXZZNVhxNEs4b1lxZ0NDTE56X0hJSmp4c3BGVnpIOTk2VUhkWUkxRVNVeW51bTBWanlkTEViMl8zNEpFdG5YZm01Z01iTURHcGIySDVSYWVnT3VCcndud2Q0SVpldFFEaGRua09ncmFtenFNZGdf?oc=5",
+      "title": "Price to cash flow ratio of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T18:59:15+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Stock valuation metric display for BioMar Group listed shares",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a price-to-cash-flow ratio metric for BioMar Group A/S shares trading on the Nasdaq Copenhagen exchange under ticker BIOMAR. The article is a data presentation tool with no narrative or editorial framing beyond the financial ratio itself."
+    },
+    {
+      "id": 179455,
+      "story_id": 1722,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR25Hcmg1NHJueS1ydVlRaHBnaWRjZ0YxNlY4Z1pCMzlFZUJXQ2pyaUE0MzROTXk2MzYxajExejFqTTJHMzJGU0JrS2ZKNmhoRHFZSWlDWEVsekt0eS1maXpGdDRyZGplOFd1clE3QnBBSWttdUZaWTF5RnQzN3k2YXNMcUZuaTZFUGNEeUNjaV8tR0ZTcHZZSnVUNnluZEU?oc=5",
+      "title": "Volúmenes de BioMar aumentan 8% en comparación con el primer trimestre de 2021 - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-05-06T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports 8% volume growth year-over-year in Q1",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar achieved an 8% increase in sales volumes in the first quarter compared to the same period in 2021. The article reports positive growth in the company's business performance during this reporting period."
+    },
+    {
+      "id": 179897,
+      "story_id": 1723,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOFhib1FaZkJqdlF2U0t4R05DVkNPazhVVmo3N1VxaEJyWkJySFFaZlYtUGtlTDdqQ3R3bEJjUVNsNDJDZ0sxNWFoSXN6Z3BlWmVtQlJMUEVhZ0wtY3FmR1doUUJEVkVJVjhmdERNcC1zMGNiYVg0bGZERWZWd2hZTVhSQU10ak9wRDdmbUxhSFZfUjJt?oc=5",
+      "title": "Skretting incorpora fitocomplejos para fortalecer la salud del salmón - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-06-12T10:45:26+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQOFhib1FaZkJqdlF2U0t4R05DVkNPazhVVmo3N1VxaEJyWkJySFFaZlYtUGtlTDdqQ3R3bEJjUVNsNDJDZ0sxNWFoSXN6Z3BlWmVtQlJMUEVhZ0wtY3FmR1doUUJEVkVJVjhmdERNcC1zMGNiYVg0bGZERWZWd2hZTVhSQU10ak9wRDdmbUxhSFZfUjJt?oc=5\" target=\"_blank\">Skretting incorpora fitocomplejos para fortalecer la salud del salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -76989,7 +77089,7 @@
       {
         "week": "2022-W18",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -78573,7 +78673,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 130,
+        "BioMar": 131,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -78584,7 +78684,7 @@
         "BioMar": 28,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 11
+        "Skretting": 12
       }
     ],
     "totals": [
@@ -78594,7 +78694,7 @@
       },
       {
         "company": "BioMar",
-        "count": 967
+        "count": 969
       },
       {
         "company": "Cargill",
@@ -78606,7 +78706,7 @@
       },
       {
         "company": "Skretting",
-        "count": 714
+        "count": 715
       }
     ]
   }
