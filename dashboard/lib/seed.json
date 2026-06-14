@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-14T08:53:29+00:00",
+  "generated_at": "2026-06-14T11:38:55+00:00",
   "stats": {
-    "mention_count": 2103,
-    "story_count": 1709,
-    "analyzed_count": 982,
+    "mention_count": 2105,
+    "story_count": 1711,
+    "analyzed_count": 984,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -13064,6 +13064,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1733,
+      "headline": "Schouw & Co. share buy-back programme, week 17 2024 - Kalkine",
+      "story_summary": "Schouw & Co conducted a share buyback programme during week 17 of 2024. The article reports routine capital allocation activity by the parent company of BioMar Group without commentary on business performance or strategy beyond the buyback itself.",
+      "first_seen": "2024-04-30T07:00:00+00:00",
+      "last_seen": "2024-04-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1148,
       "headline": "– Vi sier «get shit done», og så fikser vi det - altaposten.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQQW94R3J4bzBic2pwMUJXQVJ1OXRrWmZ4VTJ0SHNxTEhlbmNlYVZZdGJOcVd6ZmhxOFptSzRudE91WEVLcU1DOE11MDd5czNrbDZIZjZHOU9SZmNwUjhrN2J5eVhpZUJoNFVoOThpNjAtYUN1N202Ty1KbnQ3a2xEVG5VN05VZWhVeHIxQS1B?oc=5\" target=\"_blank\">– Vi sier «get shit done», og så fikser vi det</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">altaposten.no</font>",
@@ -22320,6 +22334,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1732,
+      "headline": "Godt kvartal for BioMar (+) - Intrafish",
+      "story_summary": "BioMar delivered positive results in the quarter covered by this report. The article highlights the company's financial performance during the period.",
+      "first_seen": "2016-11-10T08:00:00+00:00",
+      "last_seen": "2016-11-10T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 848,
@@ -75423,6 +75451,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEh2TGdqOUNiM2NMbEVpNmdoeGVHWHpjM21xY29RVFUxSV9RdUd0TkQ4THRYSUlUQmdDTEEyX2p1aDJHSGE3UmNRUVp3enk0Q3pfeW81T19uTTcxcUhwN2xPaGtBaGZHNVIzRnhza2QtTGNjclk3cmhnUWpCOEZDM2RtLUFvV2EyY2F3enpYb09pdmQ0S21fcWlGZWk2WDB6TnRv0gGjAUFVX3lxTE5MSHZMZ2o5Q2IzY0xsRWk2Z2h4ZUdYemMzbXFjb1FUVTFJX1F1R3RORDhMdFhJSVRCZ0NMQTJfanVoMkdIYTdSY1FRWnd6eTRDel95bzVPX25NNzFxSHA3bE9oa0FoZkc1UjNGeHNrZC1MY2NyWTdyaGdRakI4RkMzZG0tQW9XYTJjYXd6elhvT2l2ZDRLbV9xaUZlaTZYMHpOdG8?oc=5\" target=\"_blank\">Andfjord Salmon, Skretting collaborate to develop designer salmon feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 186554,
+      "story_id": 1732,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04akdpcFpMZW8yNjdubzZZVzQzRFF0cXExZUhzWl84SG5uMlBmNURMRGkyQWlXT05XaGdxRWZkQVJMdmk4bDJCVjV3ZThYUUo4d3ZkUTNBV25LUTBsbldITlViSDU0WjBES2tTcEVQbENaaVZ4UWpR?oc=5",
+      "title": "Godt kvartal for BioMar (+) - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2016-11-10T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports strong quarterly results",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar delivered positive results in the quarter covered by this report. The article highlights the company's financial performance during the period."
+    },
+    {
+      "id": 186786,
+      "story_id": 1733,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTzR2RkNnQjVpMDY5VlJwWlZzUmtNTE5xOVVlV1NoOE5ZcGlLT2xSTHhjVUpHemIwb2pEOHBsUGp1UWpzenRtaGp5WnlCNnJYcVJNay12WUFuQTZnUm93NmJseFh5bGg0N1VCVmxmZDFzcFpIb0JaZDRyMFhNcXpFcUhNVDRDTmVFUWc?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 17 2024 - Kalkine",
+      "source_name": "Kalkine",
+      "language": "en",
+      "country": "AU",
+      "outlet_kind": "press",
+      "published_at": "2024-04-30T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co share buyback activity for week 17 2024",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co conducted a share buyback programme during week 17 of 2024. The article reports routine capital allocation activity by the parent company of BioMar Group without commentary on business performance or strategy beyond the buyback itself."
     }
   ],
   "share_of_voice": {
@@ -76167,6 +76243,14 @@
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2016-W45",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -78429,7 +78513,7 @@
       {
         "week": "2024-W18",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -79306,7 +79390,7 @@
       },
       {
         "company": "BioMar",
-        "count": 982
+        "count": 984
       },
       {
         "company": "Cargill",
