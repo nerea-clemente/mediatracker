@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-15T19:49:47+00:00",
+  "generated_at": "2026-06-15T23:42:58+00:00",
   "stats": {
-    "mention_count": 2148,
-    "story_count": 1734,
-    "analyzed_count": 1021,
+    "mention_count": 2149,
+    "story_count": 1735,
+    "analyzed_count": 1022,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -19260,6 +19260,20 @@
       "id": 856,
       "headline": "Biomar Norge og Bio Feeder oppgraderer «Kryssholm» - Intrafish",
       "story_summary": "BioMar Norge and Bio Feeder have completed an upgrade to the Kryssholm facility. The article reports on operational improvements at this production or distribution site jointly managed by the two companies.",
+      "first_seen": "2020-07-06T07:00:00+00:00",
+      "last_seen": "2020-07-06T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1757,
+      "headline": "Oppgraderer fôrbåt – skal drives av batteri - iLaks",
+      "story_summary": "An aquaculture feed barge is being upgraded to run on battery power rather than traditional fuel. BioMar is mentioned in connection with this modernization initiative in the feed supply sector, though the article's primary focus is the technological upgrade rather than BioMar specifically.",
       "first_seen": "2020-07-06T07:00:00+00:00",
       "last_seen": "2020-07-06T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -76870,6 +76884,30 @@
         "none"
       ],
       "summary": "BioMar is reported to have experienced a substantial decline or negative development. The article, though sparse in detail from the provided summary, focuses on BioMar as the primary subject of the story, indicated by the headline and outlet focus on the company's troubles during this period in 2013."
+    },
+    {
+      "id": 192776,
+      "story_id": 1757,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nc0ZWQWRPa29xanNERzVCX3dnLU95YkNUcUVGaVRpTGNBVm9sOWpuOGo1V3lCZXJjNlFTbXZmSWxYU0tpWlNISmYxNEJqMi1feE1xODM2QVRsQ2E5ZXN1blhIUk1RZDAzaldZ?oc=5",
+      "title": "Oppgraderer fôrbåt – skal drives av batteri - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-07-06T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Feed barge upgraded to battery power operation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "An aquaculture feed barge is being upgraded to run on battery power rather than traditional fuel. BioMar is mentioned in connection with this modernization initiative in the feed supply sector, though the article's primary focus is the technological upgrade rather than BioMar specifically."
     }
   ],
   "share_of_voice": {
@@ -78572,7 +78610,7 @@
       {
         "week": "2020-W28",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -80785,7 +80823,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1021
+        "count": 1022
       },
       {
         "company": "Cargill",
