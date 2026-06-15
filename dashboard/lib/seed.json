@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-15T11:29:26+00:00",
+  "generated_at": "2026-06-15T15:26:48+00:00",
   "stats": {
-    "mention_count": 2141,
-    "story_count": 1731,
-    "analyzed_count": 1017,
+    "mention_count": 2147,
+    "story_count": 1733,
+    "analyzed_count": 1020,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -329,7 +329,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 150,
+      "pickup_count": 153,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -938,15 +938,15 @@
     },
     {
       "id": 1531,
-      "headline": "53’ - Sjanse til Ingeborg Skretting - TV2.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42WnhxSTlBcnF3SnNDNlAwelZSYzJDY1BqVkU4amRyTzNRekF2RXAyMF9FT19JZXhqMlZBRkxsVlhEU3RTd3ItX2hpa2xDbUZvX1RRN3g2dXFmbkUwVlA2VUp0ZlRRV3pSRlJyLUFjdVg4ZlJQODFoT3ZPUUU?oc=5\" target=\"_blank\">53’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV2.no</font>",
-      "first_seen": "2026-05-26T22:57:18+00:00",
+      "headline": "53’ - Sjanse til Ingeborg Skretting - TV 2",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1IZXRFaVRUeU00OC1rR1FqbzN1Q3F4UlViUHlvNzdWSERUZkdZbUIyMUM1bmZfeDlUTHdIWmdQY213dk5wTlBmVjNOVmNzOGhCXzNJcUNsM0ZrQngzNGM2X285ZGNrWUVxdUZva3JfcldMc2lzT1lvSWtFX0s?oc=5\" target=\"_blank\">53’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>",
+      "first_seen": "2026-05-26T07:00:00+00:00",
       "last_seen": "2026-05-31T01:57:57+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 5,
+      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -3665,6 +3665,20 @@
       "id": 1282,
       "headline": "Sykehjem må trolig vente ti år på inngang til parkeringskjeller - Stavanger Aftenblad",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjh1N2VYWEJxUVNlLXFiWHRSaDRLNHRCbFFsbXV6TFFfc1V4Q29hNmtmbTloUmZ0NkxOZ1lGRWhodTlwOWFIcDZ4SHVXakNTajBqYUR1MnVxSzhudGtpdGRqb1dpelN6eGRKaVBKYWJXbFVCWE50TVJsZ1VYQlRnS0NaLTNiNXA3SWJxOG5NUzJjUHYwamUzS0VKSUJtSVoxSUF1dHJnWEpUYVkwa1E?oc=5\" target=\"_blank\">Sykehjem må trolig vente ti år på inngang til parkeringskjeller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-03-24T07:00:00+00:00",
+      "last_seen": "2026-03-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1755,
+      "headline": "Dramatisk dropp i CMS-dødelighet hos Nordlaks. Vitenskapen ser på Omega-3. - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUZqT2pncnBJSWJTYkRiaHNUUTFjVnlvYTE2SmRVOHNpZ05DcHlyaDE4bmdBQlhNX1BRVmd0NVVZTjYyMVVISUs0bjBIMUxVVHgzckt6cldPQlMyTzMtNDVhUzNfUFFoX2l0MXdaTTI4anI0cXBRQXhBTHY0aTI1N0prMHlYVEljcFAwaU85Z0RfMFdC?oc=5\" target=\"_blank\">Dramatisk dropp i CMS-dødelighet hos Nordlaks. Vitenskapen ser på Omega-3.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
       "first_seen": "2026-03-24T07:00:00+00:00",
       "last_seen": "2026-03-24T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -16096,6 +16110,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1g4Y25Rb1lZaWhqeFhVSVhReWlMbW5ZZHZRbEp3Vk9JY1lZS1BLcnV4YmNMU0VSb2l5LTh3Q1BrVkJCaEhzT2RhMmVtN2hGZW9wdVljcmZvNDBmTURnRE80ZlpLRWRPTjRWOHIwZVhpZWxBaVgxQWVnYzNmMURyWWIwS2MzUdIBXkFVX3lxTE83YlJteGhEOFZQdTZ4bjJkRnRUbFJJbWMydUdJT2RZc2l1MEVtcmRDZGYwS1pqLVgzWXYzbThpRVRFejNjVTRaR21GajhOZHdVVzVXRWNrWWdPQ2FzNHc?oc=5\" target=\"_blank\">Skretting’s new aquafeed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
       "first_seen": "2022-11-30T08:00:00+00:00",
       "last_seen": "2022-11-30T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1754,
+      "headline": "Skretting reafirma su compromiso en la Semana Mundial de Concientización sobre el uso de Antibióticos - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY3E2V21BVzRzRWNpUFdaaHZYNEFHWHpaVzJNdm9hY0lXMnRjczhPSDY4UWNfakx3eG91ejdhWW9MME9uc3FKRk55Z3BQWHJWT05rUXMyRmJabGZ6dkhaeXpWa2xMOVNOck5QMThrOTc2Z3QtN25ubU1VODBlZkNsWFNHc0FNYXllZUI0cEUtaWtlNWNhNGtzRFJZLWRDMy14Yy1XcUdqX2ExMzFrdElpaElxQnhSdUlXWnY0dUV4UEV5bGE1aUEtOHB5emx5UVJvcXVERkljZlVZU3FGcEZkcmN2eXlqUVluMmQwUmRLWQ?oc=5\" target=\"_blank\">Skretting reafirma su compromiso en la Semana Mundial de Concientización sobre el uso de Antibióticos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2022-11-25T08:00:00+00:00",
+      "last_seen": "2022-11-25T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -76660,6 +76688,150 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUU1LRWpHN3JJOHY1TGZCcTRhWU5UdldISkpHdEhtUEdiYmJxUG1Nd2RiNllGWlF1MXRTODMwTDdXTHRya0tTeTZfOUpCT2xUOU5BeEE5SWt4aURMVzFsejJZSl9iUUpMQUFZWFRYNUo4aE5vSnB4d0szaTJVSHp3Ym9pWjFoeDZ5LTJvcUVwTGllVkdy?oc=5\" target=\"_blank\">Stavanger slår et slag for unge fastleger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tidsskrift for Den norske legeforening</font>"
+    },
+    {
+      "id": 190531,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1poYWJFNXBZc1RMV1NwTkl6eGdqTmhtWmpkU3d6Szk4a2xlazBacTR6TUZQc3JjUU1WSXhEYzhMWnRadWJIUTVraE9palFoa1hFLUdpaDZFelNUZUFiT3M5b0YyNjdQYWJ6WmdrRWlzWlZCWGRqZWxsTW9oRFloZGI0c09KNVZ0MElBcHA2Q2NkS1Vsd1BGTzN5UmJWQWdj?oc=5",
+      "title": "Cash from financing activities of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:38:27+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial reporting on BioMar Group's financing cash flows.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article reports on BioMar Group A/S's cash flows from financing activities as tracked on the OMXCOP:BIOMAR ticker. This is a factual financial data publication typical of trading platforms and investor information feeds."
+    },
+    {
+      "id": 190532,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVFLWmFBTmdrd0FIMWJMVE0tcExGRm1QZDRfSEw0Z29YZVlxajZ6RVByRTBuWkdtLWtWejN4cnExUnZkc25TQjRZazl4STFrdXZxSVE5cDhyU2c5aVpJMlRMb3J4dGJBV0tGeG9WTDRfVVJLVkJWWWhvVEw2cjNwYTNZVkEyVTNWMlJPTU14V2gtVXRuaElXZjVsOXdWVXlYWEE?oc=5",
+      "title": "Enterprise value of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T13:18:35+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock market data and enterprise valuation metrics",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView provides financial and valuation data for BioMar Group A/S, listed on OMXCOP under the ticker BIOMAR. The article is a market data page displaying enterprise value information for investors tracking the company's market metrics."
+    },
+    {
+      "id": 190533,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGJvdnRmVXR6WUtnYXZNRmUxZ2NXbF9QWXJBUjhvSTNRVkdRcmZtd0pXaXNnZ1hzQ1I4VWFqQmZORGcxVl9tTTZzUi1xaThMOHFwSWluM1ZNelNvR3VzWk8yZ0w5N2EwWXBRcXc4bTQ3QzhXd25WZ1k2V0VhZExpeHU2MEc5VDJfMzV3djFFZExDM0gyUklCV1NBcV9uRFU?oc=5",
+      "title": "Debt to equity ratio of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:37:10+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric analysis of BioMar Group debt-to-equity ratio",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial analysis of BioMar Group A/S's debt-to-equity ratio, a key metric tracked on the OMXCOP exchange under ticker BIOMAR. The article focuses on the company's capital structure and financial leverage position as presented on the trading platform's analytics dashboard."
+    },
+    {
+      "id": 191135,
+      "story_id": 1531,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IZXRFaVRUeU00OC1rR1FqbzN1Q3F4UlViUHlvNzdWSERUZkdZbUIyMUM1bmZfeDlUTHdIWmdQY213dk5wTlBmVjNOVmNzOGhCXzNJcUNsM0ZrQngzNGM2X285ZGNrWUVxdUZva3JfcldMc2lzT1lvSWtFX0s?oc=5",
+      "title": "53’ - Sjanse til Ingeborg Skretting - TV 2",
+      "source_name": "TV 2",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-26T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1IZXRFaVRUeU00OC1rR1FqbzN1Q3F4UlViUHlvNzdWSERUZkdZbUIyMUM1bmZfeDlUTHdIWmdQY213dk5wTlBmVjNOVmNzOGhCXzNJcUNsM0ZrQngzNGM2X285ZGNrWUVxdUZva3JfcldMc2lzT1lvSWtFX0s?oc=5\" target=\"_blank\">53’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>"
+    },
+    {
+      "id": 191157,
+      "story_id": 1755,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUZqT2pncnBJSWJTYkRiaHNUUTFjVnlvYTE2SmRVOHNpZ05DcHlyaDE4bmdBQlhNX1BRVmd0NVVZTjYyMVVISUs0bjBIMUxVVHgzckt6cldPQlMyTzMtNDVhUzNfUFFoX2l0MXdaTTI4anI0cXBRQXhBTHY0aTI1N0prMHlYVEljcFAwaU85Z0RfMFdC?oc=5",
+      "title": "Dramatisk dropp i CMS-dødelighet hos Nordlaks. Vitenskapen ser på Omega-3. - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-03-24T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUZqT2pncnBJSWJTYkRiaHNUUTFjVnlvYTE2SmRVOHNpZ05DcHlyaDE4bmdBQlhNX1BRVmd0NVVZTjYyMVVISUs0bjBIMUxVVHgzckt6cldPQlMyTzMtNDVhUzNfUFFoX2l0MXdaTTI4anI0cXBRQXhBTHY0aTI1N0prMHlYVEljcFAwaU85Z0RfMFdC?oc=5\" target=\"_blank\">Dramatisk dropp i CMS-dødelighet hos Nordlaks. Vitenskapen ser på Omega-3.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 191393,
+      "story_id": 1754,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY3E2V21BVzRzRWNpUFdaaHZYNEFHWHpaVzJNdm9hY0lXMnRjczhPSDY4UWNfakx3eG91ejdhWW9MME9uc3FKRk55Z3BQWHJWT05rUXMyRmJabGZ6dkhaeXpWa2xMOVNOck5QMThrOTc2Z3QtN25ubU1VODBlZkNsWFNHc0FNYXllZUI0cEUtaWtlNWNhNGtzRFJZLWRDMy14Yy1XcUdqX2ExMzFrdElpaElxQnhSdUlXWnY0dUV4UEV5bGE1aUEtOHB5emx5UVJvcXVERkljZlVZU3FGcEZkcmN2eXlqUVluMmQwUmRLWQ?oc=5",
+      "title": "Skretting reafirma su compromiso en la Semana Mundial de Concientización sobre el uso de Antibióticos - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-11-25T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY3E2V21BVzRzRWNpUFdaaHZYNEFHWHpaVzJNdm9hY0lXMnRjczhPSDY4UWNfakx3eG91ejdhWW9MME9uc3FKRk55Z3BQWHJWT05rUXMyRmJabGZ6dkhaeXpWa2xMOVNOck5QMThrOTc2Z3QtN25ubU1VODBlZkNsWFNHc0FNYXllZUI0cEUtaWtlNWNhNGtzRFJZLWRDMy14Yy1XcUdqX2ExMzFrdElpaElxQnhSdUlXWnY0dUV4UEV5bGE1aUEtOHB5emx5UVJvcXVERkljZlVZU3FGcEZkcmN2eXlqUVluMmQwUmRLWQ?oc=5\" target=\"_blank\">Skretting reafirma su compromiso en la Semana Mundial de Concientización sobre el uso de Antibióticos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
     }
   ],
   "share_of_voice": {
@@ -79157,7 +79329,7 @@
         "BioMar": 0,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2022-W48",
@@ -80469,7 +80641,7 @@
         "BioMar": 6,
         "Cargill": 1,
         "Polarfeed": 2,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2026-W14",
@@ -80541,12 +80713,12 @@
         "BioMar": 44,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 16
+        "Skretting": 17
       },
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 150,
+        "BioMar": 152,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -80554,7 +80726,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 34,
+        "BioMar": 35,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 13
@@ -80575,7 +80747,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1017
+        "count": 1020
       },
       {
         "company": "Cargill",
@@ -80587,7 +80759,7 @@
       },
       {
         "company": "Skretting",
-        "count": 723
+        "count": 726
       }
     ]
   }
