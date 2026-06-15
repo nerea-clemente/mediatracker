@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-15T15:26:48+00:00",
+  "generated_at": "2026-06-15T19:49:47+00:00",
   "stats": {
-    "mention_count": 2147,
-    "story_count": 1733,
-    "analyzed_count": 1020,
+    "mention_count": 2148,
+    "story_count": 1734,
+    "analyzed_count": 1021,
     "off_topic_mentions": 62,
     "off_topic_stories": 40
   },
@@ -24186,6 +24186,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1756,
+      "headline": "BioMar stuper - iLaks",
+      "story_summary": "BioMar is reported to have experienced a substantial decline or negative development. The article, though sparse in detail from the provided summary, focuses on BioMar as the primary subject of the story, indicated by the headline and outlet focus on the company's troubles during this period in 2013.",
+      "first_seen": "2013-08-16T07:00:00+00:00",
+      "last_seen": "2013-08-16T07:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1055,
@@ -76832,6 +76846,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPY3E2V21BVzRzRWNpUFdaaHZYNEFHWHpaVzJNdm9hY0lXMnRjczhPSDY4UWNfakx3eG91ejdhWW9MME9uc3FKRk55Z3BQWHJWT05rUXMyRmJabGZ6dkhaeXpWa2xMOVNOck5QMThrOTc2Z3QtN25ubU1VODBlZkNsWFNHc0FNYXllZUI0cEUtaWtlNWNhNGtzRFJZLWRDMy14Yy1XcUdqX2ExMzFrdElpaElxQnhSdUlXWnY0dUV4UEV5bGE1aUEtOHB5emx5UVJvcXVERkljZlVZU3FGcEZkcmN2eXlqUVluMmQwUmRLWQ?oc=5\" target=\"_blank\">Skretting reafirma su compromiso en la Semana Mundial de Concientización sobre el uso de Antibióticos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 191735,
+      "story_id": 1756,
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VdDFJNktaZVF5WV9oNk5GN2hDUWNqS1psaHBfZEhUMVRKN2JfWUlaX3czSlo3akQySkxzcVFCdEI3blhCX0E?oc=5",
+      "title": "BioMar stuper - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2013-08-16T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar experiences significant downturn or setback",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is reported to have experienced a substantial decline or negative development. The article, though sparse in detail from the provided summary, focuses on BioMar as the primary subject of the story, indicated by the headline and outlet focus on the company's troubles during this period in 2013."
     }
   ],
   "share_of_voice": {
@@ -77014,7 +77052,7 @@
       {
         "week": "2013-W33",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 0
@@ -80747,7 +80785,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1020
+        "count": 1021
       },
       {
         "company": "Cargill",
