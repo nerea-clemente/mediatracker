@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-16T19:39:12+00:00",
+  "generated_at": "2026-06-16T23:20:44+00:00",
   "stats": {
-    "mention_count": 2166,
+    "mention_count": 2167,
     "story_count": 1748,
-    "analyzed_count": 1031,
+    "analyzed_count": 1032,
     "off_topic_mentions": 63,
     "off_topic_stories": 41
   },
@@ -372,7 +372,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 157,
+      "pickup_count": 158,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -77505,6 +77505,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUF93amNfVWg2YkFZTE0tcWlGa2hIcDVvVDM0bGM3R1RabWhyRXl1YzlZOVJkU3JrZmZSdE91di1Hakg4ZmJuQkZZQTBZSVI5bFBUU3JfbGVfRVM5dG9QdEJVMEtVMktMMTBrMHR1WFlKbXplWFBxbWhFTGhCaHNFb0NnWW9ZcGpmOUkyMW56QlJ6ZmdFWk96UWtlSzJBdTJaUUNvMXNtR1ozcGU2YTFaMXZ6R2tWUkVsbERIM2RTdzZucDdYU1Y5dGhpR0Vha0VMa3hMd2hqNHVUR3puekI2WDJQZkZ3QQ?oc=5\" target=\"_blank\">Autoridades verifican cumplimiento de protocolos en instalaciones de Skretting Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 196648,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdy1Wcm45d0s2VW5pUU9VRUVpZDI5a1NxdXJRLXNxenpRN1pGdmJja3VXeUJWMmtieHV1T3dabHowNVVZdUZZRlFZRXdnQkxsN19uc0ZTMWhmM1hMUTd5NXIta19nR2JiMEpGd0NLMnhNMFQ0YzRaTFBrLTNwX2QwZFZMZXYzQjJYb0YzbzNaNkxWOWxMOXdBVXhFUXFCajA?oc=5",
+      "title": "Dilution adjustment of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:38:25+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Corporate action: dilution adjustment for BioMar Group shares.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports a dilution adjustment event affecting BioMar Group A/S shares trading on OMXCOP under ticker BIOMAR. This is a routine corporate capital structure notification with no valuation or operational implications stated in the headline or summary snippet provided."
     }
   ],
   "share_of_voice": {
@@ -81415,7 +81439,7 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 154,
+        "BioMar": 155,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -81444,7 +81468,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1031
+        "count": 1032
       },
       {
         "company": "Cargill",
