@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T23:42:58+00:00",
+  "generated_at": "2026-06-16T10:25:21+00:00",
   "stats": {
-    "mention_count": 2149,
-    "story_count": 1735,
-    "analyzed_count": 1022,
-    "off_topic_mentions": 62,
-    "off_topic_stories": 40
+    "mention_count": 2154,
+    "story_count": 1739,
+    "analyzed_count": 1026,
+    "off_topic_mentions": 63,
+    "off_topic_stories": 41
   },
   "outlets": [
     "20Minutos",
@@ -77,6 +77,7 @@
     "E24",
     "EFE - Agencia de noticias",
     "EL PAÍS",
+    "EVOKE",
     "Economía Digital",
     "Education News Canada",
     "El Confidencial",
@@ -306,6 +307,34 @@
   ],
   "stories": [
     {
+      "id": 1761,
+      "headline": "My week as a TUI rep in Majorca welcoming 10,000 tourists a day - EVOKE",
+      "story_summary": "An article about a journalist's experience working as a TUI representative in Majorca during peak tourist season. The piece focuses on the challenges and realities of hospitality work in a major holiday destination, with no substantive connection to BioMar or its business operations. The keyword match appears to be incidental or a false positive in the matching system.",
+      "first_seen": "2026-06-16T05:00:00+00:00",
+      "last_seen": "2026-06-16T05:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
+      "id": 1760,
+      "headline": "Rentabilidad sobre capital invertido % de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "story_summary": "TradingView displays return on invested capital percentage data for BioMar Group A/S listed on OMXCOP under ticker BIOMAR. The article is a financial data aggregation page providing investors with key performance indicators for the company's stock valuation analysis.",
+      "first_seen": "2026-06-16T03:13:09+00:00",
+      "last_seen": "2026-06-16T03:13:09+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1753,
       "headline": "Schouw & Co. share buy-back programme, week 24 2026 - The Manila Times",
       "story_summary": "Schouw & Co. announced or executed a share buyback programme during week 24 of 2026. The article reports routine corporate capital-management activity by the parent company of BioMar Group.",
@@ -329,7 +358,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 153,
+      "pickup_count": 154,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1951,6 +1980,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGtvbDFRbjRGQVdoTG9UNVo2dkZybnRrdmVsdlB1dFV1NDJsczZBb0FaRXlrMWNwUElPSFhCMjdoNVc3cG9CLUtVdzBBbHR1ZDNrWU9YME94UlhZYXgyVUFnNHowS3l5R0VPclkzUjRoX1VYcTg5MGJ5b1hQbldLNnBYbDBTbU9XbDYw?oc=5\" target=\"_blank\">Sebastian Skretting Sandtorv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transfermarkt</font>",
       "first_seen": "2026-05-14T19:05:44+00:00",
       "last_seen": "2026-05-14T19:05:44+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1759,
+      "headline": "‘Sold out by noon’: Africa’s tilapia boom forces feed companies to rethink innovation - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjFCNEZXbXpEbUlMUHlWMl9mZ21CQU1jeld1Wjc2TmRkVGRtMkVhbVg5QlQyU3FZNWZzVGhWOWhYY0NSaklDamF4c0piMHBxT3ExMHFZRFUyX2RaVXlUWmRUcUkyZ040Q3h1UUZIUGVrcGJIRHJrcmlNLUprUEpDQTl1bXlXREZVRVRlRTNkajZjVUJhd1dNVkctOU9wOTJ4RTRPbXZMNWRoQkZZU3pCLWJrWU4tUEZIM2thdWE2a0ViYURC?oc=5\" target=\"_blank\">‘Sold out by noon’: Africa’s tilapia boom forces feed companies to rethink innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2026-05-12T07:00:00+00:00",
+      "last_seen": "2026-05-12T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -19479,6 +19522,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1758,
+      "headline": "Patagonic RAS Biomar: Cultivo de salmón en tierra avanza a pasos agigantados - Salmonexpert",
+      "story_summary": "The article covers the progress of Patagonic's RAS (recirculation aquaculture system) facility that incorporates BioMar feed technology for land-based salmon farming. The development demonstrates rapid advancement in terrestrial salmon cultivation methods using BioMar's aquaculture feed solutions.",
+      "first_seen": "2020-05-07T07:00:00+00:00",
+      "last_seen": "2020-05-07T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 40,
@@ -76908,6 +76965,130 @@
         "none"
       ],
       "summary": "An aquaculture feed barge is being upgraded to run on battery power rather than traditional fuel. BioMar is mentioned in connection with this modernization initiative in the feed supply sector, though the article's primary focus is the technological upgrade rather than BioMar specifically."
+    },
+    {
+      "id": 193618,
+      "story_id": 1761,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iOTBBTG4tWnZBR0NGbFpMZGxydjdPcExYY0NUVElzTXotWkpjYnpqMlpyR3JvU2tpVVRqdjZadVhYS19fc2FEaXlwbGU1WldQOEVLR3JGc2tQNVNjblZXRnRHMmtaekVMMnpySFVVZW80SlQ4eDZJ?oc=5",
+      "title": "My week as a TUI rep in Majorca welcoming 10,000 tourists a day - EVOKE",
+      "source_name": "EVOKE",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-16T05:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Travel industry work experience feature",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "An article about a journalist's experience working as a TUI representative in Majorca during peak tourist season. The piece focuses on the challenges and realities of hospitality work in a major holiday destination, with no substantive connection to BioMar or its business operations. The keyword match appears to be incidental or a false positive in the matching system."
+    },
+    {
+      "id": 193913,
+      "story_id": 1760,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2xvU2xlN252c0k3TnJ2RTgtX09fcmRfeVBsZXItZ0NFRVZuUTE5Ukl3MWp3SXRFckR6NklsYWtrQkVDbFdJSmQ0eUhjWi00Rm1XcE1TTkV4bnRMaWhrc2FmOE96Tl9mQWw4eE9qNEw5alAtc2NydlhPTWV2M2w5WUlkM3NHWjNSaV9uN3F1NXQ5Uk5UVjkyRTQ4YWl1RlZKdHBIYU5UYlYtUnFJemc?oc=5",
+      "title": "Rentabilidad sobre capital invertido % de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-16T03:13:09+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric tracking for BioMar Group stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView displays return on invested capital percentage data for BioMar Group A/S listed on OMXCOP under ticker BIOMAR. The article is a financial data aggregation page providing investors with key performance indicators for the company's stock valuation analysis."
+    },
+    {
+      "id": 193934,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORU1oQldSZVh4Q1lmUmNrb0lEMEdHVy1CYmcwVkVqSlo3WGN1cGRyRDRrOGFmejBTZW16NDhCYzgtRHNDUDFyUU00aVVjZ2p5dEJDLWNTbllJaUQyTjR2VEV6UVFpU3JTMjhkRUhXMnVReTBNVFBueHhOOEk2YnFLd3ZaWW52VHc0cV9JM2VIX2V0bWI4Wmc?oc=5",
+      "title": "Ingresos antes de impuestos de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-09T01:21:29+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group pre-tax income",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on BioMar Group A/S pre-tax income figures as part of financial data tracking for the OMXCOP:BIOMAR ticker. The article is a straightforward financial data publication without editorial commentary or news narrative elements."
+    },
+    {
+      "id": 194005,
+      "story_id": 1758,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUG1nS1lON0R2TVJYWkxqTE1BamxvdTNpSVlSLWdwV2F1cGQ0RWtPa0ZnX0J0RmpqMDhNVk8tbHgtcHFweU9NTFdaYWRjRExwU1hfWGgxVGFWaUJXRjVKWHp1X3lfTFMtWGVRYlJiS3VDbGJaUjVFbzRoU3N2X1dyd0pZaTctUEp6Rzk0bThqZUJqTm44bGtjeFJ3VFBJTWF0bTMySlZlbUpaQmdiNl9XX2l3NXktRF93UW1GaGpxVjdMZlNIWEN0LXdhYkhfMVcy?oc=5",
+      "title": "Patagonic RAS Biomar: Cultivo de salmón en tierra avanza a pasos agigantados - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2020-05-07T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Land-based salmon farming with BioMar technology advancing rapidly",
+      "key_claims": [
+        "Patagonic RAS system uses BioMar feed",
+        "Land-based salmon cultivation is progressing at an accelerated pace",
+        "BioMar is involved in recirculation aquaculture systems (RAS) for salmon"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article covers the progress of Patagonic's RAS (recirculation aquaculture system) facility that incorporates BioMar feed technology for land-based salmon farming. The development demonstrates rapid advancement in terrestrial salmon cultivation methods using BioMar's aquaculture feed solutions."
+    },
+    {
+      "id": 194155,
+      "story_id": 1759,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjFCNEZXbXpEbUlMUHlWMl9mZ21CQU1jeld1Wjc2TmRkVGRtMkVhbVg5QlQyU3FZNWZzVGhWOWhYY0NSaklDamF4c0piMHBxT3ExMHFZRFUyX2RaVXlUWmRUcUkyZ040Q3h1UUZIUGVrcGJIRHJrcmlNLUprUEpDQTl1bXlXREZVRVRlRTNkajZjVUJhd1dNVkctOU9wOTJ4RTRPbXZMNWRoQkZZU3pCLWJrWU4tUEZIM2thdWE2a0ViYURC?oc=5",
+      "title": "‘Sold out by noon’: Africa’s tilapia boom forces feed companies to rethink innovation - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-12T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjFCNEZXbXpEbUlMUHlWMl9mZ21CQU1jeld1Wjc2TmRkVGRtMkVhbVg5QlQyU3FZNWZzVGhWOWhYY0NSaklDamF4c0piMHBxT3ExMHFZRFUyX2RaVXlUWmRUcUkyZ040Q3h1UUZIUGVrcGJIRHJrcmlNLUprUEpDQTl1bXlXREZVRVRlRTNkajZjVUJhd1dNVkctOU9wOTJ4RTRPbXZMNWRoQkZZU3pCLWJrWU4tUEZIM2thdWE2a0ViYURC?oc=5\" target=\"_blank\">‘Sold out by noon’: Africa’s tilapia boom forces feed companies to rethink innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
     }
   ],
   "share_of_voice": {
@@ -78562,7 +78743,7 @@
       {
         "week": "2020-W19",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -80773,7 +80954,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 11
+        "Skretting": 12
       },
       {
         "week": "2026-W21",
@@ -80802,7 +80983,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 35,
+        "BioMar": 36,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 13
@@ -80810,7 +80991,7 @@
       {
         "week": "2026-W25",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -80823,7 +81004,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1022
+        "count": 1026
       },
       {
         "company": "Cargill",
@@ -80835,7 +81016,7 @@
       },
       {
         "company": "Skretting",
-        "count": 726
+        "count": 727
       }
     ]
   }
