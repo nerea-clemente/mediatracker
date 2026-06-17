@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-16T23:20:44+00:00",
+  "generated_at": "2026-06-17T10:14:04+00:00",
   "stats": {
-    "mention_count": 2167,
-    "story_count": 1748,
+    "mention_count": 2168,
+    "story_count": 1749,
     "analyzed_count": 1032,
     "off_topic_mentions": 63,
     "off_topic_stories": 41
@@ -3106,6 +3106,20 @@
       "id": 1409,
       "headline": "Salmar-laks også inn i russisk søkelys - Intrafish",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDZELUs2MkZ6cDdwSjNzTW1KUmhMZ1F4Zmoyd2lKZlUyREtOYWJQNWdub0xfVXNka2NmSTZ6NHEzR1VILTlPbEUtYXRnOWdZRndzdWFib0tHZHNZbFRXR2l0blpOQXlzR2JVMGN2eHBWYllSeU9PaDhTRGZLdmFGNXR1ajdGaURhbkE?oc=5\" target=\"_blank\">Salmar-laks også inn i russisk søkelys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
+      "first_seen": "2026-04-20T07:00:00+00:00",
+      "last_seen": "2026-04-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1771,
+      "headline": "Norway: plans tighter Russian feed raw material trade as imports rise - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHdVVmV1Si1MOFFfdmtRM3Q2YU1fTlpiYlhzbHhBdS1LbFZ0RHpTcVlDeXpVendRc2RNd0lURE5ycEVTbmltRFNxV29jSFdscnZadlZGRDRrNFl0YnJZTzBlY3g2VmF1U2pIbkNWWWY1U3ZKRDhKdXZiN05mYWZ4SV9OQmNaNmFjX1haM19QT0dPVllITkhDM3VnWDhsZHZzRlHSAaIBQVVfeXFMTTR3VVZldUotTDhRX3ZrUTN0NmFNX05aYmJYc2x4QXUtS2xWdER6U3FZQ3l6VXp3UXNkTXdJVEROcnBFU25pbURTcVdvY0hXbHJ2WnZWRkQ0azRZdGJyWU8wZWN4NlZhdVNqSG5DVllmNVN2SkQ4SnV2YjdOZmFmeElfTkJjWjZhY19YWjNfUE9HT1ZZSE5IQzN1Z1g4bGR2c0ZR?oc=5\" target=\"_blank\">Norway: plans tighter Russian feed raw material trade as imports rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2026-04-20T07:00:00+00:00",
       "last_seen": "2026-04-20T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -77529,6 +77543,30 @@
         "none"
       ],
       "summary": "TradingView reports a dilution adjustment event affecting BioMar Group A/S shares trading on OMXCOP under ticker BIOMAR. This is a routine corporate capital structure notification with no valuation or operational implications stated in the headline or summary snippet provided."
+    },
+    {
+      "id": 198200,
+      "story_id": 1771,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHdVVmV1Si1MOFFfdmtRM3Q2YU1fTlpiYlhzbHhBdS1LbFZ0RHpTcVlDeXpVendRc2RNd0lURE5ycEVTbmltRFNxV29jSFdscnZadlZGRDRrNFl0YnJZTzBlY3g2VmF1U2pIbkNWWWY1U3ZKRDhKdXZiN05mYWZ4SV9OQmNaNmFjX1haM19QT0dPVllITkhDM3VnWDhsZHZzRlHSAaIBQVVfeXFMTTR3VVZldUotTDhRX3ZrUTN0NmFNX05aYmJYc2x4QXUtS2xWdER6U3FZQ3l6VXp3UXNkTXdJVEROcnBFU25pbURTcVdvY0hXbHJ2WnZWRkQ0azRZdGJyWU8wZWN4NlZhdVNqSG5DVllmNVN2SkQ4SnV2YjdOZmFmeElfTkJjWjZhY19YWjNfUE9HT1ZZSE5IQzN1Z1g4bGR2c0ZR?oc=5",
+      "title": "Norway: plans tighter Russian feed raw material trade as imports rise - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-04-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHdVVmV1Si1MOFFfdmtRM3Q2YU1fTlpiYlhzbHhBdS1LbFZ0RHpTcVlDeXpVendRc2RNd0lURE5ycEVTbmltRFNxV29jSFdscnZadlZGRDRrNFl0YnJZTzBlY3g2VmF1U2pIbkNWWWY1U3ZKRDhKdXZiN05mYWZ4SV9OQmNaNmFjX1haM19QT0dPVllITkhDM3VnWDhsZHZzRlHSAaIBQVVfeXFMTTR3VVZldUotTDhRX3ZrUTN0NmFNX05aYmJYc2x4QXUtS2xWdER6U3FZQ3l6VXp3UXNkTXdJVEROcnBFU25pbURTcVdvY0hXbHJ2WnZWRkQ0azRZdGJyWU8wZWN4NlZhdVNqSG5DVllmNVN2SkQ4SnV2YjdOZmFmeElfTkJjWjZhY19YWjNfUE9HT1ZZSE5IQzN1Z1g4bGR2c0ZR?oc=5\" target=\"_blank\">Norway: plans tighter Russian feed raw material trade as imports rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
     }
   ],
   "share_of_voice": {
@@ -81394,7 +81432,7 @@
         "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 9
+        "Skretting": 10
       },
       {
         "week": "2026-W18",
@@ -81480,7 +81518,7 @@
       },
       {
         "company": "Skretting",
-        "count": 734
+        "count": 735
       }
     ]
   }
