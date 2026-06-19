@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-19T09:58:53+00:00",
+  "generated_at": "2026-06-19T12:56:08+00:00",
   "stats": {
-    "mention_count": 2211,
+    "mention_count": 2212,
     "story_count": 1781,
-    "analyzed_count": 1049,
+    "analyzed_count": 1050,
     "off_topic_mentions": 66,
     "off_topic_stories": 43
   },
@@ -661,15 +661,15 @@
     },
     {
       "id": 1690,
-      "headline": "Schouw & Co. share buy-back programme, week 23 2026 - marketscreener.com",
-      "story_summary": "Schouw & Co. has announced a share buyback programme for week 23 of 2026. The article reports on the routine capital allocation activity by the parent company of BioMar Group, the aquaculture feed producer headquartered in Aarhus, Denmark.",
-      "first_seen": "2026-06-08T11:00:05+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 23 2026 - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co. published details of its share repurchase activity for week 23 of 2026. The announcement is a routine corporate disclosure of the company's ongoing share buy-back programme under its authorised framework.",
+      "first_seen": "2026-06-08T11:00:00+00:00",
       "last_seen": "2026-06-08T11:12:08+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -79061,6 +79061,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPaUxuT0RnWUNFRlZkWTlYSU9Uc290czdVd1doQTByX3ZkWE5Bd2FyQ1VVNGZFakxOQXFsTTNQaEp2c0dDOUloUWwxM3J0ekRfXzdhcjhoclVxRGhmTXJwMUtkS29aN3BJMW52VEs2ZWU1bVMzQ2ZJVWZRbXZVUTd6QlRXSQ?oc=5\" target=\"_blank\">(Abo) Nytt fôr-komponent skal booste laksens helse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Havpuls</font>"
+    },
+    {
+      "id": 207208,
+      "story_id": 1690,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGNtcjIyMEJMWUM4TFVNZFcyM3pPMjBydWV3bVRXbDF6WFhpYmVtdTFGOUVxQTYyN1lxMnlKUFZEOFpOQ2pENWszZDROQ2VzWkJreTcyNjRQMUdiYzdMT20xRUJLekVHSG5helh1eEdwdkdINUN4SjUxaEpHWFdISDFfVk1GdHQ3S0xLazJ0Y2lCSjZPOXRpNDNOMDNjMW5DdTdaR3V0bzg4TjZrZGZ5blhiMVNITTZJYjgxMnV0cFJTQ2RvcklfNzBtNA?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 23 2026 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2026-06-08T11:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. share buy-back programme activity for week 23 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. published details of its share repurchase activity for week 23 of 2026. The announcement is a routine corporate disclosure of the company's ongoing share buy-back programme under its authorised framework."
     }
   ],
   "share_of_voice": {
@@ -83043,7 +83067,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 38,
+        "BioMar": 39,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 13
@@ -83064,7 +83088,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1049
+        "count": 1050
       },
       {
         "company": "Cargill",
