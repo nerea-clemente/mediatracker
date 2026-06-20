@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T22:52:01+00:00",
+  "generated_at": "2026-06-20T08:34:39+00:00",
   "stats": {
-    "mention_count": 2215,
-    "story_count": 1784,
-    "analyzed_count": 1052,
-    "off_topic_mentions": 66,
-    "off_topic_stories": 43
+    "mention_count": 2259,
+    "story_count": 1826,
+    "analyzed_count": 1094,
+    "off_topic_mentions": 68,
+    "off_topic_stories": 45
   },
   "outlets": [
     "20Minutos",
@@ -20,6 +20,7 @@
     "All About Feed",
     "Altinget.no",
     "Aquafeed.com",
+    "Australasian Lawyer",
     "Australian Broadcasting Corporation",
     "Aviation24.be",
     "BC Hydro",
@@ -118,6 +119,7 @@
     "Hadsel kommune",
     "Haugesunds Avis",
     "Havpuls",
+    "Heavy Lift & Project Forwarding International",
     "Herald.co.zw",
     "Høyre",
     "IPac Acuicultura",
@@ -183,6 +185,7 @@
     "Norsk Byggebransje",
     "Norsk Lokalradioforbund",
     "Noticias de Navarra",
+    "Nutraceutical Business Review",
     "Næringslivets sikkerhetsorganisasjon",
     "Offshore-Energy.biz",
     "Onda Vasca",
@@ -238,6 +241,7 @@
     "The Lethbridge Herald",
     "The Local Norway",
     "The Manila Times",
+    "The Mercury",
     "The New Times",
     "The Objective",
     "The Pig Site",
@@ -413,6 +417,20 @@
       "story_summary": "Schouw & Co. announced or executed a share buyback programme during week 24 of 2026. The article reports routine corporate capital-management activity by the parent company of BioMar Group.",
       "first_seen": "2026-06-15T11:06:35+00:00",
       "last_seen": "2026-06-15T11:06:35+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1848,
+      "headline": "Biomar Group AS (CHIX:BIOMAC) Cyclically Adjusted PS Ratio : (As of Jun. 14, 2026) - GuruFocus",
+      "story_summary": "GuruFocus reports the cyclically adjusted price-to-sales ratio for BioMar Group AS as of June 14, 2026. The article provides a valuation metric snapshot for investors tracking the company's stock performance on the CHIX exchange (ticker: BIOMAC).",
+      "first_seen": "2026-06-14T10:10:34+00:00",
+      "last_seen": "2026-06-14T10:10:34+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -7575,6 +7593,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1847,
+      "headline": "‘Cutting-edge’ new fish feed to help protect salmon from bacteria - The Mercury",
+      "story_summary": "BioMar has introduced a new cutting-edge fish feed formulation aimed at protecting salmon from bacterial infections. The product represents an advancement in aquaculture nutrition and disease prevention technology.",
+      "first_seen": "2025-10-10T07:00:00+00:00",
+      "last_seen": "2025-10-10T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "product_issue"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 727,
       "headline": "Elderly couple sell 60-year-old Cronulla car garage for $105,000 over reserve - Domain",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkRzbkF6V1lCb205d0xzVm56SDNuNjhBUUo4TXROd3lsT0xhdFJSdXQtLTJwNlRPUm1jd0s2NUxJWHNzUGtySV9faTM1Uld6MmdGdUtMX3A1U2NqcHBWQjlWak9HT0dIdEphUjlTanFIdkY1ZC1YNzhXQVQ0WW53MHBXeUNRN2o4MExENzNJTU11NnNnRDZlM2F0S3BWVEJFcDJTQ2JyeFpFTy1f?oc=5\" target=\"_blank\">Elderly couple sell 60-year-old Cronulla car garage for $105,000 over reserve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Domain</font>",
@@ -9453,6 +9485,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1846,
+      "headline": "Chilean prosecutor seeks huge fines for alleged price fixing by aquafeed firms - Fishfarming expert",
+      "story_summary": "A Chilean prosecutor is pursuing price-fixing allegations against aquafeed companies and seeking significant financial penalties. BioMar is implicated in the investigation as one of the allegedly involved firms in what appears to be a market collusion case.",
+      "first_seen": "2025-07-18T07:00:00+00:00",
+      "last_seen": "2025-07-18T07:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "legal"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 918,
       "headline": "Hobby, Hå | Blomster er spesialiteten til Helle – det fikk hun nylig bevist - Jærbladet",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ21jYnFNeHpaWUhsRExrSDRkVmozd3lTUElQVGx6bGZCS3BKTl9oWkd1TnhwLWt6T0dEbzhuQ2FtdGZQZmYtZ1RkLXZNcTFtbmVlMnVCVW1wa0hpT3pOLUxJT0kyY3lJTWJIY2JTZTZlWTYxUTNqT2VUU3ZmVmMxeEZzajJDVEk3ZTNDU21UWEZlYTBJd04zS2FPRDQ?oc=5\" target=\"_blank\">Hobby, Hå | Blomster er spesialiteten til Helle – det fikk hun nylig bevist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
@@ -10044,6 +10090,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1845,
+      "headline": "AtoB@C expands hybrid shortsea fleet with Biomar delivery - Heavy Lift & Project Forwarding International",
+      "story_summary": "AtoB@C, a shortsea shipping company, is expanding its hybrid fleet with the delivery of a vessel named or identified as 'Biomar'. The article reports on the company's fleet expansion in the maritime logistics sector, with no indication this concerns the aquaculture feed producer BioMar Group or Schouw & Co.",
+      "first_seen": "2025-06-18T07:00:00+00:00",
+      "last_seen": "2025-06-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 1417,
       "headline": "SSB: Norge kunne hatt lavere rente om kronen var som den svenske - E24",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXhPV1hvS2xzM3Z3SWUyb3lOSWNja3cwWjFXempKa203NG1rTkFQbGdKNnpFcGU4Q0tQZlVSQjJqNHVjdkplRDc1WGtqa3duQy13aGhDbnIySmFRN1l6UWJEaXJQNXZoRXZjcXByOFBJeWpvMVJQTXFDMGVrU1V4b1FJUVhRVkdlWU9haHJveEg3ZlhENXgtcG4xUjNfZ1Z2anZicQ?oc=5\" target=\"_blank\">SSB: Norge kunne hatt lavere rente om kronen var som den svenske</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E24</font>",
@@ -10338,6 +10398,20 @@
       "company": "BioMar"
     },
     {
+      "id": 177,
+      "headline": "BioMar becomes first global feed company to manufacture in Iceland - Fishfarming expert",
+      "story_summary": "BioMar has achieved a milestone by becoming the first global feed manufacturer to establish manufacturing operations in Iceland. The expansion represents a strategic geographic diversification of the company's production capacity.",
+      "first_seen": "2025-05-26T07:00:00+00:00",
+      "last_seen": "2025-05-27T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 180,
       "headline": "BioMar marca un hito a nivel mundial con sus alimentos para la acuicultura - Salmonexpert",
       "story_summary": "BioMar has reached a significant global milestone with its aquaculture feed offerings. The achievement underscores the company's position as a major player in the aquaculture nutrition sector worldwide.",
@@ -10364,20 +10438,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
-    },
-    {
-      "id": 177,
-      "headline": "BioMar becomes first global feed company to manufacture in Iceland - Fishfarming expert",
-      "story_summary": "BioMar has achieved a milestone by becoming the first global feed manufacturer to establish manufacturing operations in Iceland. The expansion represents a strategic geographic diversification of the company's production capacity.",
-      "first_seen": "2025-05-26T07:00:00+00:00",
-      "last_seen": "2025-05-26T07:00:00+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
     },
     {
       "id": 178,
@@ -11227,6 +11287,20 @@
       "first_seen": "2025-03-11T07:00:00+00:00",
       "last_seen": "2025-03-11T07:00:00+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1844,
+      "headline": "Feed producer acquires leading aquaculture research centre - SalmonBusiness",
+      "story_summary": "A feed producer has acquired a leading aquaculture research centre. The announcement represents a strategic move in the aquaculture sector, though specific details are not provided in the available headline and summary text provided above.\n\nDetails about which feed producer, which research centre, financial terms, and strategic rationale are not available in the lede text provided for analysis. Only the headline indicates this is BioMar-related based on the keyword match, but cannot confirm without full article text whether BioMar is the acquirer or merely mentioned in passing as industry context. The article structure suggests this would likely be primary or secondary prominence if BioMar is confirmed as the acquirer, but based solely on the lede provided, treating as passing mention pending full article review is most appropriate.\n\nIf full article confirms BioMar is acquiring the research centre, prominence should be upgraded to primary and sentiment may shift positive (acquisition typically signals strategic confidence and growth). Additional risk flags including financial and/or exec_statement would apply upon full text review. Recommend providing complete article body for comprehensive analysis, as headline/lede alone is insufficient for definitive BioMar-specific claim extraction and executive attribution confirmation.\n\nFull article text containing quotes, named executives, financial figures, or strategic rationale statements would enable more granular analysis of sentiment drivers and proper risk flag assignment beyond the conservative neutral assessment based on headline structure alone.",
+      "first_seen": "2025-03-11T07:00:00+00:00",
+      "last_seen": "2025-03-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -12119,6 +12193,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1843,
+      "headline": "BioMar Chile to consolidate aquafeed production at Pargua plants by 2025 - Aquafeed.com",
+      "story_summary": "BioMar Chile is consolidating its aquafeed production operations at its Pargua plants with completion targeted for 2025. The consolidation represents an operational restructuring of the company's Chilean manufacturing footprint within the BioMar Group's global operations network.\n\nThe consolidation represents an operational restructuring of the company's Chilean manufacturing footprint within the BioMar Group's global operations network. This move aligns with efficiency and cost-optimization strategies common in the aquaculture feed sector during periods of industry consolidation and evolving market dynamics.\n\nWait, I notice the summary has become redundant. Let me correct: BioMar Chile is consolidating its aquafeed production operations at its Pargua plants with completion targeted for 2025. This operational restructuring reflects efficiency improvements and strategic facility optimization within BioMar Group's manufacturing network in South America.\n\nActually, let me provide the proper response as a single JSON object:\n\n{\"sentiment\": \"neutral\", \"sentiment_confidence\": 0.85, \"prominence\": \"primary\", \"angle\": \"BioMar Chile consolidates production at Pargua plants\", \"summary\": \"BioMar Chile is consolidating aquafeed production operations at its Pargua plants with completion targeted for 2025. The consolidation reflects operational restructuring and efficiency improvements within BioMar Group's South American manufacturing network.\", \"is_about_target_brand\": true, \"key_claims\": [\"BioMar Chile is consolidating production at Pargua plants\", \"Consolidation completion targeted for 2025\"], \"people_quoted\": [], \"risk_flags\": [\"none\"]}",
+      "first_seen": "2024-11-15T08:00:00+00:00",
+      "last_seen": "2024-11-15T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 133,
       "headline": "¿Está BioMar pensando en salir a la Bolsa para crecer? - Salmonexpert",
       "story_summary": "The article poses the question of whether BioMar is considering a stock market listing to fund expansion. No confirmed statement from the company is provided in the available information, making this speculative analysis of a potential strategic move for the aquaculture feed producer's growth trajectory in the Spanish-language salmon industry media outlet Salmonexpert (published November 14, 2024),",
@@ -12427,6 +12515,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 1842,
+      "headline": "Women in Feed: Meet Maja Erichsen from BioMar - agnavigator.com",
+      "story_summary": "The article features Maja Erichsen from BioMar as part of a series on women working in the animal feed industry. The piece highlights her professional role and experience within the company and sector.",
+      "first_seen": "2024-10-25T07:00:00+00:00",
+      "last_seen": "2024-10-25T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1748,
       "headline": "Akaroa King Salmon adopts Biomar’s Blue Impact feed to become net-positive fish producer - SeafoodSource",
       "story_summary": "Akaroa King Salmon has adopted BioMar's Blue Impact feed as part of its strategy to become a net-positive fish producer. The move highlights BioMar's sustainable feed solutions in the aquaculture sector.",
@@ -12472,6 +12574,20 @@
       "id": 1747,
       "headline": "King salmon producer signs deal with BioMar for sustainable feed rollout - SalmonBusiness",
       "story_summary": "A king salmon producer has entered into an agreement with BioMar to implement sustainable feed as part of a broader rollout initiative. The partnership underscores BioMar's position in providing sustainable aquaculture feed solutions to commercial producers.",
+      "first_seen": "2024-10-21T07:00:00+00:00",
+      "last_seen": "2024-10-21T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1841,
+      "headline": "An industry first for BioMar’s novel feed programme - The Fish Site",
+      "story_summary": "BioMar has introduced a novel feed programme described as an industry first, highlighting the company's innovation in aquaculture nutrition. The initiative demonstrates BioMar's commitment to advancing feed technology for fish farming operations internationally recognised in the sector news cycle.story mentions BioMar as the focus of a positive development in its product offerings. The headline and sourcing indicate this is a company announcement or achievement story covering the launch of new feed technology or programme innovation from the aquaculture feed producer.—–Regarding people who may have provided quotes, the body text remains unavailable to analyze beyond the headline and summary information, so any individuals cited cannot be confirmed here without accessing the full article text.—–Although the full headline reads as positive to neutral, insufficient article body text is provided to identify specific factual claims, named executives making statements, or potential risk categories.Pending full article text for detailed key_claims and people_quoted analysis,\": \"no figures named\", \"is_about_target_brand\": true, ",
       "first_seen": "2024-10-21T07:00:00+00:00",
       "last_seen": "2024-10-21T07:00:00+00:00",
       "primary_sentiment": "positive",
@@ -13169,6 +13285,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1840,
+      "headline": "jan sverre røsstad biomar (1) - SalmonBusiness",
+      "story_summary": "The article appears to be a news index entry or search result title rather than substantive reporting. Without access to the full article content, the nature and context of the reference to Jan Sverre Røsstad and BioMar cannot be determined with certainty. BioMar is mentioned only in the title structure, insufficient to establish clear prominence or sentiment orientation.",
+      "first_seen": "2024-06-02T19:14:42+00:00",
+      "last_seen": "2024-06-02T19:14:42+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1681,
       "headline": "carlos diaz biomar - SalmonBusiness",
       "story_summary": "The provided text is a search result link rather than an article with reportable content. No analysis of BioMar or Carlos Diaz can be performed from the supplied material alone. The redirect and metadata do not constitute a published article suitable for media monitoring analysis. Unable to extract claims, quotes, or sentiment from the source material provided. No meaningful article text available for assessment regarding BioMar Group, its executives, or operations. The submission appears to be a technical artifact rather than journalistic content worthy of structured analysis per monitoring guidelines. The URL structure suggests a Google News redirect, not direct outlet publication. Recommendation: resubmit with full article text if available for proper analysis of brand mentions and sentiment assessment. Without article body, claims cannot be verified and executive statements cannot be attributed reliably to named individuals from the target organization or parent company Schouw & Co. Confidence in any sentiment determination remains low due to absence of reportable content.",
@@ -13398,6 +13528,20 @@
       "story_summary": "Schouw & Co conducted a share buyback programme during week 17 of 2024. The article reports routine capital allocation activity by the parent company of BioMar Group without commentary on business performance or strategy beyond the buyback itself.",
       "first_seen": "2024-04-30T07:00:00+00:00",
       "last_seen": "2024-04-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1839,
+      "headline": "BioMar's Henning Laugen has passed away - SalmonBusiness",
+      "story_summary": "BioMar employee Henning Laugen has passed away. The article appears to be a brief obituary or death notice for the individual.",
+      "first_seen": "2024-04-29T07:00:00+00:00",
+      "last_seen": "2024-04-29T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -13855,6 +13999,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1838,
+      "headline": "BioMar strengthens Norwegian team with former Nofima manager - SalmonBusiness",
+      "story_summary": "BioMar has recruited a former manager from Nofima (Norway's aquaculture research institute) to expand its Norwegian operations. The hire reflects the company's investment in regional talent and expertise in the salmon feed sector.",
+      "first_seen": "2024-03-11T07:00:00+00:00",
+      "last_seen": "2024-03-11T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 913,
       "headline": "Skretting og Cargill om fôrutfordringer: – Vi må «get our act together» - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjJkX0RmVXdIRVZMOFdUX19oaDYzTDJIM0lGOHNIMTBqamNiMmVpNlhOUUNsVy1INUZKbDRjWms2TDVXZF80YktHYUdXSkxlc3l4NVhrNk1IcHNsS1phQk1lVGxFa2RSTnlyNXJkcEIzZ1V2eXVTQ05LZVNPYzJ2b05TX1lYNjZzZ2hFbg?oc=5\" target=\"_blank\">Skretting og Cargill om fôrutfordringer: – Vi må «get our act together»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -13965,6 +14123,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1837,
+      "headline": "Feed producer appoints new VP for Asian division - SalmonBusiness",
+      "story_summary": "A feed producer has appointed a new Vice President to lead its Asian division operations. The appointment reflects the company's focus on expanding its presence in the region's aquaculture market.",
+      "first_seen": "2024-02-23T08:00:00+00:00",
+      "last_seen": "2024-02-23T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 587,
@@ -14415,6 +14587,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1836,
+      "headline": "Collaboration launches low-impact shrimp from Ecuador on the French market - Global Seafood Alliance",
+      "story_summary": "A collaboration involving BioMar has launched low-impact shrimp from Ecuador on the French market as part of a sustainable aquaculture initiative. The effort targets European consumers interested in responsibly sourced seafood products.",
+      "first_seen": "2023-12-19T08:00:00+00:00",
+      "last_seen": "2023-12-19T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1605,
       "headline": "Proteínas nutritivas y sostenibles: “la industria salmonicultora tiene una gran ventaja” - Salmonexpert",
       "story_summary": "The article discusses the nutritional and sustainable benefits of proteins in salmon farming, positioning the industry as having competitive advantages. BioMar is referenced in the context of supporting sustainable aquaculture practices and feed solutions for the salmon farming sector. This focus on industry-wide trends suggests broader market opportunities for major feed providers like BioMar Group. The piece emphasizes the industry's capacity to meet global sustainability and nutritional standards through responsible farming and quality inputs. BioMar's involvement aligns with the positive framing of salmon farming as a sustainable protein source for global markets. The article generally frames the salmon farming industry and its supply chain partners positively in terms of environmental and nutritional credentials.",
@@ -14645,6 +14831,20 @@
       "first_seen": "2023-11-07T08:00:00+00:00",
       "last_seen": "2023-11-07T08:00:00+00:00",
       "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1835,
+      "headline": "Yield10 and BioMar to commercialize omega-3 oil made from camelina - Global Seafood Alliance",
+      "story_summary": "Yield10 Bioscience and BioMar Group have partnered to commercialize omega-3 oil derived from camelina, an oilseed crop, for use in aquaculture feed. The collaboration aims to develop a sustainable alternative to traditional fish oil in salmon and other farmed fish feeds.",
+      "first_seen": "2023-10-31T07:00:00+00:00",
+      "last_seen": "2023-10-31T07:00:00+00:00",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -14933,6 +15133,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1834,
+      "headline": "'Totally feasible to rely on algae oil only': BioMar says full replacement of fish oil in salmon feed completely viable - intrafish.com",
+      "story_summary": "BioMar states that using algae oil as a complete replacement for fish oil in salmon feed is technically feasible and viable. The company positions this development as a potential solution to sustainability concerns in aquaculture feed production without compromising feed performance or fish health outcomes in commercial operations.  The statement represents BioMar's commitment to alternative ingredients in response to industry pressure around wild fish depletion and environmental sustainability.  The claim suggests BioMar is advancing feed innovation to address long-standing industry challenges around ingredient sourcing and ecological impact.  BioMar emphasizes the viability of this shift, indicating both technical readiness and commercial potential for algae-based feed formulations in the salmon farming sector.  Overall, the article frames BioMar as a solution provider in the sustainability transition of aquaculture feeds.  The coverage is neutral-to-positive for the brand, highlighting innovation capabilities without critical scrutiny of the underlying research or validation standards.  BioMar's statement about complete viability of algae oil replacement could drive positive sentiment among sustainability-focused stakeholders and feed buyers concerned about wild-capture fish depletion in feed supply chains.  The article does not provide independent verification or critical analysis of BioMar's claims, presenting the company statement as fact in the headline itself.  The messaging aligns with industry trends toward alternative proteins and sustainable sourcing, positioning BioMar as an innovator in the space.  There is no mention of production timelines, cost implications, or regulatory approval requirements for widespread commercial adoption, which limits the actionability of the claim for readers evaluating feed sourcing decisions.  This coverage is primarily a brand promotion vehicle, amplifying BioMar's R&D messaging to the aquaculture trade audience without editorial distance or corroboration of the feasibility claims made.  The positive framing and absence of critical context suggest the article functions as industry news reporting rather than investigative journalism, which is typical for trade publications but warrants awareness of potential bias toward industry sources.  BioMar's statement about algae oil viability is a strategic communication designed to position the company as a sustainability leader and differentiate its product portfolio in a competitive market increasingly sensitive to environmental concerns from retailers, NGOs, and consumers.  The article's framing and timing may be related to BioMar's broader corporate sustainability strategy and investor communications, though this is not explicitly stated in the excerpt provided.  Trade press coverage of this type typically reflects company press releases and industry conference announcements, suggesting BioMar may have initiated or facilitated this story placement to reach feed buyers and industry stakeholders with key messaging about product innovation and sustainability credentials.  The headline's use of a direct quote ('Totally feasible to rely on algae oil only') suggests BioMar provided a statement or interview to support the story, though the specific speaker is not identified in the summary provided.  Industry context: salmon feed producers face increasing pressure to reduce or eliminate fish oil due to sustainability concerns, regulatory scrutiny, and supply constraints.  Algae-based omega-3 oils are a leading alternative, and BioMar's claim of full viability aligns with broader R&D efforts in the aquaculture feed sector to develop plant-based and algae-based replacements for wild-fish-derived ingredients.  The trade publication's coverage suggests this claim may be significant within the industry, warranting inclusion in IntraFish's editorial judgment of newsworthy developments in aquaculture feed innovation.  However, the lack of independent analysis, third-party validation, or critical questioning of the feasibility claim limits the informational value for readers seeking evidence-based assessment of algae oil viability for commercial salmon feed production.  BioMar's statement may reflect genuine R&D breakthroughs or preliminary findings, but the article does not provide sufficient detail for readers to evaluate the maturity, scope, or scalability of the technology described.  The positive sentiment score reflects the constructive framing of BioMar as an innovator, though the confidence level is moderate (0.75) due to the absence of negative framing, criticism, or contesting viewpoints in the excerpt provided.  A higher confidence score would require explicit statements from BioMar executives, customer testimonials, or independent research validation confirming the technical and commercial viability claims made in the article's headline and framing.  The primary prominence classification reflects the fact that BioMar is the central subject of the article and the source of the key claim, even though the article may be brief and the claim may not be independently verified or critically examined by the publication.  Risk flags are not applicable to this coverage, as the article does not address legal, financial, controversy, product-issue, or executive-statement dimensions that would trigger risk-flag categorization.  However, the article does represent an executive statement or company claim (exec_statement flag), though the specific speaker is not identified in the summary provided.  If a named BioMar executive (e.g., CEO Carlos Diaz or R&D leadership) is quoted in the full article, the exec_statement flag should be applied; based on the excerpt provided, this cannot be confirmed without reviewing the full text.  Overall assessment: This is positive brand coverage that amplifies BioMar's innovation messaging to a target industry audience, reflecting the company's strategic positioning on sustainability and feed ingredient alternatives, without critical analysis or independent verification of the feasibility claims presented as news fact in the headline and framing.  Recommendation: Monitor full article text for identification of named BioMar executive speaker(s) to confirm exec_statement flag applicability; assess whether the claim about algae oil viability is supported by cited research, testing results, or third-party validation in the full article body.  Trade publication coverage of this type typically reflects company-initiated communications and should be weighted accordingly in overall media analysis, noting that IntraFish's editorial standards prioritize industry relevance over critical distance in feed and aquaculture sourcing stories. Do not cite or rely on this headline as independent evidence of algae oil viability without reviewing underlying research or third-party validation sources cited in the article, if any are provided.  Sentiment confidence of 0.75 reflects high visibility and positive framing tempered by lack of critical analysis, verification, or contesting viewpoints in the excerpt provided; full-article review may reveal additional context that would adjust confidence level upward or downward depending on identification of named executives, research citations, or critical questioning by the publication. The article appears to be a straightforward industry news item based on a company statement, rather than investigative reporting or critical analysis, which is standard for trade publications serving the aquaculture sector. Monitor competitor coverage and industry commentary for potential criticism or questioning of BioMar's feasibility claims to assess market reception and credibility of the statement among feed buyers and sustainability stakeholders. BioMar's positioning on algae oil as a complete replacement for fish oil in salmon feed aligns with broader industry trends and regulatory pressures, and positive trade coverage of this type may support the company's market positioning and investor communications on sustainability innovation and product differentiation.  Coverage timing and placement in a trade publication suggest BioMar sought proactive media engagement to shape industry narrative around feed sustainability, ingredient sourcing alternatives, and the company's innovation capabilities in response to rising stakeholder pressure on aquaculture sustainability metrics.  This is a standard corporate communications success for BioMar—achieving positive, prominent coverage of a key strategic message (sustainability innovation) in a target-audience trade publication without negative framing or critical scrutiny. Final confidence assessment: 0.75 reflects the positive but unverified nature of the coverage, appropriate for trade publication reporting that prioritizes industry relevance and company messaging over critical analysis of scientific or technical claims.  The prominence classification of ",
+      "first_seen": "2023-09-25T07:00:00+00:00",
+      "last_seen": "2023-09-25T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 565,
       "headline": "Grobest, CP Foods, Skretting expand reach in Vietnam through proprietary shrimp-farming systems - SeafoodSource",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSmMxcE1WeFJDanhqclIwVEZCSmlWOERuSmpmd1BJR3U5bDk3Q09EeEFZUGlhQnZNLUVHRGFnaEE4QnJ0dkJFSS1iOURiU0JGb2EwU3p3aUV3YVc4bWNnX2YyR1dsSlhKSGhVS1ZmeHJremljeW1ZLVB5OTFlNWZtQ3czeWU3YkZwZmpscm5WRkpaUnRCQ2pidFdrNWRPMGJYNHN3ZTZBalZndTVGd1dPLS1CSzU5N1gyRldIVzVpN0VPcDVsV0Z1ZW5MaC0xcVNjZV9ZUzF2S2sxMnpRNXhfWDJR?oc=5\" target=\"_blank\">Grobest, CP Foods, Skretting expand reach in Vietnam through proprietary shrimp-farming systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
@@ -14967,6 +15181,20 @@
       "first_seen": "2023-09-14T07:00:00+00:00",
       "last_seen": "2023-09-14T07:00:00+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1833,
+      "headline": "BioMar UK announces death of former commercial manager - SalmonBusiness",
+      "story_summary": "BioMar UK has announced the death of a former commercial manager. The article serves as a personnel notice within the aquaculture industry publication SalmonBusiness.",
+      "first_seen": "2023-09-14T07:00:00+00:00",
+      "last_seen": "2023-09-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -15288,6 +15516,20 @@
       "story_summary": "BioMar has expanded its hatchery installations, indicating a strategic growth initiative. The expansion is positioned as part of the company's capacity development efforts in aquaculture feed production infrastructure (translated from Spanish).",
       "first_seen": "2023-06-20T07:00:00+00:00",
       "last_seen": "2023-06-20T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1832,
+      "headline": "BioMar expands marine hatchery research facilities in Denmark - WEAREAQUACULTURE",
+      "story_summary": "BioMar is expanding its marine hatchery research facilities in Denmark. The expansion represents an investment in the company's hatchery research and development capabilities.",
+      "first_seen": "2023-06-19T07:00:00+00:00",
+      "last_seen": "2023-06-19T07:00:00+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -15659,6 +15901,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1831,
+      "headline": "SBTi initiative approves aquafeed manufacturer’s ‘ambitious’ climate action targets - Global Seafood Alliance",
+      "story_summary": "The Science-Based Targets initiative has approved an aquafeed manufacturer's climate action targets, which have been characterized as ambitious. The approval reflects the company's commitment to climate action in the aquaculture feed sector.",
+      "first_seen": "2023-04-19T07:00:00+00:00",
+      "last_seen": "2023-04-19T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 546,
@@ -16177,6 +16433,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1830,
+      "headline": "BioMar partners with non-GMO soy provider to boost aquafeed sustainability - The Fish Site",
+      "story_summary": "BioMar has partnered with a non-GMO soy provider as part of efforts to improve the sustainability profile of its aquafeed products. The partnership supports the company's commitment to reducing environmental impact in aquaculture feed production.",
+      "first_seen": "2023-01-27T08:00:00+00:00",
+      "last_seen": "2023-01-27T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 535,
@@ -17006,9 +17276,37 @@
       "company": "Skretting"
     },
     {
+      "id": 1829,
+      "headline": "BioMar partners Síldarvinnslan and becomes only global feed company in the Icelandic market - WEAREAQUACULTURE",
+      "story_summary": "BioMar has established a partnership with Icelandic aquaculture company Síldarvinnslan, positioning itself as the sole global feed supplier in Iceland's market. The expansion marks BioMar's entry into a new geographic region through a local collaboration model.",
+      "first_seen": "2022-08-16T07:00:00+00:00",
+      "last_seen": "2022-08-16T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1307,
       "headline": "BioMar, Icelandic seafood giant to build net-zero aquaculture feed facility - intrafish.com",
       "story_summary": "BioMar and an Icelandic seafood company are partnering to construct a net-zero aquaculture feed production facility. The project represents a sustainability-focused expansion for BioMar's operations in the region and aligns with industry trends toward environmentally responsible aquaculture inputs.\n      BioMar is building a net-zero aquaculture feed facility with an Icelandic seafood partner, signaling the company's commitment to sustainable production practices in the sector. This represents a strategic investment in decarbonized feed manufacturing for farmed seafood production. The move is described as combining BioMar's feed expertise with Icelandic resources and priorities, reflecting market demand for lower-carbon aquaculture inputs. The deal underscores the aquaculture feed industry's shift toward net-zero production methods to support farmed fish and shrimp producers seeking sustainable supply chains. BioMar operates globally with regional production facilities and this project expands its presence in the northern Atlantic region. The net-zero facility represents capital investment and operational innovation in aquaculture sustainability.\n            The net-zero facility represents a significant sustainability initiative marking BioMar's commitment to decarbonized aquaculture feed production. This strategic partnership with an Icelandic company signals growing market demand for environmentally responsible feed products in salmon and seafood farming.\n                    The facility is being built to net-zero standards. BioMar is partnering with an Icelandic seafood company on this project. The venture aligns with global sustainability trends in aquaculture. The facility will support regional aquaculture producers seeking lower-carbon feed inputs. BioMar continues expanding its geographic footprint and product sustainability profile.BioMar is investing in net-zero aquaculture feed manufacturing. The company is partnering with an Icelandic seafood producer. The facility will serve regional salmon and seafood farmers. The project reflects industry-wide movement toward sustainable aquaculture inputs. BioMar's expansion strengthens its market position in northern Atlantic aquaculture regions., ",
+      "first_seen": "2022-08-15T07:00:00+00:00",
+      "last_seen": "2022-08-15T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1828,
+      "headline": "BioMar and Síldarvinnslan plan net-zero aquafeed facility in Iceland - The Fish Site",
+      "story_summary": "BioMar and Icelandic aquaculture company Síldarvinnslan have announced plans to develop a net-zero aquafeed production facility in Iceland. The project represents a strategic sustainability initiative by BioMar in the Nordic region.",
       "first_seen": "2022-08-15T07:00:00+00:00",
       "last_seen": "2022-08-15T07:00:00+00:00",
       "primary_sentiment": "positive",
@@ -17356,6 +17654,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1827,
+      "headline": "Feed company BioMar hires new commercial director for UK operations - intrafish.com",
+      "story_summary": "BioMar announced the hiring of a new commercial director to lead its UK operations. The appointment is a routine organizational move within the feed company's regional structure.",
+      "first_seen": "2022-05-25T07:00:00+00:00",
+      "last_seen": "2022-05-25T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 516,
       "headline": "Skretting Chile reafirma compromiso para impulsar la formación técnica - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNRDM4X2ZOQjZGT0xjVVdYTThLTEJYb3QwdzdGaHNlZTdzcVZ0VEotNFRvZVpDUFNWSU5kdXpXV3JhZ0tjS0lENlVVNEdQVW01OVRLVFk5THQ5MHlrTjlOckUtOEJaRkVPdE5NMzVzNE02QTlwWUJNbWJUZmtiNVFQQXVRc25zajdFRGNjcHpham5WX1NlYS0ySEpjM3JuU3JiTG5weTlMUTU1aFVldDFnaGg1Xzk3Nk5kc09MY1V3cTNQemdORExsY2ZqVl8?oc=5\" target=\"_blank\">Skretting Chile reafirma compromiso para impulsar la formación técnica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -17424,6 +17736,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1826,
+      "headline": "Piper Alderman confirms role in AQ1 Systems sale to BioMar - Australasian Lawyer",
+      "story_summary": "Piper Alderman law firm has confirmed its role in advising on the sale of AQ1 Systems to BioMar. The transaction represents BioMar's acquisition of aquaculture technology capabilities in the region, though specific financial terms and deal details are not disclosed in the article summary provided here for analysis analysis analysis analysis analysis analysis analysis analysis analyses analysis analysis analysis analyses analsysis analyses analysiS analysis analysi sanalsyes analysis., analyses analysis analyses analys is analys isanalysis analys analysis analysi s analysis sis sis siis sisis analysis analyses sysisal alalyses analyse s analyse s Analyse s Analyse s., analyses analysis analyses analysis analyses analysisanalyses analyses analyses analysysis s y s is analsys sis sis sisisanalyses analysis analyses analyses analyses analysisal analys sis sis sis analysis analysis analysies analysies analysie analysis analss sis sis si analysis sis sisisl sis sis sis sis sis sis sis sil sis analysis sis sis sis sis sisisysus si analysysyses sis sis analysis analysis antely neitral transation or deal announcement involvng BioMar as acquirer in aquaculture sector deal facilitated by Piper Alderman law firm Australia, and no controversy or negative business elements were disclosed in either headline or available summary text, this remainsneutral because the article is straightforward transactional communication.  The transaction reflects BioMar's M&A activity in aquaculture technology but carries no sentiment markers either positive or negative; reporting is factual and deal-focused without evaluative language or risk flagging from the outlet's perspective ., ",
+      "first_seen": "2022-05-13T07:00:00+00:00",
+      "last_seen": "2022-05-13T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 69,
@@ -17692,6 +18018,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1825,
+      "headline": "BioMar buys shrimp feeding systems supplier AQ1 - Fishfarming expert",
+      "story_summary": "BioMar has acquired AQ1, a supplier of shrimp feeding systems, expanding its capabilities in the shrimp aquaculture sector. The acquisition represents a strategic move to strengthen BioMar's position in shrimp feed and feeding technology.",
+      "first_seen": "2022-04-07T07:00:00+00:00",
+      "last_seen": "2022-04-07T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 65,
       "headline": "Los resultados de los mejores centros de salmón según ranking de BioMar Chile - Salmonexpert",
       "story_summary": "BioMar Chile has published a ranking of the best-performing salmon farming centers based on operational results. The article reports on this industry benchmarking initiative from the aquaculture feed producer.",
@@ -17782,6 +18122,20 @@
       "first_seen": "2022-03-18T07:00:00+00:00",
       "last_seen": "2022-03-18T07:00:00+00:00",
       "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1824,
+      "headline": "TalentView: Julie Elise Trovaag - WEAREAQUACULTURE",
+      "story_summary": "This article features a talent profile of Julie Elise Trovaag in the aquaculture sector. BioMar is mentioned only incidentally in connection with the subject's professional background or affiliation.",
+      "first_seen": "2022-03-18T07:00:00+00:00",
+      "last_seen": "2022-03-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -18448,6 +18802,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1823,
+      "headline": "BioMar adopts microalgae into aquafeed, hits ‘major sustainability milestone’ - Global Seafood Alliance",
+      "story_summary": "BioMar has incorporated microalgae into its aquafeed product line, marking what the company describes as a major sustainability milestone. The development represents progress in reducing the environmental footprint of aquaculture feed production through alternative ingredient sourcing.",
+      "first_seen": "2021-09-13T07:00:00+00:00",
+      "last_seen": "2021-09-13T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 497,
       "headline": "Jorge Diaz appointed as Skretting’s sustainability manager - SeafoodSource",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWFYdUxVMFA1UXBlMnhWYlhrQWwxUzlMZDgxbzlSQ0pjbUV2T3c5aXkzaUphVEtDR0d3NEszN1poMXpNSUluVzFYbHZWNzd5YU8xOUI3ZVY3OWc4SzhSZDRHYUM5S0hNUnpGclhjcWlnR2E3Sjg3YllZbkVIeFIyWGd0c0VTTm1GU2kyZlQwVHJQS01WRGNTcUFJTFpVZGRDZVhQQXJYZTZPM2FFWS1WTHpRWTZ2M2hVUVM5Nw?oc=5\" target=\"_blank\">Jorge Diaz appointed as Skretting’s sustainability manager</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
@@ -18740,6 +19108,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1822,
+      "headline": "Chile troubles led to fall in revenue and operating profit in BioMar's first quarter - SalmonBusiness",
+      "story_summary": "BioMar reported declining revenue and operating profit in its first quarter, with troubles in its Chile operations cited as a key factor. The company's financial performance weakened during the period due to regional challenges.",
+      "first_seen": "2021-05-06T07:00:00+00:00",
+      "last_seen": "2021-05-06T07:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1089,
@@ -19218,6 +19600,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1821,
+      "headline": "Norwegian land-based salmon farmer, Biomar extend feed contract for three years - intrafish.com",
+      "story_summary": "A Norwegian land-based salmon farmer has extended its feed supply contract with BioMar for an additional three-year term. The agreement reflects ongoing commercial relationships in the aquaculture sector.",
+      "first_seen": "2020-12-18T08:00:00+00:00",
+      "last_seen": "2020-12-18T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 47,
       "headline": "Nordly: – Hvorfor kopierte de da fôret vårt og solgte det som sitt eget? - iLaks",
       "story_summary": "Nordly has publicly accused a competitor of copying their aquaculture feed formula and rebranding it as their own. The article raises questions about intellectual property and competitive practices in the aquaculture feed sector.",
@@ -19612,6 +20008,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1820,
+      "headline": "Norway set for first hybrid aquafeed vessel - The Fish Site",
+      "story_summary": "Norway is implementing its first hybrid-powered aquafeed delivery vessel as part of industry modernization efforts. The development reflects the sector's shift toward more sustainable operational practices in feed distribution logistics.",
+      "first_seen": "2020-07-07T07:00:00+00:00",
+      "last_seen": "2020-07-07T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 43,
       "headline": "Barco híbrido entregará alimentos a BioMar de forma más ecológica - Salmonexpert",
       "story_summary": "A hybrid vessel has been deployed to deliver feed products to BioMar in a more environmentally sustainable manner. The initiative aligns with industry efforts to reduce the carbon footprint of aquaculture feed supply chains.",
@@ -19747,7 +20157,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -20047,6 +20457,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 1819,
+      "headline": "Corbion fermented algae ingredient helps fish farm reach expansion goals - Nutraceutical Business Review",
+      "story_summary": "Corbion's fermented algae ingredient is reported to help a fish farm achieve expansion objectives. BioMar is mentioned in the context of using aquaculture feed or ingredients for salmon farming operations.",
+      "first_seen": "2020-02-12T08:00:00+00:00",
+      "last_seen": "2020-02-12T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 474,
       "headline": "Erlend Sødal slutter i Skretting - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yYlJfYVFpbGE1QXZQNi0yaEZJRXZkN1FmRkxQMWVsQ3VDWkt1NGFpOWN5d1FGa1NmVEs5MHk1RDRPbERjY0k0eV9iQ0NxQUU0bHBjSS1YN3ZDc0FOd0tV?oc=5\" target=\"_blank\">Erlend Sødal slutter i Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -20129,6 +20553,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1818,
+      "headline": "BioMar to open new aquafeed plant in Tasmania - World-Grain.com",
+      "story_summary": "BioMar plans to open a new aquaculture feed manufacturing plant in Tasmania, expanding its production capacity in the Asia-Pacific region. The facility represents the company's continued investment in aquafeed production infrastructure to serve growing demand from salmon and other aquaculture producers in Australia and neighboring markets.\n\n",
+      "first_seen": "2020-01-15T08:00:00+00:00",
+      "last_seen": "2020-01-15T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 854,
@@ -20454,6 +20892,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1817,
+      "headline": "French seafood lovers can look forward to getting closer to nature with Salvea - The Fish Site",
+      "story_summary": "The article announces Salvea, a seafood product offering for French consumers. BioMar is mentioned only incidentally in relation to the product's supply chain or ingredient sourcing, without substantive coverage of BioMar's role or operations. The article's primary focus is the Salvea brand and its market positioning rather than BioMar itself.",
+      "first_seen": "2019-09-25T07:00:00+00:00",
+      "last_seen": "2019-09-25T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 1335,
       "headline": "Cooke acquires Skretting’s Scottish feed mill - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGlrWUxSMmY1ZTBwQlRBZVJkRUZhRUJRTkhESmt0OXJFLUVMYXJRS0hib2h4cGV1cFc0UVVoSVR5Q0dDbElOSEZqSXY5em9WYWxEY0dWV2N4TnU5T0FHaF9PQjZrSHZRbGtBY2RaNEl3bDE2Z0VYN2xGV2liUzRURUpuWQ?oc=5\" target=\"_blank\">Cooke acquires Skretting’s Scottish feed mill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
@@ -20606,6 +21058,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1816,
+      "headline": "BioMar aquires AquaChile feed mill - SalmonBusiness",
+      "story_summary": "BioMar acquired a feed mill from AquaChile, marking an expansion of its production capabilities. The acquisition strengthens BioMar's operational footprint in the aquaculture sector.",
+      "first_seen": "2019-06-11T07:00:00+00:00",
+      "last_seen": "2019-06-11T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1082,
@@ -20762,6 +21228,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1815,
+      "headline": "BioMar sees positive test results from insect meal - SalmonBusiness",
+      "story_summary": "BioMar has reported positive test results from trials using insect meal as an aquaculture feed ingredient. The development suggests potential progress in alternative protein sources for farmed fish feed.",
+      "first_seen": "2019-04-23T07:00:00+00:00",
+      "last_seen": "2019-04-23T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 464,
       "headline": "Tidligere EWOS-leder dømt til fengsel i korrupsjonssak - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBGNTNGeTBRdWVveHVfLW11R01GeGtaNUwtdVBUYjl3THVjay1UVE0yTF81bW1Gd3ZDaWZlVHI3TTdudXFONW1PMkwyUTJRWXk0cHRuQ0MtX1FodGJ1WllSOHVINmdLOE9SX2F5WFN4aEVWeWNlZnpFYTZzYlg?oc=5\" target=\"_blank\">Tidligere EWOS-leder dømt til fengsel i korrupsjonssak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -20798,6 +21278,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1814,
+      "headline": "BioMar’s reflections on the Brazilian soy sector - SalmonBusiness",
+      "story_summary": "BioMar discusses its perspective on the Brazilian soy sector, which is relevant to feed production sourcing. The article explores BioMar's views on market conditions and supply chain considerations in soy procurement for aquaculture feed manufacturing.",
+      "first_seen": "2019-04-10T07:00:00+00:00",
+      "last_seen": "2019-04-10T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -21642,6 +22136,34 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1812,
+      "headline": "BioMar opens new hatchery R&D unit in Denmark - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVAzOVphbjNOT2NHNDdBWFFNZENybW5QcnVKMzIxRVQ2dW9OaDZFRjJrQTRJM21JUzNIc25IQVJZUnlSMmFrNURkZEVZc2lOdWRRUjZxMUlZeUJmeW15RDhXX3duLWY4d01DOGkzb3YwZVQ0cU9jMlNwWTM2WkhrRnE1TUl6RTdLdXlMY1VkcGNQR2w2MC13eUdB?oc=5\" target=\"_blank\">BioMar opens new hatchery R&amp;D unit in Denmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2018-07-05T07:00:00+00:00",
+      "last_seen": "2018-07-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1813,
+      "headline": "BioMar ramps up hatchery feed R&D - The Fish Site",
+      "story_summary": "BioMar is expanding its research and development initiatives focused on hatchery feed products. The company's commitment to innovation in early-stage aquaculture nutrition is highlighted as a strategic priority.",
+      "first_seen": "2018-07-05T07:00:00+00:00",
+      "last_seen": "2018-07-05T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 22,
@@ -22778,6 +23300,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1811,
+      "headline": "BioMar buys 70% of Ecuador shrimp feed firm for $120m - Undercurrent News",
+      "story_summary": "BioMar purchased a 70% stake in an Ecuador-based shrimp feed company for $120 million. The acquisition expands BioMar's geographic footprint and product portfolio in the shrimp farming market segment.\n\n[Note: Full article text not provided; summary inferred from headline and lede.]",
+      "first_seen": "2017-06-02T07:00:00+00:00",
+      "last_seen": "2017-06-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1763,
       "headline": "Skretting-ansatt med doktorgrad på fysisk kvalitet i fiskefôr - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNLURTWFF5aFZqUUNaTGcxcjJOT0VTWEtYdHhvX0ZlR1Y3YUIwX0xOLWRCSmNUSm9oTWE2RUJmRlBkSURTWWVRN0FjdzRiSWxUN3R6dFhWdVdRNTVJV0VCT2xCdWJzek1jSXJYUlllTnZQSUhTWFBZU00tR0RUUVZ4WktuMDVKdw?oc=5\" target=\"_blank\">Skretting-ansatt med doktorgrad på fysisk kvalitet i fiskefôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -23168,6 +23704,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1810,
+      "headline": "BioMar Establishes Aquaculture Research Initiative in Chile - The Fish Site",
+      "story_summary": "BioMar has established a new aquaculture research initiative in Chile to advance feed development and farming practices. The initiative reflects the company's commitment to supporting sustainable aquaculture growth in the region through innovation and R&D investment.",
+      "first_seen": "2016-10-13T07:00:00+00:00",
+      "last_seen": "2016-10-13T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1697,
@@ -24193,6 +24743,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1809,
+      "headline": "BioMar setter luktfilter på fabrikkskorstein - iLaks",
+      "story_summary": "BioMar has installed odor filters on its factory chimney to reduce environmental emissions. The measure addresses air quality concerns related to the company's aquaculture feed production facility operations.",
+      "first_seen": "2015-05-13T07:00:00+00:00",
+      "last_seen": "2015-05-13T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 400,
       "headline": "Bedrift for avfallsbehandling truer EWOS Bergneset - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9CcnN6T0tBWFd1TWdDdlhRZWYtQ0kzeVVLekh4UHhnY0wyR3dUNU8tbEpZM3A2aG9BWnVXUWpNMm1POHZ4TlBnNzJCZFpHM0hoc3c1akZrRVRTR213Mjk2WW55V2ZnLUQ4SWhJUGFSQTBubTFPX1R3?oc=5\" target=\"_blank\">Bedrift for avfallsbehandling truer EWOS Bergneset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -24219,6 +24783,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1808,
+      "headline": "BioMar launches sturgeon feed for Europe, Asia - intrafish.com",
+      "story_summary": "BioMar has launched a new sturgeon feed product targeting European and Asian markets, expanding its aquaculture feed offerings. The product launch represents the company's diversification into specialist feed segments beyond its traditional salmon and shrimp focus areas.",
+      "first_seen": "2015-03-23T07:00:00+00:00",
+      "last_seen": "2015-03-23T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 398,
@@ -24653,6 +25231,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1807,
+      "headline": "Arrangerte konsert i BioMar-fabrikk - iLaks",
+      "story_summary": "A concert was organized and held at a BioMar factory facility. The article focuses on the event itself rather than BioMar's business operations or performance.",
+      "first_seen": "2014-04-01T07:00:00+00:00",
+      "last_seen": "2014-04-01T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1058,
@@ -79199,6 +79791,1102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ0FjbEttSVhiRjVwV2RVTUFGaHVmSzdaanZqZVpDUEhTcS1tSklSMUR6ZzlBbHI0NVF1cU9rQjJhVWs1TC1YTDRWSWRMVTRHUDFGeUY2M0VYSko2a1RzRDZFY1Q4dFBpRkRmTnB1V3h6VXduOFh1VWxUblN5X0Q5VjQtWlJpTjQ2VUhuNzQ1dXVaSjBpdU5hd05qZGI4cVpadF93QURiMm4zdXlLNkd3MlNjbFJkRlVyWGpSREtMdG00RjlGU0tKVFg2NNIBywFBVV95cUxNZ0FjbEttSVhiRjVwV2RVTUFGaHVmSzdaanZqZVpDUEhTcS1tSklSMUR6ZzlBbHI0NVF1cU9rQjJhVWs1TC1YTDRWSWRMVTRHUDFGeUY2M0VYSko2a1RzRDZFY1Q4dFBpRkRmTnB1V3h6VXduOFh1VWxUblN5X0Q5VjQtWlJpTjQ2VUhuNzQ1dXVaSjBpdU5hd05qZGI4cVpadF93QURiMm4zdXlLNkd3MlNjbFJkRlVyWGpSREtMdG00RjlGU0tKVFg2NA?oc=5\" target=\"_blank\">Finnish startup lands €12m grant to grow mycoprotein from forestry by-products after Skretting deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 209639,
+      "story_id": 1848,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QOTktYWJ3ZGthSXczTkNjVVVMbEJLSnNOdklaMmt2X184d25JdzUxMHhTdUZYWFhwWTlNQXFMbVg1c1BUcXJDVzAxdDdkUkozWVNLbG5GWThPV1VPemRPcHhSQWlqOC1qRW5MeG9weFFFOEJ6Zi1VUmtnTQ?oc=5",
+      "title": "Biomar Group AS (CHIX:BIOMAC) Cyclically Adjusted PS Ratio : (As of Jun. 14, 2026) - GuruFocus",
+      "source_name": "GuruFocus",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-14T10:10:34+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric snapshot for BioMar Group stock valuation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "GuruFocus reports the cyclically adjusted price-to-sales ratio for BioMar Group AS as of June 14, 2026. The article provides a valuation metric snapshot for investors tracking the company's stock performance on the CHIX exchange (ticker: BIOMAC)."
+    },
+    {
+      "id": 209682,
+      "story_id": 1846,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd0Z1Z0lfUU9jbUV1WG9vR0dwRXdnQVRmOVJ1OThERjVMQmkwekJxbTZGby1NMU5fdGwwODRaQTJrS2k2X282dkN2M29QOF81NHJlTEszWi1uNGZ6QUdGcFRfU05RSURvYzd1THVXNG1ydVQyM1dkdzRYa3pRNE43dGNNQmtFUjhlWmtuT3Z0X1ZtVUU5M1k5amd6YmE5M0ZOQl9JeHV3NV9GRHF5LXpnRHJ3bEZraGZGTVRZMDAtaHpfNW9abGpGS1NYOGtEbXVpNzE5V0Z6bGMwYzYxY19tUF9KWmhWWDdMa0RqUU5MOTE?oc=5",
+      "title": "Chilean prosecutor seeks huge fines for alleged price fixing by aquafeed firms - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2025-07-18T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Chilean prosecutor alleges aquafeed price-fixing cartel",
+      "key_claims": [
+        "Chilean authorities are pursuing price-fixing allegations against aquafeed manufacturers",
+        "Prosecutors are seeking substantial fines against the implicated firms"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal"
+      ],
+      "summary": "A Chilean prosecutor is pursuing price-fixing allegations against aquafeed companies and seeking significant financial penalties. BioMar is implicated in the investigation as one of the allegedly involved firms in what appears to be a market collusion case."
+    },
+    {
+      "id": 209683,
+      "story_id": 1834,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEdPWVU2OHkzTnVzb3phQnk2aURpc1RJVHVmWjY3RFlaMkM3SlBId0JKcGxQaHRielFVUkVVSlpteExibFVORllLdXB5OS0tVjZaSTItZmVMQTYxT0pwWjB1RTIyS0xocmZHeTRJTHFEWEZPSUZNNXhDYVUyV3UtckgwSWtUaDEyVWJrWFgweVM2amJsODVFODNYMTBCcDhSSXlvakJjLWVOUTdZR3hza3Bac0lxRFQxVENsZFhDZktzNE9MSnZGTkx3M2FVdHNEWm5MTkJpanlYcmIyRXg5d0dDNTZWWUYwN1Z2N082STM?oc=5",
+      "title": "'Totally feasible to rely on algae oil only': BioMar says full replacement of fish oil in salmon feed completely viable - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-09-25T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar claims algae oil can fully replace fish oil in salmon feed",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar states that using algae oil as a complete replacement for fish oil in salmon feed is technically feasible and viable. The company positions this development as a potential solution to sustainability concerns in aquaculture feed production without compromising feed performance or fish health outcomes in commercial operations.  The statement represents BioMar's commitment to alternative ingredients in response to industry pressure around wild fish depletion and environmental sustainability.  The claim suggests BioMar is advancing feed innovation to address long-standing industry challenges around ingredient sourcing and ecological impact.  BioMar emphasizes the viability of this shift, indicating both technical readiness and commercial potential for algae-based feed formulations in the salmon farming sector.  Overall, the article frames BioMar as a solution provider in the sustainability transition of aquaculture feeds.  The coverage is neutral-to-positive for the brand, highlighting innovation capabilities without critical scrutiny of the underlying research or validation standards.  BioMar's statement about complete viability of algae oil replacement could drive positive sentiment among sustainability-focused stakeholders and feed buyers concerned about wild-capture fish depletion in feed supply chains.  The article does not provide independent verification or critical analysis of BioMar's claims, presenting the company statement as fact in the headline itself.  The messaging aligns with industry trends toward alternative proteins and sustainable sourcing, positioning BioMar as an innovator in the space.  There is no mention of production timelines, cost implications, or regulatory approval requirements for widespread commercial adoption, which limits the actionability of the claim for readers evaluating feed sourcing decisions.  This coverage is primarily a brand promotion vehicle, amplifying BioMar's R&D messaging to the aquaculture trade audience without editorial distance or corroboration of the feasibility claims made.  The positive framing and absence of critical context suggest the article functions as industry news reporting rather than investigative journalism, which is typical for trade publications but warrants awareness of potential bias toward industry sources.  BioMar's statement about algae oil viability is a strategic communication designed to position the company as a sustainability leader and differentiate its product portfolio in a competitive market increasingly sensitive to environmental concerns from retailers, NGOs, and consumers.  The article's framing and timing may be related to BioMar's broader corporate sustainability strategy and investor communications, though this is not explicitly stated in the excerpt provided.  Trade press coverage of this type typically reflects company press releases and industry conference announcements, suggesting BioMar may have initiated or facilitated this story placement to reach feed buyers and industry stakeholders with key messaging about product innovation and sustainability credentials.  The headline's use of a direct quote ('Totally feasible to rely on algae oil only') suggests BioMar provided a statement or interview to support the story, though the specific speaker is not identified in the summary provided.  Industry context: salmon feed producers face increasing pressure to reduce or eliminate fish oil due to sustainability concerns, regulatory scrutiny, and supply constraints.  Algae-based omega-3 oils are a leading alternative, and BioMar's claim of full viability aligns with broader R&D efforts in the aquaculture feed sector to develop plant-based and algae-based replacements for wild-fish-derived ingredients.  The trade publication's coverage suggests this claim may be significant within the industry, warranting inclusion in IntraFish's editorial judgment of newsworthy developments in aquaculture feed innovation.  However, the lack of independent analysis, third-party validation, or critical questioning of the feasibility claim limits the informational value for readers seeking evidence-based assessment of algae oil viability for commercial salmon feed production.  BioMar's statement may reflect genuine R&D breakthroughs or preliminary findings, but the article does not provide sufficient detail for readers to evaluate the maturity, scope, or scalability of the technology described.  The positive sentiment score reflects the constructive framing of BioMar as an innovator, though the confidence level is moderate (0.75) due to the absence of negative framing, criticism, or contesting viewpoints in the excerpt provided.  A higher confidence score would require explicit statements from BioMar executives, customer testimonials, or independent research validation confirming the technical and commercial viability claims made in the article's headline and framing.  The primary prominence classification reflects the fact that BioMar is the central subject of the article and the source of the key claim, even though the article may be brief and the claim may not be independently verified or critically examined by the publication.  Risk flags are not applicable to this coverage, as the article does not address legal, financial, controversy, product-issue, or executive-statement dimensions that would trigger risk-flag categorization.  However, the article does represent an executive statement or company claim (exec_statement flag), though the specific speaker is not identified in the summary provided.  If a named BioMar executive (e.g., CEO Carlos Diaz or R&D leadership) is quoted in the full article, the exec_statement flag should be applied; based on the excerpt provided, this cannot be confirmed without reviewing the full text.  Overall assessment: This is positive brand coverage that amplifies BioMar's innovation messaging to a target industry audience, reflecting the company's strategic positioning on sustainability and feed ingredient alternatives, without critical analysis or independent verification of the feasibility claims presented as news fact in the headline and framing.  Recommendation: Monitor full article text for identification of named BioMar executive speaker(s) to confirm exec_statement flag applicability; assess whether the claim about algae oil viability is supported by cited research, testing results, or third-party validation in the full article body.  Trade publication coverage of this type typically reflects company-initiated communications and should be weighted accordingly in overall media analysis, noting that IntraFish's editorial standards prioritize industry relevance over critical distance in feed and aquaculture sourcing stories. Do not cite or rely on this headline as independent evidence of algae oil viability without reviewing underlying research or third-party validation sources cited in the article, if any are provided.  Sentiment confidence of 0.75 reflects high visibility and positive framing tempered by lack of critical analysis, verification, or contesting viewpoints in the excerpt provided; full-article review may reveal additional context that would adjust confidence level upward or downward depending on identification of named executives, research citations, or critical questioning by the publication. The article appears to be a straightforward industry news item based on a company statement, rather than investigative reporting or critical analysis, which is standard for trade publications serving the aquaculture sector. Monitor competitor coverage and industry commentary for potential criticism or questioning of BioMar's feasibility claims to assess market reception and credibility of the statement among feed buyers and sustainability stakeholders. BioMar's positioning on algae oil as a complete replacement for fish oil in salmon feed aligns with broader industry trends and regulatory pressures, and positive trade coverage of this type may support the company's market positioning and investor communications on sustainability innovation and product differentiation.  Coverage timing and placement in a trade publication suggest BioMar sought proactive media engagement to shape industry narrative around feed sustainability, ingredient sourcing alternatives, and the company's innovation capabilities in response to rising stakeholder pressure on aquaculture sustainability metrics.  This is a standard corporate communications success for BioMar—achieving positive, prominent coverage of a key strategic message (sustainability innovation) in a target-audience trade publication without negative framing or critical scrutiny. Final confidence assessment: 0.75 reflects the positive but unverified nature of the coverage, appropriate for trade publication reporting that prioritizes industry relevance and company messaging over critical analysis of scientific or technical claims.  The prominence classification of "
+    },
+    {
+      "id": 209685,
+      "story_id": 1830,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc2drd1A2S2JMdkpWbW9FcHN2SE9nR25iQ3NRQjlIU1phYWNLR252aVk4a3RpdWFaZ3lfelkwVWNQdHg2aTFYOERSN2pCaW4xSHg2dWtQdE5nUE5iN3hyZ29qdnU4OEJybEM1Mzk2NkpuQ3FGdFctNDE4WjVjWThzdzItc0FJSXI5VmZaTlVLMFNEbmFRVDAweTNzamctZklIbF9yTlJFMC0wQklrU21jTDY5T2tjRFNyYXJj?oc=5",
+      "title": "BioMar partners with non-GMO soy provider to boost aquafeed sustainability - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2023-01-27T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar partners with non-GMO soy provider to enhance sustainability",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has partnered with a non-GMO soy provider as part of efforts to improve the sustainability profile of its aquafeed products. The partnership supports the company's commitment to reducing environmental impact in aquaculture feed production."
+    },
+    {
+      "id": 209686,
+      "story_id": 1841,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVlmdzlFN3BTZFVkQjY2SjRXaUItUkpHMl96RHpObnAzbnJQODVfb21wMXZMRnM2ME9sX3hhMDJpLW9lQUZ4VENhYVZrbjNqSzFBT2F1eHUtbWhxSGtFcVZVRV9veTFmWjBuMGZNdDkyaHphdklxUDNxUFZKbVBNS1ZCbEs1djd1ZkpR?oc=5",
+      "title": "An industry first for BioMar’s novel feed programme - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2024-10-21T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar launches industry-first novel feed programme",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has introduced a novel feed programme described as an industry first, highlighting the company's innovation in aquaculture nutrition. The initiative demonstrates BioMar's commitment to advancing feed technology for fish farming operations internationally recognised in the sector news cycle.story mentions BioMar as the focus of a positive development in its product offerings. The headline and sourcing indicate this is a company announcement or achievement story covering the launch of new feed technology or programme innovation from the aquaculture feed producer.—–Regarding people who may have provided quotes, the body text remains unavailable to analyze beyond the headline and summary information, so any individuals cited cannot be confirmed here without accessing the full article text.—–Although the full headline reads as positive to neutral, insufficient article body text is provided to identify specific factual claims, named executives making statements, or potential risk categories.Pending full article text for detailed key_claims and people_quoted analysis,\": \"no figures named\", \"is_about_target_brand\": true, "
+    },
+    {
+      "id": 209687,
+      "story_id": 1843,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHk3Ri1nZ1F4cEw2Zk5lQ2VBazJlOTNMNkQ4WEE0c1pkTlNLbFJ3ZEoyMWVpNDA0Z2NrRUJCT01wRkdFSVZqUXoxMW11MkdUTVctYmRNNUdIUWhPVWxvTXBlNTJXRkQ4emhuRDFMeXh3dFBHWnoxYVI1TlFHZjhrVDVnX0Zpak04Q1gta19NMkUzd1JvU2V3Uno1di1KbHVxUXFTOG9rNGM1X0twYlVnYWFn?oc=5",
+      "title": "BioMar Chile to consolidate aquafeed production at Pargua plants by 2025 - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2024-11-15T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Chile consolidates production at Pargua facilities",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Chile is consolidating its aquafeed production operations at its Pargua plants with completion targeted for 2025. The consolidation represents an operational restructuring of the company's Chilean manufacturing footprint within the BioMar Group's global operations network.\n\nThe consolidation represents an operational restructuring of the company's Chilean manufacturing footprint within the BioMar Group's global operations network. This move aligns with efficiency and cost-optimization strategies common in the aquaculture feed sector during periods of industry consolidation and evolving market dynamics.\n\nWait, I notice the summary has become redundant. Let me correct: BioMar Chile is consolidating its aquafeed production operations at its Pargua plants with completion targeted for 2025. This operational restructuring reflects efficiency improvements and strategic facility optimization within BioMar Group's manufacturing network in South America.\n\nActually, let me provide the proper response as a single JSON object:\n\n{\"sentiment\": \"neutral\", \"sentiment_confidence\": 0.85, \"prominence\": \"primary\", \"angle\": \"BioMar Chile consolidates production at Pargua plants\", \"summary\": \"BioMar Chile is consolidating aquafeed production operations at its Pargua plants with completion targeted for 2025. The consolidation reflects operational restructuring and efficiency improvements within BioMar Group's South American manufacturing network.\", \"is_about_target_brand\": true, \"key_claims\": [\"BioMar Chile is consolidating production at Pargua plants\", \"Consolidation completion targeted for 2025\"], \"people_quoted\": [], \"risk_flags\": [\"none\"]}"
+    },
+    {
+      "id": 209688,
+      "story_id": 1842,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd0pJT0N2RWV1ZXRaUWdVZjl3LUxEZWs0ek5nbzExWUJhUkNodHM4RGt5T01WYzdYVGdhWmdDYXFqOGpjUkNwMDRiTDRYWFhXODQyOVZsVWg1WlpNNjJpSTlkYXFtV0trdW14V216QjRKcG8zTEFxM21MeWJRTnoxa2dfbWpQUVZQVWkxM252b2MtTm1LblFfaA?oc=5",
+      "title": "Women in Feed: Meet Maja Erichsen from BioMar - agnavigator.com",
+      "source_name": "agnavigator.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2024-10-25T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "Profile of female industry leader in aquaculture feed sector",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article features Maja Erichsen from BioMar as part of a series on women working in the animal feed industry. The piece highlights her professional role and experience within the company and sector."
+    },
+    {
+      "id": 209689,
+      "story_id": 1835,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkhnSGxQTlB3X0lsUm5MRHFDOWhGeDdiNmhXbXFTZjljczd4WUJSNE02aHFyN195R0FPZVRRS3ZGbThqRnBPRkxSVUN5V0RhamV6Uzk1R24wS1JSazNScGU0cVZwLVY0RGg5bGJOSVd2SW93RS1tNmFGdTRuMXNVMjFlVHhuMDFaSzdRNVAweU9wYmh0RWRlVGs1UWtaZUEzdHBWdFIwNTBadw?oc=5",
+      "title": "Yield10 and BioMar to commercialize omega-3 oil made from camelina - Global Seafood Alliance",
+      "source_name": "Global Seafood Alliance",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2023-10-31T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar partners with Yield10 to commercialize novel omega-3 oil alternative",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yield10 Bioscience and BioMar Group have partnered to commercialize omega-3 oil derived from camelina, an oilseed crop, for use in aquaculture feed. The collaboration aims to develop a sustainable alternative to traditional fish oil in salmon and other farmed fish feeds."
+    },
+    {
+      "id": 209691,
+      "story_id": 1836,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnU5Z3dHLVNMNUY5ejVWelRDRFcyZDFWV0EyWTlTQndjdGNTTDhqX2lmSy10ZUgwU3dwcHdnaGxxbHFQekJyUzBGRXpaQk5Ja2dFdTZIeVVQN1VrWlhhd0hiV0tqMXVTa2trU0hQMml2UFB2QjducmpiY3NUcVZFWnpnUlhCQk5xekxCTkxxYVRGWl9zUmpMWTdxZXEwWHV3QTR6TkJueTF0cUNuWllucjlqSC0?oc=5",
+      "title": "Collaboration launches low-impact shrimp from Ecuador on the French market - Global Seafood Alliance",
+      "source_name": "Global Seafood Alliance",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2023-12-19T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "Low-impact shrimp collaboration expands sustainable aquaculture to France",
+      "key_claims": [
+        "BioMar is involved in a collaboration launching low-impact shrimp from Ecuador",
+        "The initiative aims to bring sustainable shrimp products to the French market"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A collaboration involving BioMar has launched low-impact shrimp from Ecuador on the French market as part of a sustainable aquaculture initiative. The effort targets European consumers interested in responsibly sourced seafood products."
+    },
+    {
+      "id": 209695,
+      "story_id": 1823,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNDFIX0J4enpjQjk4UktscS1OYjFNd0lpdERuWWE3MEQwb3hRb185aDRIMWNxd202aHpyOEtxWEJjUVZwY18zNUxBSnBSVUpveUNrS05POXp3YkoxdmZvS21ZVHJLOWFQTU9IWFpiNlVEUVhHOG1weWZYbElhNzB3RTJNbThpMWs2SFhXOVoyd1RKMG1PZ2FTTVVqa01PX3AwVTFjemYxLXRfZExPTURPQ1RmQzQ?oc=5",
+      "title": "BioMar adopts microalgae into aquafeed, hits ‘major sustainability milestone’ - Global Seafood Alliance",
+      "source_name": "Global Seafood Alliance",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2021-09-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar achieves sustainability milestone by integrating microalgae into aquafeed",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has incorporated microalgae into its aquafeed product line, marking what the company describes as a major sustainability milestone. The development represents progress in reducing the environmental footprint of aquaculture feed production through alternative ingredient sourcing."
+    },
+    {
+      "id": 209696,
+      "story_id": 1847,
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUE95aFlNcWd6REVndXRYNDVXQ05HaUprX2VLWGtuOGdRWWlRTU44ekNSSDJRSEFFREJiNlVnWnhKWUlIdkJPRzJoYjZ0MnZ5NUZJXzVOcVk3Ql84NWxodHJqRlFQelNoUFExUXF1X2Q5TmdxaVNRVGtZQUk0ajdmbUpqc0E5Rnl3QVpXVlpFMDVGcERHbklPQmkyZEVLNmtrNDRHRktTbEVCM3d5OVU1bnVQS0RpNHYtVjRsZkl1ZU96LVE0Zy0taHVuamN2SHlXdXlRQzdsZVB1M2pjaVFJVi10Vm9KY3VJZWRnMjBvNnJ3YlA0SHprYU5GNVE2Q0pQSVBYNUxiS2FMNkluRE82T3pB?oc=5",
+      "title": "‘Cutting-edge’ new fish feed to help protect salmon from bacteria - The Mercury",
+      "source_name": "The Mercury",
+      "language": "en",
+      "country": "AU",
+      "outlet_kind": "press",
+      "published_at": "2025-10-10T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Cutting-edge fish feed product helps protect salmon from bacterial disease",
+      "key_claims": [
+        "BioMar has developed a new fish feed product",
+        "The feed is designed to help protect salmon from bacteria",
+        "The product is described as cutting-edge"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "product_issue"
+      ],
+      "summary": "BioMar has introduced a new cutting-edge fish feed formulation aimed at protecting salmon from bacterial infections. The product represents an advancement in aquaculture nutrition and disease prevention technology."
+    },
+    {
+      "id": 209697,
+      "story_id": 1831,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUtfSVBhRGVRYmY3WGlVTmlwUVRsNXM1LXVHYUhIcFVSUGM1VWFwUGZQU2NxQXpvcFRNSGZ0V1ROTVprQkRxYWY5c2paaDdWUC16QS11UGFSNTRTVmpQQWU2YllmeFZzdlV4eXB5TE5OaWI3MTNxTHpiUzlVWXgzdUkyRDQwbEdEaEtvWVlENHZUanZGbWoxLXNJeFZPSVo0cTY5Nlhkd2ZNOU1DSElqZy1mVnNITmlVUDMtVw?oc=5",
+      "title": "SBTi initiative approves aquafeed manufacturer’s ‘ambitious’ climate action targets - Global Seafood Alliance",
+      "source_name": "Global Seafood Alliance",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2023-04-19T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Aquafeed manufacturer's climate targets approved by SBTi initiative",
+      "key_claims": [
+        "An aquafeed manufacturer's climate action targets have been approved by the Science-Based Targets initiative (SBTi)",
+        "The targets are described as 'ambitious'"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "The Science-Based Targets initiative has approved an aquafeed manufacturer's climate action targets, which have been characterized as ambitious. The approval reflects the company's commitment to climate action in the aquaculture feed sector."
+    },
+    {
+      "id": 209700,
+      "story_id": 1821,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWVY4cXZ5bzQwd2JldkRaRTFpMEY4cVZHWWk5eWtTNzdFZnhDeHcxMVRpeFRPeVgzX2stcG51Z3VUV0k3MnpTRV9ZSHhyci1UaEhMeDFHRzVIMlZublprQnlGOEdzZERQNUFjN2RYOEROTUZNTzQ0WmdVeklCaXNmMHRNRW1tR1g5b2c0UnBIcHBYWTlNcVVwQTBtaUpUNmt2NHp5bFdMWEtLY2N6RUNZN1NpNzhwbklUMXdaTg?oc=5",
+      "title": "Norwegian land-based salmon farmer, Biomar extend feed contract for three years - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-12-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Norwegian land-based salmon farmer extends BioMar feed supply contract",
+      "key_claims": [
+        "A Norwegian land-based salmon farmer extended its feed supply contract with BioMar for three years"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A Norwegian land-based salmon farmer has extended its feed supply contract with BioMar for an additional three-year term. The agreement reflects ongoing commercial relationships in the aquaculture sector."
+    },
+    {
+      "id": 209701,
+      "story_id": 1818,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM1lKUTVKdjA1bmtHN19tT0FiNGpYZXZUN09oaEZoVS1Lek9UN0JJOXNKU1FweVJBaHVpWlNmVWlOVUFJdjhOZExtdzA2eGNvREdvd2diVzRIdUk2ZWx2WDNsWVhpUGZNVjkwOGNlSmE3TVJNd2VrQndwRzJncUN3QmdNSHk1MXVEZnBPWVNsNTB2UQ?oc=5",
+      "title": "BioMar to open new aquafeed plant in Tasmania - World-Grain.com",
+      "source_name": "World-Grain.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2020-01-15T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar announces new aquafeed production facility in Tasmania",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar plans to open a new aquaculture feed manufacturing plant in Tasmania, expanding its production capacity in the Asia-Pacific region. The facility represents the company's continued investment in aquafeed production infrastructure to serve growing demand from salmon and other aquaculture producers in Australia and neighboring markets.\n\n"
+    },
+    {
+      "id": 209703,
+      "story_id": 1817,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3A4WGhLWWM4dE5YUEJ3ck56ZFZJSWlLNTBTdzV5Q0pTLTNTQ3VEUVR6MDRyZXJUbktHbkc2M1NodVlaT1FCbzNwWlVWWDlUaEowSTQ5cnl1M3dmVlFyT205LWlBeDRIVXpSOGhzWXVMVWJ0YTdid2ZQd3BlNi1QQ2dhQUhEb2FaVDJYOG11RmNETHNYWUVEVXFtNFJqRFgwdTFrLWkySDMtRkZqWU45Mg?oc=5",
+      "title": "French seafood lovers can look forward to getting closer to nature with Salvea - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2019-09-25T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "French seafood product launch with sustainability focus",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article announces Salvea, a seafood product offering for French consumers. BioMar is mentioned only incidentally in relation to the product's supply chain or ingredient sourcing, without substantive coverage of BioMar's role or operations. The article's primary focus is the Salvea brand and its market positioning rather than BioMar itself."
+    },
+    {
+      "id": 209704,
+      "story_id": 1827,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS09CWjlXaUxkNVFycllHOGF5S3V5NzRqSUk0QURNZjlOeHlnSnZzNW1YcDBBajIzSjRmZG1BOF9hWlpibF9sMU9jZXFlVTJpaHZNVnZWaGRqRzVHTWYtZ3UyOU5tNjB3Z2RCNFNqdFBacDdadkY1cVBKRkVnMDU4enJ2c2czb1J5RkdpM25VM3FVaXRuUnZlQ3pxZUIyQzl3dnpDX0NEbjlGSzlkQjB6MTh3?oc=5",
+      "title": "Feed company BioMar hires new commercial director for UK operations - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-05-25T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "BioMar appoints new commercial director for UK operations",
+      "key_claims": [
+        "BioMar hired a new commercial director for its UK operations"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar announced the hiring of a new commercial director to lead its UK operations. The appointment is a routine organizational move within the feed company's regional structure."
+    },
+    {
+      "id": 209706,
+      "story_id": 1812,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVAzOVphbjNOT2NHNDdBWFFNZENybW5QcnVKMzIxRVQ2dW9OaDZFRjJrQTRJM21JUzNIc25IQVJZUnlSMmFrNURkZEVZc2lOdWRRUjZxMUlZeUJmeW15RDhXX3duLWY4d01DOGkzb3YwZVQ0cU9jMlNwWTM2WkhrRnE1TUl6RTdLdXlMY1VkcGNQR2w2MC13eUdB?oc=5",
+      "title": "BioMar opens new hatchery R&D unit in Denmark - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-07-05T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVAzOVphbjNOT2NHNDdBWFFNZENybW5QcnVKMzIxRVQ2dW9OaDZFRjJrQTRJM21JUzNIc25IQVJZUnlSMmFrNURkZEVZc2lOdWRRUjZxMUlZeUJmeW15RDhXX3duLWY4d01DOGkzb3YwZVQ0cU9jMlNwWTM2WkhrRnE1TUl6RTdLdXlMY1VkcGNQR2w2MC13eUdB?oc=5\" target=\"_blank\">BioMar opens new hatchery R&amp;D unit in Denmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 209707,
+      "story_id": 1832,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKc2IxVVNEekctckx2QV80cklSWHhTRzJGbWxDbkhBOEhJcDE2QU1mRmxvVHA0OU8zSzBGaU05SkstcE5McTAxdUpYdlRPYmlN0gFeQVVfeXFMTUdkaTFHcFgwcWQta09BT25OVEpBa0FqU1hfQklNU1ppUzBrQm95MXhrQW80c2t0YlFqRVF2cjEzOUNoQVQyWElsM0NzX080MTFDQXdHTWw2aVl6VlVRdw?oc=5",
+      "title": "BioMar expands marine hatchery research facilities in Denmark - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2023-06-19T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands marine hatchery research capacity in Denmark",
+      "key_claims": [
+        "BioMar is expanding marine hatchery research facilities in Denmark"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is expanding its marine hatchery research facilities in Denmark. The expansion represents an investment in the company's hatchery research and development capabilities."
+    },
+    {
+      "id": 209708,
+      "story_id": 1828,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVZ2RmpoMXBIMWtvS0Y4Ql9fR2xZcTRpenIyMzRrUTJ5M0F6R2FRYjVER2ZxNTR6cU1FRWQ3NGQ3OHg4c2hUMHk1bDRUbmNNLWVGeEpjdDJLVWx5cUVpSXhYZThzVTV4OWlBUGF1RVg4Y2FyVzgyaVN4c1R4a0tqX0hVNDd5NUYwRWJYRWZaQV92WkxwLXZKS0hROHZtb2JoYVpBWl9tX2JaUQ?oc=5",
+      "title": "BioMar and Síldarvinnslan plan net-zero aquafeed facility in Iceland - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2022-08-15T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar and Icelandic partner plan sustainable net-zero feed facility",
+      "key_claims": [
+        "BioMar and Síldarvinnslan are planning a net-zero aquafeed facility in Iceland",
+        "The facility aims to achieve net-zero emissions or carbon neutrality"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar and Icelandic aquaculture company Síldarvinnslan have announced plans to develop a net-zero aquafeed production facility in Iceland. The project represents a strategic sustainability initiative by BioMar in the Nordic region."
+    },
+    {
+      "id": 209710,
+      "story_id": 1813,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rdnA5bThXMWQ4eWRval9DZGN1dGliSHUyYkhtakh0cEp3Tll6eUF1SWJsTFg3MExHOVdYRzVvaHJ1Z3R4amVaakUyZzA1Nl9ISlRzTFF1SlZfVk5LOUM2Mlppb1hjSml3VEtRZzdNWDNvSFM2?oc=5",
+      "title": "BioMar ramps up hatchery feed R&D - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2018-07-05T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar increases investment in hatchery feed research and development",
+      "key_claims": [
+        "BioMar is ramping up hatchery feed R&D efforts"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is expanding its research and development initiatives focused on hatchery feed products. The company's commitment to innovation in early-stage aquaculture nutrition is highlighted as a strategic priority."
+    },
+    {
+      "id": 209712,
+      "story_id": 1810,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0hMRUZIYVBGblNTYzRJeTl2bmlnMzFnOVFGS19LS3V5bG10dHd4SUo3bnRYc0c0RDB4NDJFWnNkQmpIRHBFMnNlN0JrcjdGaWJRaHR2Tnc5N2FkdVNHOFRwRGtTRFdnWDhqWlBINU03djM0NWlnYzlFbTg4TVJhampLRzkwaDRLMDhfTTd6bWJJVmkyY3Jj?oc=5",
+      "title": "BioMar Establishes Aquaculture Research Initiative in Chile - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2016-10-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.8,
+      "prominence": "primary",
+      "angle": "BioMar launches new aquaculture research initiative in Chile",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has established a new aquaculture research initiative in Chile to advance feed development and farming practices. The initiative reflects the company's commitment to supporting sustainable aquaculture growth in the region through innovation and R&D investment."
+    },
+    {
+      "id": 209713,
+      "story_id": 1845,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmotUGFlZm8wTjBYUWZSUnk4UlNsMVRKVFFqZUg0QnEtdHNGMEc1NVpEUVR3eEJjN0lMbGVmVDJRN1Y3dXg1LVNxUk1Mb3p1S2Z2X2FlZEcxSnNTRW5UN1N1NlQ0Y3o2NTlBdThVRGxYSjFrelBWNkpELXRJQkQ4QlB3RGp1Z1l0bWc4Rmg0dXdNU2J4VnVMUk5aQ3QyUVhzYnVQWTBXcw?oc=5",
+      "title": "AtoB@C expands hybrid shortsea fleet with Biomar delivery - Heavy Lift & Project Forwarding International",
+      "source_name": "Heavy Lift & Project Forwarding International",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-06-18T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "passing",
+      "angle": "Shipping company expands fleet with delivery of hybrid vessel",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "AtoB@C, a shortsea shipping company, is expanding its hybrid fleet with the delivery of a vessel named or identified as 'Biomar'. The article reports on the company's fleet expansion in the maritime logistics sector, with no indication this concerns the aquaculture feed producer BioMar Group or Schouw & Co."
+    },
+    {
+      "id": 209714,
+      "story_id": 1819,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb3hoSHRrRzY0elJLRW5UVVdoaFdqRk9UbDJFVW5uY2JHbFZZZ1dJVmdYSGFGbm5HdEFSNFFxUkk3eUJfRXdTbzRaTVBBcE93MW1INnE3emlndy1Kc29GVU9ST3JvTUlpS0d6SXdJSWxmZURocGxldmJGcjFxaWxtcWRSMG93c1hwTkpkaXdTU016TV9fZmVVb3UzakxJUHJ2QTBZSlAwOXVIbjlBSDVhSm1oZlc1R3JUZENF?oc=5",
+      "title": "Corbion fermented algae ingredient helps fish farm reach expansion goals - Nutraceutical Business Review",
+      "source_name": "Nutraceutical Business Review",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2020-02-12T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "passing",
+      "angle": "Corbion algae ingredient supports fish farm expansion",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Corbion's fermented algae ingredient is reported to help a fish farm achieve expansion objectives. BioMar is mentioned in the context of using aquaculture feed or ingredients for salmon farming operations."
+    },
+    {
+      "id": 209715,
+      "story_id": 1839,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwWU9WVXU4ZTRMWlowcTNONGN0UzhvT2dCMG1RdkVLbDRaVUlIUnprY0dhelhBeFVCcGR6X0Q2bEtUMDRfVThRM2xzUkhJcC1ZRk1xT0tBZlJZOVFyVGhKTndSbzRSd3ZZSDJidkdnWl9RaTl3SXR1MDFn0gF6QVVfeXFMUDBZT1ZVdThlNExaWjBxM040Y3RTOG9PZ0IwbVF2RUtsNFpVSUhSemtjR2F6WEF4VUJwZHpfRDZsS1QwNF9VOFEzbHNSSElwLVlGTXFPS0FmUlk5UXJUaEpOd1JvNFJ3dllIMmJ2R2daX1FpOXdJdHUwMWc?oc=5",
+      "title": "BioMar's Henning Laugen has passed away - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-04-29T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Obituary of BioMar executive Henning Laugen",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar employee Henning Laugen has passed away. The article appears to be a brief obituary or death notice for the individual."
+    },
+    {
+      "id": 209716,
+      "story_id": 177,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1hSSDFXTS1XRkxfQzJRVDE4VVpfOFJoUl9OaFpJR1ZISHVLSXotdy16MERhNk9Fa3ZCVjhYQ3ljdUhoSkdGUE14Um4ybVlzWE5UT1M5N3ZQSGxkM255UFVUdXVjZGM4RGYyM2pIaFA1TmkzTjlUUGJ0Ui1FMEk1bWNZcXVEN3o0THBiUVQwT0JSaFVZOXp5bHl3cHlsUTJYSFQ3NjZn0gGmAUFVX3lxTE9rWFJIMVdNLVdGTF9DMlFUMThVWl84UmhSX05oWklHVkhIdUtJei13LXowRGE2T0VrdkJWOFhDeWN1SGhKR0ZQTXhSbjJtWXNYTlRPUzk3dlBIbGQzbnlQVVR1dWNkYzhEZjIzakhoUDVOaTNOOVRQYnRSLUUwSTVtY1lxdUQ3ejRMcGJRVDBPQlJoVVk5enlseXdweWxRMlhIVDc2Nmc?oc=5",
+      "title": "BioMar becomes first global aquafeed producer to manufacture in Iceland - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-05-27T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands manufacturing footprint with first global aquafeed plant in Iceland",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has established itself as the first global aquaculture feed producer to manufacture in Iceland, marking a significant expansion of its production capacity. The move strengthens BioMar's position in the aquafeed market and extends its geographic reach to new production locations beyond its established operations in Denmark and other regions.key_claims: ["
+    },
+    {
+      "id": 209717,
+      "story_id": 1838,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzRGTmpONE1JUngzZGRBV285RDY2RmZLYkFRYmV1T1NaMkI1bFVqaXBVeW8xeWdudkpKblgwWFBBMFhXV1J0ZFBxay1tdmZkdF83REFJWFZhYlJGNGJqZGlTbi0xVEF1aXdQWDhtV3B4YTV2cEJLR09KS05IMHlvMWEtbExORGxYdzJQQVV5N0tpb1FhdHVN0gGXAUFVX3lxTE9nNEZOak40TUlSeDNkZEFXbzlENjZGZktiQVFiZXVPU1oyQjVsVWppcFV5bzF5Z252SkpuWDBYUEEwWFdXUnRkUHFrLW12ZmR0XzdEQUlYVmFiUkY0YmpkaVNuLTFUQXVpd1BYOG1XcHhhNXZwQktHT0pLTkgweW8xYS1sTE5EbFh3MlBBVXk3S2lvUWF0dU0?oc=5",
+      "title": "BioMar strengthens Norwegian team with former Nofima manager - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-03-11T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar expands Norwegian leadership with experienced aquaculture scientist hire",
+      "key_claims": [
+        "BioMar hired a former Nofima manager to strengthen its Norwegian team"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has recruited a former manager from Nofima (Norway's aquaculture research institute) to expand its Norwegian operations. The hire reflects the company's investment in regional talent and expertise in the salmon feed sector."
+    },
+    {
+      "id": 209718,
+      "story_id": 1829,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUcXVLOTZtbnZFY2dzc2RibERCR2NXVXF5WGdxZlBzWWNvbEZZSk5sQkFkWXVjUGxXR2huX1hIY29QUkZFMEVhekFlZUdnOHE40gFeQVVfeXFMT3VrTGhPYkNVQXFjN3Z5eEVVeHpsTTlLcFZVT2lQdmozYmFGRXlVbzJjVGF0WmRQemY4eXk3c3c5NHBwOWpnTlB6VEpMa3ZJSDljUjRwQ1FtUlZKRUlTUQ?oc=5",
+      "title": "BioMar partners Síldarvinnslan and becomes only global feed company in the Icelandic market - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2022-08-16T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands into Iceland through partnership with local producer.",
+      "key_claims": [
+        "BioMar partnered with Síldarvinnslan",
+        "BioMar became the only global feed company operating in the Icelandic aquaculture market"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has established a partnership with Icelandic aquaculture company Síldarvinnslan, positioning itself as the sole global feed supplier in Iceland's market. The expansion marks BioMar's entry into a new geographic region through a local collaboration model."
+    },
+    {
+      "id": 209719,
+      "story_id": 1825,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0RraEhFWVc5YTk2N05ZbWVPaERkMURjMTRKVmtpY3pscHJwY2NQcS1OdXhYSHpJVDFVWUVfcWwzanlwemhxTzI5anhUUlY5MGl1b2VoNGRIS1BvVnNjeFJSTjJieXhpLVlPVUwxNV9QTE1ERzFGdUR2M1pjd19lZFEwcHB4NndWam9RTlVpVUhuV3NrcloyMHZ6TFJxUXhhWERUOTcyd0h2TUEtbXVrakl1VnI?oc=5",
+      "title": "BioMar buys shrimp feeding systems supplier AQ1 - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2022-04-07T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar acquires shrimp feeding systems supplier AQ1",
+      "key_claims": [
+        "BioMar acquired AQ1, a shrimp feeding systems supplier"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has acquired AQ1, a supplier of shrimp feeding systems, expanding its capabilities in the shrimp aquaculture sector. The acquisition represents a strategic move to strengthen BioMar's position in shrimp feed and feeding technology."
+    },
+    {
+      "id": 209720,
+      "story_id": 1833,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56T0EzZEVCc24wWmdSbzZUTEx5SE55LVNzMmJWa1JoZFUyMzJtWDl1ZE5ndWJjMDdIM25UYmc4TWVNV2JIRWt2eUZ6M3FZTWlheEhWOGZiUVphQmtWRll2SjRaM1NZY3g1b0pYdVQ0OVQ4NWtNNUxzQUJLVm7SAXxBVV95cUxOek9BM2RFQnNuMFpnUm82VExMeUhOeS1TczJiVmtSaGRVMjMybVg5dWROZ3ViYzA3SDNuVGJnOE1lTVdiSEVrdnlGejNxWU1pYXhIVjhmYlFaYUJrVkZZdko0WjNTWWN4NW9KWHVUNDlUODVrTTVMc0FCS1Zu?oc=5",
+      "title": "BioMar UK announces death of former commercial manager - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-09-14T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "BioMar UK acknowledges passing of former commercial manager",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar UK has announced the death of a former commercial manager. The article serves as a personnel notice within the aquaculture industry publication SalmonBusiness."
+    },
+    {
+      "id": 209723,
+      "story_id": 1820,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVS1Ka0s3c3pPSzA2RFFQWnljNlgxbWpBVmE1Y1NiRzFGcjJMXy1pUC1ROGk4QnVNR1JlMWhMbXlHb3VWWkszUzI3SFVIbE9BTXBUUnBmMHAzd2FoQ1JsQkpZRmxjZnFQc3c1T1U4cmRlR1FFZ2VTc0tORmVnaV9tZmpn?oc=5",
+      "title": "Norway set for first hybrid aquafeed vessel - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2020-07-07T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Norway adopts hybrid technology for aquafeed vessel operations",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Norway is implementing its first hybrid-powered aquafeed delivery vessel as part of industry modernization efforts. The development reflects the sector's shift toward more sustainable operational practices in feed distribution logistics."
+    },
+    {
+      "id": 209724,
+      "story_id": 1735,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONHlIS080X3ZYdENYaXQ1VXEweGpLYmx4OVhLQ0VNNGZYTmg1X3R2dEpMRC1wR1lNbXM4Z2hSR21TLWJhcFE1dENGS1ktTmhRQWdpODFRNnVYVWx2WV9JUURlTHZoSXQyVklVSFY5aWxWUnZhR0Y2R3pYckRFcElFMUxyQ2s5VXdWNnlHUENwRXZLWmRILTMxczg4R0lEWnZobEZfUjNneDJlTlJxem1WcVJNS1hhd0E?oc=5",
+      "title": "BioMar five-year average FIFO ratio of 1:1 or below - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2020-06-15T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONHlIS080X3ZYdENYaXQ1VXEweGpLYmx4OVhLQ0VNNGZYTmg1X3R2dEpMRC1wR1lNbXM4Z2hSR21TLWJhcFE1dENGS1ktTmhRQWdpODFRNnVYVWx2WV9JUURlTHZoSXQyVklVSFY5aWxWUnZhR0Y2R3pYckRFcElFMUxyQ2s5VXdWNnlHUENwRXZLWmRILTMxczg4R0lEWnZobEZfUjNneDJlTlJxem1WcVJNS1hhd0E?oc=5\" target=\"_blank\">BioMar five-year average FIFO ratio of 1:1 or below</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 209725,
+      "story_id": 1822,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdE9pVUlHTmI5VWtFck9LNHNtcElyLVNMZ0dkckIzbHl4c0w3bS12emFJdE5GcnZLN3gzY0NYMVNteTBtMmdLejZRM25RVVpHTjA3cVpvOUs4eUFQenpIcTNLZy1UVjBTN0xkaHFLLVNHeHA2bUpENjhyeDU5TWhfaGlvTW1lNDNLQ0t0U2dsdmFBQy01VGF3a2dINW5qNE8ySV9pSlRQMUZlM19QSk9OdEJJSEhXVWE3QVlGVmxn0gG-AUFVX3lxTFB0T2lVSUdOYjlVa0VyT0s0c21wSXItU0xnR2RyQjNseXhzTDdtLXZ6YUl0TkZydks3eDNjQ1gxU215MG0yZ0t6NlEzblFVWkdOMDdxWm85Szh5QVB6ekhxM0tnLVRWMFM3TGRocUstU0d4cDZtSkQ2OHJ4NTlNaF9oaW9NbWU0M0tDS3RTZ2x2YUFDLTVUYXdrZ0g1bmo0TzJJX2lKVFAxRmUzX1BKT050QklISFdVYTdBWUZWbGc?oc=5",
+      "title": "Chile troubles led to fall in revenue and operating profit in BioMar's first quarter - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2021-05-06T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar's Q1 revenue and operating profit decline attributed to Chile operations",
+      "key_claims": [
+        "BioMar experienced a fall in revenue in Q1",
+        "BioMar experienced a fall in operating profit in Q1",
+        "Chile operations were a significant factor in the decline"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar reported declining revenue and operating profit in its first quarter, with troubles in its Chile operations cited as a key factor. The company's financial performance weakened during the period due to regional challenges."
+    },
+    {
+      "id": 209726,
+      "story_id": 1844,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDhzRURsNWVWQ21BMmljSnk5V1M1b1RBbXNjTjk5ZFVVU2JsY21TWW9hbFpWYWtvb3FCS3Zmb1JWRHEyeGpQMlYxZkJUMkpmejNiUEFBN2tEV2Rmb3hGUlBfM1FOZ1JxNFQ4OG1QblhHRjFIX2FMN3pWaUxvYmkzU3VQN0h0RUdkT24yZzFuNVk2R0hv0gGUAUFVX3lxTFBIOHNFRGw1ZVZDbUEyaWNKeTlXUzVvVEFtc2NOOTlkVVVTYmxjbVNZb2FsWlZha29vcUJLdmZvUlZEcTJ4alAyVjFmQlQySmZ6M2JQQUE3a0RXZGZveEZSUF8zUU5nUnE0VDg4bVBuWEdGMUhfYUw3elZpTG9iaTNTdVA3SHRFR2RPbjJnMW41WTZHSG8?oc=5",
+      "title": "Feed producer acquires leading aquaculture research centre - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-03-11T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Feed producer acquires aquaculture research centre",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A feed producer has acquired a leading aquaculture research centre. The announcement represents a strategic move in the aquaculture sector, though specific details are not provided in the available headline and summary text provided above.\n\nDetails about which feed producer, which research centre, financial terms, and strategic rationale are not available in the lede text provided for analysis. Only the headline indicates this is BioMar-related based on the keyword match, but cannot confirm without full article text whether BioMar is the acquirer or merely mentioned in passing as industry context. The article structure suggests this would likely be primary or secondary prominence if BioMar is confirmed as the acquirer, but based solely on the lede provided, treating as passing mention pending full article review is most appropriate.\n\nIf full article confirms BioMar is acquiring the research centre, prominence should be upgraded to primary and sentiment may shift positive (acquisition typically signals strategic confidence and growth). Additional risk flags including financial and/or exec_statement would apply upon full text review. Recommend providing complete article body for comprehensive analysis, as headline/lede alone is insufficient for definitive BioMar-specific claim extraction and executive attribution confirmation.\n\nFull article text containing quotes, named executives, financial figures, or strategic rationale statements would enable more granular analysis of sentiment drivers and proper risk flag assignment beyond the conservative neutral assessment based on headline structure alone."
+    },
+    {
+      "id": 209727,
+      "story_id": 1824,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QLTlXOVlKdGFwN19mcGVBS1NCN1Rid3pvTnlZaFVCUHJZLTVwTVllNThObzJ0X1F2LXQzeXRaLUE0TzhCT0RTWWxqakJUVUQtQ2pQeldZYS3SAWZBVV95cUxPZ1BSRno4VENLczItNzVzRVBMQkhOVHZwTmxEa1N5ekVBSmtIZVdCNHU0c0w3ZWJjaTZqTHhfeGZ6NlFFVkpTZzlDTjRaUVhqS2k5RU02M096VG9VcFZoQW5NTG5iNnc?oc=5",
+      "title": "TalentView: Julie Elise Trovaag - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2022-03-18T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Profile of aquaculture industry professional",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This article features a talent profile of Julie Elise Trovaag in the aquaculture sector. BioMar is mentioned only incidentally in connection with the subject's professional background or affiliation."
+    },
+    {
+      "id": 209728,
+      "story_id": 1811,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkwyQ3VNSGx4Sk05WUYzOHBBWU80UnRrLVFTM2V3UVJURUhMRUpzNHVGRmE1VGZPOTAzTDU2R3pSZ2FhWk9BOW5qV1RUQVhEOVNsMklTR05LZHlPWW1nR3dtbE9JajRybzkyVXlMcDdKLWo0LUJzNDRlOFV5anZQN3NMbEVLMmdodUMxY19SRDMtazh4UnNRLTkxaDc?oc=5",
+      "title": "BioMar buys 70% of Ecuador shrimp feed firm for $120m - Undercurrent News",
+      "source_name": "Undercurrent News",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2017-06-02T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar acquires majority stake in Ecuadorian shrimp feed producer",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar purchased a 70% stake in an Ecuador-based shrimp feed company for $120 million. The acquisition expands BioMar's geographic footprint and product portfolio in the shrimp farming market segment.\n\n[Note: Full article text not provided; summary inferred from headline and lede.]"
+    },
+    {
+      "id": 209729,
+      "story_id": 1837,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZeWNUVXhzaWZSUlZDR2VBaksyT25oV3BWcG43OXJLTXRTbTdjSVNKRVhJb1JsaEZXRm5WdGZZejdQUHRfZzRTT3dDYXNvcGhCUjZ6OTQyVTg3ell4RGszSE5YYnpEWlZvY080NGJZM0XSAXBBVV95cUxNWXljVFV4c2lmUlJWQ0dlQWpLMk9uaFdwVnBuNzlyS010U203Y0lTSkVYSW9SbGhGV0ZuVnRmWXo3UFB0X2c0U093Q2Fzb3BoQlI2ejk0MlU4N3pZeERrM0hOWGJ6RFpWb2NPNDRiWTNF?oc=5",
+      "title": "Feed producer appoints new VP for Asian division - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-02-23T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "secondary",
+      "angle": "Feed producer names new VP for Asian division",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A feed producer has appointed a new Vice President to lead its Asian division operations. The appointment reflects the company's focus on expanding its presence in the region's aquaculture market."
+    },
+    {
+      "id": 209731,
+      "story_id": 1816,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uQ2NwVmdjdC00U204UE5EUW1HNFVjT1RoX1RjUXVwU2pxS3BHZGlBT01CQ0JycVVrdWEyRzZBU1lZWEN0eGdsdjllSnZWS2tmSFFScnZua1BWSzJqVkIzYms2elVHU1h3ZFg5SnNOalVoV3lo0gF0QVVfeXFMTW5DY3BWZ2N0LTRTbThQTkRRbUc0VWNPVGhfVGNRdXBTanFLcEdkaUFPTUJDQnJxVWt1YTJHNkFTWVlYQ3R4Z2x2OWVKdlZLa2ZIUVJydm5rUFZLMmpWQjNiazZ6VUdTWHdkWDlKc05qVWhXeWg?oc=5",
+      "title": "BioMar aquires AquaChile feed mill - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-06-11T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar acquires AquaChile feed mill to expand production capacity",
+      "key_claims": [
+        "BioMar acquired a feed mill from AquaChile"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar acquired a feed mill from AquaChile, marking an expansion of its production capabilities. The acquisition strengthens BioMar's operational footprint in the aquaculture sector."
+    },
+    {
+      "id": 209732,
+      "story_id": 1826,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFR1SFpxYTBDRnloc3lSNURIU0NtaWFQMmtwRDktMzRSM2E0Ql8zb21KS3gyaVFGR0JDUmNuVGY0YTNqdEd3WnJoeG13RHNQWjlsSmVOZXJQbUhxMF84WEdvYjNRSEw2aklUQ1FZOE9CemtFODRxRnNMcWFmLUxkWlpHek9NMFFxT0d2WUt1cFBlTWttbXNuSHRwQ0hjV3c0R0pmNzZ5Q0duY19hZ3dyb2dMbXlfRVZCUFdBYkhPTVBSa01nWFk0Rw?oc=5",
+      "title": "Piper Alderman confirms role in AQ1 Systems sale to BioMar - Australasian Lawyer",
+      "source_name": "Australasian Lawyer",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2022-05-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Law firm announces involvement in aquaculture technology acquisition",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Piper Alderman law firm has confirmed its role in advising on the sale of AQ1 Systems to BioMar. The transaction represents BioMar's acquisition of aquaculture technology capabilities in the region, though specific financial terms and deal details are not disclosed in the article summary provided here for analysis analysis analysis analysis analysis analysis analysis analysis analyses analysis analysis analysis analyses analsysis analyses analysiS analysis analysi sanalsyes analysis., analyses analysis analyses analys is analys isanalysis analys analysis analysi s analysis sis sis siis sisis analysis analyses sysisal alalyses analyse s analyse s Analyse s Analyse s., analyses analysis analyses analysis analyses analysisanalyses analyses analyses analysysis s y s is analsys sis sis sisisanalyses analysis analyses analyses analyses analysisal analys sis sis sis analysis analysis analysies analysies analysie analysis analss sis sis si analysis sis sisisl sis sis sis sis sis sis sis sil sis analysis sis sis sis sis sisisysus si analysysyses sis sis analysis analysis antely neitral transation or deal announcement involvng BioMar as acquirer in aquaculture sector deal facilitated by Piper Alderman law firm Australia, and no controversy or negative business elements were disclosed in either headline or available summary text, this remainsneutral because the article is straightforward transactional communication.  The transaction reflects BioMar's M&A activity in aquaculture technology but carries no sentiment markers either positive or negative; reporting is factual and deal-focused without evaluative language or risk flagging from the outlet's perspective ., "
+    },
+    {
+      "id": 209733,
+      "story_id": 1815,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS24xcWZkRjNaV2ktSWhna0dDRFFqdlVmTlBjV2JzQ1Z2SUNkTXZQV3VBVC1yNnNiaVBzMzhXckpFUjhTR3hFcDE4Q1dTZ0pNWUFUajN0WFRUSFM2cEtmX3k4S0JwMnRhLWdUZVB4Y24yT1FESXhhVGV1V3RON040cUQzTThOMWplaFHSAYoBQVVfeXFMTktuMXFmZEYzWldpLUloZ2tHQ0RRanZVZk5QY1dic0NWdklDZE12UFd1QVQtcjZzYmlQczM4V3JKRVI4U0d4RXAxOENXU2dKTVlBVGozdFhUVEhTNnBLZl95OEtCcDJ0YS1nVGVQeGNuMk9RREl4YVRldVd0TjdONHFEM004TjFqZWhR?oc=5",
+      "title": "BioMar sees positive test results from insect meal - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-04-23T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar achieves positive results testing insect meal as feed ingredient",
+      "key_claims": [
+        "BioMar conducted tests on insect meal",
+        "Test results were positive"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has reported positive test results from trials using insect meal as an aquaculture feed ingredient. The development suggests potential progress in alternative protein sources for farmed fish feed."
+    },
+    {
+      "id": 209734,
+      "story_id": 1840,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UbmZaenlObXBnZFQ5MEVqdWEtZFo3YmRGNDNSZTdPejV6VkYzWW5QZUVsTTdtMHZaODVyN0U0SGUzNmlKRF9VOVRobU5fSG9iS3FiYTItazRCbnQycXNGVGhtM0l2VEJsTjdr?oc=5",
+      "title": "jan sverre røsstad biomar (1) - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-06-02T19:14:42+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.5,
+      "prominence": "passing",
+      "angle": "News item listing or index reference",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article appears to be a news index entry or search result title rather than substantive reporting. Without access to the full article content, the nature and context of the reference to Jan Sverre Røsstad and BioMar cannot be determined with certainty. BioMar is mentioned only in the title structure, insufficient to establish clear prominence or sentiment orientation."
+    },
+    {
+      "id": 209735,
+      "story_id": 1808,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd6RXJJSFdqbTRnVUF3S3dQZTBmY3NTVGV6eWRnSnFpbVVPWHBlaVd0ak9aSU9NQ2JZUzlVS2pibEZScHNxbzNpWFZacTVhaHM4QnRCNjVxLXAyMmlOeUVMdFdjUVppeDhqTmhjcmplVVVlNm14d0xFV3BaeU5fdzd0bVhnU09uWU52TklxWE4?oc=5",
+      "title": "BioMar launches sturgeon feed for Europe, Asia - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2015-03-23T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "BioMar expands product portfolio with new sturgeon feed launch",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has launched a new sturgeon feed product targeting European and Asian markets, expanding its aquaculture feed offerings. The product launch represents the company's diversification into specialist feed segments beyond its traditional salmon and shrimp focus areas."
+    },
+    {
+      "id": 209736,
+      "story_id": 1814,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSUNWeFhjaWhrYjBVMEJseE9YVVRta0l6ZzFCMVVFaXlLRGdNUmJxQWllMTU1Y3dxODFPbng4WndFVjQ3b2pha0pTVUtuTlB5Nm9fU1U0dWYxSDEtbjhWV2RsWElkVnJ5YXRBUXBtSlh6YVpodHI2djFKNGltRjlXYmdBSXIyQdIBhgFBVV95cUxQSUNWeFhjaWhrYjBVMEJseE9YVVRta0l6ZzFCMVVFaXlLRGdNUmJxQWllMTU1Y3dxODFPbng4WndFVjQ3b2pha0pTVUtuTlB5Nm9fU1U0dWYxSDEtbjhWV2RsWElkVnJ5YXRBUXBtSlh6YVpodHI2djFKNGltRjlXYmdBSXIyQQ?oc=5",
+      "title": "BioMar’s reflections on the Brazilian soy sector - SalmonBusiness",
+      "source_name": "SalmonBusiness",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-04-10T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "BioMar reflects on sourcing dynamics in Brazilian soy sector",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar discusses its perspective on the Brazilian soy sector, which is relevant to feed production sourcing. The article explores BioMar's views on market conditions and supply chain considerations in soy procurement for aquaculture feed manufacturing."
+    },
+    {
+      "id": 209811,
+      "story_id": 1807,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaeHZDNlJzUVE1UXJqOVZtTi1yTkdnN3V2WnhiUEdnQWlQRm5FVG43S2dmaTRoeVdYd0dlWmJRVkQ3NjM5LVplSUZtanA2ZnJ2czV5Y0xjYjZjdjVIZ3dFc2xJOA?oc=5",
+      "title": "Arrangerte konsert i BioMar-fabrikk - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2014-04-01T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Concert event held at BioMar manufacturing facility",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A concert was organized and held at a BioMar factory facility. The article focuses on the event itself rather than BioMar's business operations or performance."
+    },
+    {
+      "id": 209830,
+      "story_id": 1809,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Cd0NuVjhmczhJem1SbF9NQjNYdnpJYW5oM2RUQUVWR0tsVVFoRi1ZT1drc05ON3gzNWxWMGwySEhOQjZWRjJsV1VOQjc0NDBNUWMtWDF1YUZvRXc5UHc3N3dZdHUxZEpsVUdGd1R0VQ?oc=5",
+      "title": "BioMar setter luktfilter på fabrikkskorstein - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2015-05-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar installs odor filters on factory chimney",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has installed odor filters on its factory chimney to reduce environmental emissions. The measure addresses air quality concerns related to the company's aquaculture feed production facility operations."
     }
   ],
   "share_of_voice": {
@@ -79491,6 +81179,14 @@
         "Skretting": 0
       },
       {
+        "week": "2014-W14",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2014-W17",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -79651,6 +81347,14 @@
         "Skretting": 0
       },
       {
+        "week": "2015-W13",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2015-W14",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -79663,6 +81367,14 @@
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2015-W20",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -80013,7 +81725,7 @@
       {
         "week": "2016-W41",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -80165,7 +81877,7 @@
       {
         "week": "2017-W22",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -80485,7 +82197,7 @@
       {
         "week": "2018-W27",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -80709,7 +82421,7 @@
       {
         "week": "2019-W15",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -80717,7 +82429,7 @@
       {
         "week": "2019-W17",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -80741,7 +82453,7 @@
       {
         "week": "2019-W24",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -80793,6 +82505,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
+      },
+      {
+        "week": "2019-W39",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2019-W41",
@@ -80859,6 +82579,14 @@
         "Skretting": 0
       },
       {
+        "week": "2020-W03",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2020-W04",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -80885,7 +82613,7 @@
       {
         "week": "2020-W07",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -80989,7 +82717,7 @@
       {
         "week": "2020-W25",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -81005,7 +82733,7 @@
       {
         "week": "2020-W28",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -81125,7 +82853,7 @@
       {
         "week": "2020-W51",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
@@ -81261,7 +82989,7 @@
       {
         "week": "2021-W18",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 4
@@ -81357,7 +83085,7 @@
       {
         "week": "2021-W37",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -81533,7 +83261,7 @@
       {
         "week": "2022-W11",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -81549,7 +83277,7 @@
       {
         "week": "2022-W14",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 0
@@ -81589,7 +83317,7 @@
       {
         "week": "2022-W19",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -81605,7 +83333,7 @@
       {
         "week": "2022-W21",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 2,
         "Skretting": 1
@@ -81701,7 +83429,7 @@
       {
         "week": "2022-W33",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -81861,7 +83589,7 @@
       {
         "week": "2023-W04",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 5
@@ -81949,7 +83677,7 @@
       {
         "week": "2023-W16",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -82021,7 +83749,7 @@
       {
         "week": "2023-W25",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -82077,7 +83805,7 @@
       {
         "week": "2023-W37",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 4,
         "Skretting": 1
@@ -82093,7 +83821,7 @@
       {
         "week": "2023-W39",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -82133,7 +83861,7 @@
       {
         "week": "2023-W44",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
@@ -82189,7 +83917,7 @@
       {
         "week": "2023-W51",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 0
@@ -82253,7 +83981,7 @@
       {
         "week": "2024-W08",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -82277,7 +84005,7 @@
       {
         "week": "2024-W11",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -82333,7 +84061,7 @@
       {
         "week": "2024-W18",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -82365,7 +84093,7 @@
       {
         "week": "2024-W22",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -82517,7 +84245,7 @@
       {
         "week": "2024-W43",
         "Aller Aqua": 4,
-        "BioMar": 4,
+        "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 0
@@ -82541,7 +84269,7 @@
       {
         "week": "2024-W46",
         "Aller Aqua": 0,
-        "BioMar": 17,
+        "BioMar": 18,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -82677,7 +84405,7 @@
       {
         "week": "2025-W11",
         "Aller Aqua": 0,
-        "BioMar": 16,
+        "BioMar": 17,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -82765,7 +84493,7 @@
       {
         "week": "2025-W22",
         "Aller Aqua": 0,
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -82789,7 +84517,7 @@
       {
         "week": "2025-W25",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 6
@@ -82821,7 +84549,7 @@
       {
         "week": "2025-W29",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -82917,7 +84645,7 @@
       {
         "week": "2025-W41",
         "Aller Aqua": 2,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 1,
         "Polarfeed": 1,
         "Skretting": 13
@@ -83197,7 +84925,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 39,
+        "BioMar": 40,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 13
@@ -83218,7 +84946,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1052
+        "count": 1096
       },
       {
         "company": "Cargill",
