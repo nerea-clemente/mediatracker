@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-20T11:28:22+00:00",
+  "generated_at": "2026-06-20T17:27:51+00:00",
   "stats": {
-    "mention_count": 2263,
-    "story_count": 1828,
-    "analyzed_count": 1096,
+    "mention_count": 2264,
+    "story_count": 1829,
+    "analyzed_count": 1097,
     "off_topic_mentions": 68,
     "off_topic_stories": 45
   },
@@ -14719,6 +14719,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOUZyeFV0VnV0MDZpMjAya2gwNVF6bHpxRVNMbzdxUUlQVDBTR1hBQVdIa3hCWkN6YVZmdGktcTd4Q3VZUnRlcUtnZDNFRmFwNWdCOWR5bURENHhvdFpLRjBCZnZRTnRVSkJpVW55d2hqLWVINWRQal9oMXdXeG44alZEWDIzVXZvRzBnWm5uR2ZrbU9kV1dreVZfR29TSGZReXc2MTFUS1l1ZUtTWHRwa1FHRzR2cE8tSzlvWGxwS242YUlyRzJMVWpYeGdZbVVrbGlzbXVlU1FYY0U?oc=5\" target=\"_blank\">Norway closes ports to Russian ships. But that does not stop Skretting or Cargill from delivering feed to Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2023-11-30T17:51:10+00:00",
       "last_seen": "2023-11-30T17:51:10+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1851,
+      "headline": "Harina de insectos en los piensos comerciales de Skretting - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZlg2LUs1azJNcW9BN1VYZTU4aVpBbXpGUS14bVRCVFRpczBZSnJnRW1rVmplV2xyZlVEQTVGMGQ1c0FpSDlKbjdOeGdhX2gtQVhBakZKNVAtNVRhUmxmQnFSNnQ2Um1KNTQ2M2hQR1hMVU1XbzZjMS1rR01hb2o2eDA0LXRxQS1qY1U4U0NiWkx1aE9pUERDdA?oc=5\" target=\"_blank\">Harina de insectos en los piensos comerciales de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2023-11-30T07:14:04+00:00",
+      "last_seen": "2023-11-30T07:14:04+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -80587,16 +80601,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "BioMar achieves industry-leading feed efficiency ratio",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONHlIS080X3ZYdENYaXQ1VXEweGpLYmx4OVhLQ0VNNGZYTmg1X3R2dEpMRC1wR1lNbXM4Z2hSR21TLWJhcFE1dENGS1ktTmhRQWdpODFRNnVYVWx2WV9JUURlTHZoSXQyVklVSFY5aWxWUnZhR0Y2R3pYckRFcElFMUxyQ2s5VXdWNnlHUENwRXZLWmRILTMxczg4R0lEWnZobEZfUjNneDJlTlJxem1WcVJNS1hhd0E?oc=5\" target=\"_blank\">BioMar five-year average FIFO ratio of 1:1 or below</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+      "summary": "BioMar has maintained a five-year average FIFO (Fish In, Fish Out) ratio of 1:1 or below, indicating efficient feed conversion in aquaculture. This metric demonstrates the company's commitment to sustainable feed production with minimal environmental impact relative to protein output."
     },
     {
       "id": 209725,
@@ -81014,6 +81028,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkJCU2RZY2JnemxhYWtvdERMWDM5ZDNrd1FSNlJYUEV6ZkxnU19Xa0dSSmRia2twRGRzY3NkeFNYenN4cUllQ0NNVGxBenpoendXU3lDVUxNTEswdVRsRjF6QWlyZ3ExWWF3X0lhNnhzZG9TVEw5U2U0YVV0RDZQek5YMks3S2VwbE1HVUwxb3FVOHdqWnZqcFJHaVJhYXFYNzJBdXc3U1V3QkhzMFJjMktuNjJpbkhmUVgzWW0xX3Mtb3NTX0RXLQ?oc=5\" target=\"_blank\">Nueva instalación portuaria Skretting-Pargua en la X Región se certifica bajo la norma ISPS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundo Marítimo</font>"
+    },
+    {
+      "id": 212555,
+      "story_id": 1851,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZlg2LUs1azJNcW9BN1VYZTU4aVpBbXpGUS14bVRCVFRpczBZSnJnRW1rVmplV2xyZlVEQTVGMGQ1c0FpSDlKbjdOeGdhX2gtQVhBakZKNVAtNVRhUmxmQnFSNnQ2Um1KNTQ2M2hQR1hMVU1XbzZjMS1rR01hb2o2eDA0LXRxQS1qY1U4U0NiWkx1aE9pUERDdA?oc=5",
+      "title": "Harina de insectos en los piensos comerciales de Skretting - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2023-11-30T07:14:04+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZlg2LUs1azJNcW9BN1VYZTU4aVpBbXpGUS14bVRCVFRpczBZSnJnRW1rVmplV2xyZlVEQTVGMGQ1c0FpSDlKbjdOeGdhX2gtQVhBakZKNVAtNVRhUmxmQnFSNnQ2Um1KNTQ2M2hQR1hMVU1XbzZjMS1rR01hb2o2eDA0LXRxQS1qY1U4U0NiWkx1aE9pUERDdA?oc=5\" target=\"_blank\">Harina de insectos en los piensos comerciales de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
     }
   ],
   "share_of_voice": {
@@ -84031,7 +84069,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2023-W49",
@@ -85093,7 +85131,7 @@
       },
       {
         "company": "Skretting",
-        "count": 763
+        "count": 764
       }
     ]
   }
