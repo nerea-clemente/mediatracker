@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-20T08:34:39+00:00",
+  "generated_at": "2026-06-20T11:28:22+00:00",
   "stats": {
-    "mention_count": 2259,
-    "story_count": 1826,
-    "analyzed_count": 1094,
+    "mention_count": 2263,
+    "story_count": 1828,
+    "analyzed_count": 1096,
     "off_topic_mentions": 68,
     "off_topic_stories": 45
   },
@@ -218,6 +218,7 @@
     "Seafoodnews",
     "Skipsrevyen",
     "Solabladet",
+    "SoyChile.cl",
     "St George & Sutherland Shire Leader",
     "Star Tribune",
     "Startup Daily",
@@ -413,15 +414,15 @@
     },
     {
       "id": 1753,
-      "headline": "Schouw & Co. share buy-back programme, week 24 2026 - The Manila Times",
-      "story_summary": "Schouw & Co. announced or executed a share buyback programme during week 24 of 2026. The article reports routine corporate capital-management activity by the parent company of BioMar Group.",
-      "first_seen": "2026-06-15T11:06:35+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 24 2026 - marketscreener.com",
+      "story_summary": "Schouw & Co. reported on its share repurchase activity during week 24 of 2026. The article is a routine corporate disclosure of buyback transactions with no material commentary or analysis provided beyond the weekly trading data itself.",
+      "first_seen": "2026-06-15T11:00:06+00:00",
       "last_seen": "2026-06-15T11:06:35+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -13327,6 +13328,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1850,
+      "headline": "Skretting presenta AmiNova, el nuevo concepto de formulación de piensos - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGpzbFdub0QtQXZNaEVUY2ZaQVFkWHFtSjAyWmtJYzd4LVp2c3J3U25RMzVBUDVnUmxWY0N5clRKR3RwRy1hckV0bzB6VENRQ1NMTkRSSVJlTTFoOUNLak10RENLaHRSTVNzZ0FHYnl3UEVENHcwNDB6UHNCYy04OGJQLVN5VmpidFVBSWtWMF9Vdl9reTN0dlpWbEkzYUhpU1ZwY0pielM?oc=5\" target=\"_blank\">Skretting presenta AmiNova, el nuevo concepto de formulación de piensos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2024-05-30T06:04:39+00:00",
+      "last_seen": "2024-05-30T06:04:39+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1303,
       "headline": "Food waste startup Goterra is getting into the aquaculture food supply business - Startup Daily",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMVZ4dmxKX1FncGFfb005UU5WN0lkY3BrWTZ2NllIS21iQmU1UmVwTlhpZy1XQTBsX3FZMmxpY19pcmdua3JEblZpbm9lcmk3cjg2b2Q4cmRsVWRfYzVSbTVOaThud1BZUWJlNlE1Sm9tX2FRaGdJSmIxa3JiZmN5cDlQQU9rcklmdERyRy1jWmJlOGZNMlBhV0d0WHU1UnNjV0puY1ZBc0J2bXk0UzlqWnJGREMyeDNCRW8ycFlMS1o5Zw?oc=5\" target=\"_blank\">Food waste startup Goterra is getting into the aquaculture food supply business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Startup Daily</font>",
@@ -22140,10 +22155,10 @@
     {
       "id": 1812,
       "headline": "BioMar opens new hatchery R&D unit in Denmark - intrafish.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVAzOVphbjNOT2NHNDdBWFFNZENybW5QcnVKMzIxRVQ2dW9OaDZFRjJrQTRJM21JUzNIc25IQVJZUnlSMmFrNURkZEVZc2lOdWRRUjZxMUlZeUJmeW15RDhXX3duLWY4d01DOGkzb3YwZVQ0cU9jMlNwWTM2WkhrRnE1TUl6RTdLdXlMY1VkcGNQR2w2MC13eUdB?oc=5\" target=\"_blank\">BioMar opens new hatchery R&amp;D unit in Denmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "story_summary": "BioMar has opened a new hatchery research and development unit in Denmark. The expansion represents an investment in the company's innovation capabilities for early-stage aquaculture feed development.",
       "first_seen": "2018-07-05T07:00:00+00:00",
       "last_seen": "2018-07-05T07:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -22385,7 +22400,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -25749,6 +25764,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 1849,
+      "headline": "Nueva instalación portuaria Skretting-Pargua en la X Región se certifica bajo la norma ISPS - Mundo Marítimo",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkJCU2RZY2JnemxhYWtvdERMWDM5ZDNrd1FSNlJYUEV6ZkxnU19Xa0dSSmRia2twRGRzY3NkeFNYenN4cUllQ0NNVGxBenpoendXU3lDVUxNTEswdVRsRjF6QWlyZ3ExWWF3X0lhNnhzZG9TVEw5U2U0YVV0RDZQek5YMks3S2VwbE1HVUwxb3FVOHdqWnZqcFJHaVJhYXFYNzJBdXc3U1V3QkhzMFJjMktuNjJpbkhmUVgzWW0xX3Mtb3NTX0RXLQ?oc=5\" target=\"_blank\">Nueva instalación portuaria Skretting-Pargua en la X Región se certifica bajo la norma ISPS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundo Marítimo</font>",
+      "first_seen": "2011-01-10T08:00:00+00:00",
+      "last_seen": "2011-01-10T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1789,
@@ -80206,16 +80235,18 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands R&D capabilities with new hatchery facility in Denmark",
+      "key_claims": [
+        "BioMar opened a new hatchery R&D unit in Denmark"
+      ],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVAzOVphbjNOT2NHNDdBWFFNZENybW5QcnVKMzIxRVQ2dW9OaDZFRjJrQTRJM21JUzNIc25IQVJZUnlSMmFrNURkZEVZc2lOdWRRUjZxMUlZeUJmeW15RDhXX3duLWY4d01DOGkzb3YwZVQ0cU9jMlNwWTM2WkhrRnE1TUl6RTdLdXlMY1VkcGNQR2w2MC13eUdB?oc=5\" target=\"_blank\">BioMar opens new hatchery R&amp;D unit in Denmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+      "summary": "BioMar has opened a new hatchery research and development unit in Denmark. The expansion represents an investment in the company's innovation capabilities for early-stage aquaculture feed development."
     },
     {
       "id": 209707,
@@ -80887,6 +80918,102 @@
         "none"
       ],
       "summary": "BioMar has installed odor filters on its factory chimney to reduce environmental emissions. The measure addresses air quality concerns related to the company's aquaculture feed production facility operations."
+    },
+    {
+      "id": 211012,
+      "story_id": 1753,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTjlzaUM4WE5FSnlrS0o1ZE9uMjN0NGpPZUx5SkNTc3d5Nk1neWtWd1VYSm8xWTlTbzZEY0hzMlQtLXpJcXV4R1VGd19ickhIOXNYV2VrQ2RGZDBNWVFxUzhwVUFMWHkycGk1U3paMDhha0FLNUx0RWhVUURMWGJXVXk1NGl5UFQya3kzSWRsMXNlT2JwN0JsMjRDMWhEWThLdVE?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 24 2026 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-15T11:00:06+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Share buyback program execution update",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. reported on its share repurchase activity during week 24 of 2026. The article is a routine corporate disclosure of buyback transactions with no material commentary or analysis provided beyond the weekly trading data itself."
+    },
+    {
+      "id": 211528,
+      "story_id": 956,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY3FzTDBkSmF5SjBwOFJCTGJjUmc4SE10WlJCajBVM0VUYXVKWUp5dG9qV3pTTDdQNHNaVnRJWXlXVEJaWUNqMi1Kd213X0oydUlIcU9wZjIwb0NjVjBKNFppX1NkOHRKQXJfZkM1aGhoekxycm9GbTFNeU5SRENHN293WGpWdVkwTmVFNDl0eU93S24yLUJQTU45dG5kWVM1T2wtV3RNUVkzak9hMVpvZ2Myd2g3MGlmRl9jQlVxdW44RXNlMkFnVXM3TlZINVF5THFzLXc2UG00eGxId2c?oc=5",
+      "title": "Nuevo gerente general de Intesal visitó planta de Skretting en Pargua - SoyChile.cl",
+      "source_name": "SoyChile.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2018-04-06T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY3FzTDBkSmF5SjBwOFJCTGJjUmc4SE10WlJCajBVM0VUYXVKWUp5dG9qV3pTTDdQNHNaVnRJWXlXVEJaWUNqMi1Kd213X0oydUlIcU9wZjIwb0NjVjBKNFppX1NkOHRKQXJfZkM1aGhoekxycm9GbTFNeU5SRENHN293WGpWdVkwTmVFNDl0eU93S24yLUJQTU45dG5kWVM1T2wtV3RNUVkzak9hMVpvZ2Myd2g3MGlmRl9jQlVxdW44RXNlMkFnVXM3TlZINVF5THFzLXc2UG00eGxId2c?oc=5\" target=\"_blank\">Nuevo gerente general de Intesal visitó planta de Skretting en Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SoyChile.cl</font>"
+    },
+    {
+      "id": 211529,
+      "story_id": 1850,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGpzbFdub0QtQXZNaEVUY2ZaQVFkWHFtSjAyWmtJYzd4LVp2c3J3U25RMzVBUDVnUmxWY0N5clRKR3RwRy1hckV0bzB6VENRQ1NMTkRSSVJlTTFoOUNLak10RENLaHRSTVNzZ0FHYnl3UEVENHcwNDB6UHNCYy04OGJQLVN5VmpidFVBSWtWMF9Vdl9reTN0dlpWbEkzYUhpU1ZwY0pielM?oc=5",
+      "title": "Skretting presenta AmiNova, el nuevo concepto de formulación de piensos - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2024-05-30T06:04:39+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSGpzbFdub0QtQXZNaEVUY2ZaQVFkWHFtSjAyWmtJYzd4LVp2c3J3U25RMzVBUDVnUmxWY0N5clRKR3RwRy1hckV0bzB6VENRQ1NMTkRSSVJlTTFoOUNLak10RENLaHRSTVNzZ0FHYnl3UEVENHcwNDB6UHNCYy04OGJQLVN5VmpidFVBSWtWMF9Vdl9reTN0dlpWbEkzYUhpU1ZwY0pielM?oc=5\" target=\"_blank\">Skretting presenta AmiNova, el nuevo concepto de formulación de piensos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 211530,
+      "story_id": 1849,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkJCU2RZY2JnemxhYWtvdERMWDM5ZDNrd1FSNlJYUEV6ZkxnU19Xa0dSSmRia2twRGRzY3NkeFNYenN4cUllQ0NNVGxBenpoendXU3lDVUxNTEswdVRsRjF6QWlyZ3ExWWF3X0lhNnhzZG9TVEw5U2U0YVV0RDZQek5YMks3S2VwbE1HVUwxb3FVOHdqWnZqcFJHaVJhYXFYNzJBdXc3U1V3QkhzMFJjMktuNjJpbkhmUVgzWW0xX3Mtb3NTX0RXLQ?oc=5",
+      "title": "Nueva instalación portuaria Skretting-Pargua en la X Región se certifica bajo la norma ISPS - Mundo Marítimo",
+      "source_name": "Mundo Marítimo",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2011-01-10T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkJCU2RZY2JnemxhYWtvdERMWDM5ZDNrd1FSNlJYUEV6ZkxnU19Xa0dSSmRia2twRGRzY3NkeFNYenN4cUllQ0NNVGxBenpoendXU3lDVUxNTEswdVRsRjF6QWlyZ3ExWWF3X0lhNnhzZG9TVEw5U2U0YVV0RDZQek5YMks3S2VwbE1HVUwxb3FVOHdqWnZqcFJHaVJhYXFYNzJBdXc3U1V3QkhzMFJjMktuNjJpbkhmUVgzWW0xX3Mtb3NTX0RXLQ?oc=5\" target=\"_blank\">Nueva instalación portuaria Skretting-Pargua en la X Región se certifica bajo la norma ISPS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundo Marítimo</font>"
     }
   ],
   "share_of_voice": {
@@ -80972,6 +81099,14 @@
       },
       {
         "week": "2010-W35",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
+        "week": "2011-W02",
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 0,
@@ -82120,7 +82255,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2018-W15",
@@ -84096,7 +84231,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2024-W23",
@@ -84933,7 +85068,7 @@
       {
         "week": "2026-W25",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -84946,7 +85081,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1096
+        "count": 1097
       },
       {
         "company": "Cargill",
@@ -84958,7 +85093,7 @@
       },
       {
         "company": "Skretting",
-        "count": 760
+        "count": 763
       }
     ]
   }
