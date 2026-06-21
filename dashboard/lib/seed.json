@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-21T09:07:43+00:00",
+  "generated_at": "2026-06-21T11:59:02+00:00",
   "stats": {
-    "mention_count": 2272,
-    "story_count": 1834,
-    "analyzed_count": 1102,
-    "off_topic_mentions": 70,
+    "mention_count": 2274,
+    "story_count": 1835,
+    "analyzed_count": 1103,
+    "off_topic_mentions": 71,
     "off_topic_stories": 45
   },
   "outlets": [
@@ -6200,7 +6200,7 @@
       "risk_flags": [
         "legal"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -24200,6 +24200,20 @@
       "id": 1772,
       "headline": "Skretting expanding in Nigeria - Aquafeed.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9VTkR3VUxIbGZfc1FQTm1Rci1pX092WXBWTGhqNU56VlJQUVh0WTRPNFd4Y0JCb1ZOSngxTjFBVy05aVlJWVptQ0pXXzAwbnc1Y2NlUnRUOFFKZktUWmRQZF9lcHV0MHA5WkJtNHJFalF3N0lEV05QMXZB?oc=5\" target=\"_blank\">Skretting expanding in Nigeria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2016-03-24T07:00:00+00:00",
+      "last_seen": "2016-03-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1857,
+      "headline": "Skretting makes fishmeal-free feed breakthrough - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWFtSlRhckdLYlFBRWdOaUhDSU8zanl3LWhSczVQQXE1bUJkbWtwOVAxYTh0d25LcHpGSGMxU09FZUh4SnV5Z09jQWdXVkJJbGZjS2h1YWQwcjNCZTJ3TzN1b1BlWTFkVmh6elJuVzhuQkRjRHczeFJrRzhEVWRCMmt1bE9FZTRrVm1WX2trWGs?oc=5\" target=\"_blank\">Skretting makes fishmeal-free feed breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
       "first_seen": "2016-03-24T07:00:00+00:00",
       "last_seen": "2016-03-24T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -81318,6 +81332,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1RVeVdXc3pteDlNZ2o3QVFCeUVXOEFZaEJfb2JCZTVyNmVkaTRUeXA2Y2gwSFRlSW1GVm1VX0ROQVNqdHhnckpGN2NjdmNmYTM2NXBUQjRIOGk2S1JtYVpESWhsNEVsZzlLbjZsLVI4a2hkWFFuem14Rm9ORmlycmVvaHFWY0pXRFVpV3ZQUDFCTWFkRVVubUFFMXlRTWhwU3A1aWFMajRLMVl6MHlRa0x6Y1lBQ19wbWwtV3p4TkQzQW8?oc=5\" target=\"_blank\">Geelen Counterflow delivers first electric dryer for Cargill-Ewos in Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 215076,
+      "story_id": 1464,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdFZIRDRFSnM1dDVuMlB4NjVKT2ZHb3hudmh1UUJsVkZiUjJ5X0MwQnlIZElkdmt1NnJXVnZvbDE4NFItcEVubnZ0ZXNIajhKRU1LZDl5VWNtc0I4ZVk0cFlOVkdYdEd0YjBvRkNEOTZ0MHhweW5USnBiQTJaTlc1bW9FUDM1R19qVUhKLWdncm0xWGpHbnRCSjVwdFg2M000Mmc3SNIBpAFBVV95cUxOdFZIRDRFSnM1dDVuMlB4NjVKT2ZHb3hudmh1UUJsVkZiUjJ5X0MwQnlIZElkdmt1NnJXVnZvbDE4NFItcEVubnZ0ZXNIajhKRU1LZDl5VWNtc0I4ZVk0cFlOVkdYdEd0YjBvRkNEOTZ0MHhweW5USnBiQTJaTlc1bW9FUDM1R19qVUhKLWdncm0xWGpHbnRCSjVwdFg2M000Mmc3SA?oc=5",
+      "title": "Vídeo | La Policía localiza un taller ilegal de armas al investigar a Biomar por fraude en el IVA - Diario de Sevilla",
+      "source_name": "Diario de Sevilla",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2025-12-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Police uncover illegal weapons workshop while investigating Biomar VAT fraud.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Spanish police discovered an illegal weapons workshop while investigating a company called Biomar for VAT fraud. The article reports on law enforcement findings related to the Biomar fraud investigation in Spain, which involves tax evasion allegations. Note: this refers to the Spanish hydrocarbon company Biomar S.A., not BioMar Group (the aquaculture feed producer headquartered in Aarhus, Denmark)—a case of brand name overlap unrelated to the target entity.  This is not the aquaculture feed company BioMar Group but the Spanish biofuels/hydrocarbon company Biomar S.A. which is a separate namesake with a distinct regulatory and criminal investigation history in Spain. This is not BioMar Group—the aquaculture feed producer headquartered in Aarhus, Denmark. It is the Spanish Biomar S.A. (hydrocarbon/VAT fraud case). We confirm this using tells: Spain, VAT fraud, weapons workshop, Sevilla police—these are hallmarks of the Spanish Biomar VAT scandal (2020s), not aquaculture. The target BioMar is salmon/shrimp feed in Aarhus, Denmark, with no connection to Spanish VAT investigations or weapons discoveries. The article uses a different Biomar entirely, so is_about_target_brand = false per the disambiguation rule."
+    },
+    {
+      "id": 215326,
+      "story_id": 1857,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWFtSlRhckdLYlFBRWdOaUhDSU8zanl3LWhSczVQQXE1bUJkbWtwOVAxYTh0d25LcHpGSGMxU09FZUh4SnV5Z09jQWdXVkJJbGZjS2h1YWQwcjNCZTJ3TzN1b1BlWTFkVmh6elJuVzhuQkRjRHczeFJrRzhEVWRCMmt1bE9FZTRrVm1WX2trWGs?oc=5",
+      "title": "Skretting makes fishmeal-free feed breakthrough - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2016-03-24T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWFtSlRhckdLYlFBRWdOaUhDSU8zanl3LWhSczVQQXE1bUJkbWtwOVAxYTh0d25LcHpGSGMxU09FZUh4SnV5Z09jQWdXVkJJbGZjS2h1YWQwcjNCZTJ3TzN1b1BlWTFkVmh6elJuVzhuQkRjRHczeFJrRzhEVWRCMmt1bE9FZTRrVm1WX2trWGs?oc=5\" target=\"_blank\">Skretting makes fishmeal-free feed breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -82007,7 +82069,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2016-W13",
@@ -85164,7 +85226,7 @@
       {
         "week": "2025-W51",
         "Aller Aqua": 0,
-        "BioMar": 20,
+        "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -85385,7 +85447,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1102
+        "count": 1103
       },
       {
         "company": "Cargill",
@@ -85397,7 +85459,7 @@
       },
       {
         "company": "Skretting",
-        "count": 766
+        "count": 767
       }
     ]
   }
