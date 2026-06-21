@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-20T23:03:35+00:00",
+  "generated_at": "2026-06-21T09:07:43+00:00",
   "stats": {
-    "mention_count": 2268,
-    "story_count": 1832,
-    "analyzed_count": 1100,
-    "off_topic_mentions": 68,
+    "mention_count": 2272,
+    "story_count": 1834,
+    "analyzed_count": 1102,
+    "off_topic_mentions": 70,
     "off_topic_stories": 45
   },
   "outlets": [
@@ -6402,15 +6402,15 @@
     },
     {
       "id": 1238,
-      "headline": "Libertad con cargos para tres directivos de Biomar por fraude del IVA de hidrocarburos - Noticias de Navarra",
-      "story_summary": "Three executives from Biomar (a Spanish hydrocarbons company) have been released pending charges related to VAT fraud on fuel products. This article concerns a different company than the Danish aquaculture feed producer BioMar Group A/S tracked by this monitoring system.",
+      "headline": "Libertad con cargos para tres directivos de Biomar por fraude del IVA de hidrocarburos - Deia",
+      "story_summary": "Three executives from Biomar, a Spanish hydrocarbons company, were granted conditional liberty while facing charges related to VAT fraud on hydrocarbon transactions. This article concerns a different company than the aquaculture feed producer BioMar Group headquartered in Aarhus, Denmark.",
       "first_seen": "2025-12-03T08:00:00+00:00",
       "last_seen": "2025-12-03T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "negative",
       "risk_flags": [
-        "none"
+        "legal"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -8457,7 +8457,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -17781,6 +17781,20 @@
       "company": "Polarfeed"
     },
     {
+      "id": 1856,
+      "headline": "Geelen Counterflow delivers first electric dryer for Cargill-Ewos in Norway - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1RVeVdXc3pteDlNZ2o3QVFCeUVXOEFZaEJfb2JCZTVyNmVkaTRUeXA2Y2gwSFRlSW1GVm1VX0ROQVNqdHhnckpGN2NjdmNmYTM2NXBUQjRIOGk2S1JtYVpESWhsNEVsZzlLbjZsLVI4a2hkWFFuem14Rm9ORmlycmVvaHFWY0pXRFVpV3ZQUDFCTWFkRVVubUFFMXlRTWhwU3A1aWFMajRLMVl6MHlRa0x6Y1lBQ19wbWwtV3p4TkQzQW8?oc=5\" target=\"_blank\">Geelen Counterflow delivers first electric dryer for Cargill-Ewos in Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2022-05-17T07:00:00+00:00",
+      "last_seen": "2022-05-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 515,
       "headline": "Skretting presenta pack antiinflamatorio que previene brotes de HSMI - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd1FxOUppd21DMEdzSmo2c0JnVnJkd0pXb0ZranlOcU5mRGJ1aGtNLW9RVFZMOE10eUJPS3NNWUpUclMwbm9jTjFHVmFzZDdBbkNNZ1RfeFV1Q01XU2xNNTgtNTh0QV9HRXZmZW1tNmxsajBuQV90d25BVXhCYUtGSXQ1S3NVY0tqcVRpUzB1STdDNmhsbmpjMG5jenhHeGNEcS13Z0NmQjI0eDNxWkoydWFPQ2Fhc2FOM0NhaEt5am85dURNWHlpcUN5cGRSRTk5UDk0RnY4bw?oc=5\" target=\"_blank\">Skretting presenta pack antiinflamatorio que previene brotes de HSMI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -19095,6 +19109,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1855,
+      "headline": "Skretting firma alianza con Inspiring Girls Chile para apoyar el desarrollo de adolescentes de la Región de Los Lagos - Diario de Osorno",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQVUQzMWdYRjJsS3laUXB6OHR0Q1E3NmFFQ3lyb2ptRXpWYzAtRFExYkU0WlpqaTQ2alJtWXRSaEl6R1ZXQ29yUEhBLUNLdnNIMkVpbldfNDlUdW9yYUVnT3VlMnE3ZVlkd3kxWWFSeXNZU1NZRzlwSjNHQnd6OXFjWjJkbm1vZjJaNFVfX21wdEI1YWw4QllMdDhlNkVCVWpXd1dXZDNXU0hpdDBDbFRmckNmS3lCV2xvLXZuX0FrdG5NV3kyYVh3YmFGXzR1OVgxbDdkLURwRVh3ZmxrUndreU1wUnVBRENhc1VYMFZUSHp4S251Vml2NzFyb0QtWXlzVzRNag?oc=5\" target=\"_blank\">Skretting firma alianza con Inspiring Girls Chile para apoyar el desarrollo de adolescentes de la Región de Los Lagos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>",
+      "first_seen": "2021-06-04T07:00:00+00:00",
+      "last_seen": "2021-06-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1296,
@@ -81192,6 +81220,104 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE42RGZGSW5YOWJITk1qdE44bkVwQ3Q5WWVGSlBfUm1sak42OU5qdUR2TDNEeTl2ZlJVd2VoZk9VNG5rSWlUWmkwVXgxUk5FU0JzT0pTRmI0MWJQUUlaaHAxSGxENU1PUjZrNlAw?oc=5\" target=\"_blank\">Un mes para la celebración de AquaVision 2026, con un programa marcado por la geopolítica y la innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+    },
+    {
+      "id": 214034,
+      "story_id": 1238,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEQzWnBkWGg4bFdOZWpyLWNQemFtUUFWMEIySzd2T2w1RnVyUjdBX3BBWTFSUE12N01nVXBHSWdJVWtRTHlrU1REQUhjdllrUW1iRXNHeFBqUi1BNHY1aGM3N0Q3VXRycjhnbDVxeDJPZ2lrSWI3NFVCUUdPbXp0OXk4Wnc0YmctT0YyLWhuWnY5OVJvck9QYdIBngFBVV95cUxPY1JBRTFOaGtlLWlnYzBob1BMNHpsa0g1Y3JlTGhBa1pfWGkta1JtakVFZ3pyNEVxLTRwQ0lJWEFoQXplU1BCcmEwcXR6NElCMFpqdjBWeVNYZTVvcDloUXV4elYxZk92RHFBZk9naDJtdEhFRmlkUWJXbW9oaS01TWtqM19JMEdWWDFsU3NxNmIzV1didHpZYzNzbDMwZw?oc=5",
+      "title": "Libertad con cargos para tres directivos de Biomar por fraude del IVA de hidrocarburos - Deia",
+      "source_name": "Deia",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-12-03T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Biomar hydrocarbons executives charged with VAT fraud",
+      "key_claims": [
+        "Three Biomar executives received conditional liberty with charges related to hydrocarbon VAT fraud"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal"
+      ],
+      "summary": "Three executives from Biomar, a Spanish hydrocarbons company, were granted conditional liberty while facing charges related to VAT fraud on hydrocarbon transactions. This article concerns a different company than the aquaculture feed producer BioMar Group headquartered in Aarhus, Denmark."
+    },
+    {
+      "id": 214087,
+      "story_id": 1378,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmZRSm5ZNUJwalQ4NkpwUXcxUnM5TFVOQzVLZWtKY0hGbEN2SjlEQV9nNFZmQjVjQnhhWi1BU3ZsQ240QkVjbXo3bGVmTW5LcG1MVmhnckdXS3JuTE9IM3hWMUtJRkZQRjVYc0FzVExMMGJoZDlaWk1xOUlpNTQ1bzA3NFJyME1NNnpicnh6d09qdDhjSldVbUJZd05nVFdHXzZN?oc=5",
+      "title": "Biomar, la apuesta más desconocida de Pharma Mar, cumple ochos años a las puertas del BME Growth - Economía Digital",
+      "source_name": "Economía Digital",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2025-09-04T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Pharma Mar subsidiary Biomar reaches 8-year milestone ahead of BME Growth listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article discusses Biomar, a subsidiary of Pharma Mar (a Spanish pharmaceutical/biotech company), marking eight years of operation and approaching a potential listing on BME Growth. This Biomar is a pharmaceutical or biotech venture unrelated to BioMar Group, the Danish aquaculture feed producer, which is the subject of our monitoring scope."
+    },
+    {
+      "id": 214608,
+      "story_id": 1855,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVUQzMWdYRjJsS3laUXB6OHR0Q1E3NmFFQ3lyb2ptRXpWYzAtRFExYkU0WlpqaTQ2alJtWXRSaEl6R1ZXQ29yUEhBLUNLdnNIMkVpbldfNDlUdW9yYUVnT3VlMnE3ZVlkd3kxWWFSeXNZU1NZRzlwSjNHQnd6OXFjWjJkbm1vZjJaNFVfX21wdEI1YWw4QllMdDhlNkVCVWpXd1dXZDNXU0hpdDBDbFRmckNmS3lCV2xvLXZuX0FrdG5NV3kyYVh3YmFGXzR1OVgxbDdkLURwRVh3ZmxrUndreU1wUnVBRENhc1VYMFZUSHp4S251Vml2NzFyb0QtWXlzVzRNag?oc=5",
+      "title": "Skretting firma alianza con Inspiring Girls Chile para apoyar el desarrollo de adolescentes de la Región de Los Lagos - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-06-04T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQVUQzMWdYRjJsS3laUXB6OHR0Q1E3NmFFQ3lyb2ptRXpWYzAtRFExYkU0WlpqaTQ2alJtWXRSaEl6R1ZXQ29yUEhBLUNLdnNIMkVpbldfNDlUdW9yYUVnT3VlMnE3ZVlkd3kxWWFSeXNZU1NZRzlwSjNHQnd6OXFjWjJkbm1vZjJaNFVfX21wdEI1YWw4QllMdDhlNkVCVWpXd1dXZDNXU0hpdDBDbFRmckNmS3lCV2xvLXZuX0FrdG5NV3kyYVh3YmFGXzR1OVgxbDdkLURwRVh3ZmxrUndreU1wUnVBRENhc1VYMFZUSHp4S251Vml2NzFyb0QtWXlzVzRNag?oc=5\" target=\"_blank\">Skretting firma alianza con Inspiring Girls Chile para apoyar el desarrollo de adolescentes de la Región de Los Lagos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 214630,
+      "story_id": 1856,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1RVeVdXc3pteDlNZ2o3QVFCeUVXOEFZaEJfb2JCZTVyNmVkaTRUeXA2Y2gwSFRlSW1GVm1VX0ROQVNqdHhnckpGN2NjdmNmYTM2NXBUQjRIOGk2S1JtYVpESWhsNEVsZzlLbjZsLVI4a2hkWFFuem14Rm9ORmlycmVvaHFWY0pXRFVpV3ZQUDFCTWFkRVVubUFFMXlRTWhwU3A1aWFMajRLMVl6MHlRa0x6Y1lBQ19wbWwtV3p4TkQzQW8?oc=5",
+      "title": "Geelen Counterflow delivers first electric dryer for Cargill-Ewos in Norway - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2022-05-17T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1RVeVdXc3pteDlNZ2o3QVFCeUVXOEFZaEJfb2JCZTVyNmVkaTRUeXA2Y2gwSFRlSW1GVm1VX0ROQVNqdHhnckpGN2NjdmNmYTM2NXBUQjRIOGk2S1JtYVpESWhsNEVsZzlLbjZsLVI4a2hkWFFuem14Rm9ORmlycmVvaHFWY0pXRFVpV3ZQUDFCTWFkRVVubUFFMXlRTWhwU3A1aWFMajRLMVl6MHlRa0x6Y1lBQ19wbWwtV3p4TkQzQW8?oc=5\" target=\"_blank\">Geelen Counterflow delivers first electric dryer for Cargill-Ewos in Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -83321,7 +83447,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2021-W24",
@@ -83639,7 +83765,7 @@
         "week": "2022-W20",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
       },
@@ -84918,7 +85044,7 @@
       {
         "week": "2025-W36",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -85022,7 +85148,7 @@
       {
         "week": "2025-W49",
         "Aller Aqua": 0,
-        "BioMar": 36,
+        "BioMar": 37,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -85259,11 +85385,11 @@
       },
       {
         "company": "BioMar",
-        "count": 1100
+        "count": 1102
       },
       {
         "company": "Cargill",
-        "count": 247
+        "count": 248
       },
       {
         "company": "Polarfeed",
@@ -85271,7 +85397,7 @@
       },
       {
         "company": "Skretting",
-        "count": 765
+        "count": 766
       }
     ]
   }
