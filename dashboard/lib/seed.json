@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-21T11:59:02+00:00",
+  "generated_at": "2026-06-21T17:41:16+00:00",
   "stats": {
-    "mention_count": 2274,
-    "story_count": 1835,
-    "analyzed_count": 1103,
+    "mention_count": 2279,
+    "story_count": 1838,
+    "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 45
   },
@@ -433,6 +433,20 @@
       "first_seen": "2026-06-14T10:10:34+00:00",
       "last_seen": "2026-06-14T10:10:34+00:00",
       "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1860,
+      "headline": "BioMar Sagun Secures ASC Feed Certification, Expanding Certified Feed Supply for Export Markets - Seafoodnews",
+      "story_summary": "BioMar Sagun has secured ASC (Aquaculture Stewardship Council) Feed Certification, strengthening its ability to supply certified aquaculture feed to export markets. The certification expands BioMar's portfolio of responsibly-sourced feed products for aquaculture customers worldwide.",
+      "first_seen": "2026-06-12T19:36:43+00:00",
+      "last_seen": "2026-06-12T19:36:43+00:00",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -12189,7 +12203,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -15638,6 +15652,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1352,
+      "headline": "Skretting presenta Elevia, un nuevo alimento para la cría de camarón - IPac Acuicultura",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0dW92cVROYjd6T25hbkxfRzh3OWtUcUdxLU5nRmJYSlZ5ejBqZ19CZEgxNEpuT2ZsQmJHZWdKdjNFNmt2QWV0R3dyTFlHVVlQZUUtSDZ6OXYwcFVZUDdKMko2Tk0wQWc?oc=5\" target=\"_blank\">Skretting presenta Elevia, un nuevo alimento para la cría de camarón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
+      "first_seen": "2023-06-12T07:00:00+00:00",
+      "last_seen": "2023-06-13T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 550,
       "headline": "Skretting introduces Elevia shrimp feed for hatcheries - SeafoodSource",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQb190aHVmaWdWUGgzUmJLTnFBX3Rta3VxX3pFdkNLQ3lqb1gwUF9RSWpydjZpX09qVWlBMDc5RDB5aDlrN3BULTBlVWtxS0E0VFlsUS1seEJYZmZHTDVIYm11a0hsdW5kVGpIazF5TEVBX3c4TVFaeU9Tc3dfczZOTWsyZGRoRnZqQmxJTXZrVEFkWFlmUTNkc0tRMHJfRVNrVXk4?oc=5\" target=\"_blank\">Skretting introduces Elevia shrimp feed for hatcheries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
@@ -15655,20 +15683,6 @@
       "id": 1301,
       "headline": "Skretting launches new shrimp feed - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5QQVNHTzBDVzVUeTBQWmdmTUs4OXJRTFZBc3RsSVBUUzZuaUU2ZW9adXNTLVpibmxZbDhWTnhmaVNUZXRoQTNOc280Ny02bmtwajAzeVZyYjlIN2htQURqUkFZQUJGRjZRRnQ4eWp4bjBncDZiTTBhUGMzOTkzTzQ?oc=5\" target=\"_blank\">Skretting launches new shrimp feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
-      "first_seen": "2023-06-12T07:00:00+00:00",
-      "last_seen": "2023-06-12T07:00:00+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "Skretting"
-    },
-    {
-      "id": 1352,
-      "headline": "Skretting presenta Elevia, un nuevo alimento para la cría de camarón - IPac Acuicultura",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0dW92cVROYjd6T25hbkxfRzh3OWtUcUdxLU5nRmJYSlZ5ejBqZ19CZEgxNEpuT2ZsQmJHZWdKdjNFNmt2QWV0R3dyTFlHVVlQZUUtSDZ6OXYwcFVZUDdKMko2Tk0wQWc?oc=5\" target=\"_blank\">Skretting presenta Elevia, un nuevo alimento para la cría de camarón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
       "first_seen": "2023-06-12T07:00:00+00:00",
       "last_seen": "2023-06-12T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -19461,6 +19475,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1859,
+      "headline": "Skretting, Hendrix Genetis y Ecuacultivos invierten en Ecuador 25 millones de dólares en un centro de mejora genética de langostinos - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPclRZVmNiQjZKWVhsMmR4M1BaNjFTZFBnSi13RnR0LWwySU1ONThmcWZNZGhxRV9XaGVCYnFfaGtYOTMxajNTWHBjZWFKVzV0aVZES0d5MlhqZ2VQbEZtdnEyNnpRWDllY0Rfc3lGc21WWElvczc2em9VNlc5YVRVeThVbV80ZWlveTVGY0pCOWpoamlESjdTZDgyazZ1b2liRjB1cXh2VEtyR3E1dHhPbndiazNKSlRKUVJuUnpucWRDVFhUNzZ2WldmWHlMOEhyeTNFYWR5bW9BNUZyN1FjRllPMzVKSlFVanRlbXpwWVc0c3hVSF80T2t3?oc=5\" target=\"_blank\">Skretting, Hendrix Genetis y Ecuacultivos invierten en Ecuador 25 millones de dólares en un centro de mejora genética de langostinos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2021-02-15T07:23:22+00:00",
+      "last_seen": "2021-02-15T07:23:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1329,
       "headline": "Cargill completes acquisition of salmon nutrition producer EWOS - All About Feed",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnZmVE8zTW80VVZFM2Y2ZXVYNnlqZ0xQQ2lIck0tZG5fUjMwT2ZIdk9LWWdpNXl6WlEyNkJMdTFxZ2puNUg5WmR1dDBNaV82ZXhGaVNfRVdvektKZFdKUWkxZzQzTnhsbXNDVUN0eVIxNjZOa1RoRXhSVGZXRk1PRFNyWGhFdG01TjdIZkNveFhpbm5FamVtMHlhbkRmYXc5LU5kTFVZdFNZYklnc1dYLU1YSFg2clJnUXdn?oc=5\" target=\"_blank\">Cargill completes acquisition of salmon nutrition producer EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>",
@@ -19783,6 +19811,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1858,
+      "headline": "Marta Buesa, veterinaria especialista de Skretting, recuerda que ante la llegada del invierno es tiempo de Protec - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTE9CbjVJNzRvVkFDYS00UERvb05jd2dMRmFPdkZ1WmF0WXVKNWlGRHlvMjlfWUZYTG5DLWVnRk4ybW05UWVQVkpZWTJrUzRkb1VudjU2ZmhTa2lMMklWRTd4d3c4Q1RsLVhnajVka21NdEp2TDV1RTNrOTZ4cVZmXy01dGFJQTN0YWwtTXFTSnJzZnpXaC1NeE45My0tM1pLc2tWemJDVWx0SlJlWm1qNWI3VFpkc1RIMDB4ZmQ1SUhYVjh3YTBHUWhFTHQxREo0MWJtbmNudEg4MlFrZ09V?oc=5\" target=\"_blank\">Marta Buesa, veterinaria especialista de Skretting, recuerda que ante la llegada del invierno es tiempo de Protec</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2020-11-30T16:17:45+00:00",
+      "last_seen": "2020-11-30T16:17:45+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 45,
@@ -81380,6 +81422,126 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWFtSlRhckdLYlFBRWdOaUhDSU8zanl3LWhSczVQQXE1bUJkbWtwOVAxYTh0d25LcHpGSGMxU09FZUh4SnV5Z09jQWdXVkJJbGZjS2h1YWQwcjNCZTJ3TzN1b1BlWTFkVmh6elJuVzhuQkRjRHczeFJrRzhEVWRCMmt1bE9FZTRrVm1WX2trWGs?oc=5\" target=\"_blank\">Skretting makes fishmeal-free feed breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 215738,
+      "story_id": 1860,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRlRxN2tHbkpLZ19rR3NvaDdLWFlYM3JRcEVyTnAzR0ljNTdDUU1uNmVxTFppRFJEV1dZUjZORzdXYndjRnRGdkZLM3IzaEMzZVp2QkZRd1ZrVFZkMWh2WTY4R1VqemZ0M05MS3JZeHh0SElsSUNlV3dZaW1naVdjTWdlR2FBbWV1NGk3c094ZGZROGlDVEozeFNBMFh1MDBCMXBXbHVGV1VhdjBrdUFMbHJKcGR3TEJPMmZUd1VZWEEwSy1IbHBFMWJaWFZ4M3JHeXc?oc=5",
+      "title": "BioMar Sagun Secures ASC Feed Certification, Expanding Certified Feed Supply for Export Markets - Seafoodnews",
+      "source_name": "Seafoodnews",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-06-12T19:36:43+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Sagun achieves ASC Feed Certification for export market expansion",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Sagun has secured ASC (Aquaculture Stewardship Council) Feed Certification, strengthening its ability to supply certified aquaculture feed to export markets. The certification expands BioMar's portfolio of responsibly-sourced feed products for aquaculture customers worldwide."
+    },
+    {
+      "id": 216099,
+      "story_id": 872,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXJpNTdXSFBUUEdQSWVHUDJOd0plUnk4TXppYmoyX3FrVkF1cUtGci1SZmJMYU5UZG9SdmxkTUJ6SWotNXNBQVliSGVMTzlmMnFRNWtkeHlRQjRNb25oRXZHaDEyendiMDVvRTVjZzZfdzJrMmpoRkxOQzNOOFotRm8xcjJJOEoyaVRoRTNPZ1N3QzFSQ19oVmZSV3RCQQ?oc=5",
+      "title": "BioMar anunció el cierre de su planta de alimentos para peces en Castro - SoyChile.cl",
+      "source_name": "SoyChile.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-11-15T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar announces closure of fish feed plant in Castro",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar announced the closure of its fish feed production plant located in Castro. The closure represents a significant operational change for the aquaculture feed producer in the region."
+    },
+    {
+      "id": 216651,
+      "story_id": 1859,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPclRZVmNiQjZKWVhsMmR4M1BaNjFTZFBnSi13RnR0LWwySU1ONThmcWZNZGhxRV9XaGVCYnFfaGtYOTMxajNTWHBjZWFKVzV0aVZES0d5MlhqZ2VQbEZtdnEyNnpRWDllY0Rfc3lGc21WWElvczc2em9VNlc5YVRVeThVbV80ZWlveTVGY0pCOWpoamlESjdTZDgyazZ1b2liRjB1cXh2VEtyR3E1dHhPbndiazNKSlRKUVJuUnpucWRDVFhUNzZ2WldmWHlMOEhyeTNFYWR5bW9BNUZyN1FjRllPMzVKSlFVanRlbXpwWVc0c3hVSF80T2t3?oc=5",
+      "title": "Skretting, Hendrix Genetis y Ecuacultivos invierten en Ecuador 25 millones de dólares en un centro de mejora genética de langostinos - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2021-02-15T07:23:22+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPclRZVmNiQjZKWVhsMmR4M1BaNjFTZFBnSi13RnR0LWwySU1ONThmcWZNZGhxRV9XaGVCYnFfaGtYOTMxajNTWHBjZWFKVzV0aVZES0d5MlhqZ2VQbEZtdnEyNnpRWDllY0Rfc3lGc21WWElvczc2em9VNlc5YVRVeThVbV80ZWlveTVGY0pCOWpoamlESjdTZDgyazZ1b2liRjB1cXh2VEtyR3E1dHhPbndiazNKSlRKUVJuUnpucWRDVFhUNzZ2WldmWHlMOEhyeTNFYWR5bW9BNUZyN1FjRllPMzVKSlFVanRlbXpwWVc0c3hVSF80T2t3?oc=5\" target=\"_blank\">Skretting, Hendrix Genetis y Ecuacultivos invierten en Ecuador 25 millones de dólares en un centro de mejora genética de langostinos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 216653,
+      "story_id": 1352,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUpjRzl4NTRjcWpmeGN4ZnVNOWp5bUMyS3dPb3dvcUpiNkdCTW9QTDJNMU5NRk9mNzNQTFRlVmc1THU5eUJoa1hnVUg3a2NPRDh6MFBYZFM4RnJZT2cxQmg4bEYyazl4dUNNV1YtcmhMYVNPbXZpTzBsZ2NuZGZRR3ZtNndfRlJCSzdrRnFDYk1HSkUtNjJwbUZGajNqT3ZCZWVHb0xXV3ZVNndkMU5hVG0wZlJ2YnVQSDFjSW14LUI?oc=5",
+      "title": "Skretting presenta Elevia, un alimento que mejora el rendimiento de las larvas de camarón - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2023-06-13T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUpjRzl4NTRjcWpmeGN4ZnVNOWp5bUMyS3dPb3dvcUpiNkdCTW9QTDJNMU5NRk9mNzNQTFRlVmc1THU5eUJoa1hnVUg3a2NPRDh6MFBYZFM4RnJZT2cxQmg4bEYyazl4dUNNV1YtcmhMYVNPbXZpTzBsZ2NuZGZRR3ZtNndfRlJCSzdrRnFDYk1HSkUtNjJwbUZGajNqT3ZCZWVHb0xXV3ZVNndkMU5hVG0wZlJ2YnVQSDFjSW14LUI?oc=5\" target=\"_blank\">Skretting presenta Elevia, un alimento que mejora el rendimiento de las larvas de camarón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 216654,
+      "story_id": 1858,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTE9CbjVJNzRvVkFDYS00UERvb05jd2dMRmFPdkZ1WmF0WXVKNWlGRHlvMjlfWUZYTG5DLWVnRk4ybW05UWVQVkpZWTJrUzRkb1VudjU2ZmhTa2lMMklWRTd4d3c4Q1RsLVhnajVka21NdEp2TDV1RTNrOTZ4cVZmXy01dGFJQTN0YWwtTXFTSnJzZnpXaC1NeE45My0tM1pLc2tWemJDVWx0SlJlWm1qNWI3VFpkc1RIMDB4ZmQ1SUhYVjh3YTBHUWhFTHQxREo0MWJtbmNudEg4MlFrZ09V?oc=5",
+      "title": "Marta Buesa, veterinaria especialista de Skretting, recuerda que ante la llegada del invierno es tiempo de Protec - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2020-11-30T16:17:45+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTE9CbjVJNzRvVkFDYS00UERvb05jd2dMRmFPdkZ1WmF0WXVKNWlGRHlvMjlfWUZYTG5DLWVnRk4ybW05UWVQVkpZWTJrUzRkb1VudjU2ZmhTa2lMMklWRTd4d3c4Q1RsLVhnajVka21NdEp2TDV1RTNrOTZ4cVZmXy01dGFJQTN0YWwtTXFTSnJzZnpXaC1NeE45My0tM1pLc2tWemJDVWx0SlJlWm1qNWI3VFpkc1RIMDB4ZmQ1SUhYVjh3YTBHUWhFTHQxREo0MWJtbmNudEg4MlFrZ09V?oc=5\" target=\"_blank\">Marta Buesa, veterinaria especialista de Skretting, recuerda que ante la llegada del invierno es tiempo de Protec</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
     }
   ],
   "share_of_voice": {
@@ -83344,6 +83506,14 @@
         "Skretting": 2
       },
       {
+        "week": "2020-W49",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2020-W50",
         "Aller Aqua": 0,
         "BioMar": 2,
@@ -83421,7 +83591,7 @@
         "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2021-W08",
@@ -84245,7 +84415,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2023-W25",
@@ -84770,7 +84940,7 @@
       {
         "week": "2024-W46",
         "Aller Aqua": 0,
-        "BioMar": 18,
+        "BioMar": 19,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -85426,7 +85596,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 40,
+        "BioMar": 41,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 13
@@ -85447,7 +85617,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1103
+        "count": 1105
       },
       {
         "company": "Cargill",
@@ -85459,7 +85629,7 @@
       },
       {
         "company": "Skretting",
-        "count": 767
+        "count": 770
       }
     ]
   }
