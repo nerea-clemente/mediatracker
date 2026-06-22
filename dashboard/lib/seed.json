@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T23:09:02+00:00",
+  "generated_at": "2026-06-22T11:13:09+00:00",
   "stats": {
-    "mention_count": 2280,
-    "story_count": 1839,
+    "mention_count": 2283,
+    "story_count": 1841,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
-    "off_topic_stories": 45
+    "off_topic_stories": 44
   },
   "outlets": [
     "20Minutos",
@@ -19,6 +19,7 @@
     "Alberta Farmer Express",
     "All About Feed",
     "Altinget.no",
+    "Animalshealth.es",
     "Aquafeed.com",
     "Australasian Lawyer",
     "Australian Broadcasting Corporation",
@@ -69,6 +70,7 @@
     "Diario Sostenible",
     "Diario Sustentable",
     "Diario de Burgos",
+    "Diario de Jerez",
     "Diario de León",
     "Diario de Noticias de Álava",
     "Diario de Osorno",
@@ -4287,6 +4289,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1863,
+      "headline": "Aktieselskabet Schouw & Co. - Via Ritzau",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTUwVENDNzg2ck5vRXJPVldZc3lhRGpGRU5NaVBUM2MwbVhyamtBbzlGQkJLRzVZQW8tT0UyYzNoRjVkeVdzajZhMDVTcGlRT2VWSkM3ekxTSVpRTk5kWjZDTTNJTS13dWZtX0x0WU5ONUxkUTFtZV9hSlQzQmxxXy1iTEpXTTg1NVpRNnNia0RETjdkS2lHYWJ0enNoWW13cG5IRA?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Via Ritzau</font>",
+      "first_seen": "2026-03-05T08:00:00+00:00",
+      "last_seen": "2026-03-05T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1543,
       "headline": "Being ahead of the competition is challenging, you are potentially adding costs, says Sif Rishoej, BioMar Group - WageIndicator",
       "story_summary": "Sif Rishoej from BioMar Group discusses the competitive challenges of staying ahead in the market, noting that innovation and differentiation can increase operational costs. The statement reflects tensions between market leadership and cost management in the aquaculture feed industry.",
@@ -6214,8 +6230,8 @@
       "risk_flags": [
         "legal"
       ],
-      "pickup_count": 3,
-      "is_about_target_brand": false,
+      "pickup_count": 4,
+      "is_about_target_brand": true,
       "company": "BioMar"
     },
     {
@@ -15237,6 +15253,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZaGVWaTBsRzB2azJoZ3Vqd2thbXp0MjdGSDdDQ1RENWVpSkZHQTRPM08wUFpsWnRMNTRhSl9HT3dyVGpMUEZtenB0ZTZRQ2w1OGtfcEN2WENuLUROZkZNRE1LUTdNek9sc3E4WElScTg?oc=5\" target=\"_blank\">Bli kjent med Beate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Høyre</font>",
       "first_seen": "2023-09-18T01:10:45+00:00",
       "last_seen": "2023-09-18T01:10:45+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1862,
+      "headline": "El veterinario Alex Obach, nuevo presidente de la Plataforma Europea de Tecnología e Innovación en Acuicultura - Animalshealth.es",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNV9wbHFMZGFvZFlza29RM2M4dnExeUZyS2lGLVJOaXFRQmd3MG1NOTlkNUg0QWhfRFR6MzBaWi1LcUxBS3FiOGZackZJdnNkOWNGOEt0SnFPcHJRTTM1Z2lpX2tGUDhISklYQ013aWhOZDFraFJ2QlVyWW9tcUthMEV1aDdCcmgzX1ExTHdhVVhWNTdiSDNQOFFpNC1sN0hSTmdGVDhNaWt1Z29GMFhFZFdQYzhZQW1CSkdoQ0lkR1B3Wjd2OGNDbkhSOXNqaVFx?oc=5\" target=\"_blank\">El veterinario Alex Obach, nuevo presidente de la Plataforma Europea de Tecnología e Innovación en Acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Animalshealth.es</font>",
+      "first_seen": "2023-09-15T07:00:00+00:00",
+      "last_seen": "2023-09-15T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -81580,6 +81610,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTFpXUVBsZ19HYjd0Uy1Fa1l6VEtEM01EMVdNOUtBZUhoUWs5Qjg1Z093bWhpLTZOaFBwb2J0WFhZUXBsaWttOXcwOTh0TzFXdDhZclJvS3pLdGFYQ0pMWGZHa1Fhd3pURnRXX0JxRmtBblN5blRHRU5waldBanM4MzFZUzRJME9vbmFPUFFkdFpxVGltN05BeF82UVI0Y0g1bkE4eFR5SkVlZUtyeXM2STlRNXA4Z3dvRjRUa256aGdpSElmQXBWM2lLaHR0OEtoeVhqdlYycmI0MHlTbnRpY3lzQlV1MTRS?oc=5\" target=\"_blank\">Despidieron de su trabajo al ciberacosador de Puerto Montt y la Fiscalía investigará</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SoyChile.cl</font>"
+    },
+    {
+      "id": 218171,
+      "story_id": 1464,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXNfMl9tSjZUbXFxVjlMb2NXV2hWdXFZUnhTOXRKODFhbWVXa1NLTkVYUEpNbS1IQXlvTm1MSnhoWnZJUDdtS2JGQ1R2a1Fob18tVkVJa0dYSkZZOWp3NXVxbHAzRlEtMGZ2eXdyejA0LU5CNXAyV3V1REN1THZUSGJmVjhfb3NhRW5uUmlfZlluTFk0YVBaWFkwM2dUQnZoLVHSAaIBQVVfeXFMT01zXzJfbUo2VG1xcVY5TG9jV1doVnVxWVJ4Uzl0SjgxYW1lV2tTS05FWFBKTW0tSEF5b05tTEp4aFp2SVA3bUtiRkNUdmtRaG9fLVZFSWtHWEpGWTlqdzV1cWxwM0ZRLTBmdnl3cnowNC1OQjVwMld1dURDdUx2VEhiZlY4X29zYUVublJpX2ZZbkxZNGFQWlhZMDNnVEJ2aC1R?oc=5",
+      "title": "Vídeo | La Policía localiza un taller ilegal de armas al investigar a Biomar por fraude en el IVA - Diario de Jerez",
+      "source_name": "Diario de Jerez",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2025-12-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXNfMl9tSjZUbXFxVjlMb2NXV2hWdXFZUnhTOXRKODFhbWVXa1NLTkVYUEpNbS1IQXlvTm1MSnhoWnZJUDdtS2JGQ1R2a1Fob18tVkVJa0dYSkZZOWp3NXVxbHAzRlEtMGZ2eXdyejA0LU5CNXAyV3V1REN1THZUSGJmVjhfb3NhRW5uUmlfZlluTFk0YVBaWFkwM2dUQnZoLVHSAaIBQVVfeXFMT01zXzJfbUo2VG1xcVY5TG9jV1doVnVxWVJ4Uzl0SjgxYW1lV2tTS05FWFBKTW0tSEF5b05tTEp4aFp2SVA3bUtiRkNUdmtRaG9fLVZFSWtHWEpGWTlqdzV1cWxwM0ZRLTBmdnl3cnowNC1OQjVwMld1dURDdUx2VEhiZlY4X29zYUVublJpX2ZZbkxZNGFQWlhZMDNnVEJ2aC1R?oc=5\" target=\"_blank\">Vídeo | La Policía localiza un taller ilegal de armas al investigar a Biomar por fraude en el IVA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Jerez</font>"
+    },
+    {
+      "id": 218198,
+      "story_id": 1863,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTUwVENDNzg2ck5vRXJPVldZc3lhRGpGRU5NaVBUM2MwbVhyamtBbzlGQkJLRzVZQW8tT0UyYzNoRjVkeVdzajZhMDVTcGlRT2VWSkM3ekxTSVpRTk5kWjZDTTNJTS13dWZtX0x0WU5ONUxkUTFtZV9hSlQzQmxxXy1iTEpXTTg1NVpRNnNia0RETjdkS2lHYWJ0enNoWW13cG5IRA?oc=5",
+      "title": "Aktieselskabet Schouw & Co. - Via Ritzau",
+      "source_name": "Via Ritzau",
+      "language": "da",
+      "country": "DK",
+      "outlet_kind": "release",
+      "published_at": "2026-03-05T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTUwVENDNzg2ck5vRXJPVldZc3lhRGpGRU5NaVBUM2MwbVhyamtBbzlGQkJLRzVZQW8tT0UyYzNoRjVkeVdzajZhMDVTcGlRT2VWSkM3ekxTSVpRTk5kWjZDTTNJTS13dWZtX0x0WU5ONUxkUTFtZV9hSlQzQmxxXy1iTEpXTTg1NVpRNnNia0RETjdkS2lHYWJ0enNoWW13cG5IRA?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Via Ritzau</font>"
+    },
+    {
+      "id": 218705,
+      "story_id": 1862,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNV9wbHFMZGFvZFlza29RM2M4dnExeUZyS2lGLVJOaXFRQmd3MG1NOTlkNUg0QWhfRFR6MzBaWi1LcUxBS3FiOGZackZJdnNkOWNGOEt0SnFPcHJRTTM1Z2lpX2tGUDhISklYQ013aWhOZDFraFJ2QlVyWW9tcUthMEV1aDdCcmgzX1ExTHdhVVhWNTdiSDNQOFFpNC1sN0hSTmdGVDhNaWt1Z29GMFhFZFdQYzhZQW1CSkdoQ0lkR1B3Wjd2OGNDbkhSOXNqaVFx?oc=5",
+      "title": "El veterinario Alex Obach, nuevo presidente de la Plataforma Europea de Tecnología e Innovación en Acuicultura - Animalshealth.es",
+      "source_name": "Animalshealth.es",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2023-09-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNV9wbHFMZGFvZFlza29RM2M4dnExeUZyS2lGLVJOaXFRQmd3MG1NOTlkNUg0QWhfRFR6MzBaWi1LcUxBS3FiOGZackZJdnNkOWNGOEt0SnFPcHJRTTM1Z2lpX2tGUDhISklYQ013aWhOZDFraFJ2QlVyWW9tcUthMEV1aDdCcmgzX1ExTHdhVVhWNTdiSDNQOFFpNC1sN0hSTmdGVDhNaWt1Z29GMFhFZFdQYzhZQW1CSkdoQ0lkR1B3Wjd2OGNDbkhSOXNqaVFx?oc=5\" target=\"_blank\">El veterinario Alex Obach, nuevo presidente de la Plataforma Europea de Tecnología e Innovación en Acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Animalshealth.es</font>"
     }
   ],
   "share_of_voice": {
@@ -84525,7 +84627,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 4,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2023-W38",
@@ -85442,7 +85544,7 @@
       {
         "week": "2025-W51",
         "Aller Aqua": 0,
-        "BioMar": 21,
+        "BioMar": 22,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -85530,7 +85632,7 @@
       {
         "week": "2026-W10",
         "Aller Aqua": 0,
-        "BioMar": 13,
+        "BioMar": 14,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -85663,7 +85765,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1105
+        "count": 1107
       },
       {
         "company": "Cargill",
@@ -85675,7 +85777,7 @@
       },
       {
         "company": "Skretting",
-        "count": 771
+        "count": 772
       }
     ]
   }
