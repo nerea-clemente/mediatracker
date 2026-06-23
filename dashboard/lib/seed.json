@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T08:42:16+00:00",
+  "generated_at": "2026-06-23T12:18:37+00:00",
   "stats": {
-    "mention_count": 2290,
-    "story_count": 1848,
+    "mention_count": 2292,
+    "story_count": 1849,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 44
@@ -42,6 +42,7 @@
     "Business in Vancouver",
     "Bygg.no",
     "Byggfakta Nyheter",
+    "CTV News",
     "Cadena SER",
     "Carey",
     "Centro Competencia",
@@ -1625,6 +1626,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPS2x0T0lRTmxMSzRranQxalNHWE9ZdGdTX2hsd0xnaU9rLTgtSXlVYVdGWEVuUDRZUkJVbmNSeDVrcHFfdGtRLVBScVRFM1BGNHlQT3ZfRnZfT1l3a2p0RmlQQ0FyN3hZSXB2N3VOdGx2X0I2cHc4U0dqSEdXZjNxdE5EWlRLR0xaQm9BRV9Xa3A0SEhwM0hKblJVSG5lUVNONmJiX01zMEh2d2REa1J5d2pyWE55Y09OZGltNGxQMDduYWJTX1pLYlJOYmJkZw?oc=5\" target=\"_blank\">Skretting took being the Polytech grad’s valedictorian as a ‘big surprise’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Lethbridge Herald</font>",
       "first_seen": "2026-05-23T12:32:17+00:00",
       "last_seen": "2026-05-23T12:32:17+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1871,
+      "headline": "Over 1,200 students receive degrees, diplomas and certificates at Lethbridge Polytechnic convocation - CTV News",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGRJV2ppa1lucjAybWc1a1FUNEdIY0QtWWROX2NWZFhyRUgxRy1ENjNJV19LX091ZTMxZ185UUJLM2lrOFFMZlJjM2VHV2RHNHAxeGhoMlhtUFYwTU11YWRKdXlHN19tUnM5RnNTSHhqdWtTSXhvYUhtSGxiMUNWTDVaVzRjZy14d0tIVXZQcU05S1RhTlhCWjliMGlMME5iYkJCNTF2dnlBb2gtMnB6V01JaXFTQTdGWXNZdjlXN1dNV3JxUjd6LWlKZW81V1ZkWHhXaw?oc=5\" target=\"_blank\">Over 1,200 students receive degrees, diplomas and certificates at Lethbridge Polytechnic convocation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>",
+      "first_seen": "2026-05-22T07:00:00+00:00",
+      "last_seen": "2026-05-22T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -18674,7 +18689,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -81948,6 +81963,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQME9jS2JnZWY1TXZVZmpIN3QyYjJUbXJyUF95U183THI5NTFDS2ZRengtNEJwWWp6S3hOOGs2a05SNmxpVld3XzhMUWxwOFRvWGY1UUJvY0Fmb2RPeGdZMDc0WjdDWEY4NEI3ekVlZ1N4VVhjWWhiUWRwT2xoSHRqYXBmalBuUVBvWWZKbWhBU2JHRmZ3TUFRd2ZWU3RDYnZHMXRLZ2dUUXdWN1FpYWxObWUwM0stSG8?oc=5\" target=\"_blank\">Revolucionario producto aumenta hasta 47% la sobrevivencia de salmones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 223528,
+      "story_id": 1871,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGRJV2ppa1lucjAybWc1a1FUNEdIY0QtWWROX2NWZFhyRUgxRy1ENjNJV19LX091ZTMxZ185UUJLM2lrOFFMZlJjM2VHV2RHNHAxeGhoMlhtUFYwTU11YWRKdXlHN19tUnM5RnNTSHhqdWtTSXhvYUhtSGxiMUNWTDVaVzRjZy14d0tIVXZQcU05S1RhTlhCWjliMGlMME5iYkJCNTF2dnlBb2gtMnB6V01JaXFTQTdGWXNZdjlXN1dNV3JxUjd6LWlKZW81V1ZkWHhXaw?oc=5",
+      "title": "Over 1,200 students receive degrees, diplomas and certificates at Lethbridge Polytechnic convocation - CTV News",
+      "source_name": "CTV News",
+      "language": "en",
+      "country": "CA",
+      "outlet_kind": "press",
+      "published_at": "2026-05-22T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbGRJV2ppa1lucjAybWc1a1FUNEdIY0QtWWROX2NWZFhyRUgxRy1ENjNJV19LX091ZTMxZ185UUJLM2lrOFFMZlJjM2VHV2RHNHAxeGhoMlhtUFYwTU11YWRKdXlHN19tUnM5RnNTSHhqdWtTSXhvYUhtSGxiMUNWTDVaVzRjZy14d0tIVXZQcU05S1RhTlhCWjliMGlMME5iYkJCNTF2dnlBb2gtMnB6V01JaXFTQTdGWXNZdjlXN1dNV3JxUjd6LWlKZW81V1ZkWHhXaw?oc=5\" target=\"_blank\">Over 1,200 students receive degrees, diplomas and certificates at Lethbridge Polytechnic convocation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>"
+    },
+    {
+      "id": 223801,
+      "story_id": 503,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE0ybjNJVExJNXBVeXRnZ004ODFGTGgwZ1lMWU5LMkM5cHQwWkhTLVpSaWxYOUhSdmQtWVQ4eVJrTTktY1JISnAwckRaajE1YlNzOU1HV1ZnVFJRWmFabzZEb1hhVWdXZ1FGRkJ3OXJPajNoeFl1UVlncnVabTl1NnRUVXlMTG1EeDBTeV94bDAxbV9tQ2U1Rjd6eV93bDBMSnJxT0pzQW9faVhUZVFFYXNEZGJ1Y2VZaC1BMVk1R3VSc1lBLVItNw?oc=5",
+      "title": "Skretting Chile y sus acciones hacia una acuicultura sostenible - Diario Sostenible",
+      "source_name": "Diario Sostenible",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-11-25T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE0ybjNJVExJNXBVeXRnZ004ODFGTGgwZ1lMWU5LMkM5cHQwWkhTLVpSaWxYOUhSdmQtWVQ4eVJrTTktY1JISnAwckRaajE1YlNzOU1HV1ZnVFJRWmFabzZEb1hhVWdXZ1FGRkJ3OXJPajNoeFl1UVlncnVabTl1NnRUVXlMTG1EeDBTeV94bDAxbV9tQ2U1Rjd6eV93bDBMSnJxT0pzQW9faVhUZVFFYXNEZGJ1Y2VZaC1BMVk1R3VSc1lBLVItNw?oc=5\" target=\"_blank\">Skretting Chile y sus acciones hacia una acuicultura sostenible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sostenible</font>"
     }
   ],
   "share_of_voice": {
@@ -84253,7 +84316,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2021-W48",
@@ -85997,7 +86060,7 @@
         "BioMar": 47,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2026-W22",
@@ -86059,7 +86122,7 @@
       },
       {
         "company": "Skretting",
-        "count": 775
+        "count": 777
       }
     ]
   }
