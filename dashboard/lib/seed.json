@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-23T12:18:37+00:00",
+  "generated_at": "2026-06-23T17:58:33+00:00",
   "stats": {
-    "mention_count": 2292,
-    "story_count": 1849,
+    "mention_count": 2295,
+    "story_count": 1850,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 44
@@ -66,6 +66,7 @@
     "Diario De Puerto Montt",
     "Diario Digital El Calbucano",
     "Diario Financiero",
+    "Diario Palentino",
     "Diario Red",
     "Diario Regional Aysén",
     "Diario Sostenible",
@@ -439,7 +440,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 165,
+      "pickup_count": 166,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1073,6 +1074,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1872,
+      "headline": "De vil samle unge i bygg, anlegg og industribransjen: – Vi savner et møtested - Jærbladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWtMaEQ5OW5BOWY3eWhjand4U2tpYldyNGR3ZkRaWU1GcFZGcHhqUmJtQ3BBMVhnd0xZbFZnX2JSV0dqcjZjTDl4dmJXZkxQZTlzNGJXWm44SXlEUkdWMjJyeVF0QmJkaFJvZ2ZuY3ZtbENXRkFZRHlGa0VtX0c2UWtFbzAtaGNXMGFBXzFJb09kVnFSaGhQc3JGOW9SZXluazZOSGc3MUJwNXg4?oc=5\" target=\"_blank\">De vil samle unge i bygg, anlegg og industribransjen: – Vi savner et møtested</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
+      "first_seen": "2026-06-01T07:00:00+00:00",
+      "last_seen": "2026-06-01T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1597,
@@ -5713,7 +5728,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -82011,6 +82026,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZE0ybjNJVExJNXBVeXRnZ004ODFGTGgwZ1lMWU5LMkM5cHQwWkhTLVpSaWxYOUhSdmQtWVQ4eVJrTTktY1JISnAwckRaajE1YlNzOU1HV1ZnVFJRWmFabzZEb1hhVWdXZ1FGRkJ3OXJPajNoeFl1UVlncnVabTl1NnRUVXlMTG1EeDBTeV94bDAxbV9tQ2U1Rjd6eV93bDBMSnJxT0pzQW9faVhUZVFFYXNEZGJ1Y2VZaC1BMVk1R3VSc1lBLVItNw?oc=5\" target=\"_blank\">Skretting Chile y sus acciones hacia una acuicultura sostenible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sostenible</font>"
+    },
+    {
+      "id": 223971,
+      "story_id": 1651,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUtaZjFCWnpFaWI5UUVoeTdjYWkxRUhjc3hBblVTbk1DRkVBS05qZVJXdjdtdE44YmFBMUVJaWJqNTkzR1ZlSTlYVnRXcVZFVzNDT0g5cDdxY2lobnl5YWVUaDNrZmlHeWFjSWdzT2JLSmRKSHNreUZ4UFlrZi0zTy1mVHVnQkVQMWJ4eEpHZkV2aEZsb1BMSUtZNnczTjYxUUdOX1RVVQ?oc=5",
+      "title": "Book value per share of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-07T21:37:24+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUtaZjFCWnpFaWI5UUVoeTdjYWkxRUhjc3hBblVTbk1DRkVBS05qZVJXdjdtdE44YmFBMUVJaWJqNTkzR1ZlSTlYVnRXcVZFVzNDT0g5cDdxY2lobnl5YWVUaDNrZmlHeWFjSWdzT2JLSmRKSHNreUZ4UFlrZi0zTy1mVHVnQkVQMWJ4eEpHZkV2aEZsb1BMSUtZNnczTjYxUUdOX1RVVQ?oc=5\" target=\"_blank\">Book value per share of BioMar Group A/S – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 224311,
+      "story_id": 1481,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkh5UUEyX2VwZld2VnEzbW5RWkVja0VEWlhtLTlPaUM4Qjd3QnZ2WlFFNTlQblNnSGM2eGxBRlpVa19jdzBkUHhidnNSbVdjZ1U4dGJGZUlvLThTenAzR0FJajNHUU9vYXptTk5QMjdnTDlhWmFhQWFjcFp3OWk2RHQyTEJZNDZ3WVd0dm1FeGRhQ2hPTU9zWENNZklMbGtkeEVvUFl5TEl2OWJzMENwLUVrT3paZHdtR0tkdXJWbkh1U2swSFQ0R3h0WC1XQQ?oc=5",
+      "title": "Golpe a Biomar, más allá del fraude de 300 millones - Diario Palentino",
+      "source_name": "Diario Palentino",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-01-04T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkh5UUEyX2VwZld2VnEzbW5RWkVja0VEWlhtLTlPaUM4Qjd3QnZ2WlFFNTlQblNnSGM2eGxBRlpVa19jdzBkUHhidnNSbVdjZ1U4dGJGZUlvLThTenAzR0FJajNHUU9vYXptTk5QMjdnTDlhWmFhQWFjcFp3OWk2RHQyTEJZNDZ3WVd0dm1FeGRhQ2hPTU9zWENNZklMbGtkeEVvUFl5TEl2OWJzMENwLUVrT3paZHdtR0tkdXJWbkh1U2swSFQ0R3h0WC1XQQ?oc=5\" target=\"_blank\">Golpe a Biomar, más allá del fraude de 300 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Palentino</font>"
+    },
+    {
+      "id": 224572,
+      "story_id": 1872,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWtMaEQ5OW5BOWY3eWhjand4U2tpYldyNGR3ZkRaWU1GcFZGcHhqUmJtQ3BBMVhnd0xZbFZnX2JSV0dqcjZjTDl4dmJXZkxQZTlzNGJXWm44SXlEUkdWMjJyeVF0QmJkaFJvZ2ZuY3ZtbENXRkFZRHlGa0VtX0c2UWtFbzAtaGNXMGFBXzFJb09kVnFSaGhQc3JGOW9SZXluazZOSGc3MUJwNXg4?oc=5",
+      "title": "De vil samle unge i bygg, anlegg og industribransjen: – Vi savner et møtested - Jærbladet",
+      "source_name": "Jærbladet",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWtMaEQ5OW5BOWY3eWhjand4U2tpYldyNGR3ZkRaWU1GcFZGcHhqUmJtQ3BBMVhnd0xZbFZnX2JSV0dqcjZjTDl4dmJXZkxQZTlzNGJXWm44SXlEUkdWMjJyeVF0QmJkaFJvZ2ZuY3ZtbENXRkFZRHlGa0VtX0c2UWtFbzAtaGNXMGFBXzFJb09kVnFSaGhQc3JGOW9SZXluazZOSGc3MUJwNXg4?oc=5\" target=\"_blank\">De vil samle unge i bygg, anlegg og industribransjen: – Vi savner et møtested</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>"
     }
   ],
   "share_of_voice": {
@@ -85897,7 +85984,7 @@
       {
         "week": "2026-W01",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 4
@@ -86073,10 +86160,10 @@
       {
         "week": "2026-W23",
         "Aller Aqua": 0,
-        "BioMar": 160,
+        "BioMar": 161,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 7
+        "Skretting": 8
       },
       {
         "week": "2026-W24",
@@ -86110,7 +86197,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1111
+        "count": 1113
       },
       {
         "company": "Cargill",
@@ -86122,7 +86209,7 @@
       },
       {
         "company": "Skretting",
-        "count": 777
+        "count": 778
       }
     ]
   }
