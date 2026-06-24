@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-24T12:03:38+00:00",
+  "generated_at": "2026-06-24T17:56:18+00:00",
   "stats": {
-    "mention_count": 2302,
+    "mention_count": 2303,
     "story_count": 1856,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -2276,7 +2276,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -82350,6 +82350,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPazVFMzc4TTEzZG96Q1dGeU0wSlplUzE2ZTJISm5TMFdLNVNwM09neWZIUGc3V2RuUWFjNWpaaFVaRXBsUi0ybDZuU0JzaGxhZWkyRWJadkJYOHBQNHFGNHdnaHdSaVBhdnREdDhmNEdzZDQtZ1dUcUtHY3BUQnhHcnRLRUJISFB4aXJyTXlUU1A0M0lmXzY4WUx6UEIyS1NfY1HSAaIBQVVfeXFMT2s1RTM3OE0xM2RvekNXRnlNMEpaZVMxNmUySEpuUzBXSzVTcDNPZ3lmSFBnN1dkblFhYzVqWmhVWkVwbFItMmw2blNCc2hsYWVpMkViWnZCWDhwUDRxRjR3Z2h3UmlQYXZ0RHQ4ZjRHc2Q0LWdXVHFLR2NwVEJ4R3J0S0VCSEhQeGlyck15VFNQNDNJZl82OFlMelBCMktTX2NR?oc=5\" target=\"_blank\">Skretting to acquire Australian salmon feed facility for €35 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 228785,
+      "story_id": 1854,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YLVhESkxpWUdLdzJ3ZGI5dmxRTXFVWGlyOWpuVmNhSkVhV3FDVktmRk5vVi1ELTAxOU1LeXl5akhCQnE2NFRBeW8zNmRWeHNTVDhRSW5Ebi1TWkxjWDd1OXlnRXFUYXhqZUFxNDdfTE40a3pRWEJB?oc=5",
+      "title": "Un mes para la celebración de AquaVision 2026, con un programa marcado por la geopolítica y la innovación - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9YLVhESkxpWUdLdzJ3ZGI5dmxRTXFVWGlyOWpuVmNhSkVhV3FDVktmRk5vVi1ELTAxOU1LeXl5akhCQnE2NFRBeW8zNmRWeHNTVDhRSW5Ebi1TWkxjWDd1OXlnRXFUYXhqZUFxNDdfTE40a3pRWEJB?oc=5\" target=\"_blank\">Un mes para la celebración de AquaVision 2026, con un programa marcado por la geopolítica y la innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
     }
   ],
   "share_of_voice": {
@@ -86399,7 +86423,7 @@
         "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 20
+        "Skretting": 21
       },
       {
         "week": "2026-W20",
@@ -86477,7 +86501,7 @@
       },
       {
         "company": "Skretting",
-        "count": 783
+        "count": 784
       }
     ]
   }
