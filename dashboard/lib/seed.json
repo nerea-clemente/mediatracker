@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T11:57:40+00:00",
+  "generated_at": "2026-06-26T17:50:00+00:00",
   "stats": {
-    "mention_count": 2323,
-    "story_count": 1872,
+    "mention_count": 2325,
+    "story_count": 1874,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -319,6 +319,34 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1896,
+      "headline": "Schouw & Co Actuals & Estimates (DUS:5RF) - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjVqc1BpdjB5Vjd3M1ZZbE11VC1GSktiRzFmcUJnc0ZtSFV5eGxvQlZVM2RIb2ZKX3FNWHRYaGZpd1pDdEloZXNZUUd4SVFLX2hOcWF4dU02R3J3LTdZNHZGRGhlWDVndkhmdjBPQzhKOTlMdzc3R1lKUW4yZklOSg?oc=5\" target=\"_blank\">Schouw & Co Actuals & Estimates (DUS:5RF)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-06-26T12:04:28+00:00",
+      "last_seen": "2026-06-26T12:04:28+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1895,
+      "headline": "Basic earnings per share (basic EPS) de BioMar Group A/S – FWB:2IT - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHZybFM4RWdOcXNEdGRacnlUN0FaakVhUldrd0JQTUJkT25mY0N3Y1lxeWRKUklQRUY0dG14ME5NbWxWVmd0MjFxampHMjI1SUZFZVR1RGV2RC1uV21DRldoLU10MkY2OXpoUDdZSHVBYTFwRGEzOEswd0hBLUE2YmxveUNEandpYTI0UzdLYk44SnVkRGhZNDdvV0g?oc=5\" target=\"_blank\">Basic earnings per share (basic EPS) de BioMar Group A/S – FWB:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-06-26T02:46:09+00:00",
+      "last_seen": "2026-06-26T02:46:09+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1873,
       "headline": "BioMar A/S : Stabilisation measures taken - marketscreener.com",
@@ -83079,6 +83107,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVjZUQjRVVFFneW1kQU1YMHNWekNSYlA0cXVGdlJmTG5jem9tR2MxOTdVaVVUOXBkWHNtaGVwQUFMUnhUVkg3dk1sQzRrUlYyNjJWcmlDYWhYZw?oc=5\" target=\"_blank\">Gjesdal | Fremskrittspartiet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fremskrittspartiet - FrP.</font>"
+    },
+    {
+      "id": 236278,
+      "story_id": 1895,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHZybFM4RWdOcXNEdGRacnlUN0FaakVhUldrd0JQTUJkT25mY0N3Y1lxeWRKUklQRUY0dG14ME5NbWxWVmd0MjFxampHMjI1SUZFZVR1RGV2RC1uV21DRldoLU10MkY2OXpoUDdZSHVBYTFwRGEzOEswd0hBLUE2YmxveUNEandpYTI0UzdLYk44SnVkRGhZNDdvV0g?oc=5",
+      "title": "Basic earnings per share (basic EPS) de BioMar Group A/S – FWB:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-26T02:46:09+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHZybFM4RWdOcXNEdGRacnlUN0FaakVhUldrd0JQTUJkT25mY0N3Y1lxeWRKUklQRUY0dG14ME5NbWxWVmd0MjFxampHMjI1SUZFZVR1RGV2RC1uV21DRldoLU10MkY2OXpoUDdZSHVBYTFwRGEzOEswd0hBLUE2YmxveUNEandpYTI0UzdLYk44SnVkRGhZNDdvV0g?oc=5\" target=\"_blank\">Basic earnings per share (basic EPS) de BioMar Group A/S – FWB:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 236378,
+      "story_id": 1896,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjVqc1BpdjB5Vjd3M1ZZbE11VC1GSktiRzFmcUJnc0ZtSFV5eGxvQlZVM2RIb2ZKX3FNWHRYaGZpd1pDdEloZXNZUUd4SVFLX2hOcWF4dU02R3J3LTdZNHZGRGhlWDVndkhmdjBPQzhKOTlMdzc3R1lKUW4yZklOSg?oc=5",
+      "title": "Schouw & Co Actuals & Estimates (DUS:5RF) - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-26T12:04:28+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjVqc1BpdjB5Vjd3M1ZZbE11VC1GSktiRzFmcUJnc0ZtSFV5eGxvQlZVM2RIb2ZKX3FNWHRYaGZpd1pDdEloZXNZUUd4SVFLX2hOcWF4dU02R3J3LTdZNHZGRGhlWDVndkhmdjBPQzhKOTlMdzc3R1lKUW4yZklOSg?oc=5\" target=\"_blank\">Schouw & Co Actuals & Estimates (DUS:5RF)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
     }
   ],
   "share_of_voice": {
@@ -87213,7 +87289,7 @@
       {
         "week": "2026-W26",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 7,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -87226,7 +87302,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1133
+        "count": 1135
       },
       {
         "company": "Cargill",
