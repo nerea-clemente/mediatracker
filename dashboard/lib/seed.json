@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T08:38:56+00:00",
+  "generated_at": "2026-06-26T11:57:40+00:00",
   "stats": {
-    "mention_count": 2321,
-    "story_count": 1870,
+    "mention_count": 2323,
+    "story_count": 1872,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -115,6 +115,7 @@
     "Forbes Ecuador",
     "Forsvarets forskningsinstitutt (FFI)",
     "FotMob",
+    "Fremskrittspartiet - FrP.",
     "FriFagbevegelse",
     "Global Seafood Alliance",
     "GlobeNewswire",
@@ -763,6 +764,20 @@
         "financial"
       ],
       "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1894,
+      "headline": "Sissener: – Aksjen har gått som en kule - Finansavisen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXpfSDBkOUJVZS1OVkI0VUd2elNrTU5xZExxdUN2RzZKT2I5c1hCSzR4a3ZlM09jcTlHNWJsT2ZZQWNQZEVVMVhieUpGNVNNSDVCWTdsRFN6UzJ2UGZpZlVPRXVZVU52LURwd08wSkVwYkxINk5DTWNDaW9pc0haTUJnVE9ySUk0VFBRSkxnNFRTTEx4?oc=5\" target=\"_blank\">Sissener: – Aksjen har gått som en kule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
+      "first_seen": "2026-06-08T07:00:00+00:00",
+      "last_seen": "2026-06-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -25362,6 +25377,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1893,
+      "headline": "Gjesdal | Fremskrittspartiet - Fremskrittspartiet - FrP.",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVjZUQjRVVFFneW1kQU1YMHNWekNSYlA0cXVGdlJmTG5jem9tR2MxOTdVaVVUOXBkWHNtaGVwQUFMUnhUVkg3dk1sQzRrUlYyNjJWcmlDYWhYZw?oc=5\" target=\"_blank\">Gjesdal | Fremskrittspartiet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fremskrittspartiet - FrP.</font>",
+      "first_seen": "2015-03-18T23:41:16+00:00",
+      "last_seen": "2015-03-18T23:41:16+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 398,
@@ -83002,6 +83031,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2pWSjZMY0tQdHlMYWZVNUpTaG8yOHlLVVJvUHBGakh6RDZYUWJtTDdQVE1mbnhHeXdYTGpkUFZBc2h6OW96QnJGNVAwazAzNFlPU04ybHNpUjU2MFYtY1BTQlhiUVRmT2NVMl9ncnhKTU03OUJSZ3hXWi1JVXVnU0NhdVBCMDFUaEhZT29KUm1QcFpXMnA4NGEyVXhPZllKbHpZYXVfbVJDakVYRTRMcV9GS0tZOHpFbS1qd2h0dENwRXNtUTRLbXEtY3ZxYnhOZ0FNU0NrTXd4Ty1oRlBnWTRUbFHSAeoBQVVfeXFMT1RsRXZsMTRKOVlTcUxlOFhWdWZoWExxemU2WnJhWXc1dEtBa1JkdTZtUmQ4enhlcml6U014cHVvZTRaMkdBb3FoQkpLbkE2dk1oZXhzTlZiS1czNDRISERTcG5PWE5heno0dHhKUlJjeXNDeFB3SnpLWGx3bnpOT0JDWi1JbU9hMGFTbmVlc0tpQ0Vmb2puby1WS3BtU2NOaVh1UklaUzBYdVJGYmFUZ3JpOGdRb0hfYk50SC1McTBxMURMRUJMdnhZWWxhMGVVRVBXVUJ6SG5ESFFfdm5tUlRPUXJkN3dLT05n?oc=5\" target=\"_blank\">El Supremo examina la transparencia del Gobierno en los certificados que inquietan al sector de los hidrocarburos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vozpopuli</font>"
+    },
+    {
+      "id": 235186,
+      "story_id": 1894,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXpfSDBkOUJVZS1OVkI0VUd2elNrTU5xZExxdUN2RzZKT2I5c1hCSzR4a3ZlM09jcTlHNWJsT2ZZQWNQZEVVMVhieUpGNVNNSDVCWTdsRFN6UzJ2UGZpZlVPRXVZVU52LURwd08wSkVwYkxINk5DTWNDaW9pc0haTUJnVE9ySUk0VFBRSkxnNFRTTEx4?oc=5",
+      "title": "Sissener: – Aksjen har gått som en kule - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-08T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXpfSDBkOUJVZS1OVkI0VUd2elNrTU5xZExxdUN2RzZKT2I5c1hCSzR4a3ZlM09jcTlHNWJsT2ZZQWNQZEVVMVhieUpGNVNNSDVCWTdsRFN6UzJ2UGZpZlVPRXVZVU52LURwd08wSkVwYkxINk5DTWNDaW9pc0haTUJnVE9ySUk0VFBRSkxnNFRTTEx4?oc=5\" target=\"_blank\">Sissener: – Aksjen har gått som en kule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+    },
+    {
+      "id": 235741,
+      "story_id": 1893,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVjZUQjRVVFFneW1kQU1YMHNWekNSYlA0cXVGdlJmTG5jem9tR2MxOTdVaVVUOXBkWHNtaGVwQUFMUnhUVkg3dk1sQzRrUlYyNjJWcmlDYWhYZw?oc=5",
+      "title": "Gjesdal | Fremskrittspartiet - Fremskrittspartiet - FrP.",
+      "source_name": "Fremskrittspartiet - FrP.",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2015-03-18T23:41:16+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVjZUQjRVVFFneW1kQU1YMHNWekNSYlA0cXVGdlJmTG5jem9tR2MxOTdVaVVUOXBkWHNtaGVwQUFMUnhUVkg3dk1sQzRrUlYyNjJWcmlDYWhYZw?oc=5\" target=\"_blank\">Gjesdal | Fremskrittspartiet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fremskrittspartiet - FrP.</font>"
     }
   ],
   "share_of_voice": {
@@ -83492,6 +83569,14 @@
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2015-W12",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2015-W13",
@@ -87112,7 +87197,7 @@
       {
         "week": "2026-W24",
         "Aller Aqua": 0,
-        "BioMar": 41,
+        "BioMar": 42,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 13
@@ -87141,7 +87226,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1132
+        "count": 1133
       },
       {
         "company": "Cargill",
@@ -87153,7 +87238,7 @@
       },
       {
         "company": "Skretting",
-        "count": 785
+        "count": 786
       }
     ]
   }
