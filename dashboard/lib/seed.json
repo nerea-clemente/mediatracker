@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-26T17:50:00+00:00",
+  "generated_at": "2026-06-26T23:02:08+00:00",
   "stats": {
-    "mention_count": 2325,
-    "story_count": 1874,
+    "mention_count": 2327,
+    "story_count": 1876,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -319,6 +319,34 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1898,
+      "headline": "BioMar A/S : Reporting of transactions made by persons discharging managerial responsibilities and their closely associated persons - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbDM3UXFVSGxzYVRlTVUwbnd3X2tRbmNpT3JWVGR0aUw5RlRESUFiVDFIc2ZBTnRuV1VsYlc3cFgxUDhZak9jZEN2cjJ4VFBjXzNrQ1I4ODQzTlVIQ3p6SFg1R0NhbVNNUERUdU14YV9VS2FiRTI5UHVYRk8tUHY5TndLX2dOMzZkMW8xWGFiVVFVcDA4LTAwNkxOdmZuVzRDV0RZbzBoVnlGYVdRVnpKSEFnRVhuVkdRelc3Y1c2UTVGUkU4Q3Q0cHctTkFqN1lDb0c2cVhITFhsanlXTXkzUlhaTmtTUQ?oc=5\" target=\"_blank\">BioMar A/S : Reporting of transactions made by persons discharging managerial responsibilities and their closely associated persons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-06-26T19:25:05+00:00",
+      "last_seen": "2026-06-26T19:25:05+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1897,
+      "headline": "BioMar A/S : Partial exercise of overallotment option in connection with the initial public offering of BioMar Group A/S - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ000LWJSSk5PdEVvNmhiYUVJcnY0XzYtdS1iSmd1YWFKZmhpMVZzdnhMS1ZqSk9jUHkwbVdaUm1MRmprX1hSOTVfRURVQzluRU0xeS00TzE3VzlCQlRHN2VkODEwckdIOTdQWXM5MHF3Ml9RWTZLSWk1MnBwTjRqVjVmdm5ESmxjMUhlTDV2bTlkbnoxZ2xPbm5EOGdjSE9EUHpuajZaNWZaRFNnTXEyQVA1X01RRHBLMzBwcEhpeTM2cnBKb2lsLTZ0UFZVOGpuMTFEVkZ4d1pFUjRJNU5BM3lNeVlPdw?oc=5\" target=\"_blank\">BioMar A/S : Partial exercise of overallotment option in connection with the initial public offering of BioMar Group A/S</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-06-26T19:19:10+00:00",
+      "last_seen": "2026-06-26T19:19:10+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1896,
       "headline": "Schouw & Co Actuals & Estimates (DUS:5RF) - TradingView",
@@ -83155,6 +83183,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjVqc1BpdjB5Vjd3M1ZZbE11VC1GSktiRzFmcUJnc0ZtSFV5eGxvQlZVM2RIb2ZKX3FNWHRYaGZpd1pDdEloZXNZUUd4SVFLX2hOcWF4dU02R3J3LTdZNHZGRGhlWDVndkhmdjBPQzhKOTlMdzc3R1lKUW4yZklOSg?oc=5\" target=\"_blank\">Schouw & Co Actuals & Estimates (DUS:5RF)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 237000,
+      "story_id": 1897,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ000LWJSSk5PdEVvNmhiYUVJcnY0XzYtdS1iSmd1YWFKZmhpMVZzdnhMS1ZqSk9jUHkwbVdaUm1MRmprX1hSOTVfRURVQzluRU0xeS00TzE3VzlCQlRHN2VkODEwckdIOTdQWXM5MHF3Ml9RWTZLSWk1MnBwTjRqVjVmdm5ESmxjMUhlTDV2bTlkbnoxZ2xPbm5EOGdjSE9EUHpuajZaNWZaRFNnTXEyQVA1X01RRHBLMzBwcEhpeTM2cnBKb2lsLTZ0UFZVOGpuMTFEVkZ4d1pFUjRJNU5BM3lNeVlPdw?oc=5",
+      "title": "BioMar A/S : Partial exercise of overallotment option in connection with the initial public offering of BioMar Group A/S - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-26T19:19:10+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ000LWJSSk5PdEVvNmhiYUVJcnY0XzYtdS1iSmd1YWFKZmhpMVZzdnhMS1ZqSk9jUHkwbVdaUm1MRmprX1hSOTVfRURVQzluRU0xeS00TzE3VzlCQlRHN2VkODEwckdIOTdQWXM5MHF3Ml9RWTZLSWk1MnBwTjRqVjVmdm5ESmxjMUhlTDV2bTlkbnoxZ2xPbm5EOGdjSE9EUHpuajZaNWZaRFNnTXEyQVA1X01RRHBLMzBwcEhpeTM2cnBKb2lsLTZ0UFZVOGpuMTFEVkZ4d1pFUjRJNU5BM3lNeVlPdw?oc=5\" target=\"_blank\">BioMar A/S : Partial exercise of overallotment option in connection with the initial public offering of BioMar Group A/S</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 237009,
+      "story_id": 1898,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbDM3UXFVSGxzYVRlTVUwbnd3X2tRbmNpT3JWVGR0aUw5RlRESUFiVDFIc2ZBTnRuV1VsYlc3cFgxUDhZak9jZEN2cjJ4VFBjXzNrQ1I4ODQzTlVIQ3p6SFg1R0NhbVNNUERUdU14YV9VS2FiRTI5UHVYRk8tUHY5TndLX2dOMzZkMW8xWGFiVVFVcDA4LTAwNkxOdmZuVzRDV0RZbzBoVnlGYVdRVnpKSEFnRVhuVkdRelc3Y1c2UTVGUkU4Q3Q0cHctTkFqN1lDb0c2cVhITFhsanlXTXkzUlhaTmtTUQ?oc=5",
+      "title": "BioMar A/S : Reporting of transactions made by persons discharging managerial responsibilities and their closely associated persons - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-26T19:25:05+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbDM3UXFVSGxzYVRlTVUwbnd3X2tRbmNpT3JWVGR0aUw5RlRESUFiVDFIc2ZBTnRuV1VsYlc3cFgxUDhZak9jZEN2cjJ4VFBjXzNrQ1I4ODQzTlVIQ3p6SFg1R0NhbVNNUERUdU14YV9VS2FiRTI5UHVYRk8tUHY5TndLX2dOMzZkMW8xWGFiVVFVcDA4LTAwNkxOdmZuVzRDV0RZbzBoVnlGYVdRVnpKSEFnRVhuVkdRelc3Y1c2UTVGUkU4Q3Q0cHctTkFqN1lDb0c2cVhITFhsanlXTXkzUlhaTmtTUQ?oc=5\" target=\"_blank\">BioMar A/S : Reporting of transactions made by persons discharging managerial responsibilities and their closely associated persons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
     }
   ],
   "share_of_voice": {
@@ -87289,7 +87365,7 @@
       {
         "week": "2026-W26",
         "Aller Aqua": 0,
-        "BioMar": 7,
+        "BioMar": 9,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -87302,7 +87378,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1135
+        "count": 1137
       },
       {
         "company": "Cargill",
