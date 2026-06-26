@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-25T23:13:45+00:00",
+  "generated_at": "2026-06-26T08:38:56+00:00",
   "stats": {
-    "mention_count": 2320,
-    "story_count": 1869,
+    "mention_count": 2321,
+    "story_count": 1870,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -409,6 +409,20 @@
       "first_seen": "2026-06-16T10:47:37+00:00",
       "last_seen": "2026-06-16T10:47:37+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1892,
+      "headline": "El Supremo examina la transparencia del Gobierno en los certificados que inquietan al sector de los hidrocarburos - Vozpopuli",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2pWSjZMY0tQdHlMYWZVNUpTaG8yOHlLVVJvUHBGakh6RDZYUWJtTDdQVE1mbnhHeXdYTGpkUFZBc2h6OW96QnJGNVAwazAzNFlPU04ybHNpUjU2MFYtY1BTQlhiUVRmT2NVMl9ncnhKTU03OUJSZ3hXWi1JVXVnU0NhdVBCMDFUaEhZT29KUm1QcFpXMnA4NGEyVXhPZllKbHpZYXVfbVJDakVYRTRMcV9GS0tZOHpFbS1qd2h0dENwRXNtUTRLbXEtY3ZxYnhOZ0FNU0NrTXd4Ty1oRlBnWTRUbFHSAeoBQVVfeXFMT1RsRXZsMTRKOVlTcUxlOFhWdWZoWExxemU2WnJhWXc1dEtBa1JkdTZtUmQ4enhlcml6U014cHVvZTRaMkdBb3FoQkpLbkE2dk1oZXhzTlZiS1czNDRISERTcG5PWE5heno0dHhKUlJjeXNDeFB3SnpLWGx3bnpOT0JDWi1JbU9hMGFTbmVlc0tpQ0Vmb2puby1WS3BtU2NOaVh1UklaUzBYdVJGYmFUZ3JpOGdRb0hfYk50SC1McTBxMURMRUJMdnhZWWxhMGVVRVBXVUJ6SG5ESFFfdm5tUlRPUXJkN3dLT05n?oc=5\" target=\"_blank\">El Supremo examina la transparencia del Gobierno en los certificados que inquietan al sector de los hidrocarburos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vozpopuli</font>",
+      "first_seen": "2026-06-16T07:00:00+00:00",
+      "last_seen": "2026-06-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -82964,6 +82978,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9ueTNBREM4TkRGQ3AxTTlvVlRpQ0hzSjBGMlBhWlFnTGU3TXJrUmpDcXRoVGgwNE5TNnZBR3FfaThjUkc5QnNtc2NST0xyb1VmOU9yYTZuc0E4VHpzS203UldYdE1oYVFzQ1FaQm16M2FmU29Gcm5BYWVIamM?oc=5\" target=\"_blank\">BioMar to DNA test aquafeed ingredients</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 234393,
+      "story_id": 1892,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2pWSjZMY0tQdHlMYWZVNUpTaG8yOHlLVVJvUHBGakh6RDZYUWJtTDdQVE1mbnhHeXdYTGpkUFZBc2h6OW96QnJGNVAwazAzNFlPU04ybHNpUjU2MFYtY1BTQlhiUVRmT2NVMl9ncnhKTU03OUJSZ3hXWi1JVXVnU0NhdVBCMDFUaEhZT29KUm1QcFpXMnA4NGEyVXhPZllKbHpZYXVfbVJDakVYRTRMcV9GS0tZOHpFbS1qd2h0dENwRXNtUTRLbXEtY3ZxYnhOZ0FNU0NrTXd4Ty1oRlBnWTRUbFHSAeoBQVVfeXFMT1RsRXZsMTRKOVlTcUxlOFhWdWZoWExxemU2WnJhWXc1dEtBa1JkdTZtUmQ4enhlcml6U014cHVvZTRaMkdBb3FoQkpLbkE2dk1oZXhzTlZiS1czNDRISERTcG5PWE5heno0dHhKUlJjeXNDeFB3SnpLWGx3bnpOT0JDWi1JbU9hMGFTbmVlc0tpQ0Vmb2puby1WS3BtU2NOaVh1UklaUzBYdVJGYmFUZ3JpOGdRb0hfYk50SC1McTBxMURMRUJMdnhZWWxhMGVVRVBXVUJ6SG5ESFFfdm5tUlRPUXJkN3dLT05n?oc=5",
+      "title": "El Supremo examina la transparencia del Gobierno en los certificados que inquietan al sector de los hidrocarburos - Vozpopuli",
+      "source_name": "Vozpopuli",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-16T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2pWSjZMY0tQdHlMYWZVNUpTaG8yOHlLVVJvUHBGakh6RDZYUWJtTDdQVE1mbnhHeXdYTGpkUFZBc2h6OW96QnJGNVAwazAzNFlPU04ybHNpUjU2MFYtY1BTQlhiUVRmT2NVMl9ncnhKTU03OUJSZ3hXWi1JVXVnU0NhdVBCMDFUaEhZT29KUm1QcFpXMnA4NGEyVXhPZllKbHpZYXVfbVJDakVYRTRMcV9GS0tZOHpFbS1qd2h0dENwRXNtUTRLbXEtY3ZxYnhOZ0FNU0NrTXd4Ty1oRlBnWTRUbFHSAeoBQVVfeXFMT1RsRXZsMTRKOVlTcUxlOFhWdWZoWExxemU2WnJhWXc1dEtBa1JkdTZtUmQ4enhlcml6U014cHVvZTRaMkdBb3FoQkpLbkE2dk1oZXhzTlZiS1czNDRISERTcG5PWE5heno0dHhKUlJjeXNDeFB3SnpLWGx3bnpOT0JDWi1JbU9hMGFTbmVlc0tpQ0Vmb2puby1WS3BtU2NOaVh1UklaUzBYdVJGYmFUZ3JpOGdRb0hfYk50SC1McTBxMURMRUJMdnhZWWxhMGVVRVBXVUJ6SG5ESFFfdm5tUlRPUXJkN3dLT05n?oc=5\" target=\"_blank\">El Supremo examina la transparencia del Gobierno en los certificados que inquietan al sector de los hidrocarburos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vozpopuli</font>"
     }
   ],
   "share_of_voice": {
@@ -87082,7 +87120,7 @@
       {
         "week": "2026-W25",
         "Aller Aqua": 0,
-        "BioMar": 7,
+        "BioMar": 8,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -87103,7 +87141,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1131
+        "count": 1132
       },
       {
         "company": "Cargill",
