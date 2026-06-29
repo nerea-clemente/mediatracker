@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-28T22:58:59+00:00",
+  "generated_at": "2026-06-29T10:08:00+00:00",
   "stats": {
-    "mention_count": 2345,
-    "story_count": 1888,
+    "mention_count": 2348,
+    "story_count": 1889,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -15123,7 +15123,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -15837,7 +15837,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -25898,6 +25898,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1911,
+      "headline": "Øksnes | Biomar ikke fornøyd med resultatet - Bladet Vesterålen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxONXVLSVJ3aWNRMnItREhFNlg2U3JTTld6ZXp1SDhQX3NVUHlaamtEZ1l3VEJJclV2ZGtPR1JXc1JuSFpZR05pRGVXdWxreDlkQjEycmlPLV9MOWlFVzNnUW1zRXJZLVVKLXhqMk5DYk14VFE4ZTVVOWFmQ2hXV2tUbVF2bFZtUFk?oc=5\" target=\"_blank\">Øksnes | Biomar ikke fornøyd med resultatet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>",
+      "first_seen": "2014-09-12T07:00:00+00:00",
+      "last_seen": "2014-09-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1861,
@@ -83834,6 +83848,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcWFBZFd4ME1qV2Nra29vTlFnbFk3YUp0LVAyNGVsdng1d3l3QUZFcUxHcXlDZG5KRlBHMGtST0FWdTBXN1RfZ0h1bjdSRnJyZEp6TFRoU3dJNXRJR1ZmVTEtWUxHTFdGb0pueGZ3UEo0NU1ITm95Zg?oc=5\" target=\"_blank\">EGI - ny vekstmodell fra EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 246271,
+      "story_id": 1911,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXVLSVJ3aWNRMnItREhFNlg2U3JTTld6ZXp1SDhQX3NVUHlaamtEZ1l3VEJJclV2ZGtPR1JXc1JuSFpZR05pRGVXdWxreDlkQjEycmlPLV9MOWlFVzNnUW1zRXJZLVVKLXhqMk5DYk14VFE4ZTVVOWFmQ2hXV2tUbVF2bFZtUFk?oc=5",
+      "title": "Øksnes | Biomar ikke fornøyd med resultatet - Bladet Vesterålen",
+      "source_name": "Bladet Vesterålen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2014-09-12T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxONXVLSVJ3aWNRMnItREhFNlg2U3JTTld6ZXp1SDhQX3NVUHlaamtEZ1l3VEJJclV2ZGtPR1JXc1JuSFpZR05pRGVXdWxreDlkQjEycmlPLV9MOWlFVzNnUW1zRXJZLVVKLXhqMk5DYk14VFE4ZTVVOWFmQ2hXV2tUbVF2bFZtUFk?oc=5\" target=\"_blank\">Øksnes | Biomar ikke fornøyd med resultatet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>"
+    },
+    {
+      "id": 246662,
+      "story_id": 1005,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeG9NdTBKZW1NTzlIMVFkVUc1OUp0YjlQTGFacVUzb2FvaXAza3h0UF9IQk00Ml9DVmFmMm01MU1UYzhYMnRKWkF0NkZqcG9fNTlIRkp0SjFpNzhydXJMMjhRb1BYZnhqUUx4MVotbmZGUjlQMjdhVWQtcEJWNUdLNTczQWc0MDZaTU5TODJYZkQwejBDYjRvcGxjZ0hFNjJXREJfd29mVjVxWFhSdHZ0NUpDWUFnTTNQdnZzRQ?oc=5",
+      "title": "Skretting partners with Zooca Calanus to develop copepod-based aquaculture feeds - Global Seafood Alliance",
+      "source_name": "Global Seafood Alliance",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2023-11-27T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNeG9NdTBKZW1NTzlIMVFkVUc1OUp0YjlQTGFacVUzb2FvaXAza3h0UF9IQk00Ml9DVmFmMm01MU1UYzhYMnRKWkF0NkZqcG9fNTlIRkp0SjFpNzhydXJMMjhRb1BYZnhqUUx4MVotbmZGUjlQMjdhVWQtcEJWNUdLNTczQWc0MDZaTU5TODJYZkQwejBDYjRvcGxjZ0hFNjJXREJfd29mVjVxWFhSdHZ0NUpDWUFnTTNQdnZzRQ?oc=5\" target=\"_blank\">Skretting partners with Zooca Calanus to develop copepod-based aquaculture feeds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>"
+    },
+    {
+      "id": 246943,
+      "story_id": 559,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekp3MTlIb2FmY0JPaGpPUWd3OFpEcXJ5T0hnbnBKeHEyVm9pX2dBM3V6WE5lRGFmNXVuYkxfQk9vbHZac194QTNTUWxvZUpVcVF4ZFBMRERHMjZfbjBLOXhlNDI4Y3hlaTR3dk8xSXpKMlNUOEpBbHhBc0NZd2ZDTWZFTFZlcUN2bUtFVEh2MDNrWVQ2dlliSHJ0ZTBxQU9y?oc=5",
+      "title": "Skretting Chile presenta a su nueva Gerente de Recursos Humanos - Diario Digital El Calbucano",
+      "source_name": "Diario Digital El Calbucano",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-08-16T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOekp3MTlIb2FmY0JPaGpPUWd3OFpEcXJ5T0hnbnBKeHEyVm9pX2dBM3V6WE5lRGFmNXVuYkxfQk9vbHZac194QTNTUWxvZUpVcVF4ZFBMRERHMjZfbjBLOXhlNDI4Y3hlaTR3dk8xSXpKMlNUOEpBbHhBc0NZd2ZDTWZFTFZlcUN2bUtFVEh2MDNrWVQ2dlliSHJ0ZTBxQU9y?oc=5\" target=\"_blank\">Skretting Chile presenta a su nueva Gerente de Recursos Humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Digital El Calbucano</font>"
     }
   ],
   "share_of_voice": {
@@ -84224,7 +84310,7 @@
       {
         "week": "2014-W37",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -86803,7 +86889,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2023-W34",
@@ -86923,7 +87009,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2023-W49",
@@ -87981,7 +88067,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1145
+        "count": 1146
       },
       {
         "company": "Cargill",
@@ -87993,7 +88079,7 @@
       },
       {
         "company": "Skretting",
-        "count": 794
+        "count": 796
       }
     ]
   }
