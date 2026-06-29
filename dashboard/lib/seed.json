@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-29T10:08:00+00:00",
+  "generated_at": "2026-06-29T13:49:03+00:00",
   "stats": {
-    "mention_count": 2348,
-    "story_count": 1889,
+    "mention_count": 2350,
+    "story_count": 1891,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -322,6 +322,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1913,
+      "headline": "Price to earnings forward of Schouw & Co – FWB:5RF - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVAtc1JLY3BLQ2M4aERzYW1RWEswS192aU9GdnUxMXR4dlBYRGJKQlVvYnNnRVV6N1hfdldOVGFsb09UNnczTi1PdG1iZEx3TkRFa2xvLTh4TEotWHprbG1Ca0hJWVJjWS1kdG5RVG0wa2pwM3FRUkNlcjFiY1MzUEo4RXVpajFqeUhKVFR3Ri1OWFB3WDNoZHVhb2o?oc=5\" target=\"_blank\">Price to earnings forward of Schouw & Co – FWB:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-06-29T11:05:09+00:00",
+      "last_seen": "2026-06-29T11:05:09+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1908,
       "headline": "Aalesund klare for cupfinale – slo Stabæk etter dramatiske ekstraomganger - folkebladet.no",
@@ -5847,6 +5861,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1912,
+      "headline": "BioMar Group impulsa el deporte paralímpico de invierno - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPQmhxck5NTEtLQndJVENsVDFQYmsxc3U5cV95ZHBoWkVhX1BFLVFPR1NoUWxnc0F3aEZqMUhfSmNCWDBzZTlOQWFGVVZSbGdpNy1lMWRNYS1lZDhqalluMkV4SlQxOXRVc1VsaEl1TEJBa0NYNGhxQ3pFMkRtZkxMQlFn?oc=5\" target=\"_blank\">BioMar Group impulsa el deporte paralímpico de invierno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2026-01-07T08:00:00+00:00",
+      "last_seen": "2026-01-07T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 283,
@@ -83920,6 +83948,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOekp3MTlIb2FmY0JPaGpPUWd3OFpEcXJ5T0hnbnBKeHEyVm9pX2dBM3V6WE5lRGFmNXVuYkxfQk9vbHZac194QTNTUWxvZUpVcVF4ZFBMRERHMjZfbjBLOXhlNDI4Y3hlaTR3dk8xSXpKMlNUOEpBbHhBc0NZd2ZDTWZFTFZlcUN2bUtFVEh2MDNrWVQ2dlliSHJ0ZTBxQU9y?oc=5\" target=\"_blank\">Skretting Chile presenta a su nueva Gerente de Recursos Humanos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Digital El Calbucano</font>"
+    },
+    {
+      "id": 247412,
+      "story_id": 1912,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQmhxck5NTEtLQndJVENsVDFQYmsxc3U5cV95ZHBoWkVhX1BFLVFPR1NoUWxnc0F3aEZqMUhfSmNCWDBzZTlOQWFGVVZSbGdpNy1lMWRNYS1lZDhqalluMkV4SlQxOXRVc1VsaEl1TEJBa0NYNGhxQ3pFMkRtZkxMQlFn?oc=5",
+      "title": "BioMar Group impulsa el deporte paralímpico de invierno - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-01-07T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPQmhxck5NTEtLQndJVENsVDFQYmsxc3U5cV95ZHBoWkVhX1BFLVFPR1NoUWxnc0F3aEZqMUhfSmNCWDBzZTlOQWFGVVZSbGdpNy1lMWRNYS1lZDhqalluMkV4SlQxOXRVc1VsaEl1TEJBa0NYNGhxQ3pFMkRtZkxMQlFn?oc=5\" target=\"_blank\">BioMar Group impulsa el deporte paralímpico de invierno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 247500,
+      "story_id": 1913,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVAtc1JLY3BLQ2M4aERzYW1RWEswS192aU9GdnUxMXR4dlBYRGJKQlVvYnNnRVV6N1hfdldOVGFsb09UNnczTi1PdG1iZEx3TkRFa2xvLTh4TEotWHprbG1Ca0hJWVJjWS1kdG5RVG0wa2pwM3FRUkNlcjFiY1MzUEo4RXVpajFqeUhKVFR3Ri1OWFB3WDNoZHVhb2o?oc=5",
+      "title": "Price to earnings forward of Schouw & Co – FWB:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-29T11:05:09+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVAtc1JLY3BLQ2M4aERzYW1RWEswS192aU9GdnUxMXR4dlBYRGJKQlVvYnNnRVV6N1hfdldOVGFsb09UNnczTi1PdG1iZEx3TkRFa2xvLTh4TEotWHprbG1Ca0hJWVJjWS1kdG5RVG0wa2pwM3FRUkNlcjFiY1MzUEo4RXVpajFqeUhKVFR3Ri1OWFB3WDNoZHVhb2o?oc=5\" target=\"_blank\">Price to earnings forward of Schouw & Co – FWB:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
     }
   ],
   "share_of_voice": {
@@ -87862,7 +87938,7 @@
       {
         "week": "2026-W02",
         "Aller Aqua": 1,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 3,
         "Polarfeed": 1,
         "Skretting": 2
@@ -88058,6 +88134,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
+      },
+      {
+        "week": "2026-W27",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
@@ -88067,7 +88151,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1146
+        "count": 1148
       },
       {
         "company": "Cargill",
