@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-30T23:07:05+00:00",
+  "generated_at": "2026-07-01T08:58:53+00:00",
   "stats": {
-    "mention_count": 2369,
-    "story_count": 1904,
+    "mention_count": 2370,
+    "story_count": 1905,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -330,6 +330,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRnlCMkI1LU5xOUFlSldkTDNqUG5HSUd2ano2dU51RmRsSi13OC1vd1UySFp4dmhMR0E4a3IxQk5XNFFkOUZHeWxCWWdGcHFCZTBZZUJ4THFqbGtRX3FuOXhrcGU4RmJWdWVWR2RZcXp2cEtNaFhpSlFCN0tRaG1ZYVRWanl4QkdwOFIySDJVdm5vV2swYzhxVE41cjZtRkNZbWgwOFgxcy1qQW1SRFZaaHJTNkloVzF2ZE5aWG04dVk2U0ZEU3JLQzJBSTdSUndG?oc=5\" target=\"_blank\">Skretting Chile confirma segunda edición de Sustainability & Innovation Conference para octubre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
       "first_seen": "2026-06-30T21:09:34+00:00",
       "last_seen": "2026-06-30T21:09:34+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1927,
+      "headline": "Skretting publica Informe de Impacto 2025 con avances en sostenibilidad acuícola - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkZnNUtuQ2VvaTdhbVdLOGZhb0VrMF9HWjR1TGNrbkVnZkFwRkt6Snp1WU54OS1DeFNnSm42Z3lqV21nWkw1UGE3bVVBUjNNUFNwN0tVVmdkVFg2V0VFWnVqeFdFaGxNcjNwME53LWVPMktQVXBLMlhPbGhZZjB0T0o4Y1hzd2dBWGFrTDFMNUdoQVFycThtOW5BZGlOQzZEUzRDWXdkUzBNaTVFS2xobk9SR01wU1lFX0pnN01uN3hHUGxpQmNyQlhFd0xPXzNSMEtn?oc=5\" target=\"_blank\">Skretting publica Informe de Impacto 2025 con avances en sostenibilidad acuícola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2026-06-30T18:36:00+00:00",
+      "last_seen": "2026-06-30T18:36:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -84636,6 +84650,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRnlCMkI1LU5xOUFlSldkTDNqUG5HSUd2ano2dU51RmRsSi13OC1vd1UySFp4dmhMR0E4a3IxQk5XNFFkOUZHeWxCWWdGcHFCZTBZZUJ4THFqbGtRX3FuOXhrcGU4RmJWdWVWR2RZcXp2cEtNaFhpSlFCN0tRaG1ZYVRWanl4QkdwOFIySDJVdm5vV2swYzhxVE41cjZtRkNZbWgwOFgxcy1qQW1SRFZaaHJTNkloVzF2ZE5aWG04dVk2U0ZEU3JLQzJBSTdSUndG?oc=5\" target=\"_blank\">Skretting Chile confirma segunda edición de Sustainability & Innovation Conference para octubre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 254976,
+      "story_id": 1927,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkZnNUtuQ2VvaTdhbVdLOGZhb0VrMF9HWjR1TGNrbkVnZkFwRkt6Snp1WU54OS1DeFNnSm42Z3lqV21nWkw1UGE3bVVBUjNNUFNwN0tVVmdkVFg2V0VFWnVqeFdFaGxNcjNwME53LWVPMktQVXBLMlhPbGhZZjB0T0o4Y1hzd2dBWGFrTDFMNUdoQVFycThtOW5BZGlOQzZEUzRDWXdkUzBNaTVFS2xobk9SR01wU1lFX0pnN01uN3hHUGxpQmNyQlhFd0xPXzNSMEtn?oc=5",
+      "title": "Skretting publica Informe de Impacto 2025 con avances en sostenibilidad acuícola - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-06-30T18:36:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNkZnNUtuQ2VvaTdhbVdLOGZhb0VrMF9HWjR1TGNrbkVnZkFwRkt6Snp1WU54OS1DeFNnSm42Z3lqV21nWkw1UGE3bVVBUjNNUFNwN0tVVmdkVFg2V0VFWnVqeFdFaGxNcjNwME53LWVPMktQVXBLMlhPbGhZZjB0T0o4Y1hzd2dBWGFrTDFMNUdoQVFycThtOW5BZGlOQzZEUzRDWXdkUzBNaTVFS2xobk9SR01wU1lFX0pnN01uN3hHUGxpQmNyQlhFd0xPXzNSMEtn?oc=5\" target=\"_blank\">Skretting publica Informe de Impacto 2025 con avances en sostenibilidad acuícola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
     }
   ],
   "share_of_voice": {
@@ -88813,7 +88851,7 @@
         "BioMar": 7,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       }
     ],
     "totals": [
@@ -88835,7 +88873,7 @@
       },
       {
         "company": "Skretting",
-        "count": 798
+        "count": 799
       }
     ]
   }
