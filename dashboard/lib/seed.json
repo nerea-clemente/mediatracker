@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T23:09:43+00:00",
+  "generated_at": "2026-07-02T08:28:22+00:00",
   "stats": {
-    "mention_count": 2373,
-    "story_count": 1907,
+    "mention_count": 2374,
+    "story_count": 1908,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -324,6 +324,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1930,
+      "headline": "Pareto Securities cuts the target price for Biomar Group to 128 Danish kroner (130), reiterates buy - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFVsdGR6ZHI2bFZLX19kUEx1eWdlUFgwTlg3Sjljc0ZJZ3RRRTN5Yk5nUWFNaVlKcUhiUWtCWGFnb2RrSmNXNzhwNU91UzlUblJzTnc4c3IzaXh5WE8tRXEtWGRNWlE1Uk4xVjRJY0VKMHhQdEpuZURFQTVrZ1hXb29qS0JQV1UxYWFFOGtSa09ROXY2Unczd1UyT3F5UVBkXzI0RDZCT19MQi1aZ1V3eWMzVWxFVmxXMlNDRV9FSFRibDYyQ3g3dzZlTWtHV1JQUjJTWXViUHZjTWFVcDg0ejVTTQ?oc=5\" target=\"_blank\">Pareto Securities cuts the target price for Biomar Group to 128 Danish kroner (130), reiterates buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-07-02T06:45:30+00:00",
+      "last_seen": "2026-07-02T06:45:30+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1929,
       "headline": "The importance of trial units at BioMar’s R&D centres for the development of efficient and profitable aquafeeds - misPeces",
@@ -84774,6 +84788,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IcC00M1hGd2w4NXZDdTlRY19Odko5VzE2azBXWHUtTjk2UFFQX1lDUWRTQ1JkTFh6bWdHZUJmck50bkQ5YXhySS0wMG04blZGd19aVA?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 20 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Taiwan News</font>"
+    },
+    {
+      "id": 258223,
+      "story_id": 1930,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFVsdGR6ZHI2bFZLX19kUEx1eWdlUFgwTlg3Sjljc0ZJZ3RRRTN5Yk5nUWFNaVlKcUhiUWtCWGFnb2RrSmNXNzhwNU91UzlUblJzTnc4c3IzaXh5WE8tRXEtWGRNWlE1Uk4xVjRJY0VKMHhQdEpuZURFQTVrZ1hXb29qS0JQV1UxYWFFOGtSa09ROXY2Unczd1UyT3F5UVBkXzI0RDZCT19MQi1aZ1V3eWMzVWxFVmxXMlNDRV9FSFRibDYyQ3g3dzZlTWtHV1JQUjJTWXViUHZjTWFVcDg0ejVTTQ?oc=5",
+      "title": "Pareto Securities cuts the target price for Biomar Group to 128 Danish kroner (130), reiterates buy - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-07-02T06:45:30+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFVsdGR6ZHI2bFZLX19kUEx1eWdlUFgwTlg3Sjljc0ZJZ3RRRTN5Yk5nUWFNaVlKcUhiUWtCWGFnb2RrSmNXNzhwNU91UzlUblJzTnc4c3IzaXh5WE8tRXEtWGRNWlE1Uk4xVjRJY0VKMHhQdEpuZURFQTVrZ1hXb29qS0JQV1UxYWFFOGtSa09ROXY2Unczd1UyT3F5UVBkXzI0RDZCT19MQi1aZ1V3eWMzVWxFVmxXMlNDRV9FSFRibDYyQ3g3dzZlTWtHV1JQUjJTWXViUHZjTWFVcDg0ejVTTQ?oc=5\" target=\"_blank\">Pareto Securities cuts the target price for Biomar Group to 128 Danish kroner (130), reiterates buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
     }
   ],
   "share_of_voice": {
@@ -88948,7 +88986,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -88961,7 +88999,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1168
+        "count": 1169
       },
       {
         "company": "Cargill",
