@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T08:28:22+00:00",
+  "generated_at": "2026-07-02T11:45:17+00:00",
   "stats": {
-    "mention_count": 2374,
-    "story_count": 1908,
+    "mention_count": 2378,
+    "story_count": 1910,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -278,6 +278,7 @@
     "Western Sahara Resource Watch",
     "World Aquaculture Society",
     "World-Grain.com",
+    "Yahoo Finance",
     "Yahoo Finance Singapore",
     "Yahoo Finance UK",
     "Yahoo Finanzas",
@@ -324,6 +325,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1932,
+      "headline": "Schouw & Co. acquires majority stake in premium outdoor apparel manufacturer Spectre - Yahoo Finance",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0pKWTFsTDZUeDZMWUlwUzVGQXZEMGFpbjg2SW5jRldtRlNKTHF2eTRIdU5vOW4xcXNod0VWV1Z0UnhMV1h0T1lCUWFySkRjSlF0REEzNHN1TF9GSW9yaGVmYlYxS3kyamRQUndWU3YzWlpMWUZ5OHZ2N1d5dXlUb05QQ2NQcHdseXhSeDRGV21tY3JCQW1mWTRqOWRqVE0?oc=5\" target=\"_blank\">Schouw & Co. acquires majority stake in premium outdoor apparel manufacturer Spectre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "first_seen": "2026-07-02T08:30:00+00:00",
+      "last_seen": "2026-07-02T08:35:03+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 1930,
       "headline": "Pareto Securities cuts the target price for Biomar Group to 128 Danish kroner (130), reiterates buy - marketscreener.com",
@@ -404,7 +419,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 7,
+      "pickup_count": 8,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -20330,6 +20345,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNldsek5SRlV1UGNhajRIbHN3bWN0Rjhac0lTM0g1bE4wanY2VzVpNVhieDd1YnJabC1IaTdTQlE5dGtOSVhxWkhVOXNoZnlrYWlCVHZoQTJYMGQ1UXZfNk42VTFCTTBndWt0Wkg5clNVZjlNVHVJZkVFcGpRS2dkWmMxd2xJTUpvdUNrNXdPVld0d1dSUHo4QjBYaHJBelM0OHU5V19MZzFPM3RQNWIwRDQ4V1NMdVJiU2ZxQllRNjV1QQ?oc=5\" target=\"_blank\">Nå blir Skretting AS en del av norsk sjømathistorie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
       "first_seen": "2021-01-28T08:00:00+00:00",
       "last_seen": "2021-01-28T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1931,
+      "headline": "Skretting to develop bacteriophage products - Fishfarming expert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHRNenEyd2pMRlJfRElBVHBqM2hlTlJxdlNMN3lkOHpaRGRNRnoydXg1eWgtQk9BSTc2LVQ2QmNTd2RSejhwWmU1RHRJRnl1OHI2alFyRjZCNjlMRk0wN1ZHV01GN0FVQTJhS0Z4bktMbUNhUFdxQkhvdEpWdEN6dy1jM01XYXZFaVFUWm1rZ1dBSG96ZWhWRjF4eXZ1a3BuMGRxbTZqU2xLekpuczFWenFqbnBQRUNaYV9KWlA1cHhkY0ZqN200SkR6TXhZWHFyckE?oc=5\" target=\"_blank\">Skretting to develop bacteriophage products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "first_seen": "2021-01-27T08:00:00+00:00",
+      "last_seen": "2021-01-27T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -84812,6 +84841,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUFVsdGR6ZHI2bFZLX19kUEx1eWdlUFgwTlg3Sjljc0ZJZ3RRRTN5Yk5nUWFNaVlKcUhiUWtCWGFnb2RrSmNXNzhwNU91UzlUblJzTnc4c3IzaXh5WE8tRXEtWGRNWlE1Uk4xVjRJY0VKMHhQdEpuZURFQTVrZ1hXb29qS0JQV1UxYWFFOGtSa09ROXY2Unczd1UyT3F5UVBkXzI0RDZCT19MQi1aZ1V3eWMzVWxFVmxXMlNDRV9FSFRibDYyQ3g3dzZlTWtHV1JQUjJTWXViUHZjTWFVcDg0ejVTTQ?oc=5\" target=\"_blank\">Pareto Securities cuts the target price for Biomar Group to 128 Danish kroner (130), reiterates buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 259645,
+      "story_id": 1932,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0pKWTFsTDZUeDZMWUlwUzVGQXZEMGFpbjg2SW5jRldtRlNKTHF2eTRIdU5vOW4xcXNod0VWV1Z0UnhMV1h0T1lCUWFySkRjSlF0REEzNHN1TF9GSW9yaGVmYlYxS3kyamRQUndWU3YzWlpMWUZ5OHZ2N1d5dXlUb05QQ2NQcHdseXhSeDRGV21tY3JCQW1mWTRqOWRqVE0?oc=5",
+      "title": "Schouw & Co. acquires majority stake in premium outdoor apparel manufacturer Spectre - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-07-02T08:30:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0pKWTFsTDZUeDZMWUlwUzVGQXZEMGFpbjg2SW5jRldtRlNKTHF2eTRIdU5vOW4xcXNod0VWV1Z0UnhMV1h0T1lCUWFySkRjSlF0REEzNHN1TF9GSW9yaGVmYlYxS3kyamRQUndWU3YzWlpMWUZ5OHZ2N1d5dXlUb05QQ2NQcHdseXhSeDRGV21tY3JCQW1mWTRqOWRqVE0?oc=5\" target=\"_blank\">Schouw & Co. acquires majority stake in premium outdoor apparel manufacturer Spectre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+    },
+    {
+      "id": 259646,
+      "story_id": 1932,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2x0cGpSTDNvZlJ2eFRZdGlYNkprUHNRYzMydktmWXlzODVNX2cyMHJ2c3diTnZiS1I2TTg0SUI4MlY4enRWd1FCRHEtcVk2NDRRd040NDNaNVR0VnRlWDhDU00zNTJiZnd2S01zMTZjLWEtbHpuR2xSbHl6R1hlbVdTOXBSb09hY3VlejNPSFctTUZPaDdwZVBmbFpDQ2NRUHVneDNsVWJoSFNSQzNLNG9jMHgwZUJXekFEcHFwN3NUZ2I0dDJib3JmOHltMWVoeGNYaXp6dldtVVJnWHZJbWhPOGM?oc=5",
+      "title": "Schouw & Co. Acquires Majority Stake In Premium Outdoor Apparel Manufacturer Spectre - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-02T08:35:03+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2x0cGpSTDNvZlJ2eFRZdGlYNkprUHNRYzMydktmWXlzODVNX2cyMHJ2c3diTnZiS1I2TTg0SUI4MlY4enRWd1FCRHEtcVk2NDRRd040NDNaNVR0VnRlWDhDU00zNTJiZnd2S01zMTZjLWEtbHpuR2xSbHl6R1hlbVdTOXBSb09hY3VlejNPSFctTUZPaDdwZVBmbFpDQ2NRUHVneDNsVWJoSFNSQzNLNG9jMHgwZUJXekFEcHFwN3NUZ2I0dDJib3JmOHltMWVoeGNYaXp6dldtVVJnWHZJbWhPOGM?oc=5\" target=\"_blank\">Schouw & Co. Acquires Majority Stake In Premium Outdoor Apparel Manufacturer Spectre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 259653,
+      "story_id": 1913,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmNnZXVtUG5GTDdsaGJrbFJYT3RHV3ZzckF3MzBaLU5hWmo3dDZSd0swbjYwa2wwRWx3dXZ4VlhoT29HVnpWalJjd3JMdnRZRktyWjRUMVJLdVhlcnJSZFVrZXNCQWs3Ym1RazVJR2tnX19hZ1FYVnQwNlNBVHRrZlJnSFNjMWpfVnlpVTQ4VHJyWGwwVFl0Ri1KUnNXT0tNQnZfUUljM0N2dzNs?oc=5",
+      "title": "Enterprise value to revenue forward of Schouw & Co A/S – OMXCOP:SCHO - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-30T01:13:34+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmNnZXVtUG5GTDdsaGJrbFJYT3RHV3ZzckF3MzBaLU5hWmo3dDZSd0swbjYwa2wwRWx3dXZ4VlhoT29HVnpWalJjd3JMdnRZRktyWjRUMVJLdVhlcnJSZFVrZXNCQWs3Ym1RazVJR2tnX19hZ1FYVnQwNlNBVHRrZlJnSFNjMWpfVnlpVTQ4VHJyWGwwVFl0Ri1KUnNXT0tNQnZfUUljM0N2dzNs?oc=5\" target=\"_blank\">Enterprise value to revenue forward of Schouw & Co A/S – OMXCOP:SCHO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 259852,
+      "story_id": 1931,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHRNenEyd2pMRlJfRElBVHBqM2hlTlJxdlNMN3lkOHpaRGRNRnoydXg1eWgtQk9BSTc2LVQ2QmNTd2RSejhwWmU1RHRJRnl1OHI2alFyRjZCNjlMRk0wN1ZHV01GN0FVQTJhS0Z4bktMbUNhUFdxQkhvdEpWdEN6dy1jM01XYXZFaVFUWm1rZ1dBSG96ZWhWRjF4eXZ1a3BuMGRxbTZqU2xLekpuczFWenFqbnBQRUNaYV9KWlA1cHhkY0ZqN200SkR6TXhZWHFyckE?oc=5",
+      "title": "Skretting to develop bacteriophage products - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2021-01-27T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHRNenEyd2pMRlJfRElBVHBqM2hlTlJxdlNMN3lkOHpaRGRNRnoydXg1eWgtQk9BSTc2LVQ2QmNTd2RSejhwWmU1RHRJRnl1OHI2alFyRjZCNjlMRk0wN1ZHV01GN0FVQTJhS0Z4bktMbUNhUFdxQkhvdEpWdEN6dy1jM01XYXZFaVFUWm1rZ1dBSG96ZWhWRjF4eXZ1a3BuMGRxbTZqU2xLekpuczFWenFqbnBQRUNaYV9KWlA1cHhkY0ZqN200SkR6TXhZWHFyckE?oc=5\" target=\"_blank\">Skretting to develop bacteriophage products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
     }
   ],
   "share_of_voice": {
@@ -86909,7 +87034,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2021-W05",
@@ -88986,7 +89111,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 10,
+        "BioMar": 13,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -88999,7 +89124,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1169
+        "count": 1172
       },
       {
         "company": "Cargill",
@@ -89011,7 +89136,7 @@
       },
       {
         "company": "Skretting",
-        "count": 799
+        "count": 800
       }
     ]
   }
