@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T22:58:06+00:00",
+  "generated_at": "2026-07-04T08:10:09+00:00",
   "stats": {
-    "mention_count": 2389,
-    "story_count": 1919,
+    "mention_count": 2390,
+    "story_count": 1920,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -15194,6 +15194,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQME9jS2JnZWY1TXZVZmpIN3QyYjJUbXJyUF95U183THI5NTFDS2ZRengtNEJwWWp6S3hOOGs2a05SNmxpVld3XzhMUWxwOFRvWGY1UUJvY0Fmb2RPeGdZMDc0WjdDWEY4NEI3ekVlZ1N4VVhjWWhiUWRwT2xoSHRqYXBmalBuUVBvWWZKbWhBU2JHRmZ3TUFRd2ZWU3RDYnZHMXRLZ2dUUXdWN1FpYWxObWUwM0stSG8?oc=5\" target=\"_blank\">Revolucionario producto aumenta hasta 47% la sobrevivencia de salmones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2023-12-29T08:00:00+00:00",
       "last_seen": "2023-12-29T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1942,
+      "headline": "BioMar busca revolucionar la industria acuícola con Resist X Pro - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdk4zY3lkMXVYV3laMUJzTHFMTS1ocllFcVA3MURSZFBzSkVoeGZ5LVpIQVpQN05JUU5kdkY5NVhLNzhETFk3MEh3V2xzS0l3Tm5iMHVBdnd2OVhNc1c5ZWNGVTRHM09sdHViMGxNUENGSlpMelBWUjBfUTlFYmRvR3RzeTVaeXRzeWhvYWtfb2JFdjN1eG1pSENvMDJiOWtPSGM4ZlNxVnVkRzdQZXpuRHBJdmFlVGRXVV9GaFV3TQ?oc=5\" target=\"_blank\">BioMar busca revolucionar la industria acuícola con Resist X Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2023-12-28T08:00:00+00:00",
+      "last_seen": "2023-12-28T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -85329,6 +85343,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEhDQkRKMHFMY25NZmo0bnBscnZuWUktQ1BJU2ZlV2pXTU9zbi1ralB6UTFmT2NtNUhvdE1wcGlhWDFzbV9Hc0xVTmtMb29qME43OUdnSDJLMXFLb0ZPZm9ud2tCNEFtYkVMdXlKRVhoNHo0bUlZdW9EUjJLX0xnWVJza3J4cDB2Njd2Q2hZeDBtRERvcGhBNDBOU19KVnNBMWZ3c2FCZmdzNzFVZUNsMzA0cnloTGM?oc=5\" target=\"_blank\">Skretting mantiene su compromiso con el proyecto de mejora pesquera en zona centro-sur de Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 265740,
+      "story_id": 1942,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdk4zY3lkMXVYV3laMUJzTHFMTS1ocllFcVA3MURSZFBzSkVoeGZ5LVpIQVpQN05JUU5kdkY5NVhLNzhETFk3MEh3V2xzS0l3Tm5iMHVBdnd2OVhNc1c5ZWNGVTRHM09sdHViMGxNUENGSlpMelBWUjBfUTlFYmRvR3RzeTVaeXRzeWhvYWtfb2JFdjN1eG1pSENvMDJiOWtPSGM4ZlNxVnVkRzdQZXpuRHBJdmFlVGRXVV9GaFV3TQ?oc=5",
+      "title": "BioMar busca revolucionar la industria acuícola con Resist X Pro - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-12-28T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdk4zY3lkMXVYV3laMUJzTHFMTS1ocllFcVA3MURSZFBzSkVoeGZ5LVpIQVpQN05JUU5kdkY5NVhLNzhETFk3MEh3V2xzS0l3Tm5iMHVBdnd2OVhNc1c5ZWNGVTRHM09sdHViMGxNUENGSlpMelBWUjBfUTlFYmRvR3RzeTVaeXRzeWhvYWtfb2JFdjN1eG1pSENvMDJiOWtPSGM4ZlNxVnVkRzdQZXpuRHBJdmFlVGRXVV9GaFV3TQ?oc=5\" target=\"_blank\">BioMar busca revolucionar la industria acuícola con Resist X Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
     }
   ],
   "share_of_voice": {
@@ -88479,7 +88517,7 @@
       {
         "week": "2023-W52",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -89516,7 +89554,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1177
+        "count": 1178
       },
       {
         "company": "Cargill",
