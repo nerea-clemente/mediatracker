@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T17:08:15+00:00",
+  "generated_at": "2026-07-04T22:54:22+00:00",
   "stats": {
-    "mention_count": 2391,
-    "story_count": 1921,
+    "mention_count": 2392,
+    "story_count": 1922,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -327,6 +327,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 1944,
+      "headline": "– «Grævla» bra at han bruker sånne ord og forvirrer østlendingene - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMW4xY3h0VkZ6SEhYXzl2OTM4ajFuek92WU9YOWgwZEluRFZ3bkRJZTBrY0VwUkhoLTduVWVEQ2ViOWRaUzRqdDBiZklRTGJyTGtDd19ISk94cnJocl9kVGM2NEt3QXJ1MmVJR2ljXzV2R3lYMUlTREF2WXpiVnFSbGVqQjB2cmQ4cjdjRl9FdmNyV3hRZXpBdG05SDVQOWw3SVBnQTI2clFRQzg?oc=5\" target=\"_blank\">– «Grævla» bra at han bruker sånne ord og forvirrer østlendingene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-07-04T18:07:38+00:00",
+      "last_seen": "2026-07-04T18:07:38+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 1940,
       "headline": "– Må være Norges gøyeste jobb - gat.no",
@@ -85405,6 +85419,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2IyaFNmOGI3VGJnemhVcHZOSi1PdC11VlNXYUNiYW9Ra1pJenBmbW9jTVQ2MDlqM1BVcFhqTE9NV0NvSjZiNzdhQVVvaWxFWTJEOXZGV0FGMTEydlUtQXpnQVlUQ2xxdzJnSVo2SktkNEVoS1VYaWZSU05lYTdYVWRQYkVlSUNldTJqdzMwSXV1TGFCT0hnZ08tdWt3Ul9ZLWVpZlVB?oc=5\" target=\"_blank\">BioMar More Than Doubles Vitamin D Levels in All Salmon Feeds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seafoodnews</font>"
+    },
+    {
+      "id": 269088,
+      "story_id": 1944,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMW4xY3h0VkZ6SEhYXzl2OTM4ajFuek92WU9YOWgwZEluRFZ3bkRJZTBrY0VwUkhoLTduVWVEQ2ViOWRaUzRqdDBiZklRTGJyTGtDd19ISk94cnJocl9kVGM2NEt3QXJ1MmVJR2ljXzV2R3lYMUlTREF2WXpiVnFSbGVqQjB2cmQ4cjdjRl9FdmNyV3hRZXpBdG05SDVQOWw3SVBnQTI2clFRQzg?oc=5",
+      "title": "– «Grævla» bra at han bruker sånne ord og forvirrer østlendingene - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-07-04T18:07:38+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMW4xY3h0VkZ6SEhYXzl2OTM4ajFuek92WU9YOWgwZEluRFZ3bkRJZTBrY0VwUkhoLTduVWVEQ2ViOWRaUzRqdDBiZklRTGJyTGtDd19ISk94cnJocl9kVGM2NEt3QXJ1MmVJR2ljXzV2R3lYMUlTREF2WXpiVnFSbGVqQjB2cmQ4cjdjRl9FdmNyV3hRZXpBdG05SDVQOWw3SVBnQTI2clFRQzg?oc=5\" target=\"_blank\">– «Grævla» bra at han bruker sånne ord og forvirrer østlendingene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
     }
   ],
   "share_of_voice": {
@@ -89582,7 +89620,7 @@
         "BioMar": 18,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       }
     ],
     "totals": [
@@ -89604,7 +89642,7 @@
       },
       {
         "company": "Skretting",
-        "count": 805
+        "count": 806
       }
     ]
   }
