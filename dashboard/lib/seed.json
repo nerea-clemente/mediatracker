@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T17:13:24+00:00",
+  "generated_at": "2026-07-05T22:58:11+00:00",
   "stats": {
-    "mention_count": 2404,
-    "story_count": 1928,
+    "mention_count": 2435,
+    "story_count": 1954,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -189,6 +189,7 @@
     "NRK",
     "NTB Kommunikasjon",
     "Nationen",
+    "Nettavisen",
     "Norges idrettsforbund",
     "Norsk Byggebransje",
     "Norsk Lokalradioforbund",
@@ -328,16 +329,44 @@
   ],
   "stories": [
     {
+      "id": 1976,
+      "headline": "Basic earnings per share (basic EPS) of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDc2MXR0cFUzbTA2aXhPXzZRQUtNLWlLbEdJa2JTOEU3U0oxM0JEUS1aUVR3MlV1Ukc2eUxFSGd5LVlFSEFmSGZYZ2VUQ2syNy1UMUc5ZVliOHpseWVjSm9ub3hwWlBzeDlCV3dESl9oYmVKTGU2Qk9lT1VxbTFRWTU1NWRPQ3RtemhwWXZqSjlVM2ItSE9NNHFLc1JEdzdp?oc=5\" target=\"_blank\">Basic earnings per share (basic EPS) of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-05T21:04:28+00:00",
+      "last_seen": "2026-07-05T21:04:28+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1975,
+      "headline": "BioMar Group A/S Revenue Breakdown – LS:A42CV2 - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5LT056SWQyenYwMWZtSjV0MGFPVDRNR2pEVWg5RXJ1RjNqaWZ4bVJlbzRGc1pzTnZXSERNUm5zcjQxaDEyM1RkbUZvSHBRb2hQYWhjMTFHODhsSmQzYVVQUmhKZWtPR1FuVHFOeDhuNDM1R2M?oc=5\" target=\"_blank\">BioMar Group A/S Revenue Breakdown – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-05T20:07:15+00:00",
+      "last_seen": "2026-07-05T20:41:55+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1946,
-      "headline": "Enterprise value to EBIT forward de BioMar Group A/S – MUN:2IT - TradingView",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVJjLVVxSUY1ek9DVXZpSjVVcHVtMEFJVmliSkUyUkJsVTk2RUZPb3NESnVXMm1zRWJ4alFPQTdLYmxDd0l4bnU1UHdGMDg0OVNYdHpoUUxDSjVTbjJ1LVh1RlFmUHFSeWVtQkZwU1RHa2lUTlN5ZjZGclNMY2tyVGQwRzY3bkZWU2lZY1RocnZ3eFlhT1QzT1RZOENua3hsak1fcQ?oc=5\" target=\"_blank\">Enterprise value to EBIT forward de BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "first_seen": "2026-07-04T21:41:33+00:00",
+      "headline": "Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTU1ODI0MnhPS0d3OTJMX1Y2LWhVaTMzcEF4Wk82WkZ5NnIzUHpVYzk4bkptU0Y1ODBPR0U4SkhBTG0wZFRHMmdheTNUQTF1TFNoS0lRd0lFZ1FLb1FPOFA1eHdLdlVKTm1JcWFXbGZSZ3l5VzRGd081eXZST2hQazVOYVA5Qzc5Vlh0am96YzctYlNyOEQ0Y09uRU1hOG9wc1VoTDZR?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-04T21:12:56+00:00",
       "last_seen": "2026-07-05T12:17:56+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 5,
+      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -525,15 +554,15 @@
     },
     {
       "id": 1926,
-      "headline": "Skretting Chile confirma segunda edición de Sustainability & Innovation Conference para octubre de 2026 - Mundoacuicola",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRnlCMkI1LU5xOUFlSldkTDNqUG5HSUd2ano2dU51RmRsSi13OC1vd1UySFp4dmhMR0E4a3IxQk5XNFFkOUZHeWxCWWdGcHFCZTBZZUJ4THFqbGtRX3FuOXhrcGU4RmJWdWVWR2RZcXp2cEtNaFhpSlFCN0tRaG1ZYVRWanl4QkdwOFIySDJVdm5vV2swYzhxVE41cjZtRkNZbWgwOFgxcy1qQW1SRFZaaHJTNkloVzF2ZE5aWG04dVk2U0ZEU3JLQzJBSTdSUndG?oc=5\" target=\"_blank\">Skretting Chile confirma segunda edición de Sustainability & Innovation Conference para octubre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
-      "first_seen": "2026-06-30T21:09:34+00:00",
+      "headline": "Skretting Chile anuncia segunda edición de Sustainability & Innovation Conference 2026 - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ09UdGU0cnJONEtzbGFhVms1d1pkVU8ydHNNZkkxNHBudDF2c19SbHUyUWYxemE0Z3ZwLXdPb2dtSWFtbmVTajl6OV9FZ0UyTVNUQ2JBMWNxR2J3SVZDdlljWGk3Zm5tN3F6UUI5a3Z5Ti05MDNWNHRrdVk5dnJWMGV3VXFwTjNldUUyNXlJWWdsdnJidV9Hb2V4V1Q1S21Md29FZ1VBX1hxM3dBcUtwRGRaelY2cDFFVmdKaXNwWW9MSExHQWdPd1ZuVVN4QmNMbjd0ekVrRjRFMG81VWVIeFY2cWhTTlUzWHFFUzRBZw?oc=5\" target=\"_blank\">Skretting Chile anuncia segunda edición de Sustainability & Innovation Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2026-06-30T10:20:00+00:00",
       "last_seen": "2026-06-30T21:09:34+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -636,6 +665,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1873,
+      "headline": "BioMar A/S : Stabilisation measures taken - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0NRbW9VdDRYOGJCRHBha2ZXSTkxMjdtRFlKOEtKQVZKY2otUXhyWkVxUjFDWW9nSjBQb1B0N0xDTVBlOUh3T1JBZGRwelRaVWN4OWhtd1JQSGQ0N2FkaGhVcXhVOURONUdwVkdsQXltMW84VVVQX0N0ekQ2aHJqZnFFTlByNFlHcXdhVEwwY08yQ0JXNlFB?oc=5\" target=\"_blank\">BioMar A/S : Stabilisation measures taken</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-06-23T17:08:07+00:00",
+      "last_seen": "2026-06-26T19:15:18+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1896,
       "headline": "Schouw & Co Actuals & Estimates (DUS:5RF) - TradingView",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjVqc1BpdjB5Vjd3M1ZZbE11VC1GSktiRzFmcUJnc0ZtSFV5eGxvQlZVM2RIb2ZKX3FNWHRYaGZpd1pDdEloZXNZUUd4SVFLX2hOcWF4dU02R3J3LTdZNHZGRGhlWDVndkhmdjBPQzhKOTlMdzc3R1lKUW4yZklOSg?oc=5\" target=\"_blank\">Schouw & Co Actuals & Estimates (DUS:5RF)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -655,20 +698,6 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHZybFM4RWdOcXNEdGRacnlUN0FaakVhUldrd0JQTUJkT25mY0N3Y1lxeWRKUklQRUY0dG14ME5NbWxWVmd0MjFxampHMjI1SUZFZVR1RGV2RC1uV21DRldoLU10MkY2OXpoUDdZSHVBYTFwRGEzOEswd0hBLUE2YmxveUNEandpYTI0UzdLYk44SnVkRGhZNDdvV0g?oc=5\" target=\"_blank\">Basic earnings per share (basic EPS) de BioMar Group A/S – FWB:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "first_seen": "2026-06-26T02:46:09+00:00",
       "last_seen": "2026-06-26T02:46:09+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1873,
-      "headline": "BioMar A/S : Stabilisation measures taken - marketscreener.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0NRbW9VdDRYOGJCRHBha2ZXSTkxMjdtRFlKOEtKQVZKY2otUXhyWkVxUjFDWW9nSjBQb1B0N0xDTVBlOUh3T1JBZGRwelRaVWN4OWhtd1JQSGQ0N2FkaGhVcXhVOURONUdwVkdsQXltMW84VVVQX0N0ekQ2aHJqZnFFTlByNFlHcXdhVEwwY08yQ0JXNlFB?oc=5\" target=\"_blank\">BioMar A/S : Stabilisation measures taken</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-      "first_seen": "2026-06-23T17:08:07+00:00",
-      "last_seen": "2026-06-23T17:08:07+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -13817,6 +13846,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1974,
+      "headline": "Øksnes, Nyheter | Endelig i gang: – Gleder oss til å flytte sammen - Bladet Vesterålen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3d4UHpScG9nVHJLX3BBSXhxM0lLWklNVzZadENZUHl3YkZyQUQwbHRRM2FKdjU5N09CN1JkWm1EbThrTHJDdzN3NW5ZaUJGamo0b0NUWWJpZmtTV01WOVBVSzdTaWpvNUhoRDZwc1pBN00tOEZHYjRJRkRELUk3MkNIWQ?oc=5\" target=\"_blank\">Øksnes, Nyheter | Endelig i gang: – Gleder oss til å flytte sammen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>",
+      "first_seen": "2024-06-26T07:00:00+00:00",
+      "last_seen": "2024-06-26T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 603,
       "headline": "Skretting's new CEO puts growth in India, China and Africa at the forefront - intrafish.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQX09iazR3VUxCS0tldWlmaUQzb2FTYWtSZWtQWVFGRWZtMTA3dnlCeU9PZGs5NFpSWEo4dEM1cTZwSk9uUjRXM3ZMOHlsb1dkMTlMNkM3cVZfYVV3bHUyVWhBNWxOTlBqbDhEUjMteHl3aWM1VXA5d0xndk45YVRKTGxpRGdfX3BMTzhmYTVNWjNncElIb0R2WUdhY3MwcUJzU1FFUWNXUUxSWUdGZVVjU1FDZktSOEk?oc=5\" target=\"_blank\">Skretting's new CEO puts growth in India, China and Africa at the forefront</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
@@ -15903,6 +15946,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1973,
+      "headline": "Øksnes, Næringsliv | Her kommer nybygget til flere titalls millioner - Bladet Vesterålen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTXhxLThaT0R0dkJSVUZuR01MWnI3d2tUOGZRTDR0dlkxTURwVXk4UTZSQU5WNWFWS1JQMUJ1cWE3eXk2R2dQWDY2cFBXU2JYVldsVHhlMG5VVGo4WUkyMlItcWlyYUxwSVgzWFEweGFYMXpEaFpseGxxSjFtOUtUSGdRWmt0UQ?oc=5\" target=\"_blank\">Øksnes, Næringsliv | Her kommer nybygget til flere titalls millioner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>",
+      "first_seen": "2023-09-29T07:00:00+00:00",
+      "last_seen": "2023-09-29T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 94,
       "headline": "Derek Kohn se incorpora como director ejecutivo de BioMar Chile - misPeces",
       "story_summary": "Derek Kohn has been appointed as the new executive director (CEO) of BioMar Chile. The announcement represents a leadership change in BioMar's Chilean operations.",
@@ -16265,6 +16322,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1972,
+      "headline": "Øksnes, Nyheter | Småbarnsmor Ellinor (32) blir sjef for 65 ansatte - Bladet Vesterålen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNeE1HZlZqMlFHZHg3QThfRnpFNHU5SGVIX0NMQldxWXhlUG44U0p2QmZRVnRXODAwWG5fd3N2cmtDOVBTRTBrTHAtdTNfeVVfcVBZdDhLNHZNM1RMc2NlOHEzMkRZbXZjZm9YM01ydkx4ekx6NnUwS2dDVlktMGdqRWJ0SERSZw?oc=5\" target=\"_blank\">Øksnes, Nyheter | Småbarnsmor Ellinor (32) blir sjef for 65 ansatte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>",
+      "first_seen": "2023-07-03T07:00:00+00:00",
+      "last_seen": "2023-07-03T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1675,
@@ -16979,6 +17050,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1971,
+      "headline": "«Kjære politiker – vend i tide, det er ingen skam å snu! Kjære nordboer – våkne opp!» - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE43Q2YySVh0N3VNVHp4YzYxVU93V0dnWHo4ZmtmT3pvVldpTE81WTJiSHItelBxT2diMWlpR08yV2w2RnVtU2FMZVh2elpGTjc0NHdkTGwyOXM5VERFSFZHZXNqcDdkVkhkMWJZZ3JrQTJublpLTjlzNkhHcUNPcUk?oc=5\" target=\"_blank\">«Kjære politiker – vend i tide, det er ingen skam å snu! Kjære nordboer – våkne opp!»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2023-03-16T07:00:00+00:00",
+      "last_seen": "2023-03-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1915,
@@ -21212,6 +21297,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1970,
+      "headline": "Fôrbåten «Kryssholm» skal bygges om og bli mer miljøvennlig - Fiskeribladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFN1eUdvd09tTV9WeV84NW5wU0VXN1JjV2VSSDBzRjhSVV9kbmpua2ZnUzZ0YVdQUWZtT3R6X0VtR1R0TTUwa3F5UnFNV1I5QU9OT2hveEZYc2FBX0N4a1lEakRUZzQyeF9HOXRRTHhBVFlyQmIyWjhGTGdvakU3Vy1QU0h4YXRkNkw4Wi03N1lwbVF0UUpDdTYyaTM5X2F6SkhYLUxlaFM?oc=5\" target=\"_blank\">Fôrbåten «Kryssholm» skal bygges om og bli mer miljøvennlig</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fiskeribladet</font>",
+      "first_seen": "2020-07-06T07:00:00+00:00",
+      "last_seen": "2020-07-06T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1793,
       "headline": "Grieg Seafood takes aim at Cargill through $105m green bond - Financial Times",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1uek4xWW52YWRjdFpjVmRsT0Z2eTh2UWZsY1dsNEYtZGZ5SEJqY2ViLWppams5TVF5M3FkeUxxa1FBQVplVVVhbFVUcVBoZDdVRnhHcTY2NzVDSXEwc3d5dWxuWFZHUHNzOFdLQ2N6SnI?oc=5\" target=\"_blank\">Grieg Seafood takes aim at Cargill through $105m green bond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
@@ -22796,6 +22895,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1969,
+      "headline": "Misliker utslipp av fôrstøv i Myre havn - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjhsdmpvTGx1NmxKazU3N0ZzZFEyU2R4WmtlN19hLWRtSF8tN2g4M1hncEVWVEQxbS14YXo0cWRxWk9udGpCekI5bm9kb2Y0QW4zS2NwMnRGR19xQkxJSnlkdzFOb3FYb2xvSko5TXdZSHppZlRabHA5SVZfQVBtNA?oc=5\" target=\"_blank\">Misliker utslipp av fôrstøv i Myre havn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2019-01-30T08:00:00+00:00",
+      "last_seen": "2019-01-30T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1613,
       "headline": "Skretting's NZ land-based facility now operational - SalmonBusiness",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVGs4bHgwSnJHMHlQM2l5OVFQZk84Y1pZVHNSMHlzX2dPQnVqN0hzRlpsa3pucXlqZWY2eEZwSFFiZmZUV3hmRC0ycWxJZ3ZjdTl6WWJsT0lJWVdBM0ZxeEpEeTBaeTBCNnZ3YjhNVThvOW1MaVVYeG1RSFZLQVFrWWpidFNOejIt0gGIAUFVX3lxTE5UazhseDBKckcweVAzaXk5UVBmTzhjWllUc1IweXNfZ09CdWo3SHNGWmxrem5xeWplZjZ4RnBIUWJmZlRXeGZELTJxbElndmN1OXpZYmxPSUlZV0EzRnF4SkR5MFp5MEI2dndiOE1VOG85bUxpVVh4bVFIVktBUWtZamJ0U056Mi0?oc=5\" target=\"_blank\">Skretting's NZ land-based facility now operational</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
@@ -23650,6 +23763,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1968,
+      "headline": "Svein Arne Abelsen til minne - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9mRHZ5VkxNaEtMRUhwSVA5UUswbkc4MjdOMVdycEh3MU9WcWJvR3hveVFHZFpKQjM2OUUzV1B3dTRjTWo4Z2dtUHk3em9ubXgzR1J0VFhvSDVkMjlQNjk4ZmpUc2hNbk5ONGlWcmNFWnR1MlU?oc=5\" target=\"_blank\">Svein Arne Abelsen til minne</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2018-04-05T07:00:00+00:00",
+      "last_seen": "2018-04-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 21,
       "headline": "BioMar eierskapet endelig avklart - Kyst.no",
       "story_summary": "The article reports on a final clarification or resolution regarding BioMar's ownership structure. This appears to be a corporate governance announcement relevant to stakeholders in the aquaculture feed sector in Norway and beyond.",
@@ -23818,6 +23945,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1967,
+      "headline": "- Restitusjons-fôring ved PD utbrudd reduserer skadene - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFc2eGFya3BiUDIyN2pwUTlyQzR1NFN3SU1XZ0dKRFRxVlAtdE1LX0htRTljS3Z2TGFuZXQ4S1lpZWtHRkJQQnRRbWRJV1h2OER1eEEwcTFrLTFTOHV4UmdFeENrd3AtYzRjOTZSTHVrZ3BadHJtdWY2NTFLLXFaZUJRWXVTWW1tSkdyZA?oc=5\" target=\"_blank\">- Restitusjons-fôring ved PD utbrudd reduserer skadene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2018-03-17T07:00:00+00:00",
+      "last_seen": "2018-03-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1262,
       "headline": "Høy kapasitet gir muskler i fôrforhandlingene - iLaks",
       "story_summary": "The article discusses how high production capacity gives feed suppliers, including those owned by Schouw, greater bargaining power in negotiations with salmon farmers. Schouw's aquaculture feed operations benefit from economies of scale when dealing with fish farming clients on contract terms and pricing decisions.",
@@ -23840,6 +23981,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1966,
+      "headline": "Kartlegging av tarmbakterier skal gi optimalt fôr og bedret fiskehelse - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUlaTk9SNXpVS2Y1N1JRM2NGRkMyLWVaREhoY2dXdk5BLU1ldUdsbWJhNXJhVlZIS3loZGREMmxuYS1raTBnWW9oTmZiY0VPQnJJWmxtd3VPZVk5bWtUdTlzVFpZbkNNV0F6Yl9hcVAtUkJzOHN3cEJwSVVPaUhWS0RuU2Rtbk8zYXZCR01Xc28xQlhzVkM5eEduRk5vRnhkcjI2WVVfU3k0Y3R2R3FQeUdiaWRGMjFSMEE?oc=5\" target=\"_blank\">Kartlegging av tarmbakterier skal gi optimalt fôr og bedret fiskehelse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2018-03-06T08:00:00+00:00",
+      "last_seen": "2018-03-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -23900,6 +24055,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1965,
+      "headline": "MS Nyksund til Myre - Bladet Vesterålen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1obDVaelpVM1VZUGsxdkRxWXAzd0dDbURONHlFS1ZCR0p6ZFNUUkNkdkZqLVBTZlB3MjluRVg0TjBubkxGMGJBX04zWEc5ZVBPQV9udHlJRW9IaEpqQWVBZg?oc=5\" target=\"_blank\">MS Nyksund til Myre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>",
+      "first_seen": "2018-01-25T08:00:00+00:00",
+      "last_seen": "2018-01-25T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 930,
@@ -24266,6 +24435,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1964,
+      "headline": "næringsliv, sjøfart | Nå får Kristians rederi overlevert nybygget til 200 mill - er verdens største i sitt slag - nord24.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN3B5T2FlcUVYbTFzalM4UjY2dkVja1EzdjZzd2l2aW9tNkQ1N1M2eG5sV3dzV01ORGNoLW1DdEI2bHhVT01ORjZZbmN1WjVwRHZOemExWWVaemVoRE9RWFFYMHZLRmhOOWExbnlabXVBV19lRVJORnh5ZFA0b2RteW44LWtPRHFPZEMzTmp6eGhybXNxdHI2R3Q2eldqamVVX1l5Y2pxazlkbnpmVTF4YzNqM3BsWndkYlYwWUdKMTVvQTlpQkdLbktmVF9iSnBoNzBhV2NzNXB4aWk3M0VCSXd3?oc=5\" target=\"_blank\">næringsliv, sjøfart | Nå får Kristians rederi overlevert nybygget til 200 mill - er verdens største i sitt slag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nord24.no</font>",
+      "first_seen": "2017-10-10T07:00:00+00:00",
+      "last_seen": "2017-10-10T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 895,
       "headline": "Karmøy, næringsliv | BioMar feirer utvidelse - Haugesunds Avis",
       "story_summary": "BioMar marked a significant expansion of its operations on Karmøy, Norway. The article covers the company's growth milestone in the region's business sector.",
@@ -24432,6 +24615,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1963,
+      "headline": "Vil bruke hele fisken - Vesterålnytt",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nd19PdlBfcGozbUtYcFEzbzFGZVdtdVZYenQ3cWw0TGZIT2wxMkYxbk0zdkhUMTM1WG5ka085QWtnSUlRYWpnMFZqaFRVaFNUbkMweHJWQms?oc=5\" target=\"_blank\">Vil bruke hele fisken</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vesterålnytt</font>",
+      "first_seen": "2017-07-29T07:00:00+00:00",
+      "last_seen": "2017-07-29T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 432,
@@ -24700,6 +24897,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1962,
+      "headline": "I front for en mer bærekraftig lakseproduksjon - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzFkcHF4dm9WSERWZ1pRdTh0R1RQWmVTQlpYSE1EOG1HRm93OTlSNlJtLTRtSFlhWUJHaE5nZ0FHM002MFNKeTI3ZlZNc3ZHTW9HWjlHV3lfa0daS2p6WGxtdU1BMmFjbTh0VjRpTGVHT1Z6X2d6OWlsVlFFYXVibUxGZzM1QUVyVDA0NXBoMjVuaFBFdVVJ?oc=5\" target=\"_blank\">I front for en mer bærekraftig lakseproduksjon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2017-04-25T07:00:00+00:00",
+      "last_seen": "2017-04-25T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1315,
       "headline": "Skretting Managing Director Steven Rafferty steps down - SeafoodSource",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbkNQTzZFdGlvWUdtSXRFWVRWeUNadDV3QkNjbTJyQ0l4OEFmejNyVUZodUFrMDhxeUY5X05xZDJNT0hnUTE3LVJPUFZCUDZPc2R1dkhUU2swc3hYUUoxXzRvcjR0WkR6WV9IVW1IQ1VfNXNWanhDMjRwUDAyTVk1QmJWWDlWMEVLZGN4LUp3QlNDcEZ2bnNRVTI2SVFnUzNXQU4zYnVDd0h2dw?oc=5\" target=\"_blank\">Skretting Managing Director Steven Rafferty steps down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
@@ -24838,6 +25049,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1961,
+      "headline": "Oppstart av Biomars forskning i Patagonia - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXZCR0lIRVQ4NlAyc2YzZFNUZVNmVVJZOHJnT2dVSjdlc053REpSOWhHd3lxemttT3F4SE5ieGRYTl9MMGwzcG5sUndFZEh1TFNZci1kT092OHByN25QWnRZYW9kTmlYSEJHaVl2WGQ3OGptSlEySG5MUW1QMnlQTXlSNUt5ckFleWtuQUNfS3kxd3FabjhiNg?oc=5\" target=\"_blank\">Oppstart av Biomars forskning i Patagonia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2017-02-08T08:00:00+00:00",
+      "last_seen": "2017-02-08T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1881,
@@ -25330,6 +25555,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1960,
+      "headline": "Westcon skal levere utstyr til Biomars fabrikkutvidelse på Karmøy - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnFBSzRGSDBpVDg1SmwxVDR6ZkhCWm9kQlMySXdDc2VrTUY1QVVtUl9JdS1ZZWxBcnJDUkF0YkRSRHNsR1dRTlk3czlKMUJqcTBaTzh3LTg3QXlIOUJPSC05S1VVVEppSzN2cnBkOWUyQ1ZjLW0zMjdzZjNIOWNWOW8wR3NUMkxRNnYyTkpibVJaSlpCc3hOS0pNRmRmcV9lVHFTb28weXRMQ1k?oc=5\" target=\"_blank\">Westcon skal levere utstyr til Biomars fabrikkutvidelse på Karmøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2016-05-06T07:00:00+00:00",
+      "last_seen": "2016-05-06T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1706,
       "headline": "Knappe marginer for BioMar i første kvartal - iLaks",
       "story_summary": "BioMar experienced narrow profit margins during the first quarter of 2016. The article focuses on the company's financial performance and margin pressures during this period.",
@@ -25540,6 +25779,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1959,
+      "headline": "NSK Shipping lager miljøvennlig fartøy - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXZIeThUbEdJRE5OS09GQk8wbUh1WGxaTjNqdEFVbExfaUJBLVkwTzJRTE1zXzhVbmhtZHN5aUtQZXZ1eG5PcXhsc2FCUDhvYlFEMDB1di12WkRLbVhUQ1lzUC1NQnl6eU5TYnlKUDVBS1JiU09kOHdXb0ljbEUyV2lyNndmbC0zQlZ3R0hRZUxaS28xYTJvQ2JuOXY?oc=5\" target=\"_blank\">NSK Shipping lager miljøvennlig fartøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2016-02-15T08:00:00+00:00",
+      "last_seen": "2016-02-15T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 416,
       "headline": "EWOS vil bygge bulkanlegg på Bergneset - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kc3AyVlBHMUQ1NHFkUE9neXNFb2dFWExKSktiUEFYSGhnWFpCS2R5NUpMSGZSMnEtUWZYTldHUVlWM2JZRl9hRUdkeDBZd21ZZ2ppbjlJMlE4Y3Z2bktvZUJmLTBuN1k?oc=5\" target=\"_blank\">EWOS vil bygge bulkanlegg på Bergneset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -25566,6 +25819,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1958,
+      "headline": "Whole Foods Market, Blue Circle og BioMar lanserer renere og mer bærekraftig oppdrettslaks - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWg4eDNVaFBUV0xNcG5mczd6QnFFa0VtWUdiaW1uOXJFbmtZY0ZqclBmUFM3c2ZkNlRJVUNVSWxCOUMtcGJPVjVBSWZ6YTBvY3ZqV0ZZNzJjTWc3Um5WNFR5NEpEc3dMZFpEMXZuWXVfMGJERzlxOXMxWDV1WmpURGMwdDNFMlVraU5OcFlsTWE0NFdNeVhwNUpEV3ZLVnkydXF2VEtIZENVZ0pa?oc=5\" target=\"_blank\">Whole Foods Market, Blue Circle og BioMar lanserer renere og mer bærekraftig oppdrettslaks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2016-02-02T08:00:00+00:00",
+      "last_seen": "2016-02-02T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 844,
@@ -26295,6 +26562,34 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1957,
+      "headline": "– Jeg hadde nettopp fått mitt første barn, det hadde vært 11. september. Da føltes det litt risky å være aksjemegler... - nord24.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUS1laHdHbVFlZjZBZkRjbV9YaUlyY3BhNHVwQ2pjREJuQ05KMW5Ob011YUdUNmtvMXQyWTY2NDhDcXZWWmYxbXVyMTBIMUJncHNSMDVwZTQxNGQ0MEtpNWVicS0tbFVXbVA5UE9nc1ZEbkpCQWpVenZNeTNGOWNBcjFKcnRuWkN4V21MTUJYd3BzS2U2QXY2R28xaEdYZTlQSG5SWUFHcXNEMlQwek83RGlHbjZ6UG5LcDhGd010YXZyaktJYWE3M3lneU5YNTF0eEpjc1hBZG1qalAtNHc?oc=5\" target=\"_blank\">– Jeg hadde nettopp fått mitt første barn, det hadde vært 11. september. Da føltes det litt risky å være aksjemegler...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nord24.no</font>",
+      "first_seen": "2014-11-07T08:00:00+00:00",
+      "last_seen": "2014-11-07T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1956,
+      "headline": "Biomar-veteran overtar i Grytåga - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IS1RtUDl3OTE5VDdvMzZ3VWFGT3Z1a1MxRkhsMFNKYUIzUHpXdm1zNHdZbllWTkVGS0t6Q0Z5TG5yaVp3UEw5T19UQ2Z6bFJmampyd1YwRFZsaEhrZW9R?oc=5\" target=\"_blank\">Biomar-veteran overtar i Grytåga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2014-11-06T08:00:00+00:00",
+      "last_seen": "2014-11-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1021,
@@ -27123,6 +27418,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1955,
+      "headline": "Først i verden med gassdrevet lasteskip - Nettavisen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1ZXTnRLd3Z2VnlPNEFRNjhvTkFISjZUUTdwOFd6QkpvaTRTa0RrS0lVRlhNWUJxTV9feEczR0FKTm5iRnJYY2ZYbEFOUWx0bXRHMmlpdVhSbE9JTk9qOGQzbEpqcjdSZWlVV3p2Z3JOSkJieE53TXZhLVc0WFAtODd6Y0xhMl9nU3ZjWDJDdW50RGhw?oc=5\" target=\"_blank\">Først i verden med gassdrevet lasteskip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nettavisen</font>",
+      "first_seen": "2012-01-29T08:00:00+00:00",
+      "last_seen": "2012-01-29T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1052,
       "headline": "Nyheter | Laksefôr verdt 100 millioner - iFinnmark",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPYllISF9HaTJuUzZSd2dwSjBwa01BdDlXUkJGNU4zRkRyRDNERDZvV0NTVkpzVnFaaFpTeUwtdHlZcXFxVjM3c1BEWEtXLWF5WktJSWpkbTFwQ1hZMkZZZmQ3UXgwUnhSN3NmOS0ta1BfNllaSlRybTI3UnA3ZGFCcDN2QU1abEZYc0E?oc=5\" target=\"_blank\">Nyheter | Laksefôr verdt 100 millioner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iFinnmark</font>",
@@ -27205,6 +27514,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1954,
+      "headline": "Øksnes | Verdens største fiskefôr-kontrakt til Biomar - Bladet Vesterålen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0wyZTJnb0lqZXc0NVlybEYzODR3M2l1Z3VHcHpPLWhyQ0tHMjdNaEFZX0FnR2QwSERNLTdhN1Ezb1hpODE1S2tTcnVWZTk1TGl3LTJaSGlOY1ZTcmk2d0pyUTVkUFpLSWFUWnhvOGpRX0lteFg2YlpsVDRPMDBISlQ4RFJPd0NVc2FyYXNXd2hDN2VU?oc=5\" target=\"_blank\">Øksnes | Verdens største fiskefôr-kontrakt til Biomar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>",
+      "first_seen": "2010-05-18T07:00:00+00:00",
+      "last_seen": "2010-05-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 371,
@@ -27345,6 +27668,48 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 1953,
+      "headline": "Laksefôrfabrikk i hardt ver - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTGMyOHV4U25JdWtuZmMzQzRWcFBPa0RJUUtJd0RyZ0dBQy00dGdKYjBYV0N6akh4aFBYOEVERTFmNlNPWVZ5M2lvenU3TXFnZUNjVV9NbDd0M04xUzlyZWV0RVBQd0ZodzI0YjFoNXp0NTcyOXd5ZjFtanhtUVk?oc=5\" target=\"_blank\">Laksefôrfabrikk i hardt ver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2000-10-24T07:00:00+00:00",
+      "last_seen": "2000-10-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1952,
+      "headline": "Storbrann hos BioMar (+) - Intrafish",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1tc2NhMFgzbDJXR1lCbDQ3bUJlMmpab3B0TjhkWG01VUpMTVdtaC1pMjR4MTVyZzVQdlItVXpHZVdWNmZGa2Mwd0hoUVdYM25SLTA0dnE3cTJYcHNhcHJtbWNCMXpxRkhpTlM4YmFtUl9Ndw?oc=5\" target=\"_blank\">Storbrann hos BioMar (+)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
+      "first_seen": "1998-10-05T07:00:00+00:00",
+      "last_seen": "1998-10-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1951,
+      "headline": "Brann i fiskefôrfabrikk i Nordland - VG",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE56VjRibDlxVC1ZTFV6cmZUNGNkOUZ1Sm5lZ3BYYk03T21jajVCOVpDMzdOOWkxd01Cc2U4UDE0UGJsTlJyamdsdFB0bV9jVjJhTkphQVlQNmdDaU5rbU5FbHppR2txQTBibWV6aDFBeUJ2cHBfNXI5cw?oc=5\" target=\"_blank\">Brann i fiskefôrfabrikk i Nordland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VG</font>",
+      "first_seen": "1998-10-04T07:00:00+00:00",
+      "last_seen": "1998-10-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     }
   ],
   "mentions": [
@@ -85815,6 +86180,750 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBKNF8wZUlTVFV1dWV6N1dUdDZINGRDQk1BcGpkNTJEcnpGSkV6enBLbkRPclkyTHNzaGNBcktFZTFLV18wOGM4Y3VaMEdDZGhwZy1GVHRQTlJKX0FiMWVfbll3dmxhRWQxOW5CYWVta0RWMUllSTFReTNR?oc=5\" target=\"_blank\">Fishmeal & Oil Supplies Boosted By EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 272549,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDc2MXR0cFUzbTA2aXhPXzZRQUtNLWlLbEdJa2JTOEU3U0oxM0JEUS1aUVR3MlV1Ukc2eUxFSGd5LVlFSEFmSGZYZ2VUQ2syNy1UMUc5ZVliOHpseWVjSm9ub3hwWlBzeDlCV3dESl9oYmVKTGU2Qk9lT1VxbTFRWTU1NWRPQ3RtemhwWXZqSjlVM2ItSE9NNHFLc1JEdzdp?oc=5",
+      "title": "Basic earnings per share (basic EPS) of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T21:04:28+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDc2MXR0cFUzbTA2aXhPXzZRQUtNLWlLbEdJa2JTOEU3U0oxM0JEUS1aUVR3MlV1Ukc2eUxFSGd5LVlFSEFmSGZYZ2VUQ2syNy1UMUc5ZVliOHpseWVjSm9ub3hwWlBzeDlCV3dESl9oYmVKTGU2Qk9lT1VxbTFRWTU1NWRPQ3RtemhwWXZqSjlVM2ItSE9NNHFLc1JEdzdp?oc=5\" target=\"_blank\">Basic earnings per share (basic EPS) of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 272555,
+      "story_id": 1975,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40TFRTdElVZVR1MHFfcEJHbkhVWHJUdFhLVUFtQ1RKWGVWY0VHTVVmTHktbEU4ZTI5VnFBOWZ3YnZGTndSTWNZRnV3NFcycUs1X1VXY1VFX0htMUlJN1JxUWMtSUY4c2tFVjZ0eXhqdm1LVy1X?oc=5",
+      "title": "BioMar Group A/S Financial Statements – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T20:41:55+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE40TFRTdElVZVR1MHFfcEJHbkhVWHJUdFhLVUFtQ1RKWGVWY0VHTVVmTHktbEU4ZTI5VnFBOWZ3YnZGTndSTWNZRnV3NFcycUs1X1VXY1VFX0htMUlJN1JxUWMtSUY4c2tFVjZ0eXhqdm1LVy1X?oc=5\" target=\"_blank\">BioMar Group A/S Financial Statements – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 272557,
+      "story_id": 1975,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LT056SWQyenYwMWZtSjV0MGFPVDRNR2pEVWg5RXJ1RjNqaWZ4bVJlbzRGc1pzTnZXSERNUm5zcjQxaDEyM1RkbUZvSHBRb2hQYWhjMTFHODhsSmQzYVVQUmhKZWtPR1FuVHFOeDhuNDM1R2M?oc=5",
+      "title": "BioMar Group A/S Revenue Breakdown – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T20:07:15+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5LT056SWQyenYwMWZtSjV0MGFPVDRNR2pEVWg5RXJ1RjNqaWZ4bVJlbzRGc1pzTnZXSERNUm5zcjQxaDEyM1RkbUZvSHBRb2hQYWhjMTFHODhsSmQzYVVQUmhKZWtPR1FuVHFOeDhuNDM1R2M?oc=5\" target=\"_blank\">BioMar Group A/S Revenue Breakdown – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 272558,
+      "story_id": 1975,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Vnp6VXdhSTRYN09HX2xlNnBUZEl4M3RZVE5pWGQ5YXhKTWp0bG1sSGJsdGY0ZG9Ub3IxbEhjWWl0VVJZeUtOWmVfWTBxVTkxMFI2X3ZTVV91WTM5ZVpoSmxTM19CYXdoWkhFOW91NmRYWWVO?oc=5",
+      "title": "BioMar Group A/S Earnings and Revenue – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T20:38:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE82Vnp6VXdhSTRYN09HX2xlNnBUZEl4M3RZVE5pWGQ5YXhKTWp0bG1sSGJsdGY0ZG9Ub3IxbEhjWWl0VVJZeUtOWmVfWTBxVTkxMFI2X3ZTVV91WTM5ZVpoSmxTM19CYXdoWkhFOW91NmRYWWVO?oc=5\" target=\"_blank\">BioMar Group A/S Earnings and Revenue – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 272559,
+      "story_id": 1946,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTU1ODI0MnhPS0d3OTJMX1Y2LWhVaTMzcEF4Wk82WkZ5NnIzUHpVYzk4bkptU0Y1ODBPR0U4SkhBTG0wZFRHMmdheTNUQTF1TFNoS0lRd0lFZ1FLb1FPOFA1eHdLdlVKTm1JcWFXbGZSZ3l5VzRGd081eXZST2hQazVOYVA5Qzc5Vlh0am96YzctYlNyOEQ0Y09uRU1hOG9wc1VoTDZR?oc=5",
+      "title": "Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-04T21:12:56+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTU1ODI0MnhPS0d3OTJMX1Y2LWhVaTMzcEF4Wk82WkZ5NnIzUHpVYzk4bkptU0Y1ODBPR0U4SkhBTG0wZFRHMmdheTNUQTF1TFNoS0lRd0lFZ1FLb1FPOFA1eHdLdlVKTm1JcWFXbGZSZ3l5VzRGd081eXZST2hQazVOYVA5Qzc5Vlh0am96YzctYlNyOEQ0Y09uRU1hOG9wc1VoTDZR?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 272595,
+      "story_id": 1873,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1JhZjdOMWJqckJ5RnAtWnA1MDQ4MTQwUTlzTjV1dkxNOVdBSlhBd19Ud2ZIVzRkNzhQLXFjU0lWV01jYW5zR21uSW9OeTJHNmpKOWJ1TldPWXEzNmZ6UkxtQ21XVWp6N0tlUUZkdmhhb2RCaTViN2Q4QXFwMVZydi1YZUo4UENXcmJ1MDBmUUR2MWVVNjRLeGQxYk05WEVyYWtOXzZIbFJNanJGQTdxYkFiZDdPbDltakY1S0g1Q01fQQ?oc=5",
+      "title": "BioMar A/S : Stabilisation measures taken and end of stabilisation period - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-26T19:15:18+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1JhZjdOMWJqckJ5RnAtWnA1MDQ4MTQwUTlzTjV1dkxNOVdBSlhBd19Ud2ZIVzRkNzhQLXFjU0lWV01jYW5zR21uSW9OeTJHNmpKOWJ1TldPWXEzNmZ6UkxtQ21XVWp6N0tlUUZkdmhhb2RCaTViN2Q4QXFwMVZydi1YZUo4UENXcmJ1MDBmUUR2MWVVNjRLeGQxYk05WEVyYWtOXzZIbFJNanJGQTdxYkFiZDdPbDltakY1S0g1Q01fQQ?oc=5\" target=\"_blank\">BioMar A/S : Stabilisation measures taken and end of stabilisation period</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 272693,
+      "story_id": 1954,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0wyZTJnb0lqZXc0NVlybEYzODR3M2l1Z3VHcHpPLWhyQ0tHMjdNaEFZX0FnR2QwSERNLTdhN1Ezb1hpODE1S2tTcnVWZTk1TGl3LTJaSGlOY1ZTcmk2d0pyUTVkUFpLSWFUWnhvOGpRX0lteFg2YlpsVDRPMDBISlQ4RFJPd0NVc2FyYXNXd2hDN2VU?oc=5",
+      "title": "Øksnes | Verdens største fiskefôr-kontrakt til Biomar - Bladet Vesterålen",
+      "source_name": "Bladet Vesterålen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2010-05-18T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0wyZTJnb0lqZXc0NVlybEYzODR3M2l1Z3VHcHpPLWhyQ0tHMjdNaEFZX0FnR2QwSERNLTdhN1Ezb1hpODE1S2tTcnVWZTk1TGl3LTJaSGlOY1ZTcmk2d0pyUTVkUFpLSWFUWnhvOGpRX0lteFg2YlpsVDRPMDBISlQ4RFJPd0NVc2FyYXNXd2hDN2VU?oc=5\" target=\"_blank\">Øksnes | Verdens største fiskefôr-kontrakt til Biomar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>"
+    },
+    {
+      "id": 272694,
+      "story_id": 1958,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWg4eDNVaFBUV0xNcG5mczd6QnFFa0VtWUdiaW1uOXJFbmtZY0ZqclBmUFM3c2ZkNlRJVUNVSWxCOUMtcGJPVjVBSWZ6YTBvY3ZqV0ZZNzJjTWc3Um5WNFR5NEpEc3dMZFpEMXZuWXVfMGJERzlxOXMxWDV1WmpURGMwdDNFMlVraU5OcFlsTWE0NFdNeVhwNUpEV3ZLVnkydXF2VEtIZENVZ0pa?oc=5",
+      "title": "Whole Foods Market, Blue Circle og BioMar lanserer renere og mer bærekraftig oppdrettslaks - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2016-02-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWg4eDNVaFBUV0xNcG5mczd6QnFFa0VtWUdiaW1uOXJFbmtZY0ZqclBmUFM3c2ZkNlRJVUNVSWxCOUMtcGJPVjVBSWZ6YTBvY3ZqV0ZZNzJjTWc3Um5WNFR5NEpEc3dMZFpEMXZuWXVfMGJERzlxOXMxWDV1WmpURGMwdDNFMlVraU5OcFlsTWE0NFdNeVhwNUpEV3ZLVnkydXF2VEtIZENVZ0pa?oc=5\" target=\"_blank\">Whole Foods Market, Blue Circle og BioMar lanserer renere og mer bærekraftig oppdrettslaks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 272696,
+      "story_id": 1972,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeE1HZlZqMlFHZHg3QThfRnpFNHU5SGVIX0NMQldxWXhlUG44U0p2QmZRVnRXODAwWG5fd3N2cmtDOVBTRTBrTHAtdTNfeVVfcVBZdDhLNHZNM1RMc2NlOHEzMkRZbXZjZm9YM01ydkx4ekx6NnUwS2dDVlktMGdqRWJ0SERSZw?oc=5",
+      "title": "Øksnes, Nyheter | Småbarnsmor Ellinor (32) blir sjef for 65 ansatte - Bladet Vesterålen",
+      "source_name": "Bladet Vesterålen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-07-03T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNeE1HZlZqMlFHZHg3QThfRnpFNHU5SGVIX0NMQldxWXhlUG44U0p2QmZRVnRXODAwWG5fd3N2cmtDOVBTRTBrTHAtdTNfeVVfcVBZdDhLNHZNM1RMc2NlOHEzMkRZbXZjZm9YM01ydkx4ekx6NnUwS2dDVlktMGdqRWJ0SERSZw?oc=5\" target=\"_blank\">Øksnes, Nyheter | Småbarnsmor Ellinor (32) blir sjef for 65 ansatte</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>"
+    },
+    {
+      "id": 272697,
+      "story_id": 1957,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUS1laHdHbVFlZjZBZkRjbV9YaUlyY3BhNHVwQ2pjREJuQ05KMW5Ob011YUdUNmtvMXQyWTY2NDhDcXZWWmYxbXVyMTBIMUJncHNSMDVwZTQxNGQ0MEtpNWVicS0tbFVXbVA5UE9nc1ZEbkpCQWpVenZNeTNGOWNBcjFKcnRuWkN4V21MTUJYd3BzS2U2QXY2R28xaEdYZTlQSG5SWUFHcXNEMlQwek83RGlHbjZ6UG5LcDhGd010YXZyaktJYWE3M3lneU5YNTF0eEpjc1hBZG1qalAtNHc?oc=5",
+      "title": "– Jeg hadde nettopp fått mitt første barn, det hadde vært 11. september. Da føltes det litt risky å være aksjemegler... - nord24.no",
+      "source_name": "nord24.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2014-11-07T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUS1laHdHbVFlZjZBZkRjbV9YaUlyY3BhNHVwQ2pjREJuQ05KMW5Ob011YUdUNmtvMXQyWTY2NDhDcXZWWmYxbXVyMTBIMUJncHNSMDVwZTQxNGQ0MEtpNWVicS0tbFVXbVA5UE9nc1ZEbkpCQWpVenZNeTNGOWNBcjFKcnRuWkN4V21MTUJYd3BzS2U2QXY2R28xaEdYZTlQSG5SWUFHcXNEMlQwek83RGlHbjZ6UG5LcDhGd010YXZyaktJYWE3M3lneU5YNTF0eEpjc1hBZG1qalAtNHc?oc=5\" target=\"_blank\">– Jeg hadde nettopp fått mitt første barn, det hadde vært 11. september. Da føltes det litt risky å være aksjemegler...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nord24.no</font>"
+    },
+    {
+      "id": 272698,
+      "story_id": 1968,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mRHZ5VkxNaEtMRUhwSVA5UUswbkc4MjdOMVdycEh3MU9WcWJvR3hveVFHZFpKQjM2OUUzV1B3dTRjTWo4Z2dtUHk3em9ubXgzR1J0VFhvSDVkMjlQNjk4ZmpUc2hNbk5ONGlWcmNFWnR1MlU?oc=5",
+      "title": "Svein Arne Abelsen til minne - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-04-05T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9mRHZ5VkxNaEtMRUhwSVA5UUswbkc4MjdOMVdycEh3MU9WcWJvR3hveVFHZFpKQjM2OUUzV1B3dTRjTWo4Z2dtUHk3em9ubXgzR1J0VFhvSDVkMjlQNjk4ZmpUc2hNbk5ONGlWcmNFWnR1MlU?oc=5\" target=\"_blank\">Svein Arne Abelsen til minne</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+    },
+    {
+      "id": 272699,
+      "story_id": 1973,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTXhxLThaT0R0dkJSVUZuR01MWnI3d2tUOGZRTDR0dlkxTURwVXk4UTZSQU5WNWFWS1JQMUJ1cWE3eXk2R2dQWDY2cFBXU2JYVldsVHhlMG5VVGo4WUkyMlItcWlyYUxwSVgzWFEweGFYMXpEaFpseGxxSjFtOUtUSGdRWmt0UQ?oc=5",
+      "title": "Øksnes, Næringsliv | Her kommer nybygget til flere titalls millioner - Bladet Vesterålen",
+      "source_name": "Bladet Vesterålen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-09-29T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTXhxLThaT0R0dkJSVUZuR01MWnI3d2tUOGZRTDR0dlkxTURwVXk4UTZSQU5WNWFWS1JQMUJ1cWE3eXk2R2dQWDY2cFBXU2JYVldsVHhlMG5VVGo4WUkyMlItcWlyYUxwSVgzWFEweGFYMXpEaFpseGxxSjFtOUtUSGdRWmt0UQ?oc=5\" target=\"_blank\">Øksnes, Næringsliv | Her kommer nybygget til flere titalls millioner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>"
+    },
+    {
+      "id": 272700,
+      "story_id": 1956,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IS1RtUDl3OTE5VDdvMzZ3VWFGT3Z1a1MxRkhsMFNKYUIzUHpXdm1zNHdZbllWTkVGS0t6Q0Z5TG5yaVp3UEw5T19UQ2Z6bFJmampyd1YwRFZsaEhrZW9R?oc=5",
+      "title": "Biomar-veteran overtar i Grytåga - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2014-11-06T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IS1RtUDl3OTE5VDdvMzZ3VWFGT3Z1a1MxRkhsMFNKYUIzUHpXdm1zNHdZbllWTkVGS0t6Q0Z5TG5yaVp3UEw5T19UQ2Z6bFJmampyd1YwRFZsaEhrZW9R?oc=5\" target=\"_blank\">Biomar-veteran overtar i Grytåga</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 272701,
+      "story_id": 1974,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3d4UHpScG9nVHJLX3BBSXhxM0lLWklNVzZadENZUHl3YkZyQUQwbHRRM2FKdjU5N09CN1JkWm1EbThrTHJDdzN3NW5ZaUJGamo0b0NUWWJpZmtTV01WOVBVSzdTaWpvNUhoRDZwc1pBN00tOEZHYjRJRkRELUk3MkNIWQ?oc=5",
+      "title": "Øksnes, Nyheter | Endelig i gang: – Gleder oss til å flytte sammen - Bladet Vesterålen",
+      "source_name": "Bladet Vesterålen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-06-26T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3d4UHpScG9nVHJLX3BBSXhxM0lLWklNVzZadENZUHl3YkZyQUQwbHRRM2FKdjU5N09CN1JkWm1EbThrTHJDdzN3NW5ZaUJGamo0b0NUWWJpZmtTV01WOVBVSzdTaWpvNUhoRDZwc1pBN00tOEZHYjRJRkRELUk3MkNIWQ?oc=5\" target=\"_blank\">Øksnes, Nyheter | Endelig i gang: – Gleder oss til å flytte sammen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>"
+    },
+    {
+      "id": 272702,
+      "story_id": 1969,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjhsdmpvTGx1NmxKazU3N0ZzZFEyU2R4WmtlN19hLWRtSF8tN2g4M1hncEVWVEQxbS14YXo0cWRxWk9udGpCekI5bm9kb2Y0QW4zS2NwMnRGR19xQkxJSnlkdzFOb3FYb2xvSko5TXdZSHppZlRabHA5SVZfQVBtNA?oc=5",
+      "title": "Misliker utslipp av fôrstøv i Myre havn - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-01-30T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjhsdmpvTGx1NmxKazU3N0ZzZFEyU2R4WmtlN19hLWRtSF8tN2g4M1hncEVWVEQxbS14YXo0cWRxWk9udGpCekI5bm9kb2Y0QW4zS2NwMnRGR19xQkxJSnlkdzFOb3FYb2xvSko5TXdZSHppZlRabHA5SVZfQVBtNA?oc=5\" target=\"_blank\">Misliker utslipp av fôrstøv i Myre havn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+    },
+    {
+      "id": 272703,
+      "story_id": 1952,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tc2NhMFgzbDJXR1lCbDQ3bUJlMmpab3B0TjhkWG01VUpMTVdtaC1pMjR4MTVyZzVQdlItVXpHZVdWNmZGa2Mwd0hoUVdYM25SLTA0dnE3cTJYcHNhcHJtbWNCMXpxRkhpTlM4YmFtUl9Ndw?oc=5",
+      "title": "Storbrann hos BioMar (+) - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "1998-10-05T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1tc2NhMFgzbDJXR1lCbDQ3bUJlMmpab3B0TjhkWG01VUpMTVdtaC1pMjR4MTVyZzVQdlItVXpHZVdWNmZGa2Mwd0hoUVdYM25SLTA0dnE3cTJYcHNhcHJtbWNCMXpxRkhpTlM4YmFtUl9Ndw?oc=5\" target=\"_blank\">Storbrann hos BioMar (+)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>"
+    },
+    {
+      "id": 272704,
+      "story_id": 1965,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1obDVaelpVM1VZUGsxdkRxWXAzd0dDbURONHlFS1ZCR0p6ZFNUUkNkdkZqLVBTZlB3MjluRVg0TjBubkxGMGJBX04zWEc5ZVBPQV9udHlJRW9IaEpqQWVBZg?oc=5",
+      "title": "MS Nyksund til Myre - Bladet Vesterålen",
+      "source_name": "Bladet Vesterålen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-01-25T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1obDVaelpVM1VZUGsxdkRxWXAzd0dDbURONHlFS1ZCR0p6ZFNUUkNkdkZqLVBTZlB3MjluRVg0TjBubkxGMGJBX04zWEc5ZVBPQV9udHlJRW9IaEpqQWVBZg?oc=5\" target=\"_blank\">MS Nyksund til Myre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bladet Vesterålen</font>"
+    },
+    {
+      "id": 272705,
+      "story_id": 1966,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUlaTk9SNXpVS2Y1N1JRM2NGRkMyLWVaREhoY2dXdk5BLU1ldUdsbWJhNXJhVlZIS3loZGREMmxuYS1raTBnWW9oTmZiY0VPQnJJWmxtd3VPZVk5bWtUdTlzVFpZbkNNV0F6Yl9hcVAtUkJzOHN3cEJwSVVPaUhWS0RuU2Rtbk8zYXZCR01Xc28xQlhzVkM5eEduRk5vRnhkcjI2WVVfU3k0Y3R2R3FQeUdiaWRGMjFSMEE?oc=5",
+      "title": "Kartlegging av tarmbakterier skal gi optimalt fôr og bedret fiskehelse - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-03-06T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUlaTk9SNXpVS2Y1N1JRM2NGRkMyLWVaREhoY2dXdk5BLU1ldUdsbWJhNXJhVlZIS3loZGREMmxuYS1raTBnWW9oTmZiY0VPQnJJWmxtd3VPZVk5bWtUdTlzVFpZbkNNV0F6Yl9hcVAtUkJzOHN3cEJwSVVPaUhWS0RuU2Rtbk8zYXZCR01Xc28xQlhzVkM5eEduRk5vRnhkcjI2WVVfU3k0Y3R2R3FQeUdiaWRGMjFSMEE?oc=5\" target=\"_blank\">Kartlegging av tarmbakterier skal gi optimalt fôr og bedret fiskehelse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 272706,
+      "story_id": 1967,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFc2eGFya3BiUDIyN2pwUTlyQzR1NFN3SU1XZ0dKRFRxVlAtdE1LX0htRTljS3Z2TGFuZXQ4S1lpZWtHRkJQQnRRbWRJV1h2OER1eEEwcTFrLTFTOHV4UmdFeENrd3AtYzRjOTZSTHVrZ3BadHJtdWY2NTFLLXFaZUJRWXVTWW1tSkdyZA?oc=5",
+      "title": "- Restitusjons-fôring ved PD utbrudd reduserer skadene - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-03-17T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFc2eGFya3BiUDIyN2pwUTlyQzR1NFN3SU1XZ0dKRFRxVlAtdE1LX0htRTljS3Z2TGFuZXQ4S1lpZWtHRkJQQnRRbWRJV1h2OER1eEEwcTFrLTFTOHV4UmdFeENrd3AtYzRjOTZSTHVrZ3BadHJtdWY2NTFLLXFaZUJRWXVTWW1tSkdyZA?oc=5\" target=\"_blank\">- Restitusjons-fôring ved PD utbrudd reduserer skadene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 272707,
+      "story_id": 1959,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXZIeThUbEdJRE5OS09GQk8wbUh1WGxaTjNqdEFVbExfaUJBLVkwTzJRTE1zXzhVbmhtZHN5aUtQZXZ1eG5PcXhsc2FCUDhvYlFEMDB1di12WkRLbVhUQ1lzUC1NQnl6eU5TYnlKUDVBS1JiU09kOHdXb0ljbEUyV2lyNndmbC0zQlZ3R0hRZUxaS28xYTJvQ2JuOXY?oc=5",
+      "title": "NSK Shipping lager miljøvennlig fartøy - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2016-02-15T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXZIeThUbEdJRE5OS09GQk8wbUh1WGxaTjNqdEFVbExfaUJBLVkwTzJRTE1zXzhVbmhtZHN5aUtQZXZ1eG5PcXhsc2FCUDhvYlFEMDB1di12WkRLbVhUQ1lzUC1NQnl6eU5TYnlKUDVBS1JiU09kOHdXb0ljbEUyV2lyNndmbC0zQlZ3R0hRZUxaS28xYTJvQ2JuOXY?oc=5\" target=\"_blank\">NSK Shipping lager miljøvennlig fartøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 272708,
+      "story_id": 1961,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXZCR0lIRVQ4NlAyc2YzZFNUZVNmVVJZOHJnT2dVSjdlc053REpSOWhHd3lxemttT3F4SE5ieGRYTl9MMGwzcG5sUndFZEh1TFNZci1kT092OHByN25QWnRZYW9kTmlYSEJHaVl2WGQ3OGptSlEySG5MUW1QMnlQTXlSNUt5ckFleWtuQUNfS3kxd3FabjhiNg?oc=5",
+      "title": "Oppstart av Biomars forskning i Patagonia - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-02-08T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXZCR0lIRVQ4NlAyc2YzZFNUZVNmVVJZOHJnT2dVSjdlc053REpSOWhHd3lxemttT3F4SE5ieGRYTl9MMGwzcG5sUndFZEh1TFNZci1kT092OHByN25QWnRZYW9kTmlYSEJHaVl2WGQ3OGptSlEySG5MUW1QMnlQTXlSNUt5ckFleWtuQUNfS3kxd3FabjhiNg?oc=5\" target=\"_blank\">Oppstart av Biomars forskning i Patagonia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 272709,
+      "story_id": 1970,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFN1eUdvd09tTV9WeV84NW5wU0VXN1JjV2VSSDBzRjhSVV9kbmpua2ZnUzZ0YVdQUWZtT3R6X0VtR1R0TTUwa3F5UnFNV1I5QU9OT2hveEZYc2FBX0N4a1lEakRUZzQyeF9HOXRRTHhBVFlyQmIyWjhGTGdvakU3Vy1QU0h4YXRkNkw4Wi03N1lwbVF0UUpDdTYyaTM5X2F6SkhYLUxlaFM?oc=5",
+      "title": "Fôrbåten «Kryssholm» skal bygges om og bli mer miljøvennlig - Fiskeribladet",
+      "source_name": "Fiskeribladet",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-07-06T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFN1eUdvd09tTV9WeV84NW5wU0VXN1JjV2VSSDBzRjhSVV9kbmpua2ZnUzZ0YVdQUWZtT3R6X0VtR1R0TTUwa3F5UnFNV1I5QU9OT2hveEZYc2FBX0N4a1lEakRUZzQyeF9HOXRRTHhBVFlyQmIyWjhGTGdvakU3Vy1QU0h4YXRkNkw4Wi03N1lwbVF0UUpDdTYyaTM5X2F6SkhYLUxlaFM?oc=5\" target=\"_blank\">Fôrbåten «Kryssholm» skal bygges om og bli mer miljøvennlig</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fiskeribladet</font>"
+    },
+    {
+      "id": 272710,
+      "story_id": 1960,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnFBSzRGSDBpVDg1SmwxVDR6ZkhCWm9kQlMySXdDc2VrTUY1QVVtUl9JdS1ZZWxBcnJDUkF0YkRSRHNsR1dRTlk3czlKMUJqcTBaTzh3LTg3QXlIOUJPSC05S1VVVEppSzN2cnBkOWUyQ1ZjLW0zMjdzZjNIOWNWOW8wR3NUMkxRNnYyTkpibVJaSlpCc3hOS0pNRmRmcV9lVHFTb28weXRMQ1k?oc=5",
+      "title": "Westcon skal levere utstyr til Biomars fabrikkutvidelse på Karmøy - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2016-05-06T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnFBSzRGSDBpVDg1SmwxVDR6ZkhCWm9kQlMySXdDc2VrTUY1QVVtUl9JdS1ZZWxBcnJDUkF0YkRSRHNsR1dRTlk3czlKMUJqcTBaTzh3LTg3QXlIOUJPSC05S1VVVEppSzN2cnBkOWUyQ1ZjLW0zMjdzZjNIOWNWOW8wR3NUMkxRNnYyTkpibVJaSlpCc3hOS0pNRmRmcV9lVHFTb28weXRMQ1k?oc=5\" target=\"_blank\">Westcon skal levere utstyr til Biomars fabrikkutvidelse på Karmøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 272711,
+      "story_id": 1971,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43Q2YySVh0N3VNVHp4YzYxVU93V0dnWHo4ZmtmT3pvVldpTE81WTJiSHItelBxT2diMWlpR08yV2w2RnVtU2FMZVh2elpGTjc0NHdkTGwyOXM5VERFSFZHZXNqcDdkVkhkMWJZZ3JrQTJublpLTjlzNkhHcUNPcUk?oc=5",
+      "title": "«Kjære politiker – vend i tide, det er ingen skam å snu! Kjære nordboer – våkne opp!» - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-03-16T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE43Q2YySVh0N3VNVHp4YzYxVU93V0dnWHo4ZmtmT3pvVldpTE81WTJiSHItelBxT2diMWlpR08yV2w2RnVtU2FMZVh2elpGTjc0NHdkTGwyOXM5VERFSFZHZXNqcDdkVkhkMWJZZ3JrQTJublpLTjlzNkhHcUNPcUk?oc=5\" target=\"_blank\">«Kjære politiker – vend i tide, det er ingen skam å snu! Kjære nordboer – våkne opp!»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+    },
+    {
+      "id": 272712,
+      "story_id": 1962,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzFkcHF4dm9WSERWZ1pRdTh0R1RQWmVTQlpYSE1EOG1HRm93OTlSNlJtLTRtSFlhWUJHaE5nZ0FHM002MFNKeTI3ZlZNc3ZHTW9HWjlHV3lfa0daS2p6WGxtdU1BMmFjbTh0VjRpTGVHT1Z6X2d6OWlsVlFFYXVibUxGZzM1QUVyVDA0NXBoMjVuaFBFdVVJ?oc=5",
+      "title": "I front for en mer bærekraftig lakseproduksjon - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-04-25T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzFkcHF4dm9WSERWZ1pRdTh0R1RQWmVTQlpYSE1EOG1HRm93OTlSNlJtLTRtSFlhWUJHaE5nZ0FHM002MFNKeTI3ZlZNc3ZHTW9HWjlHV3lfa0daS2p6WGxtdU1BMmFjbTh0VjRpTGVHT1Z6X2d6OWlsVlFFYXVibUxGZzM1QUVyVDA0NXBoMjVuaFBFdVVJ?oc=5\" target=\"_blank\">I front for en mer bærekraftig lakseproduksjon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 272713,
+      "story_id": 1964,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN3B5T2FlcUVYbTFzalM4UjY2dkVja1EzdjZzd2l2aW9tNkQ1N1M2eG5sV3dzV01ORGNoLW1DdEI2bHhVT01ORjZZbmN1WjVwRHZOemExWWVaemVoRE9RWFFYMHZLRmhOOWExbnlabXVBV19lRVJORnh5ZFA0b2RteW44LWtPRHFPZEMzTmp6eGhybXNxdHI2R3Q2eldqamVVX1l5Y2pxazlkbnpmVTF4YzNqM3BsWndkYlYwWUdKMTVvQTlpQkdLbktmVF9iSnBoNzBhV2NzNXB4aWk3M0VCSXd3?oc=5",
+      "title": "næringsliv, sjøfart | Nå får Kristians rederi overlevert nybygget til 200 mill - er verdens største i sitt slag - nord24.no",
+      "source_name": "nord24.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-10-10T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN3B5T2FlcUVYbTFzalM4UjY2dkVja1EzdjZzd2l2aW9tNkQ1N1M2eG5sV3dzV01ORGNoLW1DdEI2bHhVT01ORjZZbmN1WjVwRHZOemExWWVaemVoRE9RWFFYMHZLRmhOOWExbnlabXVBV19lRVJORnh5ZFA0b2RteW44LWtPRHFPZEMzTmp6eGhybXNxdHI2R3Q2eldqamVVX1l5Y2pxazlkbnpmVTF4YzNqM3BsWndkYlYwWUdKMTVvQTlpQkdLbktmVF9iSnBoNzBhV2NzNXB4aWk3M0VCSXd3?oc=5\" target=\"_blank\">næringsliv, sjøfart | Nå får Kristians rederi overlevert nybygget til 200 mill - er verdens største i sitt slag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nord24.no</font>"
+    },
+    {
+      "id": 272714,
+      "story_id": 1963,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nd19PdlBfcGozbUtYcFEzbzFGZVdtdVZYenQ3cWw0TGZIT2wxMkYxbk0zdkhUMTM1WG5ka085QWtnSUlRYWpnMFZqaFRVaFNUbkMweHJWQms?oc=5",
+      "title": "Vil bruke hele fisken - Vesterålnytt",
+      "source_name": "Vesterålnytt",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-07-29T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nd19PdlBfcGozbUtYcFEzbzFGZVdtdVZYenQ3cWw0TGZIT2wxMkYxbk0zdkhUMTM1WG5ka085QWtnSUlRYWpnMFZqaFRVaFNUbkMweHJWQms?oc=5\" target=\"_blank\">Vil bruke hele fisken</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vesterålnytt</font>"
+    },
+    {
+      "id": 272715,
+      "story_id": 1953,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTGMyOHV4U25JdWtuZmMzQzRWcFBPa0RJUUtJd0RyZ0dBQy00dGdKYjBYV0N6akh4aFBYOEVERTFmNlNPWVZ5M2lvenU3TXFnZUNjVV9NbDd0M04xUzlyZWV0RVBQd0ZodzI0YjFoNXp0NTcyOXd5ZjFtanhtUVk?oc=5",
+      "title": "Laksefôrfabrikk i hardt ver - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2000-10-24T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTGMyOHV4U25JdWtuZmMzQzRWcFBPa0RJUUtJd0RyZ0dBQy00dGdKYjBYV0N6akh4aFBYOEVERTFmNlNPWVZ5M2lvenU3TXFnZUNjVV9NbDd0M04xUzlyZWV0RVBQd0ZodzI0YjFoNXp0NTcyOXd5ZjFtanhtUVk?oc=5\" target=\"_blank\">Laksefôrfabrikk i hardt ver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 272716,
+      "story_id": 1951,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56VjRibDlxVC1ZTFV6cmZUNGNkOUZ1Sm5lZ3BYYk03T21jajVCOVpDMzdOOWkxd01Cc2U4UDE0UGJsTlJyamdsdFB0bV9jVjJhTkphQVlQNmdDaU5rbU5FbHppR2txQTBibWV6aDFBeUJ2cHBfNXI5cw?oc=5",
+      "title": "Brann i fiskefôrfabrikk i Nordland - VG",
+      "source_name": "VG",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "1998-10-04T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE56VjRibDlxVC1ZTFV6cmZUNGNkOUZ1Sm5lZ3BYYk03T21jajVCOVpDMzdOOWkxd01Cc2U4UDE0UGJsTlJyamdsdFB0bV9jVjJhTkphQVlQNmdDaU5rbU5FbHppR2txQTBibWV6aDFBeUJ2cHBfNXI5cw?oc=5\" target=\"_blank\">Brann i fiskefôrfabrikk i Nordland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VG</font>"
+    },
+    {
+      "id": 272717,
+      "story_id": 1955,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1ZXTnRLd3Z2VnlPNEFRNjhvTkFISjZUUTdwOFd6QkpvaTRTa0RrS0lVRlhNWUJxTV9feEczR0FKTm5iRnJYY2ZYbEFOUWx0bXRHMmlpdVhSbE9JTk9qOGQzbEpqcjdSZWlVV3p2Z3JOSkJieE53TXZhLVc0WFAtODd6Y0xhMl9nU3ZjWDJDdW50RGhw?oc=5",
+      "title": "Først i verden med gassdrevet lasteskip - Nettavisen",
+      "source_name": "Nettavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2012-01-29T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1ZXTnRLd3Z2VnlPNEFRNjhvTkFISjZUUTdwOFd6QkpvaTRTa0RrS0lVRlhNWUJxTV9feEczR0FKTm5iRnJYY2ZYbEFOUWx0bXRHMmlpdVhSbE9JTk9qOGQzbEpqcjdSZWlVV3p2Z3JOSkJieE53TXZhLVc0WFAtODd6Y0xhMl9nU3ZjWDJDdW50RGhw?oc=5\" target=\"_blank\">Først i verden med gassdrevet lasteskip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nettavisen</font>"
+    },
+    {
+      "id": 273308,
+      "story_id": 1926,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ09UdGU0cnJONEtzbGFhVms1d1pkVU8ydHNNZkkxNHBudDF2c19SbHUyUWYxemE0Z3ZwLXdPb2dtSWFtbmVTajl6OV9FZ0UyTVNUQ2JBMWNxR2J3SVZDdlljWGk3Zm5tN3F6UUI5a3Z5Ti05MDNWNHRrdVk5dnJWMGV3VXFwTjNldUUyNXlJWWdsdnJidV9Hb2V4V1Q1S21Md29FZ1VBX1hxM3dBcUtwRGRaelY2cDFFVmdKaXNwWW9MSExHQWdPd1ZuVVN4QmNMbjd0ekVrRjRFMG81VWVIeFY2cWhTTlUzWHFFUzRBZw?oc=5",
+      "title": "Skretting Chile anuncia segunda edición de Sustainability & Innovation Conference 2026 - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-06-30T10:20:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ09UdGU0cnJONEtzbGFhVms1d1pkVU8ydHNNZkkxNHBudDF2c19SbHUyUWYxemE0Z3ZwLXdPb2dtSWFtbmVTajl6OV9FZ0UyTVNUQ2JBMWNxR2J3SVZDdlljWGk3Zm5tN3F6UUI5a3Z5Ti05MDNWNHRrdVk5dnJWMGV3VXFwTjNldUUyNXlJWWdsdnJidV9Hb2V4V1Q1S21Md29FZ1VBX1hxM3dBcUtwRGRaelY2cDFFVmdKaXNwWW9MSExHQWdPd1ZuVVN4QmNMbjd0ekVrRjRFMG81VWVIeFY2cWhTTlUzWHFFUzRBZw?oc=5\" target=\"_blank\">Skretting Chile anuncia segunda edición de Sustainability & Innovation Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -85826,6 +86935,30 @@
       "Skretting"
     ],
     "timeseries": [
+      {
+        "week": "1998-W40",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "1998-W41",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2000-W43",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
       {
         "week": "2001-W45",
         "Aller Aqua": 0,
@@ -85899,6 +87032,14 @@
         "Skretting": 0
       },
       {
+        "week": "2010-W20",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2010-W35",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -85944,6 +87085,14 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 1,
+        "Skretting": 0
+      },
+      {
+        "week": "2012-W04",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
         "Skretting": 0
       },
       {
@@ -86253,7 +87402,7 @@
       {
         "week": "2014-W45",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -86501,7 +87650,7 @@
       {
         "week": "2016-W05",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
@@ -86517,7 +87666,7 @@
       {
         "week": "2016-W07",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -86581,7 +87730,7 @@
       {
         "week": "2016-W18",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -86789,7 +87938,7 @@
       {
         "week": "2017-W06",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -86845,7 +87994,7 @@
       {
         "week": "2017-W17",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -86931,6 +88080,14 @@
         "Skretting": 0
       },
       {
+        "week": "2017-W30",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2017-W31",
         "Aller Aqua": 0,
         "BioMar": 1,
@@ -86989,7 +88146,7 @@
       {
         "week": "2017-W41",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -87085,7 +88242,7 @@
       {
         "week": "2018-W04",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -87107,9 +88264,17 @@
         "Skretting": 0
       },
       {
+        "week": "2018-W10",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2018-W11",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 4,
         "Polarfeed": 2,
         "Skretting": 1
@@ -87117,7 +88282,7 @@
       {
         "week": "2018-W14",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -87357,7 +88522,7 @@
       {
         "week": "2019-W05",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -87749,7 +88914,7 @@
       {
         "week": "2020-W28",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -88685,7 +89850,7 @@
       {
         "week": "2023-W11",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -88811,6 +89976,14 @@
         "Skretting": 1
       },
       {
+        "week": "2023-W27",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
         "week": "2023-W29",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -88869,7 +90042,7 @@
       {
         "week": "2023-W39",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -89173,7 +90346,7 @@
       {
         "week": "2024-W26",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 1
@@ -89989,7 +91162,7 @@
       {
         "week": "2026-W26",
         "Aller Aqua": 0,
-        "BioMar": 11,
+        "BioMar": 12,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -89997,10 +91170,10 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 25,
+        "BioMar": 30,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 8
+        "Skretting": 9
       }
     ],
     "totals": [
@@ -90010,7 +91183,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1186
+        "count": 1216
       },
       {
         "company": "Cargill",
@@ -90022,7 +91195,7 @@
       },
       {
         "company": "Skretting",
-        "count": 810
+        "count": 811
       }
     ]
   }
