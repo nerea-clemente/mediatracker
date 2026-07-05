@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T08:25:13+00:00",
+  "generated_at": "2026-07-05T11:16:01+00:00",
   "stats": {
-    "mention_count": 2398,
+    "mention_count": 2400,
     "story_count": 1925,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -351,7 +351,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -542,12 +542,12 @@
       "headline": "Enterprise value to revenue forward de Schouw & Co – FWB:5RF - TradingView",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNQmFDZFJlSUdDeXFNc0lRN09vZWFHUkJCTlVFQ0I3dUxuTFlIN1hzb01Dc0hlcmRuYlVDZlgxUjl6RDB1eTRjMzJzTDBhWWl2OHdrdHp5cTFFRGhiX1N4V0hBT2o3bjM1dmEwTm9rRDJSQnpOdDQ4RlJ0ektTcjhNOWx6MG1jYTBmb0lfRVNwUFk0bVlhYWUzZWpuQXVUTV9OUHNjd2FB?oc=5\" target=\"_blank\">Enterprise value to revenue forward de Schouw & Co – FWB:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "first_seen": "2026-06-29T09:28:06+00:00",
-      "last_seen": "2026-06-30T03:53:24+00:00",
+      "last_seen": "2026-06-30T05:41:56+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 8,
+      "pickup_count": 9,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -85629,6 +85629,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBCNzZyTVVUelBrMmlJbFVIV3dBY1BreFY0NDYxRTh4Sm5fS3MwYXRvcEZZZE5GTVN6cjJrSk9aRXVUenZIZUxUT29mNFY4bUxQem9tZHl6QXRfYzE2SXZYWjIzdHZKY2F4MGZEa0xQNktMbkk?oc=5\" target=\"_blank\">– Egentlig er jeg jo Fevik-jente</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 270810,
+      "story_id": 1946,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVDJWRHVMYUU0SWMxbGc5c3g3eWl3UU9ra0ttdW1zbFlJcFZsdkJqdW05SXNIRWlJbkpZZXV2MHdicURrdEoxb0ZRZEpHRG5idVo0Qnh4NzE0X1JtQ2lXbG9Vb1BDUmN1RnRFemRwMGFlcUVoTVVyLU1ZLVlvT24teER6OWtWTzBnVTZNcUd3am96dmpPN2pMYTdjSHJFLWtfbU4tZVh6OXVqUWhu?oc=5",
+      "title": "Enterprise value to EBIT forward de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-04T22:16:44+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVDJWRHVMYUU0SWMxbGc5c3g3eWl3UU9ra0ttdW1zbFlJcFZsdkJqdW05SXNIRWlJbkpZZXV2MHdicURrdEoxb0ZRZEpHRG5idVo0Qnh4NzE0X1JtQ2lXbG9Vb1BDUmN1RnRFemRwMGFlcUVoTVVyLU1ZLVlvT24teER6OWtWTzBnVTZNcUd3am96dmpPN2pMYTdjSHJFLWtfbU4tZVh6OXVqUWhu?oc=5\" target=\"_blank\">Enterprise value to EBIT forward de BioMar Group A/S – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 270920,
+      "story_id": 1913,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTVMai0tUHlMYVF1ZV9NQXpmbEJIODRicnlMemEwWThRX0wyY3A5RnBab3VMTGJteHdqZ2d5MzRWdE5WZ0pxVldBVGhYZVNhUThYMVQ2X3Jxb2dYOEc4cVlBRlhjbnhBdXdlWUUwTWVsV0JxNkN5aklWUmN3b09KeTNOUmY0RnN3VS1QTTIteTlJcUI0bVhPS3lLLWp2aDJoUjVRbFNIWlg4WUViZ0E?oc=5",
+      "title": "Enterprise value to EBITDA forward of Schouw & Co A/S – OMXCOP:SCHO - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-30T05:41:56+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTVMai0tUHlMYVF1ZV9NQXpmbEJIODRicnlMemEwWThRX0wyY3A5RnBab3VMTGJteHdqZ2d5MzRWdE5WZ0pxVldBVGhYZVNhUThYMVQ2X3Jxb2dYOEc4cVlBRlhjbnhBdXdlWUUwTWVsV0JxNkN5aklWUmN3b09KeTNOUmY0RnN3VS1QTTIteTlJcUI0bVhPS3lLLWp2aDJoUjVRbFNIWlg4WUViZ0E?oc=5\" target=\"_blank\">Enterprise value to EBITDA forward of Schouw & Co A/S – OMXCOP:SCHO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
     }
   ],
   "share_of_voice": {
@@ -89803,7 +89851,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 22,
+        "BioMar": 24,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 7
@@ -89816,7 +89864,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1183
+        "count": 1185
       },
       {
         "company": "Cargill",
