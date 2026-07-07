@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-06T23:03:36+00:00",
+  "generated_at": "2026-07-07T08:49:04+00:00",
   "stats": {
-    "mention_count": 2479,
-    "story_count": 1956,
+    "mention_count": 2505,
+    "story_count": 1961,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -241,6 +241,7 @@
     "TV2.no",
     "TVU | Televisión Universidad de Concepción",
     "Taiwan News",
+    "Teknisk Ukeblad",
     "Teletrece",
     "The Barents Observer",
     "The Business Journals",
@@ -329,6 +330,34 @@
   ],
   "stories": [
     {
+      "id": 1946,
+      "headline": "Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTU1ODI0MnhPS0d3OTJMX1Y2LWhVaTMzcEF4Wk82WkZ5NnIzUHpVYzk4bkptU0Y1ODBPR0U4SkhBTG0wZFRHMmdheTNUQTF1TFNoS0lRd0lFZ1FLb1FPOFA1eHdLdlVKTm1JcWFXbGZSZ3l5VzRGd081eXZST2hQazVOYVA5Qzc5Vlh0am96YzctYlNyOEQ0Y09uRU1hOG9wc1VoTDZR?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-04T21:12:56+00:00",
+      "last_seen": "2026-07-07T00:31:31+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 15,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1983,
+      "headline": "Enterprise value to EBITDA forward de Schouw & Co A/S – OMXCOP:SCHO - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3hvcUpiLWlNdWxuNWZYaUlkRGs0Qmt4WUFpU0NkaW52cmQyR18yNGJyYXc1T3lFZEg5eUViLWNGaHd6VkVQMDlPZzhQdDE1NThJenZGejhqaEk0UUN2b1hUZ3I5VTJNQzlpZDlCV29DaTBoR19fSWp2VkJkODdZZnl4Y3JCZzEwQVRPX242dTUzbTZSZzFpZ2tiWHowbk92aXYtTnFObFNCMXBC?oc=5\" target=\"_blank\">Enterprise value to EBITDA forward de Schouw & Co A/S – OMXCOP:SCHO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-06T17:50:09+00:00",
+      "last_seen": "2026-07-06T17:50:09+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1976,
       "headline": "Price to earnings ratio of BioMar Group A/S – LS:A42CV2 - TradingView",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3dzQVhsUGc3dVJXRWoyZUdKRlZmVmp6ZThfQUt2UGFPYl9ObUhoeHZnZndHVlpiSUI0Z0d3WjVNUHJ1WTZmNEVRZFQ5R0xFdVZXdkZZeVBYMFZmdEk2UWMzdHg1bk0zSm5NWmpsQnBNZ1VwOXNlMHY4MFNHWHFNdEFjLVNJZ1pPeGs2NGQxY1ZxX2NWeGI3ZDNR?oc=5\" target=\"_blank\">Price to earnings ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -338,7 +367,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 30,
+      "pickup_count": 48,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -366,21 +395,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 7,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1946,
-      "headline": "Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT - TradingView",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTU1ODI0MnhPS0d3OTJMX1Y2LWhVaTMzcEF4Wk82WkZ5NnIzUHpVYzk4bkptU0Y1ODBPR0U4SkhBTG0wZFRHMmdheTNUQTF1TFNoS0lRd0lFZ1FLb1FPOFA1eHdLdlVKTm1JcWFXbGZSZ3l5VzRGd081eXZST2hQazVOYVA5Qzc5Vlh0am96YzctYlNyOEQ0Y09uRU1hOG9wc1VoTDZR?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "first_seen": "2026-07-04T21:12:56+00:00",
-      "last_seen": "2026-07-05T22:52:54+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 13,
+      "pickup_count": 8,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -6866,6 +6881,20 @@
       "id": 754,
       "headline": "Renewed alliance to power low-carbon plateau trout aquaculture - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzNNUkpWejlEOERJWTNNSDB6c2VDRkgwTzJwdzB1eUJ0RnU3UlVXbjFrVVhkTU1nYm1kQlRuREtHeTZQWHUtcnNPOGJBS2VtQXkzWmhhUlF2RDJrNUNicFVFTGc1bzlwYUZxczJqQ2xVc0RmWTNialdrM1JBMm9LTzBFamdRVnUxYzdKTl9NVHo5SlNxWnFHU0tCRQ?oc=5\" target=\"_blank\">Renewed alliance to power low-carbon plateau trout aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2025-12-10T08:00:00+00:00",
+      "last_seen": "2025-12-10T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1982,
+      "headline": "Skretting y Longyang Fresh refuerzan su alianza estratégica para impulsar la acuicultura de trucha en la meseta Qinghai-Tíbet, en China - IPac Acuicultura",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8waVc3TzJDcEVRLTQ0ZC1wdkk1OE44bGJjSERBNU1SR2dVLWhMclZyaUd2VmJKemZkVVJYc25EbnpiWjdFTHg3aG8yMmlMNkpmejlBWE9NdmNxbnJkdmVjdnh2X25XaGc1YjN1WA?oc=5\" target=\"_blank\">Skretting y Longyang Fresh refuerzan su alianza estratégica para impulsar la acuicultura de trucha en la meseta Qinghai-Tíbet, en China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
       "first_seen": "2025-12-10T08:00:00+00:00",
       "last_seen": "2025-12-10T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -18859,6 +18888,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1981,
+      "headline": "Søndag stengte Norge havnene for russiske skip. Nå går fôrfrakten til Russland med norsk flagg - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlNzcUh3MFhRWHVIZVRyR3NEbTdWbm1tMmFLUWZ4LXJPNG5oZkUwRFg4T1N1YmZ2S2ZrSFkwbjJNdU00ay1PQ1lpZXpTdWlmc0tWa1pQRTViTDRwckNJZ1NfYVR6Umxid1I4NHZkU20teXR1cVNXZEtiWi1TOW51eGhQaFZDOFFBLXEyR3o0VlFwNV9mckpUeS1od09fQlNScnJxaDNNSUNsQXlqRHJydg?oc=5\" target=\"_blank\">Søndag stengte Norge havnene for russiske skip. Nå går fôrfrakten til Russland med norsk flagg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2022-05-09T07:00:00+00:00",
+      "last_seen": "2022-05-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 68,
       "headline": "Biomar tapte i retten - må betale 36 millioner - LandbasedAQ.no",
       "story_summary": "BioMar lost a legal case and has been ordered to pay 36 million (currency unspecified, likely NOK). The article focuses on this adverse court judgment against the company.",
@@ -21246,6 +21289,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RBSGdrNXUtekFMeG5BOTFiSFJOSFhIbDZWT1M0Vll0R1ZGV3F6WGc3VW1iSG9vdEJHSEdPRzg4bVNiSDZJQmhXMEl4ZngzdDQ4VFhoMG1GSFZWLUQ0NG1INmJEaWIycnhVRVJCb1g5V1dyRWY5UU4yLWRma0RKV1ZVZ0M3RzhUSVpZS1k0cDdJbm1xLU5PdG11Nld6WV9IbndYYkdPTQ?oc=5\" target=\"_blank\">Skretting firma convenio de colaboración con la Universidad Austral de Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paislobo Prensa</font>",
       "first_seen": "2020-07-20T07:00:00+00:00",
       "last_seen": "2020-07-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1980,
+      "headline": "Denne laksen har aldri spist fisk – fôret opp på plante­protein og algeolje - Teknisk Ukeblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzhqY0E4OE5uQ3dKVW1zS3JqZEVJUTY2TC1fdGRBQ0tqVUhSRmJBNVU2Y0RkM3NGTjYyN1M4ZTI3UllOX3lvN0FENllLTUozeHA0Vk9LYlF2T284ZVM1YUk5LUkteVNYMi1NcF84TVNHT3hmU0t1RGc0TkhrU0k1akJEb0lHYi1CcXprMGh4dEYzOFNBZzZUOFUwb0hEazVucFJ3cW9ZR2NYQzg?oc=5\" target=\"_blank\">Denne laksen har aldri spist fisk – fôret opp på plante­protein og algeolje</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Teknisk Ukeblad</font>",
+      "first_seen": "2020-07-12T07:00:00+00:00",
+      "last_seen": "2020-07-12T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -24713,6 +24770,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 1979,
+      "headline": "BioMar Group rapporterer en FIFO-rate på under 1 - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUhsWGJIT1E4OC13RGtINDBWeHZiTVZOU1pUYXJZZE8tYlh1Zjdxd3FaZFE5Z0x5REdURWdFdmIyVHhWT193SGw2Tlg3S3MyWjRCNlowWEJEdlZFZGQ0UlhyT2dxei16bm80bzg2d3JONkJ3ZDhQdFpyRE5sMVZPWFJNRHdDREFUalRMRjA2S1JXa1d3cWd3QWV3aWd4ajg?oc=5\" target=\"_blank\">BioMar Group rapporterer en FIFO-rate på under 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2017-07-05T07:00:00+00:00",
+      "last_seen": "2017-07-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1445,
@@ -88008,6 +88079,630 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPazVFMzc4TTEzZG96Q1dGeU0wSlplUzE2ZTJISm5TMFdLNVNwM09neWZIUGc3V2RuUWFjNWpaaFVaRXBsUi0ybDZuU0JzaGxhZWkyRWJadkJYOHBQNHFGNHdnaHdSaVBhdnREdDhmNEdzZDQtZ1dUcUtHY3BUQnhHcnRLRUJISFB4aXJyTXlUU1A0M0lmXzY4WUx6UEIyS1NfY1E?oc=5\" target=\"_blank\">Skretting to acquire Australian salmon feed facility for €35 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>"
+    },
+    {
+      "id": 277577,
+      "story_id": 1946,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjBmNUdkaTJlUEc0VzJENTQyY3ZZdnpSRF9ER050RU1CckgwN2R1S3N0aVR6cEkxWlRpc3IySjNkWmtPSTJTazNtNUVCTUpJdEg4LWVvLXFYai1iNmw1Zm5XdXVuV180LThaRjE5RmFaU1VXclA3cW8zSjVxcUVwYTZoVGgyaUR3ZENsRHdGN1QwMUh2cXV4dXVVcXU3SVphOTFFd0NtMzdVc2hwdVVVSQ?oc=5",
+      "title": "Enterprise value to EBITDA forward of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-07T00:31:31+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjBmNUdkaTJlUEc0VzJENTQyY3ZZdnpSRF9ER050RU1CckgwN2R1S3N0aVR6cEkxWlRpc3IySjNkWmtPSTJTazNtNUVCTUpJdEg4LWVvLXFYai1iNmw1Zm5XdXVuV180LThaRjE5RmFaU1VXclA3cW8zSjVxcUVwYTZoVGgyaUR3ZENsRHdGN1QwMUh2cXV4dXVVcXU3SVphOTFFd0NtMzdVc2hwdVVVSQ?oc=5\" target=\"_blank\">Enterprise value to EBITDA forward of BioMar Group A/S – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277584,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWtKTkNqMm5IaWlQTG5MdDAzamFPMG1FcEo0WG5nNUVhRGM2VFQ1bnZRYWhOS0N2NE9aLTM5NHpWMUJjdzdyb2hiSU1COEpGX2xVUlhCZzZqSTMxRzQtdHJEbTJ5RHJDQmViNlJsY1JHcWRwdjFqN2lzdXpYNllFUkFjakt3bHhfOW5CUjNmRXVmbzBiRE1aeWt4NA?oc=5",
+      "title": "Cash flow from operating activities of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T02:08:18+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWtKTkNqMm5IaWlQTG5MdDAzamFPMG1FcEo0WG5nNUVhRGM2VFQ1bnZRYWhOS0N2NE9aLTM5NHpWMUJjdzdyb2hiSU1COEpGX2xVUlhCZzZqSTMxRzQtdHJEbTJ5RHJDQmViNlJsY1JHcWRwdjFqN2lzdXpYNllFUkFjakt3bHhfOW5CUjNmRXVmbzBiRE1aeWt4NA?oc=5\" target=\"_blank\">Cash flow from operating activities of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277586,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWE1PeG4xQ1FBUFZWYW51c0FyR1NJTHRFTExUN3RGR0RnUWJJQnVHV2JRSVN2aFdYZEdVM0NNTFdtU3dJcWhqVU9kZmhWTGtzX0wwRHFlUFhrM1JEeG8xNHhTS2pkQVUwSlF5NFFfUk92RGhKVlRuUG5OWWJLM1ptYkVQRkc3cEVoazNCMG9md0RRVVRqWnhNMUFvSQ?oc=5",
+      "title": "Cash flow from investing activities of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T02:13:09+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWE1PeG4xQ1FBUFZWYW51c0FyR1NJTHRFTExUN3RGR0RnUWJJQnVHV2JRSVN2aFdYZEdVM0NNTFdtU3dJcWhqVU9kZmhWTGtzX0wwRHFlUFhrM1JEeG8xNHhTS2pkQVUwSlF5NFFfUk92RGhKVlRuUG5OWWJLM1ptYkVQRkc3cEVoazNCMG9md0RRVVRqWnhNMUFvSQ?oc=5\" target=\"_blank\">Cash flow from investing activities of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277589,
+      "story_id": 1946,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWhQYzlRTVl5dElvRENDTkcwZGlSYjR1eElSbDU5MTg3LThpTGdxNWRGVHlUZDJnWDVKOGxuZjV4TEV2NVdpMUtWNloyZTBuWi0xUk5VeTRqZDNNZ21aaENmNzJMaVJ0dldEUGhSYWFvWGNvdTNuTHFRWUltcHVSaHdlcldDTFZjNkNxUlVwbHhQblBqV3RnZTV0T1lWQTZTUDhjcXJhSnQ?oc=5",
+      "title": "Total liabilities & shareholders' equities of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T00:24:41+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWhQYzlRTVl5dElvRENDTkcwZGlSYjR1eElSbDU5MTg3LThpTGdxNWRGVHlUZDJnWDVKOGxuZjV4TEV2NVdpMUtWNloyZTBuWi0xUk5VeTRqZDNNZ21aaENmNzJMaVJ0dldEUGhSYWFvWGNvdTNuTHFRWUltcHVSaHdlcldDTFZjNkNxUlVwbHhQblBqV3RnZTV0T1lWQTZTUDhjcXJhSnQ?oc=5\" target=\"_blank\">Total liabilities & shareholders' equities of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277880,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTg0OU1QYzhUMElxaDJSOERmaTIzMnBtQ3lqbmd1eV81N3k0d0VjVWhiYmJZc3d0dnhxeWZaVHRYUTIyY2VkMDdnUzd0RGMtQVpnS3dEUHdTZzY1eWZJbmpRWkN6NkJNSlBFMTF1X05JLWhFUENtbVdSQjhBN3ljOW4wcDJNcjJYbWRr?oc=5",
+      "title": "Activos totales de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T01:34:25+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTg0OU1QYzhUMElxaDJSOERmaTIzMnBtQ3lqbmd1eV81N3k0d0VjVWhiYmJZc3d0dnhxeWZaVHRYUTIyY2VkMDdnUzd0RGMtQVpnS3dEUHdTZzY1eWZJbmpRWkN6NkJNSlBFMTF1X05JLWhFUENtbVdSQjhBN3ljOW4wcDJNcjJYbWRr?oc=5\" target=\"_blank\">Activos totales de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277882,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXNQc3I2dDNBSm1nbHNna1Z0eERZMVdEYkV0VkZJbVpuWjE3Q0E2TFBUWGVSQzlha0tuVnVMU3hJWEU4UTFQR09MOGE1S1hjS2ZyTE16SGFxM181SGsySVlGVVdWVDd2QUcwejZuY3VyNkctREV2ZW0wOTA1cVkxZFpzYTN3NE9wbGI2ME91dzk1UnktVE1ISg?oc=5",
+      "title": "EBIT por acción de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T03:32:25+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXNQc3I2dDNBSm1nbHNna1Z0eERZMVdEYkV0VkZJbVpuWjE3Q0E2TFBUWGVSQzlha0tuVnVMU3hJWEU4UTFQR09MOGE1S1hjS2ZyTE16SGFxM181SGsySVlGVVdWVDd2QUcwejZuY3VyNkctREV2ZW0wOTA1cVkxZFpzYTN3NE9wbGI2ME91dzk1UnktVE1ISg?oc=5\" target=\"_blank\">EBIT por acción de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277883,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUZsVUVKMjFfUm5La1FnNmo1MzN4TXJFVHlaRVhQd2o4X1ZzOUFzaHJncVFkY25EQUhWbmRvUzh1Qy1QaGlrSm9XMUdGYXo5RlJZMjlFbmM3LXktRTVvR09oNjRxTHZqT2d2MHJKb21tdnJGV2NaLU9PZHp2M3l4Z2dqck9Ha0F0NzVpLXRBYlJKY2ZW?oc=5",
+      "title": "Ratio de liquidez inmediata (Quick ratio) de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T00:55:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUZsVUVKMjFfUm5La1FnNmo1MzN4TXJFVHlaRVhQd2o4X1ZzOUFzaHJncVFkY25EQUhWbmRvUzh1Qy1QaGlrSm9XMUdGYXo5RlJZMjlFbmM3LXktRTVvR09oNjRxTHZqT2d2MHJKb21tdnJGV2NaLU9PZHp2M3l4Z2dqck9Ha0F0NzVpLXRBYlJKY2ZW?oc=5\" target=\"_blank\">Ratio de liquidez inmediata (Quick ratio) de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277884,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0JWMnNWUmVCeUNJNndWV1JZZEVXSy1MNllvOVBiVm5Bd0gzLWlhTjJjSm1vQmdRQ1BFS3ROQ2dKVzh1bHp4SERyZy1BaTJ1SU1RUFBSMUEtY1d4RGVqbjBLZy1pZ09TYmFleDBPY05BbW9lRkhlcnV6Mjd3LXFXTVlDQUdUWThKRTQ1Qmd5eVJYXy0zTm5oSGlLOXF3UQ?oc=5",
+      "title": "Operaciones discontinuas de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T01:27:21+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNX0JWMnNWUmVCeUNJNndWV1JZZEVXSy1MNllvOVBiVm5Bd0gzLWlhTjJjSm1vQmdRQ1BFS3ROQ2dKVzh1bHp4SERyZy1BaTJ1SU1RUFBSMUEtY1d4RGVqbjBLZy1pZ09TYmFleDBPY05BbW9lRkhlcnV6Mjd3LXFXTVlDQUdUWThKRTQ1Qmd5eVJYXy0zTm5oSGlLOXF3UQ?oc=5\" target=\"_blank\">Operaciones discontinuas de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277887,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUllN1ZJMmVTQk9hMXl5VWZkTGlNX1JnSTlBenlIRTFkaW40VVgzbEtrZkRuV1BVUWJCMUJ6eWh2LS1UTmJabWxvNWY0Wkk2RC0tMDBIcVMzX0lwRUtMWmwtWXBBMV82alhSTGNLYklNODMtZ3hpekstZlJsY0hfQmQ0WmJ0MDNXQ2M3YmRwV1VQVUxhM2pyWUl5LWRNSUE?oc=5",
+      "title": "Ingresos netos antes de operaciones interrumpidas de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T23:58:33+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUllN1ZJMmVTQk9hMXl5VWZkTGlNX1JnSTlBenlIRTFkaW40VVgzbEtrZkRuV1BVUWJCMUJ6eWh2LS1UTmJabWxvNWY0Wkk2RC0tMDBIcVMzX0lwRUtMWmwtWXBBMV82alhSTGNLYklNODMtZ3hpekstZlJsY0hfQmQ0WmJ0MDNXQ2M3YmRwV1VQVUxhM2pyWUl5LWRNSUE?oc=5\" target=\"_blank\">Ingresos netos antes de operaciones interrumpidas de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277888,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeW1BVHBUTzk2bkVBWTl2SnhVc0dORUJKYTg3eWdJbTNtbDcybUNHNFdLZ1dTU2phTXdmSG9IbEk1Ml8zUjhUUVdRWmlrY1RnQXYzc0haVjAtNkNLRW5YZDItd0VXLVZiZlhtWk4zOWpVck91UHJ5NlRFVnU0M3lGWEo1dTBXdGM5Mko4WTM5d1d6YmJMWHFZTExmd3JkMENqVS1NRGpn?oc=5",
+      "title": "Ratio deuda a largo plazo/capital total de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T01:22:41+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPeW1BVHBUTzk2bkVBWTl2SnhVc0dORUJKYTg3eWdJbTNtbDcybUNHNFdLZ1dTU2phTXdmSG9IbEk1Ml8zUjhUUVdRWmlrY1RnQXYzc0haVjAtNkNLRW5YZDItd0VXLVZiZlhtWk4zOWpVck91UHJ5NlRFVnU0M3lGWEo1dTBXdGM5Mko4WTM5d1d6YmJMWHFZTExmd3JkMENqVS1NRGpn?oc=5\" target=\"_blank\">Ratio deuda a largo plazo/capital total de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277889,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnlObG1rTl9sTTRVaTZFMHdPY2lzOUxDaWFLYm1XRE1lV2FFUERlWXNUcGpOOGhaVEljM2MxellNZnhDUlBabkZfX1Q4bkhjVThVYzdqRjVtejhnVzNFSWpacHNvM01PcThaNi1jblpVV3lYblBIX2tzakZnanhBZUx5TUFTYS1GU0FKRFJmZVMzV2t4S2duRA?oc=5",
+      "title": "Ratio deuda/capital de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T07:23:16+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnlObG1rTl9sTTRVaTZFMHdPY2lzOUxDaWFLYm1XRE1lV2FFUERlWXNUcGpOOGhaVEljM2MxellNZnhDUlBabkZfX1Q4bkhjVThVYzdqRjVtejhnVzNFSWpacHNvM01PcThaNi1jblpVV3lYblBIX2tzakZnanhBZUx5TUFTYS1GU0FKRFJmZVMzV2t4S2duRA?oc=5\" target=\"_blank\">Ratio deuda/capital de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277890,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjJ3YW5ITFJ3dHNyZG9ld2l4YXEtWmlkRkxtYk9LUVJKalhINjNNMHczc0lra2lvcjJTRGowOHBwdG5MX2dLYTR2NUhQWnRtLTdqMi1hSXVFOTdwUE9TbExrZkhjRWJldlAwcVdLekNTWFVsMkh0d1FTaEFZd3lrTTVXOTF3ZTV0TjRPUXRYOGZNc3hCV244?oc=5",
+      "title": "Ratio deuda/activos de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T00:31:51+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjJ3YW5ITFJ3dHNyZG9ld2l4YXEtWmlkRkxtYk9LUVJKalhINjNNMHczc0lra2lvcjJTRGowOHBwdG5MX2dLYTR2NUhQWnRtLTdqMi1hSXVFOTdwUE9TbExrZkhjRWJldlAwcVdLekNTWFVsMkh0d1FTaEFZd3lrTTVXOTF3ZTV0TjRPUXRYOGZNc3hCV244?oc=5\" target=\"_blank\">Ratio deuda/activos de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277891,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZGhWbjk0c2E0S1VzRTlMTG9JOE40RXFPUEk5d3IyX3M2X3ZjMl80LXlkZm03SWdMenRuQVFKdHVIcTlrbWpWTzRhbGN4b1RWcGtTTGdtbXlXQUtGYlhBRWFjNU9uVUphOGZ5bi1iUGRsa3VDcDlpTFl6NUEyOXpPamJqelBXZjN5RTRfdVFPOVBFaERONTk1clpCbk5vQQ?oc=5",
+      "title": "Price to earnings forward de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T02:52:15+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZGhWbjk0c2E0S1VzRTlMTG9JOE40RXFPUEk5d3IyX3M2X3ZjMl80LXlkZm03SWdMenRuQVFKdHVIcTlrbWpWTzRhbGN4b1RWcGtTTGdtbXlXQUtGYlhBRWFjNU9uVUphOGZ5bi1iUGRsa3VDcDlpTFl6NUEyOXpPamJqelBXZjN5RTRfdVFPOVBFaERONTk1clpCbk5vQQ?oc=5\" target=\"_blank\">Price to earnings forward de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277893,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlg0VnRhYlFUSUxRSmNCaXBnTmx6RWlTcXVtTnVHcHFhMlI4N00tNGRBbGhQTUxnUk1aNjZWTXM1V1hQOU5rMXU0QXJBTkVIdUtpUWZUUl8xZEFXNnBJNnlra2lyRHJob2dhZWNrNXdIWlR0MDlSVGhqY3pBTmhmN1FHS1kwNUd2ck02YjJ5eUdGS004YWVCeUZDeWhaNjA?oc=5",
+      "title": "Basic earnings per share (basic EPS) de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T04:50:05+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlg0VnRhYlFUSUxRSmNCaXBnTmx6RWlTcXVtTnVHcHFhMlI4N00tNGRBbGhQTUxnUk1aNjZWTXM1V1hQOU5rMXU0QXJBTkVIdUtpUWZUUl8xZEFXNnBJNnlra2lyRHJob2dhZWNrNXdIWlR0MDlSVGhqY3pBTmhmN1FHS1kwNUd2ck02YjJ5eUdGS004YWVCeUZDeWhaNjA?oc=5\" target=\"_blank\">Basic earnings per share (basic EPS) de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277895,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3hPWk1keHZpT25WTll3OTkxUjVhVnhYY05CRnM2RVYwZTVZeDRBWXNSY0dRQS0tRHZBa0MxNE5jWW15eVE1U0QxUExSUzh1R1Q1OVRYR09JZTBwSkk4dVBZUE9QY1Y1aFEwZXYzOUFHTU1xVmdFSVgtVTdaeno1TDZEc3dWMjI2S2Z5U2NBWjhIWkJQa3VuVC1La01vOHkyLU1GT0k2WQ?oc=5",
+      "title": "Capital circulante por acción de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T05:33:59+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3hPWk1keHZpT25WTll3OTkxUjVhVnhYY05CRnM2RVYwZTVZeDRBWXNSY0dRQS0tRHZBa0MxNE5jWW15eVE1U0QxUExSUzh1R1Q1OVRYR09JZTBwSkk4dVBZUE9QY1Y1aFEwZXYzOUFHTU1xVmdFSVgtVTdaeno1TDZEc3dWMjI2S2Z5U2NBWjhIWkJQa3VuVC1La01vOHkyLU1GT0k2WQ?oc=5\" target=\"_blank\">Capital circulante por acción de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277896,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHZMWi03MWNKbHZxXzgzajFzN2VwWXV4MUZGYVdhTnBZUnhRQXh5b2o0cld4UXRjcUZNVm05aVM5RUxSVG5LbU9FaXhhc09IRzJ5TUk5VncxeHlUNk9IMGJUQVNIdHZTdGdUWEJvVnV4UjdnZFMySmg2bEVPR1ZIMmxrcVB0T1JsVm9oS29odUFESjh0UWc5U29SbGp3MVdGcDNnRWNn?oc=5",
+      "title": "Ratio deuda a largo plazo/activos totales de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T05:54:15+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHZMWi03MWNKbHZxXzgzajFzN2VwWXV4MUZGYVdhTnBZUnhRQXh5b2o0cld4UXRjcUZNVm05aVM5RUxSVG5LbU9FaXhhc09IRzJ5TUk5VncxeHlUNk9IMGJUQVNIdHZTdGdUWEJvVnV4UjdnZFMySmg2bEVPR1ZIMmxrcVB0T1JsVm9oS29odUFESjh0UWc5U29SbGp3MVdGcDNnRWNn?oc=5\" target=\"_blank\">Ratio deuda a largo plazo/activos totales de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277897,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDVxQXpUcEJndXMwd3JGMDViTXc1ZjY4X2xRUEJ0ZF9QemVpbWVfRDIyWFhLVjcyLTRHTnhEWk9YRFNuQkowaEZ0UGUwX0FrLVdwcThZTk9WT2Vsc0pBR1I2M0tWT1FyUmtSbU90eDJqVV80OTJscHpIeGRrV2EzNUtOSU1LbzR2MGtFcEJlQ2dRZ3FjQy1TTHlB?oc=5",
+      "title": "Cash flow from operating activities de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T07:58:28+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbDVxQXpUcEJndXMwd3JGMDViTXc1ZjY4X2xRUEJ0ZF9QemVpbWVfRDIyWFhLVjcyLTRHTnhEWk9YRFNuQkowaEZ0UGUwX0FrLVdwcThZTk9WT2Vsc0pBR1I2M0tWT1FyUmtSbU90eDJqVV80OTJscHpIeGRrV2EzNUtOSU1LbzR2MGtFcEJlQ2dRZ3FjQy1TTHlB?oc=5\" target=\"_blank\">Cash flow from operating activities de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277900,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU93SU51dnZiOXZHQ01sVXdzUE5meTZhbXE3dmJ3V3ZqN3FxcklWelViTHhRSFhaWEhjUEFSN203RlNlZmxNQzBRMGo1MnR2QUI2Q0tmTWM5UWNpLVJQWXl0RnVXVW9vZTFROGJmMXZ6UUxTX0tsQlRPR1hJd2prNTBCNmVBLUlPYzBuWXQ5WE1nLVEtYVE?oc=5",
+      "title": "Valor liquidativo actual por acción de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T02:40:09+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU93SU51dnZiOXZHQ01sVXdzUE5meTZhbXE3dmJ3V3ZqN3FxcklWelViTHhRSFhaWEhjUEFSN203RlNlZmxNQzBRMGo1MnR2QUI2Q0tmTWM5UWNpLVJQWXl0RnVXVW9vZTFROGJmMXZ6UUxTX0tsQlRPR1hJd2prNTBCNmVBLUlPYzBuWXQ5WE1nLVEtYVE?oc=5\" target=\"_blank\">Valor liquidativo actual por acción de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277901,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnlteGZTM0ZoZUlSV0RTZGFHanBXOVhfSmdIeUVuT1k4eGFmYWo1UmpvOFRybmZrU1pwX2R4NFZ6MFBFbkNFQlduRThRd0ZFaTVDTmFLSGxGMFpGeFBpRU9qMllWOGdNQjlGQmVtTHhSZUtlaWZlQTJXWTZ5UXpITGx1enlsaE5Ta2x5WXZ5dGxoYi12NmVyRXN3?oc=5",
+      "title": "Cash flow from investing activities de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T03:35:25+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnlteGZTM0ZoZUlSV0RTZGFHanBXOVhfSmdIeUVuT1k4eGFmYWo1UmpvOFRybmZrU1pwX2R4NFZ6MFBFbkNFQlduRThRd0ZFaTVDTmFLSGxGMFpGeFBpRU9qMllWOGdNQjlGQmVtTHhSZUtlaWZlQTJXWTZ5UXpITGx1enlsaE5Ta2x5WXZ5dGxoYi12NmVyRXN3?oc=5\" target=\"_blank\">Cash flow from investing activities de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277902,
+      "story_id": 1975,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xeVlxOWI2b3kzYVA0dGg5WlhkU1d0M0l3dThaRzYxOXZTckNGa2pXXzdWLXNyend1ZUhwR3VOYkNlT2d1OHg0V2JDVDN5TEFnWVAtWFRuWmdEdkRLNTdidldBMHg5SUQ5QnZ6VnN6SFoxWkJnd1pzNVh3?oc=5",
+      "title": "BioMar Group A/S Balance de situación – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T23:50:53+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4xeVlxOWI2b3kzYVA0dGg5WlhkU1d0M0l3dThaRzYxOXZTckNGa2pXXzdWLXNyend1ZUhwR3VOYkNlT2d1OHg0V2JDVDN5TEFnWVAtWFRuWmdEdkRLNTdidldBMHg5SUQ5QnZ6VnN6SFoxWkJnd1pzNVh3?oc=5\" target=\"_blank\">BioMar Group A/S Balance de situación – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 277903,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmFDR2YzRHJXSnlrbjA4aWtiNmJlR0tWYUx4YURBZUNLYkkwaEY4UkpEaWZuR3lidGlEQXdSaUxGSXRrdDV0c25GQ0c0Q2Z2RGZoME85RnFEcW5aYXc2ckNqdklGbG9NcXIzTEhYMVA3YnZEV3hZSDZvY0RVZHRSSG05SDdadw?oc=5",
+      "title": "Deuda neta de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T06:04:12+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmFDR2YzRHJXSnlrbjA4aWtiNmJlR0tWYUx4YURBZUNLYkkwaEY4UkpEaWZuR3lidGlEQXdSaUxGSXRrdDV0c25GQ0c0Q2Z2RGZoME85RnFEcW5aYXc2ckNqdklGbG9NcXIzTEhYMVA3YnZEV3hZSDZvY0RVZHRSSG05SDdadw?oc=5\" target=\"_blank\">Deuda neta de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 278032,
+      "story_id": 1983,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3hvcUpiLWlNdWxuNWZYaUlkRGs0Qmt4WUFpU0NkaW52cmQyR18yNGJyYXc1T3lFZEg5eUViLWNGaHd6VkVQMDlPZzhQdDE1NThJenZGejhqaEk0UUN2b1hUZ3I5VTJNQzlpZDlCV29DaTBoR19fSWp2VkJkODdZZnl4Y3JCZzEwQVRPX242dTUzbTZSZzFpZ2tiWHowbk92aXYtTnFObFNCMXBC?oc=5",
+      "title": "Enterprise value to EBITDA forward de Schouw & Co A/S – OMXCOP:SCHO - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T17:50:09+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3hvcUpiLWlNdWxuNWZYaUlkRGs0Qmt4WUFpU0NkaW52cmQyR18yNGJyYXc1T3lFZEg5eUViLWNGaHd6VkVQMDlPZzhQdDE1NThJenZGejhqaEk0UUN2b1hUZ3I5VTJNQzlpZDlCV29DaTBoR19fSWp2VkJkODdZZnl4Y3JCZzEwQVRPX242dTUzbTZSZzFpZ2tiWHowbk92aXYtTnFObFNCMXBC?oc=5\" target=\"_blank\">Enterprise value to EBITDA forward de Schouw & Co A/S – OMXCOP:SCHO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 278057,
+      "story_id": 1979,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUhsWGJIT1E4OC13RGtINDBWeHZiTVZOU1pUYXJZZE8tYlh1Zjdxd3FaZFE5Z0x5REdURWdFdmIyVHhWT193SGw2Tlg3S3MyWjRCNlowWEJEdlZFZGQ0UlhyT2dxei16bm80bzg2d3JONkJ3ZDhQdFpyRE5sMVZPWFJNRHdDREFUalRMRjA2S1JXa1d3cWd3QWV3aWd4ajg?oc=5",
+      "title": "BioMar Group rapporterer en FIFO-rate på under 1 - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-07-05T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUhsWGJIT1E4OC13RGtINDBWeHZiTVZOU1pUYXJZZE8tYlh1Zjdxd3FaZFE5Z0x5REdURWdFdmIyVHhWT193SGw2Tlg3S3MyWjRCNlowWEJEdlZFZGQ0UlhyT2dxei16bm80bzg2d3JONkJ3ZDhQdFpyRE5sMVZPWFJNRHdDREFUalRMRjA2S1JXa1d3cWd3QWV3aWd4ajg?oc=5\" target=\"_blank\">BioMar Group rapporterer en FIFO-rate på under 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 278058,
+      "story_id": 1981,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlNzcUh3MFhRWHVIZVRyR3NEbTdWbm1tMmFLUWZ4LXJPNG5oZkUwRFg4T1N1YmZ2S2ZrSFkwbjJNdU00ay1PQ1lpZXpTdWlmc0tWa1pQRTViTDRwckNJZ1NfYVR6Umxid1I4NHZkU20teXR1cVNXZEtiWi1TOW51eGhQaFZDOFFBLXEyR3o0VlFwNV9mckpUeS1od09fQlNScnJxaDNNSUNsQXlqRHJydg?oc=5",
+      "title": "Søndag stengte Norge havnene for russiske skip. Nå går fôrfrakten til Russland med norsk flagg - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-05-09T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMlNzcUh3MFhRWHVIZVRyR3NEbTdWbm1tMmFLUWZ4LXJPNG5oZkUwRFg4T1N1YmZ2S2ZrSFkwbjJNdU00ay1PQ1lpZXpTdWlmc0tWa1pQRTViTDRwckNJZ1NfYVR6Umxid1I4NHZkU20teXR1cVNXZEtiWi1TOW51eGhQaFZDOFFBLXEyR3o0VlFwNV9mckpUeS1od09fQlNScnJxaDNNSUNsQXlqRHJydg?oc=5\" target=\"_blank\">Søndag stengte Norge havnene for russiske skip. Nå går fôrfrakten til Russland med norsk flagg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 278284,
+      "story_id": 1980,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzhqY0E4OE5uQ3dKVW1zS3JqZEVJUTY2TC1fdGRBQ0tqVUhSRmJBNVU2Y0RkM3NGTjYyN1M4ZTI3UllOX3lvN0FENllLTUozeHA0Vk9LYlF2T284ZVM1YUk5LUkteVNYMi1NcF84TVNHT3hmU0t1RGc0TkhrU0k1akJEb0lHYi1CcXprMGh4dEYzOFNBZzZUOFUwb0hEazVucFJ3cW9ZR2NYQzg?oc=5",
+      "title": "Denne laksen har aldri spist fisk – fôret opp på plante­protein og algeolje - Teknisk Ukeblad",
+      "source_name": "Teknisk Ukeblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-07-12T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzhqY0E4OE5uQ3dKVW1zS3JqZEVJUTY2TC1fdGRBQ0tqVUhSRmJBNVU2Y0RkM3NGTjYyN1M4ZTI3UllOX3lvN0FENllLTUozeHA0Vk9LYlF2T284ZVM1YUk5LUkteVNYMi1NcF84TVNHT3hmU0t1RGc0TkhrU0k1akJEb0lHYi1CcXprMGh4dEYzOFNBZzZUOFUwb0hEazVucFJ3cW9ZR2NYQzg?oc=5\" target=\"_blank\">Denne laksen har aldri spist fisk – fôret opp på plante­protein og algeolje</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Teknisk Ukeblad</font>"
+    },
+    {
+      "id": 278403,
+      "story_id": 1982,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8waVc3TzJDcEVRLTQ0ZC1wdkk1OE44bGJjSERBNU1SR2dVLWhMclZyaUd2VmJKemZkVVJYc25EbnpiWjdFTHg3aG8yMmlMNkpmejlBWE9NdmNxbnJkdmVjdnh2X25XaGc1YjN1WA?oc=5",
+      "title": "Skretting y Longyang Fresh refuerzan su alianza estratégica para impulsar la acuicultura de trucha en la meseta Qinghai-Tíbet, en China - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2025-12-10T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8waVc3TzJDcEVRLTQ0ZC1wdkk1OE44bGJjSERBNU1SR2dVLWhMclZyaUd2VmJKemZkVVJYc25EbnpiWjdFTHg3aG8yMmlMNkpmejlBWE9NdmNxbnJkdmVjdnh2X25XaGc1YjN1WA?oc=5\" target=\"_blank\">Skretting y Longyang Fresh refuerzan su alianza estratégica para impulsar la acuicultura de trucha en la meseta Qinghai-Tíbet, en China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
     }
   ],
   "share_of_voice": {
@@ -89150,7 +89845,7 @@
       {
         "week": "2017-W27",
         "Aller Aqua": 1,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
@@ -90001,7 +90696,7 @@
         "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2020-W30",
@@ -90606,7 +91301,7 @@
       {
         "week": "2022-W19",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -92025,7 +92720,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2025-W51",
@@ -92254,7 +92949,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 62,
+        "BioMar": 64,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 9
@@ -92262,7 +92957,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 29,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -92275,7 +92970,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1258
+        "count": 1282
       },
       {
         "company": "Cargill",
@@ -92287,7 +92982,7 @@
       },
       {
         "company": "Skretting",
-        "count": 813
+        "count": 815
       }
     ]
   }
