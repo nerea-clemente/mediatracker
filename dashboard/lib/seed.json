@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-07T12:13:15+00:00",
+  "generated_at": "2026-07-07T18:01:49+00:00",
   "stats": {
-    "mention_count": 2510,
-    "story_count": 1961,
+    "mention_count": 2513,
+    "story_count": 1962,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -219,6 +219,7 @@
     "Ringerikes Blad",
     "Rubber News",
     "RuhrkanalNews",
+    "Salmon Business",
     "SalmonBusiness",
     "SalmonChile",
     "Salmonexpert",
@@ -330,6 +331,20 @@
   ],
   "stories": [
     {
+      "id": 1984,
+      "headline": "Schouw & Co Actuals & Estimates (OMXCOP:SCHO) - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2dZeWRxemZuckVJcW5qSVRlNzc5Y3ZTbWh4d2IyalI4Y0xmWS1WbTRJSmgtb2U0ai1KZmx4Y29sOXRibUFGMVl1MWpOeXRQTHZCWVJmbjNnTG4yckl3VVBkalA3aWxrNjA5UVRBeHlObUNUR29LZTFXVlBqZmkxeTk4cFk?oc=5\" target=\"_blank\">Schouw & Co Actuals & Estimates (OMXCOP:SCHO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-07T01:33:42+00:00",
+      "last_seen": "2026-07-07T01:33:42+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1946,
       "headline": "Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT - TradingView",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTU1ODI0MnhPS0d3OTJMX1Y2LWhVaTMzcEF4Wk82WkZ5NnIzUHpVYzk4bkptU0Y1ODBPR0U4SkhBTG0wZFRHMmdheTNUQTF1TFNoS0lRd0lFZ1FLb1FPOFA1eHdLdlVKTm1JcWFXbGZSZ3l5VzRGd081eXZST2hQazVOYVA5Qzc5Vlh0am96YzctYlNyOEQ0Y09uRU1hOG9wc1VoTDZR?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -367,7 +382,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 51,
+      "pickup_count": 52,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -3737,7 +3752,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -88823,6 +88838,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOclBoaFZLM01UV3Fka0dsTFRYMENHOW1SUEdSczFFbUh3NGU4Q1J3eXoyTVZOdFB1M24zNnZMdm5veFV3M2NBQ1RoLWpqZ0h4ZWliOXNjWnM1RFUwdEo3N0xYVmxydzNIT2xVRmNJSmthZ092YUJ6VnVMWDRwZGJ1OFJXS3F4aWx3YTI1T2N3bi1ub1V4VW5ocXF0LUlPNnZRdF9qd2VsdTRNSl9YMzNndmZ1UVctMThrVzF0WEtR0gHDAUFVX3lxTE1ZSzNQSi1yMW1xNWFSejVWTGtILUpYU28wUzl2akxZQ3hBWWFRRno0aS1HenZlcE5hMjBfZ1ZPckg5Qm1QQmxLT1BKcWphTDdrUnRpeXJqRmNndXBjWVQ4U2dzODVWOVFTLTMzYV9rSEM0Tnd2ekIyZHdnUUNrZ1MydGkxZjBxRVFTMmdHUlFLTzJfNTdxTGZMR19TS2dmLTU3WGJBUFB3T0VSblpteUtobGRpenE0WWNRcUFHOUZxQzU3VQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 10 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 279612,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmZCWUVyODZ2T3J4TkdDYUxTMmRiaWtTVmtWbWhvc2ZPYXd1dHJEeF84QWwza0txcnd6VWlWTEtUdjdnVzZwdldtZld2SzUwT0hYV0JjNVE2c2tqeWUzRkFUZzNCZmY1blJJRVBCcG0wV2ZhZUhfS2JxY1lPTWpnMnR2UUQ1clJqZVU3bmFQNTRTSm9ndV9aLUZSdUhtWXdYdXpndF9fdw?oc=5",
+      "title": "Long term debt to total assets ratio of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T22:00:44+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmZCWUVyODZ2T3J4TkdDYUxTMmRiaWtTVmtWbWhvc2ZPYXd1dHJEeF84QWwza0txcnd6VWlWTEtUdjdnVzZwdldtZld2SzUwT0hYV0JjNVE2c2tqeWUzRkFUZzNCZmY1blJJRVBCcG0wV2ZhZUhfS2JxY1lPTWpnMnR2UUQ1clJqZVU3bmFQNTRTSm9ndV9aLUZSdUhtWXdYdXpndF9fdw?oc=5\" target=\"_blank\">Long term debt to total assets ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 280071,
+      "story_id": 1984,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2dZeWRxemZuckVJcW5qSVRlNzc5Y3ZTbWh4d2IyalI4Y0xmWS1WbTRJSmgtb2U0ai1KZmx4Y29sOXRibUFGMVl1MWpOeXRQTHZCWVJmbjNnTG4yckl3VVBkalA3aWxrNjA5UVRBeHlObUNUR29LZTFXVlBqZmkxeTk4cFk?oc=5",
+      "title": "Schouw & Co Actuals & Estimates (OMXCOP:SCHO) - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-07T01:33:42+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2dZeWRxemZuckVJcW5qSVRlNzc5Y3ZTbWh4d2IyalI4Y0xmWS1WbTRJSmgtb2U0ai1KZmx4Y29sOXRibUFGMVl1MWpOeXRQTHZCWVJmbjNnTG4yckl3VVBkalA3aWxrNjA5UVRBeHlObUNUR29LZTFXVlBqZmkxeTk4cFk?oc=5\" target=\"_blank\">Schouw & Co Actuals & Estimates (OMXCOP:SCHO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 280170,
+      "story_id": 1771,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHdVVmV1Si1MOFFfdmtRM3Q2YU1fTlpiYlhzbHhBdS1LbFZ0RHpTcVlDeXpVendRc2RNd0lURE5ycEVTbmltRFNxV29jSFdscnZadlZGRDRrNFl0YnJZTzBlY3g2VmF1U2pIbkNWWWY1U3ZKRDhKdXZiN05mYWZ4SV9OQmNaNmFjX1haM19QT0dPVllITkhDM3VnWDhsZHZzRlE?oc=5",
+      "title": "Norway: plans tighter Russian feed raw material trade as imports rise - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-04-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHdVVmV1Si1MOFFfdmtRM3Q2YU1fTlpiYlhzbHhBdS1LbFZ0RHpTcVlDeXpVendRc2RNd0lURE5ycEVTbmltRFNxV29jSFdscnZadlZGRDRrNFl0YnJZTzBlY3g2VmF1U2pIbkNWWWY1U3ZKRDhKdXZiN05mYWZ4SV9OQmNaNmFjX1haM19QT0dPVllITkhDM3VnWDhsZHZzRlE?oc=5\" target=\"_blank\">Norway: plans tighter Russian feed raw material trade as imports rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
     }
   ],
   "share_of_voice": {
@@ -92992,7 +93079,7 @@
         "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 10
+        "Skretting": 11
       },
       {
         "week": "2026-W18",
@@ -93069,7 +93156,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 65,
+        "BioMar": 66,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 9
@@ -93077,7 +93164,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 32,
+        "BioMar": 33,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -93090,7 +93177,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1287
+        "count": 1289
       },
       {
         "company": "Cargill",
@@ -93102,7 +93189,7 @@
       },
       {
         "company": "Skretting",
-        "count": 815
+        "count": 816
       }
     ]
   }
