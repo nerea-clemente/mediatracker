@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T17:38:55+00:00",
+  "generated_at": "2026-07-08T23:01:09+00:00",
   "stats": {
-    "mention_count": 2541,
+    "mention_count": 2543,
     "story_count": 1966,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -335,12 +335,12 @@
       "headline": "Why is BioMar stock rallying today? - Investing.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVZSZ3BQQjFYREp3aFFLMjBUMHNsRTVIQ3JCaU9ISzQ0WHlRRTRCR0VZZUkwQ240TmNXR1I0cG01ZUJ3Z2xjNFczbG85TE5OWFJQZm9ycmlkRHRDaFoxQkpYdEw5ZDdXV0tUNmNEYnFhbC1SeUEwTFI0SWxzdEZlS0IxZEdxN0VKdjNBb3RwdjhNdDZMbUo2and4U2k?oc=5\" target=\"_blank\">Why is BioMar stock rallying today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
       "first_seen": "2026-07-08T07:56:04+00:00",
-      "last_seen": "2026-07-08T07:56:04+00:00",
+      "last_seen": "2026-07-08T08:08:38+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -368,7 +368,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -89638,6 +89638,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQi1Ld0xQaS1wTGk1eFBUZE5BZl9NSlRQLWxCMFdVX3pVY2RjUFZweGRsTDhQeWRxNFF4bmxlejZHU3Y3NWlDRXl6dGdUQVFlUVhLS2UxS2ViTWpCd1cxaVZmMHE3d1RucTh3amhqWVFVdFJ0am1wSXpudlRQdXA3Njc5SVhkN2lKUHNLX1pJRkhtUlpvdWZwZzFCc0dkTE9I?oc=5\" target=\"_blank\">Firefighters tackled blaze at US Skretting feed manufacturing plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 284720,
+      "story_id": 1986,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzRIRksxd2dxZnpTRHd6ZFlhOTgxQWpKTEdSdWtnNzZFNXQtUXNJZWg1UXJyZFU0WVJMQU5iU2tIVDJ1T1M3Y1pnbUZmWXdfMWNQUmc1X2kyeVl1VEthZzR2UHB4U3JSUVFMZEpXZ3k5dU5wb0VKbzZVZWRXUmo5MWctLUlMYllzcTlWNnlXS18zRXRKTG04cUlvTXFEVnUzakJ0Wl9EekgxZFp2b3dOTDlnbFI0WTRhb19YSmdEZ2RWdw?oc=5",
+      "title": "Morgan Stanley cautious on BioMar as input inflation clouds earnings By Investing.com - Investing.com UK",
+      "source_name": "Investing.com UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-08T06:32:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzRIRksxd2dxZnpTRHd6ZFlhOTgxQWpKTEdSdWtnNzZFNXQtUXNJZWg1UXJyZFU0WVJMQU5iU2tIVDJ1T1M3Y1pnbUZmWXdfMWNQUmc1X2kyeVl1VEthZzR2UHB4U3JSUVFMZEpXZ3k5dU5wb0VKbzZVZWRXUmo5MWctLUlMYllzcTlWNnlXS18zRXRKTG04cUlvTXFEVnUzakJ0Wl9EekgxZFp2b3dOTDlnbFI0WTRhb19YSmdEZ2RWdw?oc=5\" target=\"_blank\">Morgan Stanley cautious on BioMar as input inflation clouds earnings By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>"
+    },
+    {
+      "id": 284725,
+      "story_id": 1988,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnExaGdEc1lMZmNILU5qbjlXNy1IcWY3WlpybjdtSkNGcFMxNjNQYTZwaWo1SFl3a0VuSHRoZElZUkgzVGRXV1ZhLUt0ZW9wckFOSkUwdHViQjhvcFdtY2s0Z2d0bFJlV1NZZnRTQk44QmVoeGJIS2ZJOG91OFdvclpYc3hEWGpNUkZmN0pMOU53TXFzREhOOWdZWjQ1aHk5RjdNbUN0UlZqOE0?oc=5",
+      "title": "Why is BioMar stock rallying today? By Investing.com - Investing.com South Africa",
+      "source_name": "Investing.com South Africa",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-08T08:08:38+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnExaGdEc1lMZmNILU5qbjlXNy1IcWY3WlpybjdtSkNGcFMxNjNQYTZwaWo1SFl3a0VuSHRoZElZUkgzVGRXV1ZhLUt0ZW9wckFOSkUwdHViQjhvcFdtY2s0Z2d0bFJlV1NZZnRTQk44QmVoeGJIS2ZJOG91OFdvclpYc3hEWGpNUkZmN0pMOU53TXFzREhOOWdZWjQ1aHk5RjdNbUN0UlZqOE0?oc=5\" target=\"_blank\">Why is BioMar stock rallying today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com South Africa</font>"
     }
   ],
   "share_of_voice": {
@@ -93892,7 +93940,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 52,
+        "BioMar": 54,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -93905,7 +93953,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1315
+        "count": 1317
       },
       {
         "company": "Cargill",
