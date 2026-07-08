@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-08T07:53:56+00:00",
+  "generated_at": "2026-07-08T11:20:28+00:00",
   "stats": {
-    "mention_count": 2531,
-    "story_count": 1964,
+    "mention_count": 2538,
+    "story_count": 1966,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -331,6 +331,34 @@
   ],
   "stories": [
     {
+      "id": 1988,
+      "headline": "Why is BioMar stock rallying today? - Investing.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVZSZ3BQQjFYREp3aFFLMjBUMHNsRTVIQ3JCaU9ISzQ0WHlRRTRCR0VZZUkwQ240TmNXR1I0cG01ZUJ3Z2xjNFczbG85TE5OWFJQZm9ycmlkRHRDaFoxQkpYdEw5ZDdXV0tUNmNEYnFhbC1SeUEwTFI0SWxzdEZlS0IxZEdxN0VKdjNBb3RwdjhNdDZMbUo2and4U2k?oc=5\" target=\"_blank\">Why is BioMar stock rallying today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "first_seen": "2026-07-08T07:56:04+00:00",
+      "last_seen": "2026-07-08T07:56:04+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 1987,
+      "headline": "¿Por qué sube hoy la acción de BioMar? - Investing.com España",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPUEZGRmplY1pWVkR6eU92REtITHlXMnRNUzhBRTRSSFhzUDB1N090TmR0S1N1Y0NfWFVtUWJ6S1pXOW9EV1FybjRBcE9kbnl0eUFNOEJFbDJIc1lwTEQwZlZ2c3dQVnFZT0hYM1M1Z2gtbW9DT3d5a2pINkNPLXBxWnZSMVZ4b0d2NjlqSUJtT2lEVkNjMlRHOUNmeDRpQQ?oc=5\" target=\"_blank\">¿Por qué sube hoy la acción de BioMar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com España</font>",
+      "first_seen": "2026-07-08T07:52:00+00:00",
+      "last_seen": "2026-07-08T07:55:35+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1986,
       "headline": "Morgan Stanley se muestra cauto sobre BioMar por la inflación de insumos - Investing.com España",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkQ3TEo0SG5ZcjJ6MXE1WkhCUGJVYVZNS25wckNTUUwyc25zeW9kOWJ0aVN2c2V6dUpmbUNCWGR5RTc4QmxVSFZmOThEWjc5SnlWenN6TmNLRHoyejFuOGpqa0o2X25mMWNGUk9sa082SlpPS0lTUHlaMlZmUXQteUg0ZWdQMW9VUmxUMExWWWhKMFJ4STlYN2xldUpCLWZYZGxUNUd0SU5Pc3B4SkdrS3hfLVliRG02ZE1SV0RjcV96SXkwbU44?oc=5\" target=\"_blank\">Morgan Stanley se muestra cauto sobre BioMar por la inflación de insumos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com España</font>",
@@ -368,7 +396,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 18,
+      "pickup_count": 19,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -382,7 +410,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 62,
+      "pickup_count": 65,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -89370,6 +89398,174 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPT01DSVZDSDEtU2p5SnlIX2JpRWhiVUZXM2kyOFV1NkdtcURRcXg2NHcyRW16cFhBTXk5UnlNNjFrZDRYdTdRaE9PcjlKS1drR1pyNUxiZzYxQXFRMVNQclZaZHN3Mm5fNE14czREOVYyU2c1ZklHS0owNGcwb0Zmc3RrZkhOcmN0bG9BZ1lDTFdkX2UtMTMzVWVuekp0VGJxVzBra0F3?oc=5\" target=\"_blank\">Flujo de caja disponible por acción de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 282648,
+      "story_id": 1988,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVZSZ3BQQjFYREp3aFFLMjBUMHNsRTVIQ3JCaU9ISzQ0WHlRRTRCR0VZZUkwQ240TmNXR1I0cG01ZUJ3Z2xjNFczbG85TE5OWFJQZm9ycmlkRHRDaFoxQkpYdEw5ZDdXV0tUNmNEYnFhbC1SeUEwTFI0SWxzdEZlS0IxZEdxN0VKdjNBb3RwdjhNdDZMbUo2and4U2k?oc=5",
+      "title": "Why is BioMar stock rallying today? - Investing.com",
+      "source_name": "Investing.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-08T07:56:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVZSZ3BQQjFYREp3aFFLMjBUMHNsRTVIQ3JCaU9ISzQ0WHlRRTRCR0VZZUkwQ240TmNXR1I0cG01ZUJ3Z2xjNFczbG85TE5OWFJQZm9ycmlkRHRDaFoxQkpYdEw5ZDdXV0tUNmNEYnFhbC1SeUEwTFI0SWxzdEZlS0IxZEdxN0VKdjNBb3RwdjhNdDZMbUo2and4U2k?oc=5\" target=\"_blank\">Why is BioMar stock rallying today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>"
+    },
+    {
+      "id": 282655,
+      "story_id": 1946,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmtDT2VCU0JSVmNYYnZFcjRlNklQWHFZMlhCQl9Hbk1QdXgtc2FFNU5OV2dBc2dhOUtSS05LZEJqWHZKWEpva2xfMjFhSGlGci1vVzIwUHZNQXJRTUpEV2dmY25GOFJKOXVDYkNERTdWZGJKMnB5dkNySE9IeHpRUkRRMUFiLU9CVmJZbXpCWkg3bmRESWo4eXRETE0?oc=5",
+      "title": "EBITDA per share of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T22:08:05+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmtDT2VCU0JSVmNYYnZFcjRlNklQWHFZMlhCQl9Hbk1QdXgtc2FFNU5OV2dBc2dhOUtSS05LZEJqWHZKWEpva2xfMjFhSGlGci1vVzIwUHZNQXJRTUpEV2dmY25GOFJKOXVDYkNERTdWZGJKMnB5dkNySE9IeHpRUkRRMUFiLU9CVmJZbXpCWkg3bmRESWo4eXRETE0?oc=5\" target=\"_blank\">EBITDA per share of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 282656,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMk13a0UyV0ZyOG14UnlPeXRZWVhSdnhYYTV3UngxWnlZNkdPTkZnNk5JRzJfbWhZMnl5UW1iRUxYUFNrZ2tQdTVHMmlheHR6bFdqN1RYN0tUUUpxV1Jjd1N4OFM3cFFRV0hudGhCRloyUndGbHA4ZWFuMUJ1WmFMWmg0UDMwZThuX0JzVjhmXzVIQVU?oc=5",
+      "title": "Total liabilities of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T00:19:53+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMk13a0UyV0ZyOG14UnlPeXRZWVhSdnhYYTV3UngxWnlZNkdPTkZnNk5JRzJfbWhZMnl5UW1iRUxYUFNrZ2tQdTVHMmlheHR6bFdqN1RYN0tUUUpxV1Jjd1N4OFM3cFFRV0hudGhCRloyUndGbHA4ZWFuMUJ1WmFMWmg0UDMwZThuX0JzVjhmXzVIQVU?oc=5\" target=\"_blank\">Total liabilities of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 282950,
+      "story_id": 1987,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUEZGRmplY1pWVkR6eU92REtITHlXMnRNUzhBRTRSSFhzUDB1N090TmR0S1N1Y0NfWFVtUWJ6S1pXOW9EV1FybjRBcE9kbnl0eUFNOEJFbDJIc1lwTEQwZlZ2c3dQVnFZT0hYM1M1Z2gtbW9DT3d5a2pINkNPLXBxWnZSMVZ4b0d2NjlqSUJtT2lEVkNjMlRHOUNmeDRpQQ?oc=5",
+      "title": "¿Por qué sube hoy la acción de BioMar? - Investing.com España",
+      "source_name": "Investing.com España",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-08T07:52:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPUEZGRmplY1pWVkR6eU92REtITHlXMnRNUzhBRTRSSFhzUDB1N090TmR0S1N1Y0NfWFVtUWJ6S1pXOW9EV1FybjRBcE9kbnl0eUFNOEJFbDJIc1lwTEQwZlZ2c3dQVnFZT0hYM1M1Z2gtbW9DT3d5a2pINkNPLXBxWnZSMVZ4b0d2NjlqSUJtT2lEVkNjMlRHOUNmeDRpQQ?oc=5\" target=\"_blank\">¿Por qué sube hoy la acción de BioMar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com España</font>"
+    },
+    {
+      "id": 282951,
+      "story_id": 1987,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFRqbENBTVlpOFJTaEhrcG9obGg1UlJzX1Z0WmFmR21oaEF0ZV9XaklQdjRfS3FkX3hfUDJYZU9lM2xrcnJoQXI2cUlXVE4ybXpNSTFZdUtndGgtNkt5M1lUS1o3ZlFsZEMxY0plUVpfd3MzTHNCUlY3clRlQ3ZONHhJN3JUZFoyRlFPdkM0c3ktRE43cjJLcTlrV05iUQ?oc=5",
+      "title": "¿Por qué sube hoy la acción de BioMar? - Investing.com México",
+      "source_name": "Investing.com México",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-08T07:55:35+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOVFRqbENBTVlpOFJTaEhrcG9obGg1UlJzX1Z0WmFmR21oaEF0ZV9XaklQdjRfS3FkX3hfUDJYZU9lM2xrcnJoQXI2cUlXVE4ybXpNSTFZdUtndGgtNkt5M1lUS1o3ZlFsZEMxY0plUVpfd3MzTHNCUlY3clRlQ3ZONHhJN3JUZFoyRlFPdkM0c3ktRE43cjJLcTlrV05iUQ?oc=5\" target=\"_blank\">¿Por qué sube hoy la acción de BioMar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com México</font>"
+    },
+    {
+      "id": 282957,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbm43REIyODdmWUJXLXFWM0lNUktheWkyaTBqRE5ZdGRZQ2VPS1p2ZkNfcV9YX1FFUGpPTTBPeWNRam9BX0wxTjFta05JREtIX2JEYUttQlQ5N3hOTUhVN1ZJUTE2SmJ3aW9ZRUoxUnl6QUJEVGNpWWR4MGgwTmtrLXlEeG9aaE1sLWNLekJ1QnRQSlBMRW00MlRzeXRvNEpaWFpZczdJa2M?oc=5",
+      "title": "Rentabilidad sobre capital invertido % de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T22:17:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbm43REIyODdmWUJXLXFWM0lNUktheWkyaTBqRE5ZdGRZQ2VPS1p2ZkNfcV9YX1FFUGpPTTBPeWNRam9BX0wxTjFta05JREtIX2JEYUttQlQ5N3hOTUhVN1ZJUTE2SmJ3aW9ZRUoxUnl6QUJEVGNpWWR4MGgwTmtrLXlEeG9aaE1sLWNLekJ1QnRQSlBMRW00MlRzeXRvNEpaWFpZczdJa2M?oc=5\" target=\"_blank\">Rentabilidad sobre capital invertido % de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 282958,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHhFZWp4a1dRa3BZYkJUcjM3Rk5GM1c3WFo4N2Q0ZUNPYzRMN2pxOUZMTG4xcnN6X1hmV2NmX3JueUlldDNZNG9NaUFoQkxuYTgyN21ZOU9mWVZYVk5CU0RoelRSZHRWX2hjT1BnZmlTNURRVzdBeEFQYkpxak1rTGtUS0R0cGpxcGZhalJYNzNrcnNqYXJCMl9R?oc=5",
+      "title": "Cash flow from financing activities de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T06:27:14+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHhFZWp4a1dRa3BZYkJUcjM3Rk5GM1c3WFo4N2Q0ZUNPYzRMN2pxOUZMTG4xcnN6X1hmV2NmX3JueUlldDNZNG9NaUFoQkxuYTgyN21ZOU9mWVZYVk5CU0RoelRSZHRWX2hjT1BnZmlTNURRVzdBeEFQYkpxak1rTGtUS0R0cGpxcGZhalJYNzNrcnNqYXJCMl9R?oc=5\" target=\"_blank\">Cash flow from financing activities de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
     }
   ],
   "share_of_voice": {
@@ -93616,7 +93812,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 70,
+        "BioMar": 72,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 9
@@ -93624,7 +93820,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 47,
+        "BioMar": 52,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -93637,7 +93833,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1307
+        "count": 1314
       },
       {
         "company": "Cargill",
