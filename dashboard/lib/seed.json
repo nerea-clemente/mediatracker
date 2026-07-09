@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T08:50:44+00:00",
+  "generated_at": "2026-07-09T12:18:22+00:00",
   "stats": {
-    "mention_count": 2546,
+    "mention_count": 2549,
     "story_count": 1969,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -331,6 +331,20 @@
   ],
   "stories": [
     {
+      "id": 1946,
+      "headline": "Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTU1ODI0MnhPS0d3OTJMX1Y2LWhVaTMzcEF4Wk82WkZ5NnIzUHpVYzk4bkptU0Y1ODBPR0U4SkhBTG0wZFRHMmdheTNUQTF1TFNoS0lRd0lFZ1FLb1FPOFA1eHdLdlVKTm1JcWFXbGZSZ3l5VzRGd081eXZST2hQazVOYVA5Qzc5Vlh0am96YzctYlNyOEQ0Y09uRU1hOG9wc1VoTDZR?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-04T21:12:56+00:00",
+      "last_seen": "2026-07-09T09:56:01+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 21,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1991,
       "headline": "DNB Carnegie inicia la cobertura de BioMar Group con una recomendación de compra y un precio objetivo de 150 DKK - MarketScreener España",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVG92cWVDUURYeXpJMnVMY2FHaF9VUDI5NUd3N0Zta1VUVEpMU21uejhYV2d3d1N5UG9WU0FhMDlIQzRtZVV1QllsZ2dwVzZwcFJrdFNFTnZCbHg1UXRCajJJb0dZZ3Exd1RZS2VuUTN3S2pCeHl5YWM0bWdQN3NwYkdvdTV3dDlwRnBtWDNMR214SU5LUHRETk93U0V0QjRoTEtaZ2JCOEZVcXJ6THdMTGRaVnlwNHF6d2U0blFVNkw2M1BTN2xoSVVVYVlNc0dxWi1WZUV2b0JGUDJqcEZOQ21XZ3Y4LV9KbEZxSw?oc=5\" target=\"_blank\">DNB Carnegie inicia la cobertura de BioMar Group con una recomendación de compra y un precio objetivo de 150 DKK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
@@ -349,12 +363,12 @@
       "headline": "Why is BioMar stock rallying today? - Investing.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVZSZ3BQQjFYREp3aFFLMjBUMHNsRTVIQ3JCaU9ISzQ0WHlRRTRCR0VZZUkwQ240TmNXR1I0cG01ZUJ3Z2xjNFczbG85TE5OWFJQZm9ycmlkRHRDaFoxQkpYdEw5ZDdXV0tUNmNEYnFhbC1SeUEwTFI0SWxzdEZlS0IxZEdxN0VKdjNBb3RwdjhNdDZMbUo2and4U2k?oc=5\" target=\"_blank\">Why is BioMar stock rallying today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
       "first_seen": "2026-07-08T07:56:04+00:00",
-      "last_seen": "2026-07-08T08:08:38+00:00",
+      "last_seen": "2026-07-08T08:09:52+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -401,30 +415,16 @@
       "company": "BioMar"
     },
     {
-      "id": 1946,
-      "headline": "Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT - TradingView",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTU1ODI0MnhPS0d3OTJMX1Y2LWhVaTMzcEF4Wk82WkZ5NnIzUHpVYzk4bkptU0Y1ODBPR0U4SkhBTG0wZFRHMmdheTNUQTF1TFNoS0lRd0lFZ1FLb1FPOFA1eHdLdlVKTm1JcWFXbGZSZ3l5VzRGd081eXZST2hQazVOYVA5Qzc5Vlh0am96YzctYlNyOEQ0Y09uRU1hOG9wc1VoTDZR?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "first_seen": "2026-07-04T21:12:56+00:00",
-      "last_seen": "2026-07-08T01:05:28+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 20,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
       "id": 1976,
       "headline": "Price to earnings ratio of BioMar Group A/S – LS:A42CV2 - TradingView",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3dzQVhsUGc3dVJXRWoyZUdKRlZmVmp6ZThfQUt2UGFPYl9ObUhoeHZnZndHVlpiSUI0Z0d3WjVNUHJ1WTZmNEVRZFQ5R0xFdVZXdkZZeVBYMFZmdEk2UWMzdHg1bk0zSm5NWmpsQnBNZ1VwOXNlMHY4MFNHWHFNdEFjLVNJZ1pPeGs2NGQxY1ZxX2NWeGI3ZDNR?oc=5\" target=\"_blank\">Price to earnings ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "first_seen": "2026-07-05T21:02:31+00:00",
-      "last_seen": "2026-07-07T19:43:42+00:00",
+      "last_seen": "2026-07-07T20:18:57+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 65,
+      "pickup_count": 66,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -89800,6 +89800,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRlY2SlFoVURDdkN5d3pmbVRSNFFISVVPYVVLRVlnMFVsOHVRRF80aHNyVGxlb0JyclZxRzYtbzBJbk93QkJaM1BpVFpoU3U1Q2t4LWx0cFBSNFlxZTNBTDhmUC1uWFVQaW5UM1U0UERTcG5jNFdOR1p0NEs3ODhUQVhIX3RweV9UNVRpeTRWZGJhTzZnc2tLNlNqMGpTX29rOEtiSXVvdzZyZXgtQ25pV3pGTHpHWFZ3MXhvM29jeWdxbGVUWkk2cnVuYS1PRGl0cVRPd0Nsc1EyaEFlZ0hfQWRuaGFYdjQxUVNHdXBR?oc=5\" target=\"_blank\">¿Quieres asegurar el futuro de tus peces desde el inicio? Skretting tiene la solución</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 286727,
+      "story_id": 1946,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEpDTUxLWGxvcW5sWmQxSDhJTlRZRjJma0pidVJFcUxpOVFWVFJ6ak1pcHZIOC1wN0xuTW1FYnAwXzhxOHFBUjFVUXR0WTlnU1IwSzVzMHVKWTBTdHhfWURNUjk3ck1kSzQ2YW9CeTk1bFp2dlh6Z2dLZXRqSlJuenptUGdrU3RXSGo4SW53OFVTWXV6dnRPX2tYQ2hJcm8?oc=5",
+      "title": "Price to book forward of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-09T09:56:01+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEpDTUxLWGxvcW5sWmQxSDhJTlRZRjJma0pidVJFcUxpOVFWVFJ6ak1pcHZIOC1wN0xuTW1FYnAwXzhxOHFBUjFVUXR0WTlnU1IwSzVzMHVKWTBTdHhfWURNUjk3ck1kSzQ2YW9CeTk1bFp2dlh6Z2dLZXRqSlJuenptUGdrU3RXSGo4SW53OFVTWXV6dnRPX2tYQ2hJcm8?oc=5\" target=\"_blank\">Price to book forward of BioMar Group A/S – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 286730,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUxiVi1ybEtXaS1tdWxNSWtWMHpvUGVzaFkyZV96T0tIU2s0dHF0RjY4Q2NiYkVCVXpPZlpOU0JjTXhibk42cUdnZXM0YnZrNk9lR25tQXZHZFFocHFpRkpjb0Q2SFdhU1h6dHNqaEVDN2JiTWFjTFZvLUpvZUtvcjR3NjJqNWt6NEJqUUVmd0RuZ0hQYWl4S0Q1cGstQ1dS?oc=5",
+      "title": "Price to earnings forward of BioMar Group A/S – LSX:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-07T20:18:57+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUxiVi1ybEtXaS1tdWxNSWtWMHpvUGVzaFkyZV96T0tIU2s0dHF0RjY4Q2NiYkVCVXpPZlpOU0JjTXhibk42cUdnZXM0YnZrNk9lR25tQXZHZFFocHFpRkpjb0Q2SFdhU1h6dHNqaEVDN2JiTWFjTFZvLUpvZUtvcjR3NjJqNWt6NEJqUUVmd0RuZ0hQYWl4S0Q1cGstQ1dS?oc=5\" target=\"_blank\">Price to earnings forward of BioMar Group A/S – LSX:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 286785,
+      "story_id": 1988,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTFHUTAxTGF3ODdBUVlrWU1tel9ZQ2tISkRwblZaRENTVk4wTlVNcmxrTnBGU3JfYTYtZkNoZm1VTHhGaGZ3WnpOTzdqZFFmempsZkN1cTMtbm50cHdTTlhjUDFHQ1dJcUhUaGJnbHVtb2FjUDZ5SFBpUWFNZ1VLelhvbENZSmw3Qk5qMnNOcHhVczM0QVZTTDVXNA?oc=5",
+      "title": "Why is BioMar stock rallying today? By Investing.com - Investing.com India",
+      "source_name": "Investing.com India",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-08T08:09:52+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTFHUTAxTGF3ODdBUVlrWU1tel9ZQ2tISkRwblZaRENTVk4wTlVNcmxrTnBGU3JfYTYtZkNoZm1VTHhGaGZ3WnpOTzdqZFFmempsZkN1cTMtbm50cHdTTlhjUDFHQ1dJcUhUaGJnbHVtb2FjUDZ5SFBpUWFNZ1VLelhvbENZSmw3Qk5qMnNOcHhVczM0QVZTTDVXNA?oc=5\" target=\"_blank\">Why is BioMar stock rallying today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>"
     }
   ],
   "share_of_voice": {
@@ -94062,7 +94134,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 55,
+        "BioMar": 58,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -94075,7 +94147,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1318
+        "count": 1321
       },
       {
         "company": "Cargill",
