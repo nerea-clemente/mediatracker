@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T12:18:22+00:00",
+  "generated_at": "2026-07-09T17:58:00+00:00",
   "stats": {
-    "mention_count": 2549,
-    "story_count": 1969,
+    "mention_count": 2555,
+    "story_count": 1974,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -331,6 +331,20 @@
   ],
   "stories": [
     {
+      "id": 1983,
+      "headline": "Enterprise value to EBITDA forward de Schouw & Co A/S – OMXCOP:SCHO - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3hvcUpiLWlNdWxuNWZYaUlkRGs0Qmt4WUFpU0NkaW52cmQyR18yNGJyYXc1T3lFZEg5eUViLWNGaHd6VkVQMDlPZzhQdDE1NThJenZGejhqaEk0UUN2b1hUZ3I5VTJNQzlpZDlCV29DaTBoR19fSWp2VkJkODdZZnl4Y3JCZzEwQVRPX242dTUzbTZSZzFpZ2tiWHowbk92aXYtTnFObFNCMXBC?oc=5\" target=\"_blank\">Enterprise value to EBITDA forward de Schouw & Co A/S – OMXCOP:SCHO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-06T17:50:09+00:00",
+      "last_seen": "2026-07-09T15:11:51+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1946,
       "headline": "Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT - TradingView",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNWTU1ODI0MnhPS0d3OTJMX1Y2LWhVaTMzcEF4Wk82WkZ5NnIzUHpVYzk4bkptU0Y1ODBPR0U4SkhBTG0wZFRHMmdheTNUQTF1TFNoS0lRd0lFZ1FLb1FPOFA1eHdLdlVKTm1JcWFXbGZSZ3l5VzRGd081eXZST2hQazVOYVA5Qzc5Vlh0am96YzctYlNyOEQ0Y09uRU1hOG9wc1VoTDZR?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of BioMar Group A/S – MUN:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
@@ -343,6 +357,20 @@
       "pickup_count": 21,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1996,
+      "headline": "Norske bedrifter investerer mindre enn du tror - Dagens Næringsliv",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEdDbjZUSE9BV2VmRWxJU2hFNXBoS2g2WEliZFJUejFDUHRJTTNDbm12WDhxWU43WnkzM1RRV1o3TUk0ZEpqVHJwUDd6SW42ZFBCNDZaUDNvUFQ4alQxeEUzeFBhZlJMQlJtcGRkeS1QMXBXcVphTlM5RHVkX2xqUmNjQXdWcFVVNEVwOGFBcmFTX0p4Qk9ZYmJpaUM3bUdLZ0p3VTA4eHYzZE1nRVRz?oc=5\" target=\"_blank\">Norske bedrifter investerer mindre enn du tror</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dagens Næringsliv</font>",
+      "first_seen": "2026-07-09T07:02:00+00:00",
+      "last_seen": "2026-07-09T07:02:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1991,
@@ -434,20 +462,6 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQR2dZeWRxemZuckVJcW5qSVRlNzc5Y3ZTbWh4d2IyalI4Y0xmWS1WbTRJSmgtb2U0ai1KZmx4Y29sOXRibUFGMVl1MWpOeXRQTHZCWVJmbjNnTG4yckl3VVBkalA3aWxrNjA5UVRBeHlObUNUR29LZTFXVlBqZmkxeTk4cFk?oc=5\" target=\"_blank\">Schouw & Co Actuals & Estimates (OMXCOP:SCHO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "first_seen": "2026-07-07T01:33:42+00:00",
       "last_seen": "2026-07-07T01:33:42+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1983,
-      "headline": "Enterprise value to EBITDA forward de Schouw & Co A/S – OMXCOP:SCHO - TradingView",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3hvcUpiLWlNdWxuNWZYaUlkRGs0Qmt4WUFpU0NkaW52cmQyR18yNGJyYXc1T3lFZEg5eUViLWNGaHd6VkVQMDlPZzhQdDE1NThJenZGejhqaEk0UUN2b1hUZ3I5VTJNQzlpZDlCV29DaTBoR19fSWp2VkJkODdZZnl4Y3JCZzEwQVRPX242dTUzbTZSZzFpZ2tiWHowbk92aXYtTnFObFNCMXBC?oc=5\" target=\"_blank\">Enterprise value to EBITDA forward de Schouw & Co A/S – OMXCOP:SCHO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "first_seen": "2026-07-06T17:50:09+00:00",
-      "last_seen": "2026-07-06T17:50:09+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -5244,6 +5258,20 @@
       "id": 791,
       "headline": "AquaVision 2026 abordará nuevo orden global y acuicultura - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYWtrMXhRaVBJcTFmMVE4eEFBc0E3OTVrYXp6UlV2NVM0UURPODNFQ2hTZG1YeGNVQ3otOUhzQXZHWVl5dzlycWVDYkxEd1ZhQkpPQklhUC1CZy1rSUhKMy1DWW9MVlowXzlPS3Z2VXY4WndNci1rRExKOThvRE9ERnJYeHJJYXVYdFV2SS1YWXVNWGdudFBtMEttNTdSMXRBWTFvS3dKVWlUd3h4REJGVXBwZy1CVVNsSEJWbVNibFdBTmhheElBYl9hZFZlR3VLZWc?oc=5\" target=\"_blank\">AquaVision 2026 abordará nuevo orden global y acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2026-02-19T08:00:00+00:00",
+      "last_seen": "2026-02-19T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 1995,
+      "headline": "Rekordmange konfirmantdåp - Den norske kirke",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYXNvODJJS05iN05fV21WWEJvOEdBY0tGeDVpMW5WU1lqT2hVX2FQRDM0TEdKNWE4ZUwtUnFvd0NIdUJTRjZtSzR6RDM1Tl9na3dtbzE2aTEzM0ZnM2I3Wk5qT1BaTEtDS196NGdNRWRYZ2M3alhTVWdYWFk1RFhFOFF5M0NGcFRjZnRKTXdWRW9LZ3JDNWc?oc=5\" target=\"_blank\">Rekordmange konfirmantdåp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Den norske kirke</font>",
       "first_seen": "2026-02-19T08:00:00+00:00",
       "last_seen": "2026-02-19T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -15150,6 +15178,20 @@
       "company": "BioMar"
     },
     {
+      "id": 1994,
+      "headline": "Cargill’s usage of novel ingredients grows - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTRRUnhhY3gwcUppYXVUM2c1R0tSOUdEVFpySjFIX0tpTzZNZkVnTzl5dVBPRUd5M0lrcDFUWkJVelNCYVBpXy15M2ZlMUVNbzZlUThXVVZEeWg4NWMwcE9ZVXM5T1g4MUNJLUdwdzBtNWNZcU5VS0lxZGtIc1A2OEhhU0VNWXBCMXJBS0c2Ylc0c01S?oc=5\" target=\"_blank\">Cargill’s usage of novel ingredients grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2024-01-22T08:00:00+00:00",
+      "last_seen": "2024-01-22T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 106,
       "headline": "Nyheter, Biomar | Her fyller kvinner åtte av lederstillingene - Bladet Vesterålen",
       "story_summary": "BioMar has appointed women to eight leadership roles, reflecting a commitment to gender diversity in senior management. The article highlights the company's progress in promoting women into executive positions within the organization. The article highlights the company's leadership diversity with women now occupying eight key management positions within the organization.",
@@ -23317,6 +23359,20 @@
       "company": "Cargill"
     },
     {
+      "id": 1993,
+      "headline": "Overcapacity in the fish feed market - Salmon Business",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE92ZGk5R2RNNE9hV2thOU5HM1ZJXzJKMGJNc29WQmVHRjA1S0ZJdGxGaDVkc2VjY2IzaG05MjFUeUJWZE1XaTFoc2tVWjdzOG9mcjBzdVVhYk84VG45MEdTaDJNU0VhWjV6d3NtTWhmWV9pdU5fYTNF0gF3QVVfeXFMT3ZkaTlHZE00T2FXa2E5TkczVklfMkowYk1zb1ZCZUdGMDVLRkl0bEZoNWRzZWNjYjNobTkyMVR5QlZkTVdpMWhza1VaN3M4b2ZyMHN1VWFiTzhUbjkwR1NoMk1TRWFaNXp3c21NaGZZX2l1Tl9hM0U?oc=5\" target=\"_blank\">Overcapacity in the fish feed market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>",
+      "first_seen": "2018-11-23T08:00:00+00:00",
+      "last_seen": "2018-11-23T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 453,
       "headline": "Ewos invertirá US$ 7 millones para mejorar planta de alimentos en Coronel - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFVEQVRuV3ZlSmdvNzdtRF9GazlZWnRkaG1ERUVJVklLeUpySEc5MVNZOEc3bG9IOXp6a2tSQ1RWNndSYkE3b2RLZEFXZDZ1d3NLdHhYNTJMWmxnVUI4cHY1bFZocW1uNFJoa2NoaWFrZ2dKRk9kZTdNZUd0VHA3SERLYkhIcTV3NUdWOVFacHB0MzFPN1M4a3VaeXNoTzNkb3hNY09HNl9ucnl1T01pSjgyRE5SbEhJZk0yUHdlUQ?oc=5\" target=\"_blank\">Ewos invertirá US$ 7 millones para mejorar planta de alimentos en Coronel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -26284,6 +26340,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 1992,
+      "headline": "Fundings in Brief: Cargill Makes Major Plays, Indian E-Grocery Continues to Nab Funds, and M&A Action - AgFunderNews",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT3NWamwwV0NDdEt4M2VaTEpKQlhsNkZKODl0akVSM2dMNGJZdG9XLXNEQUVRZnRJaGxxZGJPc3JwZHhFRVByZFU1R2I1XzJ2ZWJzaG1VVENWekNEbXdVSWtnYXNvUmlFNU42Qzl0YlVSbDI2dEZ3cTRQWHhYeEY0Mk1scnhpMFd0UndTaVgwYlVld293dUNTT1JGZXNITXo5ZmZfM0M0bWwxcWRzYWpZT2pTc2FjNHV1aW41SVdIZnl0V2s?oc=5\" target=\"_blank\">Fundings in Brief: Cargill Makes Major Plays, Indian E-Grocery Continues to Nab Funds, and M&amp;A Action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgFunderNews</font>",
+      "first_seen": "2015-08-20T07:00:00+00:00",
+      "last_seen": "2015-08-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1022,
@@ -89872,6 +89942,150 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTFHUTAxTGF3ODdBUVlrWU1tel9ZQ2tISkRwblZaRENTVk4wTlVNcmxrTnBGU3JfYTYtZkNoZm1VTHhGaGZ3WnpOTzdqZFFmempsZkN1cTMtbm50cHdTTlhjUDFHQ1dJcUhUaGJnbHVtb2FjUDZ5SFBpUWFNZ1VLelhvbENZSmw3Qk5qMnNOcHhVczM0QVZTTDVXNA?oc=5\" target=\"_blank\">Why is BioMar stock rallying today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com India</font>"
+    },
+    {
+      "id": 288151,
+      "story_id": 1983,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzZydHZzeThLRmMwZng3VWlDaVB5Tkttay0yekxlNmEtYlFkX21iRWR3WXYtdzlBTTNWQnpha1dfbV9acldGNmVBMkh6YU9VWEJnV2E4NEg5dzFRY3NiMnJsd0o3ZDVkLUk4b0xoVm92S05RLVRqY2JFRDRUcFRlSnMzSjJ6SjVlUjJwMkJaanRKa2tuaVBoS2ZuRGNXU2s0VzMxSWJR?oc=5",
+      "title": "Enterprise value to EBIT forward of Schouw & Co – DUS:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-09T15:11:51+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUzZydHZzeThLRmMwZng3VWlDaVB5Tkttay0yekxlNmEtYlFkX21iRWR3WXYtdzlBTTNWQnpha1dfbV9acldGNmVBMkh6YU9VWEJnV2E4NEg5dzFRY3NiMnJsd0o3ZDVkLUk4b0xoVm92S05RLVRqY2JFRDRUcFRlSnMzSjJ6SjVlUjJwMkJaanRKa2tuaVBoS2ZuRGNXU2s0VzMxSWJR?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of Schouw & Co – DUS:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 288367,
+      "story_id": 1996,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEdDbjZUSE9BV2VmRWxJU2hFNXBoS2g2WEliZFJUejFDUHRJTTNDbm12WDhxWU43WnkzM1RRV1o3TUk0ZEpqVHJwUDd6SW42ZFBCNDZaUDNvUFQ4alQxeEUzeFBhZlJMQlJtcGRkeS1QMXBXcVphTlM5RHVkX2xqUmNjQXdWcFVVNEVwOGFBcmFTX0p4Qk9ZYmJpaUM3bUdLZ0p3VTA4eHYzZE1nRVRz?oc=5",
+      "title": "Norske bedrifter investerer mindre enn du tror - Dagens Næringsliv",
+      "source_name": "Dagens Næringsliv",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-07-09T07:02:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEdDbjZUSE9BV2VmRWxJU2hFNXBoS2g2WEliZFJUejFDUHRJTTNDbm12WDhxWU43WnkzM1RRV1o3TUk0ZEpqVHJwUDd6SW42ZFBCNDZaUDNvUFQ4alQxeEUzeFBhZlJMQlJtcGRkeS1QMXBXcVphTlM5RHVkX2xqUmNjQXdWcFVVNEVwOGFBcmFTX0p4Qk9ZYmJpaUM3bUdLZ0p3VTA4eHYzZE1nRVRz?oc=5\" target=\"_blank\">Norske bedrifter investerer mindre enn du tror</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dagens Næringsliv</font>"
+    },
+    {
+      "id": 288393,
+      "story_id": 1995,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYXNvODJJS05iN05fV21WWEJvOEdBY0tGeDVpMW5WU1lqT2hVX2FQRDM0TEdKNWE4ZUwtUnFvd0NIdUJTRjZtSzR6RDM1Tl9na3dtbzE2aTEzM0ZnM2I3Wk5qT1BaTEtDS196NGdNRWRYZ2M3alhTVWdYWFk1RFhFOFF5M0NGcFRjZnRKTXdWRW9LZ3JDNWc?oc=5",
+      "title": "Rekordmange konfirmantdåp - Den norske kirke",
+      "source_name": "Den norske kirke",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-02-19T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYXNvODJJS05iN05fV21WWEJvOEdBY0tGeDVpMW5WU1lqT2hVX2FQRDM0TEdKNWE4ZUwtUnFvd0NIdUJTRjZtSzR6RDM1Tl9na3dtbzE2aTEzM0ZnM2I3Wk5qT1BaTEtDS196NGdNRWRYZ2M3alhTVWdYWFk1RFhFOFF5M0NGcFRjZnRKTXdWRW9LZ3JDNWc?oc=5\" target=\"_blank\">Rekordmange konfirmantdåp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Den norske kirke</font>"
+    },
+    {
+      "id": 288686,
+      "story_id": 1994,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTRRUnhhY3gwcUppYXVUM2c1R0tSOUdEVFpySjFIX0tpTzZNZkVnTzl5dVBPRUd5M0lrcDFUWkJVelNCYVBpXy15M2ZlMUVNbzZlUThXVVZEeWg4NWMwcE9ZVXM5T1g4MUNJLUdwdzBtNWNZcU5VS0lxZGtIc1A2OEhhU0VNWXBCMXJBS0c2Ylc0c01S?oc=5",
+      "title": "Cargill’s usage of novel ingredients grows - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2024-01-22T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTRRUnhhY3gwcUppYXVUM2c1R0tSOUdEVFpySjFIX0tpTzZNZkVnTzl5dVBPRUd5M0lrcDFUWkJVelNCYVBpXy15M2ZlMUVNbzZlUThXVVZEeWg4NWMwcE9ZVXM5T1g4MUNJLUdwdzBtNWNZcU5VS0lxZGtIc1A2OEhhU0VNWXBCMXJBS0c2Ylc0c01S?oc=5\" target=\"_blank\">Cargill’s usage of novel ingredients grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 288690,
+      "story_id": 1992,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT3NWamwwV0NDdEt4M2VaTEpKQlhsNkZKODl0akVSM2dMNGJZdG9XLXNEQUVRZnRJaGxxZGJPc3JwZHhFRVByZFU1R2I1XzJ2ZWJzaG1VVENWekNEbXdVSWtnYXNvUmlFNU42Qzl0YlVSbDI2dEZ3cTRQWHhYeEY0Mk1scnhpMFd0UndTaVgwYlVld293dUNTT1JGZXNITXo5ZmZfM0M0bWwxcWRzYWpZT2pTc2FjNHV1aW41SVdIZnl0V2s?oc=5",
+      "title": "Fundings in Brief: Cargill Makes Major Plays, Indian E-Grocery Continues to Nab Funds, and M&A Action - AgFunderNews",
+      "source_name": "AgFunderNews",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2015-08-20T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT3NWamwwV0NDdEt4M2VaTEpKQlhsNkZKODl0akVSM2dMNGJZdG9XLXNEQUVRZnRJaGxxZGJPc3JwZHhFRVByZFU1R2I1XzJ2ZWJzaG1VVENWekNEbXdVSWtnYXNvUmlFNU42Qzl0YlVSbDI2dEZ3cTRQWHhYeEY0Mk1scnhpMFd0UndTaVgwYlVld293dUNTT1JGZXNITXo5ZmZfM0M0bWwxcWRzYWpZT2pTc2FjNHV1aW41SVdIZnl0V2s?oc=5\" target=\"_blank\">Fundings in Brief: Cargill Makes Major Plays, Indian E-Grocery Continues to Nab Funds, and M&amp;A Action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgFunderNews</font>"
+    },
+    {
+      "id": 288703,
+      "story_id": 1993,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92ZGk5R2RNNE9hV2thOU5HM1ZJXzJKMGJNc29WQmVHRjA1S0ZJdGxGaDVkc2VjY2IzaG05MjFUeUJWZE1XaTFoc2tVWjdzOG9mcjBzdVVhYk84VG45MEdTaDJNU0VhWjV6d3NtTWhmWV9pdU5fYTNF0gF3QVVfeXFMT3ZkaTlHZE00T2FXa2E5TkczVklfMkowYk1zb1ZCZUdGMDVLRkl0bEZoNWRzZWNjYjNobTkyMVR5QlZkTVdpMWhza1VaN3M4b2ZyMHN1VWFiTzhUbjkwR1NoMk1TRWFaNXp3c21NaGZZX2l1Tl9hM0U?oc=5",
+      "title": "Overcapacity in the fish feed market - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-11-23T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE92ZGk5R2RNNE9hV2thOU5HM1ZJXzJKMGJNc29WQmVHRjA1S0ZJdGxGaDVkc2VjY2IzaG05MjFUeUJWZE1XaTFoc2tVWjdzOG9mcjBzdVVhYk84VG45MEdTaDJNU0VhWjV6d3NtTWhmWV9pdU5fYTNF0gF3QVVfeXFMT3ZkaTlHZE00T2FXa2E5TkczVklfMkowYk1zb1ZCZUdGMDVLRkl0bEZoNWRzZWNjYjNobTkyMVR5QlZkTVdpMWhza1VaN3M4b2ZyMHN1VWFiTzhUbjkwR1NoMk1TRWFaNXp3c21NaGZZX2l1Tl9hM0U?oc=5\" target=\"_blank\">Overcapacity in the fish feed market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
     }
   ],
   "share_of_voice": {
@@ -90511,7 +90725,7 @@
         "week": "2015-W34",
         "Aller Aqua": 0,
         "BioMar": 1,
-        "Cargill": 17,
+        "Cargill": 18,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -91434,6 +91648,14 @@
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
+      },
+      {
+        "week": "2018-W47",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2018-W48",
@@ -93135,7 +93357,7 @@
         "week": "2024-W04",
         "Aller Aqua": 0,
         "BioMar": 1,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -93977,7 +94199,7 @@
         "BioMar": 10,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 9
+        "Skretting": 10
       },
       {
         "week": "2026-W09",
@@ -94134,10 +94356,10 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 58,
+        "BioMar": 59,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       }
     ],
     "totals": [
@@ -94147,11 +94369,11 @@
       },
       {
         "company": "BioMar",
-        "count": 1321
+        "count": 1322
       },
       {
         "company": "Cargill",
-        "count": 252
+        "count": 255
       },
       {
         "company": "Polarfeed",
@@ -94159,7 +94381,7 @@
       },
       {
         "company": "Skretting",
-        "count": 820
+        "count": 822
       }
     ]
   }
