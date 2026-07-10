@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T08:47:59+00:00",
+  "generated_at": "2026-07-10T12:11:26+00:00",
   "stats": {
-    "mention_count": 2560,
-    "story_count": 1975,
+    "mention_count": 2562,
+    "story_count": 1976,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -373,6 +373,20 @@
       "company": "Skretting"
     },
     {
+      "id": 1985,
+      "headline": "Morgan Stanley initiates coverage of Biomar Group with equal weight and a target price of 121 Danish kroner - BN - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMnRZb0o1SnFEb3liWHg5TUlDWlJ5Vk04ZHh5dFVhcjNpQUkzM3RmbUF4bVIwOGoxenU0aE5HSlJVZTI1cmRaSDNWeVo0QXZ4alhvVjlPbHgxM29MNGJ3dU82M1dDSnE3TkFnYXZoT20yMS1xTzBCa29wdXNUTlVYbkR1VDU4UzBQOTdjeUNQVVJFb0VMSnV5U1BTcHhQaFBkek9Fc2NLSkNlNU5EVUZfbFVxTHJScTBXa2I1dEFJLWtZMkdBVmNCMHZRVGFtdjlTY1ZWS2ptMjVNR01KLXA3c2ttVmNYcVhS?oc=5\" target=\"_blank\">Morgan Stanley initiates coverage of Biomar Group with equal weight and a target price of 121 Danish kroner - BN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-07-08T04:35:40+00:00",
+      "last_seen": "2026-07-09T05:55:26+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1991,
       "headline": "DNB Carnegie inicia la cobertura de BioMar Group con una recomendación de compra y un precio objetivo de 150 DKK - MarketScreener España",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVG92cWVDUURYeXpJMnVMY2FHaF9VUDI5NUd3N0Zta1VUVEpMU21uejhYV2d3d1N5UG9WU0FhMDlIQzRtZVV1QllsZ2dwVzZwcFJrdFNFTnZCbHg1UXRCajJJb0dZZ3Exd1RZS2VuUTN3S2pCeHl5YWM0bWdQN3NwYkdvdTV3dDlwRnBtWDNMR214SU5LUHRETk93U0V0QjRoTEtaZ2JCOEZVcXJ6THdMTGRaVnlwNHF6d2U0blFVNkw2M1BTN2xoSVVVYVlNc0dxWi1WZUV2b0JGUDJqcEZOQ21XZ3Y4LV9KbEZxSw?oc=5\" target=\"_blank\">DNB Carnegie inicia la cobertura de BioMar Group con una recomendación de compra y un precio objetivo de 150 DKK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
@@ -425,20 +439,6 @@
         "none"
       ],
       "pickup_count": 5,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 1985,
-      "headline": "Morgan Stanley initiates coverage of Biomar Group with equal weight and a target price of 121 Danish kroner - BN - marketscreener.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMnRZb0o1SnFEb3liWHg5TUlDWlJ5Vk04ZHh5dFVhcjNpQUkzM3RmbUF4bVIwOGoxenU0aE5HSlJVZTI1cmRaSDNWeVo0QXZ4alhvVjlPbHgxM29MNGJ3dU82M1dDSnE3TkFnYXZoT20yMS1xTzBCa29wdXNUTlVYbkR1VDU4UzBQOTdjeUNQVVJFb0VMSnV5U1BTcHhQaFBkek9Fc2NLSkNlNU5EVUZfbFVxTHJScTBXa2I1dEFJLWtZMkdBVmNCMHZRVGFtdjlTY1ZWS2ptMjVNR01KLXA3c2ttVmNYcVhS?oc=5\" target=\"_blank\">Morgan Stanley initiates coverage of Biomar Group with equal weight and a target price of 121 Danish kroner - BN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-      "first_seen": "2026-07-08T04:35:40+00:00",
-      "last_seen": "2026-07-08T05:20:15+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -17071,6 +17071,20 @@
       "id": 545,
       "headline": "Former feed boss takes helm at Skye salmon farmer - Fishfarming expert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQTVGOXl2WlpzX2Jmb1dMRUJzSGZsbnRhZ0hVSTFXOUR2NHExZFRPWk1BTjV5Z2ZuLU1ubS1aUFRtcVV4UEpUSTlDbGZUWXlJUWM1QzU5R3MzQ3k5QWg3MmpfdGtYWjRoY2FHUGpSTDluSUo3aHFUWVBldE4xOUpUeUkzQ1ZFbWNhNXIyUEktekZ2RGEtdzEtRXVGREdzWXVGZG5zeGVBUE5VNHNvaHV6R3J0YlB5eXRfZVdOOTlSZDgzdG9sdDRJMVBleXlIay15SnowRDln?oc=5\" target=\"_blank\">Former feed boss takes helm at Skye salmon farmer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "first_seen": "2023-04-03T07:00:00+00:00",
+      "last_seen": "2023-04-03T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 1998,
+      "headline": "New CEO for Organic Sea Harvest in Skye, Scotland - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lLVhUNVozdHpoMmw5SlFQTURONUIxcWNoQUw1Y1d6YVhtWG1lbkFWbUdqTVhocTRYdE5uaUVzX21wdEtWRk5GWnBvSUlkQUYy0gFeQVVfeXFMUEZjTF9oUm0tWDhZcFM3Nm9jckhydjZKRUlZUTlXQnktOVgxemY5NTJ3OHBuYV9WWVhJaWM3WW5sX2dzSUd1ek1rUlJRVmdQNFdZZTN1NTZmTE9SRUtiZw?oc=5\" target=\"_blank\">New CEO for Organic Sea Harvest in Skye, Scotland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
       "first_seen": "2023-04-03T07:00:00+00:00",
       "last_seen": "2023-04-03T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -90220,6 +90234,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNXVMdUlneG9IWS10cElhOG5JcVgySk5zbGVyX3djYVhRMm51TlNXejNtWDBYWkF1aEpNLXRlWGtDZVlXZmZWRDhheno5QzJMSF9VZk55dzdOakFRUWhoMHg3SmZ0NHBiT0N0MWhlU1h3cGVPcF9EbXJJUnBCaGRla2VpaUhvaVdPb19idVBGbEUtT0RhSG9kcVppNUVLUHFKU0lSMWk3U3JJampYNTRrOTJaX2x3TU0?oc=5\" target=\"_blank\">Sphere we go: Skretting looks to future in The Bubble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 289812,
+      "story_id": 1985,
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQN3dZeC02aERvS2pwYVJMRTVzZHBWZ0JTdGt3ZTI0eFpqVWJsSGRsR05jQllZN0FtNkhDRzVDb0tPSmJNOWhDLVB1ZkxReDJvalRzYUpHcjNtOV8yX3lmZWNsWTRzYy1HNlVMVXpjQ2VWaVJCdklNX2pIXy0xX2NIOFFXUUJKdFRNTGVHMlpGVUVGbDJZQThxdXFVc1M4NHhVVjYyenpRQTJqc3RpNml3YW42d2hQNjVMN1ZLbmVoWXV6MDBpNmVYLWRnUmRwYlV3dDBJZlVhM3RWVHRrM0Q1dGF5ZEl2aFBuQjk2a0ZRZUhGbkhiTkdpWngtYzFHd3Y3MjJDMG03QkpaX0FSODc4R1VvQ1hlZTBWWk50c1NCb0x1Sk5ER0NSd3pIZnd0TTQ?oc=5",
+      "title": "DNB Carnegie initiates coverage of Biomar Group with a buy rating and a price target of 150 Danish kroner - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-07-09T05:55:26+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxQN3dZeC02aERvS2pwYVJMRTVzZHBWZ0JTdGt3ZTI0eFpqVWJsSGRsR05jQllZN0FtNkhDRzVDb0tPSmJNOWhDLVB1ZkxReDJvalRzYUpHcjNtOV8yX3lmZWNsWTRzYy1HNlVMVXpjQ2VWaVJCdklNX2pIXy0xX2NIOFFXUUJKdFRNTGVHMlpGVUVGbDJZQThxdXFVc1M4NHhVVjYyenpRQTJqc3RpNml3YW42d2hQNjVMN1ZLbmVoWXV6MDBpNmVYLWRnUmRwYlV3dDBJZlVhM3RWVHRrM0Q1dGF5ZEl2aFBuQjk2a0ZRZUhGbkhiTkdpWngtYzFHd3Y3MjJDMG03QkpaX0FSODc4R1VvQ1hlZTBWWk50c1NCb0x1Sk5ER0NSd3pIZnd0TTQ?oc=5\" target=\"_blank\">DNB Carnegie initiates coverage of Biomar Group with a buy rating and a price target of 150 Danish kroner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 290751,
+      "story_id": 1998,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lLVhUNVozdHpoMmw5SlFQTURONUIxcWNoQUw1Y1d6YVhtWG1lbkFWbUdqTVhocTRYdE5uaUVzX21wdEtWRk5GWnBvSUlkQUYy0gFeQVVfeXFMUEZjTF9oUm0tWDhZcFM3Nm9jckhydjZKRUlZUTlXQnktOVgxemY5NTJ3OHBuYV9WWVhJaWM3WW5sX2dzSUd1ek1rUlJRVmdQNFdZZTN1NTZmTE9SRUtiZw?oc=5",
+      "title": "New CEO for Organic Sea Harvest in Skye, Scotland - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2023-04-03T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lLVhUNVozdHpoMmw5SlFQTURONUIxcWNoQUw1Y1d6YVhtWG1lbkFWbUdqTVhocTRYdE5uaUVzX21wdEtWRk5GWnBvSUlkQUYy0gFeQVVfeXFMUEZjTF9oUm0tWDhZcFM3Nm9jckhydjZKRUlZUTlXQnktOVgxemY5NTJ3OHBuYV9WWVhJaWM3WW5sX2dzSUd1ek1rUlJRVmdQNFdZZTN1NTZmTE9SRUtiZw?oc=5\" target=\"_blank\">New CEO for Organic Sea Harvest in Skye, Scotland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
     }
   ],
   "share_of_voice": {
@@ -93187,7 +93249,7 @@
         "week": "2023-W14",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 1,
+        "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -94490,7 +94552,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 62,
+        "BioMar": 63,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -94503,11 +94565,11 @@
       },
       {
         "company": "BioMar",
-        "count": 1326
+        "count": 1327
       },
       {
         "company": "Cargill",
-        "count": 255
+        "count": 256
       },
       {
         "company": "Polarfeed",
