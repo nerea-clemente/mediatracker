@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T22:56:29+00:00",
+  "generated_at": "2026-07-11T07:24:29+00:00",
   "stats": {
-    "mention_count": 2571,
-    "story_count": 1979,
+    "mention_count": 2574,
+    "story_count": 1980,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -403,15 +403,15 @@
     },
     {
       "id": 1988,
-      "headline": "Why is BioMar stock rallying today? - Investing.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVZSZ3BQQjFYREp3aFFLMjBUMHNsRTVIQ3JCaU9ISzQ0WHlRRTRCR0VZZUkwQ240TmNXR1I0cG01ZUJ3Z2xjNFczbG85TE5OWFJQZm9ycmlkRHRDaFoxQkpYdEw5ZDdXV0tUNmNEYnFhbC1SeUEwTFI0SWxzdEZlS0IxZEdxN0VKdjNBb3RwdjhNdDZMbUo2and4U2k?oc=5\" target=\"_blank\">Why is BioMar stock rallying today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-      "first_seen": "2026-07-08T07:56:04+00:00",
+      "headline": "Why is BioMar stock rallying today? By Investing.com - Investing.com UK",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNWcWw5NklCOWtTS2RUam50c0twU19nQVN4VDUyN25XdmZhMDJGUWJYWHdEWUZxY0JRMmttU2FwbHkwQ1BwdjQ2b0Zpd3Zld3gwLWdINnh3Y2thUEpGLXR3cWhJUWFiN1REWldtbVJRM3NpSllfYkp5RGVwOGtzODlNUExhMWpsbk5TQjdhLTNhUTRGMWNQOUNoZw?oc=5\" target=\"_blank\">Why is BioMar stock rallying today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>",
+      "first_seen": "2026-07-08T07:52:00+00:00",
       "last_seen": "2026-07-08T08:09:52+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -453,7 +453,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 68,
+      "pickup_count": 69,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -19966,6 +19966,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 2002,
+      "headline": "Skretting Indonesia signs MoU with NewSeas to supply feed for planned 10,000-MT barramundi farm - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUlnVE02OVRQbUdiR3NHbE5UbENkY1FPaUM2bkdkZ3NxajlkQXFsSFR3SXo2SFJOUFRDb1JNb29WT0ZUQVBTTWVwY3BqSU5ELVp2Ym5iUC1YMkphT3ptdFhibm5vdjNicVRHd2NRVHdCMXlEVE84SkZsYmpNUDgtQ253ZWJJR1JvSEtFUGdnODA5TW1rdzhoeGVwMFJUeEZNcTd0cHE2ZGxJUUI4b2RfMFg3NzctYktVQXhtWGxOa0NqU2R2UklUTzNVaUczVXMtYlRvXzh2a18zcGNBRDhhNFdNMjc?oc=5\" target=\"_blank\">Skretting Indonesia signs MoU with NewSeas to supply feed for planned 10,000-MT barramundi farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2021-10-18T19:51:12+00:00",
+      "last_seen": "2021-10-18T19:51:12+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 55,
@@ -90541,6 +90555,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0I0ZnI3OUVYWE5WbzVaYlZrc0lPYzN2bkxaQ1BVeXRQQkZjWmFkV01fcjV2UEZGNXk0NWJqbW51VDhrU1pyZC1acUZtX1pTWUVoLXVRZi1Hc2VTcmZfeFQ2alZ6RXNCOWVqMkNvMWdWa29CaFFZcFlISVNrUzFOdURya1pSN1ExUU9iaGFUbGZiS3lnR2FJM0V3?oc=5\" target=\"_blank\">Former Mowi fish health chief rejoins Skretting in global role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 292915,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUJ5U0FBeVZ4bUhqck1aODhBZUpwbGh2eWNCelQ5eEtaVzNGa2ZxUjVjcjF1QVlIY3NKS1NGSk5qVXBJVFphNy1qWGdpOUp5RFB0ZmFHM1N1NHdRSGJVUHdJQVlZdFg1VXVzLVhUUEtuV3YzM0lVUnZlbHMxSTluTy1HVDktQVFUd0VFSXRYS0djdm9aRk5FZUpR?oc=5",
+      "title": "Debt to equity ratio of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T23:19:47+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWUJ5U0FBeVZ4bUhqck1aODhBZUpwbGh2eWNCelQ5eEtaVzNGa2ZxUjVjcjF1QVlIY3NKS1NGSk5qVXBJVFphNy1qWGdpOUp5RFB0ZmFHM1N1NHdRSGJVUHdJQVlZdFg1VXVzLVhUUEtuV3YzM0lVUnZlbHMxSTluTy1HVDktQVFUd0VFSXRYS0djdm9aRk5FZUpR?oc=5\" target=\"_blank\">Debt to equity ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 292974,
+      "story_id": 1988,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNWcWw5NklCOWtTS2RUam50c0twU19nQVN4VDUyN25XdmZhMDJGUWJYWHdEWUZxY0JRMmttU2FwbHkwQ1BwdjQ2b0Zpd3Zld3gwLWdINnh3Y2thUEpGLXR3cWhJUWFiN1REWldtbVJRM3NpSllfYkp5RGVwOGtzODlNUExhMWpsbk5TQjdhLTNhUTRGMWNQOUNoZw?oc=5",
+      "title": "Why is BioMar stock rallying today? By Investing.com - Investing.com UK",
+      "source_name": "Investing.com UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-08T07:52:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNWcWw5NklCOWtTS2RUam50c0twU19nQVN4VDUyN25XdmZhMDJGUWJYWHdEWUZxY0JRMmttU2FwbHkwQ1BwdjQ2b0Zpd3Zld3gwLWdINnh3Y2thUEpGLXR3cWhJUWFiN1REWldtbVJRM3NpSllfYkp5RGVwOGtzODlNUExhMWpsbk5TQjdhLTNhUTRGMWNQOUNoZw?oc=5\" target=\"_blank\">Why is BioMar stock rallying today? By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com UK</font>"
+    },
+    {
+      "id": 293495,
+      "story_id": 2002,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUlnVE02OVRQbUdiR3NHbE5UbENkY1FPaUM2bkdkZ3NxajlkQXFsSFR3SXo2SFJOUFRDb1JNb29WT0ZUQVBTTWVwY3BqSU5ELVp2Ym5iUC1YMkphT3ptdFhibm5vdjNicVRHd2NRVHdCMXlEVE84SkZsYmpNUDgtQ253ZWJJR1JvSEtFUGdnODA5TW1rdzhoeGVwMFJUeEZNcTd0cHE2ZGxJUUI4b2RfMFg3NzctYktVQXhtWGxOa0NqU2R2UklUTzNVaUczVXMtYlRvXzh2a18zcGNBRDhhNFdNMjc?oc=5",
+      "title": "Skretting Indonesia signs MoU with NewSeas to supply feed for planned 10,000-MT barramundi farm - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2021-10-18T19:51:12+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUlnVE02OVRQbUdiR3NHbE5UbENkY1FPaUM2bkdkZ3NxajlkQXFsSFR3SXo2SFJOUFRDb1JNb29WT0ZUQVBTTWVwY3BqSU5ELVp2Ym5iUC1YMkphT3ptdFhibm5vdjNicVRHd2NRVHdCMXlEVE84SkZsYmpNUDgtQ253ZWJJR1JvSEtFUGdnODA5TW1rdzhoeGVwMFJUeEZNcTd0cHE2ZGxJUUI4b2RfMFg3NzctYktVQXhtWGxOa0NqU2R2UklUTzNVaUczVXMtYlRvXzh2a18zcGNBRDhhNFdNMjc?oc=5\" target=\"_blank\">Skretting Indonesia signs MoU with NewSeas to supply feed for planned 10,000-MT barramundi farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
     }
   ],
   "share_of_voice": {
@@ -92950,7 +93036,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2021-W43",
@@ -94803,7 +94889,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 76,
+        "BioMar": 77,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 9
@@ -94811,7 +94897,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 65,
+        "BioMar": 66,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -94824,7 +94910,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1334
+        "count": 1336
       },
       {
         "company": "Cargill",
@@ -94836,7 +94922,7 @@
       },
       {
         "company": "Skretting",
-        "count": 824
+        "count": 825
       }
     ]
   }
