@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T17:00:29+00:00",
+  "generated_at": "2026-07-12T22:42:18+00:00",
   "stats": {
-    "mention_count": 2600,
-    "story_count": 1983,
+    "mention_count": 2608,
+    "story_count": 1984,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -467,7 +467,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 80,
+      "pickup_count": 87,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -27769,6 +27769,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2006,
+      "headline": "Skretting Chile logró certificación BAP - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUlhqUnozY0NoYmNBRmYteEhOZFlQbGVWMzE0VzNieFJDeHJmMzUyaHJqTFJhZnNWU3NvQ3l1Vm9CN2tsXzRzU0dkcWJ1ZUFlb2VhRTRIamhTak9Sck16ekZoUUI0aTNTcGtiSWJiMWd6QS1nV0hsVFZHNEFXZDhTOUNmTlh5aDBS?oc=5\" target=\"_blank\">Skretting Chile logró certificación BAP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2013-01-23T08:00:00+00:00",
+      "last_seen": "2013-01-23T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1314,
@@ -91293,6 +91307,198 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNM1plcTFHNm9zenB0eUVmdVdINE5Vb21hSkxLTEZONDhqVzczZy1pUXU1SlExcEtoTUtxSVgtRDdNZjV0TlRIaTNhcUd4UHpmRkJxaXNWRmxfbF9CNkRrVWdzNVRiTWZ6bjVPU1BjODVFTkxyNzZHb1BqN3hCNlhDN21fUnF4VkpyandFZ2xlZ200cHUyblZjY0x1c0hQMWctVnc?oc=5\" target=\"_blank\">Chilean authorities seek $80 million in fines over salmon feed cartel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 299121,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2ZVbFdKMXhub2tITU1ZcWxvV3VUSEJvTnRHbUh5UzdoOWw1bTFCanlFUURCZmtWbXRINUZPVEdlaThfb3lERlRaNHAyeUkxVlBxR3c5UWN5bUNxZF9LMEk2ZkZZRF96WjdnQzVxUEZ6MGQxeHlja256MWE4T0xScWhyb1BvVkc0WGNRekoxWG5uM2Y1dVdER0Zn?oc=5",
+      "title": "Price to book forward of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T22:07:02+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2ZVbFdKMXhub2tITU1ZcWxvV3VUSEJvTnRHbUh5UzdoOWw1bTFCanlFUURCZmtWbXRINUZPVEdlaThfb3lERlRaNHAyeUkxVlBxR3c5UWN5bUNxZF9LMEk2ZkZZRF96WjdnQzVxUEZ6MGQxeHlja256MWE4T0xScWhyb1BvVkc0WGNRekoxWG5uM2Y1dVdER0Zn?oc=5\" target=\"_blank\">Price to book forward of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 299122,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXdycHJKS2tha3p1NkNRcjJ1OWFEcDVVZjZRRUtDY1pBYjlMQi0zVGUwRm5XYkU2RkxTRkRMZFB6R2RSeXVmWWV3Y0phXzF6OGZ5dWNUcHdSY0F0dFBSTEZRVU90ZG5uR2ltX2NYUFAzUWQ1c2tSWE9kakgzTkR5NkNDckIyOHdYTUhQVmVFaUNoRHV4VzNJVA?oc=5",
+      "title": "Diluted net income available to common stockholders of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T22:08:51+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXdycHJKS2tha3p1NkNRcjJ1OWFEcDVVZjZRRUtDY1pBYjlMQi0zVGUwRm5XYkU2RkxTRkRMZFB6R2RSeXVmWWV3Y0phXzF6OGZ5dWNUcHdSY0F0dFBSTEZRVU90ZG5uR2ltX2NYUFAzUWQ1c2tSWE9kakgzTkR5NkNDckIyOHdYTUhQVmVFaUNoRHV4VzNJVA?oc=5\" target=\"_blank\">Diluted net income available to common stockholders of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 299123,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDN6NThfWjVZblg2TzkxS3N2TlVPdm9aMDFIVHdFVlF3aHU3YmRCcXlHM09ObXk4bV9JU2l5ei16RWdEb0U3M2dOMzJQbTktb0pJR0kwMEFQTlhxVGZOZG5veW0wNWM5bmdKTTJRSlJVbWV4M0h5dUF3MHhOU3hmN3lWRHBDTGJHVjF6X1BpUWpfUVZXZENLYUxLUm4xcENCNkt4elBGaXNPQQ?oc=5",
+      "title": "Return on invested capital % of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T22:07:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDN6NThfWjVZblg2TzkxS3N2TlVPdm9aMDFIVHdFVlF3aHU3YmRCcXlHM09ObXk4bV9JU2l5ei16RWdEb0U3M2dOMzJQbTktb0pJR0kwMEFQTlhxVGZOZG5veW0wNWM5bmdKTTJRSlJVbWV4M0h5dUF3MHhOU3hmN3lWRHBDTGJHVjF6X1BpUWpfUVZXZENLYUxLUm4xcENCNkt4elBGaXNPQQ?oc=5\" target=\"_blank\">Return on invested capital % of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 299124,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGVzZ1V4aElUYlRjeXdBYWJxUWhIVFRmdDRfM2F4SDI1dWVWeGRjcTFrNmc0X2FXZUdQX0ZYTDkydHpZZUVHZGp1SE1ObHRaTUtHemt0OXQwTzFrVThVQXlldmE1Z0VWUWdsZTkydEhqR0dZLWdTWEFwRHR6ZlUzUzkxZnpGenJjeVdYTUJoQXBTZUJo?oc=5",
+      "title": "Price to book ratio of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T22:15:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGVzZ1V4aElUYlRjeXdBYWJxUWhIVFRmdDRfM2F4SDI1dWVWeGRjcTFrNmc0X2FXZUdQX0ZYTDkydHpZZUVHZGp1SE1ObHRaTUtHemt0OXQwTzFrVThVQXlldmE1Z0VWUWdsZTkydEhqR0dZLWdTWEFwRHR6ZlUzUzkxZnpGenJjeVdYTUJoQXBTZUJo?oc=5\" target=\"_blank\">Price to book ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 299412,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmJvclR4NFFMY3NZZ2pDaWFpNUhRWXV5ZkpvYU9oZDV3NEh6bmp6RjVaWWdnX1N6NnphX1g3YWFRQXlXdmdnTXZMZXd1VHVzcVRiREZnRW9PMUs3Q1hTX0RFZ3ZUdWoxT1h6eTVXbjNRM091YkM4SmlTNVc3d0o0WEtBN01Oel9zNDgtS3hMbV82WEdzWUZqYw?oc=5",
+      "title": "Movimiento (rotación) de activos de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T03:07:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmJvclR4NFFMY3NZZ2pDaWFpNUhRWXV5ZkpvYU9oZDV3NEh6bmp6RjVaWWdnX1N6NnphX1g3YWFRQXlXdmdnTXZMZXd1VHVzcVRiREZnRW9PMUs3Q1hTX0RFZ3ZUdWoxT1h6eTVXbjNRM091YkM4SmlTNVc3d0o0WEtBN01Oel9zNDgtS3hMbV82WEdzWUZqYw?oc=5\" target=\"_blank\">Movimiento (rotación) de activos de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 299413,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSVdNb2RXRGZWcExUaDlaY05nUG5TOURmdmpxLWx6OVFSS0w0WWFyY0pVYW1WTEN5YWhxQkRqR3FvWExRTmdKTVJsRDJfMDV2Ny1jY3kxeXJ0LWdralJ5dFBkaXM5OW91MjU0Y1Q1b2VoUGo5dVI0dkswNFg4ZkVQLU9IekdhWHFJUzlxYlhqOTdpdThCYVItcmxR?oc=5",
+      "title": "Price to sales forward de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T02:54:13+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSVdNb2RXRGZWcExUaDlaY05nUG5TOURmdmpxLWx6OVFSS0w0WWFyY0pVYW1WTEN5YWhxQkRqR3FvWExRTmdKTVJsRDJfMDV2Ny1jY3kxeXJ0LWdralJ5dFBkaXM5OW91MjU0Y1Q1b2VoUGo5dVI0dkswNFg4ZkVQLU9IekdhWHFJUzlxYlhqOTdpdThCYVItcmxR?oc=5\" target=\"_blank\">Price to sales forward de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 299415,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjZMWGpiZXNWRG9IRzZIZmJzeXdiUjd3ZWlRbTBnLU5OX19PUjJmZzg1Uko2cTFsakJZY0l1SlNDQzNHdDVobFZxb1duQzNNVFZhNEl3emZyZWIwbGIyOHdObE9XRGZMNVl5U3AxblJEYWZQM3RoUnF6T1pKbHdib3I5NVJwZDdKeDV0WDZCQzBJcEpjd3BOMVZMY251QXdLeXNtWk81VQ?oc=5",
+      "title": "Total de pasivo y patrimonio de los accionistas de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T03:25:27+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjZMWGpiZXNWRG9IRzZIZmJzeXdiUjd3ZWlRbTBnLU5OX19PUjJmZzg1Uko2cTFsakJZY0l1SlNDQzNHdDVobFZxb1duQzNNVFZhNEl3emZyZWIwbGIyOHdObE9XRGZMNVl5U3AxblJEYWZQM3RoUnF6T1pKbHdib3I5NVJwZDdKeDV0WDZCQzBJcEpjd3BOMVZMY251QXdLeXNtWk81VQ?oc=5\" target=\"_blank\">Total de pasivo y patrimonio de los accionistas de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 300012,
+      "story_id": 2006,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUlhqUnozY0NoYmNBRmYteEhOZFlQbGVWMzE0VzNieFJDeHJmMzUyaHJqTFJhZnNWU3NvQ3l1Vm9CN2tsXzRzU0dkcWJ1ZUFlb2VhRTRIamhTak9Sck16ekZoUUI0aTNTcGtiSWJiMWd6QS1nV0hsVFZHNEFXZDhTOUNmTlh5aDBS?oc=5",
+      "title": "Skretting Chile logró certificación BAP - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2013-01-23T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUlhqUnozY0NoYmNBRmYteEhOZFlQbGVWMzE0VzNieFJDeHJmMzUyaHJqTFJhZnNWU3NvQ3l1Vm9CN2tsXzRzU0dkcWJ1ZUFlb2VhRTRIamhTak9Sck16ekZoUUI0aTNTcGtiSWJiMWd6QS1nV0hsVFZHNEFXZDhTOUNmTlh5aDBS?oc=5\" target=\"_blank\">Skretting Chile logró certificación BAP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -91487,6 +91693,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
+      },
+      {
+        "week": "2013-W04",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2013-W07",
@@ -95555,7 +95769,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 90,
+        "BioMar": 94,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 9
@@ -95563,7 +95777,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 73,
+        "BioMar": 76,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -95576,7 +95790,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1356
+        "count": 1363
       },
       {
         "company": "Cargill",
@@ -95588,7 +95802,7 @@
       },
       {
         "company": "Skretting",
-        "count": 829
+        "count": 830
       }
     ]
   }
