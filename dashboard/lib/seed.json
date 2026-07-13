@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T17:56:25+00:00",
+  "generated_at": "2026-07-13T22:52:17+00:00",
   "stats": {
-    "mention_count": 2620,
+    "mention_count": 2621,
     "story_count": 1990,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -342,7 +342,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -91872,6 +91872,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQWm5vbjl2TEkyTURXeEZRQ1NDR3hxWHVnMS1uWmZ0RXZRa2hhLWZoYjJPck9aTEVHWHkwcnJyZ2d1Zm9jY1VFV2VBSG1Cbm9XT1ZaWlpiRV81T21qVV9jbDd3TERJWmsza1pDUk4wX3RwaFJfT2RROXJEaldydndtR3RVZ2V1NGFwRTBiX2R2UmZsYXNzVDdn?oc=5\" target=\"_blank\">Cargill Buys Salmon Feed Maker EWOS for $1.5bn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESM Magazine</font>"
+    },
+    {
+      "id": 303620,
+      "story_id": 2012,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLTRZeGl5ZFRlZXpHQ1d3SzA2UXZKWWJrM1ZmQkVMWVVSQjlzYmJ2LThKbFBzek9IZzAtXzVRUGtBd2JXRlhBUXJJRmJqejN2ODJuQnJuRV90YmJxbXUtTE9WSVhTaThOTTl2M0tNM3BDemJJN0VmWmo4RXJsTVE4b2dsQXlxRUh2VjFTWXNwT28wRVZ6QXhMQWdRTUdQQ2pGdnY5VEN2MmQ3Rk84SFBzaHRDZm4taDAwb0swZC12b0hlclnSAcMBQVVfeXFMTy00WXhpeWRUZWV6R0NXd0swNlF2SlliazNWZkJFTFlVUkI5c2Jidi04SmxQc3pPSGcwLV81UVBrQXdiV0ZYQVFySUZianozdjgybkJybkVfdGJicW11LUxPVklYU2k4Tk05djNLTTNwQ3piSTdFZlpqOEVybE1ROG9nbEF5cUVIdlYxU1lzcE9vMEVWekF4TEFnUU1HUENqRnZ2OVRDdjJkN0ZPOEhQc2h0Q2ZuLWgwMG9LMGQtdm9IZXJZ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 28 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-07-13T14:21:32+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLTRZeGl5ZFRlZXpHQ1d3SzA2UXZKWWJrM1ZmQkVMWVVSQjlzYmJ2LThKbFBzek9IZzAtXzVRUGtBd2JXRlhBUXJJRmJqejN2ODJuQnJuRV90YmJxbXUtTE9WSVhTaThOTTl2M0tNM3BDemJJN0VmWmo4RXJsTVE4b2dsQXlxRUh2VjFTWXNwT28wRVZ6QXhMQWdRTUdQQ2pGdnY5VEN2MmQ3Rk84SFBzaHRDZm4taDAwb0swZC12b0hlclnSAcMBQVVfeXFMTy00WXhpeWRUZWV6R0NXd0swNlF2SlliazNWZkJFTFlVUkI5c2Jidi04SmxQc3pPSGcwLV81UVBrQXdiV0ZYQVFySUZianozdjgybkJybkVfdGJicW11LUxPVklYU2k4Tk05djNLTTNwQ3piSTdFZlpqOEVybE1ROG9nbEF5cUVIdlYxU1lzcE9vMEVWekF4TEFnUU1HUENqRnZ2OVRDdjJkN0ZPOEhQc2h0Q2ZuLWgwMG9LMGQtdm9IZXJZ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 28 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
     }
   ],
   "share_of_voice": {
@@ -96158,7 +96182,7 @@
       {
         "week": "2026-W29",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -96171,7 +96195,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1371
+        "count": 1372
       },
       {
         "company": "Cargill",
