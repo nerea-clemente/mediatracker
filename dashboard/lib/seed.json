@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T22:42:18+00:00",
+  "generated_at": "2026-07-13T08:32:15+00:00",
   "stats": {
-    "mention_count": 2608,
-    "story_count": 1984,
+    "mention_count": 2615,
+    "story_count": 1987,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -467,7 +467,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 87,
+      "pickup_count": 91,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -11718,6 +11718,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2009,
+      "headline": "Skretting warns clock is ticking on crucial fishmeal supply - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWE5VT3Y5VlVtaHFfeXRabkQ3SkZRTGF3TnhxU29sNmRpa0wyUGhGdWdwS1BMbGtkZmozc2xZOGI2YjdRM3YtZG5IODFHTG1RY1BoUVNCdVl4OG9pV0lRMGpRSXhpNHJXalpkRlQ2TVhPb2hOa1NiUXY0TnJrRkRDN2FiLURTRkZ0bWxyNHlicDh5OXk2NUM1UFBMVGlkcDZaSW1ZTw?oc=5\" target=\"_blank\">Skretting warns clock is ticking on crucial fishmeal supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2025-04-22T07:00:00+00:00",
+      "last_seen": "2025-04-22T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 644,
       "headline": "Slik blir Cargills fabrikk en av verdens mest energieffektive - Kyst.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUdzcERhWDBJUmd6YVppYnJTUnh4Y2xIT1J2bmwxMHZwaDhpUVpHejZEVkN3QmRpU3ZYUjFmOW4xWE5YSTdoZ2ZsOFFxenMxeGdXWXAtOUZvZExfdEpiVVZCdGluTlMxZkpISkZPNlRSMDZ2RV9CUzN4Ql9NOTg2SzE2Nm1WSVpjYzg3ZHVYdnE0SEswbm9IX2tCaV9hMmZrMlNHY1piNDI?oc=5\" target=\"_blank\">Slik blir Cargills fabrikk en av verdens mest energieffektive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
@@ -13203,6 +13217,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2008,
+      "headline": "Aktieselskabet Schouw & Co. - Via Ritzau",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHpaTzZfWU92Y3F0UklxSWp6Mkx1cHZ2ZEdHOVk5T2UwcXNxaElIVTFkOHVaVnlyU21zUHE0UlhoOFBaYTJfVjB1OTBhcTIxbGJjemZCdDdydVByLUtRanNoQm5abkU1NEw1cTJkOG44QThDNmhWYlljM00ySF9GbGlOOERGQmx3ZG1TZWljLWl5c1JJTHk1ZUlIMDl6RGcyWHlDTQ?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Via Ritzau</font>",
+      "first_seen": "2024-11-12T08:00:00+00:00",
+      "last_seen": "2024-11-12T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 127,
@@ -18314,6 +18342,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 2007,
+      "headline": "Statsforvalteren vurderer pålegg om stans av aktivitet - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9BUUJ4RnlJa0t4M3hLNkt3LVFKUGFueHIyVGpHbzAtcTlDSTZaVndPM19qN0g1Qmg0Qy0wNDU4QmFSR2drcTZaalpUb3J5eXo4LVFuSmpOaG9CYVRzbUJnZXVvUzVEMjFUcHdIWHNZMW5CMEU0YjVNY0VOOWVwLU0?oc=5\" target=\"_blank\">Statsforvalteren vurderer pålegg om stans av aktivitet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2022-10-04T07:00:00+00:00",
+      "last_seen": "2022-10-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 960,
@@ -91499,6 +91541,174 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUlhqUnozY0NoYmNBRmYteEhOZFlQbGVWMzE0VzNieFJDeHJmMzUyaHJqTFJhZnNWU3NvQ3l1Vm9CN2tsXzRzU0dkcWJ1ZUFlb2VhRTRIamhTak9Sck16ekZoUUI0aTNTcGtiSWJiMWd6QS1nV0hsVFZHNEFXZDhTOUNmTlh5aDBS?oc=5\" target=\"_blank\">Skretting Chile logró certificación BAP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 300155,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3ZLU1F0YkF6Yi1qM0lOTU1PN2NuQS1GSjVvajJSTEVlSEFCd0ZfQ3VITVlUdHRpcEo4Q0xIUHFxdzgtbEpjVGpLR2k2V243UE5SNjdEU1ZjalE2TzUtSUVLV3g0MTZZdmNWbGdoZHZGbkU2anlzNGdkbkh4YmpGM1RQZVp5MEtnaUs0Rg?oc=5",
+      "title": "Total assets of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T00:16:58+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3ZLU1F0YkF6Yi1qM0lOTU1PN2NuQS1GSjVvajJSTEVlSEFCd0ZfQ3VITVlUdHRpcEo4Q0xIUHFxdzgtbEpjVGpLR2k2V243UE5SNjdEU1ZjalE2TzUtSUVLV3g0MTZZdmNWbGdoZHZGbkU2anlzNGdkbkh4YmpGM1RQZVp5MEtnaUs0Rg?oc=5\" target=\"_blank\">Total assets of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 300158,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmNXdjJPeFRWX09sa3ItcnFsRFg5a1JIMkZzZXNVMFpSWjZldy1iejV0Zm1QWWVjdlB2S2JPbTdfWTc2T2R1WTN6UGozeG9iYUJXVjhNbXJYTWttTG9NeF91VV9HQnlqbFFOVGJ4N3pWTXRuZGdRUVZoajlSME9BOGZEdW9qYXdOOXlXVw?oc=5",
+      "title": "Total equity of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T00:16:12+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmNXdjJPeFRWX09sa3ItcnFsRFg5a1JIMkZzZXNVMFpSWjZldy1iejV0Zm1QWWVjdlB2S2JPbTdfWTc2T2R1WTN6UGozeG9iYUJXVjhNbXJYTWttTG9NeF91VV9HQnlqbFFOVGJ4N3pWTXRuZGdRUVZoajlSME9BOGZEdW9qYXdOOXlXVw?oc=5\" target=\"_blank\">Total equity of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 300321,
+      "story_id": 2007,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BUUJ4RnlJa0t4M3hLNkt3LVFKUGFueHIyVGpHbzAtcTlDSTZaVndPM19qN0g1Qmg0Qy0wNDU4QmFSR2drcTZaalpUb3J5eXo4LVFuSmpOaG9CYVRzbUJnZXVvUzVEMjFUcHdIWHNZMW5CMEU0YjVNY0VOOWVwLU0?oc=5",
+      "title": "Statsforvalteren vurderer pålegg om stans av aktivitet - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-10-04T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9BUUJ4RnlJa0t4M3hLNkt3LVFKUGFueHIyVGpHbzAtcTlDSTZaVndPM19qN0g1Qmg0Qy0wNDU4QmFSR2drcTZaalpUb3J5eXo4LVFuSmpOaG9CYVRzbUJnZXVvUzVEMjFUcHdIWHNZMW5CMEU0YjVNY0VOOWVwLU0?oc=5\" target=\"_blank\">Statsforvalteren vurderer pålegg om stans av aktivitet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+    },
+    {
+      "id": 300442,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnFXNjVMbFdCUjZHak1YQU9Pc0dENkxqS3hEN1lsWVAwYWRjakFVclJyUGh0S3ZHRUtpTWtuU2xVSVV6Y0QyVE1XYkhLbVFNajROUFFoTWN6end2YWFPWTY0ZE92VGoyeTFTRlh1YVhSVkV2ZWxiRm9ESG1mZEN1NURoVXJQdzVkbHZiZWZxYlhHaWtBaVVv?oc=5",
+      "title": "Ratio circulante de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T08:08:58+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnFXNjVMbFdCUjZHak1YQU9Pc0dENkxqS3hEN1lsWVAwYWRjakFVclJyUGh0S3ZHRUtpTWtuU2xVSVV6Y0QyVE1XYkhLbVFNajROUFFoTWN6end2YWFPWTY0ZE92VGoyeTFTRlh1YVhSVkV2ZWxiRm9ESG1mZEN1NURoVXJQdzVkbHZiZWZxYlhHaWtBaVVv?oc=5\" target=\"_blank\">Ratio circulante de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 300444,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUhhZURYLTN5VDNCVS1KUGJiZEJvUGdleHkzREdFNGo5VGdKQW9wYzNUUnRZeU40ZGdvMTZaMFRWTDFXOWMtZlAzUU8ybjNILXhQamtVSzhjRGZJcE9OLVJEMDFaVUgtd0J2NE9lN1RvelBnblZRTzd5R3RFT2pZUEZCZS1WNjVL?oc=5",
+      "title": "Deuda total de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T03:34:58+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWUhhZURYLTN5VDNCVS1KUGJiZEJvUGdleHkzREdFNGo5VGdKQW9wYzNUUnRZeU40ZGdvMTZaMFRWTDFXOWMtZlAzUU8ybjNILXhQamtVSzhjRGZJcE9OLVJEMDFaVUgtd0J2NE9lN1RvelBnblZRTzd5R3RFT2pZUEZCZS1WNjVL?oc=5\" target=\"_blank\">Deuda total de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 300558,
+      "story_id": 2008,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHpaTzZfWU92Y3F0UklxSWp6Mkx1cHZ2ZEdHOVk5T2UwcXNxaElIVTFkOHVaVnlyU21zUHE0UlhoOFBaYTJfVjB1OTBhcTIxbGJjemZCdDdydVByLUtRanNoQm5abkU1NEw1cTJkOG44QThDNmhWYlljM00ySF9GbGlOOERGQmx3ZG1TZWljLWl5c1JJTHk1ZUlIMDl6RGcyWHlDTQ?oc=5",
+      "title": "Aktieselskabet Schouw & Co. - Via Ritzau",
+      "source_name": "Via Ritzau",
+      "language": "da",
+      "country": "DK",
+      "outlet_kind": "release",
+      "published_at": "2024-11-12T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVHpaTzZfWU92Y3F0UklxSWp6Mkx1cHZ2ZEdHOVk5T2UwcXNxaElIVTFkOHVaVnlyU21zUHE0UlhoOFBaYTJfVjB1OTBhcTIxbGJjemZCdDdydVByLUtRanNoQm5abkU1NEw1cTJkOG44QThDNmhWYlljM00ySF9GbGlOOERGQmx3ZG1TZWljLWl5c1JJTHk1ZUlIMDl6RGcyWHlDTQ?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Via Ritzau</font>"
+    },
+    {
+      "id": 300695,
+      "story_id": 2009,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWE5VT3Y5VlVtaHFfeXRabkQ3SkZRTGF3TnhxU29sNmRpa0wyUGhGdWdwS1BMbGtkZmozc2xZOGI2YjdRM3YtZG5IODFHTG1RY1BoUVNCdVl4OG9pV0lRMGpRSXhpNHJXalpkRlQ2TVhPb2hOa1NiUXY0TnJrRkRDN2FiLURTRkZ0bWxyNHlicDh5OXk2NUM1UFBMVGlkcDZaSW1ZTw?oc=5",
+      "title": "Skretting warns clock is ticking on crucial fishmeal supply - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-04-22T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWE5VT3Y5VlVtaHFfeXRabkQ3SkZRTGF3TnhxU29sNmRpa0wyUGhGdWdwS1BMbGtkZmozc2xZOGI2YjdRM3YtZG5IODFHTG1RY1BoUVNCdVl4OG9pV0lRMGpRSXhpNHJXalpkRlQ2TVhPb2hOa1NiUXY0TnJrRkRDN2FiLURTRkZ0bWxyNHlicDh5OXk2NUM1UFBMVGlkcDZaSW1ZTw?oc=5\" target=\"_blank\">Skretting warns clock is ticking on crucial fishmeal supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
     }
   ],
   "share_of_voice": {
@@ -94281,7 +94491,7 @@
       {
         "week": "2022-W40",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 0
@@ -95089,7 +95299,7 @@
       {
         "week": "2024-W46",
         "Aller Aqua": 0,
-        "BioMar": 19,
+        "BioMar": 20,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -95276,7 +95486,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2025-W18",
@@ -95777,7 +95987,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 76,
+        "BioMar": 80,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -95790,7 +96000,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1363
+        "count": 1369
       },
       {
         "company": "Cargill",
@@ -95802,7 +96012,7 @@
       },
       {
         "company": "Skretting",
-        "count": 830
+        "count": 831
       }
     ]
   }
