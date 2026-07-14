@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T07:24:44+00:00",
+  "generated_at": "2026-07-14T11:00:05+00:00",
   "stats": {
-    "mention_count": 2622,
-    "story_count": 1991,
+    "mention_count": 2624,
+    "story_count": 1993,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 43
@@ -18737,6 +18737,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2015,
+      "headline": "HTO2, tu mejor aliado para el verano - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1VbFlpejhKZHE5eWxhcXZxVGFOVDdhaXRvSEVDTWJpU19hY0U2bHZFTDFka2h3Uy0wdl83cW1aYkp1V0lXc2FnZnlxcGxfM3pzOUZyZGRqOHozWGJhUXRFcFNzZC1fSVlDQ3lfSUlJekJDNE1zR28ybnZR?oc=5\" target=\"_blank\">HTO2, tu mejor aliado para el verano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2022-07-22T06:10:22+00:00",
+      "last_seen": "2022-07-22T06:10:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 70,
       "headline": "BioMar-anke avvist av Høyesterett - iLaks",
       "story_summary": "The Norwegian Supreme Court has rejected an appeal filed by BioMar. The specific nature of the underlying legal dispute is not detailed in the available summary.",
@@ -22013,6 +22027,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2014,
+      "headline": "Fernando Sanz: \"MaGro© es la alternativa de Skretting al uso de carnada en atún rojo” - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1BaZ1VKcno5aUMyYzUwTGdRXzNYOUJSQkRTME9zOUI4Y05WWEpnMGVyX0hDcW9BTjF4VzRsQmk4YkpWcDNyYjBJbTdYam41U2RfaVluRDhGRmFLRmlPTi1vR19iS2xSeVgzYTM2UENZTWZpSS1Vb2t2R0ZzUy1jWWRqdk1WakdyM1BhYlNNTDlxUXhkbEJiVnUxMWpNUUF0VndmWVVYV3hhRkdQLTNsajBucVVsZmx1S2c?oc=5\" target=\"_blank\">Fernando Sanz: \"MaGro© es la alternativa de Skretting al uso de carnada en atún rojo”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2020-05-05T05:41:54+00:00",
+      "last_seen": "2020-05-05T05:41:54+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 475,
@@ -91934,6 +91962,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWw4Z05YRDZtWFBqTVhxUm15RkRuZUxiVkRGc0Frb0JScXVITEtaN1BkSkpOREY0Z08wV0JhZmpfY2kwYXZVdWFuWF82SFVTdnc0bFZRVENwTTFva29vT0pTQUlqcUhZQ1RpTVVlLUFJVFgtdXpfaHVheWFRb2xTRGdhY08wSU1ZMWpWTDh4Z0otYTF0UWl3bU9UZjNTbXJBQl9pbHZma19VR0o5dEEwM19uMXVhdlBvQnZFNGg0b09vc1JIc2ZjR2ZOSXY3Y0pIVHZMdGd1Rm05WTA?oc=5\" target=\"_blank\">El alimento para camarones de Skretting permite operaciones simplificadas y mejor rendimiento en larvas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Universo</font>"
+    },
+    {
+      "id": 306204,
+      "story_id": 2014,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1BaZ1VKcno5aUMyYzUwTGdRXzNYOUJSQkRTME9zOUI4Y05WWEpnMGVyX0hDcW9BTjF4VzRsQmk4YkpWcDNyYjBJbTdYam41U2RfaVluRDhGRmFLRmlPTi1vR19iS2xSeVgzYTM2UENZTWZpSS1Vb2t2R0ZzUy1jWWRqdk1WakdyM1BhYlNNTDlxUXhkbEJiVnUxMWpNUUF0VndmWVVYV3hhRkdQLTNsajBucVVsZmx1S2c?oc=5",
+      "title": "Fernando Sanz: \"MaGro© es la alternativa de Skretting al uso de carnada en atún rojo” - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2020-05-05T05:41:54+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1BaZ1VKcno5aUMyYzUwTGdRXzNYOUJSQkRTME9zOUI4Y05WWEpnMGVyX0hDcW9BTjF4VzRsQmk4YkpWcDNyYjBJbTdYam41U2RfaVluRDhGRmFLRmlPTi1vR19iS2xSeVgzYTM2UENZTWZpSS1Vb2t2R0ZzUy1jWWRqdk1WakdyM1BhYlNNTDlxUXhkbEJiVnUxMWpNUUF0VndmWVVYV3hhRkdQLTNsajBucVVsZmx1S2c?oc=5\" target=\"_blank\">Fernando Sanz: \"MaGro© es la alternativa de Skretting al uso de carnada en atún rojo”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 306205,
+      "story_id": 2015,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VbFlpejhKZHE5eWxhcXZxVGFOVDdhaXRvSEVDTWJpU19hY0U2bHZFTDFka2h3Uy0wdl83cW1aYkp1V0lXc2FnZnlxcGxfM3pzOUZyZGRqOHozWGJhUXRFcFNzZC1fSVlDQ3lfSUlJekJDNE1zR28ybnZR?oc=5",
+      "title": "HTO2, tu mejor aliado para el verano - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2022-07-22T06:10:22+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1VbFlpejhKZHE5eWxhcXZxVGFOVDdhaXRvSEVDTWJpU19hY0U2bHZFTDFka2h3Uy0wdl83cW1aYkp1V0lXc2FnZnlxcGxfM3pzOUZyZGRqOHozWGJhUXRFcFNzZC1fSVlDQ3lfSUlJekJDNE1zR28ybnZR?oc=5\" target=\"_blank\">HTO2, tu mejor aliado para el verano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
     }
   ],
   "share_of_voice": {
@@ -93895,7 +93971,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2020-W20",
@@ -94639,7 +94715,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2022-W30",
@@ -96245,7 +96321,7 @@
       },
       {
         "company": "Skretting",
-        "count": 833
+        "count": 835
       }
     ]
   }
