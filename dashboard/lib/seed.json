@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T11:05:22+00:00",
+  "generated_at": "2026-07-15T17:19:36+00:00",
   "stats": {
-    "mention_count": 2645,
-    "story_count": 2005,
+    "mention_count": 2646,
+    "story_count": 2006,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -261,6 +261,7 @@
     "The New Times",
     "The Objective",
     "The Pig Site",
+    "The Telegraph",
     "The Urban Developer",
     "Theinvestor",
     "Tidens Krav",
@@ -26922,6 +26923,20 @@
       "id": 1549,
       "headline": "Med styrket tro på framtiden - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWmZlY0ptdVFSbFoxWGh0YzJ1eHNhdm1SSS1idzNZMzVDUzNxUm5HZEpyQ2ZvWW04cVA2clhYQnB2RHNVTUwzMHFyZzBMQVNreDB5LS02STFnUQ?oc=5\" target=\"_blank\">Med styrket tro på framtiden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2015-08-17T07:00:00+00:00",
+      "last_seen": "2015-08-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 2028,
+      "headline": "Cargill capitalises on growing demand for fish with £959m acquisition of salmon feed maker - The Telegraph",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbUlfTFhiQTN1NE5QM2JEOHMzcm9Vb0RlVXluY1ExbkFBZzBGSXdnS0RmX1RXMWFTaEpFRGxWa2ViSkpBTVZXc3NaWnlzblh5R0k0LUxJckp5QzNhR0lGUnE4eGp6dmI4Q0RHWEhud2NRUnlJejJJRGZEakxPMkJRYkNoa1JtT3dQVlhGb2dFcmtYUFM4dzJoVHhVYTAwQ1A4bkU5MURFREY0b1ZQLVBsQ0RrVVRsUnIxM1ZDdVU2NEt1TTdFakt6cWdxNWJnQXBTNzVGR2ZrazVFNl91NVB4Q0tURnlfVGp2UE9RZm5QQzZLVlE?oc=5\" target=\"_blank\">Cargill capitalises on growing demand for fish with £959m acquisition of salmon feed maker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>",
       "first_seen": "2015-08-17T07:00:00+00:00",
       "last_seen": "2015-08-17T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -92683,6 +92698,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0UtOENxMHViVngzY25YNVZ4emg5RlFGZUUzdTZ2Z0hWMlVYdGZydnlkcThaT1NqVWVzWlJqNFJ4SFFDazd2d2h5THM0MjVQbVFkQUFSVE93bGdDU0RiS1l1RlExc1V2c1JScXduLWJ6bWhnSEdaYVMxZXg2TlRvbXl6TVRtN3hVdUpqbDFUSjRTV2ZBTHVpYi1YS2dkUUxoSXZr?oc=5\" target=\"_blank\">Skretting y Mowi concretan proyecto de bolsas compostables</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sustentable</font>"
+    },
+    {
+      "id": 311377,
+      "story_id": 2028,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbUlfTFhiQTN1NE5QM2JEOHMzcm9Vb0RlVXluY1ExbkFBZzBGSXdnS0RmX1RXMWFTaEpFRGxWa2ViSkpBTVZXc3NaWnlzblh5R0k0LUxJckp5QzNhR0lGUnE4eGp6dmI4Q0RHWEhud2NRUnlJejJJRGZEakxPMkJRYkNoa1JtT3dQVlhGb2dFcmtYUFM4dzJoVHhVYTAwQ1A4bkU5MURFREY0b1ZQLVBsQ0RrVVRsUnIxM1ZDdVU2NEt1TTdFakt6cWdxNWJnQXBTNzVGR2ZrazVFNl91NVB4Q0tURnlfVGp2UE9RZm5QQzZLVlE?oc=5",
+      "title": "Cargill capitalises on growing demand for fish with £959m acquisition of salmon feed maker - The Telegraph",
+      "source_name": "The Telegraph",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2015-08-17T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbUlfTFhiQTN1NE5QM2JEOHMzcm9Vb0RlVXluY1ExbkFBZzBGSXdnS0RmX1RXMWFTaEpFRGxWa2ViSkpBTVZXc3NaWnlzblh5R0k0LUxJckp5QzNhR0lGUnE4eGp6dmI4Q0RHWEhud2NRUnlJejJJRGZEakxPMkJRYkNoa1JtT3dQVlhGb2dFcmtYUFM4dzJoVHhVYTAwQ1A4bkU5MURFREY0b1ZQLVBsQ0RrVVRsUnIxM1ZDdVU2NEt1TTdFakt6cWdxNWJnQXBTNzVGR2ZrazVFNl91NVB4Q0tURnlfVGp2UE9RZm5QQzZLVlE?oc=5\" target=\"_blank\">Cargill capitalises on growing demand for fish with £959m acquisition of salmon feed maker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>"
     }
   ],
   "share_of_voice": {
@@ -93330,7 +93369,7 @@
         "week": "2015-W34",
         "Aller Aqua": 0,
         "BioMar": 1,
-        "Cargill": 19,
+        "Cargill": 20,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -96994,7 +97033,7 @@
       },
       {
         "company": "Cargill",
-        "count": 262
+        "count": 263
       },
       {
         "company": "Polarfeed",
