@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-14T22:54:05+00:00",
+  "generated_at": "2026-07-15T07:29:08+00:00",
   "stats": {
-    "mention_count": 2639,
-    "story_count": 1999,
+    "mention_count": 2641,
+    "story_count": 2001,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -19955,6 +19955,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2023,
+      "headline": "BioMar Group crece en todos los mercados en el 3 trimestre - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUhhcWpmdFlFMmZ0a2U1TFhLZDNNb08yZUU1bmRxUkhPYlo0MldGVDM1TnBDUk8wam4wdEhxNnUtTV9peUlpdHFKS2c1cTcxOEMydllVODdyb3hhVmhXdk1CMEJPa21XYThPS00tazl1alZlVzJscnZoZGRUbUZLLWVOYTNmYi05dWRYTlJDN0pVRFM1ME5QcQ?oc=5\" target=\"_blank\">BioMar Group crece en todos los mercados en el 3 trimestre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2021-11-17T08:00:00+00:00",
+      "last_seen": "2021-11-17T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 57,
       "headline": "Chileno asume rol regional en Abastecimiento del grupo BioMar - Salmonexpert",
       "story_summary": "A Chilean executive has been appointed to a regional supply role within BioMar Group. The announcement reflects organizational changes in the company's supply chain management.",
@@ -27896,6 +27910,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2022,
+      "headline": "BioMar incorporará probióticos a su alimento en convenio con firma canadiense - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0xCOFg4ZlRjTFdnVlNlNlV5cHA1RkNYbDZ0ZEs2UU1Zb0Z1R0g0S0Zzb0hIaG1MWEdvUXNDWGRWWXdwMEJGSG9nczlBSVBrV1N0VUFRS3M2TVFqUE4tVEFXVUtEYjB6NUQyYWNhNE13aXJ2SFJBLXVBVDVDdndIVmxsTjQ5Y2hBTkZWM1QxdmRQLU9PMS1EbzF3aDNjLTJ6RUUzc1RycnpkeTk5NC0wb0Nwc1g5dFJTbnVV?oc=5\" target=\"_blank\">BioMar incorporará probióticos a su alimento en convenio con firma canadiense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2013-05-30T07:00:00+00:00",
+      "last_seen": "2013-05-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1053,
@@ -92454,6 +92482,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcmNPSGhQWFFVYUcxSDJHU3g5OEtkNEZxRVY4V2hkY1R2akp5Z0o4cTlBdlo5ZEFhMG5ydlE3QkNpbGtlVVN3YTNsLXpMWnctbmxVMmRNaXMxRTFMVU9JZmptU0sxR0tvZDRmcHJ2Z2tHQ3Z3enliVmJMTndlNlVBdWNIWHYzaGlENjg1ZEtyQzJUS3FRd3FQMGNDUFJPd0h4dm00aGpRZjZEWUltOGcwd3BGU3FoaVY3VGY1YkJEWlhyQkpzbjR0OU9MQTJsVVhCazhlNGxOY1c?oc=5\" target=\"_blank\">Xpand, la innovación de Skretting Group, la próxima generación de alimento Premium de engorde en camaroneras</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 308773,
+      "story_id": 2022,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0xCOFg4ZlRjTFdnVlNlNlV5cHA1RkNYbDZ0ZEs2UU1Zb0Z1R0g0S0Zzb0hIaG1MWEdvUXNDWGRWWXdwMEJGSG9nczlBSVBrV1N0VUFRS3M2TVFqUE4tVEFXVUtEYjB6NUQyYWNhNE13aXJ2SFJBLXVBVDVDdndIVmxsTjQ5Y2hBTkZWM1QxdmRQLU9PMS1EbzF3aDNjLTJ6RUUzc1RycnpkeTk5NC0wb0Nwc1g5dFJTbnVV?oc=5",
+      "title": "BioMar incorporará probióticos a su alimento en convenio con firma canadiense - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2013-05-30T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0xCOFg4ZlRjTFdnVlNlNlV5cHA1RkNYbDZ0ZEs2UU1Zb0Z1R0g0S0Zzb0hIaG1MWEdvUXNDWGRWWXdwMEJGSG9nczlBSVBrV1N0VUFRS3M2TVFqUE4tVEFXVUtEYjB6NUQyYWNhNE13aXJ2SFJBLXVBVDVDdndIVmxsTjQ5Y2hBTkZWM1QxdmRQLU9PMS1EbzF3aDNjLTJ6RUUzc1RycnpkeTk5NC0wb0Nwc1g5dFJTbnVV?oc=5\" target=\"_blank\">BioMar incorporará probióticos a su alimento en convenio con firma canadiense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 308774,
+      "story_id": 2023,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUhhcWpmdFlFMmZ0a2U1TFhLZDNNb08yZUU1bmRxUkhPYlo0MldGVDM1TnBDUk8wam4wdEhxNnUtTV9peUlpdHFKS2c1cTcxOEMydllVODdyb3hhVmhXdk1CMEJPa21XYThPS00tazl1alZlVzJscnZoZGRUbUZLLWVOYTNmYi05dWRYTlJDN0pVRFM1ME5QcQ?oc=5",
+      "title": "BioMar Group crece en todos los mercados en el 3 trimestre - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2021-11-17T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUhhcWpmdFlFMmZ0a2U1TFhLZDNNb08yZUU1bmRxUkhPYlo0MldGVDM1TnBDUk8wam4wdEhxNnUtTV9peUlpdHFKS2c1cTcxOEMydllVODdyb3hhVmhXdk1CMEJPa21XYThPS00tazl1alZlVzJscnZoZGRUbUZLLWVOYTNmYi05dWRYTlJDN0pVRFM1ME5QcQ?oc=5\" target=\"_blank\">BioMar Group crece en todos los mercados en el 3 trimestre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
     }
   ],
   "share_of_voice": {
@@ -92700,7 +92776,7 @@
       {
         "week": "2013-W22",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 0
@@ -94908,7 +94984,7 @@
       {
         "week": "2021-W46",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -96761,7 +96837,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1382
+        "count": 1384
       },
       {
         "company": "Cargill",
