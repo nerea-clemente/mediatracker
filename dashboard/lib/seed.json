@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-16T07:36:10+00:00",
+  "generated_at": "2026-07-16T11:14:54+00:00",
   "stats": {
-    "mention_count": 2649,
-    "story_count": 2008,
+    "mention_count": 2652,
+    "story_count": 2011,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -330,10 +330,25 @@
     "smp.no",
     "soychile.cl",
     "streamlinefeed.co.ke",
+    "tronderbladet.no",
     "vol.no",
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2033,
+      "headline": "Går fra Oslo til Trondheimq - tronderbladet.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3N6THByU3FaRTduUlEwT3dudmtVZU5Ua0FJRl8yYjdONEgyNGI4RDJvS3dCbkNpbG50d2cxeExYZWJxcW5sbEZzTllMMHZLT0ZNSE1YVjBxWDB2V1RHUlRic3I2b1piNXBLeXJwcmQ3UkZNcEk2RjlTMnBOV21jT0xnRDR1VUpETS00Z1h6NA?oc=5\" target=\"_blank\">Går fra Oslo til Trondheimq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tronderbladet.no</font>",
+      "first_seen": "2026-07-16T10:00:00+00:00",
+      "last_seen": "2026-07-16T10:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2027,
       "headline": "BioMar presenta estrategia nutricional para apoyar la salud branquial de los salmones - aqua.cl",
@@ -6657,6 +6672,20 @@
       "pickup_count": 1,
       "is_about_target_brand": false,
       "company": "BioMar"
+    },
+    {
+      "id": 2032,
+      "headline": "Supply gaps, price pressures, leadership shifts: The top feed stories of 2025 - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYl9QRTU3V1pnSHV0VzVQNzlwRGt5Vy0tLTE1MWMya3lscGVjdmxhSkhrVVZPN3ZvRG9iZ3BUMGl4Y1dPTTZPVjMxSUNPVUJ6N2EwN1NJaFRFNXFTc090TERDclRKYjZJa2EwenRoU2RlNk5maDFDbmFYUTBFREZ5bEJzN1pJYlpzWGJXOTVwTlpWcEZ5T2o0LWtYR29GRXV2UGd5dC16NFJ6a0FXSktwTVRDbUQxRkZo?oc=5\" target=\"_blank\">Supply gaps, price pressures, leadership shifts: The top feed stories of 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2025-12-23T08:00:00+00:00",
+      "last_seen": "2025-12-23T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 760,
@@ -28073,6 +28102,20 @@
       "story_summary": "BioMar has introduced a new feed barge vessel into its operations. The article reports on this equipment development with no additional context provided in the available summary.",
       "first_seen": "2013-04-15T07:00:00+00:00",
       "last_seen": "2013-04-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2031,
+      "headline": "Banksjef blir salgs- og markedsdirektør i BioMar - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE94WXhCLVF6dW9xQzB0TTl6OTM5RE5rTWl6amx1Zlh5VU02SVdqLW9Fb2R5WXRfZ1U3NjBKeXlNS0lNRVZLc1lWQzdYMjZhVWNnNlhBVl81aG9uNFZ4bXpaY1Q4RXdxc3pJdXktNm9uN2JHb0E?oc=5\" target=\"_blank\">Banksjef blir salgs- og markedsdirektør i BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2013-04-04T07:00:00+00:00",
+      "last_seen": "2013-04-04T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -92822,6 +92865,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2RwNmJTNFJneVRodXRxZVRVenB2VUk4azdNRWtEdXBjSGozUGp0RGVKbWFQdFdycWVMVWlTWkhFMENJWHBJUnFUckFiSkJ4RjhZLVNhel91dmlvNVZ4WmdnN2U2cUx3U2MtdUJRYXd5dzBfcUpvVnFDRll4R1RtUF93MVFzb2xjZDJBTDY4NC1TNnM?oc=5\" target=\"_blank\">Cargill appoints new MD for North Sea and Canada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 313693,
+      "story_id": 2031,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94WXhCLVF6dW9xQzB0TTl6OTM5RE5rTWl6amx1Zlh5VU02SVdqLW9Fb2R5WXRfZ1U3NjBKeXlNS0lNRVZLc1lWQzdYMjZhVWNnNlhBVl81aG9uNFZ4bXpaY1Q4RXdxc3pJdXktNm9uN2JHb0E?oc=5",
+      "title": "Banksjef blir salgs- og markedsdirektør i BioMar - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2013-04-04T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE94WXhCLVF6dW9xQzB0TTl6OTM5RE5rTWl6amx1Zlh5VU02SVdqLW9Fb2R5WXRfZ1U3NjBKeXlNS0lNRVZLc1lWQzdYMjZhVWNnNlhBVl81aG9uNFZ4bXpaY1Q4RXdxc3pJdXktNm9uN2JHb0E?oc=5\" target=\"_blank\">Banksjef blir salgs- og markedsdirektør i BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 314050,
+      "story_id": 2032,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYl9QRTU3V1pnSHV0VzVQNzlwRGt5Vy0tLTE1MWMya3lscGVjdmxhSkhrVVZPN3ZvRG9iZ3BUMGl4Y1dPTTZPVjMxSUNPVUJ6N2EwN1NJaFRFNXFTc090TERDclRKYjZJa2EwenRoU2RlNk5maDFDbmFYUTBFREZ5bEJzN1pJYlpzWGJXOTVwTlpWcEZ5T2o0LWtYR29GRXV2UGd5dC16NFJ6a0FXSktwTVRDbUQxRkZo?oc=5",
+      "title": "Supply gaps, price pressures, leadership shifts: The top feed stories of 2025 - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-12-23T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYl9QRTU3V1pnSHV0VzVQNzlwRGt5Vy0tLTE1MWMya3lscGVjdmxhSkhrVVZPN3ZvRG9iZ3BUMGl4Y1dPTTZPVjMxSUNPVUJ6N2EwN1NJaFRFNXFTc090TERDclRKYjZJa2EwenRoU2RlNk5maDFDbmFYUTBFREZ5bEJzN1pJYlpzWGJXOTVwTlpWcEZ5T2o0LWtYR29GRXV2UGd5dC16NFJ6a0FXSktwTVRDbUQxRkZo?oc=5\" target=\"_blank\">Supply gaps, price pressures, leadership shifts: The top feed stories of 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 314113,
+      "story_id": 2033,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3N6THByU3FaRTduUlEwT3dudmtVZU5Ua0FJRl8yYjdONEgyNGI4RDJvS3dCbkNpbG50d2cxeExYZWJxcW5sbEZzTllMMHZLT0ZNSE1YVjBxWDB2V1RHUlRic3I2b1piNXBLeXJwcmQ3UkZNcEk2RjlTMnBOV21jT0xnRDR1VUpETS00Z1h6NA?oc=5",
+      "title": "Går fra Oslo til Trondheimq - tronderbladet.no",
+      "source_name": "tronderbladet.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-07-16T10:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3N6THByU3FaRTduUlEwT3dudmtVZU5Ua0FJRl8yYjdONEgyNGI4RDJvS3dCbkNpbG50d2cxeExYZWJxcW5sbEZzTllMMHZLT0ZNSE1YVjBxWDB2V1RHUlRic3I2b1piNXBLeXJwcmQ3UkZNcEk2RjlTMnBOV21jT0xnRDR1VUpETS00Z1h6NA?oc=5\" target=\"_blank\">Går fra Oslo til Trondheimq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tronderbladet.no</font>"
     }
   ],
   "share_of_voice": {
@@ -93035,6 +93150,14 @@
       },
       {
         "week": "2013-W11",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2013-W14",
         "Aller Aqua": 0,
         "BioMar": 1,
         "Cargill": 0,
@@ -96887,7 +97010,7 @@
         "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 20
+        "Skretting": 21
       },
       {
         "week": "2026-W01",
@@ -97119,7 +97242,7 @@
         "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       }
     ],
     "totals": [
@@ -97129,7 +97252,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1387
+        "count": 1388
       },
       {
         "company": "Cargill",
@@ -97141,7 +97264,7 @@
       },
       {
         "company": "Skretting",
-        "count": 842
+        "count": 844
       }
     ]
   }
