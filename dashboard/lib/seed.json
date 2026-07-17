@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-17T11:00:42+00:00",
+  "generated_at": "2026-07-17T17:14:23+00:00",
   "stats": {
-    "mention_count": 2656,
-    "story_count": 2013,
+    "mention_count": 2659,
+    "story_count": 2014,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -555,7 +555,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 92,
+      "pickup_count": 93,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -575,15 +575,15 @@
     },
     {
       "id": 1978,
-      "headline": "Schouw & Co. share buy-back programme, week 27 2026 - The Manila Times",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRkhrQlZzaU5wbHg2a3VqeG84SldWcHpxMllPQU00eWFpM1BZb3ZWVXV6X09ZUEpBOHUzV09wTXVhS1FEcGVhd2pCdXNLZDhaY3NNMGtWTTRtSVVEWFgzTE5jcG55VGQ5RERZV01XM0JRVktTNGJCS05yMmJyeHpvWTRpZVdRak5leWNaTHNLMFdMTFpvNi1mRl9mRWN0c0ZONDA5Z3c1bG95OURQLVh3azFocGZ4Vm5FLWhYM2xn0gHDAUFVX3lxTFBod3VET1FMazN5Q25BYWhMYVBQYmduODhhbkJ6X1RCSXA3Z1F1NkpUY0RER0VzakVBcGo1bWhZMk1CRGhpajMzcjBHLTlvY2Y1WVB5Ny1KNVFaQm9zMW5lbkQ3OGVkUHBTRlQ5V04xX19vYjJQQXVwWXV1Ym5PY3VlaFNEcXJpck1tWko2RkZ6NmhsS2J4ZUJiVjhLTU5CX3dXWFU0YnpOdHp5MTdXT0t1S2Vzcl9nZ09XTVFpUjdHUFJySQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 27 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
-      "first_seen": "2026-07-06T13:51:40+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 27 2026 - Yahoo Finance UK",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9HdHJqa2NkMlJZWGhPVk42a0p0Y0ZpcFF3aHBha19LNXlObWRXNC1tQjdWTVZwVkRlb3pXbmVjM0lkQ2JjN2V1ZThocFI3ZWpUd1lnYVZyRDdMQ2JLRlBJbWNmRDNiNjNoZWpuU3VtMmVab0pEajFUUl8zbnhKZw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 27 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "first_seen": "2026-07-06T07:00:00+00:00",
       "last_seen": "2026-07-06T13:51:40+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -22816,6 +22816,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2036,
+      "headline": "Skretting figura entre las 10 principales empresas acuícolas del mundo - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUhManl2Yzl1WVM5bkdCQjFWM3hnM25QVWg2TUcwQmttaml4NFRsUWYxSzE2LWlfQnJWa3B3V1VCNzR1WXVGMlJGaUd1SjlqSzVEQVBQNlFTSHRhaktEMkN1MnkzeWdFRE5UdlBsSlF6U0dKajkxUDFrdFdnc25VVzYtQXZ4MzZlNVl5LTJuUXRpMHNOWDlzc3RXMDduX0FuYkYzcnJCbXRVTVgxZmJIV082S0dGZTkxeDk0cnA1U1l0VzFPajhwSjd6Q19QeVhK?oc=5\" target=\"_blank\">Skretting figura entre las 10 principales empresas acuícolas del mundo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2019-10-24T07:00:00+00:00",
+      "last_seen": "2019-10-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 32,
@@ -93061,6 +93075,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSDRfaXFVeHhNVElmeDh2S2NsZjU0N1E0Tm1fR3R1S2RsbElvWlVmV0VqaTJvUzBkOGdkdWVYMDJfVzdDVm9SY3o1VTNmY19HWWY5bE14S3pWcDlab3dDNXRLY2xUUEZINzRDdjlha3JqS29MaTBxQXZCQkhkTzhKWmZzYWlncmlNeFNwd2hJZ09VTlFIMWlTREdQNVNmZDJ3aGZZTVd5SmhGdnNUUWhyMGJjZVBJNjAyYkh0YTM1eFpOZw?oc=5\" target=\"_blank\">Morgan Stanley cautious on BioMar as input inflation clouds earnings By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>"
+    },
+    {
+      "id": 318645,
+      "story_id": 1976,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1d3ZXZmc29YN2NwSEpXZ29fV21hWW1CT2RrcjZQSTJsRjFhRHhHNld6X2FMRUdUVTIwUjkyM19jZTZQcFhMWVFqdHBfWFRoUjNPeVlEY0ppTEoxZWhzUkE1MkJTX2tfbzhZQ2ZBM3oxSWs3U29nX0lhODdJVEVZWklKRm9Ua2F3V21VSkdoMmlnb215ZFNBSHIxZlozSE9HSDRaUnlOZw?oc=5",
+      "title": "Long term debt to total equity ratio of BioMar Group A/S – LS:A42CV2 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-05T22:25:31+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1d3ZXZmc29YN2NwSEpXZ29fV21hWW1CT2RrcjZQSTJsRjFhRHhHNld6X2FMRUdUVTIwUjkyM19jZTZQcFhMWVFqdHBfWFRoUjNPeVlEY0ppTEoxZWhzUkE1MkJTX2tfbzhZQ2ZBM3oxSWs3U29nX0lhODdJVEVZWklKRm9Ua2F3V21VSkdoMmlnb215ZFNBSHIxZlozSE9HSDRaUnlOZw?oc=5\" target=\"_blank\">Long term debt to total equity ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 319045,
+      "story_id": 1978,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HdHJqa2NkMlJZWGhPVk42a0p0Y0ZpcFF3aHBha19LNXlObWRXNC1tQjdWTVZwVkRlb3pXbmVjM0lkQ2JjN2V1ZThocFI3ZWpUd1lnYVZyRDdMQ2JLRlBJbWNmRDNiNjNoZWpuU3VtMmVab0pEajFUUl8zbnhKZw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 27 2026 - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9HdHJqa2NkMlJZWGhPVk42a0p0Y0ZpcFF3aHBha19LNXlObWRXNC1tQjdWTVZwVkRlb3pXbmVjM0lkQ2JjN2V1ZThocFI3ZWpUd1lnYVZyRDdMQ2JLRlBJbWNmRDNiNjNoZWpuU3VtMmVab0pEajFUUl8zbnhKZw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 27 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
+    },
+    {
+      "id": 319509,
+      "story_id": 2036,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUhManl2Yzl1WVM5bkdCQjFWM3hnM25QVWg2TUcwQmttaml4NFRsUWYxSzE2LWlfQnJWa3B3V1VCNzR1WXVGMlJGaUd1SjlqSzVEQVBQNlFTSHRhaktEMkN1MnkzeWdFRE5UdlBsSlF6U0dKajkxUDFrdFdnc25VVzYtQXZ4MzZlNVl5LTJuUXRpMHNOWDlzc3RXMDduX0FuYkYzcnJCbXRVTVgxZmJIV082S0dGZTkxeDk0cnA1U1l0VzFPajhwSjd6Q19QeVhK?oc=5",
+      "title": "Skretting figura entre las 10 principales empresas acuícolas del mundo - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-10-24T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUhManl2Yzl1WVM5bkdCQjFWM3hnM25QVWg2TUcwQmttaml4NFRsUWYxSzE2LWlfQnJWa3B3V1VCNzR1WXVGMlJGaUd1SjlqSzVEQVBQNlFTSHRhaktEMkN1MnkzeWdFRE5UdlBsSlF6U0dKajkxUDFrdFdnc25VVzYtQXZ4MzZlNVl5LTJuUXRpMHNOWDlzc3RXMDduX0FuYkYzcnJCbXRVTVgxZmJIV082S0dGZTkxeDk0cnA1U1l0VzFPajhwSjd6Q19QeVhK?oc=5\" target=\"_blank\">Skretting figura entre las 10 principales empresas acuícolas del mundo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -94876,6 +94962,14 @@
         "week": "2019-W41",
         "Aller Aqua": 0,
         "BioMar": 2,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
+        "week": "2019-W43",
+        "Aller Aqua": 0,
+        "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -97347,7 +97441,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 96,
+        "BioMar": 97,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 9
@@ -97355,7 +97449,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 81,
+        "BioMar": 82,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -97376,7 +97470,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1391
+        "count": 1393
       },
       {
         "company": "Cargill",
@@ -97388,7 +97482,7 @@
       },
       {
         "company": "Skretting",
-        "count": 845
+        "count": 846
       }
     ]
   }
