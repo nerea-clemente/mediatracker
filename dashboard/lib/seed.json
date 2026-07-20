@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20T18:05:46+00:00",
+  "generated_at": "2026-07-20T22:55:16+00:00",
   "stats": {
-    "mention_count": 2678,
-    "story_count": 2021,
+    "mention_count": 2680,
+    "story_count": 2023,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -304,6 +304,7 @@
     "brenny.com",
     "elDiario.es",
     "elciudadano.com",
+    "eltelegrafo.com.ec",
     "espana.gastronomia.com",
     "explora.cl",
     "expreso.ec",
@@ -342,6 +343,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0NyR1RHbkRranE4QTk2QmxtME1uUEZ4RkxVbGo2ZU81dlh5NThxNjQwc1FQTTF4U0daMFFudlFyY0VsTThXV3Z2RWNPZ1lRRzFOdThnUWRJM0IzNUdKRG1zeVdlTnU3eU1rYlJEUERkVk8zVzVtZXRrWkV3MEx2eTRwNFVxeDl4MmtjMnJJckhtZG9aM3l1OF9PQnBYdF83U245UUZKeHRyZW5XckZOZEZNazlCSV83RHVNWnlR0gHDAUFVX3lxTE5JUEU5bGVpbV9YWnNnOF90TEpnakpzWjk4S1JsN29TSV9EenhrMXNKemxTc3hMNzhqMzdPbXV1bkRBT0FqdHZmQUpqM1dsXzRTalNYdDRlVlNURVAyRW1YRE9Ld19jR040elgxbWoxNFRjMEFJbWt3ZTAxVU9WZDQ3RVYySmlqRnRTSFYtNWl3dGM1Q1gxX3JEREpRY2gxZmhxSEk1M21kVHZicmlzNHZUcVo3Wl84NGxuR2FrbkNlVHlnUQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 29 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
       "first_seen": "2026-07-20T14:35:15+00:00",
       "last_seen": "2026-07-20T14:35:15+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2045,
+      "headline": "Cash flow from operating activities de BioMar Group A/S – GETTEX:2IT - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmdxQ1pRMEpUV2hIMF9VWUpwM0JpdnhrbmJiaHBRa2pTTEt3ZUstcV9oaGF0bGFpWVpoaTVpSjFZRUt2SmxJbTczN09wQXA4TFpBc1NOSWtER09XX2tGNWRBeVNUVlJoZjlOc1hsZDlNNG4zMmVIaERGQUJlbmE0M2hJdTNWWXhzV05uSnVwRUUxZGJtMWVacmFtRQ?oc=5\" target=\"_blank\">Cash flow from operating activities de BioMar Group A/S – GETTEX:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-20T03:15:37+00:00",
+      "last_seen": "2026-07-20T03:15:37+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -7142,6 +7157,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDFIUFBzXzNSNnQ1VzJ6eWJkUWlpZ3AzMWRqUWFPY2hOLS1FVzNVempSYmdWbTdEZC0wRUNPSmYtc2FIVU9GblhWcUkwWV8wVmN0OFpyX09tVUF0Z1RSYkMwYW9uX0trLThjVlFaTzVpVTVnMDlDZEVMZzJZQjBTdllfS2R6Z0czaTVuTUExeVJVWndPa2hXYXFUOFBoMGMxcThWWVJTZ0V3cWRYbGhVVk9LMW1VRUl3RjFrek9EMmpzbGpzenRUYUNzR3lmMDRCMEMyZHAwdUJ1eURVSWprRzdLWkpCbEFRMnJhVmR3UGlBRWVKR05ZNDd4WQ?oc=5\" target=\"_blank\">Hvordan har økt toll påvirket amerikansk og europeisk økonomi?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Statistisk sentralbyrå</font>",
       "first_seen": "2025-12-16T08:00:00+00:00",
       "last_seen": "2025-12-16T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2044,
+      "headline": "Firma Skretting invierte $ 65 millones en fábrica de Durán - eltelegrafo.com.ec",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlRDTzRLVnhobmdURGFUbjE5dzZOQjNPSUd1VFAzdUs2eXJMTXpqVmhkMGxVRG9JM2dzM2twOXBxT2xaNEg4MlVJaGFIOUk4ZG9IeEo2Mno0cEttQ1Y3bW1Qelk4RlI4N3FZUjM3Wk83MUFxMXd5VDc0bGJncW9vT3hGZzV5WkxDaXBDZ25La0lHTkotY0hzSnMwQk9YakxJWlBOWFZQVE5nNlpRMkk1Ug?oc=5\" target=\"_blank\">Firma Skretting invierte $ 65 millones en fábrica de Durán</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eltelegrafo.com.ec</font>",
+      "first_seen": "2025-12-15T08:00:00+00:00",
+      "last_seen": "2025-12-15T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -93702,6 +93731,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQV3duMDZxbzM3V2JYdE5leXMzUTJVLUhlUS1KNndCa1hJY2F4X1BRcUFWd2RCaUxmWmV5YS15SFBrYWV0T3RkOWVXTWhZRHZBU3d0UW9JVGVycWowZEY0dmR1cE1tUmQxdXVnU05BSlF1TklKRHdFTVhiVHFnNWlsa0tSdnpDcTdKSTllNDMxZXpLdUhvQXpTb1FXN3Jack16VC1IcFlFdFFrTWVvTnhEblZHMzNRUnhSZHNlTjBMRHo5TEd0cGNyUWpiRWo5dXVfaklRUHgwSjNfSXNxeko2LWxkUkYyME05UHlCWXpDVTVJQ0kySC1zbWhIeU1qTE9hVnVv?oc=5\" target=\"_blank\">'There are no winners in this game now': Skretting executive says significant cost shock is ripping through aquaculture feed sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 332263,
+      "story_id": 2045,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmdxQ1pRMEpUV2hIMF9VWUpwM0JpdnhrbmJiaHBRa2pTTEt3ZUstcV9oaGF0bGFpWVpoaTVpSjFZRUt2SmxJbTczN09wQXA4TFpBc1NOSWtER09XX2tGNWRBeVNUVlJoZjlOc1hsZDlNNG4zMmVIaERGQUJlbmE0M2hJdTNWWXhzV05uSnVwRUUxZGJtMWVacmFtRQ?oc=5",
+      "title": "Cash flow from operating activities de BioMar Group A/S – GETTEX:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-20T03:15:37+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmdxQ1pRMEpUV2hIMF9VWUpwM0JpdnhrbmJiaHBRa2pTTEt3ZUstcV9oaGF0bGFpWVpoaTVpSjFZRUt2SmxJbTczN09wQXA4TFpBc1NOSWtER09XX2tGNWRBeVNUVlJoZjlOc1hsZDlNNG4zMmVIaERGQUJlbmE0M2hJdTNWWXhzV05uSnVwRUUxZGJtMWVacmFtRQ?oc=5\" target=\"_blank\">Cash flow from operating activities de BioMar Group A/S – GETTEX:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 332824,
+      "story_id": 2044,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlRDTzRLVnhobmdURGFUbjE5dzZOQjNPSUd1VFAzdUs2eXJMTXpqVmhkMGxVRG9JM2dzM2twOXBxT2xaNEg4MlVJaGFIOUk4ZG9IeEo2Mno0cEttQ1Y3bW1Qelk4RlI4N3FZUjM3Wk83MUFxMXd5VDc0bGJncW9vT3hGZzV5WkxDaXBDZ25La0lHTkotY0hzSnMwQk9YakxJWlBOWFZQVE5nNlpRMkk1Ug?oc=5",
+      "title": "Firma Skretting invierte $ 65 millones en fábrica de Durán - eltelegrafo.com.ec",
+      "source_name": "eltelegrafo.com.ec",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-12-15T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlRDTzRLVnhobmdURGFUbjE5dzZOQjNPSUd1VFAzdUs2eXJMTXpqVmhkMGxVRG9JM2dzM2twOXBxT2xaNEg4MlVJaGFIOUk4ZG9IeEo2Mno0cEttQ1Y3bW1Qelk4RlI4N3FZUjM3Wk83MUFxMXd5VDc0bGJncW9vT3hGZzV5WkxDaXBDZ25La0lHTkotY0hzSnMwQk9YakxJWlBOWFZQVE5nNlpRMkk1Ug?oc=5\" target=\"_blank\">Firma Skretting invierte $ 65 millones en fábrica de Durán</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eltelegrafo.com.ec</font>"
     }
   ],
   "share_of_voice": {
@@ -97783,7 +97860,7 @@
         "BioMar": 23,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 8
+        "Skretting": 9
       },
       {
         "week": "2025-W52",
@@ -98028,7 +98105,7 @@
       {
         "week": "2026-W30",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -98041,7 +98118,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1402
+        "count": 1403
       },
       {
         "company": "Cargill",
@@ -98053,7 +98130,7 @@
       },
       {
         "company": "Skretting",
-        "count": 854
+        "count": 855
       }
     ]
   }
