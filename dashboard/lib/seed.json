@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T11:15:33+00:00",
+  "generated_at": "2026-07-24T17:39:31+00:00",
   "stats": {
-    "mention_count": 2699,
-    "story_count": 2034,
+    "mention_count": 2701,
+    "story_count": 2035,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -13107,7 +13107,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -22130,6 +22130,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2057,
+      "headline": "STIM vant ankesak mot BioMar - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1aN29sMEdrVFhmM3pHeXA2OVZxTVhUVW82SUZCSmV4ekMyWVVtZ3ZFM0ZLTEE3cU1rMVlyenNNTXQ2RTQ2YTRPbXJNZm5oSm5BanZ2V3JGYzlLU1NxN2lBU1BOWGZqQzlLMDU1Y1M0M29Odw?oc=5\" target=\"_blank\">STIM vant ankesak mot BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2020-07-12T07:00:00+00:00",
+      "last_seen": "2020-07-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 476,
@@ -94389,6 +94403,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSTdmQjBvNFNnZEtRcHVqRURkbVdCck9kaVNlRkgzR3RmMTVXWXI3dGtoYXBRUlYxWHhCZnhRSDdxN0tpTVd6LUh3MFVXTjVTOHdYYjJHX3FJbU5OTU41ZlZUMnFoemNGZUZBTVFEa0hPRnNfRnJscndyQ2dTc25IZUd4akh5WUEweDk2eWVsLWZQQlotVDZwVThlek8zczdKX0Q1LWVZUWJfQ09reFltdFV6M25ydUZDaVh1R3JSOGE1cjZTWmNFckE2a3A4NHlSQVROUXd4dHIweXlwaHc?oc=5\" target=\"_blank\">Letter to the editor: Novel feeds aren’t all failing. We’re finally learning how to make them succeed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 347430,
+      "story_id": 2057,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aN29sMEdrVFhmM3pHeXA2OVZxTVhUVW82SUZCSmV4ekMyWVVtZ3ZFM0ZLTEE3cU1rMVlyenNNTXQ2RTQ2YTRPbXJNZm5oSm5BanZ2V3JGYzlLU1NxN2lBU1BOWGZqQzlLMDU1Y1M0M29Odw?oc=5",
+      "title": "STIM vant ankesak mot BioMar - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-07-12T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1aN29sMEdrVFhmM3pHeXA2OVZxTVhUVW82SUZCSmV4ekMyWVVtZ3ZFM0ZLTEE3cU1rMVlyenNNTXQ2RTQ2YTRPbXJNZm5oSm5BanZ2V3JGYzlLU1NxN2lBU1BOWGZqQzlLMDU1Y1M0M29Odw?oc=5\" target=\"_blank\">STIM vant ankesak mot BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+    },
+    {
+      "id": 347699,
+      "story_id": 140,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjZJdU5qRjVTNHdGcXFyNmUwZWRIbUoxZThGVXkxSUlWcDduRHVybGxVM245VUhkWmIzOEtEay11bzdrOXhLZ3hRRjktQ2lrX19ZU1NJd0VMN1dKS3pTcWFvR3JNd3NWUjZ5M2xCeUlJMDNvRU4ySy13bGRUaWI0N3k1ZFRQRTlLMWVlWGhsRmEwcmIya0lTN0Z6TUdzblk2OFB5XzNYWnpzTldYYWVNOUtSOVhHWGdES3NOOXBLczBiM25JM25FNWdQZnZrQUZScjI5R1l4V0szdw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 49 2024 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-12-09T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjZJdU5qRjVTNHdGcXFyNmUwZWRIbUoxZThGVXkxSUlWcDduRHVybGxVM245VUhkWmIzOEtEay11bzdrOXhLZ3hRRjktQ2lrX19ZU1NJd0VMN1dKS3pTcWFvR3JNd3NWUjZ5M2xCeUlJMDNvRU4ySy13bGRUaWI0N3k1ZFRQRTlLMWVlWGhsRmEwcmIya0lTN0Z6TUdzblk2OFB5XzNYWnpzTldYYWVNOUtSOVhHWGdES3NOOXBLczBiM25JM25FNWdQZnZrQUZScjI5R1l4V0szdw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 49 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
     }
   ],
   "share_of_voice": {
@@ -96435,7 +96497,7 @@
       {
         "week": "2020-W28",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -98051,7 +98113,7 @@
       {
         "week": "2024-W50",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -98736,7 +98798,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1411
+        "count": 1413
       },
       {
         "company": "Cargill",
