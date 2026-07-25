@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-24T22:57:54+00:00",
+  "generated_at": "2026-07-25T07:32:42+00:00",
   "stats": {
-    "mention_count": 2703,
-    "story_count": 2037,
+    "mention_count": 2704,
+    "story_count": 2038,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -337,6 +337,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2060,
+      "headline": "BioMar Group A/S Revenue Breakdown – OMXCOP:BIOMAR - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9BU21kVDE4Y2xhX29xaWUtRzJHV0N1ZWtmUWkzclFwNERVLXJSRGxYMVZ0RVFwM0FOYkJoYkNfUUJPNWt6c0xtUTRXN2E3aDZzak1UUktBTlMwSVlqSlJrS2lYeUhQdTBYS0JYM0xPQzZEYUlwQlAxT1BR?oc=5\" target=\"_blank\">BioMar Group A/S Revenue Breakdown – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-24T19:14:57+00:00",
+      "last_seen": "2026-07-24T19:14:57+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2056,
       "headline": "Ratio de liquidez inmediata (Quick ratio) de BioMar Group A/S – MUN:2IT - TradingView",
@@ -94527,6 +94541,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBkWWQ2dWszM3Q0MjVKRkJuM2tGeTRBYnUxMWhmU0g4ZkUwV2JoVGtnMk4tNGk0Slh2ZFU1bHNKMEExOTFsWnQyczhndWNTRVJfd21tY2t3cHVGbXhaQjNpVlhjYkdoVnFLeEd3ag?oc=5\" target=\"_blank\">BioMar Group A/S (BIOMAR.CO) insider ownership and holdings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
+    },
+    {
+      "id": 349309,
+      "story_id": 2060,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BU21kVDE4Y2xhX29xaWUtRzJHV0N1ZWtmUWkzclFwNERVLXJSRGxYMVZ0RVFwM0FOYkJoYkNfUUJPNWt6c0xtUTRXN2E3aDZzak1UUktBTlMwSVlqSlJrS2lYeUhQdTBYS0JYM0xPQzZEYUlwQlAxT1BR?oc=5",
+      "title": "BioMar Group A/S Revenue Breakdown – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-24T19:14:57+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9BU21kVDE4Y2xhX29xaWUtRzJHV0N1ZWtmUWkzclFwNERVLXJSRGxYMVZ0RVFwM0FOYkJoYkNfUUJPNWt6c0xtUTRXN2E3aDZzak1UUktBTlMwSVlqSlJrS2lYeUhQdTBYS0JYM0xPQzZEYUlwQlAxT1BR?oc=5\" target=\"_blank\">BioMar Group A/S Revenue Breakdown – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
     }
   ],
   "share_of_voice": {
@@ -98861,7 +98899,7 @@
       {
         "week": "2026-W30",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -98874,7 +98912,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1415
+        "count": 1416
       },
       {
         "company": "Cargill",
