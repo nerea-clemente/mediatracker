@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-26T07:54:53+00:00",
+  "generated_at": "2026-07-26T10:56:16+00:00",
   "stats": {
-    "mention_count": 2709,
-    "story_count": 2039,
+    "mention_count": 2712,
+    "story_count": 2040,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -337,6 +337,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2062,
+      "headline": "Desglose de los ingresos de Schouw & Co, LS:882803 - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBncUh4SkNvZUxJemlQR3F0UC12MHJnZzFYLTZnUkstVHF6VU5UajJhSWNyandpY2R2c1JsQlhGaWJRUEw3dW13eWFLZUxBV2x2eno2ZjE0OHdBOTRucUlEVENyWlN2WndDSlRQQkhaT3FxMUU?oc=5\" target=\"_blank\">Desglose de los ingresos de Schouw & Co, LS:882803</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-07-25T16:43:26+00:00",
+      "last_seen": "2026-07-25T16:43:26+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2061,
       "headline": "Schouw & Co Revenue Breakdown – LS:882803 - TradingView",
@@ -3579,6 +3593,20 @@
       "company": "BioMar"
     },
     {
+      "id": 356,
+      "headline": "BioMar: volumes rise, but revenue falls on weaker prices and tech slowdown",
+      "story_summary": "BioMar reported higher feed volumes in Q1 2026 but saw revenues decline due to softer pricing and weakness in its technology segment. The company faces mixed operational performance despite increased sales volume in its core business areas.",
+      "first_seen": "2026-05-01T06:55:54+00:00",
+      "last_seen": "2026-05-01T07:00:00+00:00",
+      "primary_sentiment": "negative",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 4,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 928,
       "headline": "Interim report – first quarter of 2026 - NTB Kommunikasjon",
       "story_summary": "Schouw & Co released its first quarter 2026 interim report, with Jens Bjerg Sørensen (President) providing commentary on the period's performance. The report covers consolidated financial results across the company's industrial portfolio, which includes BioMar Group's aquaculture feed operations among other subsidiaries. The report appears to be a standard quarterly earnings disclosure by the parent holding company of BioMar A/S.\"2026 Q1\"]{}, ",
@@ -3603,20 +3631,6 @@
         "financial"
       ],
       "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 356,
-      "headline": "BioMar: volumes rise, but revenue falls on weaker prices and tech slowdown",
-      "story_summary": "BioMar reported higher feed volumes in Q1 2026 but saw revenues decline due to softer pricing and weakness in its technology segment. The company faces mixed operational performance despite increased sales volume in its core business areas.",
-      "first_seen": "2026-05-01T06:55:54+00:00",
-      "last_seen": "2026-05-01T06:55:54+00:00",
-      "primary_sentiment": "negative",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -18372,7 +18386,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -94699,6 +94713,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTREZ1czUXpnSW94ck9SSEJoS2RQOWxoZ2lpM3g4ZGNvaVl4cml3aHlkMmd4akRCQmRxLU9ST0o1QzhZLTZMYnQ3bnJyMWNrc3poX2ExRjdqT2tXRTB0WVp4LUJWbGNCQVN6TUt3RUVNU25YMFFWWFhQdW4ta2RkOXo4QXFqdWZJTkFyRmFTMHF0cmc?oc=5\" target=\"_blank\">Cargill steps up feed production across all its EWOS factories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 354493,
+      "story_id": 356,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUZsYlBWNlpfV09hdDFEZTd3QUhwN2RELXZiTzdLdEZoVkF2VzNrVDVBRWdFRHhBaVk3ZWhDVnpvUUhzMEM4NExyMzF5QTlYbllBZ2wxMlBkd2R2Y3ZJR3h0RGQ3a0lOX1g4ZHk5UTUzZlZhdjJoaDlxSmRyQWc5VHgtMW5aVzU0Zm9fUDVjaEJsX1E1MW9qQlRMQ3dnR1Nkcm52RTVRcw?oc=5",
+      "title": "BioMar: volumes rise, but revenue falls on weaker prices and tech slowdown - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-01T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUZsYlBWNlpfV09hdDFEZTd3QUhwN2RELXZiTzdLdEZoVkF2VzNrVDVBRWdFRHhBaVk3ZWhDVnpvUUhzMEM4NExyMzF5QTlYbllBZ2wxMlBkd2R2Y3ZJR3h0RGQ3a0lOX1g4ZHk5UTUzZlZhdjJoaDlxSmRyQWc5VHgtMW5aVzU0Zm9fUDVjaEJsX1E1MW9qQlRMQ3dnR1Nkcm52RTVRcw?oc=5\" target=\"_blank\">BioMar: volumes rise, but revenue falls on weaker prices and tech slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 354898,
+      "story_id": 2062,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBncUh4SkNvZUxJemlQR3F0UC12MHJnZzFYLTZnUkstVHF6VU5UajJhSWNyandpY2R2c1JsQlhGaWJRUEw3dW13eWFLZUxBV2x2eno2ZjE0OHdBOTRucUlEVENyWlN2WndDSlRQQkhaT3FxMUU?oc=5",
+      "title": "Desglose de los ingresos de Schouw & Co, LS:882803 - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-25T16:43:26+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBncUh4SkNvZUxJemlQR3F0UC12MHJnZzFYLTZnUkstVHF6VU5UajJhSWNyandpY2R2c1JsQlhGaWJRUEw3dW13eWFLZUxBV2x2eno2ZjE0OHdBOTRucUlEVENyWlN2WndDSlRQQkhaT3FxMUU?oc=5\" target=\"_blank\">Desglose de los ingresos de Schouw & Co, LS:882803</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 355053,
+      "story_id": 1513,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2XzNCb0dpOThZMU1qRU9leGkxZjVibzRhOWRsdnNXYWcwSkpVZXQzRWItXzVCT0ExTzB6dktaU0YtZmw3TGh2ODQ4Qk9wV0hT0gFeQVVfeXFMTzdiUm14aEQ4VlB1NnhuMmRGdFRsUkltYzJ1R0lPZFlzaXUwRW1yZENkZjBLWmotWDNZdjNtOGlFVEV6M2NVNFpHbUZqOE5kd1VXNVdFY2tZZ09DYXM0dw?oc=5",
+      "title": "Skretting’s new aquafeed factory - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2022-11-30T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2XzNCb0dpOThZMU1qRU9leGkxZjVibzRhOWRsdnNXYWcwSkpVZXQzRWItXzVCT0ExTzB6dktaU0YtZmw3TGh2ODQ4Qk9wV0hT0gFeQVVfeXFMTzdiUm14aEQ4VlB1NnhuMmRGdFRsUkltYzJ1R0lPZFlzaXUwRW1yZENkZjBLWmotWDNZdjNtOGlFVEV6M2NVNFpHbUZqOE5kd1VXNVdFY2tZZ09DYXM0dw?oc=5\" target=\"_blank\">Skretting’s new aquafeed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
     }
   ],
   "share_of_voice": {
@@ -97580,7 +97666,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2022-W49",
@@ -98937,7 +99023,7 @@
       {
         "week": "2026-W18",
         "Aller Aqua": 0,
-        "BioMar": 71,
+        "BioMar": 72,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -99033,7 +99119,7 @@
       {
         "week": "2026-W30",
         "Aller Aqua": 0,
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -99046,7 +99132,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1419
+        "count": 1421
       },
       {
         "company": "Cargill",
@@ -99058,7 +99144,7 @@
       },
       {
         "company": "Skretting",
-        "count": 864
+        "count": 865
       }
     ]
   }
