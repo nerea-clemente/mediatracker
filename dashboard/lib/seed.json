@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T22:50:57+00:00",
+  "generated_at": "2026-07-26T07:54:53+00:00",
   "stats": {
-    "mention_count": 2708,
+    "mention_count": 2709,
     "story_count": 2039,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -23585,7 +23585,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Cargill"
     },
@@ -94675,6 +94675,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONldMNTA3czYySFdaQTIyVzZkbEJxcUpUcHdGMkEzWEI2Xzg4aHpfbTRFSXBwRUtSc0d1V3JBa0ctX1MtN0RVOGluYjBEYmQza1lQd052cWVieldoNFBOUnM1c2NlVmhOTllDQldYVzYwbnl4Z1JyNEZ2R0FRWk52bElCQ1ZQRk91S2dmSXFSTmdtSVV5N2RYR1pKNGVuOU0zY1lRVzdGY1NwZFNaaU5WT1JxOFg2RFpq?oc=5\" target=\"_blank\">Mowi Retains Feed Division While Partnering with Skretting for Cost Savings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seafoodnews</font>"
+    },
+    {
+      "id": 354367,
+      "story_id": 1372,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTREZ1czUXpnSW94ck9SSEJoS2RQOWxoZ2lpM3g4ZGNvaVl4cml3aHlkMmd4akRCQmRxLU9ST0o1QzhZLTZMYnQ3bnJyMWNrc3poX2ExRjdqT2tXRTB0WVp4LUJWbGNCQVN6TUt3RUVNU25YMFFWWFhQdW4ta2RkOXo4QXFqdWZJTkFyRmFTMHF0cmc?oc=5",
+      "title": "Cargill steps up feed production across all its EWOS factories - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-04-23T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTREZ1czUXpnSW94ck9SSEJoS2RQOWxoZ2lpM3g4ZGNvaVl4cml3aHlkMmd4akRCQmRxLU9ST0o1QzhZLTZMYnQ3bnJyMWNrc3poX2ExRjdqT2tXRTB0WVp4LUJWbGNCQVN6TUt3RUVNU25YMFFWWFhQdW4ta2RkOXo4QXFqdWZJTkFyRmFTMHF0cmc?oc=5\" target=\"_blank\">Cargill steps up feed production across all its EWOS factories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
     }
   ],
   "share_of_voice": {
@@ -96394,7 +96418,7 @@
         "week": "2019-W17",
         "Aller Aqua": 0,
         "BioMar": 1,
-        "Cargill": 1,
+        "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -99026,7 +99050,7 @@
       },
       {
         "company": "Cargill",
-        "count": 269
+        "count": 270
       },
       {
         "company": "Polarfeed",
