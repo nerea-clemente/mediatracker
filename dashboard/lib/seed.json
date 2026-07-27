@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T12:40:03+00:00",
+  "generated_at": "2026-07-27T17:43:57+00:00",
   "stats": {
-    "mention_count": 2715,
-    "story_count": 2042,
+    "mention_count": 2716,
+    "story_count": 2043,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -337,6 +337,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2065,
+      "headline": "Schouw & Co. share buy-back programme, week 30 2026 - The Manila Times",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3JHSkY4aEtuZ1c4dEZzajdxVTlPeHRNU01ZWERvd0t4WnVQUXJHWE9Ja0RZRnR3ci00clkwRml0eVhmc08wdjhKV1FnQW1DLVN0Yy1mMUtnc21wN0dCQ0pqNUdxeVRZV1FPOUo3b2ZGQ2lzZThCaVlhNURPZlExSXRrNjJacTZGa1l5ZW43SHdWWExwaU1DcDdXNHZ1MTdMSFhVOC00Z0FEM01fa1JsWUtxSE5PbWcxbHpEM3BBVTdrcVXSAcMBQVVfeXFMTzNyR0pGOGhLbmdXOHRGc2o3cVU5T3h0TVNNWVhEb3dLeFp1UFFyR1hPSWtEWUZ0d3ItNHJZMEZpdHlYZnNPMHY4SldRZ0FtQy1TdGMtZjFLZ3NtcDdHQkNKajVHcXlUWVdRTzlKN29mRkNpc2U4QmlZYTVET2ZRMUl0azYyWnE2RmtZeWVuN0h3VlhMcGlNQ3A3VzR2dTE3TEhYVTgtNGdBRDNNX2tSbFlLcUhOT21nMWx6RDNwQVU3a3FV?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 30 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+      "first_seen": "2026-07-27T12:18:19+00:00",
+      "last_seen": "2026-07-27T12:18:19+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2061,
       "headline": "Schouw & Co Revenue Breakdown – LS:882803 - TradingView",
@@ -94885,6 +94899,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNLThYV1FQRFBGN3hiU0tMVUNpd0VaODU0d0w0eFF1LXRnbEF2TFpkeDlSMDZTeUhkQVFRb0F3cnllTFk1aHRpUXN5cERSUTVZX2pVQUo0VXFiNkVJMVB6Z3pZSWZlQ2I0dXBqSWdxemluR3VZR2phc1VQZ0s3UVQ3Um1GN0RQQTRYRlp1X0VOMmJXZmlIWjdSRHk3UkhoRHFiUWxEeDBIZldGaEI2YVA5Zk1KbXFTVnd0eFZoY213MTdETjZWM0ZGSTNXSy10dkh1NWdIQzI0Vkk0Zy1EQjd4M2w5ZEE3MkRoLThHWHEtQzdkcjJDMHc0eHZXcHN3Y1BEVlI0Z2dvRDVFNWktQm1ZUw?oc=5\" target=\"_blank\">Nueva product manager en Skretting Chile: “Hoy tenemos una industria cada vez más exigente, enfocada en la sustentabilidad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Valdivia</font>"
+    },
+    {
+      "id": 359997,
+      "story_id": 2065,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3JHSkY4aEtuZ1c4dEZzajdxVTlPeHRNU01ZWERvd0t4WnVQUXJHWE9Ja0RZRnR3ci00clkwRml0eVhmc08wdjhKV1FnQW1DLVN0Yy1mMUtnc21wN0dCQ0pqNUdxeVRZV1FPOUo3b2ZGQ2lzZThCaVlhNURPZlExSXRrNjJacTZGa1l5ZW43SHdWWExwaU1DcDdXNHZ1MTdMSFhVOC00Z0FEM01fa1JsWUtxSE5PbWcxbHpEM3BBVTdrcVXSAcMBQVVfeXFMTzNyR0pGOGhLbmdXOHRGc2o3cVU5T3h0TVNNWVhEb3dLeFp1UFFyR1hPSWtEWUZ0d3ItNHJZMEZpdHlYZnNPMHY4SldRZ0FtQy1TdGMtZjFLZ3NtcDdHQkNKajVHcXlUWVdRTzlKN29mRkNpc2U4QmlZYTVET2ZRMUl0azYyWnE2RmtZeWVuN0h3VlhMcGlNQ3A3VzR2dTE3TEhYVTgtNGdBRDNNX2tSbFlLcUhOT21nMWx6RDNwQVU3a3FV?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 30 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-07-27T12:18:19+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3JHSkY4aEtuZ1c4dEZzajdxVTlPeHRNU01ZWERvd0t4WnVQUXJHWE9Ja0RZRnR3ci00clkwRml0eVhmc08wdjhKV1FnQW1DLVN0Yy1mMUtnc21wN0dCQ0pqNUdxeVRZV1FPOUo3b2ZGQ2lzZThCaVlhNURPZlExSXRrNjJacTZGa1l5ZW43SHdWWExwaU1DcDdXNHZ1MTdMSFhVOC00Z0FEM01fa1JsWUtxSE5PbWcxbHpEM3BBVTdrcVXSAcMBQVVfeXFMTzNyR0pGOGhLbmdXOHRGc2o3cVU5T3h0TVNNWVhEb3dLeFp1UFFyR1hPSWtEWUZ0d3ItNHJZMEZpdHlYZnNPMHY4SldRZ0FtQy1TdGMtZjFLZ3NtcDdHQkNKajVHcXlUWVdRTzlKN29mRkNpc2U4QmlZYTVET2ZRMUl0azYyWnE2RmtZeWVuN0h3VlhMcGlNQ3A3VzR2dTE3TEhYVTgtNGdBRDNNX2tSbFlLcUhOT21nMWx6RDNwQVU3a3FV?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 30 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
     }
   ],
   "share_of_voice": {
@@ -99223,6 +99261,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
+      },
+      {
+        "week": "2026-W31",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
@@ -99232,7 +99278,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1423
+        "count": 1424
       },
       {
         "company": "Cargill",
