@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T08:54:19+00:00",
+  "generated_at": "2026-07-27T12:40:03+00:00",
   "stats": {
-    "mention_count": 2714,
-    "story_count": 2041,
+    "mention_count": 2715,
+    "story_count": 2042,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -20819,6 +20819,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUVJlNzR6LXlLZWE1ZDNrRXZuOWpVNFJJLVRoV2dVVjlpNkFLd2VuTWNsc0lQTTFhcm9JU1lKNHlXUUN6YVFmbGpDOXdibzNBU2I1YzkxOHc3RGdNNXRxM3lhZWJpN2dnZHJPa24zVGpQSHRVRXB6S0hRamRwZkR2QUdyY1NackFVV2NiZzR4Tk5ZVk92WmloSm9PYjRTRHg4TG1XaVhRU2J6NzU3T016UVU5SlVlUkNlSjlyNXZFZVVHQkdoQzNldkI3ZlF0V2p5aFBB?oc=5\" target=\"_blank\">Jorge Díaz asume como nuevo gerente de sostenibilidad de Skretting global</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
       "first_seen": "2021-09-08T07:00:00+00:00",
       "last_seen": "2021-09-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2064,
+      "headline": "Nueva product manager en Skretting Chile: “Hoy tenemos una industria cada vez más exigente, enfocada en la sustentabilidad” - Diario de Valdivia",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNLThYV1FQRFBGN3hiU0tMVUNpd0VaODU0d0w0eFF1LXRnbEF2TFpkeDlSMDZTeUhkQVFRb0F3cnllTFk1aHRpUXN5cERSUTVZX2pVQUo0VXFiNkVJMVB6Z3pZSWZlQ2I0dXBqSWdxemluR3VZR2phc1VQZ0s3UVQ3Um1GN0RQQTRYRlp1X0VOMmJXZmlIWjdSRHk3UkhoRHFiUWxEeDBIZldGaEI2YVA5Zk1KbXFTVnd0eFZoY213MTdETjZWM0ZGSTNXSy10dkh1NWdIQzI0Vkk0Zy1EQjd4M2w5ZEE3MkRoLThHWHEtQzdkcjJDMHc0eHZXcHN3Y1BEVlI0Z2dvRDVFNWktQm1ZUw?oc=5\" target=\"_blank\">Nueva product manager en Skretting Chile: “Hoy tenemos una industria cada vez más exigente, enfocada en la sustentabilidad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Valdivia</font>",
+      "first_seen": "2021-09-07T07:00:00+00:00",
+      "last_seen": "2021-09-07T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -94847,6 +94861,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1nX0ZrcEZ6N0o4N1MxOHFHazBTY28yMDZvTkdFZUtIZWJlT0w3NnMwNk96RnJDbkFRT1pUenZZanlPQzBXeVpfNnp1UlVNSlkyTUtMbDdIb1dobW1BOXJOUmJXS1Q0NGptd2VKN0hMX1JkUQ?oc=5\" target=\"_blank\">Schouw & Co Revenue Breakdown – MUN:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 359446,
+      "story_id": 2064,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNLThYV1FQRFBGN3hiU0tMVUNpd0VaODU0d0w0eFF1LXRnbEF2TFpkeDlSMDZTeUhkQVFRb0F3cnllTFk1aHRpUXN5cERSUTVZX2pVQUo0VXFiNkVJMVB6Z3pZSWZlQ2I0dXBqSWdxemluR3VZR2phc1VQZ0s3UVQ3Um1GN0RQQTRYRlp1X0VOMmJXZmlIWjdSRHk3UkhoRHFiUWxEeDBIZldGaEI2YVA5Zk1KbXFTVnd0eFZoY213MTdETjZWM0ZGSTNXSy10dkh1NWdIQzI0Vkk0Zy1EQjd4M2w5ZEE3MkRoLThHWHEtQzdkcjJDMHc0eHZXcHN3Y1BEVlI0Z2dvRDVFNWktQm1ZUw?oc=5",
+      "title": "Nueva product manager en Skretting Chile: “Hoy tenemos una industria cada vez más exigente, enfocada en la sustentabilidad” - Diario de Valdivia",
+      "source_name": "Diario de Valdivia",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-09-07T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNLThYV1FQRFBGN3hiU0tMVUNpd0VaODU0d0w0eFF1LXRnbEF2TFpkeDlSMDZTeUhkQVFRb0F3cnllTFk1aHRpUXN5cERSUTVZX2pVQUo0VXFiNkVJMVB6Z3pZSWZlQ2I0dXBqSWdxemluR3VZR2phc1VQZ0s3UVQ3Um1GN0RQQTRYRlp1X0VOMmJXZmlIWjdSRHk3UkhoRHFiUWxEeDBIZldGaEI2YVA5Zk1KbXFTVnd0eFZoY213MTdETjZWM0ZGSTNXSy10dkh1NWdIQzI0Vkk0Zy1EQjd4M2w5ZEE3MkRoLThHWHEtQzdkcjJDMHc0eHZXcHN3Y1BEVlI0Z2dvRDVFNWktQm1ZUw?oc=5\" target=\"_blank\">Nueva product manager en Skretting Chile: “Hoy tenemos una industria cada vez más exigente, enfocada en la sustentabilidad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Valdivia</font>"
     }
   ],
   "share_of_voice": {
@@ -97264,7 +97302,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2021-W37",
@@ -99206,7 +99244,7 @@
       },
       {
         "company": "Skretting",
-        "count": 865
+        "count": 866
       }
     ]
   }
