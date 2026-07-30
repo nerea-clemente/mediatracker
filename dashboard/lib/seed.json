@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T11:26:08+00:00",
+  "generated_at": "2026-07-30T17:36:41+00:00",
   "stats": {
-    "mention_count": 2748,
-    "story_count": 2070,
+    "mention_count": 2752,
+    "story_count": 2073,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -339,6 +339,20 @@
   ],
   "stories": [
     {
+      "id": 2095,
+      "headline": "(+) Til Norway Cup-finale: – Vanvittig gøy - fvn.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE43ZS1ZR081bXN0NnQ5UlNhS29pdzVuc3Z5aHBzdmYyYUxxSGkxQkNRZVpsVkFEWW5xNFdBTjE3Yi1fbjRNQmcwTW84WUVJTzZHbDRob1Y3aGpDSUFtTExjWURodjlmTUZTa2FySmk5bDZNeUJJV0k2OUZ3?oc=5\" target=\"_blank\">(+) Til Norway Cup-finale: – Vanvittig gøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fvn.no</font>",
+      "first_seen": "2026-07-30T14:52:49+00:00",
+      "last_seen": "2026-07-30T14:52:49+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2092,
       "headline": "BioMar obtiene certificación ASC para piensos en Vietnam - aqua.cl",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUllxVm10SjZTdW1PVXVobGRqc0paQWQ2T1I5a3JWeDhVeVZNQzdyUm93dmFxM09pUk4zb3dOUHJjT2hzb3lrUDVoRUhrNmc3VktQNE5uNzNmd25zb2I0Q0xXTDdQWXNQRXdER3dsV2hlUE1aYzdVN3oyTXBGU29EcDJHSEFKME4xRjNFMWxUMGtwX2RLa0diY0VMWThMMExjLXB6cEpHSEFkV0piX0E?oc=5\" target=\"_blank\">BioMar obtiene certificación ASC para piensos en Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
@@ -355,14 +369,14 @@
     {
       "id": 2091,
       "headline": "BioMar Viet-Uc in Vietnam becomes first ASC-certified feed facility in Asia - WEAREAQUACULTURE",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTlOMlhpX1dJVlYtRG91RFpJOXdtbXVla0FnTTdYUXoyYXRTU3BpdHQzWmxZZWd1OHhBLTAzSXRrRGxEUUh4TnRiVEFOOHhOOTlGQkpJVkVldzZIV1JjODBza1p5eHlnYldleVdCWlhkUGZEOXJmemJ5UGRNUzVyNUJHTEpiVmxzamx4eUNSR3FEQW1nNzFkUW42aTQ5bXBoeG1HOUFlTDkwZGRGbWVZVlpyXy1TZmJuUEJkak1mT2drUGh2X2RWdTZCUkNFcjjSAc8BQVVfeXFMTXk5TjJYaV9XSVZWLURvdURaSTl3bW11ZWtBZ003WFF6MmF0U1NwaXR0M1psWWVndTh4QS0wM0l0a0RsRFFIeE50YlRBTjh4Tjk5RkJKSVZFZXc2SFdSYzgwc2taeXh5Z2JXZXlXQlpYZFBmRDlyZnpieVBkTVM1cjVCR0xKYlZsc2pseHlDUkdxREFtZzcxZFFuNmk0OW1waHhtRzlBZUw5MGRkRm1lWVZacl8tU2ZiblBCZGpNZk9na1Bodl9kVnU2QlJDRXI4?oc=5\" target=\"_blank\">BioMar Viet-Uc in Vietnam becomes first ASC-certified feed facility in Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
-      "first_seen": "2026-07-30T10:31:27+00:00",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbTd1eFlmRWxBNFFoSXVxcXA4SEtoZE5YZDRyOGo1VktBRjNxRmxPSzk2OFp6OGR3dXJtYS1Mb1BOVmRNdnlsemppaEEySzNRTjFwU2hPYTBKVUtqd3ZydWQ0bXhOUTdZa3BrblpqZC1IWEM3aXRDOTN5eHkwVFFjX1A1cXpoSW44N3RfOWxURW41ZHBJVUN0MU9BZjU4UEFoajJpTDhWVnVxWFVZLTg2b0lQc1ptSThiWDJtbEZ6d1dCd9IBzwFBVV95cUxNeTlOMlhpX1dJVlYtRG91RFpJOXdtbXVla0FnTTdYUXoyYXRTU3BpdHQzWmxZZWd1OHhBLTAzSXRrRGxEUUh4TnRiVEFOOHhOOTlGQkpJVkVldzZIV1JjODBza1p5eHlnYldleVdCWlhkUGZEOXJmemJ5UGRNUzVyNUJHTEpiVmxzamx4eUNSR3FEQW1nNzFkUW42aTQ5bXBoeG1HOUFlTDkwZGRGbWVZVlpyXy1TZmJuUEJkak1mT2drUGh2X2RWdTZCUkNFcjg?oc=5\" target=\"_blank\">BioMar Viet-Uc in Vietnam becomes first ASC-certified feed facility in Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2026-07-30T08:30:00+00:00",
       "last_seen": "2026-07-30T10:31:27+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -797,6 +811,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2094,
+      "headline": "The real value of BioMar's IPO isn't its market cap - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHBFUFR5SDJVX05XOFVkSUlSVkRwZG5QWUJTbmZQZGQxeGFRSUJyT3RQTUlhT3NlTWxTX2JGaVlzemxTdkp0QlRTNkE0NzlqWk5kRTE3WkNaS0hqX29lcTFjQjllYk9aS1NrcDFMekRwakx3TTFhVmlaRnlFSGNKWDRET3I4dnJkM3d0LWlmZ09zZ3otSExDc2Ewbw?oc=5\" target=\"_blank\">The real value of BioMar's IPO isn't its market cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2026-07-06T04:56:56+00:00",
+      "last_seen": "2026-07-06T04:56:56+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -28350,6 +28378,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2093,
+      "headline": "EWOS Affliate to Acquire Chile's Nova Austral - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxORzhfRUhtSm52d1dreUtzaHpHdm1LNnNtSE1Vc2gtdmZLMzFrSHg0U0FUNDBZU1Q2dFBYVWt3NXlFaTVTVV9qZGI2Y0JUREU0a0FaanRfMzVjV01kX3NmcnlSNDhjTWlkZ3NIVTNrLU5KN2FocWhqNEE2VlNuT2xLRC1HOA?oc=5\" target=\"_blank\">EWOS Affliate to Acquire Chile's Nova Austral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2014-09-08T07:00:00+00:00",
+      "last_seen": "2014-09-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 892,
@@ -96070,6 +96112,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ2Jxb1N1TDFSR0dSTjBIYXR3SU92OXZ2WHJZdUxmY2UxQVVCNTk2OGx5d1dyZXE3cHVXMUY4M1ZVSUZXYThvUGJwUHo1a3IxcXBqMHl6bFpjM1hOekk1cnItRGVHLXVIc3BfVUlaS1JWSDM5dWJMb3J2YVN4Z3N5OXk2VmZVOWtlMDVZNGQ2MHZYTHZVRXh2dFVucEkyc1M4d0xaRjNpbF9jWWhOb05kNXcwWUdfcklfcHotUHVnU2lPREt2U0U5ZWwzd0o5ZUNpZWYtODhwYS1RcHJaMTRZMnpNZ3FuYkp6bEFVSk9B?oc=5\" target=\"_blank\">Skretting ARC Pargua recibirá a pasantes de postgrado del Instituto de Acuicultura de la UACh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Valdivia</font>"
+    },
+    {
+      "id": 371946,
+      "story_id": 2091,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbTd1eFlmRWxBNFFoSXVxcXA4SEtoZE5YZDRyOGo1VktBRjNxRmxPSzk2OFp6OGR3dXJtYS1Mb1BOVmRNdnlsemppaEEySzNRTjFwU2hPYTBKVUtqd3ZydWQ0bXhOUTdZa3BrblpqZC1IWEM3aXRDOTN5eHkwVFFjX1A1cXpoSW44N3RfOWxURW41ZHBJVUN0MU9BZjU4UEFoajJpTDhWVnVxWFVZLTg2b0lQc1ptSThiWDJtbEZ6d1dCd9IBzwFBVV95cUxNeTlOMlhpX1dJVlYtRG91RFpJOXdtbXVla0FnTTdYUXoyYXRTU3BpdHQzWmxZZWd1OHhBLTAzSXRrRGxEUUh4TnRiVEFOOHhOOTlGQkpJVkVldzZIV1JjODBza1p5eHlnYldleVdCWlhkUGZEOXJmemJ5UGRNUzVyNUJHTEpiVmxzamx4eUNSR3FEQW1nNzFkUW42aTQ5bXBoeG1HOUFlTDkwZGRGbWVZVlpyXy1TZmJuUEJkak1mT2drUGh2X2RWdTZCUkNFcjg?oc=5",
+      "title": "BioMar Viet-Uc in Vietnam becomes first ASC-certified feed facility in Asia - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-07-30T08:30:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbTd1eFlmRWxBNFFoSXVxcXA4SEtoZE5YZDRyOGo1VktBRjNxRmxPSzk2OFp6OGR3dXJtYS1Mb1BOVmRNdnlsemppaEEySzNRTjFwU2hPYTBKVUtqd3ZydWQ0bXhOUTdZa3BrblpqZC1IWEM3aXRDOTN5eHkwVFFjX1A1cXpoSW44N3RfOWxURW41ZHBJVUN0MU9BZjU4UEFoajJpTDhWVnVxWFVZLTg2b0lQc1ptSThiWDJtbEZ6d1dCd9IBzwFBVV95cUxNeTlOMlhpX1dJVlYtRG91RFpJOXdtbXVla0FnTTdYUXoyYXRTU3BpdHQzWmxZZWd1OHhBLTAzSXRrRGxEUUh4TnRiVEFOOHhOOTlGQkpJVkVldzZIV1JjODBza1p5eHlnYldleVdCWlhkUGZEOXJmemJ5UGRNUzVyNUJHTEpiVmxzamx4eUNSR3FEQW1nNzFkUW42aTQ5bXBoeG1HOUFlTDkwZGRGbWVZVlpyXy1TZmJuUEJkak1mT2drUGh2X2RWdTZCUkNFcjg?oc=5\" target=\"_blank\">BioMar Viet-Uc in Vietnam becomes first ASC-certified feed facility in Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 371951,
+      "story_id": 2094,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHBFUFR5SDJVX05XOFVkSUlSVkRwZG5QWUJTbmZQZGQxeGFRSUJyT3RQTUlhT3NlTWxTX2JGaVlzemxTdkp0QlRTNkE0NzlqWk5kRTE3WkNaS0hqX29lcTFjQjllYk9aS1NrcDFMekRwakx3TTFhVmlaRnlFSGNKWDRET3I4dnJkM3d0LWlmZ09zZ3otSExDc2Ewbw?oc=5",
+      "title": "The real value of BioMar's IPO isn't its market cap - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-07-06T04:56:56+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHBFUFR5SDJVX05XOFVkSUlSVkRwZG5QWUJTbmZQZGQxeGFRSUJyT3RQTUlhT3NlTWxTX2JGaVlzemxTdkp0QlRTNkE0NzlqWk5kRTE3WkNaS0hqX29lcTFjQjllYk9aS1NrcDFMekRwakx3TTFhVmlaRnlFSGNKWDRET3I4dnJkM3d0LWlmZ09zZ3otSExDc2Ewbw?oc=5\" target=\"_blank\">The real value of BioMar's IPO isn't its market cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 372559,
+      "story_id": 2095,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43ZS1ZR081bXN0NnQ5UlNhS29pdzVuc3Z5aHBzdmYyYUxxSGkxQkNRZVpsVkFEWW5xNFdBTjE3Yi1fbjRNQmcwTW84WUVJTzZHbDRob1Y3aGpDSUFtTExjWURodjlmTUZTa2FySmk5bDZNeUJJV0k2OUZ3?oc=5",
+      "title": "(+) Til Norway Cup-finale: – Vanvittig gøy - fvn.no",
+      "source_name": "fvn.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-07-30T14:52:49+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE43ZS1ZR081bXN0NnQ5UlNhS29pdzVuc3Z5aHBzdmYyYUxxSGkxQkNRZVpsVkFEWW5xNFdBTjE3Yi1fbjRNQmcwTW84WUVJTzZHbDRob1Y3aGpDSUFtTExjWURodjlmTUZTa2FySmk5bDZNeUJJV0k2OUZ3?oc=5\" target=\"_blank\">(+) Til Norway Cup-finale: – Vanvittig gøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fvn.no</font>"
+    },
+    {
+      "id": 372884,
+      "story_id": 2093,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORzhfRUhtSm52d1dreUtzaHpHdm1LNnNtSE1Vc2gtdmZLMzFrSHg0U0FUNDBZU1Q2dFBYVWt3NXlFaTVTVV9qZGI2Y0JUREU0a0FaanRfMzVjV01kX3NmcnlSNDhjTWlkZ3NIVTNrLU5KN2FocWhqNEE2VlNuT2xLRC1HOA?oc=5",
+      "title": "EWOS Affliate to Acquire Chile's Nova Austral - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2014-09-08T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxORzhfRUhtSm52d1dreUtzaHpHdm1LNnNtSE1Vc2gtdmZLMzFrSHg0U0FUNDBZU1Q2dFBYVWt3NXlFaTVTVV9qZGI2Y0JUREU0a0FaanRfMzVjV01kX3NmcnlSNDhjTWlkZ3NIVTNrLU5KN2FocWhqNEE2VlNuT2xLRC1HOA?oc=5\" target=\"_blank\">EWOS Affliate to Acquire Chile's Nova Austral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
     }
   ],
   "share_of_voice": {
@@ -96525,7 +96663,7 @@
         "week": "2014-W37",
         "Aller Aqua": 0,
         "BioMar": 1,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
       },
@@ -100412,7 +100550,7 @@
       {
         "week": "2026-W28",
         "Aller Aqua": 0,
-        "BioMar": 86,
+        "BioMar": 87,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -100436,10 +100574,10 @@
       {
         "week": "2026-W31",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       }
     ],
     "totals": [
@@ -100449,11 +100587,11 @@
       },
       {
         "company": "BioMar",
-        "count": 1438
+        "count": 1440
       },
       {
         "company": "Cargill",
-        "count": 271
+        "count": 272
       },
       {
         "company": "Polarfeed",
@@ -100461,7 +100599,7 @@
       },
       {
         "company": "Skretting",
-        "count": 883
+        "count": 884
       }
     ]
   }
