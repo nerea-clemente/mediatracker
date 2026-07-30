@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T17:36:41+00:00",
+  "generated_at": "2026-07-30T23:00:58+00:00",
   "stats": {
-    "mention_count": 2752,
-    "story_count": 2073,
+    "mention_count": 2753,
+    "story_count": 2074,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -11259,6 +11259,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2096,
+      "headline": "Former Skretting CEO joins Aquaticode as advisor - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkhqMTE4MklNWDdSTzZkSHlpcGltZFM3akNEWnh6d2VHSlllbWJVdEN2STZEeHpMQnEzQ3RKcVFNMV9MUXVrMVdCMk5MSmYwYlZuakszQUJFT0NPR2I0Z1lTbHVLeUFsaDFwNnNPNE9NWTVMUWRrdkZfb1ZoZ2k1Vlp2Z1htMjVW?oc=5\" target=\"_blank\">Former Skretting CEO joins Aquaticode as advisor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2025-06-23T07:00:00+00:00",
+      "last_seen": "2025-06-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -96208,6 +96222,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxORzhfRUhtSm52d1dreUtzaHpHdm1LNnNtSE1Vc2gtdmZLMzFrSHg0U0FUNDBZU1Q2dFBYVWt3NXlFaTVTVV9qZGI2Y0JUREU0a0FaanRfMzVjV01kX3NmcnlSNDhjTWlkZ3NIVTNrLU5KN2FocWhqNEE2VlNuT2xLRC1HOA?oc=5\" target=\"_blank\">EWOS Affliate to Acquire Chile's Nova Austral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 373554,
+      "story_id": 2096,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkhqMTE4MklNWDdSTzZkSHlpcGltZFM3akNEWnh6d2VHSlllbWJVdEN2STZEeHpMQnEzQ3RKcVFNMV9MUXVrMVdCMk5MSmYwYlZuakszQUJFT0NPR2I0Z1lTbHVLeUFsaDFwNnNPNE9NWTVMUWRrdkZfb1ZoZ2k1Vlp2Z1htMjVW?oc=5",
+      "title": "Former Skretting CEO joins Aquaticode as advisor - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2025-06-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkhqMTE4MklNWDdSTzZkSHlpcGltZFM3akNEWnh6d2VHSlllbWJVdEN2STZEeHpMQnEzQ3RKcVFNMV9MUXVrMVdCMk5MSmYwYlZuakszQUJFT0NPR2I0Z1lTbHVLeUFsaDFwNnNPNE9NWTVMUWRrdkZfb1ZoZ2k1Vlp2Z1htMjVW?oc=5\" target=\"_blank\">Former Skretting CEO joins Aquaticode as advisor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
     }
   ],
   "share_of_voice": {
@@ -100121,7 +100159,7 @@
         "BioMar": 1,
         "Cargill": 5,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2025-W27",
@@ -100599,7 +100637,7 @@
       },
       {
         "company": "Skretting",
-        "count": 884
+        "count": 885
       }
     ]
   }
