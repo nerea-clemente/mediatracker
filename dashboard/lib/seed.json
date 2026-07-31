@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T23:00:58+00:00",
+  "generated_at": "2026-07-31T08:15:53+00:00",
   "stats": {
-    "mention_count": 2753,
-    "story_count": 2074,
+    "mention_count": 2754,
+    "story_count": 2075,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -27993,6 +27993,20 @@
       "story_summary": "BioMar has installed odor filters on its factory chimney to reduce environmental emissions. The measure addresses air quality concerns related to the company's aquaculture feed production facility operations.",
       "first_seen": "2015-05-13T07:00:00+00:00",
       "last_seen": "2015-05-13T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2097,
+      "headline": "Biomar lanserer fôr til triploid laks - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE80TFpBTng1UjQtUXBEUzdMTlNOUWFZUUtvY2FsdkY5Q21RT1FPNWtqNVBpLXFtSlUxeDcyRVI0SmQ4RXZDMVpOUklzRWxqbVFlMjN0cnVrQU5NZmdLVksySlQwVnRidFJjY2k5RzdRTV9MQWh4a19KRg?oc=5\" target=\"_blank\">Biomar lanserer fôr til triploid laks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2015-04-27T07:00:00+00:00",
+      "last_seen": "2015-04-27T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -96246,6 +96260,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkhqMTE4MklNWDdSTzZkSHlpcGltZFM3akNEWnh6d2VHSlllbWJVdEN2STZEeHpMQnEzQ3RKcVFNMV9MUXVrMVdCMk5MSmYwYlZuakszQUJFT0NPR2I0Z1lTbHVLeUFsaDFwNnNPNE9NWTVMUWRrdkZfb1ZoZ2k1Vlp2Z1htMjVW?oc=5\" target=\"_blank\">Former Skretting CEO joins Aquaticode as advisor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 374200,
+      "story_id": 2097,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80TFpBTng1UjQtUXBEUzdMTlNOUWFZUUtvY2FsdkY5Q21RT1FPNWtqNVBpLXFtSlUxeDcyRVI0SmQ4RXZDMVpOUklzRWxqbVFlMjN0cnVrQU5NZmdLVksySlQwVnRidFJjY2k5RzdRTV9MQWh4a19KRg?oc=5",
+      "title": "Biomar lanserer fôr til triploid laks - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2015-04-27T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE80TFpBTng1UjQtUXBEUzdMTlNOUWFZUUtvY2FsdkY5Q21RT1FPNWtqNVBpLXFtSlUxeDcyRVI0SmQ4RXZDMVpOUklzRWxqbVFlMjN0cnVrQU5NZmdLVksySlQwVnRidFJjY2k5RzdRTV9MQWh4a19KRg?oc=5\" target=\"_blank\">Biomar lanserer fôr til triploid laks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
     }
   ],
   "share_of_voice": {
@@ -96830,6 +96868,14 @@
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 1,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2015-W18",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -100625,7 +100671,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1440
+        "count": 1441
       },
       {
         "company": "Cargill",
