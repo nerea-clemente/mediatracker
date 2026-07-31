@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T11:37:19+00:00",
+  "generated_at": "2026-07-31T17:39:41+00:00",
   "stats": {
-    "mention_count": 2755,
+    "mention_count": 2756,
     "story_count": 2076,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -11454,7 +11454,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -96322,6 +96322,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFEzN2hIcmFLczZtZ3RxalhENk82ZTJGejJ4Q3hRYmIzSzl3ZkJhQTdleFhEWEE2SkRoQVNCU0piQ0FZRGVTMXYxNDEta1NQS1V6TWY0Yk9kRTlUTE12RzgydWZUY3NfTF9nUFd6SEpaRUx6VDMzRmgwQVVOVnNFQVd4Vk1NOFV2VWNwSFZVS3Y?oc=5\" target=\"_blank\">Vertom Group recibe buque diésel-eléctrico MV Skretting Gro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PortalPortuario</font>"
+    },
+    {
+      "id": 376483,
+      "story_id": 188,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS1BQd0pfcnpzTTRWaWNVUG1FOGVXeDdjREN0ajhFRWRPemVWV21wSGRTTkx2YkJRdXpPamVoREM4dWFVcGw1ckl0S0UwRnAzRW5iWmh0QWFKRXlzSEhWeXpxeDFqdWVMdkZ0VE12VS1HRXVjR0Iwc2JFYVRScFRLWnkwU0xsUEFxRDVJVnpXempSREhMRDUtRngxaHlIemU4RXJHZjlpNXdKODN6NEVQZU11M1d2VVRUSm9wMEx30gHDAUFVX3lxTFBSRTV0YkJOQzVTVHJyNnhFYlc2WHE5RHFVaDI1RlI4T2JZazB4SHJSWF95czNjZEszWGtwV0pJM3lkazIyU2VGRUNQczlZVlZ2TVd2ZWVuLXk3QVpqVGlzT1pIVDgtUkhSbkxOdkc0VUVyUkNhNWJVTHJDZkJCWTd2SW9BMmF2bklZZzdqQkhqcnZPYkl2aGVwQWxlUUdNUWpEbEdCYVExZWtzNnlORWxGX0cwS3hYd0IzVm85U0N5WF9Jcw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 24 2025 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2025-06-16T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNS1BQd0pfcnpzTTRWaWNVUG1FOGVXeDdjREN0ajhFRWRPemVWV21wSGRTTkx2YkJRdXpPamVoREM4dWFVcGw1ckl0S0UwRnAzRW5iWmh0QWFKRXlzSEhWeXpxeDFqdWVMdkZ0VE12VS1HRXVjR0Iwc2JFYVRScFRLWnkwU0xsUEFxRDVJVnpXempSREhMRDUtRngxaHlIemU4RXJHZjlpNXdKODN6NEVQZU11M1d2VVRUSm9wMEx30gHDAUFVX3lxTFBSRTV0YkJOQzVTVHJyNnhFYlc2WHE5RHFVaDI1RlI4T2JZazB4SHJSWF95czNjZEszWGtwV0pJM3lkazIyU2VGRUNQczlZVlZ2TVd2ZWVuLXk3QVpqVGlzT1pIVDgtUkhSbkxOdkc0VUVyUkNhNWJVTHJDZkJCWTd2SW9BMmF2bklZZzdqQkhqcnZPYkl2aGVwQWxlUUdNUWpEbEdCYVExZWtzNnlORWxGX0cwS3hYd0IzVm85U0N5WF9Jcw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 24 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
     }
   ],
   "share_of_voice": {
@@ -100232,7 +100256,7 @@
       {
         "week": "2025-W25",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 6
@@ -100709,7 +100733,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1441
+        "count": 1442
       },
       {
         "company": "Cargill",
