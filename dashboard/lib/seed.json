@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T22:55:44+00:00",
+  "generated_at": "2026-08-01T07:41:53+00:00",
   "stats": {
-    "mention_count": 2758,
-    "story_count": 2077,
+    "mention_count": 2759,
+    "story_count": 2078,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -338,6 +338,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2100,
+      "headline": "Cargill, Ewos | Utvidar og investerer 90 millionar - Firdaposten",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHA3VkRZbWFlczBqRkFZajFQd3l5N2ZqYUFqVEpLanNaX2tqbTZ3VUltNzNwVXVqNEsxVXVZMHJZMFIzOTNCN0xWWlZ6UDQxeGZqLTkwa1pPaWpQZTZWV1UxemJoZDl3dFd2VGxyWklPYnYxdGJfR1B6LWgwSkpLQ09n?oc=5\" target=\"_blank\">Cargill, Ewos | Utvidar og investerer 90 millionar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firdaposten</font>",
+      "first_seen": "2026-08-01T06:01:00+00:00",
+      "last_seen": "2026-08-01T06:01:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
     {
       "id": 2098,
       "headline": "Vertom Group recibe buque diésel-eléctrico MV Skretting Gro - PortalPortuario",
@@ -96408,6 +96422,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeUIxSHluTld2bFdSeURTRE5jc05ETmJMdjJVTG5Ea3BBZlRqNWRKc01iTFdXMFhrLUF3T0l4S0lzV1hwRVlyNHJzV3Z5ekd2RW5yVUVSVHFSanhLcDJTWDZtNzluR3RrQU5Za2hDRE1kRlF3UzVtekJhM1l4bXFwY1VxampDUXljdUJwRnhoc0dQa25KeXRiMld6ZENiN2NpUjhlQ3ktUGpJazc5bUpRVkpnbmJKUmFXNTREY3BUelBaS1p2cFpOMjl1SUcySjhaQVh0T2htTEpkN2gtLUx6MElBbw?oc=5\" target=\"_blank\">Alianza Cermaq-Skretting abre oportunidades para mujeres recolectoras de orilla de Calbuco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 379066,
+      "story_id": 2100,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHA3VkRZbWFlczBqRkFZajFQd3l5N2ZqYUFqVEpLanNaX2tqbTZ3VUltNzNwVXVqNEsxVXVZMHJZMFIzOTNCN0xWWlZ6UDQxeGZqLTkwa1pPaWpQZTZWV1UxemJoZDl3dFd2VGxyWklPYnYxdGJfR1B6LWgwSkpLQ09n?oc=5",
+      "title": "Cargill, Ewos | Utvidar og investerer 90 millionar - Firdaposten",
+      "source_name": "Firdaposten",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-08-01T06:01:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHA3VkRZbWFlczBqRkFZajFQd3l5N2ZqYUFqVEpLanNaX2tqbTZ3VUltNzNwVXVqNEsxVXVZMHJZMFIzOTNCN0xWWlZ6UDQxeGZqLTkwa1pPaWpQZTZWV1UxemJoZDl3dFd2VGxyWklPYnYxdGJfR1B6LWgwSkpLQ09n?oc=5\" target=\"_blank\">Cargill, Ewos | Utvidar og investerer 90 millionar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firdaposten</font>"
     }
   ],
   "share_of_voice": {
@@ -100783,7 +100821,7 @@
         "week": "2026-W31",
         "Aller Aqua": 0,
         "BioMar": 6,
-        "Cargill": 1,
+        "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 4
       }
@@ -100799,7 +100837,7 @@
       },
       {
         "company": "Cargill",
-        "count": 272
+        "count": 273
       },
       {
         "company": "Polarfeed",
