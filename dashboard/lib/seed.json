@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T17:01:32+00:00",
+  "generated_at": "2026-08-02T22:51:28+00:00",
   "stats": {
-    "mention_count": 2762,
-    "story_count": 2080,
+    "mention_count": 2763,
+    "story_count": 2081,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -338,6 +338,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2103,
+      "headline": "Skretting Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rXzZaUXdGeExkbjlrX1Naalo5dHpPOVNkM0UwYzR1UkQ1UHJQUHBTRVRRMEJiVXhjRVkxWlZJTDJGem1LT3B6T3ZGZHF6NTQ5TzNNWU5DQTdJR0pHNGo0T3lkNnBBRHp4?oc=5\" target=\"_blank\">Skretting Number of Employees 2026 | Employee Count & Headcount Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Revelio Labs</font>",
+      "first_seen": "2026-08-02T09:30:59+00:00",
+      "last_seen": "2026-08-02T09:30:59+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2100,
       "headline": "Cargill, Ewos | Utvidar og investerer 90 millionar - Firdaposten",
@@ -96546,6 +96560,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVlsS2ttY3A3Y3hUQi1xRjBwVkhXX0lKS2VLZUcxeHVYdkp0QzFaOWxjYmVIVENuQjBKTy02d0I5S1hwbm91VGdaeVR6MDUzVnN2WnpRWnBOX0JFNzAxUGRxZ1EtYll2R1lCY2YwY1V4cGhPT1p4QW8teWhRTkhfWkVfODhZcW1IWFVrNnE1SXVrYUJZQTFvYk96OXRJRTd5OVdDLW40UFRhck5DRjN3X1JCUjVUNWltb1BzSG5BMnNQMF9haElzb1ZB?oc=5\" target=\"_blank\">Colaboradores de BioMar impulsan iniciativas sociales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">salmonexpert.cl</font>"
+    },
+    {
+      "id": 385828,
+      "story_id": 2103,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rXzZaUXdGeExkbjlrX1Naalo5dHpPOVNkM0UwYzR1UkQ1UHJQUHBTRVRRMEJiVXhjRVkxWlZJTDJGem1LT3B6T3ZGZHF6NTQ5TzNNWU5DQTdJR0pHNGo0T3lkNnBBRHp4?oc=5",
+      "title": "Skretting Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "source_name": "Revelio Labs",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-02T09:30:59+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rXzZaUXdGeExkbjlrX1Naalo5dHpPOVNkM0UwYzR1UkQ1UHJQUHBTRVRRMEJiVXhjRVkxWlZJTDJGem1LT3B6T3ZGZHF6NTQ5TzNNWU5DQTdJR0pHNGo0T3lkNnBBRHp4?oc=5\" target=\"_blank\">Skretting Number of Employees 2026 | Employee Count & Headcount Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Revelio Labs</font>"
     }
   ],
   "share_of_voice": {
@@ -100931,7 +100969,7 @@
         "BioMar": 8,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       }
     ],
     "totals": [
@@ -100953,7 +100991,7 @@
       },
       {
         "company": "Skretting",
-        "count": 888
+        "count": 889
       }
     ]
   }
