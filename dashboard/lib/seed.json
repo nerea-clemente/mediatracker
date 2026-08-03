@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T08:47:08+00:00",
+  "generated_at": "2026-08-03T12:40:07+00:00",
   "stats": {
-    "mention_count": 2765,
+    "mention_count": 2766,
     "story_count": 2083,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -15559,7 +15559,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -96660,6 +96660,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVUdXMlRmV3BnSUdiZDNFQmVhZ0E4SUdtUlIxamhrNmozbGd1cjk2aUxEX1UzcHhQakRiX0VoUFVwV1hHdWRuVjRwZTI1WlVqX3RDRHo4Nm5ublB0dlc3YkZ5UTQwc3drVTZxdldxX1k0VHpYeW9IcHFrcTJXZ25hbkFsaV9yYVlZLXJ1OA?oc=5\" target=\"_blank\">Skretting launches new salmon diets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 388224,
+      "story_id": 1645,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa1gzNGpWX0lpdm9lSm1NZm50Z291WGNTMlNEX1kwczlFQjdmb3lTNU5abTJKek0wQzZoTHljUzVsbzVKaDE4TU5wQVV1QXZmUm5kdTdzcGpyTXpES3ZEVFBPbUlNaGwyTVcyM0ZXcTVlbUl2a2IxMlh5blEySjlBQllnQVdDRlF4WF9oQVNoblVSdUdkYWtEOS1OVUU2dS1NSXFMeFJDTDNYeFNNNDh4TzlkWll3WFpWa1Q4Qm1Sd3JEUS0zYWVWajZ5bUh5SXNG?oc=5",
+      "title": "Skretting celebra y reconoce la contribución de sus mujeres en el mes de marzo - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-03-19T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa1gzNGpWX0lpdm9lSm1NZm50Z291WGNTMlNEX1kwczlFQjdmb3lTNU5abTJKek0wQzZoTHljUzVsbzVKaDE4TU5wQVV1QXZmUm5kdTdzcGpyTXpES3ZEVFBPbUlNaGwyTVcyM0ZXcTVlbUl2a2IxMlh5blEySjlBQllnQVdDRlF4WF9oQVNoblVSdUdkYWtEOS1OVUU2dS1NSXFMeFJDTDNYeFNNNDh4TzlkWll3WFpWa1Q4Qm1Sd3JEUS0zYWVWajZ5bUh5SXNG?oc=5\" target=\"_blank\">Skretting celebra y reconoce la contribución de sus mujeres en el mes de marzo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
     }
   ],
   "share_of_voice": {
@@ -100085,7 +100109,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2024-W13",
@@ -101075,7 +101099,7 @@
       },
       {
         "company": "Skretting",
-        "count": 890
+        "count": 891
       }
     ]
   }
