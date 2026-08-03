@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T22:51:28+00:00",
+  "generated_at": "2026-08-03T08:47:08+00:00",
   "stats": {
-    "mention_count": 2763,
-    "story_count": 2081,
+    "mention_count": 2765,
+    "story_count": 2083,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -338,6 +338,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2105,
+      "headline": "Enterprise value to revenue forward de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0tTaW5TZC1FTDR6Z01IaExNNW5YNHFYZ04yaTBIa3ZaRlJVNWotMk85WkpnNE1VZWpfZlNualAwWXNqQVdiZS1WdWdWU18xWHQzUEd1TUJnRDhhc3VNcmx6dm1aUmFlVE9sYUVVVmlvemFnbEhsRHhoYzRFZlRqVFVmWUtmYlFrM0Vxc0c1X0g2RVlXZGJ5RFo1cWdGdXZDbld2ODFTeF93NTlSRmc?oc=5\" target=\"_blank\">Enterprise value to revenue forward de BioMar Group A/S – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-08-02T10:47:27+00:00",
+      "last_seen": "2026-08-02T10:47:27+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2103,
       "headline": "Skretting Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
@@ -26249,6 +26263,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2104,
+      "headline": "Skretting launches new salmon diets - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVUdXMlRmV3BnSUdiZDNFQmVhZ0E4SUdtUlIxamhrNmozbGd1cjk2aUxEX1UzcHhQakRiX0VoUFVwV1hHdWRuVjRwZTI1WlVqX3RDRHo4Nm5ublB0dlc3YkZ5UTQwc3drVTZxdldxX1k0VHpYeW9IcHFrcTJXZ25hbkFsaV9yYVlZLXJ1OA?oc=5\" target=\"_blank\">Skretting launches new salmon diets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2017-08-11T07:00:00+00:00",
+      "last_seen": "2017-08-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1014,
@@ -96584,6 +96612,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rXzZaUXdGeExkbjlrX1Naalo5dHpPOVNkM0UwYzR1UkQ1UHJQUHBTRVRRMEJiVXhjRVkxWlZJTDJGem1LT3B6T3ZGZHF6NTQ5TzNNWU5DQTdJR0pHNGo0T3lkNnBBRHp4?oc=5\" target=\"_blank\">Skretting Number of Employees 2026 | Employee Count & Headcount Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Revelio Labs</font>"
+    },
+    {
+      "id": 386648,
+      "story_id": 2105,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0tTaW5TZC1FTDR6Z01IaExNNW5YNHFYZ04yaTBIa3ZaRlJVNWotMk85WkpnNE1VZWpfZlNualAwWXNqQVdiZS1WdWdWU18xWHQzUEd1TUJnRDhhc3VNcmx6dm1aUmFlVE9sYUVVVmlvemFnbEhsRHhoYzRFZlRqVFVmWUtmYlFrM0Vxc0c1X0g2RVlXZGJ5RFo1cWdGdXZDbld2ODFTeF93NTlSRmc?oc=5",
+      "title": "Enterprise value to revenue forward de BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-02T10:47:27+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0tTaW5TZC1FTDR6Z01IaExNNW5YNHFYZ04yaTBIa3ZaRlJVNWotMk85WkpnNE1VZWpfZlNualAwWXNqQVdiZS1WdWdWU18xWHQzUEd1TUJnRDhhc3VNcmx6dm1aUmFlVE9sYUVVVmlvemFnbEhsRHhoYzRFZlRqVFVmWUtmYlFrM0Vxc0c1X0g2RVlXZGJ5RFo1cWdGdXZDbld2ODFTeF93NTlSRmc?oc=5\" target=\"_blank\">Enterprise value to revenue forward de BioMar Group A/S – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 386959,
+      "story_id": 2104,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVUdXMlRmV3BnSUdiZDNFQmVhZ0E4SUdtUlIxamhrNmozbGd1cjk2aUxEX1UzcHhQakRiX0VoUFVwV1hHdWRuVjRwZTI1WlVqX3RDRHo4Nm5ublB0dlc3YkZ5UTQwc3drVTZxdldxX1k0VHpYeW9IcHFrcTJXZ25hbkFsaV9yYVlZLXJ1OA?oc=5",
+      "title": "Skretting launches new salmon diets - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-08-11T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVUdXMlRmV3BnSUdiZDNFQmVhZ0E4SUdtUlIxamhrNmozbGd1cjk2aUxEX1UzcHhQakRiX0VoUFVwV1hHdWRuVjRwZTI1WlVqX3RDRHo4Nm5ublB0dlc3YkZ5UTQwc3drVTZxdldxX1k0VHpYeW9IcHFrcTJXZ25hbkFsaV9yYVlZLXJ1OA?oc=5\" target=\"_blank\">Skretting launches new salmon diets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
     }
   ],
   "share_of_voice": {
@@ -97778,6 +97854,14 @@
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2017-W32",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2017-W34",
@@ -100966,7 +101050,7 @@
       {
         "week": "2026-W31",
         "Aller Aqua": 0,
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 5
@@ -100979,7 +101063,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1445
+        "count": 1446
       },
       {
         "company": "Cargill",
@@ -100991,7 +101075,7 @@
       },
       {
         "company": "Skretting",
-        "count": 889
+        "count": 890
       }
     ]
   }
