@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T11:34:16+00:00",
+  "generated_at": "2026-08-05T17:40:04+00:00",
   "stats": {
-    "mention_count": 2774,
+    "mention_count": 2775,
     "story_count": 2088,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -24342,7 +24342,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -96946,6 +96946,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWWdhSkFINEE2TWZxdjFNOHgzLVRIRGZhRk1mT0h5YW5wU0JzcWpmVk1XRWdHZE5uQk9jRWlZdXctbzVwWUNMeVpPMUtHdU43Q0hQdndZcElCbUg2NC1KTnpkaXd5M3BIMXBzelM1RlFmYjJVdE1mLTZTamhLQmFYQjFPMDNJWnF0QWVxNm5ZQUE3eGkzQ2pIR2xucUFIZw?oc=5\" target=\"_blank\">Ingresos por acción de BioMar Group A/S – GETTEX:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 397099,
+      "story_id": 1223,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTi1zVmtjVDFWczNtSnJRekNOa2hQdlZLMUZIT2tBSzZpS1dkNGJXaU5hNktBcFcwMDBwMDh1emFHLXliZVFjb29vMGh6eEtpSEdUcWlCQXl0SVlOLWNIWXB0U3J5bEFjb0VIOXJEV05RWkxIY0g3MmlZU3NIYUhTWQ?oc=5",
+      "title": "BioMar takes over Chilean fish feed factory - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-03-14T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOTi1zVmtjVDFWczNtSnJRekNOa2hQdlZLMUZIT2tBSzZpS1dkNGJXaU5hNktBcFcwMDBwMDh1emFHLXliZVFjb29vMGh6eEtpSEdUcWlCQXl0SVlOLWNIWXB0U3J5bEFjb0VIOXJEV05RWkxIY0g3MmlZU3NIYUhTWQ?oc=5\" target=\"_blank\">BioMar takes over Chilean fish feed factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
     }
   ],
   "share_of_voice": {
@@ -98664,7 +98688,7 @@
       {
         "week": "2019-W11",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -101365,7 +101389,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1449
+        "count": 1450
       },
       {
         "company": "Cargill",
