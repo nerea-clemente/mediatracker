@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T22:58:38+00:00",
+  "generated_at": "2026-08-05T08:01:38+00:00",
   "stats": {
-    "mention_count": 2772,
-    "story_count": 2087,
+    "mention_count": 2773,
+    "story_count": 2088,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -20328,6 +20328,20 @@
       "id": 1824,
       "headline": "TalentView: Julie Elise Trovaag - WEAREAQUACULTURE",
       "story_summary": "This article features a talent profile of Julie Elise Trovaag in the aquaculture sector. BioMar is mentioned only incidentally in connection with the subject's professional background or affiliation.",
+      "first_seen": "2022-03-18T07:00:00+00:00",
+      "last_seen": "2022-03-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2110,
+      "headline": "Biomar dømt for å ha etterlignet konkurrenten - Finansavisen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVJQeTRUVzVJUzh3MnB4LTRNZjdyQllCSHRoci1rU3JYcG5zYlJIVXNXNTE1b3A3Q2daejA4X1V6U0RSNGd5Ul9QM0taaXdvSkwwWThXSEZDZWFlQnl5dmhXLW1BYTBfdUZWb0RuUDhvSWp6eEx2Rjk4WDR5b2VqMnVtVjVqRWZjaEVkU0E1aVRFTFJQQVdiQTJTWjBFRllKaEZHN1g2Yw?oc=5\" target=\"_blank\">Biomar dømt for å ha etterlignet konkurrenten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>",
       "first_seen": "2022-03-18T07:00:00+00:00",
       "last_seen": "2022-03-18T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -96884,6 +96898,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTjJNdnZ5Z3ZWVHBUeTloaW5VNlBLVVBUcXZQU2JCYmxQVWVWaGJ4bHB2OUh2NFBtWmNBY18tYjNpekEyR3Q1UVI0RWFWekxSRUZsSEdreGFlZGNrTVVnY0twRFluYzZxa3k0QjExYkViX1Z1d0F3M3lURlFpcjRUT19TV05oQ0Qwb0FfbFlTYjlFVlNPVDJSS2REUFQ?oc=5\" target=\"_blank\">Næringsliv, Klepp | Barndomskompisar slår til med millionsatsing: – Me blir heia fram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>"
+    },
+    {
+      "id": 394787,
+      "story_id": 2110,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVJQeTRUVzVJUzh3MnB4LTRNZjdyQllCSHRoci1rU3JYcG5zYlJIVXNXNTE1b3A3Q2daejA4X1V6U0RSNGd5Ul9QM0taaXdvSkwwWThXSEZDZWFlQnl5dmhXLW1BYTBfdUZWb0RuUDhvSWp6eEx2Rjk4WDR5b2VqMnVtVjVqRWZjaEVkU0E1aVRFTFJQQVdiQTJTWjBFRllKaEZHN1g2Yw?oc=5",
+      "title": "Biomar dømt for å ha etterlignet konkurrenten - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-03-18T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVJQeTRUVzVJUzh3MnB4LTRNZjdyQllCSHRoci1rU3JYcG5zYlJIVXNXNTE1b3A3Q2daejA4X1V6U0RSNGd5Ul9QM0taaXdvSkwwWThXSEZDZWFlQnl5dmhXLW1BYTBfdUZWb0RuUDhvSWp6eEx2Rjk4WDR5b2VqMnVtVjVqRWZjaEVkU0E1aVRFTFJQQVdiQTJTWjBFRllKaEZHN1g2Yw?oc=5\" target=\"_blank\">Biomar dømt for å ha etterlignet konkurrenten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
     }
   ],
   "share_of_voice": {
@@ -99546,7 +99584,7 @@
       {
         "week": "2022-W11",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -101303,7 +101341,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1447
+        "count": 1448
       },
       {
         "company": "Cargill",
