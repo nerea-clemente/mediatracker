@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T08:01:00+00:00",
+  "generated_at": "2026-08-06T11:37:47+00:00",
   "stats": {
-    "mention_count": 2777,
+    "mention_count": 2779,
     "story_count": 2089,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -2835,13 +2835,13 @@
       "id": 1485,
       "headline": "Aqua-Spark: former BioMar executive to lead strategic partnerships - SalmonBusiness",
       "story_summary": "A former BioMar executive has been appointed to a leadership position at Aqua-Spark focused on strategic partnerships. The move reflects talent movement within the aquaculture sector.",
-      "first_seen": "2026-05-21T12:11:59+00:00",
+      "first_seen": "2026-05-21T07:00:00+00:00",
       "last_seen": "2026-05-21T12:11:59+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "exec_statement"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -6322,7 +6322,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -97032,6 +97032,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWM3anY0ZWJQWDVWMkpheTE1OURUZVJscXlFbVlFN3haTHJmV3BsSjI2YTdrRlBfNWRhV1N6WlpPSkxHa2FZb2dUOTlsRkM1SmFFT1RJZXNvTWhiNTA0ZVFfM0V0SXZQZG13MlZxYjFCQjNMUzlZaWI2TnI5amQydUJhZHlPODlLc1g5STAza3hIUE5lNkhMV3IxZ2R0dGVkenkzYS0yUF9rUQ?oc=5\" target=\"_blank\">Profesor Salomón entregó mensajes de seguridad a más de 300 trabajadores de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 399749,
+      "story_id": 1485,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZl9YQ1hJY01pN29MRmdaQXJPSzNpTk5RM2RyTVFWblBPOTdtM1dfdWVOTzJ2cEUyb1JkMFZYc2l0VllBZ2RLSmdBT0ZKSHQxZmYtS0FwQXVhTkFQMUpoR3N6ZGxJTHE0bjNSNDRzU1RlRVVvazdYQ1lYX2F1eFA1czRuWExIaEd1WFRJZ05KVkoxV3ByZ3RVVVBnTHVmUQ?oc=5",
+      "title": "Aqua-Spark: former BioMar executive to lead strategic partnerships - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-21T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZl9YQ1hJY01pN29MRmdaQXJPSzNpTk5RM2RyTVFWblBPOTdtM1dfdWVOTzJ2cEUyb1JkMFZYc2l0VllBZ2RLSmdBT0ZKSHQxZmYtS0FwQXVhTkFQMUpoR3N6ZGxJTHE0bjNSNDRzU1RlRVVvazdYQ1lYX2F1eFA1czRuWExIaEd1WFRJZ05KVkoxV3ByZ3RVVVBnTHVmUQ?oc=5\" target=\"_blank\">Aqua-Spark: former BioMar executive to lead strategic partnerships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 399772,
+      "story_id": 298,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT045WjllWE0tRkJEaU8xdm5mSTlUNm5jX25MZ1FiTjRDdy1pQ0F3QUE3eXZ6QVMwQjVNczFhaC1SeUxlSDh3VXdFekVQX1VpalRwcEpWQm5XaDdrTjdoWjIyWGh5SlNHRHI0X294X3NmR19Xb1Jtb2gwLV9NVmhhWklKQ3BnWDlPYkE?oc=5",
+      "title": "BioMar moves to 100% ownership of Ecuador operation - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-02-06T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPT045WjllWE0tRkJEaU8xdm5mSTlUNm5jX25MZ1FiTjRDdy1pQ0F3QUE3eXZ6QVMwQjVNczFhaC1SeUxlSDh3VXdFekVQX1VpalRwcEpWQm5XaDdrTjdoWjIyWGh5SlNHRHI0X294X3NmR19Xb1Jtb2gwLV9NVmhhWklKQ3BnWDlPYkE?oc=5\" target=\"_blank\">BioMar moves to 100% ownership of Ecuador operation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
     }
   ],
   "share_of_voice": {
@@ -101230,7 +101278,7 @@
       {
         "week": "2026-W06",
         "Aller Aqua": 0,
-        "BioMar": 10,
+        "BioMar": 11,
         "Cargill": 0,
         "Polarfeed": 1,
         "Skretting": 1
@@ -101350,7 +101398,7 @@
       {
         "week": "2026-W21",
         "Aller Aqua": 0,
-        "BioMar": 49,
+        "BioMar": 50,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -101451,7 +101499,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1451
+        "count": 1453
       },
       {
         "company": "Cargill",
