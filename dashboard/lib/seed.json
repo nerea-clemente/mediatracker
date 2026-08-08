@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T09:59:50+00:00",
+  "generated_at": "2026-08-08T16:35:40+00:00",
   "stats": {
-    "mention_count": 2794,
+    "mention_count": 2796,
     "story_count": 2097,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -366,7 +366,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 5,
+      "pickup_count": 7,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -97556,6 +97556,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfLXcxTUxBdEc5Z042SWlKX1dyMVB6amZaX2V6V1pUM0pjZjVvMFdWT2hCQ0NaM18zdGIyaVh1cmI1eEFzWU5IZWt0RUZVLWFBMlI0WkhILTh3NHdpVXpLbmFodjk?oc=5\" target=\"_blank\">BIO Mar 2027 310.000 call (BIO270319C00310000) stock price, news, quote and history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sg.finance.yahoo.com</font>"
+    },
+    {
+      "id": 406812,
+      "story_id": 2115,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IeFYtLTJiUDdqSUl5MExzNUMzeHJlZkVqM0diOC1Mb0hRQmhzZnVXZlZxN2FJNWR5d2M5cVRldWlNQTVWY3Z4d2RQeWRPRkVzZTA3RGZycVBWckEwLU9wWk9aY1g?oc=5",
+      "title": "BIO Mar 2027 280.000 put (BIO270319P00280000) Stock Price, News, Quote & History - ca.finance.yahoo.com",
+      "source_name": "ca.finance.yahoo.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-04T15:56:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IeFYtLTJiUDdqSUl5MExzNUMzeHJlZkVqM0diOC1Mb0hRQmhzZnVXZlZxN2FJNWR5d2M5cVRldWlNQTVWY3Z4d2RQeWRPRkVzZTA3RGZycVBWckEwLU9wWk9aY1g?oc=5\" target=\"_blank\">BIO Mar 2027 280.000 put (BIO270319P00280000) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ca.finance.yahoo.com</font>"
+    },
+    {
+      "id": 406818,
+      "story_id": 2115,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5na1ptREhEY201OXlwdmM1akg4dVAtUDFyOFd1Z3lCNGo1VDRZOU5oZXQ3eHBtQnFyM05ybHN3RE5ydjdCelhRcXZBWHBYaERXYW5kZ1QxNDM5WnFhMmpZb1NGSkpkV0JqOTVVWA?oc=5",
+      "title": "BIO Mar 2027 280.000 put (BIO270319P00280000) interactive stock chart - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-04T15:58:17+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5na1ptREhEY201OXlwdmM1akg4dVAtUDFyOFd1Z3lCNGo1VDRZOU5oZXQ3eHBtQnFyM05ybHN3RE5ydjdCelhRcXZBWHBYaERXYW5kZ1QxNDM5WnFhMmpZb1NGSkpkV0JqOTVVWA?oc=5\" target=\"_blank\">BIO Mar 2027 280.000 put (BIO270319P00280000) interactive stock chart</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
     }
   ],
   "share_of_voice": {
@@ -101970,7 +102018,7 @@
       {
         "week": "2026-W32",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 11,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -101983,7 +102031,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1466
+        "count": 1468
       },
       {
         "company": "Cargill",
