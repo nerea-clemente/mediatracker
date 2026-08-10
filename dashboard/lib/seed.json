@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T10:40:19+00:00",
+  "generated_at": "2026-08-10T16:55:05+00:00",
   "stats": {
-    "mention_count": 2803,
-    "story_count": 2102,
+    "mention_count": 2804,
+    "story_count": 2103,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -342,6 +342,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2125,
+      "headline": "Schouw & Co. share buy-back programme, week 32 2026 - The Manila Times",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2pKN0dvNXV6amx1ZzZROFduTUlDaHFTNEdsbFBZcXdTNHRDLW1VQmVLemZ1dmRRN0FydHpwUVltNG5BbzF1Vm5KbXp2eTVydm5nSGhfekRzZUMtWEZacF8xaXZfbHdHVlBfR0ljeVhfdC1zS2ZCdHh5dWREdjAtNEhWVHRGSlRVVS1NRC13aXlNekRKcW9NdFZhLWJKeGNqeThVNlJseF9LOHYzVHFVaG9yaThSLXdSeVM4cmVn0gHDAUFVX3lxTFBEdTNQcXFjV2I3SG5DM2dpNk51ekt3R2ZPWktOakhZTjU4UTNlMFJabC1rZlpBYzBFTF9ra2psR2dVNmNyUkIwdFQwT1JTMHlpR0ZlNHdXWW02NTdYN3dMMm1VLUthd3lmLUltb2U3QjlBOTI2aDJkcWpxRnd5akV4VVBYaXZBWkViMlFQdUQwMHVYekdfcU9wZVM1NTBvYXNnVkJSY3d3elNnR2ZaNkdhdEpwcENGZ2NDdE1VU05UbkFCdw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 32 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+      "first_seen": "2026-08-10T12:42:47+00:00",
+      "last_seen": "2026-08-10T12:42:47+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2124,
       "headline": "Danske Bank eleva el precio objetivo de Schouw & Co. hasta las 835 DKK y reitera su recomendación de compra - MarketScreener España",
@@ -97842,6 +97856,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3Zhbk5BMTQtMHd5Nk1WN3E0eDlETU8wQU9reTVYRmcwV1VRTF83ampVZTl1emJkbUxEbXF3RmNEMThEbGhlRndPQzhMVXdCNWpKMEdXeXZWY3dCa3lOcS10bHdaWDNjcFIyYVZTSi1NR2VKam1QMnZKaWttNWdGdnY2OGFQdDJSUlpIQk0yZDhfS0lua212U1pXZVY3WEFSLUhpczlEcTdMYThTQlBhTlVET29CVXFfRGRISlJnQUFTTDFHYjZ4RHlEejhSZw?oc=5\" target=\"_blank\">Skretting dispone un desarrollo nutricional que fortalece la salud branquial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 415286,
+      "story_id": 2125,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2pKN0dvNXV6amx1ZzZROFduTUlDaHFTNEdsbFBZcXdTNHRDLW1VQmVLemZ1dmRRN0FydHpwUVltNG5BbzF1Vm5KbXp2eTVydm5nSGhfekRzZUMtWEZacF8xaXZfbHdHVlBfR0ljeVhfdC1zS2ZCdHh5dWREdjAtNEhWVHRGSlRVVS1NRC13aXlNekRKcW9NdFZhLWJKeGNqeThVNlJseF9LOHYzVHFVaG9yaThSLXdSeVM4cmVn0gHDAUFVX3lxTFBEdTNQcXFjV2I3SG5DM2dpNk51ekt3R2ZPWktOakhZTjU4UTNlMFJabC1rZlpBYzBFTF9ra2psR2dVNmNyUkIwdFQwT1JTMHlpR0ZlNHdXWW02NTdYN3dMMm1VLUthd3lmLUltb2U3QjlBOTI2aDJkcWpxRnd5akV4VVBYaXZBWkViMlFQdUQwMHVYekdfcU9wZVM1NTBvYXNnVkJSY3d3elNnR2ZaNkdhdEpwcENGZ2NDdE1VU05UbkFCdw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 32 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-08-10T12:42:47+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2pKN0dvNXV6amx1ZzZROFduTUlDaHFTNEdsbFBZcXdTNHRDLW1VQmVLemZ1dmRRN0FydHpwUVltNG5BbzF1Vm5KbXp2eTVydm5nSGhfekRzZUMtWEZacF8xaXZfbHdHVlBfR0ljeVhfdC1zS2ZCdHh5dWREdjAtNEhWVHRGSlRVVS1NRC13aXlNekRKcW9NdFZhLWJKeGNqeThVNlJseF9LOHYzVHFVaG9yaThSLXdSeVM4cmVn0gHDAUFVX3lxTFBEdTNQcXFjV2I3SG5DM2dpNk51ekt3R2ZPWktOakhZTjU4UTNlMFJabC1rZlpBYzBFTF9ra2psR2dVNmNyUkIwdFQwT1JTMHlpR0ZlNHdXWW02NTdYN3dMMm1VLUthd3lmLUltb2U3QjlBOTI2aDJkcWpxRnd5akV4VVBYaXZBWkViMlFQdUQwMHVYekdfcU9wZVM1NTBvYXNnVkJSY3d3elNnR2ZaNkdhdEpwcENGZ2NDdE1VU05UbkFCdw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 32 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
     }
   ],
   "share_of_voice": {
@@ -102264,7 +102302,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -102277,7 +102315,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1471
+        "count": 1472
       },
       {
         "company": "Cargill",
