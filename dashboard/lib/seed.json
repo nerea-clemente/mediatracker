@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T10:31:51+00:00",
+  "generated_at": "2026-08-12T16:58:06+00:00",
   "stats": {
-    "mention_count": 2818,
-    "story_count": 2111,
+    "mention_count": 2826,
+    "story_count": 2117,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -297,6 +297,7 @@
     "Ytringen",
     "adressa.no",
     "advokatbladet",
+    "aesby.no",
     "afcent.af.mil",
     "agderposten.no",
     "agnavigator.com",
@@ -343,6 +344,62 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2136,
+      "headline": "Multi X y BioMar lanzan el primer piloto de agricultura regenerativa para la salmonicultura - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOWh3cEVrM08wWC1aRWtBN0Y5LThFVWFxeGFWQTRnZ0wxZzgwX2g2TXM4WnFDTGI5cGFJV0ZQV3RydUdQc0FLM1JIck1zZVlNSnF6RWY5cmh4TUhtQVloMnpCdFdUaEM0RG9uanBsaXBmUER2YUoxM0dBOVlzOTlsN2NudkZuYjFMQV9EeGk3UWRua2djNUlfblFfNWJyRzMxYVhlSGdUT2VwODR2c2NOTXpHMndvdlAzdnJ0N0lyaTNhck1sQm1ZTm1oc29TQjVmMWItX0p5VWpzbzhqWE13M2dZa0ZDUHo3?oc=5\" target=\"_blank\">Multi X y BioMar lanzan el primer piloto de agricultura regenerativa para la salmonicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2026-08-12T10:10:00+00:00",
+      "last_seen": "2026-08-12T13:39:29+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2139,
+      "headline": "BIOMAR: Upgraded 2026 guidance after strong Q2 volume and revenue growth, despite cost pressures - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcjJxeEttbGFrUE0yNTZrT3pORmtvSVJTbDlSTmVfQUxfSFBrNVQ5dGM5eUpNcEg1d1k4Z2hFQnd2cVRmQ3lFYjFWMm1aRDhRMkRqX2pHRmE4THJLekdnVnZpWUhSRnZ5dHA4bVg2cmh1QUQ2RG5SR0ROYWhtZlZhbkhIX3hSb3ptQmU4TXJfanhIX2lQV0FiaXI3aURjaUJRUGg1Qnpiekh4cGYyTWQ3amFlWmt6S2NndlNVaG1Va2dIRzJoa3BBODUxWklZWU9LVEdqam1YNzdMVnAtZlhMLTVFZi1mTmdpTkpoQTJrS1hZY21JTEdPQkMyc2xtWlJzazcwTmRrSWE?oc=5\" target=\"_blank\">BIOMAR: Upgraded 2026 guidance after strong Q2 volume and revenue growth, despite cost pressures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-08-12T12:07:39+00:00",
+      "last_seen": "2026-08-12T12:07:39+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2138,
+      "headline": "BioMar A/S : Group raises full-year guidance for 2026 - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3NWZWZ4MVBhQ2txUC1MZWJKSXd5THZBOWs0TGZjU3ZuSjFtMS1fVWVza3U3QTdDc0JRc0VrV2x2UXVra0c1UUNDTGRVMU1HRmZtNURqRnFvTnhUQWVzLTYyNkdTOEV0V24tOHRIYWE5RFcxeTBpaUdDaXBOT0lxWVdZbHdaWFpCdHhaaG9DaFFtdlF3clVsd2pTc2lGb0hoWi1KQlNySQ?oc=5\" target=\"_blank\">BioMar A/S : Group raises full-year guidance for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-08-12T11:43:29+00:00",
+      "last_seen": "2026-08-12T12:03:12+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2137,
+      "headline": "Changes to full-year guidance for BioMar - The Manila Times",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkN4ak5LUm1UVkRXWDUwR2toWExJdXdFNW0yeU1WMGZMbVI2c0t1Ni1uYm5KQk9MSUJ0SGdZT0lkakoyTUdCd01sNS0zbXhWQWdVNUxhWjlCZ1FjS1g5Nlhmbzh4eGhNOWd2TXdlNHhFekNSNHRMVGU3V1pPSEJpcC1VdHRlWHM4Ym9HRnFUOS13MWl6Z3ZIbGZ5Ymg2ekM1bjhyZXRJbGdsZ2xZTXNQc3JnQWnSAboBQVVfeXFMUHRaNHZfTGZVU29mZ3k0SDgzQ3FrZ2FZX0NuOGNTUHkzeGdJR2o0UkowN0pwUzhaY1dWM1lYT3Bva1dsa1F6cFItNjExZkhqRDBuTm5GZ1kyUTA0YmxDZDlCU0ZnTmdDM2hueHVZTEhHZkJkNGJXOW5ydjJYREFNQWZnZWY3bngzQ2ZHUU44cEYtcFVWZzRDRmIxWnNxZDVGc29fcHhZbUp1ZjZ6Q2o5SHJvdHp0VmVEVVRR?oc=5\" target=\"_blank\">Changes to full-year guidance for BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+      "first_seen": "2026-08-12T11:38:52+00:00",
+      "last_seen": "2026-08-12T11:38:52+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2125,
       "headline": "Schouw & Co. share buy-back programme, week 32 2026 - The Manila Times",
@@ -16913,6 +16970,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2135,
+      "headline": "Nærmer seg 10 milliarder i omsetning - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9tQXhkbTZXemlPbUZyQURqaVFOTHR5eF82UWJlNHlseXF6TU4xNG1uRzYwdU9KTVUtYThrNVIyNlQ1NnZMbFh6OFZkTFMzQk0ydHdJVEFBQ19VNU5VUEJ3U09rRHAyc3JvcnJ5azBtcFRrNFU5QUlBci0yOU41UQ?oc=5\" target=\"_blank\">Nærmer seg 10 milliarder i omsetning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2023-10-26T07:00:00+00:00",
+      "last_seen": "2023-10-26T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 99,
       "headline": "Nybygg for Biomar - Vesterålnytt",
       "story_summary": "BioMar is proceeding with a new building project. The article covers this capital investment as a development in the aquaculture feed sector in the Vesterålen region of Norway.",
@@ -18745,6 +18816,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2134,
+      "headline": "Dette sier landslagsspilleren om en overgang til AaFK Fortuna - aesby.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmFTdVdac1ZCU2JmZUVIVDl3TEl3Tk5rV1RQcTJDamRzaFA0OGlZanhpcU1WOUJJRWQxeGpnUTJGUzJiMWdvODFGZm9MNzA2WVZzZUZfSm81SGdNY0pmeE1mbnd3cWh4Zlc3SkVuTlFjaXJva0RQLUlpZDlJZl85ZHJMYmFLekNfNVNuVw?oc=5\" target=\"_blank\">Dette sier landslagsspilleren om en overgang til AaFK Fortuna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aesby.no</font>",
+      "first_seen": "2023-01-19T08:00:00+00:00",
+      "last_seen": "2023-01-19T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1041,
@@ -98329,6 +98414,198 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDROU1g3b1ppRmJqQlZpNjdmSGhiODhwSXdVMVViSUZVY0x3X2lGSWVDTVM4WGVRYlc4bG5hc2t5Z0JJT2RFVkZ0UGJtc0ZhNHp1bWs2bUdZNWJrbml5SVpoVkRwd2lyS0NUMW1MM1FKRmZ3QXJ2dXNKa29CdWJnT2tFUWxrYnNROGFId0VaOXREWTM4YjBmUVpHdndHRmRxbHd6cUVRYkJPRkQ4LW5WdzNERDdrWjA?oc=5\" target=\"_blank\">70 meter høy skorstein skal lindre på et problem: – Mindre sjenerende</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kulingen.no</font>"
+    },
+    {
+      "id": 423015,
+      "story_id": 2139,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcjJxeEttbGFrUE0yNTZrT3pORmtvSVJTbDlSTmVfQUxfSFBrNVQ5dGM5eUpNcEg1d1k4Z2hFQnd2cVRmQ3lFYjFWMm1aRDhRMkRqX2pHRmE4THJLekdnVnZpWUhSRnZ5dHA4bVg2cmh1QUQ2RG5SR0ROYWhtZlZhbkhIX3hSb3ptQmU4TXJfanhIX2lQV0FiaXI3aURjaUJRUGg1Qnpiekh4cGYyTWQ3amFlWmt6S2NndlNVaG1Va2dIRzJoa3BBODUxWklZWU9LVEdqam1YNzdMVnAtZlhMLTVFZi1mTmdpTkpoQTJrS1hZY21JTEdPQkMyc2xtWlJzazcwTmRrSWE?oc=5",
+      "title": "BIOMAR: Upgraded 2026 guidance after strong Q2 volume and revenue growth, despite cost pressures - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T12:07:39+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcjJxeEttbGFrUE0yNTZrT3pORmtvSVJTbDlSTmVfQUxfSFBrNVQ5dGM5eUpNcEg1d1k4Z2hFQnd2cVRmQ3lFYjFWMm1aRDhRMkRqX2pHRmE4THJLekdnVnZpWUhSRnZ5dHA4bVg2cmh1QUQ2RG5SR0ROYWhtZlZhbkhIX3hSb3ptQmU4TXJfanhIX2lQV0FiaXI3aURjaUJRUGg1Qnpiekh4cGYyTWQ3amFlWmt6S2NndlNVaG1Va2dIRzJoa3BBODUxWklZWU9LVEdqam1YNzdMVnAtZlhMLTVFZi1mTmdpTkpoQTJrS1hZY21JTEdPQkMyc2xtWlJzazcwTmRrSWE?oc=5\" target=\"_blank\">BIOMAR: Upgraded 2026 guidance after strong Q2 volume and revenue growth, despite cost pressures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 423016,
+      "story_id": 2138,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlNiZE13cVRrekRHZV94ejIyeVFXQU5aeDFDRy1lMzB0SlhJQkNHMEdReEJpU2RqVkRucTFTUXlTcUYyNXpuMENhbnRZb1ZRYVdhZ2ZzRDh3d1dpVEplWVI2QkJxMlFpVzhwVlF4QmFZbDFnQ095QU5wOEJHeHZSeDU3WkF2QktoYTZydmdkYkxsTUJZRE5CSlRGYw?oc=5",
+      "title": "BioMar A/S : Half Year 2026 Financial Report - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T12:03:12+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlNiZE13cVRrekRHZV94ejIyeVFXQU5aeDFDRy1lMzB0SlhJQkNHMEdReEJpU2RqVkRucTFTUXlTcUYyNXpuMENhbnRZb1ZRYVdhZ2ZzRDh3d1dpVEplWVI2QkJxMlFpVzhwVlF4QmFZbDFnQ095QU5wOEJHeHZSeDU3WkF2QktoYTZydmdkYkxsTUJZRE5CSlRGYw?oc=5\" target=\"_blank\">BioMar A/S : Half Year 2026 Financial Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 423017,
+      "story_id": 2137,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkN4ak5LUm1UVkRXWDUwR2toWExJdXdFNW0yeU1WMGZMbVI2c0t1Ni1uYm5KQk9MSUJ0SGdZT0lkakoyTUdCd01sNS0zbXhWQWdVNUxhWjlCZ1FjS1g5Nlhmbzh4eGhNOWd2TXdlNHhFekNSNHRMVGU3V1pPSEJpcC1VdHRlWHM4Ym9HRnFUOS13MWl6Z3ZIbGZ5Ymg2ekM1bjhyZXRJbGdsZ2xZTXNQc3JnQWnSAboBQVVfeXFMUHRaNHZfTGZVU29mZ3k0SDgzQ3FrZ2FZX0NuOGNTUHkzeGdJR2o0UkowN0pwUzhaY1dWM1lYT3Bva1dsa1F6cFItNjExZkhqRDBuTm5GZ1kyUTA0YmxDZDlCU0ZnTmdDM2hueHVZTEhHZkJkNGJXOW5ydjJYREFNQWZnZWY3bngzQ2ZHUU44cEYtcFVWZzRDRmIxWnNxZDVGc29fcHhZbUp1ZjZ6Q2o5SHJvdHp0VmVEVVRR?oc=5",
+      "title": "Changes to full-year guidance for BioMar - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T11:38:52+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkN4ak5LUm1UVkRXWDUwR2toWExJdXdFNW0yeU1WMGZMbVI2c0t1Ni1uYm5KQk9MSUJ0SGdZT0lkakoyTUdCd01sNS0zbXhWQWdVNUxhWjlCZ1FjS1g5Nlhmbzh4eGhNOWd2TXdlNHhFekNSNHRMVGU3V1pPSEJpcC1VdHRlWHM4Ym9HRnFUOS13MWl6Z3ZIbGZ5Ymg2ekM1bjhyZXRJbGdsZ2xZTXNQc3JnQWnSAboBQVVfeXFMUHRaNHZfTGZVU29mZ3k0SDgzQ3FrZ2FZX0NuOGNTUHkzeGdJR2o0UkowN0pwUzhaY1dWM1lYT3Bva1dsa1F6cFItNjExZkhqRDBuTm5GZ1kyUTA0YmxDZDlCU0ZnTmdDM2hueHVZTEhHZkJkNGJXOW5ydjJYREFNQWZnZWY3bngzQ2ZHUU44cEYtcFVWZzRDRmIxWnNxZDVGc29fcHhZbUp1ZjZ6Q2o5SHJvdHp0VmVEVVRR?oc=5\" target=\"_blank\">Changes to full-year guidance for BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 423018,
+      "story_id": 2138,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3NWZWZ4MVBhQ2txUC1MZWJKSXd5THZBOWs0TGZjU3ZuSjFtMS1fVWVza3U3QTdDc0JRc0VrV2x2UXVra0c1UUNDTGRVMU1HRmZtNURqRnFvTnhUQWVzLTYyNkdTOEV0V24tOHRIYWE5RFcxeTBpaUdDaXBOT0lxWVdZbHdaWFpCdHhaaG9DaFFtdlF3clVsd2pTc2lGb0hoWi1KQlNySQ?oc=5",
+      "title": "BioMar A/S : Group raises full-year guidance for 2026 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T11:43:29+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3NWZWZ4MVBhQ2txUC1MZWJKSXd5THZBOWs0TGZjU3ZuSjFtMS1fVWVza3U3QTdDc0JRc0VrV2x2UXVra0c1UUNDTGRVMU1HRmZtNURqRnFvTnhUQWVzLTYyNkdTOEV0V24tOHRIYWE5RFcxeTBpaUdDaXBOT0lxWVdZbHdaWFpCdHhaaG9DaFFtdlF3clVsd2pTc2lGb0hoWi1KQlNySQ?oc=5\" target=\"_blank\">BioMar A/S : Group raises full-year guidance for 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 423177,
+      "story_id": 2135,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tQXhkbTZXemlPbUZyQURqaVFOTHR5eF82UWJlNHlseXF6TU4xNG1uRzYwdU9KTVUtYThrNVIyNlQ1NnZMbFh6OFZkTFMzQk0ydHdJVEFBQ19VNU5VUEJ3U09rRHAyc3JvcnJ5azBtcFRrNFU5QUlBci0yOU41UQ?oc=5",
+      "title": "Nærmer seg 10 milliarder i omsetning - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-10-26T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9tQXhkbTZXemlPbUZyQURqaVFOTHR5eF82UWJlNHlseXF6TU4xNG1uRzYwdU9KTVUtYThrNVIyNlQ1NnZMbFh6OFZkTFMzQk0ydHdJVEFBQ19VNU5VUEJ3U09rRHAyc3JvcnJ5azBtcFRrNFU5QUlBci0yOU41UQ?oc=5\" target=\"_blank\">Nærmer seg 10 milliarder i omsetning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+    },
+    {
+      "id": 423315,
+      "story_id": 2136,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDcwci1ONUNCcnI5X3Zrb3E0NE8yanFDcDdjNVF5UkdqMHkzUmhSN2JBWnIyMFB0UVVfYTk3WjFpSkFHdl9pTkNvWWJ3bFFSaVZzSkVsdjJQTGFHQ0VveElDei1aZERVOFJlUTJMZk1Qbkg0a0ZZSERQWWJ6OUNEUkgtbXl5RlhXa3FyTTRQU2J5NnhqU2FPblNaRENJUEhhX0FpMzBsZ2FTelB6aWE4SlZ3NE5DS0VFSV9zUHhpX0x0dw?oc=5",
+      "title": "Multi X y BioMar lanzan primer piloto de agricultura regenerativa para la cadena salmonera - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T13:39:29+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDcwci1ONUNCcnI5X3Zrb3E0NE8yanFDcDdjNVF5UkdqMHkzUmhSN2JBWnIyMFB0UVVfYTk3WjFpSkFHdl9pTkNvWWJ3bFFSaVZzSkVsdjJQTGFHQ0VveElDei1aZERVOFJlUTJMZk1Qbkg0a0ZZSERQWWJ6OUNEUkgtbXl5RlhXa3FyTTRQU2J5NnhqU2FPblNaRENJUEhhX0FpMzBsZ2FTelB6aWE4SlZ3NE5DS0VFSV9zUHhpX0x0dw?oc=5\" target=\"_blank\">Multi X y BioMar lanzan primer piloto de agricultura regenerativa para la cadena salmonera</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 423316,
+      "story_id": 2136,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOWh3cEVrM08wWC1aRWtBN0Y5LThFVWFxeGFWQTRnZ0wxZzgwX2g2TXM4WnFDTGI5cGFJV0ZQV3RydUdQc0FLM1JIck1zZVlNSnF6RWY5cmh4TUhtQVloMnpCdFdUaEM0RG9uanBsaXBmUER2YUoxM0dBOVlzOTlsN2NudkZuYjFMQV9EeGk3UWRua2djNUlfblFfNWJyRzMxYVhlSGdUT2VwODR2c2NOTXpHMndvdlAzdnJ0N0lyaTNhck1sQm1ZTm1oc29TQjVmMWItX0p5VWpzbzhqWE13M2dZa0ZDUHo3?oc=5",
+      "title": "Multi X y BioMar lanzan el primer piloto de agricultura regenerativa para la salmonicultura - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T10:10:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOWh3cEVrM08wWC1aRWtBN0Y5LThFVWFxeGFWQTRnZ0wxZzgwX2g2TXM4WnFDTGI5cGFJV0ZQV3RydUdQc0FLM1JIck1zZVlNSnF6RWY5cmh4TUhtQVloMnpCdFdUaEM0RG9uanBsaXBmUER2YUoxM0dBOVlzOTlsN2NudkZuYjFMQV9EeGk3UWRua2djNUlfblFfNWJyRzMxYVhlSGdUT2VwODR2c2NOTXpHMndvdlAzdnJ0N0lyaTNhck1sQm1ZTm1oc29TQjVmMWItX0p5VWpzbzhqWE13M2dZa0ZDUHo3?oc=5\" target=\"_blank\">Multi X y BioMar lanzan el primer piloto de agricultura regenerativa para la salmonicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 423730,
+      "story_id": 2134,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmFTdVdac1ZCU2JmZUVIVDl3TEl3Tk5rV1RQcTJDamRzaFA0OGlZanhpcU1WOUJJRWQxeGpnUTJGUzJiMWdvODFGZm9MNzA2WVZzZUZfSm81SGdNY0pmeE1mbnd3cWh4Zlc3SkVuTlFjaXJva0RQLUlpZDlJZl85ZHJMYmFLekNfNVNuVw?oc=5",
+      "title": "Dette sier landslagsspilleren om en overgang til AaFK Fortuna - aesby.no",
+      "source_name": "aesby.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-01-19T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmFTdVdac1ZCU2JmZUVIVDl3TEl3Tk5rV1RQcTJDamRzaFA0OGlZanhpcU1WOUJJRWQxeGpnUTJGUzJiMWdvODFGZm9MNzA2WVZzZUZfSm81SGdNY0pmeE1mbnd3cWh4Zlc3SkVuTlFjaXJva0RQLUlpZDlJZl85ZHJMYmFLekNfNVNuVw?oc=5\" target=\"_blank\">Dette sier landslagsspilleren om en overgang til AaFK Fortuna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aesby.no</font>"
     }
   ],
   "share_of_voice": {
@@ -101322,7 +101599,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2023-W04",
@@ -101607,7 +101884,7 @@
       {
         "week": "2023-W43",
         "Aller Aqua": 1,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -102751,7 +103028,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -102764,7 +103041,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1480
+        "count": 1487
       },
       {
         "company": "Cargill",
@@ -102776,7 +103053,7 @@
       },
       {
         "company": "Skretting",
-        "count": 906
+        "count": 907
       }
     ]
   }
