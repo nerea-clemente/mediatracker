@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T22:36:38+00:00",
+  "generated_at": "2026-08-12T06:53:21+00:00",
   "stats": {
-    "mention_count": 2815,
-    "story_count": 2108,
+    "mention_count": 2816,
+    "story_count": 2109,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -16645,6 +16645,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2131,
+      "headline": "Kan feilbalanserte fôr være årsak til sykdom hos laks? - Intrafish",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnN2dmZBQlRrR2EtdDV0TDdrdHZHWU1ZUjlHZUJzVGhVV2FOaTZMQnJLN3ZfV3hpbFB1Y3VmSURwNlczOXNlUlVMMFdRb1dWWHlTYlFSZkNnc3MxTnhSRDFZb2RkWHNhN3BNS2RkZklUSmJWRmNsN3ZhNzJ1aXNZUnRzcE00QkFWM2Y1UjFzYkN5dzNiWk0tTzQwQW9rOFE?oc=5\" target=\"_blank\">Kan feilbalanserte fôr være årsak til sykdom hos laks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
+      "first_seen": "2023-11-29T08:00:00+00:00",
+      "last_seen": "2023-11-29T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1005,
@@ -98215,6 +98229,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcFl3aXdTY1R0V2hEdExUaTRseUpjaFhuQzFoYkh4eElJX2xQQVROa25GSmdUbk9aTlpCdnl3b25FYTR5cC1CdWhzNzRtVzhyY1I5VTJ6eG9HZ3hJbG1XUjcyY1JSZVFjZjZqbG96Ui03MWx2SWU4cERDcGdwNm1GMXRwUFVPaGdQeVZEdnVITm0zSzFUdFFmN2dOMUVWODY3MWJFX2tjYVFlXzhsR3lialRTUmlQeW1rMjh4aEZDNDFQRTE3ektRVTJmQkgxTVZv?oc=5\" target=\"_blank\">Skretting Chile presenta C-GROWTH, nuevo pack de crecimiento compensatorio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 421168,
+      "story_id": 2131,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnN2dmZBQlRrR2EtdDV0TDdrdHZHWU1ZUjlHZUJzVGhVV2FOaTZMQnJLN3ZfV3hpbFB1Y3VmSURwNlczOXNlUlVMMFdRb1dWWHlTYlFSZkNnc3MxTnhSRDFZb2RkWHNhN3BNS2RkZklUSmJWRmNsN3ZhNzJ1aXNZUnRzcE00QkFWM2Y1UjFzYkN5dzNiWk0tTzQwQW9rOFE?oc=5",
+      "title": "Kan feilbalanserte fôr være årsak til sykdom hos laks? - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-11-29T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnN2dmZBQlRrR2EtdDV0TDdrdHZHWU1ZUjlHZUJzVGhVV2FOaTZMQnJLN3ZfV3hpbFB1Y3VmSURwNlczOXNlUlVMMFdRb1dWWHlTYlFSZkNnc3MxTnhSRDFZb2RkWHNhN3BNS2RkZklUSmJWRmNsN3ZhNzJ1aXNZUnRzcE00QkFWM2Y1UjFzYkN5dzNiWk0tTzQwQW9rOFE?oc=5\" target=\"_blank\">Kan feilbalanserte fôr være årsak til sykdom hos laks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>"
     }
   ],
   "share_of_voice": {
@@ -101533,7 +101571,7 @@
       {
         "week": "2023-W48",
         "Aller Aqua": 1,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -102650,7 +102688,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1478
+        "count": 1479
       },
       {
         "company": "Cargill",
