@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T06:56:34+00:00",
+  "generated_at": "2026-08-13T10:32:56+00:00",
   "stats": {
-    "mention_count": 2834,
-    "story_count": 2120,
+    "mention_count": 2838,
+    "story_count": 2123,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -346,6 +346,34 @@
   ],
   "stories": [
     {
+      "id": 2145,
+      "headline": "BioMar raises 2026 guidance after 5% volume growth - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDZpalItcGEzcHdZb21lTnNHaUdfRUc2TTJBalFvU3k1WUlpZ0ZXZGZ4eVNGM000VmQtX3ZZNXJMc3NjSk1KQnIzRUtvcTNZWnpLTG1mSURPdTlUVU9yTzlqSEFzbTF5RTV1bkJ1WE9zcmZ6eUxGZDZWclBfMkpucHpFajJ4eXBhbW9EN3dpSHJSM28?oc=5\" target=\"_blank\">BioMar raises 2026 guidance after 5% volume growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2026-08-13T09:21:32+00:00",
+      "last_seen": "2026-08-13T09:21:32+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2144,
+      "headline": "BioMar's Q2 Revenue Rises 4.8% - Seafoodnews",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmpoS1ZXcEp2bkZTR01Fa25FbDVMR2lPOERrR1dQT1ZseEVrWUdpeExTR3g5QjNJVzd3VXJ1eFRQeFhiSTREYkh4YktmT1BQYXpFMS1jT2YyVjVxTlVOaWxxMHRVOFBWY0huaXNQMFByMzFtZnlJdGxMM3B3UHBKU1JybUlwRWd6UnV3WlVR?oc=5\" target=\"_blank\">BioMar's Q2 Revenue Rises 4.8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seafoodnews</font>",
+      "first_seen": "2026-08-13T06:56:14+00:00",
+      "last_seen": "2026-08-13T06:56:14+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2123,
       "headline": "Danske Bank raises the target price for Biomar Group to 144 Danish kroner (140), reiterates buy - BN - marketscreener.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUGczZUJXV1NiTVowVFJMdVdsSG93ZHJLaExLaVA5dGVFcmMyaGJQcHY5QlFqcEVsMmNqU3FIUldVNmNiUjdaeGM2U1g0aDAwdE5XU3ZZTU02cDgwVGRDeGhUd2RrU2M0STB0Q0FrNnhOY0lqNVB0RTJfN2lJc2pmVU1fT3FGZE1QcHpCZTJSb3dISjN4VTRqYzQycXgwaWJhNXhDZDk2ckpfOFhFVWlNSmI2dFlrbFVxVlRaQXNzZzMtQVZNVFRBTVM1QmgzM0Ryb1dkTGtaNXRzTHM4RUhpQUFR?oc=5\" target=\"_blank\">Danske Bank raises the target price for Biomar Group to 144 Danish kroner (140), reiterates buy - BN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
@@ -453,7 +481,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -22206,6 +22234,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2143,
+      "headline": "Skretting construirá centro de investigación acuícola en Ecuador - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdmM3aXAtaHdqaDRRNEJqd0N1eDYyZ0E3R0ZraEZDZUJLRUQ1ck9zUlBYS2VKZUZQTHNHcThsZkllamNVQVBtQllvLTlWWm9odXp1ak9mRGFfdHFFSkM4bEx2TWRsRmVRazF6X21kMzllRzVZYjFWSHBoX0ttaTBEZ2Z6bGI4Y1RPZ0NsSm9kQXJ2M3YtNmlFSHp4OXRkQnA1NkdnOFNYS2hGcUxDa2tfaUNIbVgzVkZ6MHk3UklmUGhqamh6dGtr?oc=5\" target=\"_blank\">Skretting construirá centro de investigación acuícola en Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2021-03-04T08:00:00+00:00",
+      "last_seen": "2021-03-04T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 490,
@@ -98841,6 +98883,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbDZ1VW4yd1lURWxtQ3Jta2lfWUI2dVJoRDZDOERvTk9Gdk9lZ1hMNHhLM1RzNTJRVUJTd1RDNXNRWUVoUDJQTEIwNTlNM2NwX0RNOTVqN0RFVEpkTWhpUC1sSGJCbWg0Vy1YeERaYWZkMURZSnUySzJTVzRUcW54bjc5bjBQMld5akNRc0Y3QXgwMDhJYVNHV3U4bTlhU3dycnhyUTZwdlFOczZMU2hzbGpTd3JBTkFQYzJWajF2SDZ1OVc2VEk4c21DN0xoaHcweEpfWTI3UzNJMHcyNzlGOU5Xb3NzNVhoT1hBRQ?oc=5\" target=\"_blank\">DNB Carnegie eleva el precio objetivo de BioMar Group a 155 DKK y reitera su recomendación de compra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>"
+    },
+    {
+      "id": 426074,
+      "story_id": 2145,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDZpalItcGEzcHdZb21lTnNHaUdfRUc2TTJBalFvU3k1WUlpZ0ZXZGZ4eVNGM000VmQtX3ZZNXJMc3NjSk1KQnIzRUtvcTNZWnpLTG1mSURPdTlUVU9yTzlqSEFzbTF5RTV1bkJ1WE9zcmZ6eUxGZDZWclBfMkpucHpFajJ4eXBhbW9EN3dpSHJSM28?oc=5",
+      "title": "BioMar raises 2026 guidance after 5% volume growth - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T09:21:32+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDZpalItcGEzcHdZb21lTnNHaUdfRUc2TTJBalFvU3k1WUlpZ0ZXZGZ4eVNGM000VmQtX3ZZNXJMc3NjSk1KQnIzRUtvcTNZWnpLTG1mSURPdTlUVU9yTzlqSEFzbTF5RTV1bkJ1WE9zcmZ6eUxGZDZWclBfMkpucHpFajJ4eXBhbW9EN3dpSHJSM28?oc=5\" target=\"_blank\">BioMar raises 2026 guidance after 5% volume growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 426077,
+      "story_id": 2144,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmpoS1ZXcEp2bkZTR01Fa25FbDVMR2lPOERrR1dQT1ZseEVrWUdpeExTR3g5QjNJVzd3VXJ1eFRQeFhiSTREYkh4YktmT1BQYXpFMS1jT2YyVjVxTlVOaWxxMHRVOFBWY0huaXNQMFByMzFtZnlJdGxMM3B3UHBKU1JybUlwRWd6UnV3WlVR?oc=5",
+      "title": "BioMar's Q2 Revenue Rises 4.8% - Seafoodnews",
+      "source_name": "Seafoodnews",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-08-13T06:56:14+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmpoS1ZXcEp2bkZTR01Fa25FbDVMR2lPOERrR1dQT1ZseEVrWUdpeExTR3g5QjNJVzd3VXJ1eFRQeFhiSTREYkh4YktmT1BQYXpFMS1jT2YyVjVxTlVOaWxxMHRVOFBWY0huaXNQMFByMzFtZnlJdGxMM3B3UHBKU1JybUlwRWd6UnV3WlVR?oc=5\" target=\"_blank\">BioMar's Q2 Revenue Rises 4.8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seafoodnews</font>"
+    },
+    {
+      "id": 426083,
+      "story_id": 2137,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdFo0dl9MZlVTb2ZneTRIODNDcWtnYVlfQ244Y1NQeTN4Z0lHajRSSjA3SnBTOFpjV1YzWVhPcG9rV2xrUXpwUi02MTFmSGpEMG5ObkZnWTJRMDRibENkOUJTRmdOZ0MzaG54dVlMSEdmQmQ0Ylc5bnJ2MlhEQU1BZmdlZjdueDNDZkdRTjhwRi1wVVZnNENGYjFac3FkNUZzb19weFltSnVmNnpDajlIcm90enRWZURVVFHSAboBQVVfeXFMUHRaNHZfTGZVU29mZ3k0SDgzQ3FrZ2FZX0NuOGNTUHkzeGdJR2o0UkowN0pwUzhaY1dWM1lYT3Bva1dsa1F6cFItNjExZkhqRDBuTm5GZ1kyUTA0YmxDZDlCU0ZnTmdDM2hueHVZTEhHZkJkNGJXOW5ydjJYREFNQWZnZWY3bngzQ2ZHUU44cEYtcFVWZzRDRmIxWnNxZDVGc29fcHhZbUp1ZjZ6Q2o5SHJvdHp0VmVEVVRR?oc=5",
+      "title": "Changes to full-year guidance for BioMar - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T11:38:52+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQdFo0dl9MZlVTb2ZneTRIODNDcWtnYVlfQ244Y1NQeTN4Z0lHajRSSjA3SnBTOFpjV1YzWVhPcG9rV2xrUXpwUi02MTFmSGpEMG5ObkZnWTJRMDRibENkOUJTRmdOZ0MzaG54dVlMSEdmQmQ0Ylc5bnJ2MlhEQU1BZmdlZjdueDNDZkdRTjhwRi1wVVZnNENGYjFac3FkNUZzb19weFltSnVmNnpDajlIcm90enRWZURVVFHSAboBQVVfeXFMUHRaNHZfTGZVU29mZ3k0SDgzQ3FrZ2FZX0NuOGNTUHkzeGdJR2o0UkowN0pwUzhaY1dWM1lYT3Bva1dsa1F6cFItNjExZkhqRDBuTm5GZ1kyUTA0YmxDZDlCU0ZnTmdDM2hueHVZTEhHZkJkNGJXOW5ydjJYREFNQWZnZWY3bngzQ2ZHUU44cEYtcFVWZzRDRmIxWnNxZDVGc29fcHhZbUp1ZjZ6Q2o5SHJvdHp0VmVEVVRR?oc=5\" target=\"_blank\">Changes to full-year guidance for BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 426935,
+      "story_id": 2143,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdmM3aXAtaHdqaDRRNEJqd0N1eDYyZ0E3R0ZraEZDZUJLRUQ1ck9zUlBYS2VKZUZQTHNHcThsZkllamNVQVBtQllvLTlWWm9odXp1ak9mRGFfdHFFSkM4bEx2TWRsRmVRazF6X21kMzllRzVZYjFWSHBoX0ttaTBEZ2Z6bGI4Y1RPZ0NsSm9kQXJ2M3YtNmlFSHp4OXRkQnA1NkdnOFNYS2hGcUxDa2tfaUNIbVgzVkZ6MHk3UklmUGhqamh6dGtr?oc=5",
+      "title": "Skretting construirá centro de investigación acuícola en Ecuador - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-03-04T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPdmM3aXAtaHdqaDRRNEJqd0N1eDYyZ0E3R0ZraEZDZUJLRUQ1ck9zUlBYS2VKZUZQTHNHcThsZkllamNVQVBtQllvLTlWWm9odXp1ak9mRGFfdHFFSkM4bEx2TWRsRmVRazF6X21kMzllRzVZYjFWSHBoX0ttaTBEZ2Z6bGI4Y1RPZ0NsSm9kQXJ2M3YtNmlFSHp4OXRkQnA1NkdnOFNYS2hGcUxDa2tfaUNIbVgzVkZ6MHk3UklmUGhqamh6dGtr?oc=5\" target=\"_blank\">Skretting construirá centro de investigación acuícola en Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
     }
   ],
   "share_of_voice": {
@@ -101154,7 +101292,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2021-W10",
@@ -103263,7 +103401,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 18,
+        "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -103276,7 +103414,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1495
+        "count": 1498
       },
       {
         "company": "Cargill",
@@ -103288,7 +103426,7 @@
       },
       {
         "company": "Skretting",
-        "count": 907
+        "count": 908
       }
     ]
   }
