@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T22:35:24+00:00",
+  "generated_at": "2026-08-13T06:56:34+00:00",
   "stats": {
-    "mention_count": 2829,
-    "story_count": 2119,
+    "mention_count": 2834,
+    "story_count": 2120,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -310,6 +310,7 @@
     "elDiario.es",
     "elciudadano.com",
     "eltelegrafo.com.ec",
+    "es.tradingview.com",
     "espana.gastronomia.com",
     "explora.cl",
     "expreso.ec",
@@ -345,6 +346,34 @@
   ],
   "stories": [
     {
+      "id": 2123,
+      "headline": "Danske Bank raises the target price for Biomar Group to 144 Danish kroner (140), reiterates buy - BN - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUGczZUJXV1NiTVowVFJMdVdsSG93ZHJLaExLaVA5dGVFcmMyaGJQcHY5QlFqcEVsMmNqU3FIUldVNmNiUjdaeGM2U1g0aDAwdE5XU3ZZTU02cDgwVGRDeGhUd2RrU2M0STB0Q0FrNnhOY0lqNVB0RTJfN2lJc2pmVU1fT3FGZE1QcHpCZTJSb3dISjN4VTRqYzQycXgwaWJhNXhDZDk2ckpfOFhFVWlNSmI2dFlrbFVxVlRaQXNzZzMtQVZNVFRBTVM1QmgzM0Ryb1dkTGtaNXRzTHM4RUhpQUFR?oc=5\" target=\"_blank\">Danske Bank raises the target price for Biomar Group to 144 Danish kroner (140), reiterates buy - BN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-08-10T07:13:14+00:00",
+      "last_seen": "2026-08-13T05:27:19+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2142,
+      "headline": "DNB Carnegie eleva el precio objetivo de BioMar Group a 155 DKK y reitera su recomendación de compra - MarketScreener España",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbDZ1VW4yd1lURWxtQ3Jta2lfWUI2dVJoRDZDOERvTk9Gdk9lZ1hMNHhLM1RzNTJRVUJTd1RDNXNRWUVoUDJQTEIwNTlNM2NwX0RNOTVqN0RFVEpkTWhpUC1sSGJCbWg0Vy1YeERaYWZkMURZSnUySzJTVzRUcW54bjc5bjBQMld5akNRc0Y3QXgwMDhJYVNHV3U4bTlhU3dycnhyUTZwdlFOczZMU2hzbGpTd3JBTkFQYzJWajF2SDZ1OVc2VEk4c21DN0xoaHcweEpfWTI3UzNJMHcyNzlGOU5Xb3NzNVhoT1hBRQ?oc=5\" target=\"_blank\">DNB Carnegie eleva el precio objetivo de BioMar Group a 155 DKK y reitera su recomendación de compra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
+      "first_seen": "2026-08-13T05:27:19+00:00",
+      "last_seen": "2026-08-13T05:27:19+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2141,
       "headline": "BioMar rides shrimp wave through turbulent aquafeed market - intrafish.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGdURVlodFFFcjd4ZlRCTXJUM0F0d21tOWR2RXpYQ0tRaVIyQ0RkMW5hT1dCOEZSRXRCb3N6QU1QdXdGeGZRYzZSc0s4STlOTkpQbkprUzVHVGtPclE3TkF0UDNkc2VRVEpXT1BEb1RnU2FmNWF5X09DdFhfenJuMWIxNTJsMWVDN0RxMUR1S0JEXzRpRUFrTm5HTjdZT25CWmlV?oc=5\" target=\"_blank\">BioMar rides shrimp wave through turbulent aquafeed market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
@@ -377,12 +406,12 @@
       "headline": "Multi X y BioMar lanzan el primer piloto de agricultura regenerativa para la salmonicultura - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOWh3cEVrM08wWC1aRWtBN0Y5LThFVWFxeGFWQTRnZ0wxZzgwX2g2TXM4WnFDTGI5cGFJV0ZQV3RydUdQc0FLM1JIck1zZVlNSnF6RWY5cmh4TUhtQVloMnpCdFdUaEM0RG9uanBsaXBmUER2YUoxM0dBOVlzOTlsN2NudkZuYjFMQV9EeGk3UWRua2djNUlfblFfNWJyRzMxYVhlSGdUT2VwODR2c2NOTXpHMndvdlAzdnJ0N0lyaTNhck1sQm1ZTm1oc29TQjVmMWItX0p5VWpzbzhqWE13M2dZa0ZDUHo3?oc=5\" target=\"_blank\">Multi X y BioMar lanzan el primer piloto de agricultura regenerativa para la salmonicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2026-08-12T10:10:00+00:00",
-      "last_seen": "2026-08-12T13:39:29+00:00",
+      "last_seen": "2026-08-12T16:11:12+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -396,7 +425,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -462,20 +491,6 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOblZDQlpFcUM5WWROdGRlVHV1MGs4MEwtc3NESFEzQ2NOZjNMR1Y5NWxMazQtZWFjcEtBOTF6b1VqQXM3X1RmUGcxOURYcjRHc0I3WkhlVl8tS3FBbmJlaW5pX0E3U184ZGNQTjd3NE1XaW1iSnQ2UkdsOVF1a29sMnpkT1otWkZHQkNIZEE1VkhDNDRFMlFEbHYtajRZQjNKMmJ3U2hvSFRjY0RIcXY1clM5V21MWjRKdk4xeUZZUU9LNHM2NGlQcFhhdXRIdjNBWmcwVlBrMzRoRjRTVXg5cGxfT3Q1VXFr?oc=5\" target=\"_blank\">Danske Bank eleva el precio objetivo de Schouw & Co. hasta las 835 DKK y reitera su recomendación de compra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
       "first_seen": "2026-08-10T07:14:30+00:00",
       "last_seen": "2026-08-10T07:14:30+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2123,
-      "headline": "Danske Bank raises the target price for Biomar Group to 144 Danish kroner (140), reiterates buy - BN - marketscreener.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUGczZUJXV1NiTVowVFJMdVdsSG93ZHJLaExLaVA5dGVFcmMyaGJQcHY5QlFqcEVsMmNqU3FIUldVNmNiUjdaeGM2U1g0aDAwdE5XU3ZZTU02cDgwVGRDeGhUd2RrU2M0STB0Q0FrNnhOY0lqNVB0RTJfN2lJc2pmVU1fT3FGZE1QcHpCZTJSb3dISjN4VTRqYzQycXgwaWJhNXhDZDk2ckpfOFhFVWlNSmI2dFlrbFVxVlRaQXNzZzMtQVZNVFRBTVM1QmgzM0Ryb1dkTGtaNXRzTHM4RUhpQUFR?oc=5\" target=\"_blank\">Danske Bank raises the target price for Biomar Group to 144 Danish kroner (140), reiterates buy - BN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-      "first_seen": "2026-08-10T07:13:14+00:00",
-      "last_seen": "2026-08-10T07:13:14+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -98706,6 +98721,126 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tOENkYXloS3FjREx4cmM5S1QzY0d5U00zZnJXNUxxNElidlJmVUtMWWZmZUJ3YnlJWVczenROTWVXclRkUy1vcVBBem5RaFZtQ2FZNnd2YS1OSVZVdERsaVNEWng?oc=5\" target=\"_blank\">BIO Mar 2027 390.000 call (BIO270319C00390000) stock price, news, quote and history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>"
+    },
+    {
+      "id": 425056,
+      "story_id": 2123,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNV9jLTRpRkFMMDVIcS1xaGdGMVBydi1JNkdFSFItTWEzMUVMOGlzdHhBSXZ1MGpsMGpRWnptdnBHZGNGSEw3VUhaYnpxQnBhZ3Uxb2FmY1lPZGlCVHFCS1czYk9rcHk2S0Y4RmlhZDNxcXRQTXZVTTdyQUgtVm1yU29QSmZreFhiajRRTEdNdXhBZUphbGlpaGlVUXlBamVia1hKcTByWHNJYnpPYkpoall6LTNIRzNBNFpyQmZUcnZTSVZzVFBrRDgtLXdfSHdsR3A2Wi1wck5jNmNSYU1n?oc=5",
+      "title": "DNB Carnegie raises the target price for Biomar Group to 155 Danish kroner (150), reiterates buy - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T05:27:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNV9jLTRpRkFMMDVIcS1xaGdGMVBydi1JNkdFSFItTWEzMUVMOGlzdHhBSXZ1MGpsMGpRWnptdnBHZGNGSEw3VUhaYnpxQnBhZ3Uxb2FmY1lPZGlCVHFCS1czYk9rcHk2S0Y4RmlhZDNxcXRQTXZVTTdyQUgtVm1yU29QSmZreFhiajRRTEdNdXhBZUphbGlpaGlVUXlBamVia1hKcTByWHNJYnpPYkpoall6LTNIRzNBNFpyQmZUcnZTSVZzVFBrRDgtLXdfSHdsR3A2Wi1wck5jNmNSYU1n?oc=5\" target=\"_blank\">DNB Carnegie raises the target price for Biomar Group to 155 Danish kroner (150), reiterates buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 425061,
+      "story_id": 2123,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2w3M0k0X19XSWM2U2w4OHdJaTdLUXVvZ3ZlNk5yY2lYMlNrc1dsWC1SeUFweG9YOWlyLTlsOUhxek9EclpvOFpwNUdnZzMxUDM3c0lQcWVhbjcta2Y3LVhVM1o4bnZFcnQzdHhHS2lNcGc1Q1ZNY1p4VURmNERNb0JTZklYS2tGdEVNTzYyMXpwYVJZMjFEalEyZzlJYW1OTGFxSEc0VzVvQzczcXc5dGZGeXBVeXctdkVNODU3bFI1NW51UUNBSDRpN0tQbURpN1ZtNjQ0NTItVmF4aGZtYkJ2c1U?oc=5",
+      "title": "Pareto Securities raises the price target for Biomar Group to 129 Danish kroner (128), reiterates buy - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T04:48:16+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2w3M0k0X19XSWM2U2w4OHdJaTdLUXVvZ3ZlNk5yY2lYMlNrc1dsWC1SeUFweG9YOWlyLTlsOUhxek9EclpvOFpwNUdnZzMxUDM3c0lQcWVhbjcta2Y3LVhVM1o4bnZFcnQzdHhHS2lNcGc1Q1ZNY1p4VURmNERNb0JTZklYS2tGdEVNTzYyMXpwYVJZMjFEalEyZzlJYW1OTGFxSEc0VzVvQzczcXc5dGZGeXBVeXctdkVNODU3bFI1NW51UUNBSDRpN0tQbURpN1ZtNjQ0NTItVmF4aGZtYkJ2c1U?oc=5\" target=\"_blank\">Pareto Securities raises the price target for Biomar Group to 129 Danish kroner (128), reiterates buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 425357,
+      "story_id": 2136,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzlmcENFN2JHNnJvOFZBR3pNeWRLZG1ET19veXBZS01jam5sU1ItNlVnRXVySHE2UTFrTkxMa1JRMnNQSlpnVkl6YmstX3BxT0Rncmx2ZzlsZEVxMEhMODhBZHN5OFhKdGxrNkdpY3djWkNtR0dyX3NBR0lmMTREcXZOMm1oVDgySXBNNDNMaTJJdnlSMkRXVjg1dzBRdw?oc=5",
+      "title": "Multi X y BioMar impulsan agricultura regenerativa para la cadena del salmón - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T16:11:12+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQXzlmcENFN2JHNnJvOFZBR3pNeWRLZG1ET19veXBZS01jam5sU1ItNlVnRXVySHE2UTFrTkxMa1JRMnNQSlpnVkl6YmstX3BxT0Rncmx2ZzlsZEVxMEhMODhBZHN5OFhKdGxrNkdpY3djWkNtR0dyX3NBR0lmMTREcXZOMm1oVDgySXBNNDNMaTJJdnlSMkRXVjg1dzBRdw?oc=5\" target=\"_blank\">Multi X y BioMar impulsan agricultura regenerativa para la cadena del salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 425358,
+      "story_id": 2139,
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMTZkdm4xR2JxOUluVE0tUHF5azdJam9TYTJnbXVYT3BCVWxJZlV2U21TdnlaTXJpcXBnOGN4OURNdlRNLWdYNEU5aER2d1hFUmRVejdrcFN6R1pZd29tVnEzNVQxUTc3anMyMk5wSkc3N050alNBRnRiREJPWnZPS3ZOWGExaW5HYTNWSWhPa0ZEQllTeU1ISUpaUEpTT0dXWGRwM3BzUG5aV3o1eGc0Mm5yY3gwWGFWR01jQkdtZnFfN2I3dUk3dnZTdERPNlFxMWlybUhXaVY2NC1oUV9Qb3NXRjVoSFMxT3VobjhsUWh1MkxnQkRFQ3NNZVdqWldWVHFsRzFOaw?oc=5",
+      "title": "BIOMAR: Upgraded 2026 guidance after strong Q2 volume and revenue growth, despite cost pressures - es.tradingview.com",
+      "source_name": "es.tradingview.com",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T12:07:39+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNMTZkdm4xR2JxOUluVE0tUHF5azdJam9TYTJnbXVYT3BCVWxJZlV2U21TdnlaTXJpcXBnOGN4OURNdlRNLWdYNEU5aER2d1hFUmRVejdrcFN6R1pZd29tVnEzNVQxUTc3anMyMk5wSkc3N050alNBRnRiREJPWnZPS3ZOWGExaW5HYTNWSWhPa0ZEQllTeU1ISUpaUEpTT0dXWGRwM3BzUG5aV3o1eGc0Mm5yY3gwWGFWR01jQkdtZnFfN2I3dUk3dnZTdERPNlFxMWlybUhXaVY2NC1oUV9Qb3NXRjVoSFMxT3VobjhsUWh1MkxnQkRFQ3NNZVdqWldWVHFsRzFOaw?oc=5\" target=\"_blank\">BIOMAR: Upgraded 2026 guidance after strong Q2 volume and revenue growth, despite cost pressures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.tradingview.com</font>"
+    },
+    {
+      "id": 425359,
+      "story_id": 2142,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbDZ1VW4yd1lURWxtQ3Jta2lfWUI2dVJoRDZDOERvTk9Gdk9lZ1hMNHhLM1RzNTJRVUJTd1RDNXNRWUVoUDJQTEIwNTlNM2NwX0RNOTVqN0RFVEpkTWhpUC1sSGJCbWg0Vy1YeERaYWZkMURZSnUySzJTVzRUcW54bjc5bjBQMld5akNRc0Y3QXgwMDhJYVNHV3U4bTlhU3dycnhyUTZwdlFOczZMU2hzbGpTd3JBTkFQYzJWajF2SDZ1OVc2VEk4c21DN0xoaHcweEpfWTI3UzNJMHcyNzlGOU5Xb3NzNVhoT1hBRQ?oc=5",
+      "title": "DNB Carnegie eleva el precio objetivo de BioMar Group a 155 DKK y reitera su recomendación de compra - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-08-13T05:27:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbDZ1VW4yd1lURWxtQ3Jta2lfWUI2dVJoRDZDOERvTk9Gdk9lZ1hMNHhLM1RzNTJRVUJTd1RDNXNRWUVoUDJQTEIwNTlNM2NwX0RNOTVqN0RFVEpkTWhpUC1sSGJCbWg0Vy1YeERaYWZkMURZSnUySzJTVzRUcW54bjc5bjBQMld5akNRc0Y3QXgwMDhJYVNHV3U4bTlhU3dycnhyUTZwdlFOczZMU2hzbGpTd3JBTkFQYzJWajF2SDZ1OVc2VEk4c21DN0xoaHcweEpfWTI3UzNJMHcyNzlGOU5Xb3NzNVhoT1hBRQ?oc=5\" target=\"_blank\">DNB Carnegie eleva el precio objetivo de BioMar Group a 155 DKK y reitera su recomendación de compra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>"
     }
   ],
   "share_of_voice": {
@@ -103128,7 +103263,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 13,
+        "BioMar": 18,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -103141,7 +103276,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1490
+        "count": 1495
       },
       {
         "company": "Cargill",
