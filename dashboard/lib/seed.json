@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T22:17:30+00:00",
+  "generated_at": "2026-08-15T05:50:50+00:00",
   "stats": {
-    "mention_count": 2873,
-    "story_count": 2143,
+    "mention_count": 2876,
+    "story_count": 2146,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -218,6 +218,7 @@
     "Radio Nordkapp",
     "RadioSago",
     "Rana Blad",
+    "Refindustry",
     "Reuters",
     "Revelio Labs",
     "Revista Mercado",
@@ -322,6 +323,7 @@
     "hitra-froya.no",
     "iFinnmark",
     "iLaks",
+    "jbl.no",
     "kalkine.ca",
     "kampanje.com",
     "kulingen.no",
@@ -428,6 +430,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2168,
+      "headline": "SCHO: Q2 delivered strong growth, raised guidance, and lower leverage, led by BioMar and HydraSpecma - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcUNxa1lIZ3dJVDI3SktBTktvakk4ZWxLOVpsamRILUxNRUs5anpnWENVcENoam9CS0ZwcFNCTTFSbVdPR3E0czJLRXRqRDF4T0pkZ000M0t1b2tQMmNwWDBfVFUzS3VFZUNpV1djZXhsM0t0QkxLUC03Q0cwT0x0NktOek1pRWV0VU9oekVtcFhTaS1PS3RjSUFEMFhVdEZwNG5ZYTRwVi1oQzQzMk85anU2aWhQMHUxYkFIM1cyNG1IZFp0UW1kSGRNSm1ETUMtbWptNjVyU1JsNUl1Q3RrUFpDdFZpWDlDWDFFOHBiRGRSa0NFOVVqVnJJSW5BeUpUQ21OQnJ6SFgwcHM?oc=5\" target=\"_blank\">SCHO: Q2 delivered strong growth, raised guidance, and lower leverage, led by BioMar and HydraSpecma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-08-14T10:34:40+00:00",
+      "last_seen": "2026-08-14T10:34:40+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2157,
@@ -8988,6 +9004,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDk0SEFjR2xnZjBjWmE5V28wam03TkEtLXc1ZEtkVi1jdmYySkJRX012djVEb28tcF84YzFrQTZhV0pZbzRrWmlOZEdFRkhkNVUtSFVOM0I1V0pOOHhCUmVfTFgtLUUwaXRtWXNUYlN2S25rQjVNeUUxVDhnMkRFZnhSeFZORjhZS3hJblB5VkR2ZUtvMy1DcXdicDNEd2dxb29EblVieUJvTkJ0NVJISWh5QmNHUW9mbm5XQ0p4cmhEVkM1N3Z6RVZn?oc=5\" target=\"_blank\">Phytotechnology solutions to improve resilience and sustainability in aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
       "first_seen": "2025-11-03T08:00:00+00:00",
       "last_seen": "2025-11-03T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2167,
+      "headline": "Bolig og eigedom, Hå | Åtvarar mot sentrumsplanar: – Ekskluderer halve bygda - jbl.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGxidGJib1JhamY1Rm5CVmUxclBsblJTZkhPdWxKVEItTHdvMzJUcURWQUhqcDI5MllkR1lubnFjamFHT0N1RDNXZ2Z3SzdEbXd1NUJtU1A2b1I5OGdkcGVsdmlHR2EwbmllcERtTkFNWFNrSlJQNF9XV1d4T2VLTjN3TFlwXzA5NkotaWtB?oc=5\" target=\"_blank\">Bolig og eigedom, Hå | Åtvarar mot sentrumsplanar: – Ekskluderer halve bygda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jbl.no</font>",
+      "first_seen": "2025-11-02T07:00:00+00:00",
+      "last_seen": "2025-11-02T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -20895,6 +20925,20 @@
       "id": 935,
       "headline": "Sørensen nominated as Danfoss chairman - Cooling Post",
       "story_summary": "Jens Bjerg Sørensen, president of Schouw & Co, has been nominated as chairman of Danfoss. The article reports on this corporate governance appointment in the cooling and refrigeration sector.\n\nThis is relevant to BioMar's parent company but does not directly concern BioMar's operations or products.\n\nNote: The provided excerpt is limited and does not include the full article text, so the summary is based on the title and context alone.",
+      "first_seen": "2022-03-21T07:00:00+00:00",
+      "last_seen": "2022-03-21T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2166,
+      "headline": "Jørgen Mads Clausen resigns as Chairman of the Board of Danfoss A/S in connection with the Annual General Meeting - Refindustry",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2NGRHdlZ0ZlMno5dDZjdkViV1I0NDBpYzNrYjBOUUN0OGFCUTE2bkVGUFFPa0pGZUFiVGNUd0Z1WmYtVlExazhaR2xubFB2N1hERC15T3U0eHM2U0oyTDNMai1kTC1iX3hKZFZaWjRxWmZQOUdHWHlSN1dpOXBZY0gzWnc1MVFjQ3J1el9OZXpKbGlwTmVma1FHbjNNb3g5SkJTY09naF82TWVQZDFrclZZWWtKOGZMU3ZBeGViWUpHSzlGN2hrZ2NB?oc=5\" target=\"_blank\">Jørgen Mads Clausen resigns as Chairman of the Board of Danfoss A/S in connection with the Annual General Meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Refindustry</font>",
       "first_seen": "2022-03-21T07:00:00+00:00",
       "last_seen": "2022-03-21T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -100099,6 +100143,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0RBYl9CTmU2Y0JHNU5iYVluRkNKYU1BN3NLeHNHX0J1SWhrd2c0d1FLaTNiOHFZN0pacXA5bk53NXpFNzRmd2h3VldneFdCQ2lZR3M0aTJPY3BheXMzbXFEZ0RGSlYzY0FkNXJZbWh0Vy1zRk9od1pTMW9sQ2R6ZEFUcklnSDJMN2s3WDBYU2I4MDBhX3BKeXZQN1dVdDh4M0kwVDRMVzBQaFZuWUtVSkpXNA?oc=5\" target=\"_blank\">Schouw & Co. Raises Its Full-Year 2026 Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 433240,
+      "story_id": 2168,
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcUNxa1lIZ3dJVDI3SktBTktvakk4ZWxLOVpsamRILUxNRUs5anpnWENVcENoam9CS0ZwcFNCTTFSbVdPR3E0czJLRXRqRDF4T0pkZ000M0t1b2tQMmNwWDBfVFUzS3VFZUNpV1djZXhsM0t0QkxLUC03Q0cwT0x0NktOek1pRWV0VU9oekVtcFhTaS1PS3RjSUFEMFhVdEZwNG5ZYTRwVi1oQzQzMk85anU2aWhQMHUxYkFIM1cyNG1IZFp0UW1kSGRNSm1ETUMtbWptNjVyU1JsNUl1Q3RrUFpDdFZpWDlDWDFFOHBiRGRSa0NFOVVqVnJJSW5BeUpUQ21OQnJ6SFgwcHM?oc=5",
+      "title": "SCHO: Q2 delivered strong growth, raised guidance, and lower leverage, led by BioMar and HydraSpecma - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T10:34:40+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcUNxa1lIZ3dJVDI3SktBTktvakk4ZWxLOVpsamRILUxNRUs5anpnWENVcENoam9CS0ZwcFNCTTFSbVdPR3E0czJLRXRqRDF4T0pkZ000M0t1b2tQMmNwWDBfVFUzS3VFZUNpV1djZXhsM0t0QkxLUC03Q0cwT0x0NktOek1pRWV0VU9oekVtcFhTaS1PS3RjSUFEMFhVdEZwNG5ZYTRwVi1oQzQzMk85anU2aWhQMHUxYkFIM1cyNG1IZFp0UW1kSGRNSm1ETUMtbWptNjVyU1JsNUl1Q3RrUFpDdFZpWDlDWDFFOHBiRGRSa0NFOVVqVnJJSW5BeUpUQ21OQnJ6SFgwcHM?oc=5\" target=\"_blank\">SCHO: Q2 delivered strong growth, raised guidance, and lower leverage, led by BioMar and HydraSpecma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 433743,
+      "story_id": 2166,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2NGRHdlZ0ZlMno5dDZjdkViV1I0NDBpYzNrYjBOUUN0OGFCUTE2bkVGUFFPa0pGZUFiVGNUd0Z1WmYtVlExazhaR2xubFB2N1hERC15T3U0eHM2U0oyTDNMai1kTC1iX3hKZFZaWjRxWmZQOUdHWHlSN1dpOXBZY0gzWnc1MVFjQ3J1el9OZXpKbGlwTmVma1FHbjNNb3g5SkJTY09naF82TWVQZDFrclZZWWtKOGZMU3ZBeGViWUpHSzlGN2hrZ2NB?oc=5",
+      "title": "Jørgen Mads Clausen resigns as Chairman of the Board of Danfoss A/S in connection with the Annual General Meeting - Refindustry",
+      "source_name": "Refindustry",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2022-03-21T07:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2NGRHdlZ0ZlMno5dDZjdkViV1I0NDBpYzNrYjBOUUN0OGFCUTE2bkVGUFFPa0pGZUFiVGNUd0Z1WmYtVlExazhaR2xubFB2N1hERC15T3U0eHM2U0oyTDNMai1kTC1iX3hKZFZaWjRxWmZQOUdHWHlSN1dpOXBZY0gzWnc1MVFjQ3J1el9OZXpKbGlwTmVma1FHbjNNb3g5SkJTY09naF82TWVQZDFrclZZWWtKOGZMU3ZBeGViWUpHSzlGN2hrZ2NB?oc=5\" target=\"_blank\">Jørgen Mads Clausen resigns as Chairman of the Board of Danfoss A/S in connection with the Annual General Meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Refindustry</font>"
+    },
+    {
+      "id": 433890,
+      "story_id": 2167,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGxidGJib1JhamY1Rm5CVmUxclBsblJTZkhPdWxKVEItTHdvMzJUcURWQUhqcDI5MllkR1lubnFjamFHT0N1RDNXZ2Z3SzdEbXd1NUJtU1A2b1I5OGdkcGVsdmlHR2EwbmllcERtTkFNWFNrSlJQNF9XV1d4T2VLTjN3TFlwXzA5NkotaWtB?oc=5",
+      "title": "Bolig og eigedom, Hå | Åtvarar mot sentrumsplanar: – Ekskluderer halve bygda - jbl.no",
+      "source_name": "jbl.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-11-02T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGxidGJib1JhamY1Rm5CVmUxclBsblJTZkhPdWxKVEItTHdvMzJUcURWQUhqcDI5MllkR1lubnFjamFHT0N1RDNXZ2Z3SzdEbXd1NUJtU1A2b1I5OGdkcGVsdmlHR2EwbmllcERtTkFNWFNrSlJQNF9XV1d4T2VLTjN3TFlwXzA5NkotaWtB?oc=5\" target=\"_blank\">Bolig og eigedom, Hå | Åtvarar mot sentrumsplanar: – Ekskluderer halve bygda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jbl.no</font>"
     }
   ],
   "share_of_voice": {
@@ -102777,7 +102893,7 @@
       {
         "week": "2022-W12",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
@@ -104196,7 +104312,7 @@
         "BioMar": 8,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2025-W45",
@@ -104521,7 +104637,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 48,
+        "BioMar": 49,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -104534,7 +104650,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1529
+        "count": 1531
       },
       {
         "company": "Cargill",
@@ -104546,7 +104662,7 @@
       },
       {
         "company": "Skretting",
-        "count": 912
+        "count": 913
       }
     ]
   }
