@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T09:46:00+00:00",
+  "generated_at": "2026-08-15T16:26:25+00:00",
   "stats": {
-    "mention_count": 2879,
-    "story_count": 2148,
+    "mention_count": 2880,
+    "story_count": 2149,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -323,6 +323,7 @@
     "hitra-froya.no",
     "iFinnmark",
     "iLaks",
+    "intrafish.no",
     "jbl.no",
     "kalkine.ca",
     "kampanje.com",
@@ -21970,6 +21971,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 2171,
+      "headline": "Skretting har ansatt Truls Dahl i ny stilling - intrafish.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFhWNTRZSjZyTk5NSEZjM3hsSktpdnhXYlJXZEV0dXJRQURIQWRyZlJFVU5aRDZ5NnJaTzFlSFFNTDBmOHpxR3U4QkVGbExKUzNRTjJPTTV2eWNsX1VnY3M0RWpZUzJqbXFsSjV1d290MW9meDBVS0RTMFkzQVdrdEdsdUNYWVRPcDZkWmV4T1lhaWJmTDctMg?oc=5\" target=\"_blank\">Skretting har ansatt Truls Dahl i ny stilling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.no</font>",
+      "first_seen": "2021-08-20T07:00:00+00:00",
+      "last_seen": "2021-08-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 496,
@@ -100315,6 +100330,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYVEyVTBEbnp3V1Z2Rmc3aUg2b2xrNEZXRGlQRjVQUFBUSkJValQxeTNWNnktUk5GUHBiQWJNdTFyOFlleDFxUlJIQ2s0bzdnWHhpSk5jeXhyTmVXNVg2cGRVekNLT0dGOFNMSHVHWWR2MDN0NTVXakg4NVc0bTVaTTVXeWZrR210Q1EtVlRXYnQxeHJaYkYtQS1iNURFUTN6Z3lrUHdzeW9uOXIyX2RTSXpYVGNGMm5vNzlKV2R5aWhpQ1p0OEZnOENKZ1hUck80NmdUcGR3MnBoNUtlWTQ4b2JKYXk1Mk9z?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co. presenta sus resultados del segundo trimestre y del primer semestre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>"
+    },
+    {
+      "id": 435979,
+      "story_id": 2171,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFhWNTRZSjZyTk5NSEZjM3hsSktpdnhXYlJXZEV0dXJRQURIQWRyZlJFVU5aRDZ5NnJaTzFlSFFNTDBmOHpxR3U4QkVGbExKUzNRTjJPTTV2eWNsX1VnY3M0RWpZUzJqbXFsSjV1d290MW9meDBVS0RTMFkzQVdrdEdsdUNYWVRPcDZkWmV4T1lhaWJmTDctMg?oc=5",
+      "title": "Skretting har ansatt Truls Dahl i ny stilling - intrafish.no",
+      "source_name": "intrafish.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2021-08-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFhWNTRZSjZyTk5NSEZjM3hsSktpdnhXYlJXZEV0dXJRQURIQWRyZlJFVU5aRDZ5NnJaTzFlSFFNTDBmOHpxR3U4QkVGbExKUzNRTjJPTTV2eWNsX1VnY3M0RWpZUzJqbXFsSjV1d290MW9meDBVS0RTMFkzQVdrdEdsdUNYWVRPcDZkWmV4T1lhaWJmTDctMg?oc=5\" target=\"_blank\">Skretting har ansatt Truls Dahl i ny stilling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.no</font>"
     }
   ],
   "share_of_voice": {
@@ -102780,7 +102819,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2021-W34",
@@ -104762,7 +104801,7 @@
       },
       {
         "company": "Skretting",
-        "count": 913
+        "count": 914
       }
     ]
   }
