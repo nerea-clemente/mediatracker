@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-15T22:19:02+00:00",
+  "generated_at": "2026-08-16T05:53:34+00:00",
   "stats": {
-    "mention_count": 2880,
-    "story_count": 2149,
+    "mention_count": 2892,
+    "story_count": 2155,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -33,6 +33,7 @@
     "BioBioChile",
     "BioProcess International",
     "Biomass Magazine",
+    "Bitget",
     "Bladet Vesterålen",
     "Bloomberg.com",
     "BriefGlance",
@@ -349,6 +350,34 @@
   ],
   "stories": [
     {
+      "id": 2122,
+      "headline": "Operating margin % of Schouw & Co – TRADEGATE:5RF - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWlF6UFN6TG9pTl9Za1FHWExwOHVQUEZ1Qm9aYk5OTWVPTVVGdFJJMDEya2FCNVI1ai1fTW8wYVlxMTV1aXV1ZlMyeVJnZGx3SUFPZGxoVUx3RWhjcnIxeFhSMG14MUdWMUg4TzJodFhFeWp6X1BwT3cxeFhwR1lLM3pCLWdTdDlTNllUZklucmRVVXZkdEF2a1k0bkRUMG5oMUE?oc=5\" target=\"_blank\">Operating margin % of Schouw & Co – TRADEGATE:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-08-10T03:01:29+00:00",
+      "last_seen": "2026-08-14T23:58:15+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2162,
+      "headline": "Transcript : Aktieselskabet Schouw & Co., Q2 2026 Earnings Call, Aug 14, 2026 - MarketScreener España",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRTNYWnVKcUh6dEdad1FsdExiaXZaVzdodmotczM1TkN0Uk0yODRmeDR0dGgzVnpFcktURGRrRnh3OTNPVTJmdnRFQy1kNjhCaGVwNlhYeGViV1p3M1Z0cVZ6bUM0UGxuV01jNjJseV9VdDU5enVaT05rN2R0cUVYQ2tJejFsYWt3TDYwS09YOFBLaVF3dHlSbXJWQ2ZJUVBWd3pMWm1LQ2R1bTNMYnJnZFJtVXVqdjdpQWpKSmNWWUFXQ0lTUHZnbnFtQkVBU3RrUkxkUDZyXzhGSmQxVC1YazJCTWVzLXRvcnI2YXdTTUpVQmNEQlNHUmtCZjA?oc=5\" target=\"_blank\">Transcript : Aktieselskabet Schouw & Co., Q2 2026 Earnings Call, Aug 14, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
+      "first_seen": "2026-08-14T13:37:00+00:00",
+      "last_seen": "2026-08-14T18:37:05+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2170,
       "headline": "Aktieselskabet Schouw & Co. presenta sus resultados del segundo trimestre y del primer semestre de 2026 - MarketScreener España",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYVEyVTBEbnp3V1Z2Rmc3aUg2b2xrNEZXRGlQRjVQUFBUSkJValQxeTNWNnktUk5GUHBiQWJNdTFyOFlleDFxUlJIQ2s0bzdnWHhpSk5jeXhyTmVXNVg2cGRVekNLT0dGOFNMSHVHWWR2MDN0NTVXakg4NVc0bTVaTTVXeWZrR210Q1EtVlRXYnQxeHJaYkYtQS1iNURFUTN6Z3lrUHdzeW9uOXIyX2RTSXpYVGNGMm5vNzlKV2R5aWhpQ1p0OEZnOENKZ1hUck80NmdUcGR3MnBoNUtlWTQ4b2JKYXk1Mk9z?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co. presenta sus resultados del segundo trimestre y del primer semestre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
@@ -405,20 +434,6 @@
       "company": "Skretting"
     },
     {
-      "id": 2162,
-      "headline": "Transcript : Aktieselskabet Schouw & Co., Q2 2026 Earnings Call, Aug 14, 2026 - MarketScreener España",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRTNYWnVKcUh6dEdad1FsdExiaXZaVzdodmotczM1TkN0Uk0yODRmeDR0dGgzVnpFcktURGRrRnh3OTNPVTJmdnRFQy1kNjhCaGVwNlhYeGViV1p3M1Z0cVZ6bUM0UGxuV01jNjJseV9VdDU5enVaT05rN2R0cUVYQ2tJejFsYWt3TDYwS09YOFBLaVF3dHlSbXJWQ2ZJUVBWd3pMWm1LQ2R1bTNMYnJnZFJtVXVqdjdpQWpKSmNWWUFXQ0lTUHZnbnFtQkVBU3RrUkxkUDZyXzhGSmQxVC1YazJCTWVzLXRvcnI2YXdTTUpVQmNEQlNHUmtCZjA?oc=5\" target=\"_blank\">Transcript : Aktieselskabet Schouw & Co., Q2 2026 Earnings Call, Aug 14, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
-      "first_seen": "2026-08-14T13:37:00+00:00",
-      "last_seen": "2026-08-14T13:37:00+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
       "id": 2161,
       "headline": "BioMar raises its 2026 guidance amid pressure on marine raw materials - misPeces",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmd6ZlZkNTR0Umx2UEM5NC04d0VmQ0VXb3hnN0Z1OG13ako0Mko3UmoyUzVpVnp4a2xMMkgzMmJIT0pVRlJGQk5mX25sU1RQNkdGclBjbGt0TDdla3g5NlozMlJuc3lIblY1Y2N3Y0dyQllDM1NQR1lfamRFMHVFdmt5dlB3MWVCVGFKenJjckRtM1dQNmJqYXlNTFRJQldNOXZzdkx3?oc=5\" target=\"_blank\">BioMar raises its 2026 guidance amid pressure on marine raw materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
@@ -456,7 +471,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -466,6 +481,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSlE2TkVrS3FKWUtOdTR5Tk5acVVvbXdlU0pQSE9oTUdhZ2FoX3h6TXRqQTNKazB6NG9KOVZwUHVadEtQdlR0RnNBYVFYNm94X0N1aEZlTTNXYnBicDh2TnhXYzFiSWt6OFROYUU1LXdhWkM3WHp0RlpEdFg2U0ZJRUNTRkM5emd6a1pMYngzVWlibXA1d3U1ZjJ4VFJCWnBNVFEtNFJfMTBrbmdQTUJyaW84REExblNTMEttOFpwM1hoOWFURG9jRWV1djBKWTM0MnNqRXo4STM4ejJpRi1FQW1nS21BQVRlTWJPZWNaOA?oc=5\" target=\"_blank\">BioMar eleva sus proyecciones para 2026 con nuevos contratos en el segmento salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2026-08-14T09:50:00+00:00",
       "last_seen": "2026-08-14T09:50:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2177,
+      "headline": "Earnings call transcript: Schouw & Co lifts 2026 guidance on broad gains in Q2 2026 - Investing.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYlZmcjhXcjBmZk05OVBmQm5KSjJZZ0lkUGdGLTlVN3JwSDRFQmJoaVVkZ1FHS2VhM21EbHEyLTZyZUxfaDlXaFNrM0JPQ1FLV2JMLXRFSmhwUnJvVmV0V05tWlY1YXp3c1NhUVJFeTJMS1pwdHU2MW9XaDRUbHBxUDVPQXFKWWZGa19ad3d5SGlqQTF5RlBNMnlObUY2TUFhSF9zcGJpNWlTTWxFT0RCV0VMaFcwczB6dnJyVlZhdVNOaWk0Q0g4ME4xMmNEUlRXNXVZ?oc=5\" target=\"_blank\">Earnings call transcript: Schouw & Co lifts 2026 guidance on broad gains in Q2 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "first_seen": "2026-08-14T08:59:07+00:00",
+      "last_seen": "2026-08-14T08:59:07+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -540,7 +569,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -658,15 +687,15 @@
     },
     {
       "id": 2145,
-      "headline": "BioMar raises 2026 guidance after 5% volume growth - Aquafeed.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDZpalItcGEzcHdZb21lTnNHaUdfRUc2TTJBalFvU3k1WUlpZ0ZXZGZ4eVNGM000VmQtX3ZZNXJMc3NjSk1KQnIzRUtvcTNZWnpLTG1mSURPdTlUVU9yTzlqSEFzbTF5RTV1bkJ1WE9zcmZ6eUxGZDZWclBfMkpucHpFajJ4eXBhbW9EN3dpSHJSM28?oc=5\" target=\"_blank\">BioMar raises 2026 guidance after 5% volume growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
-      "first_seen": "2026-08-13T09:21:32+00:00",
+      "headline": "BioMar: raises guidance after 5% volume growth in first public quarterly report - Salmon Business",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNR1UwSm5tdXgyb1p2TFV4MWpwU0dycGVLLTlUZXBfUko1VzFObHhsSzZvckNLQzNjcVppcXduWGlROUdyYUZBUFd2d1E5S3dUUkZfNkRhYVFCamRDWlB2LU9fVjlJamFqckhja2t6VS1FSHVnX3oyS0NENEhPUUU4SjdHNDk5WWt0cGllalVnMXR4OFdOX3Q0eGRYSUlqbnJ3TVc3amIyV3AwZkp5cmc?oc=5\" target=\"_blank\">BioMar: raises guidance after 5% volume growth in first public quarterly report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>",
+      "first_seen": "2026-08-13T06:19:39+00:00",
       "last_seen": "2026-08-13T13:57:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -783,6 +812,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2176,
+      "headline": "BioMar Group A/S presenta sus resultados financieros del primer semestre de 2026 - MarketScreener España",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT1F2bndONjd0V3FHb3IzcG1fVVktTzl6N2RKcUZQREtyazV6WGtTdWhVOGxibkxfZXFydEVBRnliSXUxNkU3YV9LRTUyQXg0dDM0T0dPUEFCT3FtVk1PTUtaUzUxdkctclBDYVgwQ3ZrSXJkNVpMVkRvTnVxZi15MHJEeFhjb3d6ZG1iZXVVLVRCU0lRQUs4aV9wMEVlbklaREF5bkdXeThaSWxiQnRnd2xLN3R2LThSNDl3bkpUdWFLV2QzTFk3NE1Kc1hjZWpCVGc?oc=5\" target=\"_blank\">BioMar Group A/S presenta sus resultados financieros del primer semestre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
+      "first_seen": "2026-08-12T11:54:00+00:00",
+      "last_seen": "2026-08-12T11:54:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2137,
       "headline": "Changes to full-year guidance for BioMar - The Manila Times",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkN4ak5LUm1UVkRXWDUwR2toWExJdXdFNW0yeU1WMGZMbVI2c0t1Ni1uYm5KQk9MSUJ0SGdZT0lkakoyTUdCd01sNS0zbXhWQWdVNUxhWjlCZ1FjS1g5Nlhmbzh4eGhNOWd2TXdlNHhFekNSNHRMVGU3V1pPSEJpcC1VdHRlWHM4Ym9HRnFUOS13MWl6Z3ZIbGZ5Ymg2ekM1bjhyZXRJbGdsZ2xZTXNQc3JnQWnSAboBQVVfeXFMUHRaNHZfTGZVU29mZ3k0SDgzQ3FrZ2FZX0NuOGNTUHkzeGdJR2o0UkowN0pwUzhaY1dWM1lYT3Bva1dsa1F6cFItNjExZkhqRDBuTm5GZ1kyUTA0YmxDZDlCU0ZnTmdDM2hueHVZTEhHZkJkNGJXOW5ydjJYREFNQWZnZWY3bngzQ2ZHUU44cEYtcFVWZzRDRmIxWnNxZDVGc29fcHhZbUp1ZjZ6Q2o5SHJvdHp0VmVEVVRR?oc=5\" target=\"_blank\">Changes to full-year guidance for BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
@@ -816,20 +859,6 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOblZDQlpFcUM5WWROdGRlVHV1MGs4MEwtc3NESFEzQ2NOZjNMR1Y5NWxMazQtZWFjcEtBOTF6b1VqQXM3X1RmUGcxOURYcjRHc0I3WkhlVl8tS3FBbmJlaW5pX0E3U184ZGNQTjd3NE1XaW1iSnQ2UkdsOVF1a29sMnpkT1otWkZHQkNIZEE1VkhDNDRFMlFEbHYtajRZQjNKMmJ3U2hvSFRjY0RIcXY1clM5V21MWjRKdk4xeUZZUU9LNHM2NGlQcFhhdXRIdjNBWmcwVlBrMzRoRjRTVXg5cGxfT3Q1VXFr?oc=5\" target=\"_blank\">Danske Bank eleva el precio objetivo de Schouw & Co. hasta las 835 DKK y reitera su recomendación de compra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
       "first_seen": "2026-08-10T07:14:30+00:00",
       "last_seen": "2026-08-10T07:14:30+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2122,
-      "headline": "Operating margin % of Schouw & Co – TRADEGATE:5RF - TradingView",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWlF6UFN6TG9pTl9Za1FHWExwOHVQUEZ1Qm9aYk5OTWVPTVVGdFJJMDEya2FCNVI1ai1fTW8wYVlxMTV1aXV1ZlMyeVJnZGx3SUFPZGxoVUx3RWhjcnIxeFhSMG14MUdWMUg4TzJodFhFeWp6X1BwT3cxeFhwR1lLM3pCLWdTdDlTNllUZklucmRVVXZkdEF2a1k0bkRUMG5oMUE?oc=5\" target=\"_blank\">Operating margin % of Schouw & Co – TRADEGATE:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "first_seen": "2026-08-10T03:01:29+00:00",
-      "last_seen": "2026-08-10T03:01:29+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -18612,6 +18641,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 2175,
+      "headline": "“En BioMar entendimos que el desarrollo de nuevas materias primas es algo crítico” - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU96SENFZjBPMTMza0FrTFlsekNqVlhsVW5VUXZzbVdvN05LelZQNUhxOTR5d0hXVHlLcjBMMlo0S0JRZFAxOFRUczQ1VEdmYnR4WVpnalM3UWZRTmx6djAwTmVNMzl3c3JGaTVGUmRoaWhVcU1GVTBENWZvMXNyaFNIMjFjSDZYbml3R20tQUV6dTlhNmhOZ2ctcnN0WFltSW1mUXVYNlNfSE05NEMtMlhLSUk2Tk04eHBuR2hZVlc?oc=5\" target=\"_blank\">“En BioMar entendimos que el desarrollo de nuevas materias primas es algo crítico”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2023-04-04T07:00:00+00:00",
+      "last_seen": "2023-04-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 545,
       "headline": "Former feed boss takes helm at Skye salmon farmer - Fishfarming expert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQTVGOXl2WlpzX2Jmb1dMRUJzSGZsbnRhZ0hVSTFXOUR2NHExZFRPWk1BTjV5Z2ZuLU1ubS1aUFRtcVV4UEpUSTlDbGZUWXlJUWM1QzU5R3MzQ3k5QWg3MmpfdGtYWjRoY2FHUGpSTDluSUo3aHFUWVBldE4xOUpUeUkzQ1ZFbWNhNXIyUEktekZ2RGEtdzEtRXVGREdzWXVGZG5zeGVBUE5VNHNvaHV6R3J0YlB5eXRfZVdOOTlSZDgzdG9sdDRJMVBleXlIay15SnowRDln?oc=5\" target=\"_blank\">Former feed boss takes helm at Skye salmon farmer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
@@ -24651,6 +24694,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2174,
+      "headline": "Con éxito culmina curso de recirculación aplicada organizado por BioMar - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMUh4enAweWl4eGpBQzhBLWFPUGg4dmRMZnNrTnFFY0JqYWJoRHladThab1Npci1LZW5yc2MtemdUTnhTTFFObFpfQkdIdTBLdE12NjQ5em54Mko5RW1GTUktd0VqRVYwZjBIajlKdy1CNTVlTktOSGFOTUwweUxpYTFKczV2YzF6YzBJei1FYW9iekRRMmp0NFJMWUJpTUM1eUowR3oxQnFLMUVBOFAxSEtfeFc0dE5WZDRJUjVQbjRVUjhaaGd3a0huSUk?oc=5\" target=\"_blank\">Con éxito culmina curso de recirculación aplicada organizado por BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2019-09-16T07:00:00+00:00",
+      "last_seen": "2019-09-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 468,
       "headline": "Skretting vil drive oppdrett av rensefisk - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9YSGd0M3F1ZnhpUTNuQ1pZX2hPdzB0VVZNaUIwdGtqemtlRTl3S0VSQ3M1b0t2UE5RMDM1LU54Nl9weVoxOXR6RG8xczUyN213SFZ1cjFqRWRhc2wtSGN1Mmg5MVJ0QXUtd3ZV?oc=5\" target=\"_blank\">Skretting vil drive oppdrett av rensefisk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -26261,6 +26318,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2173,
+      "headline": "Cargill earnings down 22%, as US tax rules bite - Salmon Business",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOENudGZqcjZldUR0em1rZzhCM21rekwtcjRsWWp2TnFuZ1E2MXBacnFKc1NJQ29oQVh4bkx3N0ctaXNhWl95ZUU5WHBoN2xnOFhzUDZ3c2hyRmNHcFdKLVUtNHFPbDBEemxjV1BrUXZJaUZhZFkzMWtjeVN1WnliaVBLY2k3dzN1NDV3?oc=5\" target=\"_blank\">Cargill earnings down 22%, as US tax rules bite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>",
+      "first_seen": "2018-04-06T07:00:00+00:00",
+      "last_seen": "2018-04-06T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 1968,
       "headline": "Svein Arne Abelsen til minne - vol.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9mRHZ5VkxNaEtMRUhwSVA5UUswbkc4MjdOMVdycEh3MU9WcWJvR3hveVFHZFpKQjM2OUUzV1B3dTRjTWo4Z2dtUHk3em9ubXgzR1J0VFhvSDVkMjlQNjk4ZmpUc2hNbk5ONGlWcmNFWnR1MlU?oc=5\" target=\"_blank\">Svein Arne Abelsen til minne</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
@@ -27729,6 +27800,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2172,
+      "headline": "Grupo BioMar tiene nuevo CFO - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRUJobm5XSzlZeWFvTlZ6WTBsa0hBT29Id2piSUFWNU5Xam9Qei1aNk5FMnBXdS1qZXBWamNtbXUxYmpaM3Y5eTV4SnZFV0Y3Q1o2WDJ3aW1abkEyVnhuakhRbzY0QWFjczlRclNXeWgzam43b3MzNDhQVUZ1RjE4d3ZrQ2c1X3ZydU5SZkhEaGoycTg?oc=5\" target=\"_blank\">Grupo BioMar tiene nuevo CFO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2016-12-30T08:00:00+00:00",
+      "last_seen": "2016-12-30T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1424,
@@ -100354,6 +100439,294 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFhWNTRZSjZyTk5NSEZjM3hsSktpdnhXYlJXZEV0dXJRQURIQWRyZlJFVU5aRDZ5NnJaTzFlSFFNTDBmOHpxR3U4QkVGbExKUzNRTjJPTTV2eWNsX1VnY3M0RWpZUzJqbXFsSjV1d290MW9meDBVS0RTMFkzQVdrdEdsdUNYWVRPcDZkWmV4T1lhaWJmTDctMg?oc=5\" target=\"_blank\">Skretting har ansatt Truls Dahl i ny stilling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.no</font>"
+    },
+    {
+      "id": 436313,
+      "story_id": 2145,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR1UwSm5tdXgyb1p2TFV4MWpwU0dycGVLLTlUZXBfUko1VzFObHhsSzZvckNLQzNjcVppcXduWGlROUdyYUZBUFd2d1E5S3dUUkZfNkRhYVFCamRDWlB2LU9fVjlJamFqckhja2t6VS1FSHVnX3oyS0NENEhPUUU4SjdHNDk5WWt0cGllalVnMXR4OFdOX3Q0eGRYSUlqbnJ3TVc3amIyV3AwZkp5cmc?oc=5",
+      "title": "BioMar: raises guidance after 5% volume growth in first public quarterly report - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T06:19:39+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNR1UwSm5tdXgyb1p2TFV4MWpwU0dycGVLLTlUZXBfUko1VzFObHhsSzZvckNLQzNjcVppcXduWGlROUdyYUZBUFd2d1E5S3dUUkZfNkRhYVFCamRDWlB2LU9fVjlJamFqckhja2t6VS1FSHVnX3oyS0NENEhPUUU4SjdHNDk5WWt0cGllalVnMXR4OFdOX3Q0eGRYSUlqbnJ3TVc3amIyV3AwZkp5cmc?oc=5\" target=\"_blank\">BioMar: raises guidance after 5% volume growth in first public quarterly report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 436612,
+      "story_id": 2176,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT1F2bndONjd0V3FHb3IzcG1fVVktTzl6N2RKcUZQREtyazV6WGtTdWhVOGxibkxfZXFydEVBRnliSXUxNkU3YV9LRTUyQXg0dDM0T0dPUEFCT3FtVk1PTUtaUzUxdkctclBDYVgwQ3ZrSXJkNVpMVkRvTnVxZi15MHJEeFhjb3d6ZG1iZXVVLVRCU0lRQUs4aV9wMEVlbklaREF5bkdXeThaSWxiQnRnd2xLN3R2LThSNDl3bkpUdWFLV2QzTFk3NE1Kc1hjZWpCVGc?oc=5",
+      "title": "BioMar Group A/S presenta sus resultados financieros del primer semestre de 2026 - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-08-12T11:54:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT1F2bndONjd0V3FHb3IzcG1fVVktTzl6N2RKcUZQREtyazV6WGtTdWhVOGxibkxfZXFydEVBRnliSXUxNkU3YV9LRTUyQXg0dDM0T0dPUEFCT3FtVk1PTUtaUzUxdkctclBDYVgwQ3ZrSXJkNVpMVkRvTnVxZi15MHJEeFhjb3d6ZG1iZXVVLVRCU0lRQUs4aV9wMEVlbklaREF5bkdXeThaSWxiQnRnd2xLN3R2LThSNDl3bkpUdWFLV2QzTFk3NE1Kc1hjZWpCVGc?oc=5\" target=\"_blank\">BioMar Group A/S presenta sus resultados financieros del primer semestre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>"
+    },
+    {
+      "id": 436616,
+      "story_id": 2168,
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOa3JxcnRLNkRzbFZWY3BFaVZXY1ZMdjdpazJiZWh6ZVdYSHFfcFVqYkoxam9EVFNMSEJiX0I2bWJicnNQNEhXcF9sUHl2bzc2RmZHNW9IM0xiUzlTVm93bGVkQ3E1elV1Q19JZU1RLXdIaTJwTkV6dFZEWWtzNTFIUlkyV3FlMTF4UXEwMExvVGVQZ2lBRm5TZ0s2U2h4SUt1cW1ETW1HOERoNTdsNlg3S0pKX3pfcDZsQlNoNmwwQ0xzbGhqYm1Oa1BleWtHUlA0WjdnaUktZU9nb2hJS2YyM08zVklwcTlXaWRnTy1Ydnk2RFBzS1JaVUlxM25rQlk2amRObEl6VGhrQQ?oc=5",
+      "title": "SCHO: Q2 delivered strong growth, raised guidance, and lower leverage, led by BioMar and HydraSpecma - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T10:34:40+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOa3JxcnRLNkRzbFZWY3BFaVZXY1ZMdjdpazJiZWh6ZVdYSHFfcFVqYkoxam9EVFNMSEJiX0I2bWJicnNQNEhXcF9sUHl2bzc2RmZHNW9IM0xiUzlTVm93bGVkQ3E1elV1Q19JZU1RLXdIaTJwTkV6dFZEWWtzNTFIUlkyV3FlMTF4UXEwMExvVGVQZ2lBRm5TZ0s2U2h4SUt1cW1ETW1HOERoNTdsNlg3S0pKX3pfcDZsQlNoNmwwQ0xzbGhqYm1Oa1BleWtHUlA0WjdnaUktZU9nb2hJS2YyM08zVklwcTlXaWRnTy1Ydnk2RFBzS1JaVUlxM25rQlk2amRObEl6VGhrQQ?oc=5\" target=\"_blank\">SCHO: Q2 delivered strong growth, raised guidance, and lower leverage, led by BioMar and HydraSpecma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 436654,
+      "story_id": 2175,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU96SENFZjBPMTMza0FrTFlsekNqVlhsVW5VUXZzbVdvN05LelZQNUhxOTR5d0hXVHlLcjBMMlo0S0JRZFAxOFRUczQ1VEdmYnR4WVpnalM3UWZRTmx6djAwTmVNMzl3c3JGaTVGUmRoaWhVcU1GVTBENWZvMXNyaFNIMjFjSDZYbml3R20tQUV6dTlhNmhOZ2ctcnN0WFltSW1mUXVYNlNfSE05NEMtMlhLSUk2Tk04eHBuR2hZVlc?oc=5",
+      "title": "“En BioMar entendimos que el desarrollo de nuevas materias primas es algo crítico” - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-04-04T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU96SENFZjBPMTMza0FrTFlsekNqVlhsVW5VUXZzbVdvN05LelZQNUhxOTR5d0hXVHlLcjBMMlo0S0JRZFAxOFRUczQ1VEdmYnR4WVpnalM3UWZRTmx6djAwTmVNMzl3c3JGaTVGUmRoaWhVcU1GVTBENWZvMXNyaFNIMjFjSDZYbml3R20tQUV6dTlhNmhOZ2ctcnN0WFltSW1mUXVYNlNfSE05NEMtMlhLSUk2Tk04eHBuR2hZVlc?oc=5\" target=\"_blank\">“En BioMar entendimos que el desarrollo de nuevas materias primas es algo crítico”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 436676,
+      "story_id": 2174,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMUh4enAweWl4eGpBQzhBLWFPUGg4dmRMZnNrTnFFY0JqYWJoRHladThab1Npci1LZW5yc2MtemdUTnhTTFFObFpfQkdIdTBLdE12NjQ5em54Mko5RW1GTUktd0VqRVYwZjBIajlKdy1CNTVlTktOSGFOTUwweUxpYTFKczV2YzF6YzBJei1FYW9iekRRMmp0NFJMWUJpTUM1eUowR3oxQnFLMUVBOFAxSEtfeFc0dE5WZDRJUjVQbjRVUjhaaGd3a0huSUk?oc=5",
+      "title": "Con éxito culmina curso de recirculación aplicada organizado por BioMar - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-09-16T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMUh4enAweWl4eGpBQzhBLWFPUGg4dmRMZnNrTnFFY0JqYWJoRHladThab1Npci1LZW5yc2MtemdUTnhTTFFObFpfQkdIdTBLdE12NjQ5em54Mko5RW1GTUktd0VqRVYwZjBIajlKdy1CNTVlTktOSGFOTUwweUxpYTFKczV2YzF6YzBJei1FYW9iekRRMmp0NFJMWUJpTUM1eUowR3oxQnFLMUVBOFAxSEtfeFc0dE5WZDRJUjVQbjRVUjhaaGd3a0huSUk?oc=5\" target=\"_blank\">Con éxito culmina curso de recirculación aplicada organizado por BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 436680,
+      "story_id": 2172,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRUJobm5XSzlZeWFvTlZ6WTBsa0hBT29Id2piSUFWNU5Xam9Qei1aNk5FMnBXdS1qZXBWamNtbXUxYmpaM3Y5eTV4SnZFV0Y3Q1o2WDJ3aW1abkEyVnhuakhRbzY0QWFjczlRclNXeWgzam43b3MzNDhQVUZ1RjE4d3ZrQ2c1X3ZydU5SZkhEaGoycTg?oc=5",
+      "title": "Grupo BioMar tiene nuevo CFO - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2016-12-30T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRUJobm5XSzlZeWFvTlZ6WTBsa0hBT29Id2piSUFWNU5Xam9Qei1aNk5FMnBXdS1qZXBWamNtbXUxYmpaM3Y5eTV4SnZFV0Y3Q1o2WDJ3aW1abkEyVnhuakhRbzY0QWFjczlRclNXeWgzam43b3MzNDhQVUZ1RjE4d3ZrQ2c1X3ZydU5SZkhEaGoycTg?oc=5\" target=\"_blank\">Grupo BioMar tiene nuevo CFO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 436706,
+      "story_id": 2177,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYlZmcjhXcjBmZk05OVBmQm5KSjJZZ0lkUGdGLTlVN3JwSDRFQmJoaVVkZ1FHS2VhM21EbHEyLTZyZUxfaDlXaFNrM0JPQ1FLV2JMLXRFSmhwUnJvVmV0V05tWlY1YXp3c1NhUVJFeTJMS1pwdHU2MW9XaDRUbHBxUDVPQXFKWWZGa19ad3d5SGlqQTF5RlBNMnlObUY2TUFhSF9zcGJpNWlTTWxFT0RCV0VMaFcwczB6dnJyVlZhdVNOaWk0Q0g4ME4xMmNEUlRXNXVZ?oc=5",
+      "title": "Earnings call transcript: Schouw & Co lifts 2026 guidance on broad gains in Q2 2026 - Investing.com",
+      "source_name": "Investing.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T08:59:07+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYlZmcjhXcjBmZk05OVBmQm5KSjJZZ0lkUGdGLTlVN3JwSDRFQmJoaVVkZ1FHS2VhM21EbHEyLTZyZUxfaDlXaFNrM0JPQ1FLV2JMLXRFSmhwUnJvVmV0V05tWlY1YXp3c1NhUVJFeTJMS1pwdHU2MW9XaDRUbHBxUDVPQXFKWWZGa19ad3d5SGlqQTF5RlBNMnlObUY2TUFhSF9zcGJpNWlTTWxFT0RCV0VMaFcwczB6dnJyVlZhdVNOaWk0Q0g4ME4xMmNEUlRXNXVZ?oc=5\" target=\"_blank\">Earnings call transcript: Schouw & Co lifts 2026 guidance on broad gains in Q2 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>"
+    },
+    {
+      "id": 436708,
+      "story_id": 2162,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdnM4SVhpczYxUmI1YkFsaGNUTVhJT3FtQ01EY0RWZV9xMVQ5ejlmWjFIUFg0TVdDRnV6Rkl2aWNlV0FkcERtOEFpaktkMU1BNVdHbW5lSV8zR3k1dGFickJIeFBMdUYyWmh1a3k5R1c1X19SV3l0a1lnYXFzNVRTcWg5eG9ISTMycngxR2RpMWZkNWdISElvT2k2Z2pMcHdhNTVUcWFQdmwtc1ptdVVJYkttN2RlLTlaXzN0TklrS253SFdiTWxSYVF5Z0dPVzVkRXdPWA?oc=5",
+      "title": "Aktieselskabet Schouw & Co. Raises Consolidated Earnings Guidance for the Full Year 2026 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T17:20:58+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdnM4SVhpczYxUmI1YkFsaGNUTVhJT3FtQ01EY0RWZV9xMVQ5ejlmWjFIUFg0TVdDRnV6Rkl2aWNlV0FkcERtOEFpaktkMU1BNVdHbW5lSV8zR3k1dGFickJIeFBMdUYyWmh1a3k5R1c1X19SV3l0a1lnYXFzNVRTcWg5eG9ISTMycngxR2RpMWZkNWdISElvT2k2Z2pMcHdhNTVUcWFQdmwtc1ptdVVJYkttN2RlLTlaXzN0TklrS253SFdiTWxSYVF5Z0dPVzVkRXdPWA?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co. Raises Consolidated Earnings Guidance for the Full Year 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 436714,
+      "story_id": 2125,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RSWluSkNrZFBEeTZqckpPVS12bVFZME5tMDJHaVJvV1prVXRiTUVtNkUyUTlJWVo2OC0zaWZkeTVMUGlOSWp6Wkx5SVRMaDlKWncxbzNiblpwNlVtZlhmdEd3YkbSAWpBVV95cUxQWThoR2taVFlRREhmcDVza1BkTklHeFJPaWduOGdUVF9aTWh3TU1Vb3V5UWhqMElhYm50emlxVkJiczVQdDRsRmN2T2tpSW9PQ2xKWTVMbndPbVFwYjlra1lRN0ttMXpEcGdn?oc=5",
+      "title": "Schouw & Co boosts 2026 share buyback program by up to DKK 170 million - Bitget",
+      "source_name": "Bitget",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T22:03:21+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RSWluSkNrZFBEeTZqckpPVS12bVFZME5tMDJHaVJvV1prVXRiTUVtNkUyUTlJWVo2OC0zaWZkeTVMUGlOSWp6Wkx5SVRMaDlKWncxbzNiblpwNlVtZlhmdEd3YkbSAWpBVV95cUxQWThoR2taVFlRREhmcDVza1BkTklHeFJPaWduOGdUVF9aTWh3TU1Vb3V5UWhqMElhYm50emlxVkJiczVQdDRsRmN2T2tpSW9PQ2xKWTVMbndPbVFwYjlra1lRN0ttMXpEcGdn?oc=5\" target=\"_blank\">Schouw & Co boosts 2026 share buyback program by up to DKK 170 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>"
+    },
+    {
+      "id": 436715,
+      "story_id": 2162,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOEFBSEFvNi1wbEhnaTFsRWc2S3lTTGJpQzJKREw4R2N6MlhGNFRnSlh6UmMwbkphb1VvQlBNaTgwRk1qTmQ4M05SUlhMSnVwVTRiWmY4X1VkQkJvRGtHVTJJaUVOV2F0bEpwZVZxWlpwMTZxZUEyZU51RXAyTW5CMy1LTzFsMnltNEYtU1pDRXBQOVFUdnVJcXRMRmlwY1FjT3F1cDFSYXFZNnVtTjdEOElwNklacnZ5QVA0TmU4RTUzU2dla3UySlBFVzdvVUsxT2UzaUlySktueUprXzlWdGNTNWg?oc=5",
+      "title": "Aktieselskabet Schouw & Co. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T18:37:05+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOEFBSEFvNi1wbEhnaTFsRWc2S3lTTGJpQzJKREw4R2N6MlhGNFRnSlh6UmMwbkphb1VvQlBNaTgwRk1qTmQ4M05SUlhMSnVwVTRiWmY4X1VkQkJvRGtHVTJJaUVOV2F0bEpwZVZxWlpwMTZxZUEyZU51RXAyTW5CMy1LTzFsMnltNEYtU1pDRXBQOVFUdnVJcXRMRmlwY1FjT3F1cDFSYXFZNnVtTjdEOElwNklacnZ5QVA0TmU4RTUzU2dla3UySlBFVzdvVUsxT2UzaUlySktueUprXzlWdGNTNWg?oc=5\" target=\"_blank\">Aktieselskabet Schouw & Co. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 436720,
+      "story_id": 2122,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCRUZTTVZOODZfcDZKaWdWd3h2ZGIxbC1fNjRTUEUxRGltUDNnakxRY1V2ZUZXcEhfd0xMOUpsOHpuVjh6ZEkwN3BOeV9wX0phQjRyM2hIY004emdUNWhTVC1R?oc=5",
+      "title": "ETFs Investing in Schouw & Co Stocks - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T23:58:15+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCRUZTTVZOODZfcDZKaWdWd3h2ZGIxbC1fNjRTUEUxRGltUDNnakxRY1V2ZUZXcEhfd0xMOUpsOHpuVjh6ZEkwN3BOeV9wX0phQjRyM2hIY004emdUNWhTVC1R?oc=5\" target=\"_blank\">ETFs Investing in Schouw & Co Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 437242,
+      "story_id": 2173,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOENudGZqcjZldUR0em1rZzhCM21rekwtcjRsWWp2TnFuZ1E2MXBacnFKc1NJQ29oQVh4bkx3N0ctaXNhWl95ZUU5WHBoN2xnOFhzUDZ3c2hyRmNHcFdKLVUtNHFPbDBEemxjV1BrUXZJaUZhZFkzMWtjeVN1WnliaVBLY2k3dzN1NDV3?oc=5",
+      "title": "Cargill earnings down 22%, as US tax rules bite - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-04-06T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOENudGZqcjZldUR0em1rZzhCM21rekwtcjRsWWp2TnFuZ1E2MXBacnFKc1NJQ29oQVh4bkx3N0ctaXNhWl95ZUU5WHBoN2xnOFhzUDZ3c2hyRmNHcFdKLVUtNHFPbDBEemxjV1BrUXZJaUZhZFkzMWtjeVN1WnliaVBLY2k3dzN1NDV3?oc=5\" target=\"_blank\">Cargill earnings down 22%, as US tax rules bite</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
     }
   ],
   "share_of_voice": {
@@ -101368,7 +101741,7 @@
       {
         "week": "2016-W52",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
@@ -101769,7 +102142,7 @@
         "week": "2018-W14",
         "Aller Aqua": 0,
         "BioMar": 1,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 2
       },
@@ -102192,7 +102565,7 @@
       {
         "week": "2019-W38",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -103432,7 +103805,7 @@
       {
         "week": "2023-W14",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 2,
         "Polarfeed": 0,
         "Skretting": 0
@@ -104776,7 +105149,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 52,
+        "BioMar": 60,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -104789,11 +105162,11 @@
       },
       {
         "company": "BioMar",
-        "count": 1534
+        "count": 1545
       },
       {
         "company": "Cargill",
-        "count": 276
+        "count": 277
       },
       {
         "company": "Polarfeed",
