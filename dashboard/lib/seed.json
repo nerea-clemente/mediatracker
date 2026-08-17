@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T10:02:26+00:00",
+  "generated_at": "2026-08-17T16:29:27+00:00",
   "stats": {
-    "mention_count": 2914,
-    "story_count": 2170,
+    "mention_count": 2916,
+    "story_count": 2171,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -330,6 +330,7 @@
     "kalkine.ca",
     "kampanje.com",
     "kulingen.no",
+    "manilatimes.net",
     "marketscreener.com",
     "misPeces",
     "moncloa.com",
@@ -350,6 +351,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2125,
+      "headline": "Schouw & Co. share buy-back programme, week 32 2026 - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNExFeC05QmFrY1N6YnJtZHFJTEFOR1c4Y2N6UFFxSUFYRk5nUFNHNl92VzRhVFRTUnA2WEp0Q0VGTDE3RUIwWkh4NlZlcVJKbjgzVnpEazZLSk9mMjI4am5GZUxDaTg4eGtoWDcySTVtLW9TQmVRbnI3R0I0UWRYQ0pKTWI4dUlmeWg3Q3g1QXdaNkJ0eTJyLTc4Q2hXbGhDUnc?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 32 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-08-10T12:30:06+00:00",
+      "last_seen": "2026-08-17T12:16:51+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 6,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2188,
       "headline": "DNB Carnegie eleva el precio objetivo de Schouw & Co. hasta las 920 DKK y reitera su recomendación de compra - MarketScreener España",
@@ -585,20 +600,6 @@
         "none"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2125,
-      "headline": "Schouw & Co. share buy-back programme, week 32 2026 - marketscreener.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPNExFeC05QmFrY1N6YnJtZHFJTEFOR1c4Y2N6UFFxSUFYRk5nUFNHNl92VzRhVFRTUnA2WEp0Q0VGTDE3RUIwWkh4NlZlcVJKbjgzVnpEazZLSk9mMjI4am5GZUxDaTg4eGtoWDcySTVtLW9TQmVRbnI3R0I0UWRYQ0pKTWI4dUlmeWg3Q3g1QXdaNkJ0eTJyLTc4Q2hXbGhDUnc?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 32 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
-      "first_seen": "2026-08-10T12:30:06+00:00",
-      "last_seen": "2026-08-14T06:18:00+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -27255,6 +27256,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2193,
+      "headline": "Skretting participa en seminario noruego sobre inocuidad alimentaria del salmón en Hong Kong - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxObzhHZXpGRXJ4TlJnTGladjdfU0U2ejg3RUlNVTVhYU9RSW5oSkl4VnlZaFp3SmNZb0UyRW5ZRm1nbFdhZGtIMFJydlhWS0lfeG02eWR1V0VCUHBiNTE3ZUtVOERZSHlFZGhmWUVEUWMtTVNPQWdUVnM1VDNkdTJ0RlFhWHpJOTNhNEZoZmhJbGd2VWd3QWREMjVINGxia1Y3YW12Mkt4N1NjbExBRF9HNVE4MWF4TUt4UEgwR2Z1X2VYSEJUQkE5d19abzBSYnZ5SzZPNHBGc3M2SjlwOFg5SXJvc1JIOWZONlJpMVBGeloweFg5ZkxuSnhwdw?oc=5\" target=\"_blank\">Skretting participa en seminario noruego sobre inocuidad alimentaria del salmón en Hong Kong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-10-03T07:00:00+00:00",
+      "last_seen": "2017-10-03T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1376,
@@ -101466,6 +101481,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2Z4b3pKS0VGa2pWOGw2YnZXdlBsS0Jsa3dKSjEtZkRNUmNiWTZObE9wSVlRcWs4RTZUQkl3MngycjhWWG9HU1EyaWJkU2FId0o3b0tmeFY2MDBqS2laX0VLS3dwQkpDelRUeXpid1diMTNORmFsSmJyUEZheEl0a2pMckFLNlpvVlVfM0tyVjdFQWdWbFB3OWU3Q1lwTUhrTXprNG5MckJhZE1tRlRBSEd1WWItUzNZclZjcUR1ZWltYWNtQjRwQnV0d2JiLUEwRkZhSGN3?oc=5\" target=\"_blank\">Controlador de Skretting invierte en importante proyecto RAS de salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 442886,
+      "story_id": 2125,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTU5MbW1rNTlaWXFlTmdXM0dJZTJ2aGZwcVdjYlF5M2NvUmc2eXpuMkV3VHgzcUhTTXdrSUtSVkx0ektBWGlRcTdoZGE4WG5jTzdTYzB5NTdUMXBneGxzaEV4ZUdDOW9Nb2pWNHp6QU5GQXpWX0pXMFhQQ19HWFptT3hvN0l1dUJQckRYNnk3UmxRVmFFM0dPWk5vSW8waHhrWVoxZjRGZmVwVS14U3hOY1dDdUVEdkNwYVJnNnB6ME5saXfSAcMBQVVfeXFMTU1OTG1tazU5WllxZU5nVzNHSWUydmhmcHFXY2JReTNjb1JnNnl6bjJFd1R4M3FIU013a0lLUlZMdHpLQVhpUXE3aGRhOFhuY083U2MweTU3VDFwZ3hsc2hFeGVHQzlvTW9qVjR6ekFORkF6Vl9KVzBYUENfR1habU94bzdJdXVCUHJEWDZ5N1JsUVZhRTNHT1pOb0lvMGh4a1laMWY0RmZlcFUteFN4TmNXQ3VFRHZDcGFSZzZwejBObGl3?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 33 2026 - manilatimes.net",
+      "source_name": "manilatimes.net",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-08-17T12:16:51+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTU5MbW1rNTlaWXFlTmdXM0dJZTJ2aGZwcVdjYlF5M2NvUmc2eXpuMkV3VHgzcUhTTXdrSUtSVkx0ektBWGlRcTdoZGE4WG5jTzdTYzB5NTdUMXBneGxzaEV4ZUdDOW9Nb2pWNHp6QU5GQXpWX0pXMFhQQ19HWFptT3hvN0l1dUJQckRYNnk3UmxRVmFFM0dPWk5vSW8waHhrWVoxZjRGZmVwVS14U3hOY1dDdUVEdkNwYVJnNnB6ME5saXfSAcMBQVVfeXFMTU1OTG1tazU5WllxZU5nVzNHSWUydmhmcHFXY2JReTNjb1JnNnl6bjJFd1R4M3FIU013a0lLUlZMdHpLQVhpUXE3aGRhOFhuY083U2MweTU3VDFwZ3hsc2hFeGVHQzlvTW9qVjR6ekFORkF6Vl9KVzBYUENfR1habU94bzdJdXVCUHJEWDZ5N1JsUVZhRTNHT1pOb0lvMGh4a1laMWY0RmZlcFUteFN4TmNXQ3VFRHZDcGFSZzZwejBObGl3?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 33 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">manilatimes.net</font>"
+    },
+    {
+      "id": 443403,
+      "story_id": 2193,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObzhHZXpGRXJ4TlJnTGladjdfU0U2ejg3RUlNVTVhYU9RSW5oSkl4VnlZaFp3SmNZb0UyRW5ZRm1nbFdhZGtIMFJydlhWS0lfeG02eWR1V0VCUHBiNTE3ZUtVOERZSHlFZGhmWUVEUWMtTVNPQWdUVnM1VDNkdTJ0RlFhWHpJOTNhNEZoZmhJbGd2VWd3QWREMjVINGxia1Y3YW12Mkt4N1NjbExBRF9HNVE4MWF4TUt4UEgwR2Z1X2VYSEJUQkE5d19abzBSYnZ5SzZPNHBGc3M2SjlwOFg5SXJvc1JIOWZONlJpMVBGeloweFg5ZkxuSnhwdw?oc=5",
+      "title": "Skretting participa en seminario noruego sobre inocuidad alimentaria del salmón en Hong Kong - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-10-03T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxObzhHZXpGRXJ4TlJnTGladjdfU0U2ejg3RUlNVTVhYU9RSW5oSkl4VnlZaFp3SmNZb0UyRW5ZRm1nbFdhZGtIMFJydlhWS0lfeG02eWR1V0VCUHBiNTE3ZUtVOERZSHlFZGhmWUVEUWMtTVNPQWdUVnM1VDNkdTJ0RlFhWHpJOTNhNEZoZmhJbGd2VWd3QWREMjVINGxia1Y3YW12Mkt4N1NjbExBRF9HNVE4MWF4TUt4UEgwR2Z1X2VYSEJUQkE5d19abzBSYnZ5SzZPNHBGc3M2SjlwOFg5SXJvc1JIOWZONlJpMVBGeloweFg5ZkxuSnhwdw?oc=5\" target=\"_blank\">Skretting participa en seminario noruego sobre inocuidad alimentaria del salmón en Hong Kong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -102715,7 +102778,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2017-W41",
@@ -105904,7 +105967,7 @@
       {
         "week": "2026-W34",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -105917,7 +105980,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1558
+        "count": 1559
       },
       {
         "company": "Cargill",
@@ -105929,7 +105992,7 @@
       },
       {
         "company": "Skretting",
-        "count": 921
+        "count": 922
       }
     ]
   }
