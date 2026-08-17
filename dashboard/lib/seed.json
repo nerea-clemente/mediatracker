@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T05:59:42+00:00",
+  "generated_at": "2026-08-17T10:02:26+00:00",
   "stats": {
-    "mention_count": 2909,
-    "story_count": 2166,
+    "mention_count": 2914,
+    "story_count": 2170,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -355,12 +355,12 @@
       "headline": "DNB Carnegie eleva el precio objetivo de Schouw & Co. hasta las 920 DKK y reitera su recomendación de compra - MarketScreener España",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVVNXMmNYU29oVUFSMmpxNDQyODkwTnpPVzI5eFhVT1hvbzg0bXRJX0xzOE0xU1k3UlZ2UWNYWFNjdkllSmItN2dCekdXbm1LSDE3Q1g4T3dFQjB1RldRRHpiTXFlenVjSDc1aFp2dFMxbktPa09iR0l1Qkx5UDFtWFM5d3hnQWZobzdXUmtVZmtETXhRR0RodnRna0dDbW1BZnpCX2tLZ0NLUjUzMk9rVE9HR3V0QklGWnRWZ2pHU0UwVzhQNnZHNmZiZmh6eTQ0SFN1YTVBWXpKMGZBR0Zld0xlV2xMSHNf?oc=5\" target=\"_blank\">DNB Carnegie eleva el precio objetivo de Schouw & Co. hasta las 920 DKK y reitera su recomendación de compra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>",
       "first_seen": "2026-08-17T05:26:21+00:00",
-      "last_seen": "2026-08-17T05:26:21+00:00",
+      "last_seen": "2026-08-17T06:15:25+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -17368,6 +17368,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2192,
+      "headline": "BioMar forma una nueva sociedad - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQdV9mSy1hZzhKWW5GUElmSGhTY3lITDMyRTNaWVU0SkhfX2N4NjRBMW5aUlVKRWU4MmRuQTUxVTVrSUdTTW9aTW52a1J5ZDFFWDkzMGhxMW96UWhGY0VnQjhTZjg5LVBHVzI3T3VMQ0dOMkZuNHk3bVhCSDZmLWdkdTBKZzRMcV9RNU4zeUJwXy1oSzZo?oc=5\" target=\"_blank\">BioMar forma una nueva sociedad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2023-11-02T07:00:00+00:00",
+      "last_seen": "2023-11-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1835,
       "headline": "Yield10 and BioMar to commercialize omega-3 oil made from camelina - Global Seafood Alliance",
       "story_summary": "Yield10 Bioscience and BioMar Group have partnered to commercialize omega-3 oil derived from camelina, an oilseed crop, for use in aquaculture feed. The collaboration aims to develop a sustainable alternative to traditional fish oil in salmon and other farmed fish feeds.",
@@ -21373,6 +21387,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2191,
+      "headline": "Skretting Chile colabora para innovadora solución de cultivo hidropónico - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnNhSE10enhmcmF2dGloV00tOVlpTWhzNzNLdFZsWkUxSFlWQlYxNTRvTlBiZ2Fma3ZCd01PbHE5WHAwYXp3aWJwLTBiRzNWVEVEaEM1Y1NmemxfT0NMd20yNlBRSi1qSnNUQVJmeDNSaEJncnhkZDIwR05sTnhob1Y3UTNCR1NpcFVFam9VUFZhYW1FX1dfVEpBeWZCeURhZk9ZU2JHMm1ZanZBMWI4T1NrX2ZaSFQ1RVJONDUzXzQ2aUR3Y24yaFpOOW02ckk?oc=5\" target=\"_blank\">Skretting Chile colabora para innovadora solución de cultivo hidropónico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2022-01-19T08:00:00+00:00",
+      "last_seen": "2022-01-19T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2024,
       "headline": "Skretting y Mowi concretan proyecto de bolsas compostables - Diario Sustentable",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ0UtOENxMHViVngzY25YNVZ4emg5RlFGZUUzdTZ2Z0hWMlVYdGZydnlkcThaT1NqVWVzWlJqNFJ4SFFDazd2d2h5THM0MjVQbVFkQUFSVE93bGdDU0RiS1l1RlExc1V2c1JScXduLWJ6bWhnSEdaYVMxZXg2TlRvbXl6TVRtN3hVdUpqbDFUSjRTV2ZBTHVpYi1YS2dkUUxoSXZr?oc=5\" target=\"_blank\">Skretting y Mowi concretan proyecto de bolsas compostables</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sustentable</font>",
@@ -21847,6 +21875,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2190,
+      "headline": "Controlador de Skretting invierte en importante proyecto RAS de salmón - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2Z4b3pKS0VGa2pWOGw2YnZXdlBsS0Jsa3dKSjEtZkRNUmNiWTZObE9wSVlRcWs4RTZUQkl3MngycjhWWG9HU1EyaWJkU2FId0o3b0tmeFY2MDBqS2laX0VLS3dwQkpDelRUeXpid1diMTNORmFsSmJyUEZheEl0a2pMckFLNlpvVlVfM0tyVjdFQWdWbFB3OWU3Q1lwTUhrTXprNG5MckJhZE1tRlRBSEd1WWItUzNZclZjcUR1ZWltYWNtQjRwQnV0d2JiLUEwRkZhSGN3?oc=5\" target=\"_blank\">Controlador de Skretting invierte en importante proyecto RAS de salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2021-10-05T07:00:00+00:00",
+      "last_seen": "2021-10-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 933,
@@ -23296,6 +23338,20 @@
       "id": 44,
       "headline": "Salgsvekst, men svekket resultat for BioMar i tredje kvartal - iLaks",
       "story_summary": "BioMar achieved sales growth in the third quarter but reported a decline in overall profitability. The article covers the company's quarterly financial performance during this period. Key Claims were not fully accessible from the provided lede, so they cannot be reliably extracted without the full article text. Conversely, the headline and summary clearly indicate financial results reporting on the aquaculture feed producer BioMar Group. Without access to the full article body, specific factual claims cannot be reliably enumerated. However, the narrative is clearly about BioMar's Q3 2020 financial performance, showing revenue growth alongside margin pressure or expense increases that reduced net profit. The angle reflects a mixed financial narrative — positive top-line momentum offset by bottom-line weakness, which is typical of quarterly earnings coverage. The prominence is primary, as BioMar is the sole subject. Sentiment is neutral because the headline presents a factual, mixed result without clear positive or negative framing. Confidence in neutrality is high (0.8) given the balanced nature of reporting on mixed quarterly results. People quoted could not be identified from the lede alone. Risk flags include 'financial' due to quarterly results reporting. Additional detail would require the full article text, but the basic structure is clear from the headline and metadata provided., ",
+      "first_seen": "2020-11-05T08:00:00+00:00",
+      "last_seen": "2020-11-05T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2189,
+      "headline": "Demanda de salmón aumenta ventas de BioMar pero caen sus ganancias - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcUZzOXBweE1KbGlscDNJeENVMkxjMTJqbnAxU0d2bUpNRmlpMmdDYXBWZzZ3RXFudnFWR2JjZW5wWGQtT1BBcEJqSHJaUmtsclNKekRraDE0ZzVaREpXMjVKbXlNNkp0MGlEaU9LRWNhQ0ZxejlHbkdZay1fOXNISnc0eXZ4S1VKa2hTM1puOG5mc01TcXZWVl9ZVkgtNXQ0SHpuUGdPMVlYRHpQSzFhUlpqaWtESDlORXJPaFlrd3MwbGZMWXlOTElfZWdNQQ?oc=5\" target=\"_blank\">Demanda de salmón aumenta ventas de BioMar pero caen sus ganancias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2020-11-05T08:00:00+00:00",
       "last_seen": "2020-11-05T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -101290,6 +101346,126 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3piR1FqV1dSN2xFYmdjRFpjdENaOFFGZlFiWVQ2Tl8xUTVTRThkVEUwZ2l4ZHFBZXc2ay1CMmw3SnpzdWoyVmRGb05fMXRYUVY3bjUyNThPelJ4VjJlanZ5T0c3WWJQbnBIdUg5aUhmakJ0NTRieXdhdGgwTkNPMFp5aFVtQkJpSC1xR2hPU1ZaSXdOOGo3ejdNTlI0S0VLa3l2MFphd2NmVHZzWnlVQTlSVjQ?oc=5\" target=\"_blank\">Nuevo director comercial en Cargill Aqua Nutrition Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 441803,
+      "story_id": 2192,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdV9mSy1hZzhKWW5GUElmSGhTY3lITDMyRTNaWVU0SkhfX2N4NjRBMW5aUlVKRWU4MmRuQTUxVTVrSUdTTW9aTW52a1J5ZDFFWDkzMGhxMW96UWhGY0VnQjhTZjg5LVBHVzI3T3VMQ0dOMkZuNHk3bVhCSDZmLWdkdTBKZzRMcV9RNU4zeUJwXy1oSzZo?oc=5",
+      "title": "BioMar forma una nueva sociedad - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-11-02T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQdV9mSy1hZzhKWW5GUElmSGhTY3lITDMyRTNaWVU0SkhfX2N4NjRBMW5aUlVKRWU4MmRuQTUxVTVrSUdTTW9aTW52a1J5ZDFFWDkzMGhxMW96UWhGY0VnQjhTZjg5LVBHVzI3T3VMQ0dOMkZuNHk3bVhCSDZmLWdkdTBKZzRMcV9RNU4zeUJwXy1oSzZo?oc=5\" target=\"_blank\">BioMar forma una nueva sociedad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 441833,
+      "story_id": 2189,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcUZzOXBweE1KbGlscDNJeENVMkxjMTJqbnAxU0d2bUpNRmlpMmdDYXBWZzZ3RXFudnFWR2JjZW5wWGQtT1BBcEJqSHJaUmtsclNKekRraDE0ZzVaREpXMjVKbXlNNkp0MGlEaU9LRWNhQ0ZxejlHbkdZay1fOXNISnc0eXZ4S1VKa2hTM1puOG5mc01TcXZWVl9ZVkgtNXQ0SHpuUGdPMVlYRHpQSzFhUlpqaWtESDlORXJPaFlrd3MwbGZMWXlOTElfZWdNQQ?oc=5",
+      "title": "Demanda de salmón aumenta ventas de BioMar pero caen sus ganancias - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2020-11-05T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOcUZzOXBweE1KbGlscDNJeENVMkxjMTJqbnAxU0d2bUpNRmlpMmdDYXBWZzZ3RXFudnFWR2JjZW5wWGQtT1BBcEJqSHJaUmtsclNKekRraDE0ZzVaREpXMjVKbXlNNkp0MGlEaU9LRWNhQ0ZxejlHbkdZay1fOXNISnc0eXZ4S1VKa2hTM1puOG5mc01TcXZWVl9ZVkgtNXQ0SHpuUGdPMVlYRHpQSzFhUlpqaWtESDlORXJPaFlrd3MwbGZMWXlOTElfZWdNQQ?oc=5\" target=\"_blank\">Demanda de salmón aumenta ventas de BioMar pero caen sus ganancias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 441917,
+      "story_id": 2188,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbTF2andUWDNnT1M2SWV4UWNubFppYzRBNm9rUlhYZnExUHVXbThnbnJjR1lRWW1aLXZSRkU5RXlsU09MME5mamZjS1pHeVhueWpvOGhrYVNzS3duMFpMaUFaRFVRbHBOWTFpRzNhMW5xMzgyTjl4eE9fR0VBQkN6MTZzQ0M2Zlltbk50c1VxcEdGT3pob2cxU3d2R2hhWXlHSXlBc2s3MFE1Y1dSNGo5UDVqdFJsOGZrQ0Q4Zk5JcTVkVy1DX0VjZ2c5RGVxMXNIb09xRDdmLUFTLUQwNTIxX1FPQXYwS093?oc=5",
+      "title": "Nordea eleva el precio objetivo de Schouw & Co. hasta las 880 coronas danesas y reitera su recomendación de compra - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-08-17T06:15:25+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbTF2andUWDNnT1M2SWV4UWNubFppYzRBNm9rUlhYZnExUHVXbThnbnJjR1lRWW1aLXZSRkU5RXlsU09MME5mamZjS1pHeVhueWpvOGhrYVNzS3duMFpMaUFaRFVRbHBOWTFpRzNhMW5xMzgyTjl4eE9fR0VBQkN6MTZzQ0M2Zlltbk50c1VxcEdGT3pob2cxU3d2R2hhWXlHSXlBc2s3MFE1Y1dSNGo5UDVqdFJsOGZrQ0Q4Zk5JcTVkVy1DX0VjZ2c5RGVxMXNIb09xRDdmLUFTLUQwNTIxX1FPQXYwS093?oc=5\" target=\"_blank\">Nordea eleva el precio objetivo de Schouw & Co. hasta las 880 coronas danesas y reitera su recomendación de compra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>"
+    },
+    {
+      "id": 442301,
+      "story_id": 2191,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnNhSE10enhmcmF2dGloV00tOVlpTWhzNzNLdFZsWkUxSFlWQlYxNTRvTlBiZ2Fma3ZCd01PbHE5WHAwYXp3aWJwLTBiRzNWVEVEaEM1Y1NmemxfT0NMd20yNlBRSi1qSnNUQVJmeDNSaEJncnhkZDIwR05sTnhob1Y3UTNCR1NpcFVFam9VUFZhYW1FX1dfVEpBeWZCeURhZk9ZU2JHMm1ZanZBMWI4T1NrX2ZaSFQ1RVJONDUzXzQ2aUR3Y24yaFpOOW02ckk?oc=5",
+      "title": "Skretting Chile colabora para innovadora solución de cultivo hidropónico - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-01-19T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnNhSE10enhmcmF2dGloV00tOVlpTWhzNzNLdFZsWkUxSFlWQlYxNTRvTlBiZ2Fma3ZCd01PbHE5WHAwYXp3aWJwLTBiRzNWVEVEaEM1Y1NmemxfT0NMd20yNlBRSi1qSnNUQVJmeDNSaEJncnhkZDIwR05sTnhob1Y3UTNCR1NpcFVFam9VUFZhYW1FX1dfVEpBeWZCeURhZk9ZU2JHMm1ZanZBMWI4T1NrX2ZaSFQ1RVJONDUzXzQ2aUR3Y24yaFpOOW02ckk?oc=5\" target=\"_blank\">Skretting Chile colabora para innovadora solución de cultivo hidropónico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 442306,
+      "story_id": 2190,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2Z4b3pKS0VGa2pWOGw2YnZXdlBsS0Jsa3dKSjEtZkRNUmNiWTZObE9wSVlRcWs4RTZUQkl3MngycjhWWG9HU1EyaWJkU2FId0o3b0tmeFY2MDBqS2laX0VLS3dwQkpDelRUeXpid1diMTNORmFsSmJyUEZheEl0a2pMckFLNlpvVlVfM0tyVjdFQWdWbFB3OWU3Q1lwTUhrTXprNG5MckJhZE1tRlRBSEd1WWItUzNZclZjcUR1ZWltYWNtQjRwQnV0d2JiLUEwRkZhSGN3?oc=5",
+      "title": "Controlador de Skretting invierte en importante proyecto RAS de salmón - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-10-05T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2Z4b3pKS0VGa2pWOGw2YnZXdlBsS0Jsa3dKSjEtZkRNUmNiWTZObE9wSVlRcWs4RTZUQkl3MngycjhWWG9HU1EyaWJkU2FId0o3b0tmeFY2MDBqS2laX0VLS3dwQkpDelRUeXpid1diMTNORmFsSmJyUEZheEl0a2pMckFLNlpvVlVfM0tyVjdFQWdWbFB3OWU3Q1lwTUhrTXprNG5MckJhZE1tRlRBSEd1WWItUzNZclZjcUR1ZWltYWNtQjRwQnV0d2JiLUEwRkZhSGN3?oc=5\" target=\"_blank\">Controlador de Skretting invierte en importante proyecto RAS de salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -103480,7 +103656,7 @@
       {
         "week": "2020-W45",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -103803,7 +103979,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2021-W41",
@@ -103915,7 +104091,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2022-W04",
@@ -104584,7 +104760,7 @@
       {
         "week": "2023-W44",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
@@ -105728,7 +105904,7 @@
       {
         "week": "2026-W34",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -105741,7 +105917,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1555
+        "count": 1558
       },
       {
         "company": "Cargill",
@@ -105753,7 +105929,7 @@
       },
       {
         "company": "Skretting",
-        "count": 919
+        "count": 921
       }
     ]
   }
