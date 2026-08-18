@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T16:33:09+00:00",
+  "generated_at": "2026-08-18T22:17:52+00:00",
   "stats": {
-    "mention_count": 2922,
-    "story_count": 2173,
+    "mention_count": 2926,
+    "story_count": 2176,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -319,6 +319,7 @@
     "espana.gastronomia.com",
     "explora.cl",
     "expreso.ec",
+    "fjt.no",
     "folkebladet.no",
     "foodagribusiness.world",
     "fvn.no",
@@ -353,6 +354,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2198,
+      "headline": "Schouw & Co. exceeds the 10% threshold of treasury shares - The Manila Times",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1JLWFZ4ZndkNF9LOFBGMkNnVWIzU1NIbGhtX3ExWk1wWHQ5T2VBeUQwUzFSeW5DR1FOSjFJSjQ3NnZJOHF3eW1tWElvZk9FSzRXUjR3M1hsWXMxaDcxWFlDQ1psZDcweEhYdXlfVVZsSGprVmd5MzJVTlk0YW1Na01hRHdidEVBVUpQNG1rYWNJV1ZmYlhaLW9EcnhFaXRPTkFXcm51cFhxMThvYjdsUHZmRW5EUW9zNTVkMnJSM3N3TWxtZWfSAcsBQVVfeXFMT0ttUU52amtDLVBwOVVud05yZ3hTMTFJbmxTbUhpV2RWeThRUlIzbk5UaFo3X2x3TlA4dFkzSGNrQ0R0MGFWM2RqdERpZy1EOFRkeGp5RWR2T1V1MjZTbS1wRlN6cm9LSnJTTXhOTFB1SEN2bUlNSjNnUzg3UWNLN1JEYTZMN0RVbG1UMm9BTzJFdUdDU3dia0xaR0xGX3ZNdGJtY2JCbFVOSDg5Wi1TdDZSS1ZzQUlNYnk3N1NNTzFCM3FKWVlaZTNUak0?oc=5\" target=\"_blank\">Schouw & Co. exceeds the 10% threshold of treasury shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+      "first_seen": "2026-08-18T17:23:11+00:00",
+      "last_seen": "2026-08-18T17:23:11+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2195,
       "headline": "Oda Skretting ble tomålshelt mot Våganes 2 / Sola - Stavanger Aftenblad",
@@ -727,7 +742,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -19527,6 +19542,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2197,
+      "headline": "Aina-Elin (36) er sjef på verdas største fiskefôrfabrikk - fjt.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWprTzVQWEZPaTdzY2g2LUx3ZFZoZmNOTWZEY213WG4zNV90TWFFa2t4TU8wT3E4aVowU0pQdHhtSVhGcXZBLTloa1RQc3ZKcHU0ZXZtQ1pDbjFJd2xnbWNkQjBDTmZiUFBOZUx1RmVWUi11Yi1RcWRZSTJKRWNfVktPU0JKdld4MHdSY0pzRWt3VUpBa2RZ?oc=5\" target=\"_blank\">Aina-Elin (36) er sjef på verdas største fiskefôrfabrikk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fjt.no</font>",
+      "first_seen": "2022-11-25T08:00:00+00:00",
+      "last_seen": "2022-11-25T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 1396,
       "headline": "Cargill operará planta de alimento balanceado de Empagran, con lo que espera casi duplicar su producción - El Universo",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYTZ5UDl0OGhDczlUSXAtS0FtcDhYVmVfdXE4SmZhLXRGTnNFRHJJZ3NFOXRZWHJOTXh3ZHhVSXZkLUVkQmIxd3hWTFFEdnJ1eVlSSFI0U2haRHl3VnJwN2pyR2JNRHRtQ3AtaHhxbl93dFpMclhfQWd0TEJzWFc4TjU1N3p0dVl0R2RvcXdpcnBlaDYtaWZHbzJzNnNpZXJZQVp0VzJMSG5XSUN6LWtJVy0yeTNuRi03NUwyWUplb3J0Z9IB1gFBVV95cUxPUXhfR2xmTVZHUlVyV2hzOXNQVzNiWXV4NE53T1FwM1pHNVhZOW5DWkZNN0JmM0QyYmZiVlY4cjhBcVNRTnVoNXVKRUYtZ3BmT0dPYmY1dS1VU0RCZDdrV3AwNHEwU2JxSW9ySjFGMGZ4V0F1aWdJeVhtVmxrWEhBLXdEZW82WmdkdkVlbkp5eWNUN2UwWHJ1Z0U4dnZDV0FocG1zNFlBV0R4Y2c2clE4NUU3SnViRzhKd2w4SmgySi1nSGxSb3NudnU5S2VSVU04ajA0Tndn?oc=5\" target=\"_blank\">Cargill operará planta de alimento balanceado de Empagran, con lo que espera casi duplicar su producción</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Universo</font>",
@@ -27272,6 +27301,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2196,
+      "headline": "Cargill entregó resultados del “Best Site EWOS” - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1FaMlAyeWkxS0xHYXlJdzNESkxkUnlCcmRGT0x4MmsyR1J3NFhkcWpMaWJOaDJVTjBENUxQUEN1ajdyS19GV0lpUXpFcEcxeUNjQ09rSUdZYWVuamJscHVTdURHQmd2RVEzQkE0WXlmaUpRLU0yMnktY2NyVUdEVmR1TnA5MHZEUF9Gd3NIZzRpMHE5VFdhbmpPZ3dud3M0Q29rag?oc=5\" target=\"_blank\">Cargill entregó resultados del “Best Site EWOS”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-10-06T07:00:00+00:00",
+      "last_seen": "2017-10-06T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 895,
@@ -101703,6 +101746,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0R6cGZ0ZDl1RzkydHl6dWdEVHpvYkxjU2pPWXQ1bkhMRGRjM0hvYnRRYjhzaXFfR1VaTWVMRHBtMktjSTZMVnhubXYzcU9aRVgwMDhfM2lTbEk2TUtRUWV3WVNYanhvV2xwRERzOWJmVHE3cGxBS2ZERkRqNnRmU0d3R1hxcU5INldRcU9idGk2dw?oc=5\" target=\"_blank\">Oda Skretting ble tomålshelt mot Våganes 2 / Sola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 447688,
+      "story_id": 2148,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYjFFZHFPc1pqNUVzQWxtUWVYYk9fNERhWHY3Rkkyb0U2dmViWGlzREJQQ2J3N0hfeWJvcUktR1A0VElEZy15WFBLcVlvM21hYXBmMlJDQWc0MFdGald6MG4zNXo3VVhOMGhyVS1uRnJFanBpdDEwUlZ4N2tNLWI4aDZUSGp5Nnc5VkZ3Z3lMc1lYdGdWdFFXamxQVkxPWGNvdlUzSHliM3B5U18yMld4VXpvV2p5QTlUblc0cFFR?oc=5",
+      "title": "Earnings call transcript: BioMar lifts 2026 outlook after strong Q2 By Investing.com - Investing.com Canada",
+      "source_name": "Investing.com Canada",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T14:37:58+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNYjFFZHFPc1pqNUVzQWxtUWVYYk9fNERhWHY3Rkkyb0U2dmViWGlzREJQQ2J3N0hfeWJvcUktR1A0VElEZy15WFBLcVlvM21hYXBmMlJDQWc0MFdGald6MG4zNXo3VVhOMGhyVS1uRnJFanBpdDEwUlZ4N2tNLWI4aDZUSGp5Nnc5VkZ3Z3lMc1lYdGdWdFFXamxQVkxPWGNvdlUzSHliM3B5U18yMld4VXpvV2p5QTlUblc0cFFR?oc=5\" target=\"_blank\">Earnings call transcript: BioMar lifts 2026 outlook after strong Q2 By Investing.com</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Canada</font>"
+    },
+    {
+      "id": 448044,
+      "story_id": 2198,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1JLWFZ4ZndkNF9LOFBGMkNnVWIzU1NIbGhtX3ExWk1wWHQ5T2VBeUQwUzFSeW5DR1FOSjFJSjQ3NnZJOHF3eW1tWElvZk9FSzRXUjR3M1hsWXMxaDcxWFlDQ1psZDcweEhYdXlfVVZsSGprVmd5MzJVTlk0YW1Na01hRHdidEVBVUpQNG1rYWNJV1ZmYlhaLW9EcnhFaXRPTkFXcm51cFhxMThvYjdsUHZmRW5EUW9zNTVkMnJSM3N3TWxtZWfSAcsBQVVfeXFMT0ttUU52amtDLVBwOVVud05yZ3hTMTFJbmxTbUhpV2RWeThRUlIzbk5UaFo3X2x3TlA4dFkzSGNrQ0R0MGFWM2RqdERpZy1EOFRkeGp5RWR2T1V1MjZTbS1wRlN6cm9LSnJTTXhOTFB1SEN2bUlNSjNnUzg3UWNLN1JEYTZMN0RVbG1UMm9BTzJFdUdDU3dia0xaR0xGX3ZNdGJtY2JCbFVOSDg5Wi1TdDZSS1ZzQUlNYnk3N1NNTzFCM3FKWVlaZTNUak0?oc=5",
+      "title": "Schouw & Co. exceeds the 10% threshold of treasury shares - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-08-18T17:23:11+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1JLWFZ4ZndkNF9LOFBGMkNnVWIzU1NIbGhtX3ExWk1wWHQ5T2VBeUQwUzFSeW5DR1FOSjFJSjQ3NnZJOHF3eW1tWElvZk9FSzRXUjR3M1hsWXMxaDcxWFlDQ1psZDcweEhYdXlfVVZsSGprVmd5MzJVTlk0YW1Na01hRHdidEVBVUpQNG1rYWNJV1ZmYlhaLW9EcnhFaXRPTkFXcm51cFhxMThvYjdsUHZmRW5EUW9zNTVkMnJSM3N3TWxtZWfSAcsBQVVfeXFMT0ttUU52amtDLVBwOVVud05yZ3hTMTFJbmxTbUhpV2RWeThRUlIzbk5UaFo3X2x3TlA4dFkzSGNrQ0R0MGFWM2RqdERpZy1EOFRkeGp5RWR2T1V1MjZTbS1wRlN6cm9LSnJTTXhOTFB1SEN2bUlNSjNnUzg3UWNLN1JEYTZMN0RVbG1UMm9BTzJFdUdDU3dia0xaR0xGX3ZNdGJtY2JCbFVOSDg5Wi1TdDZSS1ZzQUlNYnk3N1NNTzFCM3FKWVlaZTNUak0?oc=5\" target=\"_blank\">Schouw & Co. exceeds the 10% threshold of treasury shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 448614,
+      "story_id": 2197,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWprTzVQWEZPaTdzY2g2LUx3ZFZoZmNOTWZEY213WG4zNV90TWFFa2t4TU8wT3E4aVowU0pQdHhtSVhGcXZBLTloa1RQc3ZKcHU0ZXZtQ1pDbjFJd2xnbWNkQjBDTmZiUFBOZUx1RmVWUi11Yi1RcWRZSTJKRWNfVktPU0JKdld4MHdSY0pzRWt3VUpBa2RZ?oc=5",
+      "title": "Aina-Elin (36) er sjef på verdas største fiskefôrfabrikk - fjt.no",
+      "source_name": "fjt.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-11-25T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWprTzVQWEZPaTdzY2g2LUx3ZFZoZmNOTWZEY213WG4zNV90TWFFa2t4TU8wT3E4aVowU0pQdHhtSVhGcXZBLTloa1RQc3ZKcHU0ZXZtQ1pDbjFJd2xnbWNkQjBDTmZiUFBOZUx1RmVWUi11Yi1RcWRZSTJKRWNfVktPU0JKdld4MHdSY0pzRWt3VUpBa2RZ?oc=5\" target=\"_blank\">Aina-Elin (36) er sjef på verdas største fiskefôrfabrikk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fjt.no</font>"
+    },
+    {
+      "id": 448669,
+      "story_id": 2196,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1FaMlAyeWkxS0xHYXlJdzNESkxkUnlCcmRGT0x4MmsyR1J3NFhkcWpMaWJOaDJVTjBENUxQUEN1ajdyS19GV0lpUXpFcEcxeUNjQ09rSUdZYWVuamJscHVTdURHQmd2RVEzQkE0WXlmaUpRLU0yMnktY2NyVUdEVmR1TnA5MHZEUF9Gd3NIZzRpMHE5VFdhbmpPZ3dud3M0Q29rag?oc=5",
+      "title": "Cargill entregó resultados del “Best Site EWOS” - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-10-06T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1FaMlAyeWkxS0xHYXlJdzNESkxkUnlCcmRGT0x4MmsyR1J3NFhkcWpMaWJOaDJVTjBENUxQUEN1ajdyS19GV0lpUXpFcEcxeUNjQ09rSUdZYWVuamJscHVTdURHQmd2RVEzQkE0WXlmaUpRLU0yMnktY2NyVUdEVmR1TnA5MHZEUF9Gd3NIZzRpMHE5VFdhbmpPZ3dud3M0Q29rag?oc=5\" target=\"_blank\">Cargill entregó resultados del “Best Site EWOS”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -102950,7 +103089,7 @@
         "week": "2017-W40",
         "Aller Aqua": 0,
         "BioMar": 2,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
       },
@@ -104646,7 +104785,7 @@
         "week": "2022-W47",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 2,
+        "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 5
       },
@@ -106133,7 +106272,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 67,
+        "BioMar": 68,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -106141,7 +106280,7 @@
       {
         "week": "2026-W34",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -106154,11 +106293,11 @@
       },
       {
         "company": "BioMar",
-        "count": 1563
+        "count": 1565
       },
       {
         "company": "Cargill",
-        "count": 279
+        "count": 281
       },
       {
         "company": "Polarfeed",
