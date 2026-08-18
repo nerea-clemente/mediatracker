@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-18T09:54:55+00:00",
+  "generated_at": "2026-08-18T16:33:09+00:00",
   "stats": {
-    "mention_count": 2920,
-    "story_count": 2171,
+    "mention_count": 2922,
+    "story_count": 2173,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -353,6 +353,20 @@
     "washburn-mcreavy.com"
   ],
   "stories": [
+    {
+      "id": 2195,
+      "headline": "Oda Skretting ble tomålshelt mot Våganes 2 / Sola - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0R6cGZ0ZDl1RzkydHl6dWdEVHpvYkxjU2pPWXQ1bkhMRGRjM0hvYnRRYjhzaXFfR1VaTWVMRHBtMktjSTZMVnhubXYzcU9aRVgwMDhfM2lTbEk2TUtRUWV3WVNYanhvV2xwRERzOWJmVHE3cGxBS2ZERkRqNnRmU0d3R1hxcU5INldRcU9idGk2dw?oc=5\" target=\"_blank\">Oda Skretting ble tomålshelt mot Våganes 2 / Sola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-08-17T19:46:36+00:00",
+      "last_seen": "2026-08-17T19:46:36+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2125,
       "headline": "Schouw & Co. share buy-back programme, week 32 2026 - marketscreener.com",
@@ -21295,6 +21309,20 @@
       "id": 1921,
       "headline": "Las microalgas ya no son consideradas un ingrediente de nicho en BioMar - misPeces",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFpPcnBXMTJuQjV6dkZwN2JnbDk4UFBlbzBsRDE2NnVvLS1MMjhacVFzMXRiSFNHSk1vQ1Eyc3o0SGpLdkVwYTFhUFdKd0lrNTBoUk5FTXBKRkxwLVNJblBEMl84SzhuWi1ZUmx6QlR4WmRpNmRHeV90clppcjVxX29CaVZSOTRCLVgzWDY2eThzaERqWFBxX0U5Q294SEpHRGt4S29SRkhOQQ?oc=5\" target=\"_blank\">Las microalgas ya no son consideradas un ingrediente de nicho en BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2022-02-21T08:00:00+00:00",
+      "last_seen": "2022-02-21T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2194,
+      "headline": "BioMar aumenta fuerte uso de microalgas en la elaboración de alimentos - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPQU54ajk0VEVaMXNjbHdQa0NqUUZsWmk1b2hZTWNLQXhjZkxSYjh0TDM3T0dIUEJZdTdfODdCSnpjSHdBak5LMFJoTkVsSU9ONUNqQVZuWFBVNzBrTTN5ckRHNkdEd0laY3M2WklBdmtZVlJVRnBQWXc4eEt6OWN2M0p5RENRZWRYNTJPQUxEVE1QRWhUZ2FjU1NCaksxdDE0aU00bkUxY1dGY0ZXOVRobVJ0M0d2QkJTbGwzUkJiajVTbFFiSWJaZWxTcnlWUQ?oc=5\" target=\"_blank\">BioMar aumenta fuerte uso de microalgas en la elaboración de alimentos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2022-02-21T08:00:00+00:00",
       "last_seen": "2022-02-21T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -101627,6 +101655,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWU0M19DUUVVd0xBR3g0TXBZcjBHWU00ZHBKSm1tN2xtSGE5VVpXdkNpQXcxQ2V2eTdwa1lreGRWdmFIVTZFTTZkTDBnQ21yT0tvOE5KVEppNjkzSWQ2a090QUlkeEppNm55QTVPcWJRY3ZvWVBwb3FDbTVLWWs3eWNIMkxyemFOSklQM2M3UlJud0lxUTNvU1NYbDQtMkg5QkxfVEFuamlMdHc?oc=5\" target=\"_blank\">¿Por qué se dispara hoy la acción de Schouw & Co.?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.investing.com</font>"
+    },
+    {
+      "id": 446988,
+      "story_id": 2194,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQU54ajk0VEVaMXNjbHdQa0NqUUZsWmk1b2hZTWNLQXhjZkxSYjh0TDM3T0dIUEJZdTdfODdCSnpjSHdBak5LMFJoTkVsSU9ONUNqQVZuWFBVNzBrTTN5ckRHNkdEd0laY3M2WklBdmtZVlJVRnBQWXc4eEt6OWN2M0p5RENRZWRYNTJPQUxEVE1QRWhUZ2FjU1NCaksxdDE0aU00bkUxY1dGY0ZXOVRobVJ0M0d2QkJTbGwzUkJiajVTbFFiSWJaZWxTcnlWUQ?oc=5",
+      "title": "BioMar aumenta fuerte uso de microalgas en la elaboración de alimentos - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-02-21T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPQU54ajk0VEVaMXNjbHdQa0NqUUZsWmk1b2hZTWNLQXhjZkxSYjh0TDM3T0dIUEJZdTdfODdCSnpjSHdBak5LMFJoTkVsSU9ONUNqQVZuWFBVNzBrTTN5ckRHNkdEd0laY3M2WklBdmtZVlJVRnBQWXc4eEt6OWN2M0p5RENRZWRYNTJPQUxEVE1QRWhUZ2FjU1NCaksxdDE0aU00bkUxY1dGY0ZXOVRobVJ0M0d2QkJTbGwzUkJiajVTbFFiSWJaZWxTcnlWUQ?oc=5\" target=\"_blank\">BioMar aumenta fuerte uso de microalgas en la elaboración de alimentos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 447236,
+      "story_id": 2195,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0R6cGZ0ZDl1RzkydHl6dWdEVHpvYkxjU2pPWXQ1bkhMRGRjM0hvYnRRYjhzaXFfR1VaTWVMRHBtMktjSTZMVnhubXYzcU9aRVgwMDhfM2lTbEk2TUtRUWV3WVNYanhvV2xwRERzOWJmVHE3cGxBS2ZERkRqNnRmU0d3R1hxcU5INldRcU9idGk2dw?oc=5",
+      "title": "Oda Skretting ble tomålshelt mot Våganes 2 / Sola - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-08-17T19:46:36+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0R6cGZ0ZDl1RzkydHl6dWdEVHpvYkxjU2pPWXQ1bkhMRGRjM0hvYnRRYjhzaXFfR1VaTWVMRHBtMktjSTZMVnhubXYzcU9aRVgwMDhfM2lTbEk2TUtRUWV3WVNYanhvV2xwRERzOWJmVHE3cGxBS2ZERkRqNnRmU0d3R1hxcU5INldRcU9idGk2dw?oc=5\" target=\"_blank\">Oda Skretting ble tomålshelt mot Våganes 2 / Sola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
     }
   ],
   "share_of_voice": {
@@ -104281,7 +104357,7 @@
       {
         "week": "2022-W08",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -106068,7 +106144,7 @@
         "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       }
     ],
     "totals": [
@@ -106078,7 +106154,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1562
+        "count": 1563
       },
       {
         "company": "Cargill",
@@ -106090,7 +106166,7 @@
       },
       {
         "company": "Skretting",
-        "count": 923
+        "count": 924
       }
     ]
   }
