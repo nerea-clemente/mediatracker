@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T22:19:09+00:00",
+  "generated_at": "2026-08-18T05:55:03+00:00",
   "stats": {
-    "mention_count": 2919,
+    "mention_count": 2920,
     "story_count": 2171,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -314,6 +314,7 @@
     "elDiario.es",
     "elciudadano.com",
     "eltelegrafo.com.ec",
+    "es.investing.com",
     "es.tradingview.com",
     "espana.gastronomia.com",
     "explora.cl",
@@ -578,15 +579,15 @@
     },
     {
       "id": 2155,
-      "headline": "¿Por qué las acciones de Schouw & Co. se disparan hoy? - Investing.com México",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSWN4T05xRWhtZ0liRGEyR2ViTGNaQ0ZQUjJ0N3VmR2NIYXd6ajdJelpXV0VuWEhyYnkxRjVJMU1vS0twZGw2U0RVbi1MbUFOVk1vMUFNc05aZDBHNjl2Y3l5Y3Jfb0VwU2dCb3U1Z1dFZFJJS2dxX1RfTy1XWDdacFVNVmR5Yml4TE1LRmhRaDlvczF5c3R0dXN1RnlkYjNENUdqUXFzeWtadTVCQThsVQ?oc=5\" target=\"_blank\">¿Por qué las acciones de Schouw & Co. se disparan hoy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com México</font>",
-      "first_seen": "2026-08-14T07:43:54+00:00",
+      "headline": "¿Por qué se dispara hoy la acción de Schouw & Co.? - es.investing.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWU0M19DUUVVd0xBR3g0TXBZcjBHWU00ZHBKSm1tN2xtSGE5VVpXdkNpQXcxQ2V2eTdwa1lreGRWdmFIVTZFTTZkTDBnQ21yT0tvOE5KVEppNjkzSWQ2a090QUlkeEppNm55QTVPcWJRY3ZvWVBwb3FDbTVLWWs3eWNIMkxyemFOSklQM2M3UlJud0lxUTNvU1NYbDQtMkg5QkxfVEFuamlMdHc?oc=5\" target=\"_blank\">¿Por qué se dispara hoy la acción de Schouw & Co.?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.investing.com</font>",
+      "first_seen": "2026-08-14T07:43:00+00:00",
       "last_seen": "2026-08-14T07:43:54+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -101602,6 +101603,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXRyaG43TG1TendMTzJXX2hWNjJ4MWRER21FcmtVZHZHSGZjTXBjYVdpRlk4VjZ5OGRtTW0yTl9iLU4xcjhzOTE1eDNSUDRHc09Oa1Nxam94OHcxY0pMY1pNOVluYTA0emkwRDlRZG13cllUVUlUbGh2cE55eTJNRmRzWTE2dG1sbkJwbk1LSXpmN3dWTmM4ME1uSVlXS3A1Y1RxTWxsOHFoSEJyQUpqZk5wcHI3UzFHNGNF?oc=5\" target=\"_blank\">MV Skretting Gro: Vertom Group entrega buque diésel-eléctrico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dataportuaria.com</font>"
+    },
+    {
+      "id": 445008,
+      "story_id": 2155,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWU0M19DUUVVd0xBR3g0TXBZcjBHWU00ZHBKSm1tN2xtSGE5VVpXdkNpQXcxQ2V2eTdwa1lreGRWdmFIVTZFTTZkTDBnQ21yT0tvOE5KVEppNjkzSWQ2a090QUlkeEppNm55QTVPcWJRY3ZvWVBwb3FDbTVLWWs3eWNIMkxyemFOSklQM2M3UlJud0lxUTNvU1NYbDQtMkg5QkxfVEFuamlMdHc?oc=5",
+      "title": "¿Por qué se dispara hoy la acción de Schouw & Co.? - es.investing.com",
+      "source_name": "es.investing.com",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T07:43:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWU0M19DUUVVd0xBR3g0TXBZcjBHWU00ZHBKSm1tN2xtSGE5VVpXdkNpQXcxQ2V2eTdwa1lreGRWdmFIVTZFTTZkTDBnQ21yT0tvOE5KVEppNjkzSWQ2a090QUlkeEppNm55QTVPcWJRY3ZvWVBwb3FDbTVLWWs3eWNIMkxyemFOSklQM2M3UlJud0lxUTNvU1NYbDQtMkg5QkxfVEFuamlMdHc?oc=5\" target=\"_blank\">¿Por qué se dispara hoy la acción de Schouw & Co.?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.investing.com</font>"
     }
   ],
   "share_of_voice": {
@@ -106032,7 +106057,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 66,
+        "BioMar": 67,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -106053,7 +106078,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1561
+        "count": 1562
       },
       {
         "company": "Cargill",
