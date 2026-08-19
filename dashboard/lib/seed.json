@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T05:56:01+00:00",
+  "generated_at": "2026-08-19T09:55:06+00:00",
   "stats": {
-    "mention_count": 2929,
-    "story_count": 2178,
+    "mention_count": 2930,
+    "story_count": 2179,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -19296,6 +19296,20 @@
       "first_seen": "2023-01-27T08:00:00+00:00",
       "last_seen": "2023-01-27T08:00:00+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2201,
+      "headline": "BioMar utilizará soja de alta tecnología que dará gran impulso a salmonicultores - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNenZKNE1QanNoLWZfQ0E1OW96ako4OW1GUS1XUGpOWmVUcHBSU0pUc0FpWldraGFHRlJOcEFWVVZXX1lPTnlGcXVKTGRrX3BQZWUtSGpnd1BzdEY5ejVJQXItWXZFWGx0Mnd6MWthdGVTRmEyRnNHSjlnSFNqbEgzc2k0cE4wdnh2eG1FZUt2cGp0Rnk1ZFFCVVhKUjBFdUJwV01TaDJVbUhRMU12THBibHU1aG03cmwwU3R1OHhBMzRoSnhpa3dsc2lkSlI5RGlZRERj?oc=5\" target=\"_blank\">BioMar utilizará soja de alta tecnología que dará gran impulso a salmonicultores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2023-01-27T08:00:00+00:00",
+      "last_seen": "2023-01-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -101942,6 +101956,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFA2bFJzUUk5bTRUUzF6Qk50XzBHeExrQkY4aGd4U3BOYy1XTkxNRFN5RFZZUjZDR3h6Rm1KY1RScXdGdWtkVUgybkVXQXZjM2M1Sk9HX2twbkZjeHd5NWdoNmJ5bXRldnJFbHNNbTE2aWJwT0VtbXBjQVFFRlMtMG1FS1lWOHZBejZ6TXdR?oc=5\" target=\"_blank\">New Cargill fish centre to focus on nutrition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foodagribusiness.world</font>"
+    },
+    {
+      "id": 450074,
+      "story_id": 2201,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNenZKNE1QanNoLWZfQ0E1OW96ako4OW1GUS1XUGpOWmVUcHBSU0pUc0FpWldraGFHRlJOcEFWVVZXX1lPTnlGcXVKTGRrX3BQZWUtSGpnd1BzdEY5ejVJQXItWXZFWGx0Mnd6MWthdGVTRmEyRnNHSjlnSFNqbEgzc2k0cE4wdnh2eG1FZUt2cGp0Rnk1ZFFCVVhKUjBFdUJwV01TaDJVbUhRMU12THBibHU1aG03cmwwU3R1OHhBMzRoSnhpa3dsc2lkSlI5RGlZRERj?oc=5",
+      "title": "BioMar utilizará soja de alta tecnología que dará gran impulso a salmonicultores - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-01-27T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNenZKNE1QanNoLWZfQ0E1OW96ako4OW1GUS1XUGpOWmVUcHBSU0pUc0FpWldraGFHRlJOcEFWVVZXX1lPTnlGcXVKTGRrX3BQZWUtSGpnd1BzdEY5ejVJQXItWXZFWGx0Mnd6MWthdGVTRmEyRnNHSjlnSFNqbEgzc2k0cE4wdnh2eG1FZUt2cGp0Rnk1ZFFCVVhKUjBFdUJwV01TaDJVbUhRMU12THBibHU1aG03cmwwU3R1OHhBMzRoSnhpa3dsc2lkSlI5RGlZRERj?oc=5\" target=\"_blank\">BioMar utilizará soja de alta tecnología que dará gran impulso a salmonicultores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -104948,7 +104986,7 @@
       {
         "week": "2023-W04",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 5
@@ -106393,7 +106431,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1567
+        "count": 1568
       },
       {
         "company": "Cargill",
