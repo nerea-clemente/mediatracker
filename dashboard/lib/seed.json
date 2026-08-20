@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T22:19:43+00:00",
+  "generated_at": "2026-08-20T05:56:37+00:00",
   "stats": {
-    "mention_count": 2944,
-    "story_count": 2190,
+    "mention_count": 2948,
+    "story_count": 2193,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -276,6 +276,7 @@
     "TradingView",
     "Transfermarkt",
     "Tribute Archive",
+    "UA.NEWS",
     "Undercurrent News",
     "Universitetet i Bergen",
     "Universitetsavisa",
@@ -357,6 +358,34 @@
   ],
   "stories": [
     {
+      "id": 2195,
+      "headline": "Oda Skretting ble tomålshelt mot Våganes 2 / Sola - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0R6cGZ0ZDl1RzkydHl6dWdEVHpvYkxjU2pPWXQ1bkhMRGRjM0hvYnRRYjhzaXFfR1VaTWVMRHBtMktjSTZMVnhubXYzcU9aRVgwMDhfM2lTbEk2TUtRUWV3WVNYanhvV2xwRERzOWJmVHE3cGxBS2ZERkRqNnRmU0d3R1hxcU5INldRcU9idGk2dw?oc=5\" target=\"_blank\">Oda Skretting ble tomålshelt mot Våganes 2 / Sola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-08-17T19:46:36+00:00",
+      "last_seen": "2026-08-19T20:57:14+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2215,
+      "headline": "Authorities in Tasmania are investigating reports of contamination in fish feed at the Skretting plant - UA.NEWS",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTRPWEV2cU53ZjRFN3JJN19mWm9hZ3M1M0tyNXFzcEg3aG5Kd0JjaDUzV0NMQTVjTkNQMUxpYkhXNjNtNW5TcU51aFNPaVNHZWc1dHlYdUhuOHBTajdwcG8xLXBCTjhIN2Z2QjVrb1A5VUhDb1FPVzMyVGZfX014VDRteEdiQWg2bldJTHRENW1rZ1VWR0hjbDRLa3R4d0x6SU9Qbmg1c1BJTWNRclE?oc=5\" target=\"_blank\">Authorities in Tasmania are investigating reports of contamination in fish feed at the Skretting plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA.NEWS</font>",
+      "first_seen": "2026-08-19T19:50:40+00:00",
+      "last_seen": "2026-08-19T19:50:40+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2212,
       "headline": "Fish feed giant Skretting fires back over Facebook claims of contamination - ABC News & Headlines – Australian Broadcasting Corporation",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRTQzQThTaVBrdGZJWDNJMEt4a29kM19iWnV1WTl5U1RBNnQwd2NMX3RIMmtTYU5Wa05maDA1cjFiVWh1aEFwcU4zTUVvUlljaWVYMnFqTkJwYno4Z1NLSlU1NGdzV2prTFNJT1NDeXhEanVGNm11cG56SmsyRFppUllhODd0WWVnTUdBNkJKN1FOZjh4MzRuUGFuN0JZN1hJOVdJVFoyam13OVk?oc=5\" target=\"_blank\">Fish feed giant Skretting fires back over Facebook claims of contamination</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines – Australian Broadcasting Corporation</font>",
@@ -425,20 +454,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
-    },
-    {
-      "id": 2195,
-      "headline": "Oda Skretting ble tomålshelt mot Våganes 2 / Sola - Stavanger Aftenblad",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0R6cGZ0ZDl1RzkydHl6dWdEVHpvYkxjU2pPWXQ1bkhMRGRjM0hvYnRRYjhzaXFfR1VaTWVMRHBtMktjSTZMVnhubXYzcU9aRVgwMDhfM2lTbEk2TUtRUWV3WVNYanhvV2xwRERzOWJmVHE3cGxBS2ZERkRqNnRmU0d3R1hxcU5INldRcU9idGk2dw?oc=5\" target=\"_blank\">Oda Skretting ble tomålshelt mot Våganes 2 / Sola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
-      "first_seen": "2026-08-17T19:46:36+00:00",
-      "last_seen": "2026-08-17T19:46:36+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "Skretting"
     },
     {
       "id": 2125,
@@ -689,6 +704,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2214,
+      "headline": "Schouw & Co. Q2 Revenue DKK 9 Bln, Up 5% - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXVZWjJ0a0NrMnVLYmtMOUp4M1dpUE5MVHllaEJ6Rk9MZXJ3UHBpYWQ1TXA3WTd5aW9hZ2hHeFU4T2hwNlRrWVFLU1ZJd2RFLVVHMDcwZUJkZ2ctdDZFYWdoVExxRlZLR2RDaV82emY0QkQ4dlZfQzA5amtPeno3ME5nU2ZhVzVOYVRhdElzazdyc3k1c0psSmU3Ty03TTJWTTZVcTUtcmc?oc=5\" target=\"_blank\">Schouw & Co. Q2 Revenue DKK 9 Bln, Up 5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-08-14T06:19:00+00:00",
+      "last_seen": "2026-08-14T06:19:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -976,6 +1005,20 @@
       "id": 2211,
       "headline": "Schouw & Co unit BioMar lifts 2026 outlook, sees revenue DKK 17-18 billion, EBIT DKK 1.2-1.3 billion - Bitget",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tVHlaRFpvU0x6UjVFQlB5amZ6TlBlLThoX29ITHh2R2V6WllnVmk3M3BMSGt1STc2Z3RoOTgwYUFDSHh6VFhZbGpicmExZF9UdTQxWmxnSTNHcWllNEVpaXBmNNIBY0FVX3lxTE1tVHlaRFpvU0x6UjVFQlB5amZ6TlBlLThoX29ITHh2R2V6WllnVmk3M3BMSGt1STc2Z3RoOTgwYUFDSHh6VFhZbGpicmExZF9UdTQxWmxnSTNHcWllNEVpaXBmNA?oc=5\" target=\"_blank\">Schouw & Co unit BioMar lifts 2026 outlook, sees revenue DKK 17-18 billion, EBIT DKK 1.2-1.3 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+      "first_seen": "2026-08-12T07:00:00+00:00",
+      "last_seen": "2026-08-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2213,
+      "headline": "BioMar Q2 EBIT slips 2.72% to DKK 250 million; revenue rises 5% to DKK 4.16 billion - Bitget",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhSHlJXzB2aDZNcmwyQlRPZVl0TVZxR2Fkb08zNE02Y21ZYzBQLXZyN3N4bTJzQzlNNE8zeDFwWGpTaklKLUhzQXV3RlFaakppcHhlWWdiQVVldUlUT0VsX0pKRdIBY0FVX3lxTFBhSHlJXzB2aDZNcmwyQlRPZVl0TVZxR2Fkb08zNE02Y21ZYzBQLXZyN3N4bTJzQzlNNE8zeDFwWGpTaklKLUhzQXV3RlFaakppcHhlWWdiQVVldUlUT0VsX0pKRQ?oc=5\" target=\"_blank\">BioMar Q2 EBIT slips 2.72% to DKK 250 million; revenue rises 5% to DKK 4.16 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
       "first_seen": "2026-08-12T07:00:00+00:00",
       "last_seen": "2026-08-12T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -102472,6 +102515,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXZZUXUtWXZrVHRSdnFaUF9jZVc5WDFLTjJQc2MzRWhHbkh6ZHdDcjJIXzk5dC1malpNdGJ0LUF0U1VDTU5TR0xLOXJ5azQtU1pMcUtjdTJSWEppZDlScnEtYUQ2UXE2MXpKd1J2ZGp4ZVo4RWRnSVRRNDI1ak5vd3FWbkNBb1piZ0tpZXBwcHl3WERWempib2ZvbFV1NERm?oc=5\" target=\"_blank\">Cathrine tok med blomster: – Tankene mine går til familien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>"
+    },
+    {
+      "id": 452857,
+      "story_id": 2213,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhSHlJXzB2aDZNcmwyQlRPZVl0TVZxR2Fkb08zNE02Y21ZYzBQLXZyN3N4bTJzQzlNNE8zeDFwWGpTaklKLUhzQXV3RlFaakppcHhlWWdiQVVldUlUT0VsX0pKRdIBY0FVX3lxTFBhSHlJXzB2aDZNcmwyQlRPZVl0TVZxR2Fkb08zNE02Y21ZYzBQLXZyN3N4bTJzQzlNNE8zeDFwWGpTaklKLUhzQXV3RlFaakppcHhlWWdiQVVldUlUT0VsX0pKRQ?oc=5",
+      "title": "BioMar Q2 EBIT slips 2.72% to DKK 250 million; revenue rises 5% to DKK 4.16 billion - Bitget",
+      "source_name": "Bitget",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhSHlJXzB2aDZNcmwyQlRPZVl0TVZxR2Fkb08zNE02Y21ZYzBQLXZyN3N4bTJzQzlNNE8zeDFwWGpTaklKLUhzQXV3RlFaakppcHhlWWdiQVVldUlUT0VsX0pKRdIBY0FVX3lxTFBhSHlJXzB2aDZNcmwyQlRPZVl0TVZxR2Fkb08zNE02Y21ZYzBQLXZyN3N4bTJzQzlNNE8zeDFwWGpTaklKLUhzQXV3RlFaakppcHhlWWdiQVVldUlUT0VsX0pKRQ?oc=5\" target=\"_blank\">BioMar Q2 EBIT slips 2.72% to DKK 250 million; revenue rises 5% to DKK 4.16 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>"
+    },
+    {
+      "id": 453212,
+      "story_id": 2214,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXVZWjJ0a0NrMnVLYmtMOUp4M1dpUE5MVHllaEJ6Rk9MZXJ3UHBpYWQ1TXA3WTd5aW9hZ2hHeFU4T2hwNlRrWVFLU1ZJd2RFLVVHMDcwZUJkZ2ctdDZFYWdoVExxRlZLR2RDaV82emY0QkQ4dlZfQzA5amtPeno3ME5nU2ZhVzVOYVRhdElzazdyc3k1c0psSmU3Ty03TTJWTTZVcTUtcmc?oc=5",
+      "title": "Schouw & Co. Q2 Revenue DKK 9 Bln, Up 5% - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T06:19:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXVZWjJ0a0NrMnVLYmtMOUp4M1dpUE5MVHllaEJ6Rk9MZXJ3UHBpYWQ1TXA3WTd5aW9hZ2hHeFU4T2hwNlRrWVFLU1ZJd2RFLVVHMDcwZUJkZ2ctdDZFYWdoVExxRlZLR2RDaV82emY0QkQ4dlZfQzA5amtPeno3ME5nU2ZhVzVOYVRhdElzazdyc3k1c0psSmU3Ty03TTJWTTZVcTUtcmc?oc=5\" target=\"_blank\">Schouw & Co. Q2 Revenue DKK 9 Bln, Up 5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 453331,
+      "story_id": 2215,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTRPWEV2cU53ZjRFN3JJN19mWm9hZ3M1M0tyNXFzcEg3aG5Kd0JjaDUzV0NMQTVjTkNQMUxpYkhXNjNtNW5TcU51aFNPaVNHZWc1dHlYdUhuOHBTajdwcG8xLXBCTjhIN2Z2QjVrb1A5VUhDb1FPVzMyVGZfX014VDRteEdiQWg2bldJTHRENW1rZ1VWR0hjbDRLa3R4d0x6SU9Qbmg1c1BJTWNRclE?oc=5",
+      "title": "Authorities in Tasmania are investigating reports of contamination in fish feed at the Skretting plant - UA.NEWS",
+      "source_name": "UA.NEWS",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-19T19:50:40+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTRPWEV2cU53ZjRFN3JJN19mWm9hZ3M1M0tyNXFzcEg3aG5Kd0JjaDUzV0NMQTVjTkNQMUxpYkhXNjNtNW5TcU51aFNPaVNHZWc1dHlYdUhuOHBTajdwcG8xLXBCTjhIN2Z2QjVrb1A5VUhDb1FPVzMyVGZfX014VDRteEdiQWg2bldJTHRENW1rZ1VWR0hjbDRLa3R4d0x6SU9Qbmg1c1BJTWNRclE?oc=5\" target=\"_blank\">Authorities in Tasmania are investigating reports of contamination in fish feed at the Skretting plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA.NEWS</font>"
+    },
+    {
+      "id": 453430,
+      "story_id": 2195,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yZ2lFOFdZQVJuVG9nSzE5bU9rM3dMQVdJVmxCTEc2azBydV9NQzF0WjBTT3J4Y3NoNWZGUkZiM3o5UUFPZFJLTDV2M2o3aEVaMVVPY1dPX3VCaE1ISzVva25aUGxKSGlUbVVpb201Q01aMVU?oc=5",
+      "title": "Eivind Skretting sikret poeng for Vidar 3 - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-08-19T20:57:14+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1yZ2lFOFdZQVJuVG9nSzE5bU9rM3dMQVdJVmxCTEc2azBydV9NQzF0WjBTT3J4Y3NoNWZGUkZiM3o5UUFPZFJLTDV2M2o3aEVaMVVPY1dPX3VCaE1ISzVva25aUGxKSGlUbVVpb201Q01aMVU?oc=5\" target=\"_blank\">Eivind Skretting sikret poeng for Vidar 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
     }
   ],
   "share_of_voice": {
@@ -106902,7 +107041,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 72,
+        "BioMar": 74,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -106913,7 +107052,7 @@
         "BioMar": 8,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 4
       }
     ],
     "totals": [
@@ -106923,7 +107062,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1577
+        "count": 1579
       },
       {
         "company": "Cargill",
@@ -106935,7 +107074,7 @@
       },
       {
         "company": "Skretting",
-        "count": 929
+        "count": 931
       }
     ]
   }
