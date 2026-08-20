@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T16:36:53+00:00",
+  "generated_at": "2026-08-20T22:21:38+00:00",
   "stats": {
-    "mention_count": 2956,
-    "story_count": 2200,
+    "mention_count": 2960,
+    "story_count": 2202,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -6957,7 +6957,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -20260,6 +20260,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2224,
+      "headline": "Skretting Chile lanza cuarto ciclo de F.I.S.H. Great Talks - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmhWX1M2aXZuV2FfXzdiSnpUbEtjc1dpNDIxTTBzUkxSNXFCRXdHVUZCY3htY0JiVG1FSTRiMmFvUEFRdU1vOWp3Y050SVJEU2VFUlVUTGo5ejBDd3ZBbVNyWERMYTd4TWhNLUtBYi03bmttZzlaTXpiUzZRdHFLU190by1DYUNINXVLNjRPNlYzbGh3dlM1Y2ZhUmlKN0pFM3FpbmVpTXNXQWQ2UUotZw?oc=5\" target=\"_blank\">Skretting Chile lanza cuarto ciclo de F.I.S.H. Great Talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2022-10-03T07:00:00+00:00",
+      "last_seen": "2022-10-03T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 960,
       "headline": "Skretting Chile conmemoró el Día Internacional de Limpieza de Playas junto a escolares de Pargua - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVEdtbHQ4RTMxR2RtZ0JtN1dfSmpXdmRGTGJBenlOazRvY0R5ekFQSVh5ZV9jcnNRQjdYT3JFUUtsajZtQkdPOTc1dVNPcmpuQmo0SzNzb25WTkExa3NEblZPMVFwN3Z5elJqeS1mVFJWMDBaM1hZNERkeGhWanBNZjl6MnRSQnBpc3FvNU5hRld5LUNteEZxZjlEaXlSLVRLcWw2V3BBMlBRRUQtVzJYQ1lEVU1LYTVrdmtuSFBweExpMXZ6LVNZaTdYNUUyVVJvT19QUGRpX2pGVW1waDBTS3VNb0lTYm5V?oc=5\" target=\"_blank\">Skretting Chile conmemoró el Día Internacional de Limpieza de Playas junto a escolares de Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
@@ -20297,7 +20311,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -22680,6 +22694,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2223,
+      "headline": "Salud de peces: Protec se consolida como herramienta nutricional para el control del acortamiento opercular - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaThZUUJrT2hINHgtYW0yWWVTNWJ5U2FZRTJSMDA2bnRROVlNMTRkanJCZzhqT2NZVkpXem0tVVFTQlU1LThtc0tqSVRrcDNUdm1Bbi1PTUtUTUZkZXhsMkRyMC04RjlTcl9RczNUX2pBM1NKT2sxMHNiWnRJZ01sdjE3X1ZOTVlqMV9DWUtRTEVGRUNNYUdQYmNVaVlLbkVLTUNpd2JJQU5tN1BDcTdLVmo1eVhqcnl3V0JYb3NSWFNlWldUXzRqem9waHRHMTRDeDZ3RHdYUUpsblUwbTBBcHFhU1ZZaG14OVJOLVJXYXA2UmNWQmxzX3dNQldHTFU?oc=5\" target=\"_blank\">Salud de peces: Protec se consolida como herramienta nutricional para el control del acortamiento opercular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2021-06-11T07:00:00+00:00",
+      "last_seen": "2021-06-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1855,
@@ -102901,6 +102929,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZlBzd25iUHpRb0F5dTRTdm82YUhVYm10NGtnbVB0WndPeEtCNF9mVEFlZTNKYlU4STVJUklWdG1YNEtZVHRHdzg0X24yMWt6YnBSZTJBX0k5TG9MU2ZQZGRQSFBQMjhINUhWTUl2Rkk0VS1rUXBTNXhFN2Q1bURyVGE3djlLSll4b0lJNlZ1Z1VlRmxkanZ5ZG4tbTZWeGZtTXRkeG1NS25KUjJGRWtMdUxPM05aZzNVck9qYVpLTWhxWDNNVER0OWZB?oc=5\" target=\"_blank\">Precision nutrition: Advancing salmon nutrition from essential nitrogen to effective energy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 456010,
+      "story_id": 308,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmFZZGI3T0Jzd1EwM1l0NXkwLWhoWkZIa1BjaHJqUF9DTGF1WXE5Q2ZUMjc0TWNWci14MEhtM0JQM2QxemZzUFFjRF9YcU1CVWpGWDVyWUJ5aEFJNTU1S1pVTkxjSU9IdkpxeXNTdkx3ZEJ4Mml5Si03NWRaUWx0blZ1SG84d3pCU0ZWbHRlaTBQNml1X0lJTVNxY0RLcmw4dnZlOG1Sbw?oc=5",
+      "title": "BioMar expands China aquafeed footprint with second Wuxi production line - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-02-11T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmFZZGI3T0Jzd1EwM1l0NXkwLWhoWkZIa1BjaHJqUF9DTGF1WXE5Q2ZUMjc0TWNWci14MEhtM0JQM2QxemZzUFFjRF9YcU1CVWpGWDVyWUJ5aEFJNTU1S1pVTkxjSU9IdkpxeXNTdkx3ZEJ4Mml5Si03NWRaUWx0blZ1SG84d3pCU0ZWbHRlaTBQNml1X0lJTVNxY0RLcmw4dnZlOG1Sbw?oc=5\" target=\"_blank\">BioMar expands China aquafeed footprint with second Wuxi production line</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 456594,
+      "story_id": 526,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWQ5clJVVzVoTzhjT09kZ0pjUUZWemNhZk1QUzkxdHhZN0ltVzVUVGJVZExKd2M0VjhMcE9ISlN3amJNMHZjUi0tRFlCN3NtekE4YU5qZGUwVmx6aC01ZjVnQ3YwTGktSjVnYlpQSVhITllEVnl0NldtYWs4N2s5OVMzMUhhQ2xOcE5temJ5ZUVrQ3B3XzROWms5N3FaZHd1dW1fQmZLbWhKVTNBVFZEZktxczQ2Ml9IZ3k2ZFlqR0x1dWswamc2RTNR?oc=5",
+      "title": "Skretting Chile presenta C-GROWTH, nuevo pack de crecimiento compensatorio - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-09-22T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWQ5clJVVzVoTzhjT09kZ0pjUUZWemNhZk1QUzkxdHhZN0ltVzVUVGJVZExKd2M0VjhMcE9ISlN3amJNMHZjUi0tRFlCN3NtekE4YU5qZGUwVmx6aC01ZjVnQ3YwTGktSjVnYlpQSVhITllEVnl0NldtYWs4N2s5OVMzMUhhQ2xOcE5temJ5ZUVrQ3B3XzROWms5N3FaZHd1dW1fQmZLbWhKVTNBVFZEZktxczQ2Ml9IZ3k2ZFlqR0x1dWswamc2RTNR?oc=5\" target=\"_blank\">Skretting Chile presenta C-GROWTH, nuevo pack de crecimiento compensatorio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 456603,
+      "story_id": 2224,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmhWX1M2aXZuV2FfXzdiSnpUbEtjc1dpNDIxTTBzUkxSNXFCRXdHVUZCY3htY0JiVG1FSTRiMmFvUEFRdU1vOWp3Y050SVJEU2VFUlVUTGo5ejBDd3ZBbVNyWERMYTd4TWhNLUtBYi03bmttZzlaTXpiUzZRdHFLU190by1DYUNINXVLNjRPNlYzbGh3dlM1Y2ZhUmlKN0pFM3FpbmVpTXNXQWQ2UUotZw?oc=5",
+      "title": "Skretting Chile lanza cuarto ciclo de F.I.S.H. Great Talks - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-10-03T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmhWX1M2aXZuV2FfXzdiSnpUbEtjc1dpNDIxTTBzUkxSNXFCRXdHVUZCY3htY0JiVG1FSTRiMmFvUEFRdU1vOWp3Y050SVJEU2VFUlVUTGo5ejBDd3ZBbVNyWERMYTd4TWhNLUtBYi03bmttZzlaTXpiUzZRdHFLU190by1DYUNINXVLNjRPNlYzbGh3dlM1Y2ZhUmlKN0pFM3FpbmVpTXNXQWQ2UUotZw?oc=5\" target=\"_blank\">Skretting Chile lanza cuarto ciclo de F.I.S.H. Great Talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 456648,
+      "story_id": 2223,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaThZUUJrT2hINHgtYW0yWWVTNWJ5U2FZRTJSMDA2bnRROVlNMTRkanJCZzhqT2NZVkpXem0tVVFTQlU1LThtc0tqSVRrcDNUdm1Bbi1PTUtUTUZkZXhsMkRyMC04RjlTcl9RczNUX2pBM1NKT2sxMHNiWnRJZ01sdjE3X1ZOTVlqMV9DWUtRTEVGRUNNYUdQYmNVaVlLbkVLTUNpd2JJQU5tN1BDcTdLVmo1eVhqcnl3V0JYb3NSWFNlWldUXzRqem9waHRHMTRDeDZ3RHdYUUpsblUwbTBBcHFhU1ZZaG14OVJOLVJXYXA2UmNWQmxzX3dNQldHTFU?oc=5",
+      "title": "Salud de peces: Protec se consolida como herramienta nutricional para el control del acortamiento opercular - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-06-11T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaThZUUJrT2hINHgtYW0yWWVTNWJ5U2FZRTJSMDA2bnRROVlNMTRkanJCZzhqT2NZVkpXem0tVVFTQlU1LThtc0tqSVRrcDNUdm1Bbi1PTUtUTUZkZXhsMkRyMC04RjlTcl9RczNUX2pBM1NKT2sxMHNiWnRJZ01sdjE3X1ZOTVlqMV9DWUtRTEVGRUNNYUdQYmNVaVlLbkVLTUNpd2JJQU5tN1BDcTdLVmo1eVhqcnl3V0JYb3NSWFNlWldUXzRqem9waHRHMTRDeDZ3RHdYUUpsblUwbTBBcHFhU1ZZaG14OVJOLVJXYXA2UmNWQmxzX3dNQldHTFU?oc=5\" target=\"_blank\">Salud de peces: Protec se consolida como herramienta nutricional para el control del acortamiento opercular</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
     }
   ],
   "share_of_voice": {
@@ -105313,6 +105437,14 @@
         "Skretting": 3
       },
       {
+        "week": "2021-W23",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2021-W24",
         "Aller Aqua": 0,
         "BioMar": 2,
@@ -105782,7 +105914,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2022-W39",
@@ -105798,7 +105930,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2022-W41",
@@ -107123,7 +107255,7 @@
       {
         "week": "2026-W07",
         "Aller Aqua": 0,
-        "BioMar": 15,
+        "BioMar": 16,
         "Cargill": 7,
         "Polarfeed": 0,
         "Skretting": 4
@@ -107352,7 +107484,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1584
+        "count": 1585
       },
       {
         "company": "Cargill",
@@ -107364,7 +107496,7 @@
       },
       {
         "company": "Skretting",
-        "count": 933
+        "count": 936
       }
     ]
   }
