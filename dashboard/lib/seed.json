@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T09:56:49+00:00",
+  "generated_at": "2026-08-21T16:36:04+00:00",
   "stats": {
-    "mention_count": 2972,
-    "story_count": 2208,
+    "mention_count": 2978,
+    "story_count": 2212,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -358,6 +358,20 @@
   ],
   "stories": [
     {
+      "id": 2234,
+      "headline": "BioMar invests in hybrid feed vessel for Norway - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWhsZlZKZ3VKdWkyRmZWX1ZDV1hpVzFYZDhfbVRZMXE4dFZnUjJqRDdUV3FUdEN6VWZSbUZtWVVqZUVKX1Fxc0RCVnBycFlrYmNTTnZyR2Z2emZmYkR0SW9OSnNZeGk3WDduUEV5VTBqX3dxMlcxb2tnWG1DWWtRYWpQTkJXYnowanNDd1hqeXI?oc=5\" target=\"_blank\">BioMar invests in hybrid feed vessel for Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2026-08-21T10:02:33+00:00",
+      "last_seen": "2026-08-21T10:02:33+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2230,
       "headline": "BioMar: secures new vessel for aquaculture feed distribution - Salmon Business",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0hQSldvVEw4Y00wc0I5cEVvT0xnWGoyREEySktxVjFJMVE1R0Rsa3JiblNvNXF0S3hraXpkUnRXRzN1YXkzdmY0aGs1THdIRThUWHUxVXN3YmlSN3ZRdm1RdmtEb2c0eE1KMVJpNlFlUXc4aE1CVExETVNCZjRDSUQ4Yk1FQ2dXVmhsZXE0RHFyeUNLcXc?oc=5\" target=\"_blank\">BioMar: secures new vessel for aquaculture feed distribution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>",
@@ -513,15 +527,15 @@
     },
     {
       "id": 2198,
-      "headline": "Schouw & Co. exceeds the 10% threshold of treasury shares - The Manila Times",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1JLWFZ4ZndkNF9LOFBGMkNnVWIzU1NIbGhtX3ExWk1wWHQ5T2VBeUQwUzFSeW5DR1FOSjFJSjQ3NnZJOHF3eW1tWElvZk9FSzRXUjR3M1hsWXMxaDcxWFlDQ1psZDcweEhYdXlfVVZsSGprVmd5MzJVTlk0YW1Na01hRHdidEVBVUpQNG1rYWNJV1ZmYlhaLW9EcnhFaXRPTkFXcm51cFhxMThvYjdsUHZmRW5EUW9zNTVkMnJSM3N3TWxtZWfSAcsBQVVfeXFMT0ttUU52amtDLVBwOVVud05yZ3hTMTFJbmxTbUhpV2RWeThRUlIzbk5UaFo3X2x3TlA4dFkzSGNrQ0R0MGFWM2RqdERpZy1EOFRkeGp5RWR2T1V1MjZTbS1wRlN6cm9LSnJTTXhOTFB1SEN2bUlNSjNnUzg3UWNLN1JEYTZMN0RVbG1UMm9BTzJFdUdDU3dia0xaR0xGX3ZNdGJtY2JCbFVOSDg5Wi1TdDZSS1ZzQUlNYnk3N1NNTzFCM3FKWVlaZTNUak0?oc=5\" target=\"_blank\">Schouw & Co. exceeds the 10% threshold of treasury shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
-      "first_seen": "2026-08-18T17:23:11+00:00",
+      "headline": "Schouw & Co. exceeds the 10% threshold of treasury shares - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGxnWHVjd2pXeFJvc0djNTluNk9paWhUNWZscUxaOWRVb2tCd01XeGF2bWE3Y2NLMjA1WkdadVE0a0R2bnZVOWx4djd5eTFYMHFjenpVYmwtLWlLaHJlbW1ialM4OVdrU25FVlhwYlFONzduUllBM3ZyT0FORGtUVmlOTnJNcGdzMFBmQi1TT1JFRGtYZk53bUVLdE1yeDA0WTJCZWNfTm42UQ?oc=5\" target=\"_blank\">Schouw & Co. exceeds the 10% threshold of treasury shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-08-18T17:19:09+00:00",
       "last_seen": "2026-08-18T17:23:11+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -913,7 +927,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -6332,6 +6346,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2233,
+      "headline": "BioMar maintains earnings as feed volumes reach record levels - Salmon Business",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUtnbE9iZGFnUVZ0OFlRdUtiOGxEY2VxVG9aT1VINlF0b1NnQmdjQ1gwTDFWVFNrVWZ0OFNwWk9jank1YmtpTXphZUJQa0Jqazk3bmpSbW03WGZHM3VfbVRFdDRRZ1Y3UzBOTjFqWmlfTlBJZUVpMWhBU25XLWNwXzdXTjJmMHFoZDBKbFZwNjB3RFpuOUtmQw?oc=5\" target=\"_blank\">BioMar maintains earnings as feed volumes reach record levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>",
+      "first_seen": "2026-03-06T08:00:00+00:00",
+      "last_seen": "2026-03-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1030,
       "headline": "Mange utfordringer for lokalradio - Norsk Lokalradioforbund",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOFBlWks1NldQR0RYYUJUd2RvTGZTYU95ZTk4bXpERWZkOFRjblBwdy1PdGdMTng0MXZOc2lVS1Z2WG1kMVpJamwtLVNUeWdkcmdqV19YSUkxNl9iTml2VXlLMlpKRk14TnJYZlBtYnFLR1Q3N1FJNE1wTDBrejRCb1hxVVg0R3QxVm9B?oc=5\" target=\"_blank\">Mange utfordringer for lokalradio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Norsk Lokalradioforbund</font>",
@@ -9891,6 +9919,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2232,
+      "headline": "Ejecutivo de Skretting realiza 1ª visita a Chile como director general de la Unidad de Negocios de Salmón - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVEtvMWFlTFlwbk13TVp2bTV4bjZyd2htR3FneGRPbVg1bVZMNXNKVHBTVW9YMGJSUzQ1ZEFLZkRiT2xHaXpLdlRwYnh1RE04d3UzR3dXRWQ5UHJHMzRLbWctVEY2V1oteXNEN2trR0c1blI4clpRV1ktTnNLZGRvUEVvc2hNS0R3WW5sVHZ1SkZqa0kzNDY3d0FVVDNLak8tU2JCb0xNSUVUZEpIa1JvazU0TkRaazhST1VjWmR5OHJva1lkdEc1NE5QM3NMTUhnSTNaZWgtZmFKTV9HdFBILUNqOUtaNzFzdTlBcA?oc=5\" target=\"_blank\">Ejecutivo de Skretting realiza 1ª visita a Chile como director general de la Unidad de Negocios de Salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2025-10-10T07:00:00+00:00",
+      "last_seen": "2025-10-10T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 727,
       "headline": "Elderly couple sell 60-year-old Cronulla car garage for $105,000 over reserve - Domain",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkRzbkF6V1lCb205d0xzVm56SDNuNjhBUUo4TXROd3lsT0xhdFJSdXQtLTJwNlRPUm1jd0s2NUxJWHNzUGtySV9faTM1Uld6MmdGdUtMX3A1U2NqcHBWQjlWak9HT0dIdEphUjlTanFIdkY1ZC1YNzhXQVQ0WW53MHBXeUNRN2o4MExENzNJTU11NnNnRDZlM2F0S3BWVEJFcDJTQ2JyeFpFTy1f?oc=5\" target=\"_blank\">Elderly couple sell 60-year-old Cronulla car garage for $105,000 over reserve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Domain</font>",
@@ -10435,6 +10477,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2231,
+      "headline": "Biomar Desktop Banner with GIF - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SWVNINFFWcjVyal9MaDIyYnkzMkJHRG84c3FWU0E0ckF5b0g5UGFzSkFuQURBNjVVa0tPdTg3WnluM09aZFhkSnE0RGlicW9qRjk3X3ZQdXBzUTh5SzRCejN6cDE4cHc?oc=5\" target=\"_blank\">Biomar Desktop Banner with GIF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2025-09-15T14:55:02+00:00",
+      "last_seen": "2025-09-15T14:55:02+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 711,
@@ -103397,6 +103453,150 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHd5aEpiUHUxQkJuVHhsY1lGelV5QWZ0ZHNSZHdQVm5FcGF4MC1TMmJXc04yRnItdWFnVjNWWnpUOVNvWmlSU2FheU5tTlBfWVFaTzJWYTQ4Q2MwZHgzWDZYTEpPb2ctZlhhZTN6WTl6V1NRTVczMWY4ZDJqcHozdlRqNU1GU3FkSFNEZnQyU1FpWVNkMVdvbHNpaWN1ekkxTkt1amNOQW1EZnVEX2dBdDJXYmZMN2RKX1Z4OFlpTFdnakRoQzhfcXRR?oc=5\" target=\"_blank\">Skretting participará en taller sobre vacunas y nutrición acuícola</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 458872,
+      "story_id": 2234,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWhsZlZKZ3VKdWkyRmZWX1ZDV1hpVzFYZDhfbVRZMXE4dFZnUjJqRDdUV3FUdEN6VWZSbUZtWVVqZUVKX1Fxc0RCVnBycFlrYmNTTnZyR2Z2emZmYkR0SW9OSnNZeGk3WDduUEV5VTBqX3dxMlcxb2tnWG1DWWtRYWpQTkJXYnowanNDd1hqeXI?oc=5",
+      "title": "BioMar invests in hybrid feed vessel for Norway - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-21T10:02:33+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWhsZlZKZ3VKdWkyRmZWX1ZDV1hpVzFYZDhfbVRZMXE4dFZnUjJqRDdUV3FUdEN6VWZSbUZtWVVqZUVKX1Fxc0RCVnBycFlrYmNTTnZyR2Z2emZmYkR0SW9OSnNZeGk3WDduUEV5VTBqX3dxMlcxb2tnWG1DWWtRYWpQTkJXYnowanNDd1hqeXI?oc=5\" target=\"_blank\">BioMar invests in hybrid feed vessel for Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 458922,
+      "story_id": 2148,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkFwcXJMRVVEQkNaQmNnN0N0LW41UXNjc0FXaGZ1V3NOSDZySjBCM0s0azhhUEZzcDVTSEwyTEkwYVRpRTQ5V3ZDRi11Q3lIbDNPWGFBNW9rWFpSMWZtS0Y4Y3FGd1BfYlZwQkhDVDROcUtpQWhsak9UVWpFV0R5MWg4QWZCRmozdi1qRlB3V0xMMmZJenprcWtRQ1duZks3NFZhRDdzQzBiTlFIZzdTZUFYamRkZXA5cV83WFFn?oc=5",
+      "title": "Earnings call transcript: BioMar lifts 2026 outlook after strong Q2 - Investing.com Nigeria",
+      "source_name": "Investing.com Nigeria",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T14:27:03+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORkFwcXJMRVVEQkNaQmNnN0N0LW41UXNjc0FXaGZ1V3NOSDZySjBCM0s0azhhUEZzcDVTSEwyTEkwYVRpRTQ5V3ZDRi11Q3lIbDNPWGFBNW9rWFpSMWZtS0Y4Y3FGd1BfYlZwQkhDVDROcUtpQWhsak9UVWpFV0R5MWg4QWZCRmozdi1qRlB3V0xMMmZJenprcWtRQ1duZks3NFZhRDdzQzBiTlFIZzdTZUFYamRkZXA5cV83WFFn?oc=5\" target=\"_blank\">Earnings call transcript: BioMar lifts 2026 outlook after strong Q2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com Nigeria</font>"
+    },
+    {
+      "id": 458958,
+      "story_id": 2233,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUtnbE9iZGFnUVZ0OFlRdUtiOGxEY2VxVG9aT1VINlF0b1NnQmdjQ1gwTDFWVFNrVWZ0OFNwWk9jank1YmtpTXphZUJQa0Jqazk3bmpSbW03WGZHM3VfbVRFdDRRZ1Y3UzBOTjFqWmlfTlBJZUVpMWhBU25XLWNwXzdXTjJmMHFoZDBKbFZwNjB3RFpuOUtmQw?oc=5",
+      "title": "BioMar maintains earnings as feed volumes reach record levels - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUtnbE9iZGFnUVZ0OFlRdUtiOGxEY2VxVG9aT1VINlF0b1NnQmdjQ1gwTDFWVFNrVWZ0OFNwWk9jank1YmtpTXphZUJQa0Jqazk3bmpSbW03WGZHM3VfbVRFdDRRZ1Y3UzBOTjFqWmlfTlBJZUVpMWhBU25XLWNwXzdXTjJmMHFoZDBKbFZwNjB3RFpuOUtmQw?oc=5\" target=\"_blank\">BioMar maintains earnings as feed volumes reach record levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 458994,
+      "story_id": 2231,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SWVNINFFWcjVyal9MaDIyYnkzMkJHRG84c3FWU0E0ckF5b0g5UGFzSkFuQURBNjVVa0tPdTg3WnluM09aZFhkSnE0RGlicW9qRjk3X3ZQdXBzUTh5SzRCejN6cDE4cHc?oc=5",
+      "title": "Biomar Desktop Banner with GIF - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-09-15T14:55:02+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SWVNINFFWcjVyal9MaDIyYnkzMkJHRG84c3FWU0E0ckF5b0g5UGFzSkFuQURBNjVVa0tPdTg3WnluM09aZFhkSnE0RGlicW9qRjk3X3ZQdXBzUTh5SzRCejN6cDE4cHc?oc=5\" target=\"_blank\">Biomar Desktop Banner with GIF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 459272,
+      "story_id": 2198,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGxnWHVjd2pXeFJvc0djNTluNk9paWhUNWZscUxaOWRVb2tCd01XeGF2bWE3Y2NLMjA1WkdadVE0a0R2bnZVOWx4djd5eTFYMHFjenpVYmwtLWlLaHJlbW1ialM4OVdrU25FVlhwYlFONzduUllBM3ZyT0FORGtUVmlOTnJNcGdzMFBmQi1TT1JFRGtYZk53bUVLdE1yeDA0WTJCZWNfTm42UQ?oc=5",
+      "title": "Schouw & Co. exceeds the 10% threshold of treasury shares - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-08-18T17:19:09+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGxnWHVjd2pXeFJvc0djNTluNk9paWhUNWZscUxaOWRVb2tCd01XeGF2bWE3Y2NLMjA1WkdadVE0a0R2bnZVOWx4djd5eTFYMHFjenpVYmwtLWlLaHJlbW1ialM4OVdrU25FVlhwYlFONzduUllBM3ZyT0FORGtUVmlOTnJNcGdzMFBmQi1TT1JFRGtYZk53bUVLdE1yeDA0WTJCZWNfTm42UQ?oc=5\" target=\"_blank\">Schouw & Co. exceeds the 10% threshold of treasury shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 459717,
+      "story_id": 2232,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVEtvMWFlTFlwbk13TVp2bTV4bjZyd2htR3FneGRPbVg1bVZMNXNKVHBTVW9YMGJSUzQ1ZEFLZkRiT2xHaXpLdlRwYnh1RE04d3UzR3dXRWQ5UHJHMzRLbWctVEY2V1oteXNEN2trR0c1blI4clpRV1ktTnNLZGRvUEVvc2hNS0R3WW5sVHZ1SkZqa0kzNDY3d0FVVDNLak8tU2JCb0xNSUVUZEpIa1JvazU0TkRaazhST1VjWmR5OHJva1lkdEc1NE5QM3NMTUhnSTNaZWgtZmFKTV9HdFBILUNqOUtaNzFzdTlBcA?oc=5",
+      "title": "Ejecutivo de Skretting realiza 1ª visita a Chile como director general de la Unidad de Negocios de Salmón - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-10-10T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVEtvMWFlTFlwbk13TVp2bTV4bjZyd2htR3FneGRPbVg1bVZMNXNKVHBTVW9YMGJSUzQ1ZEFLZkRiT2xHaXpLdlRwYnh1RE04d3UzR3dXRWQ5UHJHMzRLbWctVEY2V1oteXNEN2trR0c1blI4clpRV1ktTnNLZGRvUEVvc2hNS0R3WW5sVHZ1SkZqa0kzNDY3d0FVVDNLak8tU2JCb0xNSUVUZEpIa1JvazU0TkRaazhST1VjWmR5OHJva1lkdEc1NE5QM3NMTUhnSTNaZWgtZmFKTV9HdFBILUNqOUtaNzFzdTlBcA?oc=5\" target=\"_blank\">Ejecutivo de Skretting realiza 1ª visita a Chile como director general de la Unidad de Negocios de Salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -107467,7 +107667,7 @@
       {
         "week": "2025-W38",
         "Aller Aqua": 7,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 4
@@ -107494,7 +107694,7 @@
         "BioMar": 3,
         "Cargill": 1,
         "Polarfeed": 1,
-        "Skretting": 13
+        "Skretting": 14
       },
       {
         "week": "2025-W42",
@@ -107659,7 +107859,7 @@
       {
         "week": "2026-W10",
         "Aller Aqua": 0,
-        "BioMar": 14,
+        "BioMar": 15,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -107843,7 +108043,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 74,
+        "BioMar": 75,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -107851,7 +108051,7 @@
       {
         "week": "2026-W34",
         "Aller Aqua": 0,
-        "BioMar": 13,
+        "BioMar": 15,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 5
@@ -107864,7 +108064,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1593
+        "count": 1598
       },
       {
         "company": "Cargill",
@@ -107876,7 +108076,7 @@
       },
       {
         "company": "Skretting",
-        "count": 940
+        "count": 941
       }
     ]
   }
