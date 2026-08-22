@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-22T09:47:33+00:00",
+  "generated_at": "2026-08-22T16:26:09+00:00",
   "stats": {
-    "mention_count": 2983,
-    "story_count": 2215,
+    "mention_count": 2989,
+    "story_count": 2220,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -16,6 +16,7 @@
     "AftermarketNews",
     "AgFunderNews",
     "AgTechNavigator.com",
+    "Agrositio",
     "Airforce Technology",
     "Alberta Farmer Express",
     "All About Feed",
@@ -358,6 +359,20 @@
   ],
   "stories": [
     {
+      "id": 2242,
+      "headline": "Cadena de Custodia RTRS: trazabilidad para avanzar hacia un abastecimiento responsable en acuicultura - Agrositio",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU2pJYmhaNWNSRllrOWRrQ3lXZzU1UkdSSDZmRG9HRE9KQW1MaEQ3UjFYWGl1WC0xNVJjdVlHRmFsNU9EbFhjVlpaS0RkOC1kNTNhb01PMHRpY0MtWWh5Ni1ya3RhV2MtZ1hEdEoyaVFua0F3RXhzbGtsV2NkMmRCTElrbWtVdWk4ZTZTcWJSMzdod0hZSGo1V0x0b2dhRXJ0VWNYUThUSEVMaEVrblJtaUZ1ZlVpei1VT2lZSG0tS3hOYkJCQzVJYzlTS0pBQkhZUnVuUmJfU1BrZmpmWXAxWlNpMA?oc=5\" target=\"_blank\">Cadena de Custodia RTRS: trazabilidad para avanzar hacia un abastecimiento responsable en acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Agrositio</font>",
+      "first_seen": "2026-08-21T18:17:20+00:00",
+      "last_seen": "2026-08-21T18:17:20+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2234,
       "headline": "BioMar invests in hybrid feed vessel for Norway - Aquafeed.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWhsZlZKZ3VKdWkyRmZWX1ZDV1hpVzFYZDhfbVRZMXE4dFZnUjJqRDdUV3FUdEN6VWZSbUZtWVVqZUVKX1Fxc0RCVnBycFlrYmNTTnZyR2Z2emZmYkR0SW9OSnNZeGk3WDduUEV5VTBqX3dxMlcxb2tnWG1DWWtRYWpQTkJXYnowanNDd1hqeXI?oc=5\" target=\"_blank\">BioMar invests in hybrid feed vessel for Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
@@ -384,6 +399,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2241,
+      "headline": "22’ - Sjanse til Ingeborg Skretting - TV 2",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE91LXNfYXlQcUdvNm5aTWRGTTNoRklXU1lXNEdXYmF1Yk9nYi15VnlIYlVvb2Q3R0VVQ1NNUzc5UF9JV3hkaGZpMXBIRExMLTctX3dFR2JPXzFLTTd4MHJwU0FvLVU2YlowaGFTRXNlbHRSVVFuazA2S1FBdno?oc=5\" target=\"_blank\">22’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>",
+      "first_seen": "2026-08-21T07:00:00+00:00",
+      "last_seen": "2026-08-21T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 2222,
@@ -7568,12 +7597,12 @@
       "headline": "SKRETTING GRO, General Cargo Ship - Details and current position - IMO 9980112 - VesselFinder",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SSnQxcjMwZHdVTU5jZ21UU2RqTVJNV2NvUlJIaW5zcUdYcWt3c3RBTnF2UWI5S1A1YVN3N25NNDNBY280QS1RMHFncUdzRnlyaTA0a1NnM244OWpYTDl1WlJn?oc=5\" target=\"_blank\">SKRETTING GRO, General Cargo Ship - Details and current position - IMO 9980112</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VesselFinder</font>",
       "first_seen": "2026-01-16T20:24:18+00:00",
-      "last_seen": "2026-01-16T20:24:18+00:00",
+      "last_seen": "2026-01-17T00:01:26+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -14811,6 +14840,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2240,
+      "headline": "Producto de Skretting reduce uso de antibióticos y mejora el bienestar de los peces - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcjIzdVlWM1RrOWJRdXIwREs3Wi1JeW1vSmJ4VDU0TnZFNXRpSFByRTJiYUZBVl9mZE5ZbHhBZEltMFd0Tng2dnYxM3RsanZBeUNOSUFzdVNJR1BOQmJzdjFJUXNHTlVETF80cDhJa0p5THR2TDhWVnhOa1FGVXVZOHp0UlBMNUtNMm9OR3hpcE55Wm1ENXF2ZklMV2xsR2NVaWZyQnpWQ0VDRXlVVy1tRWliMWdDcHdPYjlKUTdKZjJMNVBmQW11dzA5R0dOUjFiTG14cTdHbzFrRmJ5NXg5YkpMREtYU3FleHFlenVyTi0?oc=5\" target=\"_blank\">Producto de Skretting reduce uso de antibióticos y mejora el bienestar de los peces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2024-11-13T08:00:00+00:00",
+      "last_seen": "2024-11-13T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 128,
@@ -27600,6 +27643,20 @@
       "company": "Cargill"
     },
     {
+      "id": 2239,
+      "headline": "Pargua: Biomar y Calbuco fomentan investigación escolar - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHJ0RWViY3h4LUs5VEI2dWhySjZUN1EtLUJDNVVqQmhzbDcyS1BSR3VJbUdRVFA3THM2Z215dXBocjJTR2VoYU9Zcmk2TUZ5dGtTRjlyZFJDVkZ6TlBBU3pSNFk1aUlqcmV1eHVoRE5tOWZtajVaMmFBWExybmZDc1pFZzQzcXlXNHVOT2RXd2RLcXBmTmNxNC1QSXNUcmd5MTM0SFRhOG1NanF3WDZEWVlxMm8?oc=5\" target=\"_blank\">Pargua: Biomar y Calbuco fomentan investigación escolar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-12-13T08:00:00+00:00",
+      "last_seen": "2017-12-13T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 437,
       "headline": "Skretting Chile: asesoría constante, cercana y directa - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOSEU1Z29KZnZSOWJLQURtQUFMMnYyZGtndHVPX09SOXJxTGl6c05wUERSWmdaa0Zva1pfZVBXZ1JtM2VRRDVsb2lYdWthTnQtYl9LZEZKWmpqa0t4b1Y4OUw1QXBTNHc0SFg4Qm9GM3ppSTBSQTBnaXdLWVlrZDFMOWEtUW9rX1hyRFNDVWx0RUdXenh4eWdQWHoyQXRyUm5FNTlLM3JQRkNfT0Z1U1BFd1JOREc2cER0dVplY3dIR0s3Qzlmeklpbk9R?oc=5\" target=\"_blank\">Skretting Chile: asesoría constante, cercana y directa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -27920,6 +27977,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 2238,
+      "headline": "Grupo BioMar potencia su participación en mercado de camarones - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYXM2a1lIR19tY3VHd1gyY3lhWDFhaWc5RWF3WC1YSE9qeHJYZEI4VTRKN0FOZEk5UFBDdU9RNjJGX0ZZOEFRdnpXRngtYmk1WDRKdFZDQlBxSTFHZzZxeHBNaUVfNGVZQldfeGotd0lnR3pqN29Id3cxVUk3bTdFZ2IwSkNieGpfQzlZU2tvZVRoREw1NzFiUVB0YUtVR3JIMjBQbGpJV2NCNHlpQVZiUUF2UHN2X3VRSzhyQ3l2NVltNjdwQnVLXw?oc=5\" target=\"_blank\">Grupo BioMar potencia su participación en mercado de camarones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-09-14T07:00:00+00:00",
+      "last_seen": "2017-09-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1236,
@@ -103759,6 +103830,150 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWNvcDU5d0JPSXJ5U0ppWlp6V2RPemQyZXVpVmZSNjdxYlB4V0oxNGxMeE93YUk3R25Cc0RoT05LT0lDS0ZXcVV0TUh2c3FVYkVQRzJ3ZldmcHVFTkNzQklzdXpCLXZvd3dZNDJraGNhNnNFUExPV3hFMENqTHhlT0FnUThpWlpvclZXclV5SmJpR0o5d2h2dDYxa3JqeWdQRFRXYkJ4RnpmMTB3?oc=5\" target=\"_blank\">Høyesterett avviser anken – skjelloppdretter må ut med 8,7 millioner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 463458,
+      "story_id": 2238,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYXM2a1lIR19tY3VHd1gyY3lhWDFhaWc5RWF3WC1YSE9qeHJYZEI4VTRKN0FOZEk5UFBDdU9RNjJGX0ZZOEFRdnpXRngtYmk1WDRKdFZDQlBxSTFHZzZxeHBNaUVfNGVZQldfeGotd0lnR3pqN29Id3cxVUk3bTdFZ2IwSkNieGpfQzlZU2tvZVRoREw1NzFiUVB0YUtVR3JIMjBQbGpJV2NCNHlpQVZiUUF2UHN2X3VRSzhyQ3l2NVltNjdwQnVLXw?oc=5",
+      "title": "Grupo BioMar potencia su participación en mercado de camarones - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-09-14T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYXM2a1lIR19tY3VHd1gyY3lhWDFhaWc5RWF3WC1YSE9qeHJYZEI4VTRKN0FOZEk5UFBDdU9RNjJGX0ZZOEFRdnpXRngtYmk1WDRKdFZDQlBxSTFHZzZxeHBNaUVfNGVZQldfeGotd0lnR3pqN29Id3cxVUk3bTdFZ2IwSkNieGpfQzlZU2tvZVRoREw1NzFiUVB0YUtVR3JIMjBQbGpJV2NCNHlpQVZiUUF2UHN2X3VRSzhyQ3l2NVltNjdwQnVLXw?oc=5\" target=\"_blank\">Grupo BioMar potencia su participación en mercado de camarones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 463461,
+      "story_id": 2239,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHJ0RWViY3h4LUs5VEI2dWhySjZUN1EtLUJDNVVqQmhzbDcyS1BSR3VJbUdRVFA3THM2Z215dXBocjJTR2VoYU9Zcmk2TUZ5dGtTRjlyZFJDVkZ6TlBBU3pSNFk1aUlqcmV1eHVoRE5tOWZtajVaMmFBWExybmZDc1pFZzQzcXlXNHVOT2RXd2RLcXBmTmNxNC1QSXNUcmd5MTM0SFRhOG1NanF3WDZEWVlxMm8?oc=5",
+      "title": "Pargua: Biomar y Calbuco fomentan investigación escolar - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-12-13T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHJ0RWViY3h4LUs5VEI2dWhySjZUN1EtLUJDNVVqQmhzbDcyS1BSR3VJbUdRVFA3THM2Z215dXBocjJTR2VoYU9Zcmk2TUZ5dGtTRjlyZFJDVkZ6TlBBU3pSNFk1aUlqcmV1eHVoRE5tOWZtajVaMmFBWExybmZDc1pFZzQzcXlXNHVOT2RXd2RLcXBmTmNxNC1QSXNUcmd5MTM0SFRhOG1NanF3WDZEWVlxMm8?oc=5\" target=\"_blank\">Pargua: Biomar y Calbuco fomentan investigación escolar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 463696,
+      "story_id": 2241,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91LXNfYXlQcUdvNm5aTWRGTTNoRklXU1lXNEdXYmF1Yk9nYi15VnlIYlVvb2Q3R0VVQ1NNUzc5UF9JV3hkaGZpMXBIRExMLTctX3dFR2JPXzFLTTd4MHJwU0FvLVU2YlowaGFTRXNlbHRSVVFuazA2S1FBdno?oc=5",
+      "title": "22’ - Sjanse til Ingeborg Skretting - TV 2",
+      "source_name": "TV 2",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE91LXNfYXlQcUdvNm5aTWRGTTNoRklXU1lXNEdXYmF1Yk9nYi15VnlIYlVvb2Q3R0VVQ1NNUzc5UF9JV3hkaGZpMXBIRExMLTctX3dFR2JPXzFLTTd4MHJwU0FvLVU2YlowaGFTRXNlbHRSVVFuazA2S1FBdno?oc=5\" target=\"_blank\">22’ - Sjanse til Ingeborg Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>"
+    },
+    {
+      "id": 463897,
+      "story_id": 2242,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU2pJYmhaNWNSRllrOWRrQ3lXZzU1UkdSSDZmRG9HRE9KQW1MaEQ3UjFYWGl1WC0xNVJjdVlHRmFsNU9EbFhjVlpaS0RkOC1kNTNhb01PMHRpY0MtWWh5Ni1ya3RhV2MtZ1hEdEoyaVFua0F3RXhzbGtsV2NkMmRCTElrbWtVdWk4ZTZTcWJSMzdod0hZSGo1V0x0b2dhRXJ0VWNYUThUSEVMaEVrblJtaUZ1ZlVpei1VT2lZSG0tS3hOYkJCQzVJYzlTS0pBQkhZUnVuUmJfU1BrZmpmWXAxWlNpMA?oc=5",
+      "title": "Cadena de Custodia RTRS: trazabilidad para avanzar hacia un abastecimiento responsable en acuicultura - Agrositio",
+      "source_name": "Agrositio",
+      "language": "es",
+      "country": "AR",
+      "outlet_kind": "press",
+      "published_at": "2026-08-21T18:17:20+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU2pJYmhaNWNSRllrOWRrQ3lXZzU1UkdSSDZmRG9HRE9KQW1MaEQ3UjFYWGl1WC0xNVJjdVlHRmFsNU9EbFhjVlpaS0RkOC1kNTNhb01PMHRpY0MtWWh5Ni1ya3RhV2MtZ1hEdEoyaVFua0F3RXhzbGtsV2NkMmRCTElrbWtVdWk4ZTZTcWJSMzdod0hZSGo1V0x0b2dhRXJ0VWNYUThUSEVMaEVrblJtaUZ1ZlVpei1VT2lZSG0tS3hOYkJCQzVJYzlTS0pBQkhZUnVuUmJfU1BrZmpmWXAxWlNpMA?oc=5\" target=\"_blank\">Cadena de Custodia RTRS: trazabilidad para avanzar hacia un abastecimiento responsable en acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Agrositio</font>"
+    },
+    {
+      "id": 463904,
+      "story_id": 1769,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NaThKU1Q2VVFyRmJBRDVtTGQ5anVkS2lXcmtPeGdxV0FHN3hEeFIwcHBMTGk1UXJHTVNFVHB2MWt1SkU0QUdJak83bUdwZ1pKWk1tUXJOSVlvNGpaeTBzeFFrMV84dw?oc=5",
+      "title": "SKRETTING GRO, General Cargo Ship - Detalles del buque y posición actual - IMO 9980112 - VesselFinder",
+      "source_name": "VesselFinder",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-01-17T00:01:26+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NaThKU1Q2VVFyRmJBRDVtTGQ5anVkS2lXcmtPeGdxV0FHN3hEeFIwcHBMTGk1UXJHTVNFVHB2MWt1SkU0QUdJak83bUdwZ1pKWk1tUXJOSVlvNGpaeTBzeFFrMV84dw?oc=5\" target=\"_blank\">SKRETTING GRO, General Cargo Ship - Detalles del buque y posición actual - IMO 9980112</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VesselFinder</font>"
+    },
+    {
+      "id": 463936,
+      "story_id": 2240,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcjIzdVlWM1RrOWJRdXIwREs3Wi1JeW1vSmJ4VDU0TnZFNXRpSFByRTJiYUZBVl9mZE5ZbHhBZEltMFd0Tng2dnYxM3RsanZBeUNOSUFzdVNJR1BOQmJzdjFJUXNHTlVETF80cDhJa0p5THR2TDhWVnhOa1FGVXVZOHp0UlBMNUtNMm9OR3hpcE55Wm1ENXF2ZklMV2xsR2NVaWZyQnpWQ0VDRXlVVy1tRWliMWdDcHdPYjlKUTdKZjJMNVBmQW11dzA5R0dOUjFiTG14cTdHbzFrRmJ5NXg5YkpMREtYU3FleHFlenVyTi0?oc=5",
+      "title": "Producto de Skretting reduce uso de antibióticos y mejora el bienestar de los peces - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-11-13T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcjIzdVlWM1RrOWJRdXIwREs3Wi1JeW1vSmJ4VDU0TnZFNXRpSFByRTJiYUZBVl9mZE5ZbHhBZEltMFd0Tng2dnYxM3RsanZBeUNOSUFzdVNJR1BOQmJzdjFJUXNHTlVETF80cDhJa0p5THR2TDhWVnhOa1FGVXVZOHp0UlBMNUtNMm9OR3hpcE55Wm1ENXF2ZklMV2xsR2NVaWZyQnpWQ0VDRXlVVy1tRWliMWdDcHdPYjlKUTdKZjJMNVBmQW11dzA5R0dOUjFiTG14cTdHbzFrRmJ5NXg5YkpMREtYU3FleHFlenVyTi0?oc=5\" target=\"_blank\">Producto de Skretting reduce uso de antibióticos y mejora el bienestar de los peces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -104989,7 +105204,7 @@
       {
         "week": "2017-W37",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -105077,7 +105292,7 @@
       {
         "week": "2017-W50",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 3,
         "Polarfeed": 0,
         "Skretting": 0
@@ -107480,7 +107695,7 @@
         "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W47",
@@ -107968,7 +108183,7 @@
         "BioMar": 0,
         "Cargill": 3,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2026-W04",
@@ -108216,7 +108431,7 @@
         "BioMar": 15,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 7
       }
     ],
     "totals": [
@@ -108226,7 +108441,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1599
+        "count": 1601
       },
       {
         "company": "Cargill",
@@ -108238,7 +108453,7 @@
       },
       {
         "company": "Skretting",
-        "count": 944
+        "count": 948
       }
     ]
   }
