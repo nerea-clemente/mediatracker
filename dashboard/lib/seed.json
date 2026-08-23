@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T05:54:45+00:00",
+  "generated_at": "2026-08-23T09:48:43+00:00",
   "stats": {
-    "mention_count": 2996,
-    "story_count": 2224,
+    "mention_count": 2997,
+    "story_count": 2225,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -21807,6 +21807,20 @@
       "first_seen": "2022-03-04T08:00:00+00:00",
       "last_seen": "2022-03-04T08:00:00+00:00",
       "primary_sentiment": "negative",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2247,
+      "headline": "Han er bekymret for strømforsyningen - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUVkQzBFWk5uRFlEWlpvS3gzcXpkNGNKSGgtRWs4M3RYUTUxQ1VHbjNlRy1TVWZ6d014Z2Noa3pBOFBjRmxSX3Q0NzBOQXR4Ti1CZWlCenVCYVNEU1Nrai0tbklSYTN2UWNSM2hwOGYtY2NpTTBnQXdPWUExOVVmV1NR?oc=5\" target=\"_blank\">Han er bekymret for strømforsyningen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2022-02-27T08:00:00+00:00",
+      "last_seen": "2022-02-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -104198,6 +104212,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1hwaUhZdWVETEhqLXVmUV9yNWV3VGtLUHZ5ZTA1TDFMX0xvbGtERy1jdVhDT25IbV9jVV9PSVNsY1lBUHM2RjRpQTdtUkJ5eE9wdUd3ZjV0XzZGMmpaZ0Y0eFFPX2FRX0N6UUU5Q3M2NzNUTFNOYUV1djFTV09JVXhfckFCeVJ4Q3FHUHRocnkxNDRJOHZUWGl3d2tDZFpsQ3c?oc=5\" target=\"_blank\">Outlook 2016: Cargill Aqua Nutrition President Einar Wathne</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 466380,
+      "story_id": 2247,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUVkQzBFWk5uRFlEWlpvS3gzcXpkNGNKSGgtRWs4M3RYUTUxQ1VHbjNlRy1TVWZ6d014Z2Noa3pBOFBjRmxSX3Q0NzBOQXR4Ti1CZWlCenVCYVNEU1Nrai0tbklSYTN2UWNSM2hwOGYtY2NpTTBnQXdPWUExOVVmV1NR?oc=5",
+      "title": "Han er bekymret for strømforsyningen - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-02-27T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUVkQzBFWk5uRFlEWlpvS3gzcXpkNGNKSGgtRWs4M3RYUTUxQ1VHbjNlRy1TVWZ6d014Z2Noa3pBOFBjRmxSX3Q0NzBOQXR4Ti1CZWlCenVCYVNEU1Nrai0tbklSYTN2UWNSM2hwOGYtY2NpTTBnQXdPWUExOVVmV1NR?oc=5\" target=\"_blank\">Han er bekymret for strømforsyningen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
     }
   ],
   "share_of_voice": {
@@ -106884,7 +106922,7 @@
       {
         "week": "2022-W08",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -108681,7 +108719,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1602
+        "count": 1603
       },
       {
         "company": "Cargill",
