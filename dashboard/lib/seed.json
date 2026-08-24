@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T06:03:32+00:00",
+  "generated_at": "2026-08-24T10:08:16+00:00",
   "stats": {
-    "mention_count": 3003,
-    "story_count": 2227,
+    "mention_count": 3006,
+    "story_count": 2230,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -359,6 +359,20 @@
     "weareaquaculture.com"
   ],
   "stories": [
+    {
+      "id": 2252,
+      "headline": "BioMar Norway planning new feed vessel to strengthen capacity - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1NiVlFDT1k3V0hid2dBRlByR2Q2ZWJXUjZycmZMQnZpVkstOGRLQW5mdjhtaWlFQVdWYlFULTRxNEV2Q3RudFlxdnJEODJ3RFZ2UUZDWHVoSzRxdnAyVmhhck1DeHB6SUxCMWRLX2N1dW45eEdMdWhmV2Jpb1lWZGhtYkxEU0JaX3FUWUVfcjljaGEtZnNmd0VfdkpibGROaXFoMFhJLWpkLVItQkJxOQ?oc=5\" target=\"_blank\">BioMar Norway planning new feed vessel to strengthen capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2026-08-24T09:03:07+00:00",
+      "last_seen": "2026-08-24T09:03:07+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2242,
       "headline": "Cadena de Custodia RTRS: trazabilidad para avanzar hacia un abastecimiento responsable en acuicultura - Agrositio",
@@ -22152,6 +22166,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2251,
+      "headline": "Skretting Chile lanza innovador proyecto para la reducción de plástico - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2lqX1ZVUXRZczBCUUZiWFoyY2pIQkNyaXBhSlJBS1JXaEdSYzVIcHdmeG00dVE2Q1lGWURfQWRxVnZGb1FSbGp3RkFGRVR3STRrdDI0WnBSOHNwcEk1STFGRVNDU3h3cVp0M29zbThmaV9JX3RYaVR6c1Jvbzl2RDBZR1BuYzZZZDNGVFJiekNncmJlSjltdUU5eGU1V3RHVHVMdks2Y3VRcE1MMEZUazJyN0NUQ1NxYmxPMDJMSVBPZXBoV2xlQ1ZBdUw4RzBGYy0tT1VRYw?oc=5\" target=\"_blank\">Skretting Chile lanza innovador proyecto para la reducción de plástico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2021-11-23T08:00:00+00:00",
+      "last_seen": "2021-11-23T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1925,
       "headline": "Productores de alimento para salmones revelan sus más recientes innovaciones - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2xJSmFHeTdIRG5pQ183dDdTT1Z4SGtFa0R0UjI5SVpzTXdsLVBwdkw5VGgyQ1lXdGM0VHF3dUJ3ZzFPckdMSjlZQUc0RllLeE44bXJadnRZLVM0MzFZTmJ3Y1JvMEJtUDJXV2cwZG42dUQ2ZTRTMFV5RXpCWEY4ODN6TUFGV3I5QVNRRmpoVHR3Mm5aUjhXZ0VhVFk4OFRqaDBQMldkNThhRnFheGZVbVEyOEpLWnVIUm52UzNvZG5LMmpyZmRfb3RmSkUzVDJXdFNZ?oc=5\" target=\"_blank\">Productores de alimento para salmones revelan sus más recientes innovaciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -28888,6 +28916,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2250,
+      "headline": "New salmon feed: EWOS CLEAR for RAS - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZmY0SjJWOHdVMWs1ajllQ0NvLUZneWt5dW83MnZoTXZDM3ZQb29YWWV1VmZRS3NPVTVQSDM0d240RUNPVDBZWXdocnN5SnF0UzlyaWVxV0llU2pqQ2NtX0hxcjdOSzFqdExNNWRUdDEwR09LQjFSb3cydDd2b3c?oc=5\" target=\"_blank\">New salmon feed: EWOS CLEAR for RAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2016-10-27T07:00:00+00:00",
+      "last_seen": "2016-10-27T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 848,
@@ -104409,6 +104451,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXJBSlFyaTZLMHVBTmVkTjltVDIxbkRvaUMwLWZfLVJ1SGd1VTN4Rk1UVnVnVUt4TmdsZE1nNVVaYWg1UElPaHNPT2oyaDA3X0VTeUU5NEJ3VTFvbjAxb2gtOHRscmZ6ZVMtQTVaek1kYTF4SmRFVEZJRFNKLU05cg?oc=5\" target=\"_blank\">Skretting Fish Feed Facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tasgreensmps.org</font>"
+    },
+    {
+      "id": 470312,
+      "story_id": 2252,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1NiVlFDT1k3V0hid2dBRlByR2Q2ZWJXUjZycmZMQnZpVkstOGRLQW5mdjhtaWlFQVdWYlFULTRxNEV2Q3RudFlxdnJEODJ3RFZ2UUZDWHVoSzRxdnAyVmhhck1DeHB6SUxCMWRLX2N1dW45eEdMdWhmV2Jpb1lWZGhtYkxEU0JaX3FUWUVfcjljaGEtZnNmd0VfdkpibGROaXFoMFhJLWpkLVItQkJxOQ?oc=5",
+      "title": "BioMar Norway planning new feed vessel to strengthen capacity - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-08-24T09:03:07+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1NiVlFDT1k3V0hid2dBRlByR2Q2ZWJXUjZycmZMQnZpVkstOGRLQW5mdjhtaWlFQVdWYlFULTRxNEV2Q3RudFlxdnJEODJ3RFZ2UUZDWHVoSzRxdnAyVmhhck1DeHB6SUxCMWRLX2N1dW45eEdMdWhmV2Jpb1lWZGhtYkxEU0JaX3FUWUVfcjljaGEtZnNmd0VfdkpibGROaXFoMFhJLWpkLVItQkJxOQ?oc=5\" target=\"_blank\">BioMar Norway planning new feed vessel to strengthen capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+    },
+    {
+      "id": 471225,
+      "story_id": 2251,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2lqX1ZVUXRZczBCUUZiWFoyY2pIQkNyaXBhSlJBS1JXaEdSYzVIcHdmeG00dVE2Q1lGWURfQWRxVnZGb1FSbGp3RkFGRVR3STRrdDI0WnBSOHNwcEk1STFGRVNDU3h3cVp0M29zbThmaV9JX3RYaVR6c1Jvbzl2RDBZR1BuYzZZZDNGVFJiekNncmJlSjltdUU5eGU1V3RHVHVMdks2Y3VRcE1MMEZUazJyN0NUQ1NxYmxPMDJMSVBPZXBoV2xlQ1ZBdUw4RzBGYy0tT1VRYw?oc=5",
+      "title": "Skretting Chile lanza innovador proyecto para la reducción de plástico - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-11-23T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2lqX1ZVUXRZczBCUUZiWFoyY2pIQkNyaXBhSlJBS1JXaEdSYzVIcHdmeG00dVE2Q1lGWURfQWRxVnZGb1FSbGp3RkFGRVR3STRrdDI0WnBSOHNwcEk1STFGRVNDU3h3cVp0M29zbThmaV9JX3RYaVR6c1Jvbzl2RDBZR1BuYzZZZDNGVFJiekNncmJlSjltdUU5eGU1V3RHVHVMdks2Y3VRcE1MMEZUazJyN0NUQ1NxYmxPMDJMSVBPZXBoV2xlQ1ZBdUw4RzBGYy0tT1VRYw?oc=5\" target=\"_blank\">Skretting Chile lanza innovador proyecto para la reducción de plástico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 471251,
+      "story_id": 2250,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZmY0SjJWOHdVMWs1ajllQ0NvLUZneWt5dW83MnZoTXZDM3ZQb29YWWV1VmZRS3NPVTVQSDM0d240RUNPVDBZWXdocnN5SnF0UzlyaWVxV0llU2pqQ2NtX0hxcjdOSzFqdExNNWRUdDEwR09LQjFSb3cydDd2b3c?oc=5",
+      "title": "New salmon feed: EWOS CLEAR for RAS - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2016-10-27T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZmY0SjJWOHdVMWs1ajllQ0NvLUZneWt5dW83MnZoTXZDM3ZQb29YWWV1VmZRS3NPVTVQSDM0d240RUNPVDBZWXdocnN5SnF0UzlyaWVxV0llU2pqQ2NtX0hxcjdOSzFqdExNNWRUdDEwR09LQjFSb3cydDd2b3c?oc=5\" target=\"_blank\">New salmon feed: EWOS CLEAR for RAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -105393,6 +105507,14 @@
         "Aller Aqua": 0,
         "BioMar": 1,
         "Cargill": 2,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2016-W43",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -107010,7 +107132,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2021-W48",
@@ -108883,6 +109005,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 9
+      },
+      {
+        "week": "2026-W35",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
@@ -108892,11 +109022,11 @@
       },
       {
         "company": "BioMar",
-        "count": 1605
+        "count": 1606
       },
       {
         "company": "Cargill",
-        "count": 286
+        "count": 287
       },
       {
         "company": "Polarfeed",
@@ -108904,7 +109034,7 @@
       },
       {
         "company": "Skretting",
-        "count": 956
+        "count": 957
       }
     ]
   }
