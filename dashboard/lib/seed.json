@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T22:23:19+00:00",
+  "generated_at": "2026-08-25T05:57:37+00:00",
   "stats": {
-    "mention_count": 3010,
-    "story_count": 2232,
+    "mention_count": 3032,
+    "story_count": 2253,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -338,6 +338,7 @@
     "kulingen.no",
     "manilatimes.net",
     "marketscreener.com",
+    "mercado.com.ar",
     "misPeces",
     "moncloa.com",
     "navarratelevision.es",
@@ -360,6 +361,62 @@
     "weareaquaculture.com"
   ],
   "stories": [
+    {
+      "id": 2275,
+      "headline": "3 European Stocks Estimated To Be Up To 49.2% Below Intrinsic Value - simplywall.st",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ3AzeF8zX19qMlJhNU51aWp6ek1BYTE1WUVwR1JpU3ZaNmlUWUxZeUlKZ1h1VlZST2cza3k0djFaVU9GV0ZhQm9aUkdFNk9VUkNCencxWEVHT1FrbUpZajVKZ2MwWnNacmlsd2dhQXF4bXZnajNIeWJ3a3JyMmZkT2ZaNFRDaXJWS3VRdGxNMzZTUU9tMVdmTnhtLWVCd3ozZ0QycXZCdlZYbnZIRHh4ajRYRkk4Sy1CeXgtZ09oWGZHZWUtc2twRFZXbkdqbUs4aDlncFZhVFpxMTdvVHdGNXRhY9IB6AFBVV95cUxQU0VZeTkzQmQzVlh4SDNhVmNYeGxOaExGWE1hMnBaZEo0U1A2dGhvNkVqTHRRZmxRSXdaQWhaZWM3aG5iOTFnb0stNDltNERiakphSUUyZHdPSFdDN0NRN1Zaa2wtZmd3YUNXTm90SG1iSlpfV1FGdHRqNFZYYzRySERrNmF5VGlLNXFuYnNGajQxcDlVVUZhQy1oelduUHFVemJDM1o0TlU2ZWUtVFJ0VXZ1akI3T3RjcEF0OVYtcDMtMEZFNTh4VUNKeEkyTVlidDNFSlpHYUdyZkRwX3ROTWxYcE56TVpt?oc=5\" target=\"_blank\">3 European Stocks Estimated To Be Up To 49.2% Below Intrinsic Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "first_seen": "2026-08-25T05:28:54+00:00",
+      "last_seen": "2026-08-25T05:28:54+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2274,
+      "headline": "Norway's Biomar taps local design for new hybrid feed vessel tender - Baird Maritime",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWdYQktiMGxOMFpGcG1YWlJlWnhHa1F4NmJTQm51WmhLS1RHSG9rbG5SVHFrNjh2enVZejN0RzZhcm9WcnVBS0tBTExIc3VuSk5vZ1JQVFBxMFVKQ1ZUSmlEdzF5Y1FQOVUxMEl6VC1hLTVfMjFHbmFkY1J6dlFJSVZjYUIwWE1DRU94cFdyTGE3OTBZRkxVMUFWcklNOWxJQ1dwbDMyWUc5YWdtbmppVkM5VTNrVElIbEZ1Umlxbi1JZkl20gHEAUFVX3lxTE1pZ1hCS2IwbE4wWkZwbVhaUmVaeEdrUXg2YlNCbnVaaEtLVEdIb2tsblJUcWs2OHZ6dVl6M3RHNmFyb1ZydUFLS0FMTEhzdW5KTm9nUlBUUHEwVUpDVlRKaUR3MXljUVA5VTEwSXpULWEtNV8yMUduYWRjUnp2UUlJVmNhQjBYTUNFT3hwV3JMYTc5MFlGTFUxQVZySU05bElDV3BsMzJZRzlhZ21uamlWQzlVM2tUSUhsRnVSaXFuLUlmSXY?oc=5\" target=\"_blank\">Norway's Biomar taps local design for new hybrid feed vessel tender</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baird Maritime</font>",
+      "first_seen": "2026-08-24T22:05:13+00:00",
+      "last_seen": "2026-08-24T22:05:13+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2273,
+      "headline": "RTRS, Control Union y Skretting pusieron el foco en trazabilidad de soja - mercado.com.ar",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1NsOExVZXhRMGNLTVYxRjdObEV2TzQxUklWMmd6enM0Zi1BUGgtQzRCc0swd2xhb1VjOUJNWnBtMk1yN09oaVRkSjh4elFuUUxiTXJQcUllUTd6NHAxNS0tVzlmczM1cmVaMWNWRnZUR3ZmWmxzbjNiSm5XME9iRlNkSUVLWHVTa3pxNk1QRzA5VTRmUy1ub3hWT2w5ZXVXTXlMVWNqcUgtWnlRSXdpZzEwZUE?oc=5\" target=\"_blank\">RTRS, Control Union y Skretting pusieron el foco en trazabilidad de soja</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mercado.com.ar</font>",
+      "first_seen": "2026-08-24T12:32:08+00:00",
+      "last_seen": "2026-08-24T12:32:08+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2272,
+      "headline": "Schouw & Co. share buy-back programme, week 34 2026 - NTB Kommunikasjon",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaTktSEhCbDBUckw5d3EtSTgwWkpsbXN2anFiN2ZMcWdsWFR2a2pZc2JHdGdfYmxlZ2lOZDQyRDk5ckpVcUlJQlNXUkppLUFyaHpTaTgyYUtTYlNiUHpndEN3Rm1ZVjNWS1NlWVRYZ2ZGVGozSEQ5MDZWbUc2dGUzTl9qX0F5SWs0dVFIamN2WURVeEY4SV90RjlNaVpMLURzOVgxV3JiTUYzWWpnQWJId1NOWmNmLTI1RWpENGp4N002bDdYZVJqejVfRQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 34 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "first_seen": "2026-08-24T12:30:00+00:00",
+      "last_seen": "2026-08-24T12:30:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2254,
       "headline": "BioMar Norway Orders New Hybrid Feed Vessel, Boosting Logistics Along Norwegian Coast - Seafoodnews",
@@ -401,6 +458,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2271,
+      "headline": "Skretting Ecuador strengthens operational security with $8.4 million energy investment - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUdvMkxRSXgwb0hGMnM2dUVaY3d2U095N0FPSW5qbzBmQW9kc3MtN043Z0FRczk3N3hxTy1SVFJ6Q0twU28xeUt1NEJoQXg2WWlCeG8tWmRBa3h2OGZzR0g4dWY4STB0SUNFYXhELWZYd3gyWV9QVlpyazBNaUpfejFfQWl5M3JGMTlmNVRsVkJzVXBJX291RWg1aWpycjdzckpybkZhdGt6VnJjZUFZNThkcFFiSnhIeVdj?oc=5\" target=\"_blank\">Skretting Ecuador strengthens operational security with $8.4 million energy investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2026-08-23T21:21:40+00:00",
+      "last_seen": "2026-08-23T21:21:40+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 2242,
@@ -18134,6 +18205,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2270,
+      "headline": "Storøvelse på Børøya: Eksplosjon hos Skretting - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3cwbFRkaWdzbGFVem1abjNEX0dVWW5kb2ljTnp0bTNJQXNSMXNGRERqRURVd1A3YjlyWWNuQ1FERE13Rmx3Q3lseWJGUDhUYW0zbEFuRkZwMDFTekFpMlVBM2FZWDFuNTJhTnlRb1p0NkxnTE1ZeWw5NXk2anFTTTRKczF6a1pRYmczZnlNUmFtd01zdGw2Vm9vSjJKaW5nWXhORA?oc=5\" target=\"_blank\">Storøvelse på Børøya: Eksplosjon hos Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2023-10-05T07:00:00+00:00",
+      "last_seen": "2023-10-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 938,
       "headline": "Skretting: Innovation in aquafeed - All About Feed",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0RjTXR4ajVfRVVLTF9LQkZZLWJFR3RqaDE1cFAxdHB2TUtFTnhxbS1XSlN2NXpWdmRWc3lweTN4Z0djMjBCem5Ueko0QWs4VlE4YXhUdzUwM2NzZWczNlNGODNCdGI2MllyY2o0Z1c3V1lyLTZFSmR5dGtRTmtmUjg3OFVLMkxxS2JGUW8tNUhLTElB?oc=5\" target=\"_blank\">Skretting: Innovation in aquafeed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">All About Feed</font>",
@@ -24143,6 +24228,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2269,
+      "headline": "Ironman-stjerne investerer i verdens største insektfarm – skal levere fôrråstoff til Skretting - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaU9VUHJkRTh1dHlOY21XTUg3dmpnRkZQakNPZ0JMSDl1c2x0VUk3MlNmOElLMmlyam5EV0t3UnhKTWNoYjZMSlZ0MVhsMjlNVWRUREt5WmpzbXhjT2J5ZzhLVVpwa21sUFVtSFd6b2tvMmpJVk5hWFJWYmJSUmktRFRlTkhlbUh1UU1WM3BrOHZuQ0FBSzVmZExhNTVEMzlhSkloU21lRnBNZFRXUUZF?oc=5\" target=\"_blank\">Ironman-stjerne investerer i verdens største insektfarm – skal levere fôrråstoff til Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2020-10-08T07:00:00+00:00",
+      "last_seen": "2020-10-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 478,
       "headline": "Skretting presenta su Reporte de Sostenibilidad Anual 2019 - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOR2JYam9HMXpiaDZiSS02TlgxVDFfVHROTkQ4MkVkUDlweE5ERFVmbWFFNTZhd3dEMEtRemRYakN3Sk85SWU0S3hDbDhuTWhNaEFMVnl6aEtTX0kwQUxyd0F6ZXJsQ3NqejlkbnZncmpLY1ZWcFgyMkxHWlJkU2stYklrQ29SNEktMkg1SzVLYlZkeUFrS1oxUlVWeUFLdktTYTQwdWZlcEczTnpOczRBLWJJRU1Jck5JRWFGUjN6aw?oc=5\" target=\"_blank\">Skretting presenta su Reporte de Sostenibilidad Anual 2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
@@ -24813,6 +24912,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2268,
+      "headline": "Han brenner for å bedre folks rygghelse – nå ønsker Frode å introdusere flere til sin «Rodeo Chair» - Jærbladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1ZzTWpFdFdoZXA1Z2V0NER1aEFIQXZwY0FlbUllakRBTzF3Q3kwaVNkV2FCZmxFemREYVMwTkRzdWpURHdzdlM0dFdFbXhFTTlGcWRCMnZWZFR1aGdLQnJabTRjajc2S3VQSTdHZzdlU0FjS1A5YjRwVlBTUWVqOGxLRU1HM3UzUjVPSi10REY4b1hnWldyYmN2elQySENMdms4RUk5cHd4WUdxLWotT0pOaGNQTlp0eVZVNUdYWTgwZXItZXFRYg?oc=5\" target=\"_blank\">Han brenner for å bedre folks rygghelse – nå ønsker Frode å introdusere flere til sin «Rodeo Chair»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
+      "first_seen": "2020-04-19T07:00:00+00:00",
+      "last_seen": "2020-04-19T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 2079,
@@ -25755,6 +25868,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2267,
+      "headline": "Fullt trøkk hos Skretting - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE13WW9FRkVwYjRacDhTRFVDbHJubW15M0R2M2hlTUxQaHRiVHNadmZGS2F5TjNKWWt5TEhIQ1ZRRGpxT3VLUVUzMFhEbEQtNGJPR3pCcnJydHdsTV9fNUgzdm8zb20tYV9sdVQtY0dR?oc=5\" target=\"_blank\">Fullt trøkk hos Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2019-07-16T07:00:00+00:00",
+      "last_seen": "2019-07-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1616,
       "headline": "Skretting acompaña a profesionales de Blumar en gira técnica por Noruega - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVnBBZlpZa09rZGJhbVVieVVERlF0TE5VbzExQjg4RU55WlE4a0xnQlhvT2NXWWRKUVJzLWpfdHkxS2VfdjVQSG5adVhTYlNNcVN2MHdsMmYtQ2RSRkMxRlZkc3hfS2FBellFSC1rZ3NteTBVbWlGNjhicHhPSVBNM0hjc1pwUDZocFB4dVlHUGtNSjRra2luOTcxczhRV2swZXlQSzZvOHBrWjBZYkFJaVZvS0s3Ym1ZVFpFaVB1cUZQeHFNcVNudFFfbGNuQ0dGR2RuLWtuN3Q?oc=5\" target=\"_blank\">Skretting acompaña a profesionales de Blumar en gira técnica por Noruega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -25923,6 +26050,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2266,
+      "headline": "R Skretting, Slakter | – En pølse er ikke bare en pølse lenger - Jærbladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUFDTnJZUlNKcGROU0ZnYndfdTBDT25BSFJNaGcyRzYwYWptNmxNTGVKbWZpZ2FnQWtVaVlJZlduLWQ3MjhYR29QcVI2VTI1U2RoYnBnZDEwak5rWUw0QzEyU2tZSGhZaGFJT1BzZXpqU1VTWHAtLWtiX3VpRFBncmstNU56UkRpUlB1bzVqTGI5RVR6Y1hwb2FxdThUNmNQSVE?oc=5\" target=\"_blank\">R Skretting, Slakter | – En pølse er ikke bare en pølse lenger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
+      "first_seen": "2019-05-15T07:00:00+00:00",
+      "last_seen": "2019-05-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1081,
       "headline": "Aller Aqua trains fish farmers on innovative marketing to drive sales - Business News Nigeria",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONnpPMXhaUkMxM19iS0ZVMnlSSGhpT19nLWVXY0o0RkllZHdvRjJoOHQ2RGVGSElRek0xLWktNHRRc0VVM3drUGZFc1FWOVg3eUdRd0tDZUp2VmlBLU5XZ0NfeVFPc3BTY2poaHZjMjFmalhIb0NIMThUT21KSjhSOUZFN1ZqakI5ZGxtVGxQUHRDRExpQVBSUThuZzY3My1KdXhybTRmS2hQYlBWUzh0d1hrOA?oc=5\" target=\"_blank\">Aller Aqua trains fish farmers on innovative marketing to drive sales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business News Nigeria</font>",
@@ -25935,6 +26076,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 2265,
+      "headline": "Hvor mange år trenger dere, Skretting? - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UMkl4bjkxS1VrUUV1Y3JucDQ1dmpLZFJjQU1NbG9nQ09HcnMtT1pKSENZaVQ3bEVzV2c3ajJ0WURKT2NwWUM2dEczYjRqamoxbEw0bl9BNUhYYWRkbk5qMUZwYXM?oc=5\" target=\"_blank\">Hvor mange år trenger dere, Skretting?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2019-05-03T07:00:00+00:00",
+      "last_seen": "2019-05-03T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 851,
@@ -26260,15 +26415,15 @@
     },
     {
       "id": 1429,
-      "headline": "Cargill og Skretting effektiviserer - inngår transportsamarbeid - Kyst.no",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkUtbFYtN0Q2UDliX1R6Y2VMRjlTNExGODFVdl9QNUZnVEt1TXBYbWpXdFMwSU1xQ0dOeTFkX1AwVDFmbTdwNFdlNGU2dUhjb1JLMU1QM0JudzNxWHgzcEd4WXRkQUhiUlk3dmREbGpqX3kzN2djNXUxTWFFMl80N2tWbFJFWE5TWXpudWMwelBoZXFWTFhBTWdyVm5UWmlQU1EtbEtkTks?oc=5\" target=\"_blank\">Cargill og Skretting effektiviserer - inngår transportsamarbeid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
-      "first_seen": "2019-02-12T08:00:00+00:00",
+      "headline": "Cargill og Skretting inngår transportsamarbeid: Vil frakte fôr på samme båter - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXJiMzhkaTRiVnBNeFI3NHdYNzQ5Rnc3UEVMdWVNMkpnMGRCTzR2STUtZ05FNXdRdTJiWEl1bnhIT2M4STVxTU5pdlpTWHZNckxNc1g4R0NqczBSVUlqN3lzZlFqeW1aNGdQXy1LcUg3ZDUwVHZadk1QNVZocHFTQUFZWERmNzA2UGVWem5vVlNoXzhKaWNOajVR?oc=5\" target=\"_blank\">Cargill og Skretting inngår transportsamarbeid: Vil frakte fôr på samme båter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2019-02-11T08:00:00+00:00",
       "last_seen": "2019-02-12T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -27015,6 +27170,20 @@
       "company": "Cargill"
     },
     {
+      "id": 2264,
+      "headline": "BioMar og Anteo samarbeider om nytt system for tracking av fôrleveranser - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFVBdkVJUGcxWjBSOGVvRFNWOGxkaGpZWkZGcjVnbmNsYWhSQXZsc0w5OURZRXVnTmZLRDRrZVdLd2NiMTRSTy16YTNyRTYyZ21UeHd5T3o2Um5oUnJRSzl1YWVQMDZEc2kyRU0xSjhkNExINGQzdFg1em1qaVdSTEE2UkozdTBVLUhhWkdidGZTenBPcHl6MDE0NzIyQnZiQmpsM1NHcTJ4bTJGYThPTg?oc=5\" target=\"_blank\">BioMar og Anteo samarbeider om nytt system for tracking av fôrleveranser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2018-06-15T07:00:00+00:00",
+      "last_seen": "2018-06-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 447,
       "headline": "Pargua: Skretting reduce a la mitad uso de agua en su planta de alimentos - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVExeTV1MjhfYm5EYTU3cmRBVDFhRW5YUmltOHhsZjhpN3ZFaW5LeXdGdmtEOEVCekt3TExXQ3poUlo2VmdsU19ZTVZkR2otM1RrT213Y3JtN0QtLS1kR3ZYeWhtOEZTVHRPenE1c2E2b3I4RFVBbFBRREhMakpVU2ZTaUE5azNNUmtmMmtwXzBVT0s2alR1MTJMMjE3a2ZVUWJYclM5QmRYbFc0?oc=5\" target=\"_blank\">Pargua: Skretting reduce a la mitad uso de agua en su planta de alimentos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -27617,6 +27786,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2263,
+      "headline": "Roar Sandvik ny salgsdirektør i Skretting Norge - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPYU16RzJaRmZ4OS1Qcnd5Vk5FZk1QNFEtbVNxaEN1ZjhuNjhGcVZYNGZFR2wxWU9Vd25LNkFJNmZwem9OOXJadENPd3NRZ25SMHl0QU9NSXl2MHBTX2lFQjJwZnVjRnZ3d0hzcldJQTFDdUVkdGhqd3VlRW9uVzNEbFl1ZDlHdGh1TU0zaQ?oc=5\" target=\"_blank\">Roar Sandvik ny salgsdirektør i Skretting Norge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2018-01-18T08:00:00+00:00",
+      "last_seen": "2018-01-18T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 930,
       "headline": "Skretting anuncia nuevo subgerente comercial - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkVROERFckh4S0s4TDZDY1k5cVpQcnpIWFpZTHF1RExVWURuYXVfMWZiRzRZYTNXRkVaXzNWRS04UVl6LUI3d0txRnNlMmpXeDNJaGtZWUszVl9aRkROVG1WRWdkeU5fb3NwUFV2TkEzWkhKYXRnX3R2ei1aUnE3R0ZpcEg5czE3ZDJqRWowTDNUZHlpcDRqREhmWjVSQ3V0NXJlbHdqVTRpVGpVak80Y2RjWWdMNUZjeGVld2RtNUo?oc=5\" target=\"_blank\">Skretting anuncia nuevo subgerente comercial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -27662,6 +27845,20 @@
       "id": 1666,
       "headline": "Skretting Norge ansetter ny produktsjef vekstfôr - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE81Wl9iSERLUkF4dEJkcUhlX21xX1pfX0I3Skd1bW9Gc0JGd2lwSkczY1RuNXpTbnF1TmhMdnNReXg4eFQzbDV2b0UxaG1iMmluZDhYaERfQkN0RU53cXVfN1RDX0JHVWRYQ0xvdQ?oc=5\" target=\"_blank\">Skretting Norge ansetter ny produktsjef vekstfôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2018-01-11T08:00:00+00:00",
+      "last_seen": "2018-01-11T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2262,
+      "headline": "Ny produktsjef i Skretting - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUJpazZDYjNkclYwZ3VpSU10d2hNbGhnY2EweXBkYVMzTUVXaU1xNUNGQUpxY041SHMyRlh2cVdRODhKV1JhYk5tampGZE1IaVdQMEp1T240ZDhWLWh6MkF6bmF6SmxDTzhXVnRYMUFndGFwTHl4a3ZRX3B0U1ItWFB6TUwyVjVkbVE?oc=5\" target=\"_blank\">Ny produktsjef i Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
       "first_seen": "2018-01-11T08:00:00+00:00",
       "last_seen": "2018-01-11T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -28639,6 +28836,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2261,
+      "headline": "BioMar bygger fabrikk i Australia - vol.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRUVHYXhNenl3THJuQ1ZEYXFyaVFPWlUzeTNsT2JrOXVGbnd5MkJBdUdSbWRjR29zbWZsSW92U19xZmxVQWN1M3F3NHkyMWp4QkpFaUxROXFTZjRsWnVNekFhOE1SNWVvOUViWGFMTTVLUDhuVlFSYg?oc=5\" target=\"_blank\">BioMar bygger fabrikk i Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>",
+      "first_seen": "2017-03-23T07:00:00+00:00",
+      "last_seen": "2017-03-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 14,
       "headline": "Schouw & Co. Acquires Majority Shares Of Remanufacturer Borg Automotive - AftermarketNews",
       "story_summary": "Schouw & Co, a Danish industrial conglomerate, has acquired a majority stake in Borg Automotive, a remanufacturer. The transaction represents a strategic expansion of Schouw's portfolio in the automotive aftermarket sector.",
@@ -28665,6 +28876,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2260,
+      "headline": "Skretting invertirá US$ 6,38 millones en expansión de I+D en Chile y Noruega - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlM0OGVlODRzcWVCeUc1LVlaTTZ2R2dNT1hZVnlTSWs0N1JmM3pPZVNNdkQ2ZlhyVjI4NWVJbG1rdGY0ZnBGR09xWGRXZ3JMbWU2V0lsZXNqQTZ6d3AwS1BXZUVEeE1qRDZlbDlvLVhNWngtMHRVdFBsQ2N4NVlkNjRpN3l0Y1prQXUxbmpJZE1xUm5wSWFNY0hTRlo3Tk9POFV6bHBLZDMtaUlFRVhRNHRUdXRjR2Y3Nl9ubDRJdU5MV3RBNlE?oc=5\" target=\"_blank\">Skretting invertirá US$ 6,38 millones en expansión de I+D en Chile y Noruega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-03-14T07:00:00+00:00",
+      "last_seen": "2017-03-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 13,
@@ -28863,6 +29088,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2259,
+      "headline": "Skretting vil selge kveite i Shanghai - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXVoZWVYZkRvRjc4Q0VaMVd2Z3ZiYW9IVW5HYjVPSE5zT1FuWlBsOHI0enY3eVp2SzVyeW1GaEhqOENMYk8yYzNOSEJYT3NPU21mWURhemNNWlAzb25tN0twbVRTTUx0a0pSV2VLZDMzaTR6Wmh2TTd5TFg3Nlp3RGthR3dIUkE?oc=5\" target=\"_blank\">Skretting vil selge kveite i Shanghai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2016-12-19T08:00:00+00:00",
+      "last_seen": "2016-12-19T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 849,
       "headline": "Cargill etablerer nytt hovedkontor på Marineholmen - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5pRzYxc1NZcm5UYlRiMW81SU5MWk1NOTN2NU5qWGVvRjNaQ21nV1lsZDBhay1fMEQwbEw0RkJQdmZ3YkxOOG5ENVdWTk1UclJMRElyWVBlUVkyZXJUdFBEOU1PUlFPYUxBOGwxTmp5YWNfQjEzQ0hr?oc=5\" target=\"_blank\">Cargill etablerer nytt hovedkontor på Marineholmen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -29057,6 +29296,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 2258,
+      "headline": "Fra Skretting til AquaGen - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wNnVXMC1HSElrc2E4bDVaV01iOFM2UVF5V0xrZWFFd2x6Z2ZrQjg1amRJdjBEX05IakZIc1puZHZJaFF6eG50dnRiTy15M1NrMDlESER3?oc=5\" target=\"_blank\">Fra Skretting til AquaGen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2016-09-16T07:00:00+00:00",
+      "last_seen": "2016-09-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1063,
@@ -29507,6 +29760,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 2257,
+      "headline": "Skretting kan produsere laksefôr helt uten fiskemel - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENE1oWm11cTd5bWVRVXJvX21GUTFMNDFQX0xzQWFOQ0Q5VDJwOEs4ajJuOGJrZDRXQXd4YTc0dVo4c3R4VmR4eXE0YWEzQ3BPZHJEazJuWVFIN2I5TVB0YUd5azZKYU9GTS1YR3MwRGNISE9RQ2hmRw?oc=5\" target=\"_blank\">Skretting kan produsere laksefôr helt uten fiskemel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2016-03-21T07:00:00+00:00",
+      "last_seen": "2016-03-21T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 11,
       "headline": "Let’s Innovate Aquaculture, el nuevo lema de BioMar - Salmonexpert",
       "story_summary": "BioMar announces a new corporate slogan, 'Let's Innovate Aquaculture', reflecting its strategic positioning in the sector. The article is brief and presents no negative or controversial elements.",
@@ -29729,6 +29996,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2256,
+      "headline": "Oljelekkasje fra Skretting - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NX1Z1dDRvUjlXTFIxRExfZUZHQmpnS0VYanBSMUtENF9KTURtaDRHRjBhRzJuQllVTHplOG1BZURzZzRaUXZISF9PanlKdkVZYzRxeUlQRQ?oc=5\" target=\"_blank\">Oljelekkasje fra Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2015-11-30T08:00:00+00:00",
+      "last_seen": "2015-11-30T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1790,
@@ -30724,6 +31005,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2255,
+      "headline": "Skretting satser på LNG - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tVWVRVFZVUXJYYXNWdUROdWdwUC1wYldqWjJYNkYzR0Ryc2VJZ1hYTGRPRzA2em9FRzE2ZHhzUmQxQ3hrbEtKVE81bmRNeTFEdFRj?oc=5\" target=\"_blank\">Skretting satser på LNG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2014-05-15T07:00:00+00:00",
+      "last_seen": "2014-05-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 389,
@@ -104648,6 +104943,534 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFNXbVg1VlcyVnJHQm5kTzBBNWoxOV9MQTNPRVp0TUVVTnlfUDFNV05uMU1hQ3BEeVpvUTludEJsNGE1dlF5RXh0clhwNW1kUVRkaTdlM2Z5bmp4dEdscWF4Q0t6MlVaeWFiWXRmMzE1dHhZVGxnZVVwR0lkVk1obXYxOWFBWkVVcnlaRXNzLXpveENTWmxNOTJ4MXJkMHBaUXZfQ0lXc0ZVZFM4SlJjZmtyUUwtbUpi?oc=5\" target=\"_blank\">Skretting expands nutrition program to early stages of shrimp farming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 472371,
+      "story_id": 2274,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWdYQktiMGxOMFpGcG1YWlJlWnhHa1F4NmJTQm51WmhLS1RHSG9rbG5SVHFrNjh2enVZejN0RzZhcm9WcnVBS0tBTExIc3VuSk5vZ1JQVFBxMFVKQ1ZUSmlEdzF5Y1FQOVUxMEl6VC1hLTVfMjFHbmFkY1J6dlFJSVZjYUIwWE1DRU94cFdyTGE3OTBZRkxVMUFWcklNOWxJQ1dwbDMyWUc5YWdtbmppVkM5VTNrVElIbEZ1Umlxbi1JZkl20gHEAUFVX3lxTE1pZ1hCS2IwbE4wWkZwbVhaUmVaeEdrUXg2YlNCbnVaaEtLVEdIb2tsblJUcWs2OHZ6dVl6M3RHNmFyb1ZydUFLS0FMTEhzdW5KTm9nUlBUUHEwVUpDVlRKaUR3MXljUVA5VTEwSXpULWEtNV8yMUduYWRjUnp2UUlJVmNhQjBYTUNFT3hwV3JMYTc5MFlGTFUxQVZySU05bElDV3BsMzJZRzlhZ21uamlWQzlVM2tUSUhsRnVSaXFuLUlmSXY?oc=5",
+      "title": "Norway's Biomar taps local design for new hybrid feed vessel tender - Baird Maritime",
+      "source_name": "Baird Maritime",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-24T22:05:13+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWdYQktiMGxOMFpGcG1YWlJlWnhHa1F4NmJTQm51WmhLS1RHSG9rbG5SVHFrNjh2enVZejN0RzZhcm9WcnVBS0tBTExIc3VuSk5vZ1JQVFBxMFVKQ1ZUSmlEdzF5Y1FQOVUxMEl6VC1hLTVfMjFHbmFkY1J6dlFJSVZjYUIwWE1DRU94cFdyTGE3OTBZRkxVMUFWcklNOWxJQ1dwbDMyWUc5YWdtbmppVkM5VTNrVElIbEZ1Umlxbi1JZkl20gHEAUFVX3lxTE1pZ1hCS2IwbE4wWkZwbVhaUmVaeEdrUXg2YlNCbnVaaEtLVEdIb2tsblJUcWs2OHZ6dVl6M3RHNmFyb1ZydUFLS0FMTEhzdW5KTm9nUlBUUHEwVUpDVlRKaUR3MXljUVA5VTEwSXpULWEtNV8yMUduYWRjUnp2UUlJVmNhQjBYTUNFT3hwV3JMYTc5MFlGTFUxQVZySU05bElDV3BsMzJZRzlhZ21uamlWQzlVM2tUSUhsRnVSaXFuLUlmSXY?oc=5\" target=\"_blank\">Norway's Biomar taps local design for new hybrid feed vessel tender</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baird Maritime</font>"
+    },
+    {
+      "id": 472373,
+      "story_id": 2275,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ3AzeF8zX19qMlJhNU51aWp6ek1BYTE1WUVwR1JpU3ZaNmlUWUxZeUlKZ1h1VlZST2cza3k0djFaVU9GV0ZhQm9aUkdFNk9VUkNCencxWEVHT1FrbUpZajVKZ2MwWnNacmlsd2dhQXF4bXZnajNIeWJ3a3JyMmZkT2ZaNFRDaXJWS3VRdGxNMzZTUU9tMVdmTnhtLWVCd3ozZ0QycXZCdlZYbnZIRHh4ajRYRkk4Sy1CeXgtZ09oWGZHZWUtc2twRFZXbkdqbUs4aDlncFZhVFpxMTdvVHdGNXRhY9IB6AFBVV95cUxQU0VZeTkzQmQzVlh4SDNhVmNYeGxOaExGWE1hMnBaZEo0U1A2dGhvNkVqTHRRZmxRSXdaQWhaZWM3aG5iOTFnb0stNDltNERiakphSUUyZHdPSFdDN0NRN1Zaa2wtZmd3YUNXTm90SG1iSlpfV1FGdHRqNFZYYzRySERrNmF5VGlLNXFuYnNGajQxcDlVVUZhQy1oelduUHFVemJDM1o0TlU2ZWUtVFJ0VXZ1akI3T3RjcEF0OVYtcDMtMEZFNTh4VUNKeEkyTVlidDNFSlpHYUdyZkRwX3ROTWxYcE56TVpt?oc=5",
+      "title": "3 European Stocks Estimated To Be Up To 49.2% Below Intrinsic Value - simplywall.st",
+      "source_name": "simplywall.st",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-08-25T05:28:54+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ3AzeF8zX19qMlJhNU51aWp6ek1BYTE1WUVwR1JpU3ZaNmlUWUxZeUlKZ1h1VlZST2cza3k0djFaVU9GV0ZhQm9aUkdFNk9VUkNCencxWEVHT1FrbUpZajVKZ2MwWnNacmlsd2dhQXF4bXZnajNIeWJ3a3JyMmZkT2ZaNFRDaXJWS3VRdGxNMzZTUU9tMVdmTnhtLWVCd3ozZ0QycXZCdlZYbnZIRHh4ajRYRkk4Sy1CeXgtZ09oWGZHZWUtc2twRFZXbkdqbUs4aDlncFZhVFpxMTdvVHdGNXRhY9IB6AFBVV95cUxQU0VZeTkzQmQzVlh4SDNhVmNYeGxOaExGWE1hMnBaZEo0U1A2dGhvNkVqTHRRZmxRSXdaQWhaZWM3aG5iOTFnb0stNDltNERiakphSUUyZHdPSFdDN0NRN1Zaa2wtZmd3YUNXTm90SG1iSlpfV1FGdHRqNFZYYzRySERrNmF5VGlLNXFuYnNGajQxcDlVVUZhQy1oelduUHFVemJDM1o0TlU2ZWUtVFJ0VXZ1akI3T3RjcEF0OVYtcDMtMEZFNTh4VUNKeEkyTVlidDNFSlpHYUdyZkRwX3ROTWxYcE56TVpt?oc=5\" target=\"_blank\">3 European Stocks Estimated To Be Up To 49.2% Below Intrinsic Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>"
+    },
+    {
+      "id": 472555,
+      "story_id": 2261,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRUVHYXhNenl3THJuQ1ZEYXFyaVFPWlUzeTNsT2JrOXVGbnd5MkJBdUdSbWRjR29zbWZsSW92U19xZmxVQWN1M3F3NHkyMWp4QkpFaUxROXFTZjRsWnVNekFhOE1SNWVvOUViWGFMTTVLUDhuVlFSYg?oc=5",
+      "title": "BioMar bygger fabrikk i Australia - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-03-23T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRUVHYXhNenl3THJuQ1ZEYXFyaVFPWlUzeTNsT2JrOXVGbnd5MkJBdUdSbWRjR29zbWZsSW92U19xZmxVQWN1M3F3NHkyMWp4QkpFaUxROXFTZjRsWnVNekFhOE1SNWVvOUViWGFMTTVLUDhuVlFSYg?oc=5\" target=\"_blank\">BioMar bygger fabrikk i Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+    },
+    {
+      "id": 472563,
+      "story_id": 2264,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFVBdkVJUGcxWjBSOGVvRFNWOGxkaGpZWkZGcjVnbmNsYWhSQXZsc0w5OURZRXVnTmZLRDRrZVdLd2NiMTRSTy16YTNyRTYyZ21UeHd5T3o2Um5oUnJRSzl1YWVQMDZEc2kyRU0xSjhkNExINGQzdFg1em1qaVdSTEE2UkozdTBVLUhhWkdidGZTenBPcHl6MDE0NzIyQnZiQmpsM1NHcTJ4bTJGYThPTg?oc=5",
+      "title": "BioMar og Anteo samarbeider om nytt system for tracking av fôrleveranser - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-06-15T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFVBdkVJUGcxWjBSOGVvRFNWOGxkaGpZWkZGcjVnbmNsYWhSQXZsc0w5OURZRXVnTmZLRDRrZVdLd2NiMTRSTy16YTNyRTYyZ21UeHd5T3o2Um5oUnJRSzl1YWVQMDZEc2kyRU0xSjhkNExINGQzdFg1em1qaVdSTEE2UkozdTBVLUhhWkdidGZTenBPcHl6MDE0NzIyQnZiQmpsM1NHcTJ4bTJGYThPTg?oc=5\" target=\"_blank\">BioMar og Anteo samarbeider om nytt system for tracking av fôrleveranser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 472771,
+      "story_id": 2272,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaTktSEhCbDBUckw5d3EtSTgwWkpsbXN2anFiN2ZMcWdsWFR2a2pZc2JHdGdfYmxlZ2lOZDQyRDk5ckpVcUlJQlNXUkppLUFyaHpTaTgyYUtTYlNiUHpndEN3Rm1ZVjNWS1NlWVRYZ2ZGVGozSEQ5MDZWbUc2dGUzTl9qX0F5SWs0dVFIamN2WURVeEY4SV90RjlNaVpMLURzOVgxV3JiTUYzWWpnQWJId1NOWmNmLTI1RWpENGp4N002bDdYZVJqejVfRQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 34 2026 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2026-08-24T12:30:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaTktSEhCbDBUckw5d3EtSTgwWkpsbXN2anFiN2ZMcWdsWFR2a2pZc2JHdGdfYmxlZ2lOZDQyRDk5ckpVcUlJQlNXUkppLUFyaHpTaTgyYUtTYlNiUHpndEN3Rm1ZVjNWS1NlWVRYZ2ZGVGozSEQ5MDZWbUc2dGUzTl9qX0F5SWs0dVFIamN2WURVeEY4SV90RjlNaVpMLURzOVgxV3JiTUYzWWpnQWJId1NOWmNmLTI1RWpENGp4N002bDdYZVJqejVfRQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 34 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
+    },
+    {
+      "id": 472893,
+      "story_id": 2271,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUdvMkxRSXgwb0hGMnM2dUVaY3d2U095N0FPSW5qbzBmQW9kc3MtN043Z0FRczk3N3hxTy1SVFJ6Q0twU28xeUt1NEJoQXg2WWlCeG8tWmRBa3h2OGZzR0g4dWY4STB0SUNFYXhELWZYd3gyWV9QVlpyazBNaUpfejFfQWl5M3JGMTlmNVRsVkJzVXBJX291RWg1aWpycjdzckpybkZhdGt6VnJjZUFZNThkcFFiSnhIeVdj?oc=5",
+      "title": "Skretting Ecuador strengthens operational security with $8.4 million energy investment - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-08-23T21:21:40+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcUdvMkxRSXgwb0hGMnM2dUVaY3d2U095N0FPSW5qbzBmQW9kc3MtN043Z0FRczk3N3hxTy1SVFJ6Q0twU28xeUt1NEJoQXg2WWlCeG8tWmRBa3h2OGZzR0g4dWY4STB0SUNFYXhELWZYd3gyWV9QVlpyazBNaUpfejFfQWl5M3JGMTlmNVRsVkJzVXBJX291RWg1aWpycjdzckpybkZhdGt6VnJjZUFZNThkcFFiSnhIeVdj?oc=5\" target=\"_blank\">Skretting Ecuador strengthens operational security with $8.4 million energy investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 473056,
+      "story_id": 2270,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3cwbFRkaWdzbGFVem1abjNEX0dVWW5kb2ljTnp0bTNJQXNSMXNGRERqRURVd1A3YjlyWWNuQ1FERE13Rmx3Q3lseWJGUDhUYW0zbEFuRkZwMDFTekFpMlVBM2FZWDFuNTJhTnlRb1p0NkxnTE1ZeWw5NXk2anFTTTRKczF6a1pRYmczZnlNUmFtd01zdGw2Vm9vSjJKaW5nWXhORA?oc=5",
+      "title": "Storøvelse på Børøya: Eksplosjon hos Skretting - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-10-05T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3cwbFRkaWdzbGFVem1abjNEX0dVWW5kb2ljTnp0bTNJQXNSMXNGRERqRURVd1A3YjlyWWNuQ1FERE13Rmx3Q3lseWJGUDhUYW0zbEFuRkZwMDFTekFpMlVBM2FZWDFuNTJhTnlRb1p0NkxnTE1ZeWw5NXk2anFTTTRKczF6a1pRYmczZnlNUmFtd01zdGw2Vm9vSjJKaW5nWXhORA?oc=5\" target=\"_blank\">Storøvelse på Børøya: Eksplosjon hos Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+    },
+    {
+      "id": 473063,
+      "story_id": 2256,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NX1Z1dDRvUjlXTFIxRExfZUZHQmpnS0VYanBSMUtENF9KTURtaDRHRjBhRzJuQllVTHplOG1BZURzZzRaUXZISF9PanlKdkVZYzRxeUlQRQ?oc=5",
+      "title": "Oljelekkasje fra Skretting - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2015-11-30T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NX1Z1dDRvUjlXTFIxRExfZUZHQmpnS0VYanBSMUtENF9KTURtaDRHRjBhRzJuQllVTHplOG1BZURzZzRaUXZISF9PanlKdkVZYzRxeUlQRQ?oc=5\" target=\"_blank\">Oljelekkasje fra Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 473067,
+      "story_id": 2267,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13WW9FRkVwYjRacDhTRFVDbHJubW15M0R2M2hlTUxQaHRiVHNadmZGS2F5TjNKWWt5TEhIQ1ZRRGpxT3VLUVUzMFhEbEQtNGJPR3pCcnJydHdsTV9fNUgzdm8zb20tYV9sdVQtY0dR?oc=5",
+      "title": "Fullt trøkk hos Skretting - vol.no",
+      "source_name": "vol.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-07-16T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE13WW9FRkVwYjRacDhTRFVDbHJubW15M0R2M2hlTUxQaHRiVHNadmZGS2F5TjNKWWt5TEhIQ1ZRRGpxT3VLUVUzMFhEbEQtNGJPR3pCcnJydHdsTV9fNUgzdm8zb20tYV9sdVQtY0dR?oc=5\" target=\"_blank\">Fullt trøkk hos Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vol.no</font>"
+    },
+    {
+      "id": 473069,
+      "story_id": 2262,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUJpazZDYjNkclYwZ3VpSU10d2hNbGhnY2EweXBkYVMzTUVXaU1xNUNGQUpxY041SHMyRlh2cVdRODhKV1JhYk5tampGZE1IaVdQMEp1T240ZDhWLWh6MkF6bmF6SmxDTzhXVnRYMUFndGFwTHl4a3ZRX3B0U1ItWFB6TUwyVjVkbVE?oc=5",
+      "title": "Ny produktsjef i Skretting - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-01-11T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUJpazZDYjNkclYwZ3VpSU10d2hNbGhnY2EweXBkYVMzTUVXaU1xNUNGQUpxY041SHMyRlh2cVdRODhKV1JhYk5tampGZE1IaVdQMEp1T240ZDhWLWh6MkF6bmF6SmxDTzhXVnRYMUFndGFwTHl4a3ZRX3B0U1ItWFB6TUwyVjVkbVE?oc=5\" target=\"_blank\">Ny produktsjef i Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 473075,
+      "story_id": 2266,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUFDTnJZUlNKcGROU0ZnYndfdTBDT25BSFJNaGcyRzYwYWptNmxNTGVKbWZpZ2FnQWtVaVlJZlduLWQ3MjhYR29QcVI2VTI1U2RoYnBnZDEwak5rWUw0QzEyU2tZSGhZaGFJT1BzZXpqU1VTWHAtLWtiX3VpRFBncmstNU56UkRpUlB1bzVqTGI5RVR6Y1hwb2FxdThUNmNQSVE?oc=5",
+      "title": "R Skretting, Slakter | – En pølse er ikke bare en pølse lenger - Jærbladet",
+      "source_name": "Jærbladet",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-05-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUFDTnJZUlNKcGROU0ZnYndfdTBDT25BSFJNaGcyRzYwYWptNmxNTGVKbWZpZ2FnQWtVaVlJZlduLWQ3MjhYR29QcVI2VTI1U2RoYnBnZDEwak5rWUw0QzEyU2tZSGhZaGFJT1BzZXpqU1VTWHAtLWtiX3VpRFBncmstNU56UkRpUlB1bzVqTGI5RVR6Y1hwb2FxdThUNmNQSVE?oc=5\" target=\"_blank\">R Skretting, Slakter | – En pølse er ikke bare en pølse lenger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>"
+    },
+    {
+      "id": 473076,
+      "story_id": 2258,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wNnVXMC1HSElrc2E4bDVaV01iOFM2UVF5V0xrZWFFd2x6Z2ZrQjg1amRJdjBEX05IakZIc1puZHZJaFF6eG50dnRiTy15M1NrMDlESER3?oc=5",
+      "title": "Fra Skretting til AquaGen - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2016-09-16T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wNnVXMC1HSElrc2E4bDVaV01iOFM2UVF5V0xrZWFFd2x6Z2ZrQjg1amRJdjBEX05IakZIc1puZHZJaFF6eG50dnRiTy15M1NrMDlESER3?oc=5\" target=\"_blank\">Fra Skretting til AquaGen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 473078,
+      "story_id": 2255,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tVWVRVFZVUXJYYXNWdUROdWdwUC1wYldqWjJYNkYzR0Ryc2VJZ1hYTGRPRzA2em9FRzE2ZHhzUmQxQ3hrbEtKVE81bmRNeTFEdFRj?oc=5",
+      "title": "Skretting satser på LNG - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2014-05-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tVWVRVFZVUXJYYXNWdUROdWdwUC1wYldqWjJYNkYzR0Ryc2VJZ1hYTGRPRzA2em9FRzE2ZHhzUmQxQ3hrbEtKVE81bmRNeTFEdFRj?oc=5\" target=\"_blank\">Skretting satser på LNG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 473080,
+      "story_id": 2257,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENE1oWm11cTd5bWVRVXJvX21GUTFMNDFQX0xzQWFOQ0Q5VDJwOEs4ajJuOGJrZDRXQXd4YTc0dVo4c3R4VmR4eXE0YWEzQ3BPZHJEazJuWVFIN2I5TVB0YUd5azZKYU9GTS1YR3MwRGNISE9RQ2hmRw?oc=5",
+      "title": "Skretting kan produsere laksefôr helt uten fiskemel - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2016-03-21T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ENE1oWm11cTd5bWVRVXJvX21GUTFMNDFQX0xzQWFOQ0Q5VDJwOEs4ajJuOGJrZDRXQXd4YTc0dVo4c3R4VmR4eXE0YWEzQ3BPZHJEazJuWVFIN2I5TVB0YUd5azZKYU9GTS1YR3MwRGNISE9RQ2hmRw?oc=5\" target=\"_blank\">Skretting kan produsere laksefôr helt uten fiskemel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 473084,
+      "story_id": 2269,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaU9VUHJkRTh1dHlOY21XTUg3dmpnRkZQakNPZ0JMSDl1c2x0VUk3MlNmOElLMmlyam5EV0t3UnhKTWNoYjZMSlZ0MVhsMjlNVWRUREt5WmpzbXhjT2J5ZzhLVVpwa21sUFVtSFd6b2tvMmpJVk5hWFJWYmJSUmktRFRlTkhlbUh1UU1WM3BrOHZuQ0FBSzVmZExhNTVEMzlhSkloU21lRnBNZFRXUUZF?oc=5",
+      "title": "Ironman-stjerne investerer i verdens største insektfarm – skal levere fôrråstoff til Skretting - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-10-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaU9VUHJkRTh1dHlOY21XTUg3dmpnRkZQakNPZ0JMSDl1c2x0VUk3MlNmOElLMmlyam5EV0t3UnhKTWNoYjZMSlZ0MVhsMjlNVWRUREt5WmpzbXhjT2J5ZzhLVVpwa21sUFVtSFd6b2tvMmpJVk5hWFJWYmJSUmktRFRlTkhlbUh1UU1WM3BrOHZuQ0FBSzVmZExhNTVEMzlhSkloU21lRnBNZFRXUUZF?oc=5\" target=\"_blank\">Ironman-stjerne investerer i verdens største insektfarm – skal levere fôrråstoff til Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 473086,
+      "story_id": 2263,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYU16RzJaRmZ4OS1Qcnd5Vk5FZk1QNFEtbVNxaEN1ZjhuNjhGcVZYNGZFR2wxWU9Vd25LNkFJNmZwem9OOXJadENPd3NRZ25SMHl0QU9NSXl2MHBTX2lFQjJwZnVjRnZ3d0hzcldJQTFDdUVkdGhqd3VlRW9uVzNEbFl1ZDlHdGh1TU0zaQ?oc=5",
+      "title": "Roar Sandvik ny salgsdirektør i Skretting Norge - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-01-18T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPYU16RzJaRmZ4OS1Qcnd5Vk5FZk1QNFEtbVNxaEN1ZjhuNjhGcVZYNGZFR2wxWU9Vd25LNkFJNmZwem9OOXJadENPd3NRZ25SMHl0QU9NSXl2MHBTX2lFQjJwZnVjRnZ3d0hzcldJQTFDdUVkdGhqd3VlRW9uVzNEbFl1ZDlHdGh1TU0zaQ?oc=5\" target=\"_blank\">Roar Sandvik ny salgsdirektør i Skretting Norge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 473087,
+      "story_id": 1429,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXJiMzhkaTRiVnBNeFI3NHdYNzQ5Rnc3UEVMdWVNMkpnMGRCTzR2STUtZ05FNXdRdTJiWEl1bnhIT2M4STVxTU5pdlpTWHZNckxNc1g4R0NqczBSVUlqN3lzZlFqeW1aNGdQXy1LcUg3ZDUwVHZadk1QNVZocHFTQUFZWERmNzA2UGVWem5vVlNoXzhKaWNOajVR?oc=5",
+      "title": "Cargill og Skretting inngår transportsamarbeid: Vil frakte fôr på samme båter - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-02-11T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUXJiMzhkaTRiVnBNeFI3NHdYNzQ5Rnc3UEVMdWVNMkpnMGRCTzR2STUtZ05FNXdRdTJiWEl1bnhIT2M4STVxTU5pdlpTWHZNckxNc1g4R0NqczBSVUlqN3lzZlFqeW1aNGdQXy1LcUg3ZDUwVHZadk1QNVZocHFTQUFZWERmNzA2UGVWem5vVlNoXzhKaWNOajVR?oc=5\" target=\"_blank\">Cargill og Skretting inngår transportsamarbeid: Vil frakte fôr på samme båter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 473088,
+      "story_id": 2265,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UMkl4bjkxS1VrUUV1Y3JucDQ1dmpLZFJjQU1NbG9nQ09HcnMtT1pKSENZaVQ3bEVzV2c3ajJ0WURKT2NwWUM2dEczYjRqamoxbEw0bl9BNUhYYWRkbk5qMUZwYXM?oc=5",
+      "title": "Hvor mange år trenger dere, Skretting? - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-05-03T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UMkl4bjkxS1VrUUV1Y3JucDQ1dmpLZFJjQU1NbG9nQ09HcnMtT1pKSENZaVQ3bEVzV2c3ajJ0WURKT2NwWUM2dEczYjRqamoxbEw0bl9BNUhYYWRkbk5qMUZwYXM?oc=5\" target=\"_blank\">Hvor mange år trenger dere, Skretting?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 473089,
+      "story_id": 2259,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXVoZWVYZkRvRjc4Q0VaMVd2Z3ZiYW9IVW5HYjVPSE5zT1FuWlBsOHI0enY3eVp2SzVyeW1GaEhqOENMYk8yYzNOSEJYT3NPU21mWURhemNNWlAzb25tN0twbVRTTUx0a0pSV2VLZDMzaTR6Wmh2TTd5TFg3Nlp3RGthR3dIUkE?oc=5",
+      "title": "Skretting vil selge kveite i Shanghai - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2016-12-19T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXVoZWVYZkRvRjc4Q0VaMVd2Z3ZiYW9IVW5HYjVPSE5zT1FuWlBsOHI0enY3eVp2SzVyeW1GaEhqOENMYk8yYzNOSEJYT3NPU21mWURhemNNWlAzb25tN0twbVRTTUx0a0pSV2VLZDMzaTR6Wmh2TTd5TFg3Nlp3RGthR3dIUkE?oc=5\" target=\"_blank\">Skretting vil selge kveite i Shanghai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 473090,
+      "story_id": 2268,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1ZzTWpFdFdoZXA1Z2V0NER1aEFIQXZwY0FlbUllakRBTzF3Q3kwaVNkV2FCZmxFemREYVMwTkRzdWpURHdzdlM0dFdFbXhFTTlGcWRCMnZWZFR1aGdLQnJabTRjajc2S3VQSTdHZzdlU0FjS1A5YjRwVlBTUWVqOGxLRU1HM3UzUjVPSi10REY4b1hnWldyYmN2elQySENMdms4RUk5cHd4WUdxLWotT0pOaGNQTlp0eVZVNUdYWTgwZXItZXFRYg?oc=5",
+      "title": "Han brenner for å bedre folks rygghelse – nå ønsker Frode å introdusere flere til sin «Rodeo Chair» - Jærbladet",
+      "source_name": "Jærbladet",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-04-19T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1ZzTWpFdFdoZXA1Z2V0NER1aEFIQXZwY0FlbUllakRBTzF3Q3kwaVNkV2FCZmxFemREYVMwTkRzdWpURHdzdlM0dFdFbXhFTTlGcWRCMnZWZFR1aGdLQnJabTRjajc2S3VQSTdHZzdlU0FjS1A5YjRwVlBTUWVqOGxLRU1HM3UzUjVPSi10REY4b1hnWldyYmN2elQySENMdms4RUk5cHd4WUdxLWotT0pOaGNQTlp0eVZVNUdYWTgwZXItZXFRYg?oc=5\" target=\"_blank\">Han brenner for å bedre folks rygghelse – nå ønsker Frode å introdusere flere til sin «Rodeo Chair»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>"
+    },
+    {
+      "id": 473191,
+      "story_id": 2273,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1NsOExVZXhRMGNLTVYxRjdObEV2TzQxUklWMmd6enM0Zi1BUGgtQzRCc0swd2xhb1VjOUJNWnBtMk1yN09oaVRkSjh4elFuUUxiTXJQcUllUTd6NHAxNS0tVzlmczM1cmVaMWNWRnZUR3ZmWmxzbjNiSm5XME9iRlNkSUVLWHVTa3pxNk1QRzA5VTRmUy1ub3hWT2w5ZXVXTXlMVWNqcUgtWnlRSXdpZzEwZUE?oc=5",
+      "title": "RTRS, Control Union y Skretting pusieron el foco en trazabilidad de soja - mercado.com.ar",
+      "source_name": "mercado.com.ar",
+      "language": "es",
+      "country": "AR",
+      "outlet_kind": "press",
+      "published_at": "2026-08-24T12:32:08+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1NsOExVZXhRMGNLTVYxRjdObEV2TzQxUklWMmd6enM0Zi1BUGgtQzRCc0swd2xhb1VjOUJNWnBtMk1yN09oaVRkSjh4elFuUUxiTXJQcUllUTd6NHAxNS0tVzlmczM1cmVaMWNWRnZUR3ZmWmxzbjNiSm5XME9iRlNkSUVLWHVTa3pxNk1QRzA5VTRmUy1ub3hWT2w5ZXVXTXlMVWNqcUgtWnlRSXdpZzEwZUE?oc=5\" target=\"_blank\">RTRS, Control Union y Skretting pusieron el foco en trazabilidad de soja</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mercado.com.ar</font>"
+    },
+    {
+      "id": 473289,
+      "story_id": 2260,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlM0OGVlODRzcWVCeUc1LVlaTTZ2R2dNT1hZVnlTSWs0N1JmM3pPZVNNdkQ2ZlhyVjI4NWVJbG1rdGY0ZnBGR09xWGRXZ3JMbWU2V0lsZXNqQTZ6d3AwS1BXZUVEeE1qRDZlbDlvLVhNWngtMHRVdFBsQ2N4NVlkNjRpN3l0Y1prQXUxbmpJZE1xUm5wSWFNY0hTRlo3Tk9POFV6bHBLZDMtaUlFRVhRNHRUdXRjR2Y3Nl9ubDRJdU5MV3RBNlE?oc=5",
+      "title": "Skretting invertirá US$ 6,38 millones en expansión de I+D en Chile y Noruega - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-03-14T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlM0OGVlODRzcWVCeUc1LVlaTTZ2R2dNT1hZVnlTSWs0N1JmM3pPZVNNdkQ2ZlhyVjI4NWVJbG1rdGY0ZnBGR09xWGRXZ3JMbWU2V0lsZXNqQTZ6d3AwS1BXZUVEeE1qRDZlbDlvLVhNWngtMHRVdFBsQ2N4NVlkNjRpN3l0Y1prQXUxbmpJZE1xUm5wSWFNY0hTRlo3Tk9POFV6bHBLZDMtaUlFRVhRNHRUdXRjR2Y3Nl9ubDRJdU5MV3RBNlE?oc=5\" target=\"_blank\">Skretting invertirá US$ 6,38 millones en expansión de I+D en Chile y Noruega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -105052,6 +105875,14 @@
         "Skretting": 0
       },
       {
+        "week": "2014-W20",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2014-W21",
         "Aller Aqua": 0,
         "BioMar": 0,
@@ -105369,7 +106200,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2015-W50",
@@ -105449,7 +106280,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2016-W13",
@@ -105593,7 +106424,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2016-W38",
@@ -105684,6 +106515,14 @@
         "Skretting": 0
       },
       {
+        "week": "2016-W51",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2016-W52",
         "Aller Aqua": 0,
         "BioMar": 2,
@@ -105737,12 +106576,12 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2017-W12",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -106017,7 +106856,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2018-W03",
@@ -106025,7 +106864,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2018-W04",
@@ -106158,7 +106997,7 @@
       {
         "week": "2018-W24",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -106361,7 +107200,7 @@
         "BioMar": 0,
         "Cargill": 4,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2019-W08",
@@ -106441,7 +107280,15 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
+      },
+      {
+        "week": "2019-W20",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2019-W22",
@@ -106481,7 +107328,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2019-W31",
@@ -106697,7 +107544,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2020-W17",
@@ -106841,7 +107688,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2020-W42",
@@ -107953,7 +108800,7 @@
         "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2023-W41",
@@ -109129,15 +109976,15 @@
         "BioMar": 17,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 9
+        "Skretting": 10
       },
       {
         "week": "2026-W35",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       }
     ],
     "totals": [
@@ -109147,7 +109994,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1609
+        "count": 1614
       },
       {
         "company": "Cargill",
@@ -109159,7 +110006,7 @@
       },
       {
         "company": "Skretting",
-        "count": 958
+        "count": 975
       }
     ]
   }
