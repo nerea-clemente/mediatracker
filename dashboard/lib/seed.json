@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T09:57:10+00:00",
+  "generated_at": "2026-08-25T16:39:49+00:00",
   "stats": {
-    "mention_count": 3035,
-    "story_count": 2254,
+    "mention_count": 3038,
+    "story_count": 2256,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -361,6 +361,34 @@
     "weareaquaculture.com"
   ],
   "stories": [
+    {
+      "id": 2278,
+      "headline": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - Yahoo Finance",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGJrbzI2N2RyNThuaFp1NlUxNmttLUlaYkJvZW96NTlZcFBnVjNWc2VmWk9NRjByNG04aERYUHFVZm5tdkd5aW5BY0ZBU0V6cjI0Y3FxOHZfcURZYldyN2dlS3dmUXo4RWVfdXdZUXV3TWtOeG9ybDF6NElZS1pZY0dQSlI0R0pna2xVemZ5aXJBSXVlOEhuZlVPQXhiT00xRkZNbWRkWkF1azRzckE?oc=5\" target=\"_blank\">Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "first_seen": "2026-08-25T10:09:00+00:00",
+      "last_seen": "2026-08-25T10:09:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2277,
+      "headline": "BioMar Norway strengthens aquaculture feed supply with new hybrid vessel - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXpNaURBcGdPSHktYm95NVlXRmtGMVJ0bk5oclJoMHQ1V2ExUFFHbW05WjRyYmdBZk1SdEtKX3B6ZzNYVjE4TnN2cmlKZnY5Rl95VjBSUl9PeVVqa0RacG1SaXVCdDc5NFRtNkhQMmVhMWNQTW4xRHhTRDhqRG93UU1JN3czd0cyUTNQbWZWOEFWUWFpQlptVmlydWRSZFVqck5uSnlqQmNhVjNmeDNJQ9IBvgFBVV95cUxNUHlQdHl0V2FJRF9XeG1BMFlub2xld1dLQWxrOTVvYVdfWlIyR0tOeVlObUtjdEhDbmE0SmFYVXdwZ2xlaEMwWUxsbEhWUmlRdjlROFJQWWkxRnFiZ1NBTXdPdWFXT0hQQ2gxanlablVCZEN5R2tTWnNrUkc0aU1WbWxSQkJYd1IwZWh2QlByTTBIUEw5WHpNa2p2dzB5ZFlTWkJUTEV3WW9zc2lGQnl2X2o2RjVvckdHVS1nazRR?oc=5\" target=\"_blank\">BioMar Norway strengthens aquaculture feed supply with new hybrid vessel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2026-08-25T07:10:00+00:00",
+      "last_seen": "2026-08-25T07:10:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2275,
       "headline": "3 European Stocks Estimated To Be Up To 49.2% Below Intrinsic Value - simplywall.st",
@@ -22149,7 +22177,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -105557,6 +105585,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPaGRmZUtRc2p1TG9MTkJVUWlEOTAyYl9jQ1NPb0w4d1ZZUE84QmVPQk1zTTZmaElVaUpvNFFJQVJYdmFMbkRseG1fX181dUtrQ0NsZXpJV1d3NVd1UzByYlVSS2JUWVh3Zk5IQlU4NkJjTEREM1BSX2VHcDJVU0oxVWdURzk0WEVNbXFubWp0X09MVkNKSUI1eEtpVWRBakE1cTVzV3VwMDMzaWpiODJ3QlVzTjRGTlNCcVRrRnJ1UWRlNllvb0pjdkxINDM1LTc5RWVVckM4ZENqM2JaVUhFVEtkN2l1bzI4dlpNN0QxZmhrT2M2YmpkQUduMlFBRTNiSG1Va0EyOA?oc=5\" target=\"_blank\">SCHO: Strong Q2 earnings and margin gains led to upgraded 2026 guidance and key portfolio moves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 474424,
+      "story_id": 2277,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXpNaURBcGdPSHktYm95NVlXRmtGMVJ0bk5oclJoMHQ1V2ExUFFHbW05WjRyYmdBZk1SdEtKX3B6ZzNYVjE4TnN2cmlKZnY5Rl95VjBSUl9PeVVqa0RacG1SaXVCdDc5NFRtNkhQMmVhMWNQTW4xRHhTRDhqRG93UU1JN3czd0cyUTNQbWZWOEFWUWFpQlptVmlydWRSZFVqck5uSnlqQmNhVjNmeDNJQ9IBvgFBVV95cUxNUHlQdHl0V2FJRF9XeG1BMFlub2xld1dLQWxrOTVvYVdfWlIyR0tOeVlObUtjdEhDbmE0SmFYVXdwZ2xlaEMwWUxsbEhWUmlRdjlROFJQWWkxRnFiZ1NBTXdPdWFXT0hQQ2gxanlablVCZEN5R2tTWnNrUkc0aU1WbWxSQkJYd1IwZWh2QlByTTBIUEw5WHpNa2p2dzB5ZFlTWkJUTEV3WW9zc2lGQnl2X2o2RjVvckdHVS1nazRR?oc=5",
+      "title": "BioMar Norway strengthens aquaculture feed supply with new hybrid vessel - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-08-25T07:10:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXpNaURBcGdPSHktYm95NVlXRmtGMVJ0bk5oclJoMHQ1V2ExUFFHbW05WjRyYmdBZk1SdEtKX3B6ZzNYVjE4TnN2cmlKZnY5Rl95VjBSUl9PeVVqa0RacG1SaXVCdDc5NFRtNkhQMmVhMWNQTW4xRHhTRDhqRG93UU1JN3czd0cyUTNQbWZWOEFWUWFpQlptVmlydWRSZFVqck5uSnlqQmNhVjNmeDNJQ9IBvgFBVV95cUxNUHlQdHl0V2FJRF9XeG1BMFlub2xld1dLQWxrOTVvYVdfWlIyR0tOeVlObUtjdEhDbmE0SmFYVXdwZ2xlaEMwWUxsbEhWUmlRdjlROFJQWWkxRnFiZ1NBTXdPdWFXT0hQQ2gxanlablVCZEN5R2tTWnNrUkc0aU1WbWxSQkJYd1IwZWh2QlByTTBIUEw5WHpNa2p2dzB5ZFlTWkJUTEV3WW9zc2lGQnl2X2o2RjVvckdHVS1nazRR?oc=5\" target=\"_blank\">BioMar Norway strengthens aquaculture feed supply with new hybrid vessel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 474824,
+      "story_id": 2278,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGJrbzI2N2RyNThuaFp1NlUxNmttLUlaYkJvZW96NTlZcFBnVjNWc2VmWk9NRjByNG04aERYUHFVZm5tdkd5aW5BY0ZBU0V6cjI0Y3FxOHZfcURZYldyN2dlS3dmUXo4RWVfdXdZUXV3TWtOeG9ybDF6NElZS1pZY0dQSlI0R0pna2xVemZ5aXJBSXVlOEhuZlVPQXhiT00xRkZNbWRkWkF1azRzckE?oc=5",
+      "title": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-08-25T10:09:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGJrbzI2N2RyNThuaFp1NlUxNmttLUlaYkJvZW96NTlZcFBnVjNWc2VmWk9NRjByNG04aERYUHFVZm5tdkd5aW5BY0ZBU0V6cjI0Y3FxOHZfcURZYldyN2dlS3dmUXo4RWVfdXdZUXV3TWtOeG9ybDF6NElZS1pZY0dQSlI0R0pna2xVemZ5aXJBSXVlOEhuZlVPQXhiT00xRkZNbWRkWkF1azRzckE?oc=5\" target=\"_blank\">Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+    },
+    {
+      "id": 475141,
+      "story_id": 507,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzhTbXhoXzQ0aWVnNGlhdjRVZTI2aFVDNXBXOWpTakYwZDJJN0JTRVJ3QS0zX2JvYURweE1SRlBFSmxXRnl4Unl0Zm0tNWRrRTUwT1JXRlhnM2Z3eXp6OE5rUUFUZW52ano1U1RCQmNJb1NwUTJTcmY4ZFVrUWlxTGNpZ1VSQXlVWGZWYmNWdW5OQ0ZpLTJtN2ZOSkNDNWJV?oc=5",
+      "title": "Ny forretningsutvikler for marine arter i Skretting - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-01-14T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzhTbXhoXzQ0aWVnNGlhdjRVZTI2aFVDNXBXOWpTakYwZDJJN0JTRVJ3QS0zX2JvYURweE1SRlBFSmxXRnl4Unl0Zm0tNWRrRTUwT1JXRlhnM2Z3eXp6OE5rUUFUZW52ano1U1RCQmNJb1NwUTJTcmY4ZFVrUWlxTGNpZ1VSQXlVWGZWYmNWdW5OQ0ZpLTJtN2ZOSkNDNWJV?oc=5\" target=\"_blank\">Ny forretningsutvikler for marine arter i Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>"
     }
   ],
   "share_of_voice": {
@@ -108238,7 +108338,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2022-W03",
@@ -110067,7 +110167,7 @@
       {
         "week": "2026-W35",
         "Aller Aqua": 0,
-        "BioMar": 6,
+        "BioMar": 8,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -110080,7 +110180,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1617
+        "count": 1619
       },
       {
         "company": "Cargill",
@@ -110092,7 +110192,7 @@
       },
       {
         "company": "Skretting",
-        "count": 975
+        "count": 976
       }
     ]
   }
