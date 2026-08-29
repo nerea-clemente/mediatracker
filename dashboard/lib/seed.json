@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T11:45:01+00:00",
+  "generated_at": "2026-08-29T14:35:18+00:00",
   "stats": {
-    "mention_count": 3083,
-    "story_count": 2284,
+    "mention_count": 3084,
+    "story_count": 2285,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -29544,6 +29544,20 @@
       "id": 1404,
       "headline": "BioMar-selskap kjøper kinesisk fôrselskap - Kyst.no",
       "story_summary": "A BioMar subsidiary has purchased a Chinese aquaculture feed company as part of its expansion strategy. The acquisition represents the company's continued growth in the Asian feed market segment.",
+      "first_seen": "2016-11-25T08:00:00+00:00",
+      "last_seen": "2016-11-25T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2307,
+      "headline": "Biomar adquiere compañía en China - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRG94NzFsTVU0NHhFUVllVWJiRGlNNDJNSUxqZ0tHbG9RakJzaEVIekR2Y0hCSXhiSjFJb0VSZXdPN2F6QVhJUzV1WGVLXzNSLW5ZR0RMSFdjVFVqNnQ5aEFKTU9oREdkQl8telVfZHhPMWpUZUNXd01OeWlESmIxZVdHd2ZTTVYwd3U4QzVsb1l0RWRkYWFZNg?oc=5\" target=\"_blank\">Biomar adquiere compañía en China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2016-11-25T08:00:00+00:00",
       "last_seen": "2016-11-25T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -107134,6 +107148,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUxDNzY0WFBzbXRka3JSZVB4OEN3LTVBYjBEbm9tWlE4NXBwTjQtUFMxT2loS1JfRkgxTEp5c0o1Z3RQQ2UtcWRDclJHb0dFY1dTSktNU3Nvd0t2TVZzdE14NDdMNXdGZUYzbDVNa05USGNubDJnS25tVi0zdlZfLTR6N3NlczNEZ0Z1U1FMYl95THl0NnFQcF9QZzhUYXNid0tkRk9YcVBFemQ1VGtNcXB3cw?oc=5\" target=\"_blank\">Biomar skal bygge fôrfabrikk i Australia for 300 millioner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 488156,
+      "story_id": 2307,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRG94NzFsTVU0NHhFUVllVWJiRGlNNDJNSUxqZ0tHbG9RakJzaEVIekR2Y0hCSXhiSjFJb0VSZXdPN2F6QVhJUzV1WGVLXzNSLW5ZR0RMSFdjVFVqNnQ5aEFKTU9oREdkQl8telVfZHhPMWpUZUNXd01OeWlESmIxZVdHd2ZTTVYwd3U4QzVsb1l0RWRkYWFZNg?oc=5",
+      "title": "Biomar adquiere compañía en China - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2016-11-25T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRG94NzFsTVU0NHhFUVllVWJiRGlNNDJNSUxqZ0tHbG9RakJzaEVIekR2Y0hCSXhiSjFJb0VSZXdPN2F6QVhJUzV1WGVLXzNSLW5ZR0RMSFdjVFVqNnQ5aEFKTU9oREdkQl8telVfZHhPMWpUZUNXd01OeWlESmIxZVdHd2ZTTVYwd3U4QzVsb1l0RWRkYWFZNg?oc=5\" target=\"_blank\">Biomar adquiere compañía en China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -108172,7 +108210,7 @@
       {
         "week": "2016-W47",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -111697,7 +111735,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1648
+        "count": 1649
       },
       {
         "company": "Cargill",
