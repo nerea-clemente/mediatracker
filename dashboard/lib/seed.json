@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T03:28:00+00:00",
+  "generated_at": "2026-08-29T11:45:01+00:00",
   "stats": {
-    "mention_count": 3082,
+    "mention_count": 3083,
     "story_count": 2284,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -29242,7 +29242,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -107110,6 +107110,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXVDTHkwQWlmT3dOLTl1QVR6NjBiclh1ZTFKX2hndjVLdlBVU1Z4eEdkbkY2M2xsNGQ4ZDk2QUlaaE9aelZ3OGtVX09tLTRSWG5BYzVZQWh3M3lNZUs0am05WC1jSUVJWDB2VGJIZUF4Vy05Q3JoRFh2RzVESFNyRURpempkUXhweVpmTkxyd2NkY0tUTzcwRXNZS2FqV05TZzMxaXNTWXY?oc=5\" target=\"_blank\">Cargill har økt sine markedsandeler i 2018</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 486894,
+      "story_id": 2261,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUxDNzY0WFBzbXRka3JSZVB4OEN3LTVBYjBEbm9tWlE4NXBwTjQtUFMxT2loS1JfRkgxTEp5c0o1Z3RQQ2UtcWRDclJHb0dFY1dTSktNU3Nvd0t2TVZzdE14NDdMNXdGZUYzbDVNa05USGNubDJnS25tVi0zdlZfLTR6N3NlczNEZ0Z1U1FMYl95THl0NnFQcF9QZzhUYXNid0tkRk9YcVBFemQ1VGtNcXB3cw?oc=5",
+      "title": "Biomar skal bygge fôrfabrikk i Australia for 300 millioner - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-03-23T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPOUxDNzY0WFBzbXRka3JSZVB4OEN3LTVBYjBEbm9tWlE4NXBwTjQtUFMxT2loS1JfRkgxTEp5c0o1Z3RQQ2UtcWRDclJHb0dFY1dTSktNU3Nvd0t2TVZzdE14NDdMNXdGZUYzbDVNa05USGNubDJnS25tVi0zdlZfLTR6N3NlczNEZ0Z1U1FMYl95THl0NnFQcF9QZzhUYXNid0tkRk9YcVBFemQ1VGtNcXB3cw?oc=5\" target=\"_blank\">Biomar skal bygge fôrfabrikk i Australia for 300 millioner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
     }
   ],
   "share_of_voice": {
@@ -108236,7 +108260,7 @@
       {
         "week": "2017-W12",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -111673,7 +111697,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1647
+        "count": 1648
       },
       {
         "company": "Cargill",
