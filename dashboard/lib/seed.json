@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T14:35:18+00:00",
+  "generated_at": "2026-08-29T19:16:08+00:00",
   "stats": {
-    "mention_count": 3084,
-    "story_count": 2285,
+    "mention_count": 3085,
+    "story_count": 2286,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -26074,6 +26074,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMUh4enAweWl4eGpBQzhBLWFPUGg4dmRMZnNrTnFFY0JqYWJoRHladThab1Npci1LZW5yc2MtemdUTnhTTFFObFpfQkdIdTBLdE12NjQ5em54Mko5RW1GTUktd0VqRVYwZjBIajlKdy1CNTVlTktOSGFOTUwweUxpYTFKczV2YzF6YzBJei1FYW9iekRRMmp0NFJMWUJpTUM1eUowR3oxQnFLMUVBOFAxSEtfeFc0dE5WZDRJUjVQbjRVUjhaaGd3a0huSUk?oc=5\" target=\"_blank\">Con éxito culmina curso de recirculación aplicada organizado por BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2019-09-16T07:00:00+00:00",
       "last_seen": "2019-09-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2308,
+      "headline": "IctioBiotic revela detalles de su acuerdo de colaboración con BioMar - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRWJGTkxEeU5fb0FsbUV1V1RBeWFseFRfRjhreXBvNFpUMnNvYmJYT1BwR2FDN19jcFFfRm5pYWNWdFBVM3A0azB0OUV5eHd6VFJ2eTltVGMzdFh1djBZMWluYkcxZGZxdVktamFMdjV4OWQtMnRzQ0dzVUNyRUw1SXJiV1JxRWsxOGYyUkVaTExWOU9fY0F1c1ROTVlkSllxdUFTNVRsRjV6VzEyR0RSZW9FWGJkaWotZVdnTFBKZTFHekFfb1p4Qmc5QVM3UHh4SG9ocQ?oc=5\" target=\"_blank\">IctioBiotic revela detalles de su acuerdo de colaboración con BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2019-08-27T07:00:00+00:00",
+      "last_seen": "2019-08-27T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -107172,6 +107186,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRG94NzFsTVU0NHhFUVllVWJiRGlNNDJNSUxqZ0tHbG9RakJzaEVIekR2Y0hCSXhiSjFJb0VSZXdPN2F6QVhJUzV1WGVLXzNSLW5ZR0RMSFdjVFVqNnQ5aEFKTU9oREdkQl8telVfZHhPMWpUZUNXd01OeWlESmIxZVdHd2ZTTVYwd3U4QzVsb1l0RWRkYWFZNg?oc=5\" target=\"_blank\">Biomar adquiere compañía en China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 489201,
+      "story_id": 2308,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRWJGTkxEeU5fb0FsbUV1V1RBeWFseFRfRjhreXBvNFpUMnNvYmJYT1BwR2FDN19jcFFfRm5pYWNWdFBVM3A0azB0OUV5eHd6VFJ2eTltVGMzdFh1djBZMWluYkcxZGZxdVktamFMdjV4OWQtMnRzQ0dzVUNyRUw1SXJiV1JxRWsxOGYyUkVaTExWOU9fY0F1c1ROTVlkSllxdUFTNVRsRjV6VzEyR0RSZW9FWGJkaWotZVdnTFBKZTFHekFfb1p4Qmc5QVM3UHh4SG9ocQ?oc=5",
+      "title": "IctioBiotic revela detalles de su acuerdo de colaboración con BioMar - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-08-27T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRWJGTkxEeU5fb0FsbUV1V1RBeWFseFRfRjhreXBvNFpUMnNvYmJYT1BwR2FDN19jcFFfRm5pYWNWdFBVM3A0azB0OUV5eHd6VFJ2eTltVGMzdFh1djBZMWluYkcxZGZxdVktamFMdjV4OWQtMnRzQ0dzVUNyRUw1SXJiV1JxRWsxOGYyUkVaTExWOU9fY0F1c1ROTVlkSllxdUFTNVRsRjV6VzEyR0RSZW9FWGJkaWotZVdnTFBKZTFHekFfb1p4Qmc5QVM3UHh4SG9ocQ?oc=5\" target=\"_blank\">IctioBiotic revela detalles de su acuerdo de colaboración con BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -109086,6 +109124,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
+      },
+      {
+        "week": "2019-W35",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2019-W38",
@@ -111735,7 +111781,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1649
+        "count": 1650
       },
       {
         "company": "Cargill",
