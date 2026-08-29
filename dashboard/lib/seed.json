@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T19:16:08+00:00",
+  "generated_at": "2026-08-29T23:51:12+00:00",
   "stats": {
-    "mention_count": 3085,
-    "story_count": 2286,
+    "mention_count": 3086,
+    "story_count": 2287,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -23704,6 +23704,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM01HNS1TNUc5SUFhcEphaS1PbE00N3RhUGtCSFY2R0k4WlhZUVJfZG1oQmtmeUlxTUlZd2VHMTNyWEEyNzBNX3VIdm9OLVNOQUlnWGFud296NlNua19EamRzSTZDYmNndF9PYXZwRXI1QVUycEszLXVXX1pNelFCM2RGcG9jc0dJWWZPLVlCNThWeEZrZ1ZidElOaEdGcnA3LUtudm8wbVQ5Rk1OSG1xcWlKQW1sWTNqWDRxYmRqTk1hbU5iQndSNlIwSW02LU5SQWZ1YXRwcGtEeXh4eERnLXhXdE9ENHdNNTNYamdnVWJJa01rcXVn?oc=5\" target=\"_blank\">Mauricio Schulz, subgerente de Agua Dulce de Marine Farm: “Con Skretting tenemos un partner estratégico”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
       "first_seen": "2021-04-08T07:00:00+00:00",
       "last_seen": "2021-04-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2309,
+      "headline": "Marine Farm comparte experiencia con dietas de especialidad de Skretting - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEdZNk0tZU5ISzBWcDZWZ0VfZHczaEF4ZS1McWhoUFhJdjd0bG9LTWJBRU9SSWpFTmFoZjhfR2treldfMm1wWk0wWU1zT3RqalBUWmtSalZNN0o4SW5rc2pUbVVWTFpZNUNBRlA5WjBCUS1EcWNEb2hlYWZCbF93UWV1bV9wYXRCTFZzMnp0VUVLN0NVRG1BMW9fLXJFbEFabU8xRDBwU0x5NThkZzd2SzZiMEJXbmg4S2xEZFdCb3lMMWQzb2FuYnJOdk9wWVdKa1A1bA?oc=5\" target=\"_blank\">Marine Farm comparte experiencia con dietas de especialidad de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2021-04-07T07:00:00+00:00",
+      "last_seen": "2021-04-07T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -107210,6 +107224,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRWJGTkxEeU5fb0FsbUV1V1RBeWFseFRfRjhreXBvNFpUMnNvYmJYT1BwR2FDN19jcFFfRm5pYWNWdFBVM3A0azB0OUV5eHd6VFJ2eTltVGMzdFh1djBZMWluYkcxZGZxdVktamFMdjV4OWQtMnRzQ0dzVUNyRUw1SXJiV1JxRWsxOGYyUkVaTExWOU9fY0F1c1ROTVlkSllxdUFTNVRsRjV6VzEyR0RSZW9FWGJkaWotZVdnTFBKZTFHekFfb1p4Qmc5QVM3UHh4SG9ocQ?oc=5\" target=\"_blank\">IctioBiotic revela detalles de su acuerdo de colaboración con BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 490752,
+      "story_id": 2309,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEdZNk0tZU5ISzBWcDZWZ0VfZHczaEF4ZS1McWhoUFhJdjd0bG9LTWJBRU9SSWpFTmFoZjhfR2treldfMm1wWk0wWU1zT3RqalBUWmtSalZNN0o4SW5rc2pUbVVWTFpZNUNBRlA5WjBCUS1EcWNEb2hlYWZCbF93UWV1bV9wYXRCTFZzMnp0VUVLN0NVRG1BMW9fLXJFbEFabU8xRDBwU0x5NThkZzd2SzZiMEJXbmg4S2xEZFdCb3lMMWQzb2FuYnJOdk9wWVdKa1A1bA?oc=5",
+      "title": "Marine Farm comparte experiencia con dietas de especialidad de Skretting - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-04-07T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEdZNk0tZU5ISzBWcDZWZ0VfZHczaEF4ZS1McWhoUFhJdjd0bG9LTWJBRU9SSWpFTmFoZjhfR2treldfMm1wWk0wWU1zT3RqalBUWmtSalZNN0o4SW5rc2pUbVVWTFpZNUNBRlA5WjBCUS1EcWNEb2hlYWZCbF93UWV1bV9wYXRCTFZzMnp0VUVLN0NVRG1BMW9fLXJFbEFabU8xRDBwU0x5NThkZzd2SzZiMEJXbmg4S2xEZFdCb3lMMWQzb2FuYnJOdk9wWVdKa1A1bA?oc=5\" target=\"_blank\">Marine Farm comparte experiencia con dietas de especialidad de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -109651,7 +109689,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2021-W15",
@@ -111793,7 +111831,7 @@
       },
       {
         "company": "Skretting",
-        "count": 989
+        "count": 990
       }
     ]
   }
