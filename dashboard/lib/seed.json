@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T23:51:12+00:00",
+  "generated_at": "2026-08-30T10:36:08+00:00",
   "stats": {
-    "mention_count": 3086,
+    "mention_count": 3087,
     "story_count": 2287,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -363,7 +363,8 @@
     "tronderbladet.no",
     "vol.no",
     "washburn-mcreavy.com",
-    "weareaquaculture.com"
+    "weareaquaculture.com",
+    "webull.com"
   ],
   "stories": [
     {
@@ -886,15 +887,15 @@
     },
     {
       "id": 2165,
-      "headline": "BioMar Group (CPSE:BIOMAR) Stock Climbs As Record Volumes Meet Softer EPS - simplywall.st",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVVh3MHAtd291aXpVQlBiNk1ZQjRsdnVHVzVlRGJyenZaY0xLVi0zdTdXRkIxV2hfMTk1aUd6cW1QaXFFYWIwTmFtekE3cDQ3ek4yVHdvUHV6ODhXZDlsaExQNENoV2N4bWw1NUJOamhqQnpjSG12YVlWUFZXVGpaOENGNWczT2Y1bUpDYnV0YUV5Uzc2NloxWU9OWmpsYkMxcklNMmxRbmhmX2R0TEVPWHJSYXZYVEhnUXcwaWRlYjc5X1JVMDE0dmRpbzB4T01vdElIRmNrc3M4MjNZWjFSZjRra9IB6AFBVV95cUxNSVVtOWMzSGJhYWZvbFF6ZEMtbnpUNVRLMnNOWU01TExaY282VVM1OFI1bXhwM0s5Mm81aGhzblpNRkE3SzlFcVc2YkJJQ2Q5Rnlyc2JEQ3g3eVU5WUtRZnphd2Y3cmxJNWdCeHZibXA3U2tVQi11blh5NVlSWnFtUTE4MXowVUxRLThQQ3RKTFVxeTIwVVBaeTBPQ18wd1NPSnFScDhUMTlrT1F6S3ctVjIyejNNNGlFcVktcWpfRC1DZlpfbWFIY0lWM3g2TkEtU1c2bFBDVGl4UUtaUTNZTkZlcmZhYjFp?oc=5\" target=\"_blank\">BioMar Group (CPSE:BIOMAR) Stock Climbs As Record Volumes Meet Softer EPS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-      "first_seen": "2026-08-14T17:39:21+00:00",
+      "headline": "BioMar Group (CPSE:BIOMAR) Stock Climbs As Record Volumes Meet Softer EPS - webull.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRY1FWQjZDRVhxV3BfZDZQS3FzQUIwWTF3LWFRRnlmN2Vkd1FNd3dpcms5aGl1a0xMd1dEbHA2bU1YdnVLbTE2NTFTU0hVbm52cnJIcHNRMjY?oc=5\" target=\"_blank\">BioMar Group (CPSE:BIOMAR) Stock Climbs As Record Volumes Meet Softer EPS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">webull.com</font>",
+      "first_seen": "2026-08-14T07:00:00+00:00",
       "last_seen": "2026-08-14T17:39:23+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -107248,6 +107249,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEdZNk0tZU5ISzBWcDZWZ0VfZHczaEF4ZS1McWhoUFhJdjd0bG9LTWJBRU9SSWpFTmFoZjhfR2treldfMm1wWk0wWU1zT3RqalBUWmtSalZNN0o4SW5rc2pUbVVWTFpZNUNBRlA5WjBCUS1EcWNEb2hlYWZCbF93UWV1bV9wYXRCTFZzMnp0VUVLN0NVRG1BMW9fLXJFbEFabU8xRDBwU0x5NThkZzd2SzZiMEJXbmg4S2xEZFdCb3lMMWQzb2FuYnJOdk9wWVdKa1A1bA?oc=5\" target=\"_blank\">Marine Farm comparte experiencia con dietas de especialidad de Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 490908,
+      "story_id": 2165,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRY1FWQjZDRVhxV3BfZDZQS3FzQUIwWTF3LWFRRnlmN2Vkd1FNd3dpcms5aGl1a0xMd1dEbHA2bU1YdnVLbTE2NTFTU0hVbm52cnJIcHNRMjY?oc=5",
+      "title": "BioMar Group (CPSE:BIOMAR) Stock Climbs As Record Volumes Meet Softer EPS - webull.com",
+      "source_name": "webull.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRY1FWQjZDRVhxV3BfZDZQS3FzQUIwWTF3LWFRRnlmN2Vkd1FNd3dpcms5aGl1a0xMd1dEbHA2bU1YdnVLbTE2NTFTU0hVbm52cnJIcHNRMjY?oc=5\" target=\"_blank\">BioMar Group (CPSE:BIOMAR) Stock Climbs As Record Volumes Meet Softer EPS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">webull.com</font>"
     }
   ],
   "share_of_voice": {
@@ -111790,7 +111815,7 @@
       {
         "week": "2026-W33",
         "Aller Aqua": 0,
-        "BioMar": 78,
+        "BioMar": 79,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -111819,7 +111844,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1650
+        "count": 1651
       },
       {
         "company": "Cargill",
