@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31T11:44:57+00:00",
+  "generated_at": "2026-08-31T17:08:11+00:00",
   "stats": {
-    "mention_count": 3090,
-    "story_count": 2289,
+    "mention_count": 3091,
+    "story_count": 2290,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -367,6 +367,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2312,
+      "headline": "Schouw & Co. share buy-back programme, week 35 2026 - Yahoo Finance",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1pYNTJwNVExZVFZMHh0WF9hQVhSclZmX0FRMTJLY0o1eWZ4dWp2NGJSVTFLLV9fOE9GMnFRTzRnQ0JLNXBWazRIaFE5Z1ZyNlVkMml1QWc5ZGRQeW9RZV9GVWVxN21pMEkzMm4xWnd2alFkRGIwOExObm1zN0JvSS1MMjBuV0tKTUFicDRKT2daTFU?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 35 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "first_seen": "2026-08-31T11:30:00+00:00",
+      "last_seen": "2026-08-31T11:30:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2294,
       "headline": "Samarbeid om ny fôrbåt: – På mange måter føler vi at ringen er sluttet - hitra-froya.no",
@@ -107373,6 +107387,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDBYeXRJUFRPM1EwdHBaM3k3eXUtemZ2alRyeFBrQkJVOFEzb3l1eTFOX1dJaXJDeTdUU0JLNzc0ZU1VMFhqSkg1MG9kVTEyWkduQm9EdUlBMkpkZjVSYUpHM3VIM1J3OWZsSGNSMmpneTdKc2tZc2NHa25Eb0l5RHBkR04wcUVOYjczV01NMk9XTEdsVEtB?oc=5\" target=\"_blank\">Spectre sells majority stake to Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bech-Bruun</font>"
+    },
+    {
+      "id": 496524,
+      "story_id": 2312,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1pYNTJwNVExZVFZMHh0WF9hQVhSclZmX0FRMTJLY0o1eWZ4dWp2NGJSVTFLLV9fOE9GMnFRTzRnQ0JLNXBWazRIaFE5Z1ZyNlVkMml1QWc5ZGRQeW9RZV9GVWVxN21pMEkzMm4xWnd2alFkRGIwOExObm1zN0JvSS1MMjBuV0tKTUFicDRKT2daTFU?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 35 2026 - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-08-31T11:30:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1pYNTJwNVExZVFZMHh0WF9hQVhSclZmX0FRMTJLY0o1eWZ4dWp2NGJSVTFLLV9fOE9GMnFRTzRnQ0JLNXBWazRIaFE5Z1ZyNlVkMml1QWc5ZGRQeW9RZV9GVWVxN21pMEkzMm4xWnd2alFkRGIwOExObm1zN0JvSS1MMjBuV0tKTUFicDRKT2daTFU?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 35 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
     }
   ],
   "share_of_voice": {
@@ -111935,6 +111973,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
+      },
+      {
+        "week": "2026-W36",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
@@ -111944,7 +111990,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1653
+        "count": 1654
       },
       {
         "company": "Cargill",
