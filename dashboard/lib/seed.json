@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T10:20:12+00:00",
+  "generated_at": "2026-09-01T14:12:51+00:00",
   "stats": {
-    "mention_count": 3095,
-    "story_count": 2292,
+    "mention_count": 3097,
+    "story_count": 2294,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -367,6 +367,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2316,
+      "headline": "Schouw & Co. closes the acquisition of Spectre and adjust revenue guidance accordingly - The Manila Times",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLTlIMG91anFPRm41SlJGRWNDR2tPQTE3bEtBZlRGLXZxQkJXSExUUXpxQ0ZqUmF2b3FMS2lpRElicXZmUnRGMUstVXdqeG45ZEZ0VHc3VHc5My16Ul9sWDZjQ3Q3SDZfRy1XZ19wdTk5dktIUGVwQ3owYmI3VFNxWnpRRWl1WXphclZxNkpIRlB5RFFLWXRVNFozWDg1MlFfN2pZRC1jRUZ5M2hFUEpMSmw4ZGh4VTU1a2hua1NpM2tYN0x0U0M0TGJFUUh6Y19sOWpuN01yYUFlaVJRS21vSkNkd182WDZlQkxUUm130gHzAUFVX3lxTE5KSnhGdUxON25DUV9KYWZWRF9nd3dmVGVGclRkeUZIRFVVTDdzcTFYeUZ3UlV6RkRrWUxuYXUzc1FlenJvNWRvVFFpazZJdFh1NnBNWWhfQXNBUENobXkxd2pCT1FQZXN2UDVadWQwamtTaHNHU0g5aHNucm84aVA2Z2RIWUdVY21CTVJ6RHNaQzhtOUhJejFEc1lOUkdEQ05hS2dJaDJiUHlQd2JRbXlMWnc1T0lXdGhvRVN6VWxteVJrdFJLZ0RVLVYxUFh2UUZBbjZHUzBmaEdUbHdZT290bXNhMEZMSHhWbkdkbExaTHRqWQ?oc=5\" target=\"_blank\">Schouw & Co. closes the acquisition of Spectre and adjust revenue guidance accordingly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+      "first_seen": "2026-09-01T10:19:45+00:00",
+      "last_seen": "2026-09-01T10:19:45+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2312,
       "headline": "Schouw & Co. share buy-back programme, week 35 2026 - Yahoo Finance",
@@ -20190,6 +20204,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmFTdVdac1ZCU2JmZUVIVDl3TEl3Tk5rV1RQcTJDamRzaFA0OGlZanhpcU1WOUJJRWQxeGpnUTJGUzJiMWdvODFGZm9MNzA2WVZzZUZfSm81SGdNY0pmeE1mbnd3cWh4Zlc3SkVuTlFjaXJva0RQLUlpZDlJZl85ZHJMYmFLekNfNVNuVw?oc=5\" target=\"_blank\">Dette sier landslagsspilleren om en overgang til AaFK Fortuna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aesby.no</font>",
       "first_seen": "2023-01-19T08:00:00+00:00",
       "last_seen": "2023-01-19T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2315,
+      "headline": "Skretting partners Klaas Puul to supply Europe with sustainable shrimp - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QX3ZMb1Fvdjc1Q19fX0JzZm9hTk8wb3hiVWhSY0M3TFU2WVVyUFBNOHRaT2Y2T19EM09Nc0t4LXBnZnhIYWZLR1ozeHNTLV960gFeQVVfeXFMUDhwc0hUOFJNNmZVdDVGcEMzSnowbGxTR2k2eXpiRV9IU2dHTUY3LVg1Z0VQYU04Z3RYVVZSanBiRW9vemsydFR4SEJRSGhCd1VRYmhaVVZGdkpkQVdqQQ?oc=5\" target=\"_blank\">Skretting partners Klaas Puul to supply Europe with sustainable shrimp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2023-01-18T08:00:00+00:00",
+      "last_seen": "2023-01-18T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -107535,6 +107563,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTg3NnUzakxxMHlqcG85V1dIaHkyaGVCTExiNWpudHFsZHItWWtuTkdQbW5MVlR6ZlZVQkEyRGU0WFltcXZNNTRmUHVJY0k0cmhWYTU3T0ZNZm5ZcGxEdUpmcExITDFjMDExWkZId3JNYnRPd2IzQXdvMXRVVlZhWUU2WHJRV3ZVMWJj?oc=5\" target=\"_blank\">Cargill lanserer ny teknologi for kvalitetsprøver av levende laks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 500639,
+      "story_id": 2316,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLTlIMG91anFPRm41SlJGRWNDR2tPQTE3bEtBZlRGLXZxQkJXSExUUXpxQ0ZqUmF2b3FMS2lpRElicXZmUnRGMUstVXdqeG45ZEZ0VHc3VHc5My16Ul9sWDZjQ3Q3SDZfRy1XZ19wdTk5dktIUGVwQ3owYmI3VFNxWnpRRWl1WXphclZxNkpIRlB5RFFLWXRVNFozWDg1MlFfN2pZRC1jRUZ5M2hFUEpMSmw4ZGh4VTU1a2hua1NpM2tYN0x0U0M0TGJFUUh6Y19sOWpuN01yYUFlaVJRS21vSkNkd182WDZlQkxUUm130gHzAUFVX3lxTE5KSnhGdUxON25DUV9KYWZWRF9nd3dmVGVGclRkeUZIRFVVTDdzcTFYeUZ3UlV6RkRrWUxuYXUzc1FlenJvNWRvVFFpazZJdFh1NnBNWWhfQXNBUENobXkxd2pCT1FQZXN2UDVadWQwamtTaHNHU0g5aHNucm84aVA2Z2RIWUdVY21CTVJ6RHNaQzhtOUhJejFEc1lOUkdEQ05hS2dJaDJiUHlQd2JRbXlMWnc1T0lXdGhvRVN6VWxteVJrdFJLZ0RVLVYxUFh2UUZBbjZHUzBmaEdUbHdZT290bXNhMEZMSHhWbkdkbExaTHRqWQ?oc=5",
+      "title": "Schouw & Co. closes the acquisition of Spectre and adjust revenue guidance accordingly - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-09-01T10:19:45+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLTlIMG91anFPRm41SlJGRWNDR2tPQTE3bEtBZlRGLXZxQkJXSExUUXpxQ0ZqUmF2b3FMS2lpRElicXZmUnRGMUstVXdqeG45ZEZ0VHc3VHc5My16Ul9sWDZjQ3Q3SDZfRy1XZ19wdTk5dktIUGVwQ3owYmI3VFNxWnpRRWl1WXphclZxNkpIRlB5RFFLWXRVNFozWDg1MlFfN2pZRC1jRUZ5M2hFUEpMSmw4ZGh4VTU1a2hua1NpM2tYN0x0U0M0TGJFUUh6Y19sOWpuN01yYUFlaVJRS21vSkNkd182WDZlQkxUUm130gHzAUFVX3lxTE5KSnhGdUxON25DUV9KYWZWRF9nd3dmVGVGclRkeUZIRFVVTDdzcTFYeUZ3UlV6RkRrWUxuYXUzc1FlenJvNWRvVFFpazZJdFh1NnBNWWhfQXNBUENobXkxd2pCT1FQZXN2UDVadWQwamtTaHNHU0g5aHNucm84aVA2Z2RIWUdVY21CTVJ6RHNaQzhtOUhJejFEc1lOUkdEQ05hS2dJaDJiUHlQd2JRbXlMWnc1T0lXdGhvRVN6VWxteVJrdFJLZ0RVLVYxUFh2UUZBbjZHUzBmaEdUbHdZT290bXNhMEZMSHhWbkdkbExaTHRqWQ?oc=5\" target=\"_blank\">Schouw & Co. closes the acquisition of Spectre and adjust revenue guidance accordingly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 500862,
+      "story_id": 2315,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QX3ZMb1Fvdjc1Q19fX0JzZm9hTk8wb3hiVWhSY0M3TFU2WVVyUFBNOHRaT2Y2T19EM09Nc0t4LXBnZnhIYWZLR1ozeHNTLV960gFeQVVfeXFMUDhwc0hUOFJNNmZVdDVGcEMzSnowbGxTR2k2eXpiRV9IU2dHTUY3LVg1Z0VQYU04Z3RYVVZSanBiRW9vemsydFR4SEJRSGhCd1VRYmhaVVZGdkpkQVdqQQ?oc=5",
+      "title": "Skretting partners Klaas Puul to supply Europe with sustainable shrimp - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2023-01-18T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QX3ZMb1Fvdjc1Q19fX0JzZm9hTk8wb3hiVWhSY0M3TFU2WVVyUFBNOHRaT2Y2T19EM09Nc0t4LXBnZnhIYWZLR1ozeHNTLV960gFeQVVfeXFMUDhwc0hUOFJNNmZVdDVGcEMzSnowbGxTR2k2eXpiRV9IU2dHTUY3LVg1Z0VQYU04Z3RYVVZSanBiRW9vemsydFR4SEJRSGhCd1VRYmhaVVZGdkpkQVdqQQ?oc=5\" target=\"_blank\">Skretting partners Klaas Puul to supply Europe with sustainable shrimp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
     }
   ],
   "share_of_voice": {
@@ -110648,7 +110724,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2023-W04",
@@ -112109,7 +112185,7 @@
       {
         "week": "2026-W36",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -112122,7 +112198,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1656
+        "count": 1657
       },
       {
         "company": "Cargill",
@@ -112134,7 +112210,7 @@
       },
       {
         "company": "Skretting",
-        "count": 990
+        "count": 991
       }
     ]
   }
