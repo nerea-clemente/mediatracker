@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T19:15:43+00:00",
+  "generated_at": "2026-09-01T23:44:56+00:00",
   "stats": {
-    "mention_count": 3099,
-    "story_count": 2295,
+    "mention_count": 3100,
+    "story_count": 2296,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -21116,6 +21116,20 @@
       "first_seen": "2022-08-16T07:00:00+00:00",
       "last_seen": "2022-08-16T07:00:00+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2318,
+      "headline": "BioMar inngår avtale om ny fôrfabrikk på Island - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDJLWDJndTJQeWdrNkhhUGNFVjd2T1E4ejVwenBvYzY1UTNmRjgwNE1ESEhnUGJGbzRVWnZDV2hqU1hqTnV0RjkxWndQdlJFQllVS09JUGtocThDdWFxT3cwRU4zN25PWUN4ZUVzNHdGVjQ0OV91UjAyQkNRRVBnT3FUek01MXZ1Vzd1eEdZV2l2QzFobFE?oc=5\" target=\"_blank\">BioMar inngår avtale om ny fôrfabrikk på Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2022-08-16T07:00:00+00:00",
+      "last_seen": "2022-08-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -107673,6 +107687,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8yc2hvNUdva2JFRVoxak9jVHJ2b3Zvc2V6bnptVFh1bEtmX2Y1djg5NDV0SFV3T21RUVpZRWc4Z2hma1Frbkk4LXNJVkJ2c2gxdVFGaWdpNWFObTJMSG80Z21Qblc2a2cxbmJYT0JFeXU0b1F2MHVBQUZB?oc=5\" target=\"_blank\">SCHO Forecast — Price Target — Prediction for 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 502821,
+      "story_id": 2318,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDJLWDJndTJQeWdrNkhhUGNFVjd2T1E4ejVwenBvYzY1UTNmRjgwNE1ESEhnUGJGbzRVWnZDV2hqU1hqTnV0RjkxWndQdlJFQllVS09JUGtocThDdWFxT3cwRU4zN25PWUN4ZUVzNHdGVjQ0OV91UjAyQkNRRVBnT3FUek01MXZ1Vzd1eEdZV2l2QzFobFE?oc=5",
+      "title": "BioMar inngår avtale om ny fôrfabrikk på Island - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-08-16T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDJLWDJndTJQeWdrNkhhUGNFVjd2T1E4ejVwenBvYzY1UTNmRjgwNE1ESEhnUGJGbzRVWnZDV2hqU1hqTnV0RjkxWndQdlJFQllVS09JUGtocThDdWFxT3cwRU4zN25PWUN4ZUVzNHdGVjQ0OV91UjAyQkNRRVBnT3FUek01MXZ1Vzd1eEdZV2l2QzFobFE?oc=5\" target=\"_blank\">BioMar inngår avtale om ny fôrfabrikk på Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
     }
   ],
   "share_of_voice": {
@@ -110631,7 +110669,7 @@
       {
         "week": "2022-W33",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -112260,7 +112298,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1659
+        "count": 1660
       },
       {
         "company": "Cargill",
