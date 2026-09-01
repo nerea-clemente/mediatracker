@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T14:12:51+00:00",
+  "generated_at": "2026-09-01T19:15:43+00:00",
   "stats": {
-    "mention_count": 3097,
-    "story_count": 2294,
+    "mention_count": 3099,
+    "story_count": 2295,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -391,7 +391,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -2445,6 +2445,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHZybFM4RWdOcXNEdGRacnlUN0FaakVhUldrd0JQTUJkT25mY0N3Y1lxeWRKUklQRUY0dG14ME5NbWxWVmd0MjFxampHMjI1SUZFZVR1RGV2RC1uV21DRldoLU10MkY2OXpoUDdZSHVBYTFwRGEzOEswd0hBLUE2YmxveUNEandpYTI0UzdLYk44SnVkRGhZNDdvV0g?oc=5\" target=\"_blank\">Basic earnings per share (basic EPS) de BioMar Group A/S – FWB:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "first_seen": "2026-06-26T02:46:09+00:00",
       "last_seen": "2026-06-26T02:46:09+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2317,
+      "headline": "SCHO Forecast — Price Target — Prediction for 2027 - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8yc2hvNUdva2JFRVoxak9jVHJ2b3Zvc2V6bnptVFh1bEtmX2Y1djg5NDV0SFV3T21RUVpZRWc4Z2hma1Frbkk4LXNJVkJ2c2gxdVFGaWdpNWFObTJMSG80Z21Qblc2a2cxbmJYT0JFeXU0b1F2MHVBQUZB?oc=5\" target=\"_blank\">SCHO Forecast — Price Target — Prediction for 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-06-25T15:30:03+00:00",
+      "last_seen": "2026-06-25T15:30:03+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -107611,6 +107625,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QX3ZMb1Fvdjc1Q19fX0JzZm9hTk8wb3hiVWhSY0M3TFU2WVVyUFBNOHRaT2Y2T19EM09Nc0t4LXBnZnhIYWZLR1ozeHNTLV960gFeQVVfeXFMUDhwc0hUOFJNNmZVdDVGcEMzSnowbGxTR2k2eXpiRV9IU2dHTUY3LVg1Z0VQYU04Z3RYVVZSanBiRW9vemsydFR4SEJRSGhCd1VRYmhaVVZGdkpkQVdqQQ?oc=5\" target=\"_blank\">Skretting partners Klaas Puul to supply Europe with sustainable shrimp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 501701,
+      "story_id": 2312,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjVSZk5vMlUwUE1RZDhoMmZsTzZiTS01LTdNM0dKeHZfWjluODNweFRTVWJhZjZZeVlPMVNaUHd1X3RTeGcwYVlNV0U3eWY3ckdrN3VZektwNDZ0S3RXSm1qUmRydFlQNnByajJlTUZrcnZPTTYyN2FqNWJYTXB3OEVoRVJSWVVsdWd0eGNKaXVJY3daenVwNmFmYkxxZFp2ZzlXVUtjZkJFN2lJUWZfRkFob241c1ctOEFITDdR0gHDAUFVX3lxTE02dWFEZktCcWRobnpoVmw3RXROX3lRZlhHX1lmeWE3UEZXZjV4bVc4bWxoQjY0MXM2ampINHVPRjRKQVJfMW85TVhrMVo5a0pTb01mVnhBOGVNblR6TUNEZVVDMkt2SlpxQ19KOU1GNmVGN0E5YUYwU0NtVGNnNDNadnJEbVNKQWJjOER5d2Jmck1UY0lIR3dnazdjRXAwWnRERGdMUE05MTdZaDFzSGtHQlc1amxuelpTSDk0M1kwMi1fUQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 35 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-08-31T11:39:58+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjVSZk5vMlUwUE1RZDhoMmZsTzZiTS01LTdNM0dKeHZfWjluODNweFRTVWJhZjZZeVlPMVNaUHd1X3RTeGcwYVlNV0U3eWY3ckdrN3VZektwNDZ0S3RXSm1qUmRydFlQNnByajJlTUZrcnZPTTYyN2FqNWJYTXB3OEVoRVJSWVVsdWd0eGNKaXVJY3daenVwNmFmYkxxZFp2ZzlXVUtjZkJFN2lJUWZfRkFob241c1ctOEFITDdR0gHDAUFVX3lxTE02dWFEZktCcWRobnpoVmw3RXROX3lRZlhHX1lmeWE3UEZXZjV4bVc4bWxoQjY0MXM2ampINHVPRjRKQVJfMW85TVhrMVo5a0pTb01mVnhBOGVNblR6TUNEZVVDMkt2SlpxQ19KOU1GNmVGN0E5YUYwU0NtVGNnNDNadnJEbVNKQWJjOER5d2Jmck1UY0lIR3dnazdjRXAwWnRERGdMUE05MTdZaDFzSGtHQlc1amxuelpTSDk0M1kwMi1fUQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 35 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 501715,
+      "story_id": 2317,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yc2hvNUdva2JFRVoxak9jVHJ2b3Zvc2V6bnptVFh1bEtmX2Y1djg5NDV0SFV3T21RUVpZRWc4Z2hma1Frbkk4LXNJVkJ2c2gxdVFGaWdpNWFObTJMSG80Z21Qblc2a2cxbmJYT0JFeXU0b1F2MHVBQUZB?oc=5",
+      "title": "SCHO Forecast — Price Target — Prediction for 2027 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-06-25T15:30:03+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8yc2hvNUdva2JFRVoxak9jVHJ2b3Zvc2V6bnptVFh1bEtmX2Y1djg5NDV0SFV3T21RUVpZRWc4Z2hma1Frbkk4LXNJVkJ2c2gxdVFGaWdpNWFObTJMSG80Z21Qblc2a2cxbmJYT0JFeXU0b1F2MHVBQUZB?oc=5\" target=\"_blank\">SCHO Forecast — Price Target — Prediction for 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
     }
   ],
   "share_of_voice": {
@@ -112105,7 +112167,7 @@
       {
         "week": "2026-W26",
         "Aller Aqua": 0,
-        "BioMar": 12,
+        "BioMar": 13,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -112185,7 +112247,7 @@
       {
         "week": "2026-W36",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -112198,7 +112260,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1657
+        "count": 1659
       },
       {
         "company": "Cargill",
