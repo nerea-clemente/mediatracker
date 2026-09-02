@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T19:16:07+00:00",
+  "generated_at": "2026-09-02T23:48:15+00:00",
   "stats": {
-    "mention_count": 3135,
-    "story_count": 2324,
+    "mention_count": 3148,
+    "story_count": 2336,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -100,6 +100,7 @@
     "El Confidencial",
     "El Correo",
     "El Correo de Burgos",
+    "El Día de Soria",
     "El Español",
     "El HuffPost",
     "El Mostrador",
@@ -200,6 +201,7 @@
     "MorungExpress",
     "Mundo Marítimo",
     "Mundoacuicola",
+    "Muscat Daily",
     "Mynewsdesk",
     "Málaga Hoy",
     "NHO",
@@ -214,6 +216,7 @@
     "Nutraceutical Business Review",
     "Næringslivets sikkerhetsorganisasjon",
     "Offshore-Energy.biz",
+    "Oils & Fats International",
     "Onda Vasca",
     "Oppland Arbeiderblad",
     "PR Newswire",
@@ -357,6 +360,7 @@
     "portalredsalud.cl",
     "randaberg24.no",
     "realcommercial.com.au",
+    "ross-shirejournal.co.uk",
     "russpain.com",
     "sg.finance.yahoo.com",
     "ship.energy",
@@ -8330,7 +8334,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -18272,6 +18276,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2358,
+      "headline": "Yield10 Bioscience and BioMar sign deal to produce omega-3 oil from camelina - Oils & Fats International",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaExTX2tNM3NnYTdJMzdxekRxUnFncUVHVlB2aHFERTRkZnBWOS1WSmQwbWVPSzhmN2h1WE9SalFEbmozNFQ1V285ZDBicHlhVDhaWDBVSTBpNDFrcWVQVjBnV0drZlNSSlUyV1dHSUlTa3p5ekQxblRhbWpJYUlaaFFZZDUwUWhxYUpMWUZOQ3UzRTdSQjU3Z04tVWJsdFotcG9xWmU2U09DR0hMdEE?oc=5\" target=\"_blank\">Yield10 Bioscience and BioMar sign deal to produce omega-3 oil from camelina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oils & Fats International</font>",
+      "first_seen": "2023-11-13T08:00:00+00:00",
+      "last_seen": "2023-11-13T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 100,
       "headline": "BioMar Group anuncia en detalle los cambios organizacionales en su filial chilena - Salmonexpert",
       "story_summary": "BioMar Group has announced detailed organizational changes affecting its Chilean subsidiary operations. The announcement outlines structural modifications within the regional business unit's management and operational framework.\n\n[Note: The article text itself was not provided in full—only the title and lede were available. Analysis is based on the title indicating a primary organizational announcement by BioMar Group's Chilean operations.]",
@@ -18837,6 +18855,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnpxSTRaaTAtaW9OVGgyOWR2LWNfSUZzWjRERTlZVHJzVm1oYVpxSnVRQ1ZtUzJZVjZDdzY4YkxFdFJzX3JNemR0SjVtTjJCTnhmZi1yYUxBaXFSSW43SnFMTml3djlzWnhiWFFNMUZXN29uZmt1clI3Q2V5c2RLOUpkQjljcGNRSV9mTXdMRS0zVVRJYkxBQlZYajVCeDQ?oc=5\" target=\"_blank\">Industry collaboration aims to boost aquaculture industry in Oman</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
       "first_seen": "2023-09-04T07:00:00+00:00",
       "last_seen": "2023-09-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2357,
+      "headline": "IFFC, Dutch firm Skretting join forces in aqua feed innovation - Muscat Daily",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQak1YTGk2dlprMFVNanJjZ2hkY0RqQXg0bTJBdUdsa09VWWRFT0tpam5qSWRodm5VU0RKM245SFVPZTU4Vl9CTWgwZjVtWDZOM2ZPY1dCRHkxajJYVFVORXczNVZsNjkxeVlvZFVXVWZ6dlBRUzR0Z1V0REpPNElqckZSekptRVdDOUZ4Z1dtdkZhZ241eDEyeEdNaWFBdER2YS0w?oc=5\" target=\"_blank\">IFFC, Dutch firm Skretting join forces in aqua feed innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Muscat Daily</font>",
+      "first_seen": "2023-09-03T07:00:00+00:00",
+      "last_seen": "2023-09-03T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -21283,6 +21315,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2356,
+      "headline": "Kritiserer rivaler for handel med Russland - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDJzNGllYUpKOGJ6ZVF6ZEJyUzFyanJCTzNuMXBJYk5WSm1tWVgxZldZZnlvdG5tMkY2X0I4b2F1RjhRYTVyeXAxOElEaGFjTUwzeS04REh4dGxDT1dfZV9idzhKaC1CbWhoUnR0aEZNbFNSaXdzVmlnZUV5M2lSLWM2RExWVHNQczNRWHVjaGtuRjNRTmpUb2FB?oc=5\" target=\"_blank\">Kritiserer rivaler for handel med Russland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2022-08-16T07:00:00+00:00",
+      "last_seen": "2022-08-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1307,
       "headline": "BioMar, Icelandic seafood giant to build net-zero aquaculture feed facility - intrafish.com",
       "story_summary": "BioMar and an Icelandic seafood company are partnering to construct a net-zero aquaculture feed production facility. The project represents a sustainability-focused expansion for BioMar's operations in the region and aligns with industry trends toward environmentally responsible aquaculture inputs.\n      BioMar is building a net-zero aquaculture feed facility with an Icelandic seafood partner, signaling the company's commitment to sustainable production practices in the sector. This represents a strategic investment in decarbonized feed manufacturing for farmed seafood production. The move is described as combining BioMar's feed expertise with Icelandic resources and priorities, reflecting market demand for lower-carbon aquaculture inputs. The deal underscores the aquaculture feed industry's shift toward net-zero production methods to support farmed fish and shrimp producers seeking sustainable supply chains. BioMar operates globally with regional production facilities and this project expands its presence in the northern Atlantic region. The net-zero facility represents capital investment and operational innovation in aquaculture sustainability.\n            The net-zero facility represents a significant sustainability initiative marking BioMar's commitment to decarbonized aquaculture feed production. This strategic partnership with an Icelandic company signals growing market demand for environmentally responsible feed products in salmon and seafood farming.\n                    The facility is being built to net-zero standards. BioMar is partnering with an Icelandic seafood company on this project. The venture aligns with global sustainability trends in aquaculture. The facility will support regional aquaculture producers seeking lower-carbon feed inputs. BioMar continues expanding its geographic footprint and product sustainability profile.BioMar is investing in net-zero aquaculture feed manufacturing. The company is partnering with an Icelandic seafood producer. The facility will serve regional salmon and seafood farmers. The project reflects industry-wide movement toward sustainable aquaculture inputs. BioMar's expansion strengthens its market position in northern Atlantic aquaculture regions., ",
@@ -22476,6 +22522,20 @@
       "id": 2285,
       "headline": "BioMar moves microalgae out of the niche ingredient category - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3lMMENDYzBJVG02by0xNjRTY3pMTHNFU2VzTlNGazJYNTctR2doMEMwVWplb2NWZlcwSnNiTTZieTEyVGlqY1ZWNXVpWHNZSzc5bWdjeTJxRkg4ZGlOa2JtOTNKaFVzMlhmekxITjF1My1ibHBvT0NadnAxdzE2N3FDODlRdGNlcE5PSUNTOGJPUk5Kb3ZqZA?oc=5\" target=\"_blank\">BioMar moves microalgae out of the niche ingredient category</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2022-02-21T08:00:00+00:00",
+      "last_seen": "2022-02-21T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2355,
+      "headline": "BioMar names its top-performing Chilean salmon farms - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWdId1J0R0FzaTM5Y19CaEZmZ1o4OXQ4M0tIYWdEd0F1alpndXNYV2Z2UWhfZmdkaks5ckl5TFVacmlwM0ZkM3gtN0lHRkRxbEtPOW0wY2dHQjB0OHc3a2NvMmFhT3FuY1RpamNDQ3V0YlJOQUlQemNJcGRWM3FKVGhvNkx6TjlrUzAzQW5Sbm9sa1ZwcXhMeDFlajJVVGlCcE1hSHkyWQ?oc=5\" target=\"_blank\">BioMar names its top-performing Chilean salmon farms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
       "first_seen": "2022-02-21T08:00:00+00:00",
       "last_seen": "2022-02-21T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -26593,6 +26653,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2354,
+      "headline": "Lanzan herramienta que revela trazabilidad del salmón al consumidor - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTd5ZHltSFFVZi1faVpqLU9pOG5pbGhKbmtfTnh1eXNUb1RtRFNDYmNCRkdOa2I2c1FsU3E0QS1JZ0lBa3B4LWFIMmJZNzFZMWhwT2dzN2NVN1phV0RTMGxvS3dUeWxFMDVvVm5aQk5qbEpKeDRGNWFuamRwRkRJdERETDlqM2ZIcHQ3VS1nMUd6dWN0eEFFVktpTmhzSG1KdkhsLVpNbm5XUnhoV1JLOUd4VDdMc2FOanhmWGVlNkRROUdLR2ZpRmJ3?oc=5\" target=\"_blank\">Lanzan herramienta que revela trazabilidad del salmón al consumidor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2019-07-01T07:00:00+00:00",
+      "last_seen": "2019-07-01T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1668,
       "headline": "Minneord, Bjerkreim | Gaute Skretting til minne - Dalane Tidende",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10dVpUWWt0M2tBTWozdlA0djFVUkRsWjZDUF9RTjhlRVNOY1ZaS0RwT3d4Um9BZVZlRUNoeTEwZ3JFSVZTUHVFSEpXcGxWbW11UkFPRjRDbGVsSDRLV3NuN0NrWGVoUW5maGlweWh3V09jWjdyYzFBQ2tR?oc=5\" target=\"_blank\">Minneord, Bjerkreim | Gaute Skretting til minne</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dalane Tidende</font>",
@@ -26831,6 +26905,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2353,
+      "headline": "Invergordon's Skretting fish feed firm confirms final closure date of its Inverbreakie Industrial Estate site - ross-shirejournal.co.uk",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3pqMjBXQVdsa2pPOS03X0hWaFdTSU5XVkxHbXR5OElMVFRjQjhXeUgwRVlFT0FFRVpZd1FRVmRVUDgwR0JYRm9LaTdPU2E3dVNfUEVRc3hxNFMwZVFmbVlteWpBZzJnQlJJQXpxckVLN1A5ZVRJRkE4M3VTTGRtUTBZWE9EcHFIUndSeXN3cnhOM0x3MTZWQnNrSVE0TGJuRGNCdEFqY01zblRHWlBtYWlBcDc?oc=5\" target=\"_blank\">Invergordon's Skretting fish feed firm confirms final closure date of its Inverbreakie Industrial Estate site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ross-shirejournal.co.uk</font>",
+      "first_seen": "2019-04-18T07:00:00+00:00",
+      "last_seen": "2019-04-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 464,
       "headline": "Tidligere EWOS-leder dømt til fengsel i korrupsjonssak - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBGNTNGeTBRdWVveHVfLW11R01GeGtaNUwtdVBUYjl3THVjay1UVE0yTF81bW1Gd3ZDaWZlVHI3TTdudXFONW1PMkwyUTJRWXk0cHRuQ0MtX1FodGJ1WllSOHVINmdLOE9SX2F5WFN4aEVWeWNlZnpFYTZzYlg?oc=5\" target=\"_blank\">Tidligere EWOS-leder dømt til fengsel i korrupsjonssak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -26904,6 +26992,20 @@
       "id": 1631,
       "headline": "Skretting supports Egyptian tilapia farming - Aquafeed.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQS1QTjFxUDgtX2Q0MjVubHMtYjRoZ2RUY3lQSEw2aWZUdFBEa2RKNVRQdEhRREdPYTBlLVdQbE9aXzNiMTIydWNJZmtvWVNjNEU2VVRkYWJ5bS1PX29DMXF6czR1LXBBNzljZ2l4RHkwcDdnajI5N2prbWRoSkFwQXdKUzRab1N6ajJr?oc=5\" target=\"_blank\">Skretting supports Egyptian tilapia farming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2019-03-27T07:00:00+00:00",
+      "last_seen": "2019-03-27T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2352,
+      "headline": "Horizon School Division - Appointment of Ms. Sharon Skretting as the new principal of Vauxhall Elementary School - Education News Canada",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaEx3Rm1lMTh4VnFDM2hJWG4wRzByYnNzWFpjcFpLaUkzcHRFa082MnhaN3JxYTA1LWpVbTlqMmk2Zm5CSlRqNFVWekNJNTRhczVFRkhzZHZaRWxnall5Yy1VTVhjeHR1TS1FbFdlbmwzU19WX245cmxLRGJkSHBtdHVidXFkamhzMTRCTXhzeEFLY0thM3VRN1BTX0FkMjI3RkJZNnRqT0Vqd1RJbGgteWtQOWl6RWxITU1ibnNuU19CdWVtSF9qYVdveHF6UW1DTUo1RFlzYzVWOHJJbnVYTmVTN3d4T1NtaFJESmMyMG4?oc=5\" target=\"_blank\">Horizon School Division - Appointment of Ms. Sharon Skretting as the new principal of Vauxhall Elementary School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education News Canada</font>",
       "first_seen": "2019-03-27T07:00:00+00:00",
       "last_seen": "2019-03-27T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -29491,6 +29593,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2351,
+      "headline": "El grupo BioMar negocia la compra mayoritaria de acciones de Alimentsa - expreso.ec",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0pJX2o1NThMX0t0TnZueFBRd2I2QkRaQ3VOeWtsLU1pQnFWMkh2Umd0YjVLd0QzbEthM1l1bDFJNGFITXljU3JBaW1IOXpCRXZ0Zi1hX2xwYlBnc0RrNnRxT3N1LWNhSU0yclpVNjB2cF80d3BuRk54OFp1Y0lzUGtHWlVHcWdxZl9lS1g3Z25OTDZuVEVSU21FQUo3SnVJaHBvNmdB?oc=5\" target=\"_blank\">El grupo BioMar negocia la compra mayoritaria de acciones de Alimentsa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">expreso.ec</font>",
+      "first_seen": "2017-06-02T07:00:00+00:00",
+      "last_seen": "2017-06-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1763,
       "headline": "Skretting-ansatt med doktorgrad på fysisk kvalitet i fiskefôr - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNLURTWFF5aFZqUUNaTGcxcjJOT0VTWEtYdHhvX0ZlR1Y3YUIwX0xOLWRCSmNUSm9oTWE2RUJmRlBkSURTWWVRN0FjdzRiSWxUN3R6dFhWdVdRNTVJV0VCT2xCdWJzek1jSXJYUlllTnZQSUhTWFBZU00tR0RUUVZ4WktuMDVKdw?oc=5\" target=\"_blank\">Skretting-ansatt med doktorgrad på fysisk kvalitet i fiskefôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -30835,6 +30951,20 @@
       "company": "Cargill"
     },
     {
+      "id": 2350,
+      "headline": "Aquagestion y Biomar realizarán taller sobre terapias antimicrobianas - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLU5ONlB2YU11ek1DWHpvZjhhQmQwUnhkb1pfbDRQMk9ZRHJFSU5RTS0yUW1oRmlvZkRySWlOVVhEZUpkdmsxQzBjWVpkZTVya3V1UnVFM0dOUURhb1JzR2d4OHctek42QkFvTkhXR2NtbkdQeFM1M1V1LUdyWXBidzRFRXNQd3RXVExtRnZNU0JnRjlKLTh4ZV8ybF9GNkZJdThtekZQTUxwRjBVTjhCUkFPYVRneXJl?oc=5\" target=\"_blank\">Aquagestion y Biomar realizarán taller sobre terapias antimicrobianas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2016-01-11T08:00:00+00:00",
+      "last_seen": "2016-01-11T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1391,
       "headline": "Skretting indaga en pigmentación de smolts - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXpEYnQ1WnVicVBaZjhpZWtRZTFlb2UwTGpGT3Nfc3VaTExmcnR4S214emhCYjJuOHVkVGFhR3hEZGFpLTRBdWd5cGRwS3h0QnRXNkR6Y2xEMDVxYVNYWUF2MUdoYXFLSkxKYWEwZHczeFZJYVQxcXpTWlFnamZRdjEzWWhnel9DLTRxRm9vTlg3X1BSZkRPMXYwNFpyNHRhUmI4bkQ3d2Jsdw?oc=5\" target=\"_blank\">Skretting indaga en pigmentación de smolts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -31043,6 +31173,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2349,
+      "headline": "Nutreco renames R&D centres and doubles investment - foodagribusiness.world",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHFRVF9RS2lOMjVYZHg2dy14dnh1ZFJfWXdmWHlOSGVJWU9OUERnOG9SUUwyQ3hpbW5MUnNGS3hhUnNJM29FNjNlcFVkcUtYbHdwVnYyaHp4N29yR2hzdk5JVVpocGotNGZaMjJBbndzdlI1dlRDNGtocHdJZ25ZeUdrU3ZZTUFGT2ctemZxUE1OMjg?oc=5\" target=\"_blank\">Nutreco renames R&amp;D centres and doubles investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foodagribusiness.world</font>",
+      "first_seen": "2015-09-07T07:00:00+00:00",
+      "last_seen": "2015-09-07T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1254,
@@ -32054,6 +32198,20 @@
       "company": "Polarfeed"
     },
     {
+      "id": 2348,
+      "headline": "Fish feed breakthrough lifts salmon profits - ABC News & Headlines – Australian Broadcasting Corporation",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBuY3hudWoyYzFINUVkd3A0NXM4TVJCSFpJYzliX2FfUWRvT2dvckJBZDFLM1lvOEE4VE5RWE1IcDEzLW00SWkyV0RDbFlMczlaSXZUVldGRUh3SllVVlUyYXMybW14bjE1QUdJWTVibUZpb1IwaHc?oc=5\" target=\"_blank\">Fish feed breakthrough lifts salmon profits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines – Australian Broadcasting Corporation</font>",
+      "first_seen": "2014-02-18T08:00:00+00:00",
+      "last_seen": "2014-02-18T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1875,
       "headline": "Rafferty tar styringen i Skretting - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2RmVNVXdYNmJCS19LWG5adnBCMHh4MjBYLXVERFU1OENZWWFVLWFrZVBmVUlEUTJoR1RGQlE2d1VsR19uRlRBWW1DVk1UaW5YN3otbnRtTUVsR0J1YU41Y21R?oc=5\" target=\"_blank\">Rafferty tar styringen i Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -32654,6 +32812,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Polarfeed"
+    },
+    {
+      "id": 2347,
+      "headline": "Improving The Physical Quality Of Fish Feed - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQSkJmM2FTakZ1UWhyMTA3eWlTRjBnMTlKdTQtWVJRR2RzMGd3SmdSaU55MTBCaE9oRHNjN3haajZWTXJGZjdqemVURE1qRUJiY2NIVTY4Mi0zX0V6YkctX3FlWEY4TllrLVYxM2JELWg1M0l3V29KX0h2UnUxdzQ4OWJn?oc=5\" target=\"_blank\">Improving The Physical Quality Of Fish Feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2011-02-23T08:00:00+00:00",
+      "last_seen": "2011-02-23T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1849,
@@ -108948,6 +109120,318 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb0trNThhX0lBLXhqSFRwRElnYnIzUXp5dWVuZnVaa3Z2aUpnclBXOHR1QUxtUjZEd2JyeFd1UHo3TElYMVhIOU5WeHA4WDIxMFdWU0V5UlN3Rm1kNVVXTFd4SEVObXBiVU1pRW83akxNV0VyRmJ3UndqWVpEY0lOV1RIRGptNXpIZnB3cEl0LUlLVG1UWkhhb243bXZhSWVsS0dmSHBXZWJWOEM0QTZ5dTBScWpVSkVVSWFkYXNGSXhFT3ZsYkRNMXluUjZuQm56RDJTdy1STFctZVo5UWIxbGt6Ung3MDROdFlJZg?oc=5\" target=\"_blank\">El ambicioso objetivo de incluir materias primas sustentables en alimento para salmones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 506492,
+      "story_id": 2355,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWdId1J0R0FzaTM5Y19CaEZmZ1o4OXQ4M0tIYWdEd0F1alpndXNYV2Z2UWhfZmdkaks5ckl5TFVacmlwM0ZkM3gtN0lHRkRxbEtPOW0wY2dHQjB0OHc3a2NvMmFhT3FuY1RpamNDQ3V0YlJOQUlQemNJcGRWM3FKVGhvNkx6TjlrUzAzQW5Sbm9sa1ZwcXhMeDFlajJVVGlCcE1hSHkyWQ?oc=5",
+      "title": "BioMar names its top-performing Chilean salmon farms - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2022-02-21T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWdId1J0R0FzaTM5Y19CaEZmZ1o4OXQ4M0tIYWdEd0F1alpndXNYV2Z2UWhfZmdkaks5ckl5TFVacmlwM0ZkM3gtN0lHRkRxbEtPOW0wY2dHQjB0OHc3a2NvMmFhT3FuY1RpamNDQ3V0YlJOQUlQemNJcGRWM3FKVGhvNkx6TjlrUzAzQW5Sbm9sa1ZwcXhMeDFlajJVVGlCcE1hSHkyWQ?oc=5\" target=\"_blank\">BioMar names its top-performing Chilean salmon farms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+    },
+    {
+      "id": 506497,
+      "story_id": 2358,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaExTX2tNM3NnYTdJMzdxekRxUnFncUVHVlB2aHFERTRkZnBWOS1WSmQwbWVPSzhmN2h1WE9SalFEbmozNFQ1V285ZDBicHlhVDhaWDBVSTBpNDFrcWVQVjBnV0drZlNSSlUyV1dHSUlTa3p5ekQxblRhbWpJYUlaaFFZZDUwUWhxYUpMWUZOQ3UzRTdSQjU3Z04tVWJsdFotcG9xWmU2U09DR0hMdEE?oc=5",
+      "title": "Yield10 Bioscience and BioMar sign deal to produce omega-3 oil from camelina - Oils & Fats International",
+      "source_name": "Oils & Fats International",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2023-11-13T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaExTX2tNM3NnYTdJMzdxekRxUnFncUVHVlB2aHFERTRkZnBWOS1WSmQwbWVPSzhmN2h1WE9SalFEbmozNFQ1V285ZDBicHlhVDhaWDBVSTBpNDFrcWVQVjBnV0drZlNSSlUyV1dHSUlTa3p5ekQxblRhbWpJYUlaaFFZZDUwUWhxYUpMWUZOQ3UzRTdSQjU3Z04tVWJsdFotcG9xWmU2U09DR0hMdEE?oc=5\" target=\"_blank\">Yield10 Bioscience and BioMar sign deal to produce omega-3 oil from camelina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oils & Fats International</font>"
+    },
+    {
+      "id": 506600,
+      "story_id": 2356,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDJzNGllYUpKOGJ6ZVF6ZEJyUzFyanJCTzNuMXBJYk5WSm1tWVgxZldZZnlvdG5tMkY2X0I4b2F1RjhRYTVyeXAxOElEaGFjTUwzeS04REh4dGxDT1dfZV9idzhKaC1CbWhoUnR0aEZNbFNSaXdzVmlnZUV5M2lSLWM2RExWVHNQczNRWHVjaGtuRjNRTmpUb2FB?oc=5",
+      "title": "Kritiserer rivaler for handel med Russland - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-08-16T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDJzNGllYUpKOGJ6ZVF6ZEJyUzFyanJCTzNuMXBJYk5WSm1tWVgxZldZZnlvdG5tMkY2X0I4b2F1RjhRYTVyeXAxOElEaGFjTUwzeS04REh4dGxDT1dfZV9idzhKaC1CbWhoUnR0aEZNbFNSaXdzVmlnZUV5M2lSLWM2RExWVHNQczNRWHVjaGtuRjNRTmpUb2FB?oc=5\" target=\"_blank\">Kritiserer rivaler for handel med Russland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 506791,
+      "story_id": 2350,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLU5ONlB2YU11ek1DWHpvZjhhQmQwUnhkb1pfbDRQMk9ZRHJFSU5RTS0yUW1oRmlvZkRySWlOVVhEZUpkdmsxQzBjWVpkZTVya3V1UnVFM0dOUURhb1JzR2d4OHctek42QkFvTkhXR2NtbkdQeFM1M1V1LUdyWXBidzRFRXNQd3RXVExtRnZNU0JnRjlKLTh4ZV8ybF9GNkZJdThtekZQTUxwRjBVTjhCUkFPYVRneXJl?oc=5",
+      "title": "Aquagestion y Biomar realizarán taller sobre terapias antimicrobianas - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2016-01-11T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLU5ONlB2YU11ek1DWHpvZjhhQmQwUnhkb1pfbDRQMk9ZRHJFSU5RTS0yUW1oRmlvZkRySWlOVVhEZUpkdmsxQzBjWVpkZTVya3V1UnVFM0dOUURhb1JzR2d4OHctek42QkFvTkhXR2NtbkdQeFM1M1V1LUdyWXBidzRFRXNQd3RXVExtRnZNU0JnRjlKLTh4ZV8ybF9GNkZJdThtekZQTUxwRjBVTjhCUkFPYVRneXJl?oc=5\" target=\"_blank\">Aquagestion y Biomar realizarán taller sobre terapias antimicrobianas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 506794,
+      "story_id": 282,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHFRSDdIbXBJNzVGaWJWRC1mSko4ZzJyNFl3OVFkanNXZW9VS0lma2dvbFJWZl85ZVBvRlNSb1FtS2QxVHRlODZuMDcxOW9PclppWWxYd2xNVTJ3dUV0Smh4a0U1TWNFdWw2ekg2VXZIVlVEN0JGWXo2dVpzSVAwLXhYRDNUa2JtYVl5RnBEX1dxSUtHRExfYnIwTmQ2VWxxR3JJbDMtTmt3eENmVEZKWEg0SjNmYXQ1eWtqS3Z6bnZ3Q3BxNmk4?oc=5",
+      "title": "Golpe a Biomar: más allá del fraude de 300 millones - El Día de Soria",
+      "source_name": "El Día de Soria",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2025-12-28T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHFRSDdIbXBJNzVGaWJWRC1mSko4ZzJyNFl3OVFkanNXZW9VS0lma2dvbFJWZl85ZVBvRlNSb1FtS2QxVHRlODZuMDcxOW9PclppWWxYd2xNVTJ3dUV0Smh4a0U1TWNFdWw2ekg2VXZIVlVEN0JGWXo2dVpzSVAwLXhYRDNUa2JtYVl5RnBEX1dxSUtHRExfYnIwTmQ2VWxxR3JJbDMtTmt3eENmVEZKWEg0SjNmYXQ1eWtqS3Z6bnZ3Q3BxNmk4?oc=5\" target=\"_blank\">Golpe a Biomar: más allá del fraude de 300 millones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Día de Soria</font>"
+    },
+    {
+      "id": 506800,
+      "story_id": 2354,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTd5ZHltSFFVZi1faVpqLU9pOG5pbGhKbmtfTnh1eXNUb1RtRFNDYmNCRkdOa2I2c1FsU3E0QS1JZ0lBa3B4LWFIMmJZNzFZMWhwT2dzN2NVN1phV0RTMGxvS3dUeWxFMDVvVm5aQk5qbEpKeDRGNWFuamRwRkRJdERETDlqM2ZIcHQ3VS1nMUd6dWN0eEFFVktpTmhzSG1KdkhsLVpNbm5XUnhoV1JLOUd4VDdMc2FOanhmWGVlNkRROUdLR2ZpRmJ3?oc=5",
+      "title": "Lanzan herramienta que revela trazabilidad del salmón al consumidor - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-07-01T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTd5ZHltSFFVZi1faVpqLU9pOG5pbGhKbmtfTnh1eXNUb1RtRFNDYmNCRkdOa2I2c1FsU3E0QS1JZ0lBa3B4LWFIMmJZNzFZMWhwT2dzN2NVN1phV0RTMGxvS3dUeWxFMDVvVm5aQk5qbEpKeDRGNWFuamRwRkRJdERETDlqM2ZIcHQ3VS1nMUd6dWN0eEFFVktpTmhzSG1KdkhsLVpNbm5XUnhoV1JLOUd4VDdMc2FOanhmWGVlNkRROUdLR2ZpRmJ3?oc=5\" target=\"_blank\">Lanzan herramienta que revela trazabilidad del salmón al consumidor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 506861,
+      "story_id": 2351,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0pJX2o1NThMX0t0TnZueFBRd2I2QkRaQ3VOeWtsLU1pQnFWMkh2Umd0YjVLd0QzbEthM1l1bDFJNGFITXljU3JBaW1IOXpCRXZ0Zi1hX2xwYlBnc0RrNnRxT3N1LWNhSU0yclpVNjB2cF80d3BuRk54OFp1Y0lzUGtHWlVHcWdxZl9lS1g3Z25OTDZuVEVSU21FQUo3SnVJaHBvNmdB?oc=5",
+      "title": "El grupo BioMar negocia la compra mayoritaria de acciones de Alimentsa - expreso.ec",
+      "source_name": "expreso.ec",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2017-06-02T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0pJX2o1NThMX0t0TnZueFBRd2I2QkRaQ3VOeWtsLU1pQnFWMkh2Umd0YjVLd0QzbEthM1l1bDFJNGFITXljU3JBaW1IOXpCRXZ0Zi1hX2xwYlBnc0RrNnRxT3N1LWNhSU0yclpVNjB2cF80d3BuRk54OFp1Y0lzUGtHWlVHcWdxZl9lS1g3Z25OTDZuVEVSU21FQUo3SnVJaHBvNmdB?oc=5\" target=\"_blank\">El grupo BioMar negocia la compra mayoritaria de acciones de Alimentsa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">expreso.ec</font>"
+    },
+    {
+      "id": 507003,
+      "story_id": 2352,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaEx3Rm1lMTh4VnFDM2hJWG4wRzByYnNzWFpjcFpLaUkzcHRFa082MnhaN3JxYTA1LWpVbTlqMmk2Zm5CSlRqNFVWekNJNTRhczVFRkhzZHZaRWxnall5Yy1VTVhjeHR1TS1FbFdlbmwzU19WX245cmxLRGJkSHBtdHVidXFkamhzMTRCTXhzeEFLY0thM3VRN1BTX0FkMjI3RkJZNnRqT0Vqd1RJbGgteWtQOWl6RWxITU1ibnNuU19CdWVtSF9qYVdveHF6UW1DTUo1RFlzYzVWOHJJbnVYTmVTN3d4T1NtaFJESmMyMG4?oc=5",
+      "title": "Horizon School Division - Appointment of Ms. Sharon Skretting as the new principal of Vauxhall Elementary School - Education News Canada",
+      "source_name": "Education News Canada",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2019-03-27T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaEx3Rm1lMTh4VnFDM2hJWG4wRzByYnNzWFpjcFpLaUkzcHRFa082MnhaN3JxYTA1LWpVbTlqMmk2Zm5CSlRqNFVWekNJNTRhczVFRkhzZHZaRWxnall5Yy1VTVhjeHR1TS1FbFdlbmwzU19WX245cmxLRGJkSHBtdHVidXFkamhzMTRCTXhzeEFLY0thM3VRN1BTX0FkMjI3RkJZNnRqT0Vqd1RJbGgteWtQOWl6RWxITU1ibnNuU19CdWVtSF9qYVdveHF6UW1DTUo1RFlzYzVWOHJJbnVYTmVTN3d4T1NtaFJESmMyMG4?oc=5\" target=\"_blank\">Horizon School Division - Appointment of Ms. Sharon Skretting as the new principal of Vauxhall Elementary School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education News Canada</font>"
+    },
+    {
+      "id": 507005,
+      "story_id": 2347,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSkJmM2FTakZ1UWhyMTA3eWlTRjBnMTlKdTQtWVJRR2RzMGd3SmdSaU55MTBCaE9oRHNjN3haajZWTXJGZjdqemVURE1qRUJiY2NIVTY4Mi0zX0V6YkctX3FlWEY4TllrLVYxM2JELWg1M0l3V29KX0h2UnUxdzQ4OWJn?oc=5",
+      "title": "Improving The Physical Quality Of Fish Feed - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2011-02-23T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQSkJmM2FTakZ1UWhyMTA3eWlTRjBnMTlKdTQtWVJRR2RzMGd3SmdSaU55MTBCaE9oRHNjN3haajZWTXJGZjdqemVURE1qRUJiY2NIVTY4Mi0zX0V6YkctX3FlWEY4TllrLVYxM2JELWg1M0l3V29KX0h2UnUxdzQ4OWJn?oc=5\" target=\"_blank\">Improving The Physical Quality Of Fish Feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 507006,
+      "story_id": 2348,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuY3hudWoyYzFINUVkd3A0NXM4TVJCSFpJYzliX2FfUWRvT2dvckJBZDFLM1lvOEE4VE5RWE1IcDEzLW00SWkyV0RDbFlMczlaSXZUVldGRUh3SllVVlUyYXMybW14bjE1QUdJWTVibUZpb1IwaHc?oc=5",
+      "title": "Fish feed breakthrough lifts salmon profits - ABC News & Headlines – Australian Broadcasting Corporation",
+      "source_name": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2014-02-18T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBuY3hudWoyYzFINUVkd3A0NXM4TVJCSFpJYzliX2FfUWRvT2dvckJBZDFLM1lvOEE4VE5RWE1IcDEzLW00SWkyV0RDbFlMczlaSXZUVldGRUh3SllVVlUyYXMybW14bjE1QUdJWTVibUZpb1IwaHc?oc=5\" target=\"_blank\">Fish feed breakthrough lifts salmon profits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News & Headlines – Australian Broadcasting Corporation</font>"
+    },
+    {
+      "id": 507007,
+      "story_id": 2357,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQak1YTGk2dlprMFVNanJjZ2hkY0RqQXg0bTJBdUdsa09VWWRFT0tpam5qSWRodm5VU0RKM245SFVPZTU4Vl9CTWgwZjVtWDZOM2ZPY1dCRHkxajJYVFVORXczNVZsNjkxeVlvZFVXVWZ6dlBRUzR0Z1V0REpPNElqckZSekptRVdDOUZ4Z1dtdkZhZ241eDEyeEdNaWFBdER2YS0w?oc=5",
+      "title": "IFFC, Dutch firm Skretting join forces in aqua feed innovation - Muscat Daily",
+      "source_name": "Muscat Daily",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2023-09-03T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQak1YTGk2dlprMFVNanJjZ2hkY0RqQXg0bTJBdUdsa09VWWRFT0tpam5qSWRodm5VU0RKM245SFVPZTU4Vl9CTWgwZjVtWDZOM2ZPY1dCRHkxajJYVFVORXczNVZsNjkxeVlvZFVXVWZ6dlBRUzR0Z1V0REpPNElqckZSekptRVdDOUZ4Z1dtdkZhZ241eDEyeEdNaWFBdER2YS0w?oc=5\" target=\"_blank\">IFFC, Dutch firm Skretting join forces in aqua feed innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Muscat Daily</font>"
+    },
+    {
+      "id": 507008,
+      "story_id": 2349,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHFRVF9RS2lOMjVYZHg2dy14dnh1ZFJfWXdmWHlOSGVJWU9OUERnOG9SUUwyQ3hpbW5MUnNGS3hhUnNJM29FNjNlcFVkcUtYbHdwVnYyaHp4N29yR2hzdk5JVVpocGotNGZaMjJBbndzdlI1dlRDNGtocHdJZ25ZeUdrU3ZZTUFGT2ctemZxUE1OMjg?oc=5",
+      "title": "Nutreco renames R&D centres and doubles investment - foodagribusiness.world",
+      "source_name": "foodagribusiness.world",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2015-09-07T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHFRVF9RS2lOMjVYZHg2dy14dnh1ZFJfWXdmWHlOSGVJWU9OUERnOG9SUUwyQ3hpbW5MUnNGS3hhUnNJM29FNjNlcFVkcUtYbHdwVnYyaHp4N29yR2hzdk5JVVpocGotNGZaMjJBbndzdlI1dlRDNGtocHdJZ25ZeUdrU3ZZTUFGT2ctemZxUE1OMjg?oc=5\" target=\"_blank\">Nutreco renames R&amp;D centres and doubles investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">foodagribusiness.world</font>"
+    },
+    {
+      "id": 507009,
+      "story_id": 2353,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3pqMjBXQVdsa2pPOS03X0hWaFdTSU5XVkxHbXR5OElMVFRjQjhXeUgwRVlFT0FFRVpZd1FRVmRVUDgwR0JYRm9LaTdPU2E3dVNfUEVRc3hxNFMwZVFmbVlteWpBZzJnQlJJQXpxckVLN1A5ZVRJRkE4M3VTTGRtUTBZWE9EcHFIUndSeXN3cnhOM0x3MTZWQnNrSVE0TGJuRGNCdEFqY01zblRHWlBtYWlBcDc?oc=5",
+      "title": "Invergordon's Skretting fish feed firm confirms final closure date of its Inverbreakie Industrial Estate site - ross-shirejournal.co.uk",
+      "source_name": "ross-shirejournal.co.uk",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2019-04-18T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3pqMjBXQVdsa2pPOS03X0hWaFdTSU5XVkxHbXR5OElMVFRjQjhXeUgwRVlFT0FFRVpZd1FRVmRVUDgwR0JYRm9LaTdPU2E3dVNfUEVRc3hxNFMwZVFmbVlteWpBZzJnQlJJQXpxckVLN1A5ZVRJRkE4M3VTTGRtUTBZWE9EcHFIUndSeXN3cnhOM0x3MTZWQnNrSVE0TGJuRGNCdEFqY01zblRHWlBtYWlBcDc?oc=5\" target=\"_blank\">Invergordon's Skretting fish feed firm confirms final closure date of its Inverbreakie Industrial Estate site</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ross-shirejournal.co.uk</font>"
     }
   ],
   "share_of_voice": {
@@ -109105,6 +109589,14 @@
       },
       {
         "week": "2011-W02",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
+        "week": "2011-W08",
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 0,
@@ -109361,6 +109853,14 @@
       },
       {
         "week": "2014-W06",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
+        "week": "2014-W08",
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 0,
@@ -109685,7 +110185,7 @@
         "BioMar": 1,
         "Cargill": 2,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2015-W39",
@@ -109758,6 +110258,14 @@
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
+      },
+      {
+        "week": "2016-W02",
+        "Aller Aqua": 0,
+        "BioMar": 1,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       },
       {
         "week": "2016-W03",
@@ -110170,7 +110678,7 @@
       {
         "week": "2017-W22",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -110805,7 +111313,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2019-W14",
@@ -110822,6 +111330,14 @@
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2019-W16",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2019-W17",
@@ -110874,7 +111390,7 @@
       {
         "week": "2019-W27",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -111762,7 +112278,7 @@
       {
         "week": "2022-W08",
         "Aller Aqua": 0,
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -111954,7 +112470,7 @@
       {
         "week": "2022-W33",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -112341,7 +112857,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2023-W36",
@@ -112426,7 +112942,7 @@
       {
         "week": "2023-W46",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -113282,7 +113798,7 @@
       {
         "week": "2025-W52",
         "Aller Aqua": 0,
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 23
@@ -113583,7 +114099,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1671
+        "count": 1678
       },
       {
         "company": "Cargill",
@@ -113595,7 +114111,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1014
+        "count": 1020
       }
     ]
   }
