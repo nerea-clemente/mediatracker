@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T13:44:52+00:00",
+  "generated_at": "2026-09-02T19:16:07+00:00",
   "stats": {
-    "mention_count": 3122,
-    "story_count": 2314,
+    "mention_count": 3135,
+    "story_count": 2324,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -43,6 +43,7 @@
     "Budstikka",
     "Business News Australia",
     "Business News Nigeria",
+    "Business Standard",
     "Business Wire",
     "Business in Vancouver",
     "Bygg.no",
@@ -13620,6 +13621,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2346,
+      "headline": "Blir sjef for Skrettings globale laksevirksomhet - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYS1iS3hWUGV6X0o0NGlpX3Y3SGI4em03QlVvVm94Wk9hYnZEUVVyMktaUTJVR0RRYUhEQVhyNUwzcGI5aTF4OVpxSzYyMWlkcDA3SVJ0NnBzVXlpNXF3SnJ5MGtMRHdlUjRSWl9NeVRteEt0OVUxUWtEQ0JQbVFXZGwyVmVhc2N5TldMbWVaWkxWTlJNNjBuRS1Yajd6X1VhTkE?oc=5\" target=\"_blank\">Blir sjef for Skrettings globale laksevirksomhet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2025-05-02T07:00:00+00:00",
+      "last_seen": "2025-05-02T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 649,
       "headline": "Cargill’s aqua nutrition business marks 16 years of sustainability reporting - Aquafeed.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnk5c2lzaWxRR3g3RW5IX3V0RWN1SE1HZ3R4M2xBMXlDOUtUOU0zRUR2QWhBT2F4cWZjVU1QZkczU1FNUVhGVmV0RGFEUkNOX0Z2Q01ydW9Hdjlha2d0TGJGa09QUXk5N1F5UUcxaDZ0TGlKaVpPYzYwa29INXY1TFBiOFZ4ZXI5bTFaYUUzOVRXT2tDaWRpd1U0R3BKU2NPSlh5aVpqLVN3MWplNUg4SDhTTjhobW1vR3c?oc=5\" target=\"_blank\">Cargill’s aqua nutrition business marks 16 years of sustainability reporting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
@@ -13898,6 +13913,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2345,
+      "headline": "Aaron Skretting receives Excellence in Catholic Education Award - Lethbridge News Now",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1cxRzJoMGItU2Z3NF9DQmFId1F0eEtBY291clFlNW9qdWdIcjI1Ny1kX25wR2xaU1NlbUlPeEZxSDFCdW9wV0ZfWWdUQjl2RjBBMDFFUVE1bGl2bDItd050SFd2U0hRdV83aWNTOW9JWVFkazdWYnpEWW9sa2RyVng3bkRxZGpZUFhmMVEtWExENFBScUhsSHNlaUxnbFFkZ0J5ZnZDdG0?oc=5\" target=\"_blank\">Aaron Skretting receives Excellence in Catholic Education Award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lethbridge News Now</font>",
+      "first_seen": "2025-03-27T07:00:00+00:00",
+      "last_seen": "2025-03-27T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 164,
@@ -20035,6 +20064,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2344,
+      "headline": "Skretting India expands operations with new shrimp and fish feed production site in Surat - Business Standard",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTHc0MGJnYVphVUtUcTgtdzEwcEJBUFo1dThEbUotMzVhV3gzRk5mSDdBSm9iMFExNnJFejlmNXRTeVZjWVlTZl84Rjg1cFpUWHdVb3c3UDFJMGNhclY1X0Q2c0lTTDRsR0g4SngwUkVQWXBZUjhfeVJjSDV4SDk4bWQ4VzFWWW5lRy1GZ09ZWlVXWlhxV0Z2TUlrZWtRajVULS1GMG14T3gxNGtzUkhFbkcydzNkSG9sbHNBNVBpNkFmdVA5RHBxT3hyakVsM2gzb2k5bW5PMUQ2U1pLanZjaEVnTnFJTE8zTXJKbHl0MXFzTGVGZGU3T0Vnc2Z3NjDSAYQCQVVfeXFMTXN0UmFLSnJkNFpWcTAyM0k2dUtnbE1lMEVDWkpVMk9OekEzY0JKbzBJYWhrdzhhOTU4RWVfaHFLVDBGdlE3RkRmUFhGTmFkX1lXUmhmdEJzQ29UR01CZjR6WXA5VTJGaXl2TEptX2FQdHBoLWl5YkcyUHREcEJjTDk4RTVfMnd6NFYxbzdFWjAyQ0ZRVkI3anU5dENIYUVhUVlyakJSYnhwbktRbnNXbjduVUlIUGtXTHNBNnJLN3FmME9SWE9kb1puTzUtUHFYdWMteVhqUGJFX2tleElKSVpJaFhoN2I4TzdtWTR2WHFOdG1CbFpTY0ZJdjV0Tl9Ua2d6T3A?oc=5\" target=\"_blank\">Skretting India expands operations with new shrimp and fish feed production site in Surat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+      "first_seen": "2023-02-22T08:00:00+00:00",
+      "last_seen": "2023-02-22T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 78,
       "headline": "Cinco productoras de salmón Atlántico entre los Top 10 de BioMar - Salmonexpert",
       "story_summary": "The article reports that five Atlantic salmon producers are positioned among BioMar's top ten customers. This reflects BioMar's significant market position in the aquaculture feed sector.",
@@ -21548,6 +21591,20 @@
       "company": "Cargill"
     },
     {
+      "id": 2343,
+      "headline": "El ambicioso objetivo de incluir materias primas sustentables en alimento para salmones - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb0trNThhX0lBLXhqSFRwRElnYnIzUXp5dWVuZnVaa3Z2aUpnclBXOHR1QUxtUjZEd2JyeFd1UHo3TElYMVhIOU5WeHA4WDIxMFdWU0V5UlN3Rm1kNVVXTFd4SEVObXBiVU1pRW83akxNV0VyRmJ3UndqWVpEY0lOV1RIRGptNXpIZnB3cEl0LUlLVG1UWkhhb243bXZhSWVsS0dmSHBXZWJWOEM0QTZ5dTBScWpVSkVVSWFkYXNGSXhFT3ZsYkRNMXluUjZuQm56RDJTdy1STFctZVo5UWIxbGt6Ung3MDROdFlJZg?oc=5\" target=\"_blank\">El ambicioso objetivo de incluir materias primas sustentables en alimento para salmones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2022-06-16T07:00:00+00:00",
+      "last_seen": "2022-06-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 518,
       "headline": "Las acciones de Naviera Selknam y Skretting tras hundimiento de embarcación - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVU2REI5d2tLejdnU0pGVjl0aWl6Rm80OHZ6U01JTm5MajVSdzB0enA5OTdqSkZVSkZmZHNtS3hpTUJwdUFud0pkRzlrakFQeXdwQ0dQU0JDWTdxdUlWbFlReFRQTkRJX1ZSY0VXUjhfTUVScU5SeUl6SERFU3FyX0VVZnVtVVl6SVZlOWJPM1FJa0tFVmNfWUYzTFZIWHloM2lwU21jLUZ2WmdPNWFFQm5ybDRYZlctQU9rc0VFWjVybmxkeXRwVHRRRmkyWDRmNU9GMg?oc=5\" target=\"_blank\">Las acciones de Naviera Selknam y Skretting tras hundimiento de embarcación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -21823,7 +21880,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -25180,6 +25237,20 @@
       "headline": "Han er ansatt som administrerende direktør i Skretting Norge - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZklYMkVmel9CUjQ2SE13elRPdnZDem9USml2ZHVELVgxYlhCU3NYMkt5RUpON1RQUHFrelBjUTNxOUdCREExbDQtbTJZSU5peXgxVVRWVXFhMkd6YS1wZTRlcW9Od28zU051Q0RQLThqUzlpclZpZVNaZmxQOHZCR1Q1aVc?oc=5\" target=\"_blank\">Han er ansatt som administrerende direktør i Skretting Norge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
       "first_seen": "2020-06-16T07:00:00+00:00",
+      "last_seen": "2020-06-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2342,
+      "headline": "Håvard Walde blir ny toppsjef i Skretting Norge - Fisk.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3pwWFV6M0IxbUxYR3dOMkF0U3h5aml6NnZXN2xORUtoSU50NXFNdlNrSFk1eFdoZ3pKeFRFb0dwVGNJUV9WSm1QU0ZhaEhvNkFDU1JJNENGNnJRSWU4MVNacjJSUVRWLVZ2WUR4RkJGbHB1Qm1DM1AxcXNqZnRsVjdvRQ?oc=5\" target=\"_blank\">Håvard Walde blir ny toppsjef i Skretting Norge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fisk.no</font>",
+      "first_seen": "2020-06-16T07:00:00+00:00",
       "last_seen": "2020-06-16T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
@@ -25566,6 +25637,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2341,
+      "headline": "(+) Dette gjør Skretting for å sikre fôrproduksjonen - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTlTQk5QdkFjQkV1cjIwRllRZUNDa2Z5WGRHamw3djRMNHNOYkh1QklMUURWN1l3dW82emtJNXMwVUYxX1pSdWg0OGxETHRiMmhaRDc3RkxEVGhaT1haQy1TNEppd0pDMTVUcUVzUm9YQURZdXhjeVBFQlg1TVNmdXBFTFBqbjU1ejFqRjZFM3JXOXA0NmVGR2Nn?oc=5\" target=\"_blank\">(+) Dette gjør Skretting for å sikre fôrproduksjonen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2020-03-17T07:00:00+00:00",
+      "last_seen": "2020-03-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1669,
@@ -27082,6 +27167,20 @@
       "company": "Cargill"
     },
     {
+      "id": 2340,
+      "headline": "Fish feed suppliers Cargill and Skretting will collaborate on transport of feed in Norway - Salmon Business",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnY1Q1JRTnBFVEVyUGkySE13QWhUTTBGeGMwTldiTElYekhHOWhrUzAza2l1N2NaMzU4OGYyYkpTOHJteGo2U3VJVXMtYXNubjJUQ2R5WWFqYUh1U1RhTjdWU3dCR1V2Nkt1WFBqbC1YUlFTdVJVWTNpRDRTTk9qcm9sVnhpQm5Lem42NmNKemp6d25BNjlOMk0wSGdPVzZWeFV4endheFlOc21EdnA0WFNFaFNhYnNYT1pINW9B?oc=5\" target=\"_blank\">Fish feed suppliers Cargill and Skretting will collaborate on transport of feed in Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>",
+      "first_seen": "2019-02-11T08:00:00+00:00",
+      "last_seen": "2019-02-11T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1799,
       "headline": "Fish farmers to be supplied from France after Skretting cease UK production - SalmonBusiness",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVVlM2xXTEZZaUJjSU9lNlE1bnI0SThCWkFiUTJSTE8wLVplY2dYbHZHRkFZdVg4MTVlamNhekpNWjBzNmZ0MnFmcXQyRElXcmc0eWUybExCRU5uQjZwUm5BU0FDRDQtbDl2RHRWbUdVOG5PTjV5NWd3ZXJZckZWSFhMbXJnQWlsVFN2ZVVB0gGOAUFVX3lxTE9NVWUzbFdMRllpQmNJT2U2UTVucjRJOEJaQWJRMlJMTzAtWmVjZ1hsdkdGQVl1WDgxNWVqY2F6Sk1aMHM2ZnQycWZxdDJESVdyZzR5ZTJsTEJFTm5CNnBSbkFTQUNENC1sOXZEdFZtR1U4bk9ONXk1Z3dlcllyRlZIWExtcmdBaWxUU3ZlVUE?oc=5\" target=\"_blank\">Fish farmers to be supplied from France after Skretting cease UK production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
@@ -28326,6 +28425,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2339,
+      "headline": "Biomar styrker innkjøpsavdelingen - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE90Z1F5ZGIwXzBrNUk1R3lhVUVsWEFOOWJhWHpUNjRGY3BwWWZkU0JnQUhRc3BiOVF4MGFfRXRJTks0a1k3NmYwSzYyOEVNTXhmZGFWVFE3eHlyQ1pUdUZWUlZrc1hBaDZLcHd1NW84QzZCUlE?oc=5\" target=\"_blank\">Biomar styrker innkjøpsavdelingen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2018-03-17T07:00:00+00:00",
+      "last_seen": "2018-03-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1262,
@@ -30048,6 +30161,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Aller Aqua"
+    },
+    {
+      "id": 2338,
+      "headline": "Biomar premia al mejor centro de salmón Coho temporada 2015 - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0M0QUhoRTQtOUoxaG1QU3ZvMVVHVjJscXNfYlNoVl9nb2ctZHM0YklBYlYwcHJ5WnVjbm9XbUpTZlFpaEw4X2VHcW5QTVptRHpsN2hVUjVWaHN4bVBxbjBvOE41ODhYcG5KRkRXQnJsa1ZNZk5DVWlQSVhsaHFFR2RGVVptdUkyUWJ3YThDZlFYUmw5V1NIQTcwVlEyZjRYXzJVbEpUQzNyRGR1QWFBb2VnUndfLUE?oc=5\" target=\"_blank\">Biomar premia al mejor centro de salmón Coho temporada 2015</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2016-09-20T07:00:00+00:00",
+      "last_seen": "2016-09-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2258,
@@ -31950,7 +32077,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -32723,6 +32850,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2337,
+      "headline": "Obach takes MD seat at Skretting - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1WaWZMSk5DN1lGRWR1VXpXS0cyUzB6b2k5NmlYZEUyRGEtZDlacUktdVZkTmQ0a01iZUljMjk1QTZmTHZfVmRlMVN2Q3BkTFdSVmtZWjJ3RmlEWUdfTS00TFJHU0FQVmc2NldJc2VvWjM3YlE?oc=5\" target=\"_blank\">Obach takes MD seat at Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2007-05-04T07:00:00+00:00",
+      "last_seen": "2007-05-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 367,
@@ -108495,6 +108636,318 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc3Q1dGI5OVAzbjF0blEwUThaNWhwN1ZSTmNjM3N4QUJDbTdQMVNoSWhud3ItdHJGNXBUdDNQT3R0cUU0RTZldTFXWXNMRk9nSTFQTjVEVlZGbTZBOVMxQjVGRnp0dTVhSFFRdFQwdlREdFk2S2J1TE1RejRRUi0tZERYR3B5dnVCTnFfVThXUTgzbjVRQk5jUW4yckx6c0VmYm5FV0pmbmZadHIwTVEzRTU1RWdrdzlWdEpsVnE1NWR1UjlmcVJYWmlUb0FUOVVGQjMwbjdIUzd4b3M40gHcAUFVX3lxTE9zdDV0Yjk5UDNuMXRuUTBROFo1aHA3VlJOY2Mzc3hBQkNtN1AxU2hJaG53ci10ckY1cFR0M1BPdHRxRTRFNmV1MVdZc0xGT2dJMVBONURWVkZtNkE5UzFCNUZGenR1NWFIUVF0VDB2VER0WTZLYnVMTVF6NFFSLS1kRFhHcHl2dUJOcV9VOFdRODNuNVFCTmNRbjJyTHpzRWZibkVXSmZuZlp0cjBNUTNFNTVFZ2t3OVZ0SmxWcTU1ZHVSOWZxUlhaaVRvQVQ5VUZCMzBuN0hTN3hvczg?oc=5\" target=\"_blank\">Un grupo inversor lanza una oferta millonaria por una histórica empresa de León</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital de León</font>"
+    },
+    {
+      "id": 505591,
+      "story_id": 2339,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90Z1F5ZGIwXzBrNUk1R3lhVUVsWEFOOWJhWHpUNjRGY3BwWWZkU0JnQUhRc3BiOVF4MGFfRXRJTks0a1k3NmYwSzYyOEVNTXhmZGFWVFE3eHlyQ1pUdUZWUlZrc1hBaDZLcHd1NW84QzZCUlE?oc=5",
+      "title": "Biomar styrker innkjøpsavdelingen - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2018-03-17T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE90Z1F5ZGIwXzBrNUk1R3lhVUVsWEFOOWJhWHpUNjRGY3BwWWZkU0JnQUhRc3BiOVF4MGFfRXRJTks0a1k3NmYwSzYyOEVNTXhmZGFWVFE3eHlyQ1pUdUZWUlZrc1hBaDZLcHd1NW84QzZCUlE?oc=5\" target=\"_blank\">Biomar styrker innkjøpsavdelingen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 505792,
+      "story_id": 2338,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0M0QUhoRTQtOUoxaG1QU3ZvMVVHVjJscXNfYlNoVl9nb2ctZHM0YklBYlYwcHJ5WnVjbm9XbUpTZlFpaEw4X2VHcW5QTVptRHpsN2hVUjVWaHN4bVBxbjBvOE41ODhYcG5KRkRXQnJsa1ZNZk5DVWlQSVhsaHFFR2RGVVptdUkyUWJ3YThDZlFYUmw5V1NIQTcwVlEyZjRYXzJVbEpUQzNyRGR1QWFBb2VnUndfLUE?oc=5",
+      "title": "Biomar premia al mejor centro de salmón Coho temporada 2015 - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2016-09-20T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0M0QUhoRTQtOUoxaG1QU3ZvMVVHVjJscXNfYlNoVl9nb2ctZHM0YklBYlYwcHJ5WnVjbm9XbUpTZlFpaEw4X2VHcW5QTVptRHpsN2hVUjVWaHN4bVBxbjBvOE41ODhYcG5KRkRXQnJsa1ZNZk5DVWlQSVhsaHFFR2RGVVptdUkyUWJ3YThDZlFYUmw5V1NIQTcwVlEyZjRYXzJVbEpUQzNyRGR1QWFBb2VnUndfLUE?oc=5\" target=\"_blank\">Biomar premia al mejor centro de salmón Coho temporada 2015</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 505989,
+      "story_id": 514,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQzE3am9mdF9mRGVkZlpTa012YlNNc3J6YVgxUnFuWDYtbjhkd1NhWWpNOTI3eFdBT19CSi1tamoweEVJR1pOaDFUZkFoSjdNUmhTcXNtRmtXQlhma25hREhYOVBMVDdmaGJZd0RVZS1iNHBqTDR2Zk1wTW1pRkhuUlNkM0Z5ZjdRRXl6UElocGhOdG03Q3FNQVlQTGFnX1htMVdrdnY5U1paS2M?oc=5",
+      "title": "Skretting owner under severe internal pressure to drop feed sales to Russia - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-05-12T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQzE3am9mdF9mRGVkZlpTa012YlNNc3J6YVgxUnFuWDYtbjhkd1NhWWpNOTI3eFdBT19CSi1tamoweEVJR1pOaDFUZkFoSjdNUmhTcXNtRmtXQlhma25hREhYOVBMVDdmaGJZd0RVZS1iNHBqTDR2Zk1wTW1pRkhuUlNkM0Z5ZjdRRXl6UElocGhOdG03Q3FNQVlQTGFnX1htMVdrdnY5U1paS2M?oc=5\" target=\"_blank\">Skretting owner under severe internal pressure to drop feed sales to Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 505995,
+      "story_id": 2345,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1cxRzJoMGItU2Z3NF9DQmFId1F0eEtBY291clFlNW9qdWdIcjI1Ny1kX25wR2xaU1NlbUlPeEZxSDFCdW9wV0ZfWWdUQjl2RjBBMDFFUVE1bGl2bDItd050SFd2U0hRdV83aWNTOW9JWVFkazdWYnpEWW9sa2RyVng3bkRxZGpZUFhmMVEtWExENFBScUhsSHNlaUxnbFFkZ0J5ZnZDdG0?oc=5",
+      "title": "Aaron Skretting receives Excellence in Catholic Education Award - Lethbridge News Now",
+      "source_name": "Lethbridge News Now",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-03-27T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1cxRzJoMGItU2Z3NF9DQmFId1F0eEtBY291clFlNW9qdWdIcjI1Ny1kX25wR2xaU1NlbUlPeEZxSDFCdW9wV0ZfWWdUQjl2RjBBMDFFUVE1bGl2bDItd050SFd2U0hRdV83aWNTOW9JWVFkazdWYnpEWW9sa2RyVng3bkRxZGpZUFhmMVEtWExENFBScUhsSHNlaUxnbFFkZ0J5ZnZDdG0?oc=5\" target=\"_blank\">Aaron Skretting receives Excellence in Catholic Education Award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lethbridge News Now</font>"
+    },
+    {
+      "id": 505996,
+      "story_id": 2337,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WaWZMSk5DN1lGRWR1VXpXS0cyUzB6b2k5NmlYZEUyRGEtZDlacUktdVZkTmQ0a01iZUljMjk1QTZmTHZfVmRlMVN2Q3BkTFdSVmtZWjJ3RmlEWUdfTS00TFJHU0FQVmc2NldJc2VvWjM3YlE?oc=5",
+      "title": "Obach takes MD seat at Skretting - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2007-05-04T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1WaWZMSk5DN1lGRWR1VXpXS0cyUzB6b2k5NmlYZEUyRGEtZDlacUktdVZkTmQ0a01iZUljMjk1QTZmTHZfVmRlMVN2Q3BkTFdSVmtZWjJ3RmlEWUdfTS00TFJHU0FQVmc2NldJc2VvWjM3YlE?oc=5\" target=\"_blank\">Obach takes MD seat at Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 505997,
+      "story_id": 2340,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnY1Q1JRTnBFVEVyUGkySE13QWhUTTBGeGMwTldiTElYekhHOWhrUzAza2l1N2NaMzU4OGYyYkpTOHJteGo2U3VJVXMtYXNubjJUQ2R5WWFqYUh1U1RhTjdWU3dCR1V2Nkt1WFBqbC1YUlFTdVJVWTNpRDRTTk9qcm9sVnhpQm5Lem42NmNKemp6d25BNjlOMk0wSGdPVzZWeFV4endheFlOc21EdnA0WFNFaFNhYnNYT1pINW9B?oc=5",
+      "title": "Fish feed suppliers Cargill and Skretting will collaborate on transport of feed in Norway - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2019-02-11T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnY1Q1JRTnBFVEVyUGkySE13QWhUTTBGeGMwTldiTElYekhHOWhrUzAza2l1N2NaMzU4OGYyYkpTOHJteGo2U3VJVXMtYXNubjJUQ2R5WWFqYUh1U1RhTjdWU3dCR1V2Nkt1WFBqbC1YUlFTdVJVWTNpRDRTTk9qcm9sVnhpQm5Lem42NmNKemp6d25BNjlOMk0wSGdPVzZWeFV4endheFlOc21EdnA0WFNFaFNhYnNYT1pINW9B?oc=5\" target=\"_blank\">Fish feed suppliers Cargill and Skretting will collaborate on transport of feed in Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 505998,
+      "story_id": 2344,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTHc0MGJnYVphVUtUcTgtdzEwcEJBUFo1dThEbUotMzVhV3gzRk5mSDdBSm9iMFExNnJFejlmNXRTeVZjWVlTZl84Rjg1cFpUWHdVb3c3UDFJMGNhclY1X0Q2c0lTTDRsR0g4SngwUkVQWXBZUjhfeVJjSDV4SDk4bWQ4VzFWWW5lRy1GZ09ZWlVXWlhxV0Z2TUlrZWtRajVULS1GMG14T3gxNGtzUkhFbkcydzNkSG9sbHNBNVBpNkFmdVA5RHBxT3hyakVsM2gzb2k5bW5PMUQ2U1pLanZjaEVnTnFJTE8zTXJKbHl0MXFzTGVGZGU3T0Vnc2Z3NjDSAYQCQVVfeXFMTXN0UmFLSnJkNFpWcTAyM0k2dUtnbE1lMEVDWkpVMk9OekEzY0JKbzBJYWhrdzhhOTU4RWVfaHFLVDBGdlE3RkRmUFhGTmFkX1lXUmhmdEJzQ29UR01CZjR6WXA5VTJGaXl2TEptX2FQdHBoLWl5YkcyUHREcEJjTDk4RTVfMnd6NFYxbzdFWjAyQ0ZRVkI3anU5dENIYUVhUVlyakJSYnhwbktRbnNXbjduVUlIUGtXTHNBNnJLN3FmME9SWE9kb1puTzUtUHFYdWMteVhqUGJFX2tleElKSVpJaFhoN2I4TzdtWTR2WHFOdG1CbFpTY0ZJdjV0Tl9Ua2d6T3A?oc=5",
+      "title": "Skretting India expands operations with new shrimp and fish feed production site in Surat - Business Standard",
+      "source_name": "Business Standard",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2023-02-22T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTHc0MGJnYVphVUtUcTgtdzEwcEJBUFo1dThEbUotMzVhV3gzRk5mSDdBSm9iMFExNnJFejlmNXRTeVZjWVlTZl84Rjg1cFpUWHdVb3c3UDFJMGNhclY1X0Q2c0lTTDRsR0g4SngwUkVQWXBZUjhfeVJjSDV4SDk4bWQ4VzFWWW5lRy1GZ09ZWlVXWlhxV0Z2TUlrZWtRajVULS1GMG14T3gxNGtzUkhFbkcydzNkSG9sbHNBNVBpNkFmdVA5RHBxT3hyakVsM2gzb2k5bW5PMUQ2U1pLanZjaEVnTnFJTE8zTXJKbHl0MXFzTGVGZGU3T0Vnc2Z3NjDSAYQCQVVfeXFMTXN0UmFLSnJkNFpWcTAyM0k2dUtnbE1lMEVDWkpVMk9OekEzY0JKbzBJYWhrdzhhOTU4RWVfaHFLVDBGdlE3RkRmUFhGTmFkX1lXUmhmdEJzQ29UR01CZjR6WXA5VTJGaXl2TEptX2FQdHBoLWl5YkcyUHREcEJjTDk4RTVfMnd6NFYxbzdFWjAyQ0ZRVkI3anU5dENIYUVhUVlyakJSYnhwbktRbnNXbjduVUlIUGtXTHNBNnJLN3FmME9SWE9kb1puTzUtUHFYdWMteVhqUGJFX2tleElKSVpJaFhoN2I4TzdtWTR2WHFOdG1CbFpTY0ZJdjV0Tl9Ua2d6T3A?oc=5\" target=\"_blank\">Skretting India expands operations with new shrimp and fish feed production site in Surat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>"
+    },
+    {
+      "id": 506093,
+      "story_id": 2346,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYS1iS3hWUGV6X0o0NGlpX3Y3SGI4em03QlVvVm94Wk9hYnZEUVVyMktaUTJVR0RRYUhEQVhyNUwzcGI5aTF4OVpxSzYyMWlkcDA3SVJ0NnBzVXlpNXF3SnJ5MGtMRHdlUjRSWl9NeVRteEt0OVUxUWtEQ0JQbVFXZGwyVmVhc2N5TldMbWVaWkxWTlJNNjBuRS1Yajd6X1VhTkE?oc=5",
+      "title": "Blir sjef for Skrettings globale laksevirksomhet - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-05-02T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYS1iS3hWUGV6X0o0NGlpX3Y3SGI4em03QlVvVm94Wk9hYnZEUVVyMktaUTJVR0RRYUhEQVhyNUwzcGI5aTF4OVpxSzYyMWlkcDA3SVJ0NnBzVXlpNXF3SnJ5MGtMRHdlUjRSWl9NeVRteEt0OVUxUWtEQ0JQbVFXZGwyVmVhc2N5TldMbWVaWkxWTlJNNjBuRS1Yajd6X1VhTkE?oc=5\" target=\"_blank\">Blir sjef for Skrettings globale laksevirksomhet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 506096,
+      "story_id": 2120,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlQ1b2YtTmJqNjkxejBMSWhmUUZHWWFQNnJqZ3R2Q3NuUkp5YUpXaFVTdkVSUTdyN2hrQmFDcEFvMlFnRENGSjhjLVlSdWpvdVo0UmlNdHB0XzlpVDgtNE42QXFYTnRnZjNiY0YyX1RhZ0xNbmEtU2JzMkJSbmNXTUVGUTI3Y05r?oc=5",
+      "title": "Utnevnt til administrerende direktør i Skretting Norge - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-06-17T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlQ1b2YtTmJqNjkxejBMSWhmUUZHWWFQNnJqZ3R2Q3NuUkp5YUpXaFVTdkVSUTdyN2hrQmFDcEFvMlFnRENGSjhjLVlSdWpvdVo0UmlNdHB0XzlpVDgtNE42QXFYTnRnZjNiY0YyX1RhZ0xNbmEtU2JzMkJSbmNXTUVGUTI3Y05r?oc=5\" target=\"_blank\">Utnevnt til administrerende direktør i Skretting Norge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 506097,
+      "story_id": 2341,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTlTQk5QdkFjQkV1cjIwRllRZUNDa2Z5WGRHamw3djRMNHNOYkh1QklMUURWN1l3dW82emtJNXMwVUYxX1pSdWg0OGxETHRiMmhaRDc3RkxEVGhaT1haQy1TNEppd0pDMTVUcUVzUm9YQURZdXhjeVBFQlg1TVNmdXBFTFBqbjU1ejFqRjZFM3JXOXA0NmVGR2Nn?oc=5",
+      "title": "(+) Dette gjør Skretting for å sikre fôrproduksjonen - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-03-17T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTlTQk5QdkFjQkV1cjIwRllRZUNDa2Z5WGRHamw3djRMNHNOYkh1QklMUURWN1l3dW82emtJNXMwVUYxX1pSdWg0OGxETHRiMmhaRDc3RkxEVGhaT1haQy1TNEppd0pDMTVUcUVzUm9YQURZdXhjeVBFQlg1TVNmdXBFTFBqbjU1ejFqRjZFM3JXOXA0NmVGR2Nn?oc=5\" target=\"_blank\">(+) Dette gjør Skretting for å sikre fôrproduksjonen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 506098,
+      "story_id": 2342,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3pwWFV6M0IxbUxYR3dOMkF0U3h5aml6NnZXN2xORUtoSU50NXFNdlNrSFk1eFdoZ3pKeFRFb0dwVGNJUV9WSm1QU0ZhaEhvNkFDU1JJNENGNnJRSWU4MVNacjJSUVRWLVZ2WUR4RkJGbHB1Qm1DM1AxcXNqZnRsVjdvRQ?oc=5",
+      "title": "Håvard Walde blir ny toppsjef i Skretting Norge - Fisk.no",
+      "source_name": "Fisk.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-06-16T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3pwWFV6M0IxbUxYR3dOMkF0U3h5aml6NnZXN2xORUtoSU50NXFNdlNrSFk1eFdoZ3pKeFRFb0dwVGNJUV9WSm1QU0ZhaEhvNkFDU1JJNENGNnJRSWU4MVNacjJSUVRWLVZ2WUR4RkJGbHB1Qm1DM1AxcXNqZnRsVjdvRQ?oc=5\" target=\"_blank\">Håvard Walde blir ny toppsjef i Skretting Norge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fisk.no</font>"
+    },
+    {
+      "id": 506099,
+      "story_id": 1056,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ySGMxUVZRYkVzaFJUX3paVmw4Q0J6dUtocWFrRF9raTh1UVJ1d3p6X1dGWWd1enYzYmlhZGJrNFBUcGV6SGlmQ3R5UTYySkhhWkNZaDRZOGg0V3I3TUpyQ0pjT3hvbzZpX3BIR3FfTnRkeHVB?oc=5",
+      "title": "Skretting-ansatte skifter forbund - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2014-01-30T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ySGMxUVZRYkVzaFJUX3paVmw4Q0J6dUtocWFrRF9raTh1UVJ1d3p6X1dGWWd1enYzYmlhZGJrNFBUcGV6SGlmQ3R5UTYySkhhWkNZaDRZOGg0V3I3TUpyQ0pjT3hvbzZpX3BIR3FfTnRkeHVB?oc=5\" target=\"_blank\">Skretting-ansatte skifter forbund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 506295,
+      "story_id": 2343,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb0trNThhX0lBLXhqSFRwRElnYnIzUXp5dWVuZnVaa3Z2aUpnclBXOHR1QUxtUjZEd2JyeFd1UHo3TElYMVhIOU5WeHA4WDIxMFdWU0V5UlN3Rm1kNVVXTFd4SEVObXBiVU1pRW83akxNV0VyRmJ3UndqWVpEY0lOV1RIRGptNXpIZnB3cEl0LUlLVG1UWkhhb243bXZhSWVsS0dmSHBXZWJWOEM0QTZ5dTBScWpVSkVVSWFkYXNGSXhFT3ZsYkRNMXluUjZuQm56RDJTdy1STFctZVo5UWIxbGt6Ung3MDROdFlJZg?oc=5",
+      "title": "El ambicioso objetivo de incluir materias primas sustentables en alimento para salmones - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-06-16T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb0trNThhX0lBLXhqSFRwRElnYnIzUXp5dWVuZnVaa3Z2aUpnclBXOHR1QUxtUjZEd2JyeFd1UHo3TElYMVhIOU5WeHA4WDIxMFdWU0V5UlN3Rm1kNVVXTFd4SEVObXBiVU1pRW83akxNV0VyRmJ3UndqWVpEY0lOV1RIRGptNXpIZnB3cEl0LUlLVG1UWkhhb243bXZhSWVsS0dmSHBXZWJWOEM0QTZ5dTBScWpVSkVVSWFkYXNGSXhFT3ZsYkRNMXluUjZuQm56RDJTdy1STFctZVo5UWIxbGt6Ung3MDROdFlJZg?oc=5\" target=\"_blank\">El ambicioso objetivo de incluir materias primas sustentables en alimento para salmones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -108545,6 +108998,14 @@
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2007-W18",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
       },
       {
         "week": "2007-W25",
@@ -108896,7 +109357,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2014-W06",
@@ -109501,7 +109962,7 @@
       {
         "week": "2016-W38",
         "Aller Aqua": 1,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -110005,7 +110466,7 @@
       {
         "week": "2018-W11",
         "Aller Aqua": 0,
-        "BioMar": 14,
+        "BioMar": 15,
         "Cargill": 4,
         "Polarfeed": 2,
         "Skretting": 2
@@ -110296,7 +110757,7 @@
         "BioMar": 0,
         "Cargill": 4,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2019-W08",
@@ -110619,6 +111080,14 @@
         "Skretting": 1
       },
       {
+        "week": "2020-W12",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2020-W13",
         "Aller Aqua": 0,
         "BioMar": 2,
@@ -110712,7 +111181,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 5
       },
       {
         "week": "2020-W26",
@@ -111376,7 +111845,7 @@
         "BioMar": 5,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2022-W20",
@@ -111416,7 +111885,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2022-W25",
@@ -111680,7 +112149,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2023-W09",
@@ -112504,7 +112973,7 @@
         "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2025-W14",
@@ -112544,7 +113013,7 @@
         "BioMar": 3,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2025-W19",
@@ -113114,7 +113583,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1669
+        "count": 1671
       },
       {
         "company": "Cargill",
@@ -113126,7 +113595,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1003
+        "count": 1014
       }
     ]
   }
