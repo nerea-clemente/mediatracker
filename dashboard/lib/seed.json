@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T09:50:56+00:00",
+  "generated_at": "2026-09-04T13:36:57+00:00",
   "stats": {
-    "mention_count": 3304,
-    "story_count": 2481,
+    "mention_count": 3312,
+    "story_count": 2489,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -13,6 +13,7 @@
     "ABC",
     "ABC News & Headlines – Australian Broadcasting Corporation",
     "AMWatch",
+    "ANI News",
     "Aftenposten",
     "AftermarketNews",
     "AgFunderNews",
@@ -247,6 +248,7 @@
     "Revista Mercado",
     "Revista Pharma Market",
     "Ringerikes Blad",
+    "Ross-shire Journal",
     "Rubber News",
     "RuhrkanalNews",
     "Salmon Business",
@@ -360,6 +362,7 @@
     "jbl.no",
     "kalkine.ca",
     "kampanje.com",
+    "kommunikasjon.ntb.no",
     "kulingen.no",
     "manilatimes.net",
     "marketscreener.com",
@@ -439,6 +442,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcU5YTDZjSXhTR1ZnQVA0TmRjYjZKMThoYzI3WmJzUTV6WW5KdE9wY2ctRWliXzNNdU9VWVVNUi1rTzNUVHFLNW0tS01RSWQ4VXlsaEhldkZURVI4WUZXSWhDeC04VS03MExqUW1DWTdDSWFaMi1NN2RuczNLUmVxSDhpMnNyaFZqdWQtOWNpb1VGQTl1WmVGSVcxVlZ1NHZTMjN1Q2NpWDd0ejlNLVc5aHd2ajJGWTk4S2I0aGJ5ZkxNSnlHbnJZeHhBXzRHYUczbWdWT0g1akJYS1dDRmVpOGttM0I3TWIyZGtBRzkwVkRzT2RMWk9Z0gH8AUFVX3lxTE50NDlaU2RmZFZMcGZ5Ti1TQ3VCNTRVWDJ0bFBVbXhQZmFmWWdQQm9XVGFGd3Fwci1YZl9qREY3ZThCbkx3dnhJZzVoYy1jMEtaU0oyZ2dIcmw4V2hxUXRJMUstTXNwNlNKUkNqTS1PYU04dDVIMlFHdHo5bHpvbHN1VWxvOHYzaklKcFdfM25rQUlrUEhiWW9XdHNQM1gzeV83MjZ5dkZoXzg1SzQzbEJIN0ZEVWxrZWJrcVVkM0E3QmEyU2dLRDBIZllpY0ZXQkpILUExMno5NUtmYTQyV2lKYjEwSGJPaEg0YUF3eUlXUWp0WktnaUpEcFVsVw?oc=5\" target=\"_blank\">Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
       "first_seen": "2026-09-03T12:37:05+00:00",
       "last_seen": "2026-09-03T12:37:05+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2511,
+      "headline": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - kommunikasjon.ntb.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQT00yV3RtWk13bHh3MVdDQVpGM0ZDbm1yNk0zaEQ4NGJOSnk1eF9IYmY4TXNFSFFQMzNVN29nTkpSX1plLXpOYjJYR01rODZDekZ1M2VNeE9PWWU3MGtOU3NjaEZ1dlBHLVRybEhtLW9pWFNlZHFGblZ3LUJDR1JDVXl1S01tX3p1SDA3RDYwYWEtRFQyZnFjemRFRHNUdFZZWTZGZ1pyMnpRYmFzR0RKQV9reXRMOUVXeXU2TVpLcGZhTTg5ZGcwTXNfcXZuN1hjak9rMTh3MUNwbV9rNHNHMUNGZjN3TVMzeDdxUG9CRUZFZFBSbHdZUEpnSUEwajBCalh6Rw?oc=5\" target=\"_blank\">Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kommunikasjon.ntb.no</font>",
+      "first_seen": "2026-09-03T12:30:00+00:00",
+      "last_seen": "2026-09-03T12:30:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -2959,6 +2976,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5pYWxWNWxPcjVlem9aUExsMTNISG1CWDM5RzR0TGZBb2Etb05pZGNaeG9pMzBGQm5kckFjYXhtTFFFY0phVlg3eEw4U19FQm5KaVZaeGotaml4UndtXzNtaFd2OTFUUmdHRkRoRmljdEdndUh5eE1lVlE4UQ?oc=5\" target=\"_blank\">Skretting tar stoffer fra hele planter inn i helsefôr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
       "first_seen": "2026-06-11T07:05:22+00:00",
       "last_seen": "2026-06-11T07:05:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2510,
+      "headline": "– Næringen trenger flere verktøy - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGt1RHpJay1tS2J4c2NqQ1paZEo0SFBRTDVPUTZvUktYclVyTGNRcFUtTFNobGNEQkk4SkZOS0FRb2w4UlNJQ1ByWEl2WUxlSTRtdURyWncybmx0cUlXOGc0eWdHVmFsZVdzdnNzMVdUMGoyQVY1QTM2dmFhVmFMdmRhUHZfdV9yc2dYeGhzaG5HZTZmSFBrRw?oc=5\" target=\"_blank\">– Næringen trenger flere verktøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2026-06-11T07:00:00+00:00",
+      "last_seen": "2026-06-11T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -16639,6 +16670,20 @@
       "company": "Aller Aqua"
     },
     {
+      "id": 2509,
+      "headline": "Blå-grønt fôrsamarbeid - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1DT1h4b2xvMlVqakN6QVpuN040aVNVNkhaYU5pQzdNU1pfanNTZnd2VUVhS1hoVElHOFEza0hldTdpYXJ1QUtYYVhDWVRLWTRmUzk1SFhMVEFCSVQxMThNYXlzS0dJUWwtSllKLUN6blM2c3kyVkM4YzNzOGk?oc=5\" target=\"_blank\">Blå-grønt fôrsamarbeid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2024-06-14T07:00:00+00:00",
+      "last_seen": "2024-06-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 115,
       "headline": "Blå-grønt fôrsamarbeid | Miljøstiftelsen Bellona - NTB Kommunikasjon",
       "story_summary": "Miljøstiftelsen Bellona highlights a blue-green feed collaboration initiative related to sustainable aquaculture practices. BioMar is referenced in connection with this environmental partnership on aquaculture feed development.",
@@ -20839,6 +20884,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2508,
+      "headline": "Skretting contributes to Atmanirbhar Bharat with Euro 18.5 million investment in new shrimp and fish feed facility in Mangrol - ANI News",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmRYcU5zZWQ1dEdVMHJhM181Sk5tSG5PTE5tT2JEQ3VaLTZld0ZoSDFMVnhLMEpVXzNZUVpMQWd1b0piVGlfSlFQYzN1RXZSbVhwbW15OHFpc3lHUS1mMWZjbVdJcG1YVDdjbDJLZ1FRTHY3emdCVk4tS0lqenBXVmZQOVh2MUhzbHhvOVctZmdEamJZOG9YQlVoLUk0VFdBdDJ6Q3BoanpaQUItNm9UMkdkUDlTTHhaLUVMdnJhY3dHX3FBUmk2cW13dk85YzBKQ1g5S0lnNGttZmF3RTlBNFhia05DT2NPSHhjRGlrX0NUOEFoSzNJejZzNHRVTzU1dWxsLTZJMU41czdKaXhnMFp3?oc=5\" target=\"_blank\">Skretting contributes to Atmanirbhar Bharat with Euro 18.5 million investment in new shrimp and fish feed facility in Mangrol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+      "first_seen": "2023-02-09T08:00:00+00:00",
+      "last_seen": "2023-02-09T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 540,
       "headline": "Minneord, Nekrolog | Vår gode og gilde venn Sveinung Skretting er død - Jærbladet",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFo1dkZTYmM2VGJBZTQ3WmZJbWZjLUFWMkpOenkyTERpeDI4S3Q2LUw1R2lHLWJMdVZGdXhraUlNcmZERUVkU3dmUW1ZMGVCbWxjMzhTXzNyWUlmM2RlUzUwRVdsV3QzdERLbjQ0NDE3N2VScDZQOFQ2LWFJRUgtR1hISmFsMDREMnc?oc=5\" target=\"_blank\">Minneord, Nekrolog | Vår gode og gilde venn Sveinung Skretting er død</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jærbladet</font>",
@@ -22394,6 +22453,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2507,
+      "headline": "Nutreco to stop trade with Russia after selling assets - fishfarmingexpert.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXJsNHdST0tLM0p3eW0zSTVPVVp3U2tBVjBGLWtfMzdoYUZLc0Z2bTBENmw1MUwySGFOTEpjM0UwbEVBZkI1X2I4emNjU3ZLelJQSWpYNkJsaFgzTUp2dm8zb3g1bmd1Q0xkT28tRWgxUVNIYzJUUTBfQW1XZ2lOdmFkYXprdHpBU1lRVGVOMHVEaFVJdThIdFYtSE9FQ3pLQmhCSzNXaENldzRLU01mT0x3VVdsbjg2ekhNLWVoNVk?oc=5\" target=\"_blank\">Nutreco to stop trade with Russia after selling assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fishfarmingexpert.com</font>",
+      "first_seen": "2022-06-10T07:00:00+00:00",
+      "last_seen": "2022-06-10T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1108,
       "headline": "Aller Aqua acquires trout business - SeafoodSource",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcFJwWWlFNDBtS0tBRGpabEsyUEJ0NHZ5VzRhdXdaVkZWeEx1WFU5bnZhT1lfcDh0Umd4dW1nQmoxQ2xDMG5XT3VtaDAtbVpBUm1Fd1M0U3I4Y2s4MWw3OWxCazdpVGhXYnRjUjJNS2Q5bHUwbW9vVl9UWEpsRDlLa01uT05qWkFacE5ONGxHUQ?oc=5\" target=\"_blank\">Aller Aqua acquires trout business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
@@ -23484,6 +23557,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2506,
+      "headline": "Solgte fiskefôr for 9,5 milliarder kroner - kulingen.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUM5dWM3czM1emR2YUI0SkJqWHlWSlQ2ekNyRFgtb1JBVEQ3cl9GUDk3RHo4aExQcENJWHBSOExXWmNHMnprZDRTZS1BeUhLSnpYV3ZoekpHcmlQS0UwOERod1FWN0dqSFB3bmw1UUp4WTd1cmNNUUJGZkVxS3c4dGxEcFZpalNON0RrMjFZWQ?oc=5\" target=\"_blank\">Solgte fiskefôr for 9,5 milliarder kroner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kulingen.no</font>",
+      "first_seen": "2022-01-17T08:00:00+00:00",
+      "last_seen": "2022-01-17T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 507,
@@ -27595,6 +27682,20 @@
       "id": 2389,
       "headline": "Skretting vil fortsette å påvirke lokale leverandører i Brasil - Kyst.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2NGMklMZ013RVBUT2U5LTdSWmNrSHNwWUZBeW1qdkFmVENNOWh0Wmt2MHdjak5YRllPaDIyby0zbXVfZ2hJNHh1dWdYc0NkN0VpbS1UVjJ1dkF0NkVqbEQ1cG5QRmJCUGx6TVlsZUxKcGFRMG9lSU5LWE1qdGFNeF9rZGlIbGtkM2drTzRNSTNsalVpZldYazBjaVNOdHBfUkpYRm11RQ?oc=5\" target=\"_blank\">Skretting vil fortsette å påvirke lokale leverandører i Brasil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2019-09-20T07:00:00+00:00",
+      "last_seen": "2019-09-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2505,
+      "headline": "Invergordon fish feed plant set to re-open under new ownership - Ross-shire Journal",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGNUOHdqWHQ0Rm1FNWtWN2dObVNrUXJTcWRseElYRWptS09xZURIbHhMTW90N0lnRmc1d2VjUVN0ZVBtSVZZZDBQNlRxM05FcWM3aWtuTGtTWjBBWXZjUjhlbHlIMGFmMHdrMFJrVW56Z0dZaVZBNm5XYnMyS1AyNmtjSnZsVXdOeENjMHBmREVZMXdPdExiZllaeVgzZnRRSllDVGZXanJXbW1maGRybw?oc=5\" target=\"_blank\">Invergordon fish feed plant set to re-open under new ownership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ross-shire Journal</font>",
       "first_seen": "2019-09-20T07:00:00+00:00",
       "last_seen": "2019-09-20T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -34213,6 +34314,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2504,
+      "headline": "Pharmaq Puerto Montt cuenta con nuevo gerente comercial - SoyChile.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUE1tbFcwVnVvRVZxUFNMNTQ0RFpLc3lLWmdsYXpKT3JhOUFBSVVZbWxYLWxGZUFld3pjVE9FanlCU2RMYk9IbGJyVXBxY05LMldJdmFIR1hvSDVmd0R2NnZUWFN5ajZ4clVPYVNGWnlXWVVSWjlRWkp1SVNxSXBQVjh0QkppZFdpbjJZT0FiRzZKVUxmSmJZMHRpS1lPMFRfUDJ1aktscTAwX2l4dnFualROUUFKQzZiRU5RTTZsQ2pBSjRoajBCc2FDdnpmZkFV?oc=5\" target=\"_blank\">Pharmaq Puerto Montt cuenta con nuevo gerente comercial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SoyChile.cl</font>",
+      "first_seen": "2013-10-24T07:00:00+00:00",
+      "last_seen": "2013-10-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1762,
@@ -115221,6 +115336,198 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLV8xYWRySVVMSzhOV2REZmtUQmR2MDFINURLU3NKZURuYjhPaEtralFSaUs2Um5jcV8xRERpQWRMaFlaVG14V2dNZlNnRjdHUkRRWDBxdFo5SEswR0pUQWcwaVBJNEMzTkNqWjhTNWUyUHdpZ2wzYnl5dWZvUXpIUUYtdjFhRkFXcnlacEFhU0Z5NU15LWNsMktOUFF0QWlSRVlUTDdUY3pibkJHMWJsb3B3c0NDaEZWQkhkajhjSjRjbW1kTTNGUg?oc=5\" target=\"_blank\">Skretting Chile reconoce a cinco empresas por sus destacados resultados productivos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 511578,
+      "story_id": 2509,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DT1h4b2xvMlVqakN6QVpuN040aVNVNkhaYU5pQzdNU1pfanNTZnd2VUVhS1hoVElHOFEza0hldTdpYXJ1QUtYYVhDWVRLWTRmUzk1SFhMVEFCSVQxMThNYXlzS0dJUWwtSllKLUN6blM2c3kyVkM4YzNzOGk?oc=5",
+      "title": "Blå-grønt fôrsamarbeid - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-06-14T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1DT1h4b2xvMlVqakN6QVpuN040aVNVNkhaYU5pQzdNU1pfanNTZnd2VUVhS1hoVElHOFEza0hldTdpYXJ1QUtYYVhDWVRLWTRmUzk1SFhMVEFCSVQxMThNYXlzS0dJUWwtSllKLUN6blM2c3kyVkM4YzNzOGk?oc=5\" target=\"_blank\">Blå-grønt fôrsamarbeid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 511775,
+      "story_id": 2504,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUE1tbFcwVnVvRVZxUFNMNTQ0RFpLc3lLWmdsYXpKT3JhOUFBSVVZbWxYLWxGZUFld3pjVE9FanlCU2RMYk9IbGJyVXBxY05LMldJdmFIR1hvSDVmd0R2NnZUWFN5ajZ4clVPYVNGWnlXWVVSWjlRWkp1SVNxSXBQVjh0QkppZFdpbjJZT0FiRzZKVUxmSmJZMHRpS1lPMFRfUDJ1aktscTAwX2l4dnFualROUUFKQzZiRU5RTTZsQ2pBSjRoajBCc2FDdnpmZkFV?oc=5",
+      "title": "Pharmaq Puerto Montt cuenta con nuevo gerente comercial - SoyChile.cl",
+      "source_name": "SoyChile.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2013-10-24T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUE1tbFcwVnVvRVZxUFNMNTQ0RFpLc3lLWmdsYXpKT3JhOUFBSVVZbWxYLWxGZUFld3pjVE9FanlCU2RMYk9IbGJyVXBxY05LMldJdmFIR1hvSDVmd0R2NnZUWFN5ajZ4clVPYVNGWnlXWVVSWjlRWkp1SVNxSXBQVjh0QkppZFdpbjJZT0FiRzZKVUxmSmJZMHRpS1lPMFRfUDJ1aktscTAwX2l4dnFualROUUFKQzZiRU5RTTZsQ2pBSjRoajBCc2FDdnpmZkFV?oc=5\" target=\"_blank\">Pharmaq Puerto Montt cuenta con nuevo gerente comercial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SoyChile.cl</font>"
+    },
+    {
+      "id": 511875,
+      "story_id": 2511,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT00yV3RtWk13bHh3MVdDQVpGM0ZDbm1yNk0zaEQ4NGJOSnk1eF9IYmY4TXNFSFFQMzNVN29nTkpSX1plLXpOYjJYR01rODZDekZ1M2VNeE9PWWU3MGtOU3NjaEZ1dlBHLVRybEhtLW9pWFNlZHFGblZ3LUJDR1JDVXl1S01tX3p1SDA3RDYwYWEtRFQyZnFjemRFRHNUdFZZWTZGZ1pyMnpRYmFzR0RKQV9reXRMOUVXeXU2TVpLcGZhTTg5ZGcwTXNfcXZuN1hjak9rMTh3MUNwbV9rNHNHMUNGZjN3TVMzeDdxUG9CRUZFZFBSbHdZUEpnSUEwajBCalh6Rw?oc=5",
+      "title": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - kommunikasjon.ntb.no",
+      "source_name": "kommunikasjon.ntb.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-09-03T12:30:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQT00yV3RtWk13bHh3MVdDQVpGM0ZDbm1yNk0zaEQ4NGJOSnk1eF9IYmY4TXNFSFFQMzNVN29nTkpSX1plLXpOYjJYR01rODZDekZ1M2VNeE9PWWU3MGtOU3NjaEZ1dlBHLVRybEhtLW9pWFNlZHFGblZ3LUJDR1JDVXl1S01tX3p1SDA3RDYwYWEtRFQyZnFjemRFRHNUdFZZWTZGZ1pyMnpRYmFzR0RKQV9reXRMOUVXeXU2TVpLcGZhTTg5ZGcwTXNfcXZuN1hjak9rMTh3MUNwbV9rNHNHMUNGZjN3TVMzeDdxUG9CRUZFZFBSbHdZUEpnSUEwajBCalh6Rw?oc=5\" target=\"_blank\">Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kommunikasjon.ntb.no</font>"
+    },
+    {
+      "id": 511960,
+      "story_id": 2507,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXJsNHdST0tLM0p3eW0zSTVPVVp3U2tBVjBGLWtfMzdoYUZLc0Z2bTBENmw1MUwySGFOTEpjM0UwbEVBZkI1X2I4emNjU3ZLelJQSWpYNkJsaFgzTUp2dm8zb3g1bmd1Q0xkT28tRWgxUVNIYzJUUTBfQW1XZ2lOdmFkYXprdHpBU1lRVGVOMHVEaFVJdThIdFYtSE9FQ3pLQmhCSzNXaENldzRLU01mT0x3VVdsbjg2ekhNLWVoNVk?oc=5",
+      "title": "Nutreco to stop trade with Russia after selling assets - fishfarmingexpert.com",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2022-06-10T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXJsNHdST0tLM0p3eW0zSTVPVVp3U2tBVjBGLWtfMzdoYUZLc0Z2bTBENmw1MUwySGFOTEpjM0UwbEVBZkI1X2I4emNjU3ZLelJQSWpYNkJsaFgzTUp2dm8zb3g1bmd1Q0xkT28tRWgxUVNIYzJUUTBfQW1XZ2lOdmFkYXprdHpBU1lRVGVOMHVEaFVJdThIdFYtSE9FQ3pLQmhCSzNXaENldzRLU01mT0x3VVdsbjg2ekhNLWVoNVk?oc=5\" target=\"_blank\">Nutreco to stop trade with Russia after selling assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fishfarmingexpert.com</font>"
+    },
+    {
+      "id": 511970,
+      "story_id": 2508,
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmRYcU5zZWQ1dEdVMHJhM181Sk5tSG5PTE5tT2JEQ3VaLTZld0ZoSDFMVnhLMEpVXzNZUVpMQWd1b0piVGlfSlFQYzN1RXZSbVhwbW15OHFpc3lHUS1mMWZjbVdJcG1YVDdjbDJLZ1FRTHY3emdCVk4tS0lqenBXVmZQOVh2MUhzbHhvOVctZmdEamJZOG9YQlVoLUk0VFdBdDJ6Q3BoanpaQUItNm9UMkdkUDlTTHhaLUVMdnJhY3dHX3FBUmk2cW13dk85YzBKQ1g5S0lnNGttZmF3RTlBNFhia05DT2NPSHhjRGlrX0NUOEFoSzNJejZzNHRVTzU1dWxsLTZJMU41czdKaXhnMFp3?oc=5",
+      "title": "Skretting contributes to Atmanirbhar Bharat with Euro 18.5 million investment in new shrimp and fish feed facility in Mangrol - ANI News",
+      "source_name": "ANI News",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2023-02-09T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOcmRYcU5zZWQ1dEdVMHJhM181Sk5tSG5PTE5tT2JEQ3VaLTZld0ZoSDFMVnhLMEpVXzNZUVpMQWd1b0piVGlfSlFQYzN1RXZSbVhwbW15OHFpc3lHUS1mMWZjbVdJcG1YVDdjbDJLZ1FRTHY3emdCVk4tS0lqenBXVmZQOVh2MUhzbHhvOVctZmdEamJZOG9YQlVoLUk0VFdBdDJ6Q3BoanpaQUItNm9UMkdkUDlTTHhaLUVMdnJhY3dHX3FBUmk2cW13dk85YzBKQ1g5S0lnNGttZmF3RTlBNFhia05DT2NPSHhjRGlrX0NUOEFoSzNJejZzNHRVTzU1dWxsLTZJMU41czdKaXhnMFp3?oc=5\" target=\"_blank\">Skretting contributes to Atmanirbhar Bharat with Euro 18.5 million investment in new shrimp and fish feed facility in Mangrol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>"
+    },
+    {
+      "id": 511972,
+      "story_id": 2505,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGNUOHdqWHQ0Rm1FNWtWN2dObVNrUXJTcWRseElYRWptS09xZURIbHhMTW90N0lnRmc1d2VjUVN0ZVBtSVZZZDBQNlRxM05FcWM3aWtuTGtTWjBBWXZjUjhlbHlIMGFmMHdrMFJrVW56Z0dZaVZBNm5XYnMyS1AyNmtjSnZsVXdOeENjMHBmREVZMXdPdExiZllaeVgzZnRRSllDVGZXanJXbW1maGRybw?oc=5",
+      "title": "Invergordon fish feed plant set to re-open under new ownership - Ross-shire Journal",
+      "source_name": "Ross-shire Journal",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2019-09-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGNUOHdqWHQ0Rm1FNWtWN2dObVNrUXJTcWRseElYRWptS09xZURIbHhMTW90N0lnRmc1d2VjUVN0ZVBtSVZZZDBQNlRxM05FcWM3aWtuTGtTWjBBWXZjUjhlbHlIMGFmMHdrMFJrVW56Z0dZaVZBNm5XYnMyS1AyNmtjSnZsVXdOeENjMHBmREVZMXdPdExiZllaeVgzZnRRSllDVGZXanJXbW1maGRybw?oc=5\" target=\"_blank\">Invergordon fish feed plant set to re-open under new ownership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ross-shire Journal</font>"
+    },
+    {
+      "id": 511981,
+      "story_id": 2510,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGt1RHpJay1tS2J4c2NqQ1paZEo0SFBRTDVPUTZvUktYclVyTGNRcFUtTFNobGNEQkk4SkZOS0FRb2w4UlNJQ1ByWEl2WUxlSTRtdURyWncybmx0cUlXOGc0eWdHVmFsZVdzdnNzMVdUMGoyQVY1QTM2dmFhVmFMdmRhUHZfdV9yc2dYeGhzaG5HZTZmSFBrRw?oc=5",
+      "title": "– Næringen trenger flere verktøy - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-11T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGt1RHpJay1tS2J4c2NqQ1paZEo0SFBRTDVPUTZvUktYclVyTGNRcFUtTFNobGNEQkk4SkZOS0FRb2w4UlNJQ1ByWEl2WUxlSTRtdURyWncybmx0cUlXOGc0eWdHVmFsZVdzdnNzMVdUMGoyQVY1QTM2dmFhVmFMdmRhUHZfdV9yc2dYeGhzaG5HZTZmSFBrRw?oc=5\" target=\"_blank\">– Næringen trenger flere verktøy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 512262,
+      "story_id": 2506,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUM5dWM3czM1emR2YUI0SkJqWHlWSlQ2ekNyRFgtb1JBVEQ3cl9GUDk3RHo4aExQcENJWHBSOExXWmNHMnprZDRTZS1BeUhLSnpYV3ZoekpHcmlQS0UwOERod1FWN0dqSFB3bmw1UUp4WTd1cmNNUUJGZkVxS3c4dGxEcFZpalNON0RrMjFZWQ?oc=5",
+      "title": "Solgte fiskefôr for 9,5 milliarder kroner - kulingen.no",
+      "source_name": "kulingen.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-01-17T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUM5dWM3czM1emR2YUI0SkJqWHlWSlQ2ekNyRFgtb1JBVEQ3cl9GUDk3RHo4aExQcENJWHBSOExXWmNHMnprZDRTZS1BeUhLSnpYV3ZoekpHcmlQS0UwOERod1FWN0dqSFB3bmw1UUp4WTd1cmNNUUJGZkVxS3c4dGxEcFZpalNON0RrMjFZWQ?oc=5\" target=\"_blank\">Solgte fiskefôr for 9,5 milliarder kroner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kulingen.no</font>"
     }
   ],
   "share_of_voice": {
@@ -115667,7 +115974,7 @@
       {
         "week": "2013-W43",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -117390,7 +117697,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2019-W39",
@@ -118204,7 +118511,7 @@
         "week": "2022-W03",
         "Aller Aqua": 0,
         "BioMar": 2,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 2
       },
@@ -118350,7 +118657,7 @@
         "BioMar": 0,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2022-W24",
@@ -118606,7 +118913,7 @@
         "BioMar": 0,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2023-W07",
@@ -119131,7 +119438,7 @@
       {
         "week": "2024-W24",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 0
@@ -119950,7 +120257,7 @@
         "BioMar": 42,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 14
+        "Skretting": 15
       },
       {
         "week": "2026-W25",
@@ -120043,7 +120350,7 @@
       {
         "week": "2026-W36",
         "Aller Aqua": 0,
-        "BioMar": 18,
+        "BioMar": 19,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 1
@@ -120056,11 +120363,11 @@
       },
       {
         "company": "BioMar",
-        "count": 1773
+        "count": 1776
       },
       {
         "company": "Cargill",
-        "count": 301
+        "count": 302
       },
       {
         "company": "Polarfeed",
@@ -120068,7 +120375,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1074
+        "count": 1078
       }
     ]
   }
