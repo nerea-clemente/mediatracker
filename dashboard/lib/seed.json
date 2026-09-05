@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-05T09:13:16+00:00",
+  "generated_at": "2026-09-05T12:51:36+00:00",
   "stats": {
-    "mention_count": 3318,
-    "story_count": 2492,
+    "mention_count": 3319,
+    "story_count": 2493,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -394,6 +394,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2515,
+      "headline": "ETFs Investing in Schouw & Co Stocks - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE14LTY3eE55LVZLaDlIajdNV09RVlpiMkV3UVJoamg3QVZ4VWVQc212eFVUdXVkenluZ0Jja3B3dHVWQ0ZUSFlfOWlLejkzZHlnNXJ2czFIbXVQSGF0R1E?oc=5\" target=\"_blank\">ETFs Investing in Schouw & Co Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-09-04T22:10:01+00:00",
+      "last_seen": "2026-09-04T22:10:01+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2492,
       "headline": "Skretting abre venta de entradas para Sustainability & Innovation Conference 2026 - mundoacuicola.cl",
@@ -115714,6 +115728,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdDQ5WlNkZmRWTHBmeU4tU0N1QjU0VVgydGxQVW14UGZhZllnUEJvV1RhRndxcHItWGZfakRGN2U4Qm5Md3Z4SWc1aGMtYzBLWlNKMmdnSHJsOFdocVF0STFLLU1zcDZTSlJDak0tT2FNOHQ1SDJRR3R6OWx6b2xzdVVsbzh2M2pJSnBXXzNua0FJa1BIYllvV3RzUDNYM3lfNzI2eXZGaF84NUs0M2xCSDdGRFVsa2Via3FVZDNBN0JhMlNnS0QwSGZZaWNGV0JKSC1BMTJ6OTVLZmE0MldpSmIxMEhiT2hINGFBd3lJV1FqdFpLZ2lKRHBVbFfSAfwBQVVfeXFMTnQ0OVpTZGZkVkxwZnlOLVNDdUI1NFVYMnRsUFVteFBmYWZZZ1BCb1dUYUZ3cXByLVhmX2pERjdlOEJuTHd2eElnNWhjLWMwS1pTSjJnZ0hybDhXaHFRdEkxSy1Nc3A2U0pSQ2pNLU9hTTh0NUgyUUd0ejlsem9sc3VVbG84djNqSUpwV18zbmtBSWtQSGJZb1d0c1AzWDN5XzcyNnl2RmhfODVLNDNsQkg3RkRVbGtlYmtxVWQzQTdCYTJTZ0tEMEhmWWljRldCSkgtQTEyejk1S2ZhNDJXaUpiMTBIYk9oSDRhQXd5SVdRanRaS2dpSkRwVWxX?oc=5\" target=\"_blank\">Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 514690,
+      "story_id": 2515,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14LTY3eE55LVZLaDlIajdNV09RVlpiMkV3UVJoamg3QVZ4VWVQc212eFVUdXVkenluZ0Jja3B3dHVWQ0ZUSFlfOWlLejkzZHlnNXJ2czFIbXVQSGF0R1E?oc=5",
+      "title": "ETFs Investing in Schouw & Co Stocks - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-04T22:10:01+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE14LTY3eE55LVZLaDlIajdNV09RVlpiMkV3UVJoamg3QVZ4VWVQc212eFVUdXVkenluZ0Jja3B3dHVWQ0ZUSFlfOWlLejkzZHlnNXJ2czFIbXVQSGF0R1E?oc=5\" target=\"_blank\">ETFs Investing in Schouw & Co Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
     }
   ],
   "share_of_voice": {
@@ -120536,7 +120574,7 @@
       {
         "week": "2026-W36",
         "Aller Aqua": 0,
-        "BioMar": 21,
+        "BioMar": 22,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -120549,7 +120587,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1779
+        "count": 1780
       },
       {
         "company": "Cargill",
