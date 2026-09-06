@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T13:00:47+00:00",
+  "generated_at": "2026-09-06T18:06:15+00:00",
   "stats": {
-    "mention_count": 3330,
-    "story_count": 2499,
+    "mention_count": 3339,
+    "story_count": 2506,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -354,6 +354,7 @@
     "fjt.no",
     "folkebladet.no",
     "foodagribusiness.world",
+    "fooddigital.com",
     "fvn.no",
     "gat.no",
     "heraldo.es",
@@ -370,6 +371,7 @@
     "marketscreener.com",
     "mercado.com.ar",
     "misPeces",
+    "mispeces.com",
     "moncloa.com",
     "mundoacuicola.cl",
     "navarratelevision.es",
@@ -396,6 +398,62 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2528,
+      "headline": "IFFO acoge satisfactoriamente la iniciativa de BioMar y WFM de emplear subproductos - mispeces.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3FBc1p2d0tkWGpZcG8zZDRJLUthRVNJQzNKYnQwZGRvZW1qdF8wQVo4OEI2V1U0WVBtYXpTWUZWeVJraHFmcU1MUFl2NWwxRHRfeXBUNnQyamRHTW8tV3VOVmhXOG5rT1k5ZldVbVRVbVJtZmxJYktoZmhsbXdmcnEzZUctTW9MMVYtWFdiTFFiRHV6T1RLcjhxT3RCRHNGZGJDUHFabVM1YTQ0RVd4NmZOdkdGXzJOVlE?oc=5\" target=\"_blank\">IFFO acoge satisfactoriamente la iniciativa de BioMar y WFM de emplear subproductos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mispeces.com</font>",
+      "first_seen": "2026-09-06T14:59:46+00:00",
+      "last_seen": "2026-09-06T14:59:46+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2527,
+      "headline": "Skretting combina herramientas inteligentes para ofrecer soluciones optimizadas y soporte proactivo in-situ - mispeces.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRHIxa2dtTlVzNTVvUXFKcHdYc0tnMnBaWnU0OFN6YjBtVks0eUlaNFd5UXEyQzI1akhFdmJPdWQtWmdsX2NYWjZJSzdRX1lBb3pFS0NGU3VfdEtUMjZLZzh6Q3NlY0xSR0pLYUFGc3lxNzFZejFaRUl6NGJNRW9mNzJCSjVzZFZwQlNQSTVlcFdSOGRRN01SdUVncmVfdUdfUEdSYWRWZ0hKd3M5MDJUdXp6Z2pkdVVvOVZGbTVpMkNvclpnM1BhZ0J2c3RYaTBNeDVtdFVfZUVsUQ?oc=5\" target=\"_blank\">Skretting combina herramientas inteligentes para ofrecer soluciones optimizadas y soporte proactivo in-situ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mispeces.com</font>",
+      "first_seen": "2026-09-06T14:52:11+00:00",
+      "last_seen": "2026-09-06T14:52:11+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2526,
+      "headline": "BioMar Group completa con éxito sus pruebas de harina de insectos en recetas de acuicultura - mispeces.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVhGbHVaS1dZbktmVVpDeWp5OWI5WGwySHRpUkdQWGM1dHUtdzVfcnJERXNsVXNOS3RfYm9PY3QtRF9RdEszVWVpSGdsRzA1QzZQcTVlRFJoSjhsd2t3bU9KNWE1bVB4MFhtQmZPeTVwVnVkRkhmcFNPLTBnUVQzV0QySFJrZmh3TFQtWFNaYm1aSmNUQWJYbGlEY2JxWTI5WFVqYXdwclBNV19DMnVHQUZKWVRWLTE4MGVYUjBMR0oyY1Uy?oc=5\" target=\"_blank\">BioMar Group completa con éxito sus pruebas de harina de insectos en recetas de acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mispeces.com</font>",
+      "first_seen": "2026-09-06T13:37:28+00:00",
+      "last_seen": "2026-09-06T13:37:28+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2525,
+      "headline": "BioMar Group crea un grupo de expertos para acelerar la próxima generación de piensos para RAS - mispeces.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3FQU2tHZlZBbEFiUkduRW1YNkh2aTJTNUE1SkpsZWJSOGh4ZldmYl9ZeWE2U0pQcHNsTWttX2EyejE1WHNuWE8tcVJsX0VCclhiRWtWanJaUVlqQnpfaFd3OUdYWDhuVGM5SktSQ0ZMYXByNkd1RFM2cHR6Z25OR2tmamNMTmo2TkJTQ3NwZk5rcTlobW5rd2dnYUJyRGVCTjhQTHExUmJCXy1RTDdnQkxhbDNLTEFXLUJYQ25TUGNFNXBmMDZ1aw?oc=5\" target=\"_blank\">BioMar Group crea un grupo de expertos para acelerar la próxima generación de piensos para RAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mispeces.com</font>",
+      "first_seen": "2026-09-06T11:27:04+00:00",
+      "last_seen": "2026-09-06T11:27:04+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2521,
       "headline": "Vidar Skretting (NOR), -90kg, judo career - JudoInside.com",
@@ -510,15 +568,15 @@
     },
     {
       "id": 2514,
-      "headline": "Free cash flow per share of Schouw & Co – HAM:5RF - TradingView",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORlk4OFdPYTBiZ1FiT1hDUFlyYUYzekNUM0cxMm1BbkZTaW04b1VJcmUxMUNaZjg2VFo3TE51UVBJR2ljZTM3ZjlybFJSbU5iS29aeHRXcmt1d1p5VTQxcnYzbEhXYkxxWUlpWXdSY2tZTi1DLWpwQ0dSYVl3MFVkNjRRdTRjSWx2bGNRSlpOVktTallvMXBycGl5M29EZFBVMVVORA?oc=5\" target=\"_blank\">Free cash flow per share of Schouw & Co – HAM:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "first_seen": "2026-09-03T08:56:56+00:00",
+      "headline": "Price to earnings forward of Schouw & Co – HAM:5RF - TradingView",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlc1SkE0NzdYNWQ4S21oUW1SeGxkZm5qU1Q3NGY2N2V2OExtSk1GNnJWcHM3RWdZVkZBOU5wZ1B1bGtleUt0ek5yS1BoaWNTU0daUVVBV1JaWmN4WnhqdUdtQkFvMEE4NkRiOUN6MTFZX3NMTG5UUmhEaEZ1NjQ4bU1OcG1BdEpZdW9yTXN3QnBWUExEOHJEZHJjZ00?oc=5\" target=\"_blank\">Price to earnings forward of Schouw & Co – HAM:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "first_seen": "2026-09-03T07:13:29+00:00",
       "last_seen": "2026-09-03T08:56:56+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -17185,7 +17243,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -17685,6 +17743,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPc0M5Sl9vT0ZCYXRmSW0xbWxJR0paUUNIM1c2UHNuQUZjcEowT2hRc0syUWN2R3kzWDJRVzBiY0RJaEtNektuU1hsZmFCNG1jRVBFd3A0UHV2RXIzY0xnZzg4a2VWeGJRb196NEl0V05fSU9fRncxR3Iwa25XNGlnLUFIb3dFbVZ6X3dHRQ?oc=5\" target=\"_blank\">Skretting gjenvalgt som styreleder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Norsk Lokalradioforbund</font>",
       "first_seen": "2024-03-16T07:00:00+00:00",
       "last_seen": "2024-03-16T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2524,
+      "headline": "Self-imposed restrictions reduce flexibility in raw material basket, Skretting says - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHVUTThyckdIeXhSXzJteTJOWWoxT0ZjZF85WkRCTm53alhyVDJocWM2TFMyc2pxT2VPMlA4YlBqZS12ZmxBb0FfQWlKaGhhM25QTjdmczNQUUt4U25jaXRoUmZ3RmJFdE9LQWw2WlRRVE1VNnh4RTQzdUp5VVlLd3pob1hxcGxTb3JjbGdsWXI3T0EtLWZqYUtxTEhPVXN3bU9ocWdKS2FaN3M0QXRsaExha0s4eFBFc08yaDRvem9wcWdKeW81TTl2dw?oc=5\" target=\"_blank\">Self-imposed restrictions reduce flexibility in raw material basket, Skretting says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2024-03-13T07:00:00+00:00",
+      "last_seen": "2024-03-13T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -26713,6 +26785,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2523,
+      "headline": "Cargill expands aquaculture offer with purchase of Norwegian fish-feed producer EWOS - fooddigital.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRFVkcGhRRU05Y3dQUVh5Qlk4TTc3XzBKNTg4MlZZSVBFYjNJQjlSUDJQVGtvMWdDUVg3eEpoOHIzVTh4MmVEUnVLQjJzYWhOenBQaHU3cmhBR0hXNjhCVlRuRmpnUWd2Q2xVRFB0ZUJiSUQwMDJCWFBWbGhrbzV2elpYbkFkWmtFU205a0QyMTJaeVBLNHJsOGxWdG53WVNyUnFMZlpFVWpBMm9uQzlOWHpR?oc=5\" target=\"_blank\">Cargill expands aquaculture offer with purchase of Norwegian fish-feed producer EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fooddigital.com</font>",
+      "first_seen": "2020-05-17T07:00:00+00:00",
+      "last_seen": "2020-05-17T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 1767,
       "headline": "Autoridades verifican cumplimiento de protocolos en instalaciones de Skretting Chile - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUF93amNfVWg2YkFZTE0tcWlGa2hIcDVvVDM0bGM3R1RabWhyRXl1YzlZOVJkU3JrZmZSdE91di1Hakg4ZmJuQkZZQTBZSVI5bFBUU3JfbGVfRVM5dG9QdEJVMEtVMktMMTBrMHR1WFlKbXplWFBxbWhFTGhCaHNFb0NnWW9ZcGpmOUkyMW56QlJ6ZmdFWk96UWtlSzJBdTJaUUNvMXNtR1ozcGU2YTFaMXZ6R2tWUkVsbERIM2RTdzZucDdYU1Y5dGhpR0Vha0VMa3hMd2hqNHVUR3puekI2WDJQZkZ3QQ?oc=5\" target=\"_blank\">Autoridades verifican cumplimiento de protocolos en instalaciones de Skretting Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -35352,6 +35438,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2522,
+      "headline": "EWOS and the Odd Berg Group join forces to develop marine larval feeds - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWY0MGFNajF1UEFsQXJCVUpHejR6bTNXcWhzQmtSYU1BaTlVbDNndGpKeVd2MENLYnRJNVdZRFpxQ2R3TGtmZU1TMkE1V0xRT28zWnQtMzZaRDFtLUFvRS1NMUNpT0hzU2tkelVtbGp4OUJtSWI5WlpaRXU3cF9YQnhzdXM3dW1SSXVfVE8xYThTajJRWTlRWU5RLXlRZUdsamtPNnRtSURaV010NXVr?oc=5\" target=\"_blank\">EWOS and the Odd Berg Group join forces to develop marine larval feeds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2003-06-04T07:00:00+00:00",
+      "last_seen": "2003-06-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1515,
@@ -116102,6 +116202,222 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMzRBNXBhTUlMd1FCVnV3ZjFaZEI2b1BmVGNmVG1CUm1Kd1owdlFKU1JDSENhS1k1bTgyU0xvOGxocmdCOVZjbk9ET3k3b1BPdF83bktNUWxXd3E1MlB1cTVla0g5YmdVbGNDOXhlYWVaWkhCOVF5XzZOSWY5N3ZCMks3U2pJZnV4MURhZWRXaEwyTzlMSHFPSkFGc1NoZXkxQ0pwQlZPNi0tQTg4MnRDaDI3a0RtMXUySnZvQlVlUzEwZVFWOFlQQWg5QURWVy1hNktKcEZjVlNRUUlLbmc?oc=5\" target=\"_blank\">Skretting celebra y reconoce la contribución de sus mujeres en el mes de marzo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Regional Aysén</font>"
+    },
+    {
+      "id": 518728,
+      "story_id": 2528,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3FBc1p2d0tkWGpZcG8zZDRJLUthRVNJQzNKYnQwZGRvZW1qdF8wQVo4OEI2V1U0WVBtYXpTWUZWeVJraHFmcU1MUFl2NWwxRHRfeXBUNnQyamRHTW8tV3VOVmhXOG5rT1k5ZldVbVRVbVJtZmxJYktoZmhsbXdmcnEzZUctTW9MMVYtWFdiTFFiRHV6T1RLcjhxT3RCRHNGZGJDUHFabVM1YTQ0RVd4NmZOdkdGXzJOVlE?oc=5",
+      "title": "IFFO acoge satisfactoriamente la iniciativa de BioMar y WFM de emplear subproductos - mispeces.com",
+      "source_name": "mispeces.com",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-09-06T14:59:46+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3FBc1p2d0tkWGpZcG8zZDRJLUthRVNJQzNKYnQwZGRvZW1qdF8wQVo4OEI2V1U0WVBtYXpTWUZWeVJraHFmcU1MUFl2NWwxRHRfeXBUNnQyamRHTW8tV3VOVmhXOG5rT1k5ZldVbVRVbVJtZmxJYktoZmhsbXdmcnEzZUctTW9MMVYtWFdiTFFiRHV6T1RLcjhxT3RCRHNGZGJDUHFabVM1YTQ0RVd4NmZOdkdGXzJOVlE?oc=5\" target=\"_blank\">IFFO acoge satisfactoriamente la iniciativa de BioMar y WFM de emplear subproductos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mispeces.com</font>"
+    },
+    {
+      "id": 518730,
+      "story_id": 2526,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVhGbHVaS1dZbktmVVpDeWp5OWI5WGwySHRpUkdQWGM1dHUtdzVfcnJERXNsVXNOS3RfYm9PY3QtRF9RdEszVWVpSGdsRzA1QzZQcTVlRFJoSjhsd2t3bU9KNWE1bVB4MFhtQmZPeTVwVnVkRkhmcFNPLTBnUVQzV0QySFJrZmh3TFQtWFNaYm1aSmNUQWJYbGlEY2JxWTI5WFVqYXdwclBNV19DMnVHQUZKWVRWLTE4MGVYUjBMR0oyY1Uy?oc=5",
+      "title": "BioMar Group completa con éxito sus pruebas de harina de insectos en recetas de acuicultura - mispeces.com",
+      "source_name": "mispeces.com",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-09-06T13:37:28+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVhGbHVaS1dZbktmVVpDeWp5OWI5WGwySHRpUkdQWGM1dHUtdzVfcnJERXNsVXNOS3RfYm9PY3QtRF9RdEszVWVpSGdsRzA1QzZQcTVlRFJoSjhsd2t3bU9KNWE1bVB4MFhtQmZPeTVwVnVkRkhmcFNPLTBnUVQzV0QySFJrZmh3TFQtWFNaYm1aSmNUQWJYbGlEY2JxWTI5WFVqYXdwclBNV19DMnVHQUZKWVRWLTE4MGVYUjBMR0oyY1Uy?oc=5\" target=\"_blank\">BioMar Group completa con éxito sus pruebas de harina de insectos en recetas de acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mispeces.com</font>"
+    },
+    {
+      "id": 518734,
+      "story_id": 2525,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3FQU2tHZlZBbEFiUkduRW1YNkh2aTJTNUE1SkpsZWJSOGh4ZldmYl9ZeWE2U0pQcHNsTWttX2EyejE1WHNuWE8tcVJsX0VCclhiRWtWanJaUVlqQnpfaFd3OUdYWDhuVGM5SktSQ0ZMYXByNkd1RFM2cHR6Z25OR2tmamNMTmo2TkJTQ3NwZk5rcTlobW5rd2dnYUJyRGVCTjhQTHExUmJCXy1RTDdnQkxhbDNLTEFXLUJYQ25TUGNFNXBmMDZ1aw?oc=5",
+      "title": "BioMar Group crea un grupo de expertos para acelerar la próxima generación de piensos para RAS - mispeces.com",
+      "source_name": "mispeces.com",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-09-06T11:27:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3FQU2tHZlZBbEFiUkduRW1YNkh2aTJTNUE1SkpsZWJSOGh4ZldmYl9ZeWE2U0pQcHNsTWttX2EyejE1WHNuWE8tcVJsX0VCclhiRWtWanJaUVlqQnpfaFd3OUdYWDhuVGM5SktSQ0ZMYXByNkd1RFM2cHR6Z25OR2tmamNMTmo2TkJTQ3NwZk5rcTlobW5rd2dnYUJyRGVCTjhQTHExUmJCXy1RTDdnQkxhbDNLTEFXLUJYQ25TUGNFNXBmMDZ1aw?oc=5\" target=\"_blank\">BioMar Group crea un grupo de expertos para acelerar la próxima generación de piensos para RAS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mispeces.com</font>"
+    },
+    {
+      "id": 518843,
+      "story_id": 2514,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlc1SkE0NzdYNWQ4S21oUW1SeGxkZm5qU1Q3NGY2N2V2OExtSk1GNnJWcHM3RWdZVkZBOU5wZ1B1bGtleUt0ek5yS1BoaWNTU0daUVVBV1JaWmN4WnhqdUdtQkFvMEE4NkRiOUN6MTFZX3NMTG5UUmhEaEZ1NjQ4bU1OcG1BdEpZdW9yTXN3QnBWUExEOHJEZHJjZ00?oc=5",
+      "title": "Price to earnings forward of Schouw & Co – HAM:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-03T07:13:29+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlc1SkE0NzdYNWQ4S21oUW1SeGxkZm5qU1Q3NGY2N2V2OExtSk1GNnJWcHM3RWdZVkZBOU5wZ1B1bGtleUt0ek5yS1BoaWNTU0daUVVBV1JaWmN4WnhqdUdtQkFvMEE4NkRiOUN6MTFZX3NMTG5UUmhEaEZ1NjQ4bU1OcG1BdEpZdW9yTXN3QnBWUExEOHJEZHJjZ00?oc=5\" target=\"_blank\">Price to earnings forward of Schouw & Co – HAM:5RF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+    },
+    {
+      "id": 519032,
+      "story_id": 1020,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEZ3Z3dhaGlqYUc2Q1pDQUd3Uy1WNG1oS3BjVEdYVVFvQmJBdkI0dHZzOFdXMFZ2YUZCbW1QMVFmaEVpa1J5czk1RDROSmdtOUpyLWQ1VHNMUG9SbzhjcGdMaHlOS29KS1MxV2otNlByRHZPeDc2VVlGZFdUNTBwSUJ1dW4zSU9WSlQ4am9lbTVmdG94ZmptWEE1OS1KQ1E1OG5LU1kyTTVONXc?oc=5",
+      "title": "Skretting launches a diet solution for African-farmed catfish - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2024-04-24T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEZ3Z3dhaGlqYUc2Q1pDQUd3Uy1WNG1oS3BjVEdYVVFvQmJBdkI0dHZzOFdXMFZ2YUZCbW1QMVFmaEVpa1J5czk1RDROSmdtOUpyLWQ1VHNMUG9SbzhjcGdMaHlOS29KS1MxV2otNlByRHZPeDc2VVlGZFdUNTBwSUJ1dW4zSU9WSlQ4am9lbTVmdG94ZmptWEE1OS1KQ1E1OG5LU1kyTTVONXc?oc=5\" target=\"_blank\">Skretting launches a diet solution for African-farmed catfish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 519036,
+      "story_id": 2524,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHVUTThyckdIeXhSXzJteTJOWWoxT0ZjZF85WkRCTm53alhyVDJocWM2TFMyc2pxT2VPMlA4YlBqZS12ZmxBb0FfQWlKaGhhM25QTjdmczNQUUt4U25jaXRoUmZ3RmJFdE9LQWw2WlRRVE1VNnh4RTQzdUp5VVlLd3pob1hxcGxTb3JjbGdsWXI3T0EtLWZqYUtxTEhPVXN3bU9ocWdKS2FaN3M0QXRsaExha0s4eFBFc08yaDRvem9wcWdKeW81TTl2dw?oc=5",
+      "title": "Self-imposed restrictions reduce flexibility in raw material basket, Skretting says - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2024-03-13T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHVUTThyckdIeXhSXzJteTJOWWoxT0ZjZF85WkRCTm53alhyVDJocWM2TFMyc2pxT2VPMlA4YlBqZS12ZmxBb0FfQWlKaGhhM25QTjdmczNQUUt4U25jaXRoUmZ3RmJFdE9LQWw2WlRRVE1VNnh4RTQzdUp5VVlLd3pob1hxcGxTb3JjbGdsWXI3T0EtLWZqYUtxTEhPVXN3bU9ocWdKS2FaN3M0QXRsaExha0s4eFBFc08yaDRvem9wcWdKeW81TTl2dw?oc=5\" target=\"_blank\">Self-imposed restrictions reduce flexibility in raw material basket, Skretting says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 519255,
+      "story_id": 2527,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRHIxa2dtTlVzNTVvUXFKcHdYc0tnMnBaWnU0OFN6YjBtVks0eUlaNFd5UXEyQzI1akhFdmJPdWQtWmdsX2NYWjZJSzdRX1lBb3pFS0NGU3VfdEtUMjZLZzh6Q3NlY0xSR0pLYUFGc3lxNzFZejFaRUl6NGJNRW9mNzJCSjVzZFZwQlNQSTVlcFdSOGRRN01SdUVncmVfdUdfUEdSYWRWZ0hKd3M5MDJUdXp6Z2pkdVVvOVZGbTVpMkNvclpnM1BhZ0J2c3RYaTBNeDVtdFVfZUVsUQ?oc=5",
+      "title": "Skretting combina herramientas inteligentes para ofrecer soluciones optimizadas y soporte proactivo in-situ - mispeces.com",
+      "source_name": "mispeces.com",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-09-06T14:52:11+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRHIxa2dtTlVzNTVvUXFKcHdYc0tnMnBaWnU0OFN6YjBtVks0eUlaNFd5UXEyQzI1akhFdmJPdWQtWmdsX2NYWjZJSzdRX1lBb3pFS0NGU3VfdEtUMjZLZzh6Q3NlY0xSR0pLYUFGc3lxNzFZejFaRUl6NGJNRW9mNzJCSjVzZFZwQlNQSTVlcFdSOGRRN01SdUVncmVfdUdfUEdSYWRWZ0hKd3M5MDJUdXp6Z2pkdVVvOVZGbTVpMkNvclpnM1BhZ0J2c3RYaTBNeDVtdFVfZUVsUQ?oc=5\" target=\"_blank\">Skretting combina herramientas inteligentes para ofrecer soluciones optimizadas y soporte proactivo in-situ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mispeces.com</font>"
+    },
+    {
+      "id": 519360,
+      "story_id": 2523,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRFVkcGhRRU05Y3dQUVh5Qlk4TTc3XzBKNTg4MlZZSVBFYjNJQjlSUDJQVGtvMWdDUVg3eEpoOHIzVTh4MmVEUnVLQjJzYWhOenBQaHU3cmhBR0hXNjhCVlRuRmpnUWd2Q2xVRFB0ZUJiSUQwMDJCWFBWbGhrbzV2elpYbkFkWmtFU205a0QyMTJaeVBLNHJsOGxWdG53WVNyUnFMZlpFVWpBMm9uQzlOWHpR?oc=5",
+      "title": "Cargill expands aquaculture offer with purchase of Norwegian fish-feed producer EWOS - fooddigital.com",
+      "source_name": "fooddigital.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2020-05-17T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRFVkcGhRRU05Y3dQUVh5Qlk4TTc3XzBKNTg4MlZZSVBFYjNJQjlSUDJQVGtvMWdDUVg3eEpoOHIzVTh4MmVEUnVLQjJzYWhOenBQaHU3cmhBR0hXNjhCVlRuRmpnUWd2Q2xVRFB0ZUJiSUQwMDJCWFBWbGhrbzV2elpYbkFkWmtFU205a0QyMTJaeVBLNHJsOGxWdG53WVNyUnFMZlpFVWpBMm9uQzlOWHpR?oc=5\" target=\"_blank\">Cargill expands aquaculture offer with purchase of Norwegian fish-feed producer EWOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fooddigital.com</font>"
+    },
+    {
+      "id": 519381,
+      "story_id": 2522,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWY0MGFNajF1UEFsQXJCVUpHejR6bTNXcWhzQmtSYU1BaTlVbDNndGpKeVd2MENLYnRJNVdZRFpxQ2R3TGtmZU1TMkE1V0xRT28zWnQtMzZaRDFtLUFvRS1NMUNpT0hzU2tkelVtbGp4OUJtSWI5WlpaRXU3cF9YQnhzdXM3dW1SSXVfVE8xYThTajJRWTlRWU5RLXlRZUdsamtPNnRtSURaV010NXVr?oc=5",
+      "title": "EWOS and the Odd Berg Group join forces to develop marine larval feeds - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2003-06-04T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWY0MGFNajF1UEFsQXJCVUpHejR6bTNXcWhzQmtSYU1BaTlVbDNndGpKeVd2MENLYnRJNVdZRFpxQ2R3TGtmZU1TMkE1V0xRT28zWnQtMzZaRDFtLUFvRS1NMUNpT0hzU2tkelVtbGp4OUJtSWI5WlpaRXU3cF9YQnhzdXM3dW1SSXVfVE8xYThTajJRWTlRWU5RLXlRZUdsamtPNnRtSURaV010NXVr?oc=5\" target=\"_blank\">EWOS and the Odd Berg Group join forces to develop marine larval feeds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -116142,6 +116458,14 @@
         "Aller Aqua": 0,
         "BioMar": 0,
         "Cargill": 2,
+        "Polarfeed": 0,
+        "Skretting": 0
+      },
+      {
+        "week": "2003-W23",
+        "Aller Aqua": 0,
+        "BioMar": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
       },
@@ -118485,7 +118809,7 @@
         "week": "2020-W20",
         "Aller Aqua": 0,
         "BioMar": 0,
-        "Cargill": 0,
+        "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 2
       },
@@ -119919,7 +120243,7 @@
         "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2024-W12",
@@ -119967,7 +120291,7 @@
         "BioMar": 2,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 8
+        "Skretting": 9
       },
       {
         "week": "2024-W18",
@@ -120932,10 +121256,10 @@
       {
         "week": "2026-W36",
         "Aller Aqua": 0,
-        "BioMar": 22,
+        "BioMar": 26,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 3
+        "Skretting": 4
       }
     ],
     "totals": [
@@ -120945,11 +121269,11 @@
       },
       {
         "company": "BioMar",
-        "count": 1785
+        "count": 1789
       },
       {
         "company": "Cargill",
-        "count": 302
+        "count": 304
       },
       {
         "company": "Polarfeed",
@@ -120957,7 +121281,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1087
+        "count": 1090
       }
     ]
   }
