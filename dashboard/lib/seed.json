@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T19:40:25+00:00",
+  "generated_at": "2026-09-07T23:55:45+00:00",
   "stats": {
-    "mention_count": 3349,
-    "story_count": 2516,
+    "mention_count": 3352,
+    "story_count": 2519,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -52,6 +52,7 @@
     "Bygg.no",
     "Byggfakta Nyheter",
     "CASAG – OAB Goiás",
+    "CEOWORLD magazine",
     "CTV News",
     "Cadena SER",
     "Carey",
@@ -398,6 +399,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2541,
+      "headline": "Estrategias celulares y nutricionales para frenar el daño branquial en salmones - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeXJMX05hTm44dXJHTW1BV09lcHRiSG95Sjd4Vm0tWFRvOEFscmlBbFJiRGhkaUhSZk5wYVAwZFdNd3dreDM2OE5VNUk3b21wWXBtNjhJRHVwamtibTBCeE5Ua2R5MDliZlNyLTBNZVg0RU5kOWtaT0FrRFZQd2FObFdDTUVPUGpsVVRUMTljS2JzZ2luYmdVb3l0bTVnbllXUXhLejNCUUFBOFo5MUVTTGVwN2Y2bzJGUmJOUkVkblZRSkFtUUJnV0YyR0RNSUdGREtfM3RxWjlTNEx6aW15ZXNJZGM1WV9pZ1pKakxoN2VzSnp2RWE3WGNmSVc?oc=5\" target=\"_blank\">Estrategias celulares y nutricionales para frenar el daño branquial en salmones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2026-09-07T08:40:00+00:00",
+      "last_seen": "2026-09-07T08:40:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2538,
       "headline": "Slik er situasjonen i helsesektoren nå: – Det er vanskeligere å få tak i personell - Lyngdals Avis",
@@ -15624,6 +15639,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2540,
+      "headline": "Patagonic RAS 2024: Innovación y sostenibilidad se destacaron en el seminario de BioMar - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWhsZ2F1S2pUWWJyMnNYQ3p4bHM1MXkzRmN1LTFHX2JmelpxcEd6Qk9vNmtBei1uWmhWc0Q2b3F5S0xVSUZSdkRnOHpmV0ptWUxmcmwxTUNjVXlRd1U5Q01rNVQ1eG9iNnFyREtQSzlmeWxqQ19Kem1fYjI1T1BCQV9VT3phWkJjV2oxUllsa2VDRFJ2djFPbnlvQWUyTzgzdWNVSnMxZ2FLOGs?oc=5\" target=\"_blank\">Patagonic RAS 2024: Innovación y sostenibilidad se destacaron en el seminario de BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2024-11-20T08:00:00+00:00",
+      "last_seen": "2024-11-20T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 136,
       "headline": "BioMar-eier vurderer separat børsnotering av fôr-gruppen (+) - Intrafish",
       "story_summary": "BioMar's parent company is evaluating a potential separate stock market listing for its feed division. The move would represent a strategic capital restructuring of the aquaculture feed business.",
@@ -17650,6 +17679,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2539,
+      "headline": "Leadership Transitions at Nutreco and Skretting: Charting New Courses - CEOWORLD magazine",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWl6MTJNVzFrbEg3eU1FOGpKc2diem1ZUjBGUnQzbzJWYVBlY2pGSVRyVE9BdG9seS01RlU5dHp6dFM0UThncndrMDBqb1RoN0pBak1qdTZSX2kycW1MTmJ1OFF4OVI1YTNxNURhMDhRR0lmRUxHX1o5azJmbk9wc2NvMDhiZVNRZ3FJY3BvT1VEQ0lJR1BqbFhjbXdWczFjbktj?oc=5\" target=\"_blank\">Leadership Transitions at Nutreco and Skretting: Charting New Courses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEOWORLD magazine</font>",
+      "first_seen": "2024-04-09T07:00:00+00:00",
+      "last_seen": "2024-04-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -116798,6 +116841,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ3BBWk9hdDU3aEcydWEzV2lSOTBYOTI2U3VjV2JTYnU2ZW1ra2dPUVN4NHd6dTJ3bjREMnRQX1RIZTRLZzlEM1lrbk9VMFJhZHF4WnFYR2ZIclBxVTRBc1NMY1YxU0s4cWViczBSSjc1d1A1RTA3SDRJanQwZVNoanJQUTRpVlZFMm1xNUpCSG12Vm8xaTNCUU4xRnZ6YWdsR19nWDlJMW5TbDFxeUN6TGhNa0Q4WndQejg0YjBFTk9xS25MVW1z?oc=5\" target=\"_blank\">Skretting, sponsor Platinum del 18 Simposio Internacional de Nutrición y Alimentación de peces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mispeces.com</font>"
+    },
+    {
+      "id": 523964,
+      "story_id": 2541,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeXJMX05hTm44dXJHTW1BV09lcHRiSG95Sjd4Vm0tWFRvOEFscmlBbFJiRGhkaUhSZk5wYVAwZFdNd3dreDM2OE5VNUk3b21wWXBtNjhJRHVwamtibTBCeE5Ua2R5MDliZlNyLTBNZVg0RU5kOWtaT0FrRFZQd2FObFdDTUVPUGpsVVRUMTljS2JzZ2luYmdVb3l0bTVnbllXUXhLejNCUUFBOFo5MUVTTGVwN2Y2bzJGUmJOUkVkblZRSkFtUUJnV0YyR0RNSUdGREtfM3RxWjlTNEx6aW15ZXNJZGM1WV9pZ1pKakxoN2VzSnp2RWE3WGNmSVc?oc=5",
+      "title": "Estrategias celulares y nutricionales para frenar el daño branquial en salmones - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-09-07T08:40:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeXJMX05hTm44dXJHTW1BV09lcHRiSG95Sjd4Vm0tWFRvOEFscmlBbFJiRGhkaUhSZk5wYVAwZFdNd3dreDM2OE5VNUk3b21wWXBtNjhJRHVwamtibTBCeE5Ua2R5MDliZlNyLTBNZVg0RU5kOWtaT0FrRFZQd2FObFdDTUVPUGpsVVRUMTljS2JzZ2luYmdVb3l0bTVnbllXUXhLejNCUUFBOFo5MUVTTGVwN2Y2bzJGUmJOUkVkblZRSkFtUUJnV0YyR0RNSUdGREtfM3RxWjlTNEx6aW15ZXNJZGM1WV9pZ1pKakxoN2VzSnp2RWE3WGNmSVc?oc=5\" target=\"_blank\">Estrategias celulares y nutricionales para frenar el daño branquial en salmones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 524035,
+      "story_id": 2540,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWhsZ2F1S2pUWWJyMnNYQ3p4bHM1MXkzRmN1LTFHX2JmelpxcEd6Qk9vNmtBei1uWmhWc0Q2b3F5S0xVSUZSdkRnOHpmV0ptWUxmcmwxTUNjVXlRd1U5Q01rNVQ1eG9iNnFyREtQSzlmeWxqQ19Kem1fYjI1T1BCQV9VT3phWkJjV2oxUllsa2VDRFJ2djFPbnlvQWUyTzgzdWNVSnMxZ2FLOGs?oc=5",
+      "title": "Patagonic RAS 2024: Innovación y sostenibilidad se destacaron en el seminario de BioMar - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-11-20T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWhsZ2F1S2pUWWJyMnNYQ3p4bHM1MXkzRmN1LTFHX2JmelpxcEd6Qk9vNmtBei1uWmhWc0Q2b3F5S0xVSUZSdkRnOHpmV0ptWUxmcmwxTUNjVXlRd1U5Q01rNVQ1eG9iNnFyREtQSzlmeWxqQ19Kem1fYjI1T1BCQV9VT3phWkJjV2oxUllsa2VDRFJ2djFPbnlvQWUyTzgzdWNVSnMxZ2FLOGs?oc=5\" target=\"_blank\">Patagonic RAS 2024: Innovación y sostenibilidad se destacaron en el seminario de BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 524288,
+      "story_id": 2539,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWl6MTJNVzFrbEg3eU1FOGpKc2diem1ZUjBGUnQzbzJWYVBlY2pGSVRyVE9BdG9seS01RlU5dHp6dFM0UThncndrMDBqb1RoN0pBak1qdTZSX2kycW1MTmJ1OFF4OVI1YTNxNURhMDhRR0lmRUxHX1o5azJmbk9wc2NvMDhiZVNRZ3FJY3BvT1VEQ0lJR1BqbFhjbXdWczFjbktj?oc=5",
+      "title": "Leadership Transitions at Nutreco and Skretting: Charting New Courses - CEOWORLD magazine",
+      "source_name": "CEOWORLD magazine",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2024-04-09T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWl6MTJNVzFrbEg3eU1FOGpKc2diem1ZUjBGUnQzbzJWYVBlY2pGSVRyVE9BdG9seS01RlU5dHp6dFM0UThncndrMDBqb1RoN0pBak1qdTZSX2kycW1MTmJ1OFF4OVI1YTNxNURhMDhRR0lmRUxHX1o5azJmbk9wc2NvMDhiZVNRZ3FJY3BvT1VEQ0lJR1BqbFhjbXdWczFjbktj?oc=5\" target=\"_blank\">Leadership Transitions at Nutreco and Skretting: Charting New Courses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEOWORLD magazine</font>"
     }
   ],
   "share_of_voice": {
@@ -120655,7 +120770,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2024-W16",
@@ -120892,7 +121007,7 @@
       {
         "week": "2024-W47",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 1
@@ -121644,7 +121759,7 @@
       {
         "week": "2026-W37",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -121657,7 +121772,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1796
+        "count": 1798
       },
       {
         "company": "Cargill",
@@ -121669,7 +121784,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1093
+        "count": 1094
       }
     ]
   }
