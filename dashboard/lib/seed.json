@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T23:55:45+00:00",
+  "generated_at": "2026-09-08T09:56:29+00:00",
   "stats": {
-    "mention_count": 3352,
-    "story_count": 2519,
+    "mention_count": 3357,
+    "story_count": 2523,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -380,6 +380,7 @@
     "nord24.no",
     "oyposten.no",
     "portalredsalud.cl",
+    "procurementmag.com",
     "randaberg24.no",
     "realcommercial.com.au",
     "ross-shirejournal.co.uk",
@@ -399,6 +400,34 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2545,
+      "headline": "BioMar Greece obtains ASC Feed certification - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2RjNi1BRFZaM3p2VXAtSnVQUW1zb2xkWkhXaDMxLU9QR1NlYzJROHdfa3dZS2dwMUh5LVlnYWlLaVRjVURoMXh2aV9aeFh5V3VScUw3STRmT1FMSWtOTG9fUlRlYk14ajNWNnpOQmtXVWZiS3VFcF9XOTQwTEdIM0Ytbw?oc=5\" target=\"_blank\">BioMar Greece obtains ASC Feed certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2026-09-08T08:33:04+00:00",
+      "last_seen": "2026-09-08T08:33:04+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2544,
+      "headline": "Schouw & Co. share buy-back programme, week 36 2026 - procurementmag.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LdVhONkdrQ1V5LXplSG9wcjlwS2pxXzJPN2c4Smh3N0VkZDZjdExrVjRKZ0FJYWk4V0plTFR2ZC1nckRYOTJrZXlWZWg4X2o1ZzNBeWxGRG9YYzZO?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 36 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">procurementmag.com</font>",
+      "first_seen": "2026-09-08T06:25:33+00:00",
+      "last_seen": "2026-09-08T06:25:33+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2541,
       "headline": "Estrategias celulares y nutricionales para frenar el daño branquial en salmones - Salmonexpert",
@@ -23802,6 +23831,20 @@
       "company": "BioMar"
     },
     {
+      "id": 60,
+      "headline": "BioMar registra hito: comienza a entregar alimento a granel en pisciculturas - Salmonexpert",
+      "story_summary": "BioMar has achieved a milestone by beginning to deliver feed in bulk directly to fish farms. The company is expanding its service delivery model for aquaculture operations.",
+      "first_seen": "2022-01-21T08:00:00+00:00",
+      "last_seen": "2022-01-24T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 508,
       "headline": "Nombran nuevo Gerente general de Cargill Aqua Nutrition Chile - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdi11NXlqRjlQanhuMEZCTXlCSWw4NkRzc2ljN0lXLWNuZy1kS0pzQ0NwX1hYRXk2TllTS1J2aDJveHBwOXI5S0FuWWxmcXdWNTd5ekpEUm5OaTdNSXBndGJ1TW1WMkNZQXgzZ3ZlZlIzUE5OWUtWY2RYOVNiYnBxejVpdXMybkRtVmFzdHR2SGFOR2swakxQTC1ONXJEMzNHWW9EZjhiNFFjclFHTXBVa2tnb0w0ZmpZWXc?oc=5\" target=\"_blank\">Nombran nuevo Gerente general de Cargill Aqua Nutrition Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
@@ -23814,20 +23857,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
-    },
-    {
-      "id": 60,
-      "headline": "BioMar registra hito: comienza a entregar alimento a granel en pisciculturas - Salmonexpert",
-      "story_summary": "BioMar has achieved a milestone by beginning to deliver feed in bulk directly to fish farms. The company is expanding its service delivery model for aquaculture operations.",
-      "first_seen": "2022-01-21T08:00:00+00:00",
-      "last_seen": "2022-01-21T08:00:00+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
     },
     {
       "id": 2191,
@@ -24211,6 +24240,20 @@
       "id": 2397,
       "headline": "Atlantic Sapphire y Skretting. Una alianza por la sostenibilidad del salmón producido bajo techo - misPeces",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPbEhqb2RwUTN0VjVIVWg4TjZHYXNEVmdTdzlMZDZ1eFRPR012SzE3eTYyWVFyQnMzTGRnUUZrcVk4VUJpNHVxNnZvbkM0clpTcnBLaTAwdkIzdjBmOHg0MXVPdEFBb2ZrVTNZb1RHRU42eVN4c3RPbnd0WUdERWpnUlFIekFleTN6TmZMVkZDZlNRS1o0SEpRby12RWhGWGFsYnNmMGlQaVVrYTF2SExLN1ZnLTVrczlUOEwyT2wwTzZmREFKenBjTDctRQ?oc=5\" target=\"_blank\">Atlantic Sapphire y Skretting. Una alianza por la sostenibilidad del salmón producido bajo techo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2021-11-11T08:00:00+00:00",
+      "last_seen": "2021-11-11T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2543,
+      "headline": "Skretting backs Atlantic Sapphire's success - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVU4QkYwelpFTjRaWFVIMmVnRXhwTkdiR0wxSUl4LXlXSHNHd1Q1TlJ6eVhvTkdlM1BNX01yYjIxcHNCVlptQm9wU1N3VGRZOVVkZVByMnc3NEFkUml0U19UVV9VV1JtdEZKemM3ZnY4Q3hQbEhpeEJpMkoteFotRg?oc=5\" target=\"_blank\">Skretting backs Atlantic Sapphire's success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
       "first_seen": "2021-11-11T08:00:00+00:00",
       "last_seen": "2021-11-11T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -27549,6 +27592,20 @@
       "first_seen": "2020-01-07T08:00:00+00:00",
       "last_seen": "2020-01-07T08:00:00+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2542,
+      "headline": "Controladora de BioMar por caso de colusión: \"La compañía tiene la intención de refutar los cargos\" - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVUdwLVM4b2hZUjJFdHdxNVA4VzlsTkNkZnYzZTJOdENkMTZrbkZPT2t2SFFPRi03ejhhczZUdEp6RDJ2RnhVVlpXWG5xN0ZlaE1pVDZEaXBiWDdwV3JoMV9ZYkxrLTB6aVdueXI4TjVtNEpKWmh0NDhhN1JJclVJYlpXZWtFNWJXSDdRU1dUelBLdW1ORmlsYXVKRUtPMHlNdndDYmJNRlB3ZTVRQ29EWjBaNnE1aVhL?oc=5\" target=\"_blank\">Controladora de BioMar por caso de colusión: \"La compañía tiene la intención de refutar los cargos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2019-12-24T08:00:00+00:00",
+      "last_seen": "2019-12-24T08:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -116913,6 +116970,126 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWl6MTJNVzFrbEg3eU1FOGpKc2diem1ZUjBGUnQzbzJWYVBlY2pGSVRyVE9BdG9seS01RlU5dHp6dFM0UThncndrMDBqb1RoN0pBak1qdTZSX2kycW1MTmJ1OFF4OVI1YTNxNURhMDhRR0lmRUxHX1o5azJmbk9wc2NvMDhiZVNRZ3FJY3BvT1VEQ0lJR1BqbFhjbXdWczFjbktj?oc=5\" target=\"_blank\">Leadership Transitions at Nutreco and Skretting: Charting New Courses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CEOWORLD magazine</font>"
+    },
+    {
+      "id": 524714,
+      "story_id": 2545,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2RjNi1BRFZaM3p2VXAtSnVQUW1zb2xkWkhXaDMxLU9QR1NlYzJROHdfa3dZS2dwMUh5LVlnYWlLaVRjVURoMXh2aV9aeFh5V3VScUw3STRmT1FMSWtOTG9fUlRlYk14ajNWNnpOQmtXVWZiS3VFcF9XOTQwTEdIM0Ytbw?oc=5",
+      "title": "BioMar Greece obtains ASC Feed certification - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-09-08T08:33:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2RjNi1BRFZaM3p2VXAtSnVQUW1zb2xkWkhXaDMxLU9QR1NlYzJROHdfa3dZS2dwMUh5LVlnYWlLaVRjVURoMXh2aV9aeFh5V3VScUw3STRmT1FMSWtOTG9fUlRlYk14ajNWNnpOQmtXVWZiS3VFcF9XOTQwTEdIM0Ytbw?oc=5\" target=\"_blank\">BioMar Greece obtains ASC Feed certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 525079,
+      "story_id": 2542,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVUdwLVM4b2hZUjJFdHdxNVA4VzlsTkNkZnYzZTJOdENkMTZrbkZPT2t2SFFPRi03ejhhczZUdEp6RDJ2RnhVVlpXWG5xN0ZlaE1pVDZEaXBiWDdwV3JoMV9ZYkxrLTB6aVdueXI4TjVtNEpKWmh0NDhhN1JJclVJYlpXZWtFNWJXSDdRU1dUelBLdW1ORmlsYXVKRUtPMHlNdndDYmJNRlB3ZTVRQ29EWjBaNnE1aVhL?oc=5",
+      "title": "Controladora de BioMar por caso de colusión: \"La compañía tiene la intención de refutar los cargos\" - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-12-24T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVUdwLVM4b2hZUjJFdHdxNVA4VzlsTkNkZnYzZTJOdENkMTZrbkZPT2t2SFFPRi03ejhhczZUdEp6RDJ2RnhVVlpXWG5xN0ZlaE1pVDZEaXBiWDdwV3JoMV9ZYkxrLTB6aVdueXI4TjVtNEpKWmh0NDhhN1JJclVJYlpXZWtFNWJXSDdRU1dUelBLdW1ORmlsYXVKRUtPMHlNdndDYmJNRlB3ZTVRQ29EWjBaNnE1aVhL?oc=5\" target=\"_blank\">Controladora de BioMar por caso de colusión: \"La compañía tiene la intención de refutar los cargos\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 525090,
+      "story_id": 60,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdFpRV2g5Qy1PMUdnZ2o3ZzdxMFJvY01IeXJPckFBTDE2MTBOVjlZZmdOd2ZkYldPYXN1OWlzM0RHU2RnMVM0b3daTndtQ0NyYWdvR3F3VEtUQjFwLTBoNnA4M3k4eEl6djc0aURzbEpENkpXeUE3TnFLMHREVVlueHJtRlZlbzJtZTFIUA?oc=5",
+      "title": "BioMar: Marca hito entregando alimento a granel en pisciculturas - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-01-24T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdFpRV2g5Qy1PMUdnZ2o3ZzdxMFJvY01IeXJPckFBTDE2MTBOVjlZZmdOd2ZkYldPYXN1OWlzM0RHU2RnMVM0b3daTndtQ0NyYWdvR3F3VEtUQjFwLTBoNnA4M3k4eEl6djc0aURzbEpENkpXeUE3TnFLMHREVVlueHJtRlZlbzJtZTFIUA?oc=5\" target=\"_blank\">BioMar: Marca hito entregando alimento a granel en pisciculturas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 525114,
+      "story_id": 2544,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LdVhONkdrQ1V5LXplSG9wcjlwS2pxXzJPN2c4Smh3N0VkZDZjdExrVjRKZ0FJYWk4V0plTFR2ZC1nckRYOTJrZXlWZWg4X2o1ZzNBeWxGRG9YYzZO?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 36 2026 - procurementmag.com",
+      "source_name": "procurementmag.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-08T06:25:33+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LdVhONkdrQ1V5LXplSG9wcjlwS2pxXzJPN2c4Smh3N0VkZDZjdExrVjRKZ0FJYWk4V0plTFR2ZC1nckRYOTJrZXlWZWg4X2o1ZzNBeWxGRG9YYzZO?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 36 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">procurementmag.com</font>"
+    },
+    {
+      "id": 525315,
+      "story_id": 2543,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVU4QkYwelpFTjRaWFVIMmVnRXhwTkdiR0wxSUl4LXlXSHNHd1Q1TlJ6eVhvTkdlM1BNX01yYjIxcHNCVlptQm9wU1N3VGRZOVVkZVByMnc3NEFkUml0U19UVV9VV1JtdEZKemM3ZnY4Q3hQbEhpeEJpMkoteFotRg?oc=5",
+      "title": "Skretting backs Atlantic Sapphire's success - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2021-11-11T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVU4QkYwelpFTjRaWFVIMmVnRXhwTkdiR0wxSUl4LXlXSHNHd1Q1TlJ6eVhvTkdlM1BNX01yYjIxcHNCVlptQm9wU1N3VGRZOVVkZVByMnc3NEFkUml0U19UVV9VV1JtdEZKemM3ZnY4Q3hQbEhpeEJpMkoteFotRg?oc=5\" target=\"_blank\">Skretting backs Atlantic Sapphire's success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
     }
   ],
   "share_of_voice": {
@@ -119159,7 +119336,7 @@
       {
         "week": "2019-W52",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -119834,7 +120011,7 @@
         "BioMar": 1,
         "Cargill": 0,
         "Polarfeed": 1,
-        "Skretting": 8
+        "Skretting": 9
       },
       {
         "week": "2021-W46",
@@ -119919,7 +120096,7 @@
       {
         "week": "2022-W04",
         "Aller Aqua": 0,
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 0
@@ -121759,7 +121936,7 @@
       {
         "week": "2026-W37",
         "Aller Aqua": 0,
-        "BioMar": 1,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -121772,7 +121949,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1798
+        "count": 1802
       },
       {
         "company": "Cargill",
@@ -121784,7 +121961,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1094
+        "count": 1095
       }
     ]
   }
