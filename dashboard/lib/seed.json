@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T09:56:29+00:00",
+  "generated_at": "2026-09-08T13:43:20+00:00",
   "stats": {
-    "mention_count": 3357,
-    "story_count": 2523,
+    "mention_count": 3359,
+    "story_count": 2524,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -401,6 +401,20 @@
   ],
   "stories": [
     {
+      "id": 2546,
+      "headline": "BioMar Norway incorporará buque híbrido para distribuir piensos - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQLU9QbktjNS1nRk0yOWhGMjZoeXdHUnJ5MjMxeFluTzZZeDFwelFCSEp6YUxzNEJNSDNMMkk5bEM5R0dySkE4M1YyallwaWVwMHRNRXVwdFBDS1NSR1pmc2p2SWFEMWNOVEJKZkN4SjNoYlFGd182R3ZMa3dNdzJKWTFaQnVZdFhWRkVDWmZhaEhsc2p3N1JNQ09XZkY?oc=5\" target=\"_blank\">BioMar Norway incorporará buque híbrido para distribuir piensos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2026-09-08T10:00:16+00:00",
+      "last_seen": "2026-09-08T10:00:16+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2545,
       "headline": "BioMar Greece obtains ASC Feed certification - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2RjNi1BRFZaM3p2VXAtSnVQUW1zb2xkWkhXaDMxLU9QR1NlYzJROHdfa3dZS2dwMUh5LVlnYWlLaVRjVURoMXh2aV9aeFh5V3VScUw3STRmT1FMSWtOTG9fUlRlYk14ajNWNnpOQmtXVWZiS3VFcF9XOTQwTEdIM0Ytbw?oc=5\" target=\"_blank\">BioMar Greece obtains ASC Feed certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
@@ -475,12 +489,12 @@
       "headline": "BioMar Group anuncia una “inversión estratégica” en I+D en alimentos para camarón en Ecuador - misPeces",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcS11V1U1UV9iUjhSYjV2TFBZckJ0NUFRTWZhXzA1QzM4a1FiTlVVaENPRGxfTGZQRlhyZUhubUQxVXg1NUJoSndsVDduT2JEZjU4YjhvYU1Ec3NyV3BHZ1JWYVR5STJMaUhfelhFTWpmYkR2S3VLR2pqWURvNl9xZ3RKVTMxZFVxZ2FSVGFBUV9wdUVfTXNjT1YzMURRYk95R0FGMWJvNGo0ZDJDd2xzNXp6d1ZoQ0R0SFJQcGQ3eEt3UQ?oc=5\" target=\"_blank\">BioMar Group anuncia una “inversión estratégica” en I+D en alimentos para camarón en Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
       "first_seen": "2026-09-06T21:47:04+00:00",
-      "last_seen": "2026-09-06T21:47:04+00:00",
+      "last_seen": "2026-09-06T22:19:50+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -117090,6 +117104,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVU4QkYwelpFTjRaWFVIMmVnRXhwTkdiR0wxSUl4LXlXSHNHd1Q1TlJ6eVhvTkdlM1BNX01yYjIxcHNCVlptQm9wU1N3VGRZOVVkZVByMnc3NEFkUml0U19UVV9VV1JtdEZKemM3ZnY4Q3hQbEhpeEJpMkoteFotRg?oc=5\" target=\"_blank\">Skretting backs Atlantic Sapphire's success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 526065,
+      "story_id": 2546,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLU9QbktjNS1nRk0yOWhGMjZoeXdHUnJ5MjMxeFluTzZZeDFwelFCSEp6YUxzNEJNSDNMMkk5bEM5R0dySkE4M1YyallwaWVwMHRNRXVwdFBDS1NSR1pmc2p2SWFEMWNOVEJKZkN4SjNoYlFGd182R3ZMa3dNdzJKWTFaQnVZdFhWRkVDWmZhaEhsc2p3N1JNQ09XZkY?oc=5",
+      "title": "BioMar Norway incorporará buque híbrido para distribuir piensos - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-09-08T10:00:16+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQLU9QbktjNS1nRk0yOWhGMjZoeXdHUnJ5MjMxeFluTzZZeDFwelFCSEp6YUxzNEJNSDNMMkk5bEM5R0dySkE4M1YyallwaWVwMHRNRXVwdFBDS1NSR1pmc2p2SWFEMWNOVEJKZkN4SjNoYlFGd182R3ZMa3dNdzJKWTFaQnVZdFhWRkVDWmZhaEhsc2p3N1JNQ09XZkY?oc=5\" target=\"_blank\">BioMar Norway incorporará buque híbrido para distribuir piensos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 526077,
+      "story_id": 2535,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMjhUUWc3M2dSLXRtcUpBQjh3N0JVRTh3aGNvcno1Y05nQ2J0V01QSEpuTFE0XzV5M1NOZkdfcTFrbzMycm1MYkl0amUwaXl2Sml6VVFEcXAwM0NyNDdydG5rV2tPaExVVFFyM3poZUh4Ym9QVm5XSTRWN0l4eUZIZVdIODZGQTBxNFhCeGFvdWZUUHJPYnN1b25rQl9JUW4yb1MzbmJ6WnZSblVuYk5uWmVTNEVkVkFiS0ZxRVI3aWc2M0ZzMU9JNy11NVk4U3M2RkpUbzV5S1hOUQ?oc=5",
+      "title": "Grupo BioMar anuncia la puesta en marcha de una nueva línea de extrusion de piensos para camarón en Ecuador - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-09-06T22:19:50+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMjhUUWc3M2dSLXRtcUpBQjh3N0JVRTh3aGNvcno1Y05nQ2J0V01QSEpuTFE0XzV5M1NOZkdfcTFrbzMycm1MYkl0amUwaXl2Sml6VVFEcXAwM0NyNDdydG5rV2tPaExVVFFyM3poZUh4Ym9QVm5XSTRWN0l4eUZIZVdIODZGQTBxNFhCeGFvdWZUUHJPYnN1b25rQl9JUW4yb1MzbmJ6WnZSblVuYk5uWmVTNEVkVkFiS0ZxRVI3aWc2M0ZzMU9JNy11NVk4U3M2RkpUbzV5S1hOUQ?oc=5\" target=\"_blank\">Grupo BioMar anuncia la puesta en marcha de una nueva línea de extrusion de piensos para camarón en Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
     }
   ],
   "share_of_voice": {
@@ -121928,7 +121990,7 @@
       {
         "week": "2026-W36",
         "Aller Aqua": 0,
-        "BioMar": 32,
+        "BioMar": 33,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 4
@@ -121936,7 +121998,7 @@
       {
         "week": "2026-W37",
         "Aller Aqua": 0,
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -121949,7 +122011,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1802
+        "count": 1804
       },
       {
         "company": "Cargill",
