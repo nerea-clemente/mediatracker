@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T23:48:21+00:00",
+  "generated_at": "2026-09-09T09:59:23+00:00",
   "stats": {
-    "mention_count": 3362,
-    "story_count": 2524,
+    "mention_count": 3366,
+    "story_count": 2527,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -339,6 +339,7 @@
     "aqua.cl",
     "armada.cl",
     "banett.no",
+    "bechbruun.com",
     "brenny.com",
     "ca.finance.yahoo.com",
     "dalane-tidende.no",
@@ -400,6 +401,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2549,
+      "headline": "BioMar reaches global ASC feed certification milestone with Greek plant approval - Undercurrent News",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1pRNUtGdzFuVTFUSURNVUVad3FIRnk0S3l5VmV0bkZ5bDV0ZzJnS3p2M3ZNeTBNTnhnRjVrTVlVdms1VjFVSndfbzQweldrd0RtNWVuYXdrVk5PVk12OTJDTC1kbmRhclFRSDczSFlOb0ZUbGRaSWJ5Tlhfdkxtc21tUVQxLS1HOUNzYzJsY3NzNFdBXzBIOVhnTWxzTjN1TXMwSGNUeThDYW9jd0Q4cWRoUGFPM09IeGZwOHgzWEdmaVE?oc=5\" target=\"_blank\">BioMar reaches global ASC feed certification milestone with Greek plant approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
+      "first_seen": "2026-09-09T09:21:00+00:00",
+      "last_seen": "2026-09-09T09:21:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2545,
       "headline": "BioMar Greece obtains ASC Feed certification - The Fish Site",
@@ -2664,7 +2679,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -5047,6 +5062,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2548,
+      "headline": "AquaVision 2026 reveals full program focused on geopolitics and innovation - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHBid0l1M25xZWZZQ01XZ1R4Zl9PWEtSN1JjM0E2cWFfWVVDc1VnX2lVM0tuSHl6blpoUjZ4aDd5TklVb3N2dG1RUjFNMEZibzBXRkpidnIyM3ZSSFctdDBfcjNVTGpMU0NncFlsbDlIZS1DRWVpWkVWRVE3ZTlmajl1RmVJSHdzQklXWTFLaGdxazJVMkhXUkpJdWduZEZWUUxpa05zLW1EWXIyOVUwbXN1b21FQzBHdUxTSw?oc=5\" target=\"_blank\">AquaVision 2026 reveals full program focused on geopolitics and innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2026-05-08T07:00:00+00:00",
+      "last_seen": "2026-05-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -7582,6 +7611,20 @@
       "id": 1995,
       "headline": "Rekordmange konfirmantdåp - Den norske kirke",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYXNvODJJS05iN05fV21WWEJvOEdBY0tGeDVpMW5WU1lqT2hVX2FQRDM0TEdKNWE4ZUwtUnFvd0NIdUJTRjZtSzR6RDM1Tl9na3dtbzE2aTEzM0ZnM2I3Wk5qT1BaTEtDS196NGdNRWRYZ2M3alhTVWdYWFk1RFhFOFF5M0NGcFRjZnRKTXdWRW9LZ3JDNWc?oc=5\" target=\"_blank\">Rekordmange konfirmantdåp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Den norske kirke</font>",
+      "first_seen": "2026-02-19T08:00:00+00:00",
+      "last_seen": "2026-02-19T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2547,
+      "headline": "Cutting marine content in feed 'has made aquaculture impact worse' - Fishfarming expert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaGh1NFotdi1sTVF1UlREQlRmOXBWa3dWcEEwTzl6ZFBQNml2Y280R3M0cnBLX2RVaXdwLUdpYVNUaml4bklFZklrSEJmc0QzRG9jdjVqV1VZRV9QV2RMUHNPVE9CTFhycU1BMkJ3Z0RHQmcxSUhzNDdGdGR0NEpEelhtdjQ0UTQ1Q0R4VkNKcFJXSloxTV96NXNqZldvS1BuNGtJLV94clRYTnN1WU1oZERRRTdiREsxeDgwY2pvYzNIakl5QW9ETEVsTGVZMHRQUy1iR2VRSU1nelV2ZkpKU0xB?oc=5\" target=\"_blank\">Cutting marine content in feed 'has made aquaculture impact worse'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
       "first_seen": "2026-02-19T08:00:00+00:00",
       "last_seen": "2026-02-19T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -117224,6 +117267,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcWh6Ynl6SkVkcThYdzVva0RiRFV6US1jNEszcTRyX3ZpQlY1MlVKREZ6dXJ5WTFKMmViR0FIY01SVkhhQ3MzN2VhamNsaTJtdklZbFFEelpkQ2YyS0hGbmdIMUFXLVFOTGtKSWRZMTE2RUhfcnZzaXZsYVZUdW9feW5xUi1LaHNvT3FvTDFCZkdSZUNFNFVUQzdoWXRlY3QzNmNNczFZVHFKbnlITGk4VWFVWktaMDg?oc=5\" target=\"_blank\">MV Skretting Gro: Vertom Group delivers diesel-electric vessel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Portuaria</font>"
+    },
+    {
+      "id": 528928,
+      "story_id": 2549,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1pRNUtGdzFuVTFUSURNVUVad3FIRnk0S3l5VmV0bkZ5bDV0ZzJnS3p2M3ZNeTBNTnhnRjVrTVlVdms1VjFVSndfbzQweldrd0RtNWVuYXdrVk5PVk12OTJDTC1kbmRhclFRSDczSFlOb0ZUbGRaSWJ5Tlhfdkxtc21tUVQxLS1HOUNzYzJsY3NzNFdBXzBIOVhnTWxzTjN1TXMwSGNUeThDYW9jd0Q4cWRoUGFPM09IeGZwOHgzWEdmaVE?oc=5",
+      "title": "BioMar reaches global ASC feed certification milestone with Greek plant approval - Undercurrent News",
+      "source_name": "Undercurrent News",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-09-09T09:21:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1pRNUtGdzFuVTFUSURNVUVad3FIRnk0S3l5VmV0bkZ5bDV0ZzJnS3p2M3ZNeTBNTnhnRjVrTVlVdms1VjFVSndfbzQweldrd0RtNWVuYXdrVk5PVk12OTJDTC1kbmRhclFRSDczSFlOb0ZUbGRaSWJ5Tlhfdkxtc21tUVQxLS1HOUNzYzJsY3NzNFdBXzBIOVhnTWxzTjN1TXMwSGNUeThDYW9jd0Q4cWRoUGFPM09IeGZwOHgzWEdmaVE?oc=5\" target=\"_blank\">BioMar reaches global ASC feed certification milestone with Greek plant approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>"
+    },
+    {
+      "id": 529351,
+      "story_id": 1934,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnNCcWdYV1kzSnA2Z05SNWhCcm9GNHprMWJqUkdDMzhISEJyQVhVRXd6ZVVGUF9GQUYxeDB4UW9TVjh3ZDduN0VQTURmSDlTYk40Mkt1Z1hWa2p1alk5dm8tZmc1MUpKeDU0alhWZ0ZSb3BuZUVWSXo2cGl6Q1R2ODZnR1c0MUo0UmNZbGZxSnVwUQ?oc=5",
+      "title": "Spectre sells majority stake to Schouw & Co. - bechbruun.com",
+      "source_name": "bechbruun.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-03T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnNCcWdYV1kzSnA2Z05SNWhCcm9GNHprMWJqUkdDMzhISEJyQVhVRXd6ZVVGUF9GQUYxeDB4UW9TVjh3ZDduN0VQTURmSDlTYk40Mkt1Z1hWa2p1alk5dm8tZmc1MUpKeDU0alhWZ0ZSb3BuZUVWSXo2cGl6Q1R2ODZnR1c0MUo0UmNZbGZxSnVwUQ?oc=5\" target=\"_blank\">Spectre sells majority stake to Schouw & Co.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bechbruun.com</font>"
+    },
+    {
+      "id": 529496,
+      "story_id": 2547,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaGh1NFotdi1sTVF1UlREQlRmOXBWa3dWcEEwTzl6ZFBQNml2Y280R3M0cnBLX2RVaXdwLUdpYVNUaml4bklFZklrSEJmc0QzRG9jdjVqV1VZRV9QV2RMUHNPVE9CTFhycU1BMkJ3Z0RHQmcxSUhzNDdGdGR0NEpEelhtdjQ0UTQ1Q0R4VkNKcFJXSloxTV96NXNqZldvS1BuNGtJLV94clRYTnN1WU1oZERRRTdiREsxeDgwY2pvYzNIakl5QW9ETEVsTGVZMHRQUy1iR2VRSU1nelV2ZkpKU0xB?oc=5",
+      "title": "Cutting marine content in feed 'has made aquaculture impact worse' - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-02-19T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaGh1NFotdi1sTVF1UlREQlRmOXBWa3dWcEEwTzl6ZFBQNml2Y280R3M0cnBLX2RVaXdwLUdpYVNUaml4bklFZklrSEJmc0QzRG9jdjVqV1VZRV9QV2RMUHNPVE9CTFhycU1BMkJ3Z0RHQmcxSUhzNDdGdGR0NEpEelhtdjQ0UTQ1Q0R4VkNKcFJXSloxTV96NXNqZldvS1BuNGtJLV94clRYTnN1WU1oZERRRTdiREsxeDgwY2pvYzNIakl5QW9ETEVsTGVZMHRQUy1iR2VRSU1nelV2ZkpKU0xB?oc=5\" target=\"_blank\">Cutting marine content in feed 'has made aquaculture impact worse'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 529505,
+      "story_id": 2548,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHBid0l1M25xZWZZQ01XZ1R4Zl9PWEtSN1JjM0E2cWFfWVVDc1VnX2lVM0tuSHl6blpoUjZ4aDd5TklVb3N2dG1RUjFNMEZibzBXRkpidnIyM3ZSSFctdDBfcjNVTGpMU0NncFlsbDlIZS1DRWVpWkVWRVE3ZTlmajl1RmVJSHdzQklXWTFLaGdxazJVMkhXUkpJdWduZEZWUUxpa05zLW1EWXIyOVUwbXN1b21FQzBHdUxTSw?oc=5",
+      "title": "AquaVision 2026 reveals full program focused on geopolitics and innovation - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHBid0l1M25xZWZZQ01XZ1R4Zl9PWEtSN1JjM0E2cWFfWVVDc1VnX2lVM0tuSHl6blpoUjZ4aDd5TklVb3N2dG1RUjFNMEZibzBXRkpidnIyM3ZSSFctdDBfcjNVTGpMU0NncFlsbDlIZS1DRWVpWkVWRVE3ZTlmajl1RmVJSHdzQklXWTFLaGdxazJVMkhXUkpJdWduZEZWUUxpa05zLW1EWXIyOVUwbXN1b21FQzBHdUxTSw?oc=5\" target=\"_blank\">AquaVision 2026 reveals full program focused on geopolitics and innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -121841,7 +121980,7 @@
         "BioMar": 10,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 10
+        "Skretting": 11
       },
       {
         "week": "2026-W09",
@@ -121929,7 +122068,7 @@
         "BioMar": 21,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 23
+        "Skretting": 24
       },
       {
         "week": "2026-W20",
@@ -121990,7 +122129,7 @@
       {
         "week": "2026-W27",
         "Aller Aqua": 0,
-        "BioMar": 99,
+        "BioMar": 100,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 10
@@ -122070,7 +122209,7 @@
       {
         "week": "2026-W37",
         "Aller Aqua": 0,
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 2
@@ -122083,7 +122222,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1806
+        "count": 1808
       },
       {
         "company": "Cargill",
@@ -122095,7 +122234,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1096
+        "count": 1098
       }
     ]
   }
