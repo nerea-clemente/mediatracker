@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T13:42:39+00:00",
+  "generated_at": "2026-09-10T19:00:17+00:00",
   "stats": {
-    "mention_count": 3374,
+    "mention_count": 3375,
     "story_count": 2532,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -435,12 +435,12 @@
       "headline": "Long term debt to total equity ratio of BioMar Group A/S – HAM:2IT - tradingview.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZW9uWEFBaU1MMTBQOUtESTN1cUxrdWYwZEdiamloR0VSU2Ewc3VZN0tWc3Q4NmNmRmJsZ2o4RHJ1ZU01cHlIZFIyaDF5VHl5clFaM1JQc1g1S1Q3d01DN2tLLXk2SXNjZ3Fua0l6dlR3c2IzX1pNNUQ3OEdGTEF3MGpMQTdBQlU5MERzbUJSWTlzdUt1OVNlVmJnVUFTQXd1eEw0Xw?oc=5\" target=\"_blank\">Long term debt to total equity ratio of BioMar Group A/S – HAM:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>",
       "first_seen": "2026-09-10T01:19:19+00:00",
-      "last_seen": "2026-09-10T01:19:19+00:00",
+      "last_seen": "2026-09-10T01:20:23+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -117626,6 +117626,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZW9uWEFBaU1MMTBQOUtESTN1cUxrdWYwZEdiamloR0VSU2Ewc3VZN0tWc3Q4NmNmRmJsZ2o4RHJ1ZU01cHlIZFIyaDF5VHl5clFaM1JQc1g1S1Q3d01DN2tLLXk2SXNjZ3Fua0l6dlR3c2IzX1pNNUQ3OEdGTEF3MGpMQTdBQlU5MERzbUJSWTlzdUt1OVNlVmJnVUFTQXd1eEw0Xw?oc=5\" target=\"_blank\">Long term debt to total equity ratio of BioMar Group A/S – HAM:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tradingview.com</font>"
+    },
+    {
+      "id": 535247,
+      "story_id": 2554,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkhsNGlCSmNIS0JVUHo5U3dEaEtFU1RZdnI5U0QtZUFlSTZCcEVHb0Q2bjctR2tXZW96THhnNzUzX0EtWV9JS1hUX0poY3dsTS1iRGNxVFliWWZlbThWV3Z4ajhRZ3dfdlBVakxXdmZSOWh2MnpPTEhMZmY3YUNxcWhTb3BSNW50VUNmTlRUUHBIQ0lmMFNCMDVMVkNDdjh0eHF2VVh6MA?oc=5",
+      "title": "Enterprise value to revenue forward of BioMar Group A/S – HAM:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-10T01:20:23+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkhsNGlCSmNIS0JVUHo5U3dEaEtFU1RZdnI5U0QtZUFlSTZCcEVHb0Q2bjctR2tXZW96THhnNzUzX0EtWV9JS1hUX0poY3dsTS1iRGNxVFliWWZlbThWV3Z4ajhRZ3dfdlBVakxXdmZSOWh2MnpPTEhMZmY3YUNxcWhTb3BSNW50VUNmTlRUUHBIQ0lmMFNCMDVMVkNDdjh0eHF2VVh6MA?oc=5\" target=\"_blank\">Enterprise value to revenue forward of BioMar Group A/S – HAM:2IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
     }
   ],
   "share_of_voice": {
@@ -122480,7 +122504,7 @@
       {
         "week": "2026-W37",
         "Aller Aqua": 0,
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -122493,7 +122517,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1814
+        "count": 1815
       },
       {
         "company": "Cargill",
