@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T23:47:09+00:00",
+  "generated_at": "2026-09-10T09:57:28+00:00",
   "stats": {
-    "mention_count": 3370,
-    "story_count": 2530,
+    "mention_count": 3372,
+    "story_count": 2531,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 42
@@ -401,6 +401,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2553,
+      "headline": "Skretting será parte de AquaNext con foco en los desafíos de la alimentación - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOclhFQ0dadFQyUXRjWkxkMjVXZnBjdloxb2tTWjA1LVZjSVgxNWtnb3ItQnJ3cWljTnFsU000ZHdmZzYzaTVMZTY2b2dOanp3ZjhRMjRacGl1SkE2b0VlYkkwUXZwcGcyWXRBTUE5dzhfaGRBdGpsbkdmRTduaWFkaDVtekZVc0ZTNURfSXZwQ0dpSFZSSjYyWHFRMmJnQQ?oc=5\" target=\"_blank\">Skretting será parte de AquaNext con foco en los desafíos de la alimentación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2026-09-10T09:51:39+00:00",
+      "last_seen": "2026-09-10T09:51:39+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2552,
       "headline": "Aktieselskabet Schouw & Co. - Via Ritzau",
@@ -12618,7 +12632,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -117501,6 +117515,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0hfZHE0c191Znk3aERqU2JyaHF2UlRQUEVpMUhGMFFRR3dnVE1XSWxza2lpU0ZtQlpUNzluTVhHTEVMRGVwd3l2cHJfMVI3N0ttWjE2MUxadzlKa0pkSlc3RHV4dHZsbWpBQjdhSzlGVTRHZVRTVkJqenBMZU41Ymt3STZ5Rm9xZEg2bldHLVdIalIxM2puTFNFZw?oc=5\" target=\"_blank\">11 kamerater bar Haakon (23) til Preikestolen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 533585,
+      "story_id": 838,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMW1BRnBpQjRkUlA4X2pNN2RyYTQzclpBV1BFQ2dFOUV4Q1NTbzlYM3lRamtRSE1tLXJtQVZyWi03QUtTTllxeG5jMFBoMUxiSWdMYzJVZW9mTEg4VXJHdFZpVk5TRTJFTFd2SE55QWprR21SaEdiZ0lSbkVGUjlvdlgxR1lnUG9qc1hmcGJhOW0tMnZDWEtwcTZNOVl1SS00dE9RaDdtWTJSOFJOOHJTTTMzaWJPaUI5UExqQ3FQdVF4MlE4MlFwb0Y3bUh6NVZFRnZBR0Z2Tm9Vdw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 30 2025 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-07-28T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMW1BRnBpQjRkUlA4X2pNN2RyYTQzclpBV1BFQ2dFOUV4Q1NTbzlYM3lRamtRSE1tLXJtQVZyWi03QUtTTllxeG5jMFBoMUxiSWdMYzJVZW9mTEg4VXJHdFZpVk5TRTJFTFd2SE55QWprR21SaEdiZ0lSbkVGUjlvdlgxR1lnUG9qc1hmcGJhOW0tMnZDWEtwcTZNOVl1SS00dE9RaDdtWTJSOFJOOHJTTTMzaWJPaUI5UExqQ3FQdVF4MlE4MlFwb0Y3bUh6NVZFRnZBR0Z2Tm9Vdw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 30 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finansavisen</font>"
+    },
+    {
+      "id": 533970,
+      "story_id": 2553,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclhFQ0dadFQyUXRjWkxkMjVXZnBjdloxb2tTWjA1LVZjSVgxNWtnb3ItQnJ3cWljTnFsU000ZHdmZzYzaTVMZTY2b2dOanp3ZjhRMjRacGl1SkE2b0VlYkkwUXZwcGcyWXRBTUE5dzhfaGRBdGpsbkdmRTduaWFkaDVtekZVc0ZTNURfSXZwQ0dpSFZSSjYyWHFRMmJnQQ?oc=5",
+      "title": "Skretting será parte de AquaNext con foco en los desafíos de la alimentación - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-09-10T09:51:39+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOclhFQ0dadFQyUXRjWkxkMjVXZnBjdloxb2tTWjA1LVZjSVgxNWtnb3ItQnJ3cWljTnFsU000ZHdmZzYzaTVMZTY2b2dOanp3ZjhRMjRacGl1SkE2b0VlYkkwUXZwcGcyWXRBTUE5dzhfaGRBdGpsbkdmRTduaWFkaDVtekZVc0ZTNURfSXZwQ0dpSFZSSjYyWHFRMmJnQQ?oc=5\" target=\"_blank\">Skretting será parte de AquaNext con foco en los desafíos de la alimentación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -121891,7 +121953,7 @@
       {
         "week": "2025-W31",
         "Aller Aqua": 0,
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 3
@@ -122358,7 +122420,7 @@
         "BioMar": 7,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 2
+        "Skretting": 3
       }
     ],
     "totals": [
@@ -122368,7 +122430,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1811
+        "count": 1812
       },
       {
         "company": "Cargill",
@@ -122380,7 +122442,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1099
+        "count": 1100
       }
     ]
   }
