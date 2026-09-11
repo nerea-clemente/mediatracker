@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T09:55:22+00:00",
+  "generated_at": "2026-09-11T13:40:23+00:00",
   "stats": {
-    "mention_count": 3378,
+    "mention_count": 3379,
     "story_count": 2533,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
@@ -407,12 +407,12 @@
       "headline": "Skretting abre ACTívate 2026 para reconocer iniciativas sostenibles de la salmonicultura - Mundoacuicola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnRBcTdObFJwa2k3WTZaWFBYVWZIVFFKMi1BV1RKOGxpUXJTdS1lcGN6RVlMYk96ckVJaFdPMnJUeHhmOEQ3Q3lsbkxoNk5Hazh4WUdPVG1hLWJZQjJJa1V3bnlTMFFGMW1zNGU0SU4xclRibTRGVW1BV3lKOGp4Nkl4TkJiaWwzaWVtTDBmSF8zeTI0NmpBYWQ5SU9nc2tObkxPWi1Rd3NmaGh3b1RwSFVXU3poaE1ianVPSG8wRQ?oc=5\" target=\"_blank\">Skretting abre ACTívate 2026 para reconocer iniciativas sostenibles de la salmonicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
       "first_seen": "2026-09-11T02:53:18+00:00",
-      "last_seen": "2026-09-11T02:53:18+00:00",
+      "last_seen": "2026-09-11T09:50:04+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -117736,6 +117736,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnRBcTdObFJwa2k3WTZaWFBYVWZIVFFKMi1BV1RKOGxpUXJTdS1lcGN6RVlMYk96ckVJaFdPMnJUeHhmOEQ3Q3lsbkxoNk5Hazh4WUdPVG1hLWJZQjJJa1V3bnlTMFFGMW1zNGU0SU4xclRibTRGVW1BV3lKOGp4Nkl4TkJiaWwzaWVtTDBmSF8zeTI0NmpBYWQ5SU9nc2tObkxPWi1Rd3NmaGh3b1RwSFVXU3poaE1ianVPSG8wRQ?oc=5\" target=\"_blank\">Skretting abre ACTívate 2026 para reconocer iniciativas sostenibles de la salmonicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 539224,
+      "story_id": 2555,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2lVNWNOX3ZyUHRfd3JhVENQbl9URGNhcG9QXzlQSGRHbkNEVUl5ZkZDYkhvc0dQcFhPMF93V090MmZKSU1YVC0yUk1jenZWRG1JRlFaZmstMHNfVGZKOWtjZ0VSVEJXMlg5LWRFTkRWZXV3R1dVODc4QlJqLWpHcUVlbk1oVV9DWkRQY21wMHFZbXpJZlBjYnpRb0ZVaHZNMlQ0aWZ4OEFfUQ?oc=5",
+      "title": "Skretting abre convocatoria ACTívate 2026 para proyectos de salmonicultura sostenible - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-09-11T09:50:04+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2lVNWNOX3ZyUHRfd3JhVENQbl9URGNhcG9QXzlQSGRHbkNEVUl5ZkZDYkhvc0dQcFhPMF93V090MmZKSU1YVC0yUk1jenZWRG1JRlFaZmstMHNfVGZKOWtjZ0VSVEJXMlg5LWRFTkRWZXV3R1dVODc4QlJqLWpHcUVlbk1oVV9DWkRQY21wMHFZbXpJZlBjYnpRb0ZVaHZNMlQ0aWZ4OEFfUQ?oc=5\" target=\"_blank\">Skretting abre convocatoria ACTívate 2026 para proyectos de salmonicultura sostenible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -122593,7 +122617,7 @@
         "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 4
+        "Skretting": 5
       }
     ],
     "totals": [
@@ -122615,7 +122639,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1102
+        "count": 1103
       }
     ]
   }
