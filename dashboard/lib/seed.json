@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T13:40:23+00:00",
+  "generated_at": "2026-09-11T19:01:26+00:00",
   "stats": {
-    "mention_count": 3379,
-    "story_count": 2533,
+    "mention_count": 3381,
+    "story_count": 2535,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 41
@@ -333,6 +333,7 @@
     "advokatbladet",
     "aesby.no",
     "afcent.af.mil",
+    "aftenbladet.no",
     "agderposten.no",
     "agnavigator.com",
     "altaposten.no",
@@ -402,6 +403,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2557,
+      "headline": "To fulltreffere fra Espen Tjøstheim Skretting - aftenbladet.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0hqd1VNN1YzQ29XRWVYUE92aS0zS1I2dXBZTGV2dS1BSHpBYWtJTTNfTi1PbXQxN0I2aFVWYkNaYVlsb2doSzMtR05rdzhmVFVuNGJJS1dGWHVUN3ZNUWZhTkdsRjBHUlRtQkg2OGxVM3BrdUFCN0Jqdl9xdkJCLVNxZ3dyY0FSeDMxN0xfWGZ3dw?oc=5\" target=\"_blank\">To fulltreffere fra Espen Tjøstheim Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aftenbladet.no</font>",
+      "first_seen": "2026-09-11T18:08:10+00:00",
+      "last_seen": "2026-09-11T18:08:10+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2555,
       "headline": "Skretting abre ACTívate 2026 para reconocer iniciativas sostenibles de la salmonicultura - Mundoacuicola",
@@ -1269,6 +1284,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2556,
+      "headline": "AI-powered autonomous feeding expands across Scottish salmon sites - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVkyTGVncmI5bDBTYTczR0pnZ3cyNW9KZHlaTGJURmJ2bXJaVVR1U2ZvbFE5ZUJsVDVYSHJlTktsbFJJa0l6Z3pqazhQd2oyU3N4VS0tMXpuTl9mSW9NdzVyUVNCRXdxTGR3bFRPOUJsRG00SkJqMm5Qd3BvVlhIMlFFWXdPUk1QZ05rRVRZQ3RMb3RzYXJhTXRUY0tsYUJ1TndIVWxzcTlqcWM?oc=5\" target=\"_blank\">AI-powered autonomous feeding expands across Scottish salmon sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2026-08-20T09:33:28+00:00",
+      "last_seen": "2026-08-20T09:33:28+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2249,
@@ -117760,6 +117789,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2lVNWNOX3ZyUHRfd3JhVENQbl9URGNhcG9QXzlQSGRHbkNEVUl5ZkZDYkhvc0dQcFhPMF93V090MmZKSU1YVC0yUk1jenZWRG1JRlFaZmstMHNfVGZKOWtjZ0VSVEJXMlg5LWRFTkRWZXV3R1dVODc4QlJqLWpHcUVlbk1oVV9DWkRQY21wMHFZbXpJZlBjYnpRb0ZVaHZNMlQ0aWZ4OEFfUQ?oc=5\" target=\"_blank\">Skretting abre convocatoria ACTívate 2026 para proyectos de salmonicultura sostenible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 539500,
+      "story_id": 2556,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVkyTGVncmI5bDBTYTczR0pnZ3cyNW9KZHlaTGJURmJ2bXJaVVR1U2ZvbFE5ZUJsVDVYSHJlTktsbFJJa0l6Z3pqazhQd2oyU3N4VS0tMXpuTl9mSW9NdzVyUVNCRXdxTGR3bFRPOUJsRG00SkJqMm5Qd3BvVlhIMlFFWXdPUk1QZ05rRVRZQ3RMb3RzYXJhTXRUY0tsYUJ1TndIVWxzcTlqcWM?oc=5",
+      "title": "AI-powered autonomous feeding expands across Scottish salmon sites - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-20T09:33:28+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVkyTGVncmI5bDBTYTczR0pnZ3cyNW9KZHlaTGJURmJ2bXJaVVR1U2ZvbFE5ZUJsVDVYSHJlTktsbFJJa0l6Z3pqazhQd2oyU3N4VS0tMXpuTl9mSW9NdzVyUVNCRXdxTGR3bFRPOUJsRG00SkJqMm5Qd3BvVlhIMlFFWXdPUk1QZ05rRVRZQ3RMb3RzYXJhTXRUY0tsYUJ1TndIVWxzcTlqcWM?oc=5\" target=\"_blank\">AI-powered autonomous feeding expands across Scottish salmon sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 540073,
+      "story_id": 2557,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0hqd1VNN1YzQ29XRWVYUE92aS0zS1I2dXBZTGV2dS1BSHpBYWtJTTNfTi1PbXQxN0I2aFVWYkNaYVlsb2doSzMtR05rdzhmVFVuNGJJS1dGWHVUN3ZNUWZhTkdsRjBHUlRtQkg2OGxVM3BrdUFCN0Jqdl9xdkJCLVNxZ3dyY0FSeDMxN0xfWGZ3dw?oc=5",
+      "title": "To fulltreffere fra Espen Tjøstheim Skretting - aftenbladet.no",
+      "source_name": "aftenbladet.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-09-11T18:08:10+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0hqd1VNN1YzQ29XRWVYUE92aS0zS1I2dXBZTGV2dS1BSHpBYWtJTTNfTi1PbXQxN0I2aFVWYkNaYVlsb2doSzMtR05rdzhmVFVuNGJJS1dGWHVUN3ZNUWZhTkdsRjBHUlRtQkg2OGxVM3BrdUFCN0Jqdl9xdkJCLVNxZ3dyY0FSeDMxN0xfWGZ3dw?oc=5\" target=\"_blank\">To fulltreffere fra Espen Tjøstheim Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aftenbladet.no</font>"
     }
   ],
   "share_of_voice": {
@@ -122590,7 +122667,7 @@
       {
         "week": "2026-W34",
         "Aller Aqua": 0,
-        "BioMar": 18,
+        "BioMar": 19,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 11
@@ -122617,7 +122694,7 @@
         "BioMar": 10,
         "Cargill": 0,
         "Polarfeed": 0,
-        "Skretting": 5
+        "Skretting": 6
       }
     ],
     "totals": [
@@ -122627,7 +122704,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1816
+        "count": 1817
       },
       {
         "company": "Cargill",
@@ -122639,7 +122716,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1103
+        "count": 1104
       }
     ]
   }
