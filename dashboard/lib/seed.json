@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-13T18:36:05+00:00",
+  "generated_at": "2026-09-13T23:51:30+00:00",
   "stats": {
-    "mention_count": 3392,
-    "story_count": 2540,
+    "mention_count": 3394,
+    "story_count": 2542,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 41
@@ -220,6 +220,7 @@
     "NTB Kommunikasjon",
     "Nationen",
     "Nettavisen",
+    "News Dakota",
     "Norges idrettsforbund",
     "Norsk Byggebransje",
     "Norsk Lokalradioforbund",
@@ -470,6 +471,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2564,
+      "headline": "Schouw & Co. Capital Markets Day 2026 - marketscreener.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPVk9IUzZYTzJNYi1URnotNmlGeFZwQWROOEhjMTkxMDlSM1lUcVo0RTk1dWpiaE9zanBYcHlHMDctOGhrZ0lBVlZ5S1MwNWVSanZCWkVrd1VkMTFjQS1hd0V3eU9SU2RoYzN3Rmk5T0VTUEY0NHNRRXJyMTJtV3N4QjBTVTF0S1d5TjZraTdIa2o?oc=5\" target=\"_blank\">Schouw & Co. Capital Markets Day 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "first_seen": "2026-09-09T12:33:05+00:00",
+      "last_seen": "2026-09-09T12:33:05+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -7790,6 +7805,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2563,
+      "headline": "LeAnne DeLores Johnson Skretting - News Dakota",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE83WkRZelJJaHNBbHBlaEZKcGpxSkUxb2JLQ0RBWmMyeWNZU19wMEdRM0RvSnowaWFUV1RubUpQbVkxUjlXM1FHUWdJWDY3VHhHUDlHRHZDR2h6dGEwUi1vSEV0VEFsTGxjZTViRnRObEF0M0hydE5lSFZUUQ?oc=5\" target=\"_blank\">LeAnne DeLores Johnson Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Dakota</font>",
+      "first_seen": "2026-02-18T08:00:00+00:00",
+      "last_seen": "2026-02-18T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 313,
@@ -118171,6 +118200,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSXBWMTBPMFRMZjFNQWE2amJfNHg4TXhZNDVfYzBOVnhGLWloaVkzOU44N1g0aVdCbVRjNFJUU3dqdzVLT3d4QzE1VC1VNklMSENndVNhQnhFekp4OVh4LVQwNnI0RFlHWTVOYWFfeVdqajJWdk9CYk4yZ2tqbEt4Sg?oc=5\" target=\"_blank\">Skretting avanza en 2025 en abastecimiento responsable, acción climática e innovación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+    },
+    {
+      "id": 549297,
+      "story_id": 2564,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVk9IUzZYTzJNYi1URnotNmlGeFZwQWROOEhjMTkxMDlSM1lUcVo0RTk1dWpiaE9zanBYcHlHMDctOGhrZ0lBVlZ5S1MwNWVSanZCWkVrd1VkMTFjQS1hd0V3eU9SU2RoYzN3Rmk5T0VTUEY0NHNRRXJyMTJtV3N4QjBTVTF0S1d5TjZraTdIa2o?oc=5",
+      "title": "Schouw & Co. Capital Markets Day 2026 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-09-09T12:33:05+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPVk9IUzZYTzJNYi1URnotNmlGeFZwQWROOEhjMTkxMDlSM1lUcVo0RTk1dWpiaE9zanBYcHlHMDctOGhrZ0lBVlZ5S1MwNWVSanZCWkVrd1VkMTFjQS1hd0V3eU9SU2RoYzN3Rmk5T0VTUEY0NHNRRXJyMTJtV3N4QjBTVTF0S1d5TjZraTdIa2o?oc=5\" target=\"_blank\">Schouw & Co. Capital Markets Day 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 549429,
+      "story_id": 2563,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83WkRZelJJaHNBbHBlaEZKcGpxSkUxb2JLQ0RBWmMyeWNZU19wMEdRM0RvSnowaWFUV1RubUpQbVkxUjlXM1FHUWdJWDY3VHhHUDlHRHZDR2h6dGEwUi1vSEV0VEFsTGxjZTViRnRObEF0M0hydE5lSFZUUQ?oc=5",
+      "title": "LeAnne DeLores Johnson Skretting - News Dakota",
+      "source_name": "News Dakota",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-02-18T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE83WkRZelJJaHNBbHBlaEZKcGpxSkUxb2JLQ0RBWmMyeWNZU19wMEdRM0RvSnowaWFUV1RubUpQbVkxUjlXM1FHUWdJWDY3VHhHUDlHRHZDR2h6dGEwUi1vSEV0VEFsTGxjZTViRnRObEF0M0hydE5lSFZUUQ?oc=5\" target=\"_blank\">LeAnne DeLores Johnson Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Dakota</font>"
     }
   ],
   "share_of_voice": {
@@ -122796,7 +122873,7 @@
         "BioMar": 10,
         "Cargill": 1,
         "Polarfeed": 0,
-        "Skretting": 11
+        "Skretting": 12
       },
       {
         "week": "2026-W09",
@@ -123025,7 +123102,7 @@
       {
         "week": "2026-W37",
         "Aller Aqua": 0,
-        "BioMar": 10,
+        "BioMar": 11,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 6
@@ -123038,7 +123115,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1823
+        "count": 1824
       },
       {
         "company": "Cargill",
@@ -123050,7 +123127,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1108
+        "count": 1109
       }
     ]
   }
