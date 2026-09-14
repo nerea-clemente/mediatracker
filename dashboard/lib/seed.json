@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T10:53:22+00:00",
+  "generated_at": "2026-09-14T15:56:49+00:00",
   "stats": {
-    "mention_count": 3394,
-    "story_count": 2542,
+    "mention_count": 3398,
+    "story_count": 2543,
     "analyzed_count": 1105,
     "off_topic_mentions": 71,
     "off_topic_stories": 41
@@ -405,6 +405,34 @@
   ],
   "stories": [
     {
+      "id": 2565,
+      "headline": "Schouw & Co. share buy-back programme, week 37 2026 - The Manila Times",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnk4WnZwNmRCcndOWFlvdnZJY3p5TjRqSlhzdTdzOURYREJVUVUtQjBwQnF1VHVwYlBSOGM3SDZHS3gtZ1BWTnhWT24zdWVKblpFNlJ0SHIwVnJWY3QtRlluRk4zeHExRjhVUGl0dllkRFFZTGE1aXhLTzJhN3A4aU9kMEJrY0V1RFFWQU1CZDhpXzVwczBpWUJpdnRPQWVMcUlWNUd5NUJaTkwtQ2xzY3E3emF1UVBjZXI3dTRB0gHDAUFVX3lxTE8zZVJPbXRhX1gwZXh5MGhCTW5NZmxKU1dYMUlsYzdmVVJySnp1R3BYa29FQWc1LUdaTWdqWjBZUTdpMUl0YURnQmJmVFJfYm93VnhGb1FIUkdHMS10N3NjdzEyZllqYVRkZHJjazFCci1QSXdsTnpRUkc3dW14X0hMV1kxdGx3YkUxU0dIdDZMcjJldVVSUkY0b3NCRzE2NVBIVThEak1vN3BLVm9BU0QyTnNlOFk4dElFSVpZQnJBRU5Udw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 37 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+      "first_seen": "2026-09-14T13:41:53+00:00",
+      "last_seen": "2026-09-14T13:41:53+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2545,
+      "headline": "BioMar Greece obtains ASC Feed certification - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2RjNi1BRFZaM3p2VXAtSnVQUW1zb2xkWkhXaDMxLU9QR1NlYzJROHdfa3dZS2dwMUh5LVlnYWlLaVRjVURoMXh2aV9aeFh5V3VScUw3STRmT1FMSWtOTG9fUlRlYk14ajNWNnpOQmtXVWZiS3VFcF9XOTQwTEdIM0Ytbw?oc=5\" target=\"_blank\">BioMar Greece obtains ASC Feed certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2026-09-08T08:33:04+00:00",
+      "last_seen": "2026-09-14T13:00:07+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 4,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2557,
       "headline": "To fulltreffere fra Espen Tjøstheim Skretting - aftenbladet.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0hqd1VNN1YzQ29XRWVYUE92aS0zS1I2dXBZTGV2dS1BSHpBYWtJTTNfTi1PbXQxN0I2aFVWYkNaYVlsb2doSzMtR05rdzhmVFVuNGJJS1dGWHVUN3ZNUWZhTkdsRjBHUlRtQkg2OGxVM3BrdUFCN0Jqdl9xdkJCLVNxZ3dyY0FSeDMxN0xfWGZ3dw?oc=5\" target=\"_blank\">To fulltreffere fra Espen Tjøstheim Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aftenbladet.no</font>",
@@ -431,20 +459,6 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
-    },
-    {
-      "id": 2545,
-      "headline": "BioMar Greece obtains ASC Feed certification - The Fish Site",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2RjNi1BRFZaM3p2VXAtSnVQUW1zb2xkWkhXaDMxLU9QR1NlYzJROHdfa3dZS2dwMUh5LVlnYWlLaVRjVURoMXh2aV9aeFh5V3VScUw3STRmT1FMSWtOTG9fUlRlYk14ajNWNnpOQmtXVWZiS3VFcF9XOTQwTEdIM0Ytbw?oc=5\" target=\"_blank\">BioMar Greece obtains ASC Feed certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
-      "first_seen": "2026-09-08T08:33:04+00:00",
-      "last_seen": "2026-09-10T13:17:56+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 3,
-      "is_about_target_brand": true,
-      "company": "BioMar"
     },
     {
       "id": 2553,
@@ -532,15 +546,15 @@
     },
     {
       "id": 2544,
-      "headline": "Schouw & Co. share buy-back programme, week 36 2026 - procurementmag.com",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LdVhONkdrQ1V5LXplSG9wcjlwS2pxXzJPN2c4Smh3N0VkZDZjdExrVjRKZ0FJYWk4V0plTFR2ZC1nckRYOTJrZXlWZWg4X2o1ZzNBeWxGRG9YYzZO?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 36 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">procurementmag.com</font>",
-      "first_seen": "2026-09-08T06:25:33+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 36 2026 - NTB Kommunikasjon",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQczZodHdNUXlNUmt6RXhNLUhqYlQ5bmVPSDJrQTEtUE80bDFXOFBLcFg5U0dsNmJRMng1V05iYW9rcUFPWG12OXJYX29RUHFtbTNpMWhTYXFlTFg0eUtSaDE2VUduQ2w5cWNOTjREVmIzZ3RXVFktZUwyNm1KS3BlRFZSY1MwRFdBUk1ZSk1qNV8zU2daX2pqZmlLdVQ3TmNiMV9NRl9hSGQxSzA0TURQYXY5TVNiQ2ZGNENCMlF1dlVTaU9rcHZoRTVVcw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 36 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>",
+      "first_seen": "2026-09-07T13:32:27+00:00",
       "last_seen": "2026-09-08T06:25:33+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -9875,7 +9889,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -118248,6 +118262,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE83WkRZelJJaHNBbHBlaEZKcGpxSkUxb2JLQ0RBWmMyeWNZU19wMEdRM0RvSnowaWFUV1RubUpQbVkxUjlXM1FHUWdJWDY3VHhHUDlHRHZDR2h6dGEwUi1vSEV0VEFsTGxjZTViRnRObEF0M0hydE5lSFZUUQ?oc=5\" target=\"_blank\">LeAnne DeLores Johnson Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Dakota</font>"
+    },
+    {
+      "id": 550982,
+      "story_id": 2545,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHN0VHN2ajZpTnBZcDJ0bDZyc19zSG11RmN4SkU1bWxJVUFpVzk4cldmN25ua0szNlBkeXRacWpBUEJTSG9OVmpzbUhsQ1QtOXNJaFd1dUQzX1dPbkp0djBJSmpCSDBiS0ZMdGxWbmZFTnZwTlJCbHFGQ1FLejAweGRFWlBka3FiNkFob1JpdTIwb2wyeXE2WGY3Y3oxSnBNdGc?oc=5",
+      "title": "BioMar completes its ASC certification pipeline with BioMar Greece - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-09-14T13:00:07+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHN0VHN2ajZpTnBZcDJ0bDZyc19zSG11RmN4SkU1bWxJVUFpVzk4cldmN25ua0szNlBkeXRacWpBUEJTSG9OVmpzbUhsQ1QtOXNJaFd1dUQzX1dPbkp0djBJSmpCSDBiS0ZMdGxWbmZFTnZwTlJCbHFGQ1FLejAweGRFWlBka3FiNkFob1JpdTIwb2wyeXE2WGY3Y3oxSnBNdGc?oc=5\" target=\"_blank\">BioMar completes its ASC certification pipeline with BioMar Greece</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 551081,
+      "story_id": 257,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMFAyOE1JM3BVVGx1Z3Q5ZmZvazM4REQ0ZnZSbGZ5TFczQk1JcWQyRDQ2R0VyaWltX2JaTU14ckQwZHA5Rm5Ec3picmlfMGdvYmNzcGd3LXRHUjVKRmppYlk2TnF4Zmo1NXBJWDh2M0ExTm9QMXMyMm9xUm1jb0R6LXROYlhmdW9LM2xVa2JBU0s1SGFmQ0Z4VnF2ZmxodktsTU1DVjRRVmVPYU5yRmVKWC1SbEZQUTV2R0Ywdy1GcndKZlAyWmFQVU1aSG1jTE5aQWpEcEJYUdIB3AFBVV95cUxNMXR5UlhtMUxlN1ZhcVFPbnRIZ0IwWWlMWmtSNmVKelJoNEI2TF96amZSelJZSEF6OWxpQzlWc0dERVV0aURZRmx4aFRqcGd2SEJnR0haV0FQU3BZY0w1RDczNy03T19lcUozZmUzb2g5OXJjYnVWYWJKeGMybGhIZkIxdzFkYmVvcXlSNmhKWlFrRk5xVVZqSDRIcFpiV1pCc29FNE5oLTFRS3dXNEdjcFdCVTNfOXR5OVlNQ3BQYjM4eTdHdWJObkIzSTM4eUNxTWp6S2ZMc1EzMGFz?oc=5",
+      "title": "BioMar preliminary financial outlook for 2026 and mid-term targets - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2025-12-01T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMFAyOE1JM3BVVGx1Z3Q5ZmZvazM4REQ0ZnZSbGZ5TFczQk1JcWQyRDQ2R0VyaWltX2JaTU14ckQwZHA5Rm5Ec3picmlfMGdvYmNzcGd3LXRHUjVKRmppYlk2TnF4Zmo1NXBJWDh2M0ExTm9QMXMyMm9xUm1jb0R6LXROYlhmdW9LM2xVa2JBU0s1SGFmQ0Z4VnF2ZmxodktsTU1DVjRRVmVPYU5yRmVKWC1SbEZQUTV2R0Ywdy1GcndKZlAyWmFQVU1aSG1jTE5aQWpEcEJYUdIB3AFBVV95cUxNMXR5UlhtMUxlN1ZhcVFPbnRIZ0IwWWlMWmtSNmVKelJoNEI2TF96amZSelJZSEF6OWxpQzlWc0dERVV0aURZRmx4aFRqcGd2SEJnR0haV0FQU3BZY0w1RDczNy03T19lcUozZmUzb2g5OXJjYnVWYWJKeGMybGhIZkIxdzFkYmVvcXlSNmhKWlFrRk5xVVZqSDRIcFpiV1pCc29FNE5oLTFRS3dXNEdjcFdCVTNfOXR5OVlNQ3BQYjM4eTdHdWJObkIzSTM4eUNxTWp6S2ZMc1EzMGFz?oc=5\" target=\"_blank\">BioMar preliminary financial outlook for 2026 and mid-term targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 551382,
+      "story_id": 2565,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnk4WnZwNmRCcndOWFlvdnZJY3p5TjRqSlhzdTdzOURYREJVUVUtQjBwQnF1VHVwYlBSOGM3SDZHS3gtZ1BWTnhWT24zdWVKblpFNlJ0SHIwVnJWY3QtRlluRk4zeHExRjhVUGl0dllkRFFZTGE1aXhLTzJhN3A4aU9kMEJrY0V1RFFWQU1CZDhpXzVwczBpWUJpdnRPQWVMcUlWNUd5NUJaTkwtQ2xzY3E3emF1UVBjZXI3dTRB0gHDAUFVX3lxTE8zZVJPbXRhX1gwZXh5MGhCTW5NZmxKU1dYMUlsYzdmVVJySnp1R3BYa29FQWc1LUdaTWdqWjBZUTdpMUl0YURnQmJmVFJfYm93VnhGb1FIUkdHMS10N3NjdzEyZllqYVRkZHJjazFCci1QSXdsTnpRUkc3dW14X0hMV1kxdGx3YkUxU0dIdDZMcjJldVVSUkY0b3NCRzE2NVBIVThEak1vN3BLVm9BU0QyTnNlOFk4dElFSVpZQnJBRU5Udw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 37 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-09-14T13:41:53+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnk4WnZwNmRCcndOWFlvdnZJY3p5TjRqSlhzdTdzOURYREJVUVUtQjBwQnF1VHVwYlBSOGM3SDZHS3gtZ1BWTnhWT24zdWVKblpFNlJ0SHIwVnJWY3QtRlluRk4zeHExRjhVUGl0dllkRFFZTGE1aXhLTzJhN3A4aU9kMEJrY0V1RFFWQU1CZDhpXzVwczBpWUJpdnRPQWVMcUlWNUd5NUJaTkwtQ2xzY3E3emF1UVBjZXI3dTRB0gHDAUFVX3lxTE8zZVJPbXRhX1gwZXh5MGhCTW5NZmxKU1dYMUlsYzdmVVJySnp1R3BYa29FQWc1LUdaTWdqWjBZUTdpMUl0YURnQmJmVFJfYm93VnhGb1FIUkdHMS10N3NjdzEyZllqYVRkZHJjazFCci1QSXdsTnpRUkc3dW14X0hMV1kxdGx3YkUxU0dIdDZMcjJldVVSUkY0b3NCRzE2NVBIVThEak1vN3BLVm9BU0QyTnNlOFk4dElFSVpZQnJBRU5Udw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 37 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 551402,
+      "story_id": 2544,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQczZodHdNUXlNUmt6RXhNLUhqYlQ5bmVPSDJrQTEtUE80bDFXOFBLcFg5U0dsNmJRMng1V05iYW9rcUFPWG12OXJYX29RUHFtbTNpMWhTYXFlTFg0eUtSaDE2VUduQ2w5cWNOTjREVmIzZ3RXVFktZUwyNm1KS3BlRFZSY1MwRFdBUk1ZSk1qNV8zU2daX2pqZmlLdVQ3TmNiMV9NRl9hSGQxSzA0TURQYXY5TVNiQ2ZGNENCMlF1dlVTaU9rcHZoRTVVcw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 36 2026 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2026-09-07T13:32:27+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQczZodHdNUXlNUmt6RXhNLUhqYlQ5bmVPSDJrQTEtUE80bDFXOFBLcFg5U0dsNmJRMng1V05iYW9rcUFPWG12OXJYX29RUHFtbTNpMWhTYXFlTFg0eUtSaDE2VUduQ2w5cWNOTjREVmIzZ3RXVFktZUwyNm1KS3BlRFZSY1MwRFdBUk1ZSk1qNV8zU2daX2pqZmlLdVQ3TmNiMV9NRl9hSGQxSzA0TURQYXY5TVNiQ2ZGNENCMlF1dlVTaU9rcHZoRTVVcw?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 36 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NTB Kommunikasjon</font>"
     }
   ],
   "share_of_voice": {
@@ -122782,7 +122892,7 @@
       {
         "week": "2025-W49",
         "Aller Aqua": 0,
-        "BioMar": 38,
+        "BioMar": 39,
         "Cargill": 1,
         "Polarfeed": 0,
         "Skretting": 2
@@ -123102,10 +123212,18 @@
       {
         "week": "2026-W37",
         "Aller Aqua": 0,
-        "BioMar": 11,
+        "BioMar": 12,
         "Cargill": 0,
         "Polarfeed": 0,
         "Skretting": 6
+      },
+      {
+        "week": "2026-W38",
+        "Aller Aqua": 0,
+        "BioMar": 2,
+        "Cargill": 0,
+        "Polarfeed": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
@@ -123115,7 +123233,7 @@
       },
       {
         "company": "BioMar",
-        "count": 1824
+        "count": 1828
       },
       {
         "company": "Cargill",
