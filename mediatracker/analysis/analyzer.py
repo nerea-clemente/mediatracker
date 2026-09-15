@@ -21,7 +21,7 @@ import sys
 from ..config import load_config
 from ..db import connect, init_schema, transaction
 from ..sources.base import now_utc_iso
-from .client import call_structured, make_client
+from .client import CreditExhaustedError, call_structured, make_client
 from .prompts import SYSTEM_PROMPT, render_user_prompt
 from .schema import ArticleAnalysis
 
@@ -182,8 +182,20 @@ def main(argv: list[str] | None = None) -> int:
         success = 0
         fail = 0
         cost_total = 0.0
+        aborted = False
         for row in rows:
-            ok = analyze_one(client, conn, row)
+            try:
+                ok = analyze_one(client, conn, row)
+            except CreditExhaustedError as exc:
+                log.error(
+                    "Anthropic credit exhausted — aborting run after %d "
+                    "successes / %d failures. Top up at "
+                    "https://console.anthropic.com/settings/plans then "
+                    "re-run. Error: %s",
+                    success, fail, exc,
+                )
+                aborted = True
+                break
             if ok:
                 success += 1
             else:
@@ -197,7 +209,9 @@ def main(argv: list[str] | None = None) -> int:
                 cost_total += float(cost_row["cost_usd"])
 
         log.info(
-            "done success=%d fail=%d cost_usd≈%.4f", success, fail, cost_total
+            "%ssuccess=%d fail=%d cost_usd≈%.4f",
+            "aborted (credit exhausted); " if aborted else "done ",
+            success, fail, cost_total
         )
     finally:
         conn.close()

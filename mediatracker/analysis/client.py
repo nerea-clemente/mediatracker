@@ -49,6 +49,21 @@ class CallResult:
     error: str | None
 
 
+class CreditExhaustedError(RuntimeError):
+    """Raised when the Anthropic account has no billing credit. The
+    analyzer catches this and bails out of the run so we don't burn
+    through 59 more identical 400-response failures per run."""
+
+
+def _is_credit_error(exc: BaseException) -> bool:
+    msg = str(exc).lower()
+    return (
+        "credit balance is too low" in msg
+        or "credit_balance_too_low" in msg
+        or "plans & billing" in msg
+    )
+
+
 def _log_api_call(
     conn: sqlite3.Connection,
     *,
@@ -128,6 +143,11 @@ def call_structured(
             ok=False,
             error=f"{type(exc).__name__}: {exc}",
         )
+        # Credit-exhausted is terminal for the run — every subsequent call
+        # in this workflow will fail the same way. Signal the analyzer to
+        # abort cleanly instead of retrying 59 more times.
+        if _is_credit_error(exc):
+            raise CreditExhaustedError(str(exc)) from exc
         return CallResult(None, None, model, 0, 0, 0.0, False, str(exc))
     except ValidationError as exc:
         log.warning("validation error model=%s purpose=%s err=%s", model, purpose, exc)

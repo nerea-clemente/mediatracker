@@ -170,28 +170,49 @@ export function ShareOfVoicePie({
   const filtered = data.filter((d) => d.count > 0);
   const total = filtered.reduce((s, d) => s + d.count, 0);
   return (
-    <div className="h-72 w-full">
-      <ResponsiveContainer>
-        <PieChart>
-          <Pie
-            data={filtered}
-            dataKey="count"
-            nameKey="company"
-            innerRadius="50%"
-            outerRadius="85%"
-            paddingAngle={2}
-            label={({ company, count }) =>
-              total ? `${company} ${Math.round((count / total) * 100)}%` : company
-            }
-            labelLine={false}
-          >
-            {filtered.map((d) => (
-              <Cell key={d.company} fill={COMPANY_COLORS[d.company] || "#94a3b8"} />
-            ))}
-          </Pie>
-          <Tooltip />
-        </PieChart>
-      </ResponsiveContainer>
+    <div className="h-72 w-full flex flex-col">
+      {/* Donut takes ~70% of the box, legend below takes the rest.
+          Percentage-only labels sit outside the arc so they never overrun
+          the narrow container column; company names live in the legend. */}
+      <div className="flex-1 min-h-0">
+        <ResponsiveContainer>
+          <PieChart margin={{ top: 6, right: 16, bottom: 6, left: 16 }}>
+            <Pie
+              data={filtered}
+              dataKey="count"
+              nameKey="company"
+              innerRadius="45%"
+              outerRadius="72%"
+              paddingAngle={2}
+              label={({ count }) =>
+                total ? `${Math.round((count / total) * 100)}%` : ""
+              }
+              labelLine={false}
+            >
+              {filtered.map((d) => (
+                <Cell key={d.company} fill={COMPANY_COLORS[d.company] || "#94a3b8"} />
+              ))}
+            </Pie>
+            <Tooltip formatter={(v: number, _n, p: { payload?: { company?: string } }) =>
+              [`${v} mentions`, p?.payload?.company]}
+            />
+          </PieChart>
+        </ResponsiveContainer>
+      </div>
+      <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 text-xs text-slate-600 mt-2 shrink-0">
+        {filtered.map((d) => (
+          <span key={d.company} className="inline-flex items-center gap-1.5">
+            <span
+              className="inline-block w-2.5 h-2.5 rounded-sm shrink-0"
+              style={{ background: COMPANY_COLORS[d.company] || "#94a3b8" }}
+            />
+            <span className="font-medium">{d.company}</span>
+            <span className="text-slate-400 tabular-nums">
+              {total ? `${Math.round((d.count / total) * 100)}%` : ""}
+            </span>
+          </span>
+        ))}
+      </div>
     </div>
   );
 }
