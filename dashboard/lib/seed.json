@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T14:18:33+00:00",
+  "generated_at": "2026-09-16T19:28:02+00:00",
   "stats": {
-    "mention_count": 3255,
-    "story_count": 2402,
-    "analyzed_count": 1441,
+    "mention_count": 3256,
+    "story_count": 2403,
+    "analyzed_count": 1501,
     "off_topic_mentions": 102,
     "off_topic_stories": 56
   },
@@ -335,6 +335,7 @@
     "ca.finance.yahoo.com",
     "dalane-tidende.no",
     "dataportuaria.com",
+    "diarioestrategia.cl",
     "elDiario.es",
     "elciudadano.com",
     "elespanol.com",
@@ -2289,7 +2290,7 @@
       "last_seen": "2026-07-30T10:31:27+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "legal"
       ],
       "pickup_count": 2,
       "is_about_target_brand": true,
@@ -2633,8 +2634,8 @@
     },
     {
       "id": 1946,
-      "headline": "EBIT per share of BioMar Group A/S – LS:A42CV2 - TradingView",
-      "story_summary": "TradingView publishes a financial data page tracking EBIT per share for BioMar Group A/S listed shares. The article presents factual financial metrics without editorial commentary or analysis.",
+      "headline": "Price to sales forward of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "story_summary": "TradingView publishes a stock market data page displaying the forward price-to-sales ratio for BioMar Group A/S listed on the OMXCOP exchange. The article is a technical financial metric snapshot with no narrative content or claims about the company's business or performance beyond its stock ticker symbol and valuation metric identifier.",
       "first_seen": "2026-07-04T21:12:56+00:00",
       "last_seen": "2026-07-09T09:56:01+00:00",
       "primary_sentiment": "neutral",
@@ -2732,8 +2733,8 @@
     },
     {
       "id": 1976,
-      "headline": "Debt to equity ratio of BioMar Group A/S – LS:A42CV2 - TradingView",
-      "story_summary": "TradingView publishes a financial metric page for BioMar Group A/S showing its debt-to-equity ratio. The article is a standard financial data resource with no narrative content or news commentary attached to it.",
+      "headline": "Resultados financieros de BioMar Group A/S – LS:A42CV2 - TradingView",
+      "story_summary": "TradingView reports on financial results for BioMar Group A/S (listed as LS:A42CV2). The article appears to be a standard financial disclosure or results announcement without additional editorial commentary.",
       "first_seen": "2026-07-05T21:02:31+00:00",
       "last_seen": "2026-07-07T20:18:57+00:00",
       "primary_sentiment": "neutral",
@@ -2788,8 +2789,8 @@
     },
     {
       "id": 1975,
-      "headline": "BioMar Group A/S Balance de situación – LS:A42CV2 - TradingView",
-      "story_summary": "TradingView published BioMar Group A/S's balance sheet statement (listed as LS:A42CV2). The article is a routine financial disclosure without editorial commentary or analysis.",
+      "headline": "BioMar Group A/S Revenue Breakdown – LS:A42CV2 - TradingView",
+      "story_summary": "TradingView publishes a revenue breakdown and financial analysis for BioMar Group A/S (ticker LS:A42CV2). The article presents structured financial data about the company's revenue composition.",
       "first_seen": "2026-07-05T20:07:15+00:00",
       "last_seen": "2026-07-06T02:58:32+00:00",
       "primary_sentiment": "neutral",
@@ -27523,6 +27524,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2574,
+      "headline": "Aquachile firma promesa para vender Alitec a Biomar Chile - diarioestrategia.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTBDNWhJVTFsZWZabUxlOVdrbG9LLUZFMm42eld0akpYTXNnOUQwMkZtNnpoX0VyamE1UkE2TFRlTndyVWtOc05ncnV1YmRJMEZOLXZDeHJnSmRtQmg4YkxFU0V0YWk2bnVDUTVxSGJUNFpVZkpJWDNnZTZzTTZkaGh5VjBRaHdrV0xrbWdBNEQ1S1pPZmpqam1vbHdQRkJUOEduQlF0WkhueG5HRlVjSA?oc=5\" target=\"_blank\">Aquachile firma promesa para vender Alitec a Biomar Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">diarioestrategia.cl</font>",
+      "first_seen": "2019-03-15T07:00:00+00:00",
+      "last_seen": "2019-03-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 27,
@@ -88707,15 +88722,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric snapshot for BioMar Group stock valuation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTJFUlBzQTdXZWZVa205akk5cTFqYktrNUI3VG5kallJTndJVXhDdHhyMkRiZS1sYklXWVl5R1o2U2RBckpkQWllTDRCNHBNeHpFelpHWnowZUZ2TDIwa18wak1nOGhkQmROUzdObkktV2JfQmVWdWFtT1RpOGlWZUFaMjhIeWlVX1FWMG1mV0NHOGlhRXBobF9pd0VIWUF5?oc=5\" target=\"_blank\">Price to sales forward of BioMar Group A/S – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a stock market data page displaying the forward price-to-sales ratio for BioMar Group A/S listed on the OMXCOP exchange. The article is a technical financial metric snapshot with no narrative content or claims about the company's business or performance beyond its stock ticker symbol and valuation metric identifier."
     },
     {
       "id": 272150,
@@ -88803,15 +88818,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.9,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric display for BioMar Group stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDc2MXR0cFUzbTA2aXhPXzZRQUtNLWlLbEdJa2JTOEU3U0oxM0JEUS1aUVR3MlV1Ukc2eUxFSGd5LVlFSEFmSGZYZ2VUQ2syNy1UMUc5ZVliOHpseWVjSm9ub3hwWlBzeDlCV3dESl9oYmVKTGU2Qk9lT1VxbTFRWTU1NWRPQ3RtemhwWXZqSjlVM2ItSE9NNHFLc1JEdzdp?oc=5\" target=\"_blank\">Basic earnings per share (basic EPS) of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a data page displaying basic earnings per share (EPS) for BioMar Group A/S listed under ticker LS:A42CV2. The page appears to be a standard financial metrics reference without editorial commentary or analysis of the company's performance or operations."
     },
     {
       "id": 272555,
@@ -88827,15 +88842,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial statements publication for BioMar Group A/S",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE40TFRTdElVZVR1MHFfcEJHbkhVWHJUdFhLVUFtQ1RKWGVWY0VHTVVmTHktbEU4ZTI5VnFBOWZ3YnZGTndSTWNZRnV3NFcycUs1X1VXY1VFX0htMUlJN1JxUWMtSUY4c2tFVjZ0eXhqdm1LVy1X?oc=5\" target=\"_blank\">BioMar Group A/S Financial Statements – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView has published financial statements for BioMar Group A/S under the ticker LS:A42CV2. The article is a straightforward financial disclosure without narrative commentary or analysis."
     },
     {
       "id": 272557,
@@ -88851,15 +88866,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial data and revenue breakdown for BioMar Group",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5LT056SWQyenYwMWZtSjV0MGFPVDRNR2pEVWg5RXJ1RjNqaWZ4bVJlbzRGc1pzTnZXSERNUm5zcjQxaDEyM1RkbUZvSHBRb2hQYWhjMTFHODhsSmQzYVVQUmhKZWtPR1FuVHFOeDhuNDM1R2M?oc=5\" target=\"_blank\">BioMar Group A/S Revenue Breakdown – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a revenue breakdown and financial analysis for BioMar Group A/S (ticker LS:A42CV2). The article presents structured financial data about the company's revenue composition."
     },
     {
       "id": 272558,
@@ -88875,15 +88890,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Financial data and trading information for BioMar Group.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE82Vnp6VXdhSTRYN09HX2xlNnBUZEl4M3RZVE5pWGQ5YXhKTWp0bG1sSGJsdGY0ZG9Ub3IxbEhjWWl0VVJZeUtOWmVfWTBxVTkxMFI2X3ZTVV91WTM5ZVpoSmxTM19CYXdoWkhFOW91NmRYWWVO?oc=5\" target=\"_blank\">BioMar Group A/S Earnings and Revenue – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a financial data page for BioMar Group A/S listing earnings and revenue information under the ticker LS:A42CV2. The article serves as a reference tool for investors tracking the company's financial metrics and stock performance."
     },
     {
       "id": 272559,
@@ -89571,15 +89586,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Financial metric update on BioMar Group's EBITDA performance.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXRjSFplNkZZRW9JTmxNc2dOWTJhRzNSbVJQS1FheXkwbVdOVjJHa01xVjVkc2tad1FtYm1ZWDlVZWY3c3h4dk0tTVhOYWtndjlvMjJQU1J2X0ZHc1QxTWF4UkJxTXhzU1cydUNRNVpKSUNGSFVlWlZxazZHTE50VHZUQkRXUlFy?oc=5\" target=\"_blank\">EBITDA of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView published a financial data update focused on EBITDA metrics for BioMar Group A/S. The article presents operational financial information without editorial commentary or narrative framing."
     },
     {
       "id": 273510,
@@ -89595,15 +89610,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial valuation metric for BioMar Group trading data",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2VfSE5OODNGQm5lV2JKYUpHNkZGX0FRVVBWdnZ3MzlLUVM2V21FQk1samh2eUhabThDRG9VU1VlbVRXUlJHZVZOZVRkMHZnTTBtcnEzWG5OaG9qZlpjUk9ZT1V6SUtuNjFSX0tOY0JGY2tDVHU5bkV3ZWxHLVNyNVhTQVZGRjNteXJudWYyLThoaFQzWnBKQlg1VVQwS3FBZ2NrdVlGZ2ZObEE?oc=5\" target=\"_blank\">Enterprise value to EBITDA forward of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes enterprise value to EBITDA forward valuation metrics for BioMar Group A/S (ticker LS:A42CV2). The article presents financial trading data without editorial commentary or claims."
     },
     {
       "id": 273511,
@@ -89643,15 +89658,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric analysis for BioMar Group equity valuation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFpIcDBkaklhM3VkTGhneWJDMFROTFhpWHVNX09INWJNbUgxNnNYc0M4UmtueDhIakloQ29POHBhdU1pTGFBTno4c0RnanlEZGdCQjJpVG92N0Z5Zm5tMXNhN0luUTJpdE5sVGc4MVdCWm01UTgzZFRkZEFyZEVxTVJ1dU8wcjRrRGpuVDZ6VVRrZFdzQ2dxNl9LT1lCRzg2QXMwYnUyank?oc=5\" target=\"_blank\">Enterprise value to EBIT forward of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView presents an enterprise value to forward EBIT valuation metric for BioMar Group A/S shares. This is a technical financial analysis tool for investors tracking the company's valuation multiple over time without editorial commentary or news events driving the content. The article is a straightforward valuation metric comparison with no sentiment or narrative angle attached, typical of financial data platforms providing real-time investor metrics and charting tools for equity research and trading decisions on the Nasdaq Copenhagen exchange (ticker LS:A42CV2)."
     },
     {
       "id": 273513,
@@ -89691,15 +89706,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric display for BioMar Group trading data",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3duR3FNRGhNRkltMmJDS2pPV1RHMjZaSmctTTdHTnh2UzBwWmx1SEVlR01RS0F4QjRBX2ZYdWtod1FDU3Q1UnBYRE9jWVFVSXRGcTV0dHc1aDFZRUpSM281bi1JamM0WjVuQUhmblU4R05sMkVDLUt6NFhfcnlta2xTVUtHSVJXckE2cV9xMHJ3RzhyeXlv?oc=5\" target=\"_blank\">Gross margin % of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays gross margin percentage data for BioMar Group A/S listed under ticker LS:A42CV2. The article appears to be an automated financial metric listing without editorial commentary or analysis. Key_claims were not provided in the available text; this appears to be a data dashboard entry rather than a news article."
     },
     {
       "id": 273515,
@@ -89715,15 +89730,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric analysis of BioMar Group valuation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPYzZJVHVndU1vbWpMaFd1ejFSS0RNMmVKN0pBLV8yOFJneERoSGF2N0JwdS1iaDZ1M3BCcUFyZUltelhnQWg1bnRYWUZhd3ZHaHdGUHZRYW12SG1jWnI4RlpzSzg0NllScTBzcG4wQXpPYXlmdmxMMVd1SXBXTVpQOXhTV0ZWcnI2Y01UaUNZdU94NWpQYzBqd2xhRWdQU0MxV1VLRHFB?oc=5\" target=\"_blank\">Enterprise value to EBITDA ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView presents an analysis of BioMar Group A/S's enterprise value to EBITDA ratio, a key financial valuation metric. The article focuses on quantitative financial data for the aquaculture feed producer trading under ticker LS:A42CV2 on the Danish exchange."
     },
     {
       "id": 273516,
@@ -89739,15 +89754,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric data presentation for BioMar Group stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFpscU5FUkt6MzlBcy1pa3k5Ul9GNUpaOEdIQlM1ZWp0Rk93dW5pVjltVVNQd09WVGoxZXFVUTZDOXFVYjNOeG5RUkNJN0lCOEJwcHJhcmI3UkhXb2JfcXlRYWRPcmFmenlLM212bjFBZEd5dlZLSzI2cE1QR1BxUXBEcjliMnVRR015UU14TQ?oc=5\" target=\"_blank\">Operating income of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView presents operating income data for BioMar Group A/S under its stock listing. The article is a financial data reference point with no narrative analysis or commentary included."
     },
     {
       "id": 273517,
@@ -89763,15 +89778,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Stock dilution adjustment announcement for BioMar Group",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkJjVHAtcmMzUHRCU1phMHBpT2JOZFZPY09LVXpiUkgwVlZrZmt3WEdZMXA1eU5uQU9EZm9JbTRWQkpMVDZSUGlvdDk3NFRtRjB4bENfX1lKUER0WW1CUG1sLUFBa3lvWWZKZm1MaUFTUC1kUk5JSGp6UDdJU3lTZ3ByNFhWaTBxdmlxS2FFSHVmWHU3VkpzaU5B?oc=5\" target=\"_blank\">Dilution adjustment of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView reports a dilution adjustment for BioMar Group A/S shares traded under ticker LS:A42CV2. The article is a routine corporate action notification with no substantive business or operational details disclosed."
     },
     {
       "id": 273518,
@@ -89811,15 +89826,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric reporting on BioMar Group cost of goods sold",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNSnhEQjNPRlpSZlByMXdTMUNjQmkyZlBHWHZub1FlSDkzTDhtRktfYVdMemZIS1RGS1Q3cHE0UnVMaUNhcTVRMXloU2xPNFRCTnBjaUhMMEFnZ1BGT2JpSFg3THRjQ01OVDhFNWpJdGRySzd0WkJEb0dNWWxtZy1UUXZnWVgyRXo1bmJqNkx6Nm5OUQ?oc=5\" target=\"_blank\">Cost of goods sold of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView reports cost of goods sold data for BioMar Group A/S (ticker LS:A42CV2). The article is a straightforward financial metric presentation with no editorial commentary or narrative framing."
     },
     {
       "id": 273520,
@@ -89859,15 +89874,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial data reporting on BioMar share count",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOejRUQzdIaWFFQlhIWDYyS081R0xQT1hYQ1hzNHcyQ2VJRldBUDNyc0J4OU9KT2FfSGRWbFBza0RNQ2RPLS10VFhkdTdaalYtcUt6NnpaN3JhNTRLTm9wc0tpNzJkVGpxUmxtN2NXMk5jaWRJS25OU3phdmM1eEF3aWpBQXgxcmpCVU9CWXYtalNmelkxdUVFTF9uYmROT1EwZURZZDdkWQ?oc=5\" target=\"_blank\">Total common shares outstanding of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView provides a data table showing the total number of common shares outstanding for BioMar Group A/S, identified by ticker LS:A42CV2. This is routine financial disclosure information without editorial commentary or analysis."
     },
     {
       "id": 273522,
@@ -89883,15 +89898,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric dashboard display for BioMar Group stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUI5R004clBVS2VIYzZVMjJMcXFtZTB3ZFlPX0xpZ1I2Z0dlbDBBY1VTQ3JGUzdwd0JYaDczS0hBaGpUTDZ2Yk9JbUswOW5XRWtNbzgwaFY1UjV2NUZZTXlsNi1ZMjE0TzNfX21fZWl6QXZTaUxlb1VKWEtvU1Rpay1lY2J1T0w5ZzdTTkNQU3pTck1adEVENA?oc=5\" target=\"_blank\">EBITDA margin % of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the EBITDA margin percentage metric for BioMar Group A/S under its stock ticker LS:A42CV2. The article is a financial data visualization tool page with no narrative content or claims about the company's performance or operations."
     },
     {
       "id": 273523,
@@ -89907,15 +89922,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial data reporting on BioMar Group operating expenses",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2JxYXFvYi0wQ2xMcV8wSWIwODB2TGxveVNONUVWeXFoejVrSFMxUUJMNjRPc255S2VmcGtKdnN3M3JwWTJzTEhvU1RHcDRhU1hCNVlnRE41T2xRVTRCLUZwMnBLbElWSWxQSEotN1poN2MyZDNyWXFwc01UUklnTmFfQndHWUxOQ3hjR19kM0JaVFlVZVlIVQ?oc=5\" target=\"_blank\">Total operating expenses of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView published a financial data page showing total operating expenses for BioMar Group A/S listed under ticker LS:A42CV2. The article is a routine financial metrics report with no narrative commentary or news angle beyond the disclosure of expense figures."
     },
     {
       "id": 273524,
@@ -89931,15 +89946,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric display for BioMar Group stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3dzQVhsUGc3dVJXRWoyZUdKRlZmVmp6ZThfQUt2UGFPYl9ObUhoeHZnZndHVlpiSUI0Z0d3WjVNUHJ1WTZmNEVRZFQ5R0xFdVZXdkZZeVBYMFZmdEk2UWMzdHg1bk0zSm5NWmpsQnBNZ1VwOXNlMHY4MFNHWHFNdEFjLVNJZ1pPeGs2NGQxY1ZxX2NWeGI3ZDNR?oc=5\" target=\"_blank\">Price to earnings ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the price-to-earnings ratio for BioMar Group A/S trading under ticker LS:A42CV2. The article is a data-driven financial metric page with no narrative or commentary about the company itself."
     },
     {
       "id": 273525,
@@ -89955,15 +89970,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric report on BioMar Group gross profit",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2Rqb3ZBenpXLUw5M0hJYkRaVlNsZkN4cHB1cl9HRFBwRkczMFl1amdrdmh5ODB2UnpabG1jVEpQaFNIWUVIT2lNNTBvZ3hBbGVSVTZsT0pVOEh6RXQzRWlhdTFMTGFFN1hTVWEydm9HZ3hINjZUUF8xeUtDNnFtVjdYN01rNEtPd0lXaGxnR2Q?oc=5\" target=\"_blank\">Gross profit of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView reports gross profit data for BioMar Group A/S (ticker LS:A42CV2). The article presents a financial metric without editorial commentary or narrative framing beyond the data point itself."
     },
     {
       "id": 273526,
@@ -89979,15 +89994,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric reporting on BioMar Group share valuation",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWt2cE83NWRmZC1zTnBZc1o5WkRDRk93MHFXUGNNclhfaFNURGdiOVRRZG1tcF9IU3FPTm92YTR5SmlzeXI0QWx4aDI3cTFLYWlqQWZFZjlEbzFlR04wa1RXRWozeDN4aWV0N09wYlJjbjl3U0J6T1dqcDFWakZ3d01TREdydW1CNVlyX0t5enJhck9veTl3?oc=5\" target=\"_blank\">Net current asset value per share of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a financial data page displaying net current asset value per share for BioMar Group A/S. The article is a routine market-data listing with no editorial narrative or commentary attached."
     },
     {
       "id": 273527,
@@ -90003,15 +90018,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Free float data for BioMar Group A/S stock ticker.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxObWx1YWk4SEw0T3V6SDhuUVZXOWkza3R2R2EzZGpWTlFPbjcyZ2V0R3Vvdm9TTFd0YUpQeFdSbVZrYmRjNlRadUZ4M1FneE1mQldtaUhsbHNfV2dhY0FELVAySXhnNlZxcEpxUFlodWltcTFhWGVISC1VNDd6dldPbVp3aEMwTVJ3UUZ3eC13NTdHdGVtQkI0TGg0MnNGSjh1SThndlU1UQ?oc=5\" target=\"_blank\">Free float of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "The article provides information about the free float of BioMar Group A/S shares on the LS:A42CV2 ticker listing. This is a brief factual data point published on TradingView, a financial information platform."
     },
     {
       "id": 273528,
@@ -90027,15 +90042,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial data on BioMar Group A/S stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQc210cTJtdm5RdE56UDRlRzA1OS1pdjFJN0lLN24yMmg0dGFpaU1SNTg0N0FWNmFUQlMtVnVVcEdfOElKZ1AyZVlqRm9aVGFyX2pQMi1VZWtsX1JMSFpfcTMwdXJwSm91UFhiZU1kbnJFYVpVVmZnVHlaTnZFUWFVZVRMU2g3em5CQndhWGRPQ0lDZw?oc=5\" target=\"_blank\">Total revenue of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes financial data for BioMar Group A/S, including total revenue metrics accessible via its stock ticker LS:A42CV2. The article is a routine data reference page rather than editorial coverage."
     },
     {
       "id": 273529,
@@ -90051,15 +90066,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial data listing for BioMar Group minority interest",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2RfcTR4a3VSeG5BUjBBeXJNdklfRVZxQ3dWYm9rMlFxTG9sOUFVOG11aW1tWXM5UmdiOGN0dXAzbUhkZUh1alNZOUFVU3RyUEhBdDlkQ1EycW1ycGpxUHpWNXRIMnN0UnZ6SG1QRXpZRVp2M0hlbmFnWXhjbHhQbzdYR25Lb2V5MU5waDl5a0FuZnlLbmlHSlRzeWo?oc=5\" target=\"_blank\">Non-controlling/minority interest of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView reports on non-controlling/minority interest holdings in BioMar Group A/S under ticker LS:A42CV2. The article appears to be a data listing rather than substantive news coverage of the company or its operations."
     },
     {
       "id": 273530,
@@ -90075,15 +90090,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial data on BioMar Group A/S tax and other income/expense items",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbF9PdnRjQU5seGRVa3F0SUVOYVdyNXpQNWlqbUN1R1Z4aGJXOVBTVVdPV3VZdXJtOEhiMjFfYW9EWTBoMS15QXJsS1FGRUdrRG03aHJndnZ5SGk1c2lEYmJqdXJERThTSDNGUDFGMktZek5feXN3YmtBMmh1aVI5bVQxdTZIdmVOSTRQdEZUNlNiQWk5R2ZLSkU4RW5PZw?oc=5\" target=\"_blank\">After tax other income/expense of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView reports on after-tax other income and expense line items for BioMar Group A/S. The article appears to be a financial data feed or chart reference rather than narrative journalism."
     },
     {
       "id": 273532,
@@ -90099,15 +90114,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial data page for BioMar Group stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0yVkhnMTNGVVZsLV9vMVRpcUhFSEtnenhmak5la0tXN05ZR3N5czdwSHNSLVBsSDNJUWp2bUpMUFVfaWRMT2VMcDFZd0FoOGxVOEtNZGJGSERsc3VONVNJWEVkV3cwTHIybURGTUQ0OHJ5U2RJekE?oc=5\" target=\"_blank\">BioMar Group A/S Cash Flow – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView provides a cash flow data page for BioMar Group A/S (ticker LS:A42CV2). The page appears to be a standard financial metrics display with no narrative or editorial content."
     },
     {
       "id": 273533,
@@ -90123,15 +90138,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial data page listing dividend information for BioMar Group",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9iTmJzTlplMnpnV2xlV21CT1lCdkxQNjFhc1FGa1IwZUtsVS11emRIYWFTSGFwalJQVENJa2VVdDY1R1Z2U2RVal9hZDNuNW5hWHBPek81cEFkeDRJWU1GbXNiaGdQcHRZRklxVnh5dXQ0ODMxeEE?oc=5\" target=\"_blank\">BioMar Group A/S Dividends – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a dividend information page for BioMar Group A/S shares traded under ticker LS:A42CV2. The page is a standard financial reference tool without editorial content or commentary about the company's operations or performance."
     },
     {
       "id": 273536,
@@ -90147,15 +90162,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial data listing for BioMar Group A/S stock ticker.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1udkJjMndMeVh2RzctZjFJdzFCa18xSml1eUFYb19KVTduMU9fUlBhV25ZSlpleEtCRVJnTFFyQnZYbzl3czNJeGM2M1RvTFhPU0xJT0diU1cwYVAyTkl4WTlJNDhQM1A3amdSdlZieXZRaHlvaUNjd1NDNA?oc=5\" target=\"_blank\">BioMar Group A/S Balance Sheet – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a balance sheet data page for BioMar Group A/S listed under ticker LS:A42CV2. The article is a financial reference tool providing corporate accounting information."
     },
     {
       "id": 273808,
@@ -90197,15 +90212,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial performance data for BioMar Group A/S stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBJNm5ndjdGSDNkY08xWm5wRTh4Q09LNU9iY2daM25qYkFGR29GLWdlN3Njcl9wRE9nNGo1d2ZlaF9oUllGdkhQRUNkNHZmNjdWYnJ1U2NEOEpucTI2TTdWaTBQclJtLUhkM3hCYmxJUlBlQms?oc=5\" target=\"_blank\">Beneficios e ingresos de BioMar Group A/S: LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a financial data page for BioMar Group A/S (ticker: LS:A42CV2) covering the company's earnings and revenue. The article is a financial information resource rather than editorial coverage or news reporting on the company's activities or announcements."
     },
     {
       "id": 273911,
@@ -90250,15 +90265,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric display for BioMar Group trading data",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDBXaERITWN4VXlQbW55QnloQktUQTBsZWt6VndGaVh6Z3dnckpubk42TFhUQk1KOHpnR28tbmVkWHVOTXV1ZndVellJRTFyUmVtaWl6SElwX0JsZGM4c0Y1TFFLT1JjbTBsUEp0NGJ5MEpES2tJeTBJSURUOE5VNjJudkk1VFI0WWJ2QnBHMHBWUlUtQWc?oc=5\" target=\"_blank\">Quick ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the quick ratio financial metric for BioMar Group A/S (ticker LS:A42CV2). The article is a data presentation page without editorial commentary or claims about the company's operations or performance."
     },
     {
       "id": 274827,
@@ -90298,15 +90313,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Stock ticker and statistics page for BioMar Group A/S",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlBLcElNOGp3b1VxMnlwNm9qS1o0RTd4OWlBOEZqa0k0bHhVclE5TWZuanZxRUlpV2QxaEVSMjhjcEFoR2tzMTl5WEhTN2ZEUG5CM1BNQ0taSFFDRU1ESXZhNXRUUmhvb0J2U1RSV3pDOEstVDNtWDBXb21VNGVJMjhaZ0U?oc=5\" target=\"_blank\">Estadísticas BioMar Group A/S: LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "This is a TradingView financial data page displaying stock statistics and market information for BioMar Group A/S listed under ticker LS:A42CV2. The article is a standard financial instrument reference page with no news content or narrative analysis."
     },
     {
       "id": 274829,
@@ -90322,15 +90337,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Group financial results announcement",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1QeVhDTEZ1WVhqcmtRR1E2czRYN0FFWDVfMHFDZGpFQnRFRExZRmNBNVltaWJ5VHFuWVUtUHphQ095eWl6a0pYZ183Z2k1dkhVZFB6NWFELS1ubWVxQ2M3UDBBUE9TY1dHZ1NKekdZZnBqeTA?oc=5\" target=\"_blank\">Resultados financieros de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView reports on financial results for BioMar Group A/S (listed as LS:A42CV2). The article appears to be a standard financial disclosure or results announcement without additional editorial commentary."
     },
     {
       "id": 275144,
@@ -90394,15 +90409,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric display for BioMar Group stock",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNc29qZ29sQWxWVC1GOGRWbkhVanFuTnZPV2NaVjFINjhlcFpYQ2dKTVljbm9RdXE2TEY3T3ItX1FmM1pycVoxQlFqU3NUUGx2QWMyZmJMTzlrM1h4ZXlPcl80NXRIRjdmM0FWQ0FoT2JNc3JiMVNzUlRjTm80d3BfNHFIWDZqWlJnWGl4N3hkampOU2pDaEtwUWE2bw?oc=5\" target=\"_blank\">Price to cash flow ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the price-to-cash-flow ratio for BioMar Group A/S shares (ticker LS:A42CV2). The article is a technical financial data presentation with no narrative content or claims about the company's operations or performance."
     },
     {
       "id": 275547,
@@ -90418,15 +90433,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric snapshot for BioMar Group listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEYxZk0telpOc3czSEI2Rjkxb3RONFRiVUlkcFFJTjZRUVgtWll5dlVwZ0lZNkZ5NzZoU0F6N2JmRHpRSzB3TmpqZTNVYk5sY0NvbVBEMHhfdzRTR0c4Q0dHczZVdXlpZGhxUmFMbXVLd2xiTnc5RHBBT0VtLW1mY2IyZjRBb3lVemZGaFhfdVFOVGVUSzdLSE01cnA?oc=5\" target=\"_blank\">Enterprise value of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "This is a TradingView financial data page displaying enterprise value metrics for BioMar Group A/S under its stock ticker LS:A42CV2. The article serves as a reference point for investors tracking the company's valuation on the exchange, with no editorial commentary or narrative content provided."
     },
     {
       "id": 275844,
@@ -90514,15 +90529,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Share count metric for BioMar Group trading data.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXA5MGpKWm5lNkQyZ3dNYnlNb3FvNnZubmwxdHN3SnQ3RE13NVRpRkJRdDlYaUh6MGRtTk93Zlg4cGJwNjV5VDdXS1gyZWRoVEpuSlV4RmE1NDJoLWxhTDlpN1Bid0ZDb25VUEtQbl81ZmIybWV6a3cySFRaWG9BUFBJRTRNREZ6elJ2Q0xtUjJCZFhQYzhidkx0OFViZ3hmeDFPMg?oc=5\" target=\"_blank\">Number of shareholders of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView lists a stock metric page for BioMar Group A/S showing the number of shareholders. The article is a routine data reference with no substantive narrative content about the company's operations or strategy."
     },
     {
       "id": 276860,
@@ -91362,15 +91377,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric tracker for BioMar Group equity listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmZCWUVyODZ2T3J4TkdDYUxTMmRiaWtTVmtWbWhvc2ZPYXd1dHJEeF84QWwza0txcnd6VWlWTEtUdjdnVzZwdldtZld2SzUwT0hYV0JjNVE2c2tqeWUzRkFUZzNCZmY1blJJRVBCcG0wV2ZhZUhfS2JxY1lPTWpnMnR2UUQ1clJqZVU3bmFQNTRTSm9ndV9aLUZSdUhtWXdYdXpndF9fdw?oc=5\" target=\"_blank\">Long term debt to total assets ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "This article is a TradingView financial data page displaying the long-term debt to total assets ratio for BioMar Group A/S. It is a routine financial metric presentation with no narrative content or commentary about the company's operations or performance trends."
     },
     {
       "id": 280071,
@@ -91630,15 +91645,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric reporting on operating expenses for BioMar Group",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1VyQUZIZzBDc0pqbW5kS3A4ejV3eTg0dmVKUVZJdWpqR3haVWFWeFBKMmExR2l1ME81TmRtNzZURW9XcGNUbHRnckVmRXBUN1h2YjB4SXVVRzF3RERfRG9NVmJuZVZ6WkpDdmdFVkxjd0s4QWtnaVE2NXdDTC12cG1Ybm52dV91VTlaU2lNdGtaazgtV0ZiOA?oc=5\" target=\"_blank\">Operating expenses (excl. COGS) of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a chart or data visualization of BioMar Group A/S's operating expenses excluding cost of goods sold. The article is a routine financial data presentation with no narrative or editorial commentary attached."
     },
     {
       "id": 281634,
@@ -91654,15 +91669,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric reporting on BioMar Group trading data",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGdfUWNmVU1uR3AtS1hiLW9kVDNCZ0JFVG5ZYjhoZzFwMnN5bV83bm4wTzBvMGtPaUtYd3RjRjBlUVZSdEZMN2JIRWtYcVhTUktTODVfaUpQMV9Sc3p4REtJdnFJd0hZZkVTZE5pZ3E2czA3VWZmdlVvZmJNS19URVY4OVdydmVMMGU3dFltQmZCaE03QVc4ZTV1UjY?oc=5\" target=\"_blank\">Non-operating income (total) of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView published a financial data point tracking non-operating income for BioMar Group A/S. The article appears to be an automated financial reporting entry linking to earnings data on the trading platform. This is a routine secondary mention of BioMar in a financial data aggregation context, rather than substantive news coverage about the company's operations or performance."
     },
     {
       "id": 281635,
@@ -91678,15 +91693,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Stock valuation metric display for BioMar Group A/S.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDhxeVJiM19KMXhxaGFrcFJFUlZEbk5oLWNDSG9CcEZocHQ5OVpFLUM4VTMtTjdPR1dGNGluUDlkY2pPeVkxdDFXazk1VjNJVXBuR0MwOFo2ME1QX0FMbWl3S1hZdXcwd1pNeDdiVVdQQTZ3cTlxQmh1TkhBZm9iMFBlMkFtNHFRVEpNbEgzQU5qSkpFWWJhQWdvUQ?oc=5\" target=\"_blank\">Price to sales forward of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the forward price-to-sales ratio for BioMar Group A/S trading under ticker LS:A42CV2. This is a financial data page providing valuation metrics to investors and traders monitoring the stock."
     },
     {
       "id": 281927,
@@ -91849,15 +91864,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric tracking for BioMar Group A/S equity",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPT01DSVZDSDEtU2p5SnlIX2JpRWhiVUZXM2kyOFV1NkdtcURRcXg2NHcyRW16cFhBTXk5UnlNNjFrZDRYdTdRaE9PcjlKS1drR1pyNUxiZzYxQXFRMVNQclZaZHN3Mm5fNE14czREOVYyU2c1ZklHS0owNGcwb0Zmc3RrZkhOcmN0bG9BZ1lDTFdkX2UtMTMzVWVuekp0VGJxVzBra0F3?oc=5\" target=\"_blank\">Flujo de caja disponible por acción de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView reports on free cash flow per share metrics for BioMar Group A/S, identified by ticker LS:A42CV2. The article is a financial data presentation without editorial commentary or claims."
     },
     {
       "id": 282648,
@@ -91897,15 +91912,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric reporting for BioMar Group shares",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmtDT2VCU0JSVmNYYnZFcjRlNklQWHFZMlhCQl9Hbk1QdXgtc2FFNU5OV2dBc2dhOUtSS05LZEJqWHZKWEpva2xfMjFhSGlGci1vVzIwUHZNQXJRTUpEV2dmY25GOFJKOXVDYkNERTdWZGJKMnB5dkNySE9IeHpRUkRRMUFiLU9CVmJZbXpCWkg3bmRESWo4eXRETE0?oc=5\" target=\"_blank\">EBITDA per share of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes EBITDA per share data for BioMar Group A/S listed under ticker LS:A42CV2. The article is a technical financial metric display with no narrative content or commentary."
     },
     {
       "id": 282656,
@@ -91993,15 +92008,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric display for BioMar Group stock listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbm43REIyODdmWUJXLXFWM0lNUktheWkyaTBqRE5ZdGRZQ2VPS1p2ZkNfcV9YX1FFUGpPTTBPeWNRam9BX0wxTjFta05JREtIX2JEYUttQlQ5N3hOTUhVN1ZJUTE2SmJ3aW9ZRUoxUnl6QUJEVGNpWWR4MGgwTmtrLXlEeG9aaE1sLWNLekJ1QnRQSlBMRW00MlRzeXRvNEpaWFpZczdJa2M?oc=5\" target=\"_blank\">Rentabilidad sobre capital invertido % de BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the return on invested capital percentage metric for BioMar Group A/S under its stock ticker LS:A42CV2. The article is a data reference page rather than news coverage or analysis of the company's performance or strategy."
     },
     {
       "id": 282958,
@@ -92041,15 +92056,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric data for BioMar Group A/S stock listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3ZEbzZUcE1IRUpIMFdFNnV3d1NrTkFUVGNvV3dhZmhjdnRsa2ZFYkpXTE1TRUJ1X0xySktGQkNYY2NUZUxRSjBoVzVwNmVUeFJrd01jb29fYmQ2LWNmaE11enF5QzNiaWNZaTNITk12OThYd0U5WmhIWnNvM2hkN2RoeklieV9rSFRZMzZ3aHpVeXRraGpWczF0VVVQYlk0OVN1ZVpvdTdUdw?oc=5\" target=\"_blank\">Enterprise value to revenue forward of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView provides enterprise value to revenue forward valuation metric data for BioMar Group A/S listed on LS exchange. The article is a financial data point with no narrative or news content."
     },
     {
       "id": 284269,
@@ -92718,15 +92733,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric reporting for BioMar Group stock listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUV9zOXFHdTRvQVdxbmd6RDN0NVBGSUUtUHFlNVVyNnJRdkhnMmY5TWFiOWM3NHh0bHhEdy1ISVFOeDNRcm1JMldMSkFydmJZMkx0b0pnV2ZGOVU5WW5iSlRRYmxXUEc0bHNydERyVG85RXFONUJUWW1YNUZPRF9vdmlwN2tJWlM3Qy1RTDhLYXJoOWtLdlpFV0JR?oc=5\" target=\"_blank\">Asset turnover of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView published a financial metric page tracking asset turnover for BioMar Group A/S listed under ticker LS:A42CV2. The article presents factual financial data without editorial commentary or claims about the company's performance or operations."
     },
     {
       "id": 291884,
@@ -92742,15 +92757,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Financial data reporting on BioMar Group net income",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOT0FUbGZmTVpuMjUyd2NDZ2dGb3VvbGg0ZlEwTHNJT3drNWlLMXh0VGpGU0VFMlhpa1ZFM2cyaDdEOFphU3MzczBYUEtVVm9LQnFCZHRITjdub3NCQVlCWTFnaF9UaDh3NnJqT3Ztc2hSLTM3Q0NSWE8wcmxINWpONlZZX1hReTlyRkI2ZXd3?oc=5\" target=\"_blank\">Net income of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a data point on net income for BioMar Group A/S (ticker LS:A42CV2). The article appears to be a routine financial metric listing rather than substantive reporting on the company's performance or strategy."
     },
     {
       "id": 292221,
@@ -92910,15 +92925,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Stock valuation metric for BioMar Group shares",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFBVVExMTGVQV25Nc05jbVVZUkRaYVVfOG5nVlZRdFdUaUE4aERMMGpZVXlaODM3Ni1kaDI2MHRVenNLXzZhWHZjTE5NN1ZsaUZ4VTFFaFpKOE1FU2J6QTNlaEpOTW1zcEdhSHpaVWUtYWJsTXZ5eHdUSnIzZlVlVHZSRDlmYWVGN1JydkNsWGkteWF2d2UzVzRNOGVENUE?oc=5\" target=\"_blank\">Price to sales forward de BioMar Group A/S – OMXCOP:BIOMAR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the forward price-to-sales ratio for BioMar Group A/S traded on OMXCOP under ticker BIOMAR. The article is a financial data page with no narrative content or claims about the company's operations or performance."
     },
     {
       "id": 294578,
@@ -92982,15 +92997,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.9,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Tax information for BioMar Group A/S stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlAxQzdxeV8tUE4yckZUMVJIWGdtVWc5aEh0ZEVxd0drSk9sSWhFak9xT1BVcF95UjE0cm15UElLTDh2MUZKVy1Mek5mX1FfTWtOb1FGYUZBVFVycndTRkFnY242d0JsSldaemMyZnR4T21KbGlnQXlUZDJWcno3TERRUWNSbHBxMHNLM3Z3?oc=5\" target=\"_blank\">Taxes of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView published a data page displaying tax information for BioMar Group A/S under the stock ticker LS:A42CV2. The article appears to be a financial data reference rather than news coverage of the company's operations or performance."
     },
     {
       "id": 295283,
@@ -93126,15 +93141,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric display for BioMar Group trading data",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVpzNmliVWdhZS1hX0I0SmtZYk1GR1hsV00tZENIaFRicV96bFBtQVZEbXlTcG5qRHZYR20yUHhIQ2lGWF9rYVZOU2pRcGoxOW1RaUtxR3JrdGhXV1Nhczh2cHZtX19uVmFyX0wtNzRZenA2a05FNUxiOWxDUFBRZjRTbnpRcy1jRWZXUkU5eGQtdXlJOW15QzZuejk?oc=5\" target=\"_blank\">Return on equity % of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView presents return on equity percentage data for BioMar Group A/S listed under ticker LS:A42CV2. The article is a financial data widget with no narrative content or claims about the company's operations or performance beyond the metric itself."
     },
     {
       "id": 296311,
@@ -93174,15 +93189,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric snapshot for BioMar Group trading data",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTI2U281R3llb3ZNYjRqc21FelVZQ3ZqNFpPc09SUHhVWlh5TDhBcDJ3UW1fSkFVSlpqbHhoMzZWemkyMmk4S3JJZHAtLTlaMGtYOGc5SVhxczl2MW15MlVNUEZBVWdLVWRGOGIyeTJfdko5QjJyTFlwMUx1VTZFVWNIdWthaE5DcjFGbjZ2THZYY2xST1c4Zw?oc=5\" target=\"_blank\">Current ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the current ratio financial metric for BioMar Group A/S (ticker LS:A42CV2). No narrative or news content is presented beyond the data point itself."
     },
     {
       "id": 297055,
@@ -93198,15 +93213,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric snapshot for BioMar Group trading data",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3ZOaGF4Z3pHQS04TzJ6WGpWY2l5U1JKN05EeU5NQXhNODA0bHcwdTA3Q09vMTlPa1F2c2RZS1MwY3lzSHZEUWw2Z084Z0RDVXdHRUxHbTNzbjBwZzVMTU5sSU5ueU0ybktGbDNwMzBTbnN5VWxXR3JlcXNfc01aYWxXWF9PZw?oc=5\" target=\"_blank\">EBIT of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView reports EBIT figures for BioMar Group A/S (ticker LS:A42CV2). The article appears to be a financial data feed entry with no narrative or commentary beyond the metric itself."
     },
     {
       "id": 297057,
@@ -93222,15 +93237,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric snapshot for BioMar Group A/S equity listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWk4UzZkYTZvbUhJNnhRLXk5X2piZ1dFNTN5bTQzc2ZXU2tGMHBuSW9pZUpXUzJBZDBsZzljWGF2Vk5ZYzQ2MzJXekUyY1FPSXR5ZjhfRVlRMEljWkNlb0NtTWdiX1ZDbjd2dXl0VVJDRkFxZ0ZJcS1PWDVKdmQ1S2FTVTNUelJma0xXMFVzWEoxa0VuWjcwbQ?oc=5\" target=\"_blank\">Debt to assets ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a financial metric page displaying the debt-to-assets ratio for BioMar Group A/S under its ticker symbol LS:A42CV2. The article is a routine data reference tool with no narrative content or commentary on the company's performance or operations."
     },
     {
       "id": 297337,
@@ -93318,15 +93333,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Financial metric display for BioMar Group stock ticker.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXNoYW5TR24xbVRicHFwX2xZNU1WclRzbEFzbWpBOHFoOXZib3lXa0gxMTlkZm9UV3VqQl9wTXgtYWlNb0lMTGR6Q190RTltNGVteDA5b2dKeVhSel9JbXRZX0g0YnRXX3JXTVFzcFV6U3daLXpqOTFlSkhqdFMtUEFXbGE2TXJ1ZkxlUl9XeWpTSEhMYlBjR3Z4NzZyOFBHU1V4SmxkdkpqelZiM2c?oc=5\" target=\"_blank\">Operating cash flow per share of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a data visualization page showing the operating cash flow per share metric for BioMar Group A/S (ticker LS:A42CV2). The article is a financial data aggregator entry with no editorial commentary or news content beyond presenting the metric itself."
     },
     {
       "id": 298088,
@@ -93342,15 +93357,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric data point for BioMar Group stock listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXEyd3kzaUVnLTI5Ti1TT3hsSTZXRVBkYjN4Rm5iUkZxYTdZbk5RWWRGdTRVOVNlTzc2VnYtM3FtcXBicnFiX3k5dTQyUXRodWVfbHhDVGpTQm80Z1FLTzdhdnJBY2E1WktCU3hIVFVGQlYwTGt5dDlvcDktZHlqQmZHYTJzdi1UazQ1RVRSUHJ4OHpCZ3VxcTZEeXBCdF9fenJKaUNKMA?oc=5\" target=\"_blank\">Free cash flow per share of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a financial data page displaying free cash flow per share metrics for BioMar Group A/S, listed under ticker LS:A42CV2. The article is a standard financial data presentation with no editorial commentary or claims."
     },
     {
       "id": 298089,
@@ -93366,15 +93381,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric snapshot for BioMar Group shares.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjhneXFIVHRSWkpNemhtNFdFdC1wZ19DSWhZVkhsSFRSeHNuTXJreUFhcWtabVdqc1BkQWpSZGctNlZjZklxeXNXWE50S0U5aUpkWDZaVUoxdnhUY1UyT21XRU9NYWlYdi1LTlduOURhVmxBSXo1S3FoSnhlMVJBTi1GUklmblhXWWJ1TEdyVWxvOEw3OTZtcWl3?oc=5\" target=\"_blank\">Cash per share of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays a financial data point—cash per share—for BioMar Group A/S ticker LS:A42CV2. No narrative or editorial commentary is present; the article is a data dashboard feature without sentiment or substantive claims about the company's business or performance.\nThis is a routine market-data snippet, not coverage of company news, strategy, or events."
     },
     {
       "id": 298091,
@@ -93390,15 +93405,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial data page for BioMar Group stock listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkpsYWl0bk8xNkt5TkRWNXI4Ujk4VlU0dnFyNzJTRV9MVVpJZ2FVOEVySFpHUmFiMkh3LTl3YURDd1g0Z1dESmJPUlJDdldWaHRyTWhUcFItS0c2QkhnNHVlTWRRa0lOdmVSc2FDMWVoOFJ5aFp4dHFteDdLSjBUc2ZPaWVzRDhmeFE1TnVPbmgtMFh3blcwcnA4dnBkSmFCVHc?oc=5\" target=\"_blank\">Book value per share of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays financial metrics for BioMar Group A/S, a Danish aquaculture feed producer listed on Nasdaq Copenhagen. The page shows book value per share data for the company's equity security (ticker LS:A42CV2)."
     },
     {
       "id": 298093,
@@ -93414,15 +93429,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric display for BioMar Group stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPS01PZW5fajlaeU8xMlJfQ0lYNy1vZnRDWFRIOGNsczVyWVlrMmVQUjZNVGNoLWw5OFUtZXpkUElmdHZBd1k4VWpKOHI1emphRVVIMlp2MXdWRkwyT3dncEdtYkF1LXBuM2RhSTAzZkVwMWFUU2ZNMmlpb05YZHg2MnpSbzNURzMtb1VJVU1sbDl4WlduLVNmaXV3R2Q?oc=5\" target=\"_blank\">Return on assets % of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the return on assets percentage metric for BioMar Group A/S under its stock ticker LS:A42CV2. This is a standard financial data presentation with no narrative or commentary attached."
     },
     {
       "id": 298383,
@@ -93534,15 +93549,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric display for BioMar Group stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOM2ZVbFdKMXhub2tITU1ZcWxvV3VUSEJvTnRHbUh5UzdoOWw1bTFCanlFUURCZmtWbXRINUZPVEdlaThfb3lERlRaNHAyeUkxVlBxR3c5UWN5bUNxZF9LMEk2ZkZZRF96WjdnQzVxUEZ6MGQxeHlja256MWE4T0xScWhyb1BvVkc0WGNRekoxWG5uM2Y1dVdER0Zn?oc=5\" target=\"_blank\">Price to book forward of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the price-to-book forward valuation metric for BioMar Group A/S under its listing ticker LS:A42CV2. The article is a technical financial data page with no narrative content or claims about the company itself."
     },
     {
       "id": 299122,
@@ -93558,15 +93573,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric reporting on BioMar Group share class",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXdycHJKS2tha3p1NkNRcjJ1OWFEcDVVZjZRRUtDY1pBYjlMQi0zVGUwRm5XYkU2RkxTRkRMZFB6R2RSeXVmWWV3Y0phXzF6OGZ5dWNUcHdSY0F0dFBSTEZRVU90ZG5uR2ltX2NYUFAzUWQ1c2tSWE9kakgzTkR5NkNDckIyOHdYTUhQVmVFaUNoRHV4VzNJVA?oc=5\" target=\"_blank\">Diluted net income available to common stockholders of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView reports a financial metric (diluted net income available to common stockholders) for BioMar Group A/S listed under ticker LS:A42CV2. The article appears to be a data point or financial dashboard entry rather than substantive editorial coverage of the company's performance or news."
     },
     {
       "id": 299123,
@@ -93582,15 +93597,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric dashboard for BioMar Group stock ticker",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDN6NThfWjVZblg2TzkxS3N2TlVPdm9aMDFIVHdFVlF3aHU3YmRCcXlHM09ObXk4bV9JU2l5ei16RWdEb0U3M2dOMzJQbTktb0pJR0kwMEFQTlhxVGZOZG5veW0wNWM5bmdKTTJRSlJVbWV4M0h5dUF3MHhOU3hmN3lWRHBDTGJHVjF6X1BpUWpfUVZXZENLYUxLUm4xcENCNkt4elBGaXNPQQ?oc=5\" target=\"_blank\">Return on invested capital % of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView published a financial metrics page tracking the return on invested capital percentage for BioMar Group A/S listed under ticker LS:A42CV2. The content is a data dashboard presentation without narrative commentary or claims about the company's performance or operations."
     },
     {
       "id": 299124,
@@ -93606,15 +93621,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.95,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Financial metric snapshot for BioMar Group stock listing",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGVzZ1V4aElUYlRjeXdBYWJxUWhIVFRmdDRfM2F4SDI1dWVWeGRjcTFrNmc0X2FXZUdQX0ZYTDkydHpZZUVHZGp1SE1ObHRaTUtHemt0OXQwTzFrVThVQXlldmE1Z0VWUWdsZTkydEhqR0dZLWdTWEFwRHR6ZlUzUzkxZnpGenJjeVdYTUJoQXBTZUJo?oc=5\" target=\"_blank\">Price to book ratio of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView displays the price-to-book ratio metric for BioMar Group A/S trading under ticker LS:A42CV2. The article is a standard financial data presentation with no news or narrative content beyond the valuation metric itself."
     },
     {
       "id": 299412,
@@ -94112,15 +94127,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Financial metric reporting on BioMar Group net income",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbnFQQTFKbmNLTEstXzJ6RzZIS1ZiU0tFVmR6bXQ4WDVtWEo2a0RyS1ZyOFE3aVZVWU9oemU0bjJ4X0E1dER0M0pIREFaU3NzTENJeTBkbWE1bmVmUldNcVlQODdwaENrdXJqUHZQZmYyTUNqdC11ZHlOTXJDS1JsSTVySTZtRkhuS19vdk0xczVKdzBoRk9TazNSd19oc19T?oc=5\" target=\"_blank\">Net income before discontinued operations of BioMar Group A/S – LS:A42CV2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "TradingView publishes a data point on net income before discontinued operations for BioMar Group A/S. The article is a financial datapoint without editorial commentary or narrative context."
     },
     {
       "id": 306404,
@@ -97028,16 +97043,19 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar Viet-Uc achieves first ASC certification for aquaculture feed in Asia",
+      "key_claims": [
+        "BioMar Viet-Uc facility in Vietnam is the first ASC-certified feed production facility in Asia",
+        "The facility meets Aquaculture Stewardship Council standards for responsible aquaculture feed production"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "legal"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTlOMlhpX1dJVlYtRG91RFpJOXdtbXVla0FnTTdYUXoyYXRTU3BpdHQzWmxZZWd1OHhBLTAzSXRrRGxEUUh4TnRiVEFOOHhOOTlGQkpJVkVldzZIV1JjODBza1p5eHlnYldleVdCWlhkUGZEOXJmemJ5UGRNUzVyNUJHTEpiVmxzamx4eUNSR3FEQW1nNzFkUW42aTQ5bXBoeG1HOUFlTDkwZGRGbWVZVlpyXy1TZmJuUEJkak1mT2drUGh2X2RWdTZCUkNFcjjSAc8BQVVfeXFMTXk5TjJYaV9XSVZWLURvdURaSTl3bW11ZWtBZ003WFF6MmF0U1NwaXR0M1psWWVndTh4QS0wM0l0a0RsRFFIeE50YlRBTjh4Tjk5RkJKSVZFZXc2SFdSYzgwc2taeXh5Z2JXZXlXQlpYZFBmRDlyZnpieVBkTVM1cjVCR0xKYlZsc2pseHlDUkdxREFtZzcxZFFuNmk0OW1waHhtRzlBZUw5MGRkRm1lWVZacl8tU2ZiblBCZGpNZk9na1Bodl9kVnU2QlJDRXI4?oc=5\" target=\"_blank\">BioMar Viet-Uc in Vietnam becomes first ASC-certified feed facility in Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+      "summary": "BioMar Viet-Uc in Vietnam has become the first aquaculture feed facility in Asia to achieve Aquaculture Stewardship Council (ASC) certification. The certification recognizes the facility's compliance with environmental and social responsibility standards in feed production."
     },
     {
       "id": 371219,
@@ -113219,6 +113237,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTXd3UzRsS3pRYURLbk9pS0xNVWVZVjAyOXhsVV9vSkRlWXNqYmVlcGRUZVlVSS10dXBBMHQ4WVRTQ3dvWC0yVjJQT1pIa1NUVVF4a25yTld6V2FrNnI4VENFYnpiWXotd2FtdW1KSkpRaVVNbS1fNlRPRXdyaDhKeFEwZEhIdDUwQzF1WTFsLW53UUlqenhvNFVVYjl5TWJPSk52M1U5T0I3X181Z3c?oc=5\" target=\"_blank\">Skretting fue premiada por el mejor estand en AquaExpo 2025 | Ecuador | Noticias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Universo</font>"
+    },
+    {
+      "id": 560753,
+      "story_id": 2574,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTBDNWhJVTFsZWZabUxlOVdrbG9LLUZFMm42eld0akpYTXNnOUQwMkZtNnpoX0VyamE1UkE2TFRlTndyVWtOc05ncnV1YmRJMEZOLXZDeHJnSmRtQmg4YkxFU0V0YWk2bnVDUTVxSGJUNFpVZkpJWDNnZTZzTTZkaGh5VjBRaHdrV0xrbWdBNEQ1S1pPZmpqam1vbHdQRkJUOEduQlF0WkhueG5HRlVjSA?oc=5",
+      "title": "Aquachile firma promesa para vender Alitec a Biomar Chile - diarioestrategia.cl",
+      "source_name": "diarioestrategia.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-03-15T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTBDNWhJVTFsZWZabUxlOVdrbG9LLUZFMm42eld0akpYTXNnOUQwMkZtNnpoX0VyamE1UkE2TFRlTndyVWtOc05ncnV1YmRJMEZOLXZDeHJnSmRtQmg4YkxFU0V0YWk2bnVDUTVxSGJUNFpVZkpJWDNnZTZzTTZkaGh5VjBRaHdrV0xrbWdBNEQ1S1pPZmpqam1vbHdQRkJUOEduQlF0WkhueG5HRlVjSA?oc=5\" target=\"_blank\">Aquachile firma promesa para vender Alitec a Biomar Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">diarioestrategia.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -114670,7 +114712,7 @@
       },
       {
         "week": "2019-W11",
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 1,
         "Skretting": 0
       },
@@ -116808,7 +116850,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1836
+        "count": 1837
       },
       {
         "company": "Cargill",
