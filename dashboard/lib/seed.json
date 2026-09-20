@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-20T18:32:37+00:00",
+  "generated_at": "2026-09-20T23:48:18+00:00",
   "stats": {
-    "mention_count": 3280,
+    "mention_count": 3281,
     "story_count": 2417,
-    "analyzed_count": 1845,
+    "analyzed_count": 1846,
     "off_topic_mentions": 127,
     "off_topic_stories": 81
   },
@@ -388,6 +388,7 @@
     "tec.ac.cr",
     "tradingview.com",
     "tronderbladet.no",
+    "uk.finance.yahoo.com",
     "vol.no",
     "washburn-mcreavy.com",
     "weareaquaculture.com",
@@ -928,15 +929,15 @@
     },
     {
       "id": 2468,
-      "headline": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - The Manila Times",
-      "story_summary": "This article reports a regulatory notification of share transactions by a manager and closely related parties in Schouw & Co. The disclosure is a standard corporate governance filing requirement with no substantive business developments mentioned.",
-      "first_seen": "2026-09-03T12:37:05+00:00",
+      "headline": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - uk.finance.yahoo.com",
+      "story_summary": "A regulatory disclosure announces transactions in Schouw & Co. shares by company managers and closely related parties. The notification appears to be a standard compliance filing required under securities regulations.",
+      "first_seen": "2026-09-03T07:00:00+00:00",
       "last_seen": "2026-09-03T12:37:05+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "legal"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -114311,6 +114312,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTExYWhkY0FySl9RbWI2OEpGM0dJR3lycXdEYnYyemZjMllQckdpNnJsamIzU2k2YVRTd1YzbllIc0tkeHlfcUJsVHE5TjdlREZNbEFHSGlSS1ZySk8wcHlKLURkdm9pYmNuR3Fkd25uQTdnRFl2d0JodWZyVUVPanNhTXgwaW1zaXR3?oc=5\" target=\"_blank\">86’ - Mål av Ingeborg Skretting (2-1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>"
+    },
+    {
+      "id": 578423,
+      "story_id": 2468,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFZsVWNaVHhnMEJneFJxR2U4UFJ1a19GeF9kNW5rOFhmRUlwNEQxbC1pQU9rWE4ycXNrLURDRlk5MUttazdwQ0lPRlMwT21leHRkOGhxd1VxalI5eEVjeHNtVmNzcWFSb1pHc082QnJfYmlDSG9sM3FjS3ZWc3BCZG1UQTR3bkx4T3Q3WDEtX3ZYdTVLLVpwTQ?oc=5",
+      "title": "Notification of manager’s and closely related parties’ transactions with shares in Schouw & Co. - uk.finance.yahoo.com",
+      "source_name": "uk.finance.yahoo.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-03T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Regulatory notification of executive share transactions in Schouw & Co.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal"
+      ],
+      "summary": "A regulatory disclosure announces transactions in Schouw & Co. shares by company managers and closely related parties. The notification appears to be a standard compliance filing required under securities regulations."
     }
   ],
   "share_of_voice": {
@@ -117880,7 +117905,7 @@
       },
       {
         "week": "2026-W36",
-        "BioMar": 36,
+        "BioMar": 37,
         "Cargill": 0,
         "Skretting": 5
       },
@@ -117900,7 +117925,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1845
+        "count": 1846
       },
       {
         "company": "Cargill",
