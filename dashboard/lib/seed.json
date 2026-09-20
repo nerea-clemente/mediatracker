@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T23:51:06+00:00",
+  "generated_at": "2026-09-20T09:58:00+00:00",
   "stats": {
-    "mention_count": 3274,
-    "story_count": 2413,
-    "analyzed_count": 1842,
+    "mention_count": 3278,
+    "story_count": 2415,
+    "analyzed_count": 1845,
     "off_topic_mentions": 127,
     "off_topic_stories": 81
   },
@@ -427,12 +427,12 @@
       "headline": "Musholm sets nature targets together with BioMar - Aquafeed.com",
       "story_summary": "Musholm and BioMar have announced the establishment of joint nature targets, indicating collaboration on environmental sustainability. The partnership reflects broader industry movement toward integrating environmental objectives in aquaculture operations.",
       "first_seen": "2026-09-16T05:38:17+00:00",
-      "last_seen": "2026-09-16T05:38:17+00:00",
+      "last_seen": "2026-09-16T14:52:41+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1554,7 +1554,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 9,
+      "pickup_count": 10,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -17723,6 +17723,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2586,
+      "headline": "BioMar lanza nuevo aditivo para reducir el estrés en peces - Salmonexpert",
+      "story_summary": "BioMar has introduced a new additive designed to reduce stress in farmed fish. The product represents the company's continued innovation in aquaculture feed solutions for salmon production systems.",
+      "first_seen": "2024-02-20T08:00:00+00:00",
+      "last_seen": "2024-02-20T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2407,
       "headline": "BioMar’s new product helps manage salmon stress and improve performance - aquafeed.com",
       "story_summary": "BioMar has launched a new product specifically formulated to help manage stress in farmed salmon and enhance their performance. The product addresses key welfare and productivity challenges in aquaculture operations.",
@@ -23603,6 +23617,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2585,
+      "headline": "Skretting global nombra a nuevo gerente de sostenibilidad - Diario de Osorno",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXlHSGUtTjdEV3Nvd3VkQm1OSmJtZDRVaDhTM2lIMThuUjNQVnFRYm1xaTloam5iNUZ4TzZxNmJwQnZMemt3TnJXVDBLVXZBdUFiODBTN0I5MUlhNnpfMGdERVJxSzdwQ3paWXg1Wm9ET05OZTdfclJMVWF2dGY2SFhnaDZpSUdRWnNDMm1GUkdrVEl4UXZpNk5QZEN5dW00OHNxMGNiN1NVMURETkE4aDZ5M29EcHY2cVBN?oc=5\" target=\"_blank\">Skretting global nombra a nuevo gerente de sostenibilidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>",
+      "first_seen": "2021-09-08T07:00:00+00:00",
+      "last_seen": "2021-09-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 2064,
@@ -114108,6 +114136,105 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPRE1FOFRfVFNYd1M1Ty12emg0aUNQbWY2M1dXZnczTnB6Uk9OZU9vN3gxQ1dEQWhHUy0tbGwwTlJuY1g3azhTTmJERXFEY0hCRzlGTW5IVGxEWmwxU2JIWHVBMF9LSTgwck9OZE5BZ1VKajlSUV9xLUd3cnZCR2hWZnBiSk96SklhRGtZR1dBSEMyRnREellZ?oc=5\" target=\"_blank\">Kristiansand, Næringsliv | Utfordrer det etablerte: – Skal være næringslivets «vaktmester»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRS - Avisen Kristiansand</font>"
+    },
+    {
+      "id": 574884,
+      "story_id": 2572,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemZkOGZIaU5FV2ZRRGEtT3dGSWZPd2VHZVNFcnpTanVGZmtuXzdPT2IxbERZM082TFJkM3IxWi1qd2xqemhndDA4SFlheGJVbkd0LTBDWEszNHJBZTZhMzlNdy1lajV1cEdiRG9Jb1ZsMTJmdnZVeXBTcWFFa2M5TUFWM1d1dGpoWjkwZmwteklCZk1kYzNRSGNSWXRnd2FlR1p4SE5MQ1FfZw?oc=5",
+      "title": "Musholm sets nature targets together with BioMar - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-16T14:52:41+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "secondary",
+      "angle": "Aquaculture producer partners on environmental sustainability goals",
+      "key_claims": [
+        "Musholm and BioMar have established joint nature targets",
+        "The partnership focuses on environmental commitments"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Musholm and BioMar have announced a partnership to set joint nature and sustainability targets. The collaboration reflects growing industry focus on environmental accountability in aquaculture feed production."
+    },
+    {
+      "id": 575236,
+      "story_id": 2586,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUhxbVI2Y0hLLXgzVWRFYWFfVGxBZ2FlS1R0cnByaEhHOFRpV1VJLWNOaEdsODhoaWw4WHVSbkRfMnhmSWoza3RGMHcxZ0tKUEtoMkFHR0duS0JYcnloTWRBbFdGakhPOTAydDlGYkVoTE9MdVUwdjZtOEVPRzFJMDRzYjNpenBhbUxBc0xwUlI0SG5aeFpJQzhPOU9HV1MzOXBpTHJVSHl0VXlkamc?oc=5",
+      "title": "BioMar lanza nuevo aditivo para reducir el estrés en peces - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-02-20T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar launches new feed additive to reduce fish stress",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has introduced a new additive designed to reduce stress in farmed fish. The product represents the company's continued innovation in aquaculture feed solutions for salmon production systems."
+    },
+    {
+      "id": 575287,
+      "story_id": 2125,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQazRTVUM4blhuTmtQeW9IcVRBc0Rka1dXVWktWVFrcjJYRXJUdmhERC1OdXZZYWdhQ1g0a1NlWV9aS25QZkRmTXhCN01zS19abFQxZEpaZWVUZzNqby02OUN5RDNfLXNRRnp5TS1zQ0xCZi1VbzBUem5FcUZTTkVFRi1ZcHVMODBGRGtCNkt0Z3VIQjA?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 33 2026 - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-08-17T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Share buy-back programme execution update for week 33 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. released details of its share buy-back programme activity for week 33 of 2026. The announcement is a routine corporate disclosure of share repurchase activity during the specified period."
+    },
+    {
+      "id": 575795,
+      "story_id": 2585,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXlHSGUtTjdEV3Nvd3VkQm1OSmJtZDRVaDhTM2lIMThuUjNQVnFRYm1xaTloam5iNUZ4TzZxNmJwQnZMemt3TnJXVDBLVXZBdUFiODBTN0I5MUlhNnpfMGdERVJxSzdwQ3paWXg1Wm9ET05OZTdfclJMVWF2dGY2SFhnaDZpSUdRWnNDMm1GUkdrVEl4UXZpNk5QZEN5dW00OHNxMGNiN1NVMURETkE4aDZ5M29EcHY2cVBN?oc=5",
+      "title": "Skretting global nombra a nuevo gerente de sostenibilidad - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-09-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXlHSGUtTjdEV3Nvd3VkQm1OSmJtZDRVaDhTM2lIMThuUjNQVnFRYm1xaTloam5iNUZ4TzZxNmJwQnZMemt3TnJXVDBLVXZBdUFiODBTN0I5MUlhNnpfMGdERVJxSzdwQ3paWXg1Wm9ET05OZTdfclJMVWF2dGY2SFhnaDZpSUdRWnNDMm1GUkdrVEl4UXZpNk5QZEN5dW00OHNxMGNiN1NVMURETkE4aDZ5M29EcHY2cVBN?oc=5\" target=\"_blank\">Skretting global nombra a nuevo gerente de sostenibilidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
     }
   ],
   "share_of_voice": {
@@ -116203,7 +116330,7 @@
         "week": "2021-W36",
         "BioMar": 1,
         "Cargill": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2021-W37",
@@ -116897,7 +117024,7 @@
       },
       {
         "week": "2024-W08",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 2
       },
@@ -117665,7 +117792,7 @@
       },
       {
         "week": "2026-W34",
-        "BioMar": 20,
+        "BioMar": 21,
         "Cargill": 0,
         "Skretting": 12
       },
@@ -117689,7 +117816,7 @@
       },
       {
         "week": "2026-W38",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 2
       }
@@ -117697,7 +117824,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1842
+        "count": 1845
       },
       {
         "company": "Cargill",
@@ -117705,7 +117832,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1125
+        "count": 1126
       }
     ]
   }
