@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-21T10:58:03+00:00",
+  "generated_at": "2026-09-21T15:57:39+00:00",
   "stats": {
-    "mention_count": 3284,
-    "story_count": 2419,
-    "analyzed_count": 1848,
+    "mention_count": 3285,
+    "story_count": 2420,
+    "analyzed_count": 1849,
     "off_topic_mentions": 127,
     "off_topic_stories": 81
   },
@@ -395,6 +395,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2591,
+      "headline": "Schouw & Co. share buy-back programme, week 38 2026 - The Manila Times",
+      "story_summary": "Schouw & Co. has announced a share buy-back programme for week 38 of 2026. The article reports on this corporate action without additional context or commentary provided in the available summary material.",
+      "first_seen": "2026-09-21T13:07:51+00:00",
+      "last_seen": "2026-09-21T13:07:51+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2590,
       "headline": "Musholm Commits to Ambitious Nature Goals With Support From BioMar’s Blue IMPACT Feed Program - Perishable News",
@@ -114436,6 +114450,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmNJZ2VWY05HY2NfenplVXNOcERLa2lKUXE5Q05yRE8zaE5ldDZVcm5LSHptclRBbmFLUkZsV3F3MFZIcC1zUkx0RWNzbE9KUC1UWUk3ME5GdHhIX0lEc0ZGZlpZUjZFdkZnVEkydFB5eUhrdFBlX01DN1pETmlXQk1iVnRWcDgxb1J0STBIS0Q1RjlsOWFHS252SXZMMWtmajNFaENNbUs4MnhTalFyeg?oc=5\" target=\"_blank\">Skretting proyecta disponibilidad en Chile de su nueva innovación nutricional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 580508,
+      "story_id": 2591,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNVllNUk2SF9rdFQ5Tk1JMUxhOTdQNHVOUVJlX2E2YTVLSXNLa2c2ZGFQQkVEMHlBdmxBS294S2ZYaE1kbzloUFZWZEdMUWdENEY2U2VXaWRnS2ZpR2VjLS1BWnoyMTdLbHB4MEFjQmdhVEQ4NGZqYWFURTF6eDB0eEhXU1d4dU9ONG42V0VYcDFjOTlUSHRUQ2tCM1p1bE5CdEFBbW5HbWotek5KVEh0a25HWno5eGhvMXFtZlJvUHFRZVnSAcMBQVVfeXFMTzVZZTVJNkhfa3RUOU5NSTFMYTk3UDR1TlFSZV9hNmE1S0lzS2tnNmRhUEJFRDB5QXZsQUtveEtmWGhNZG85aFBWVmRHTFFnRDRGNlNlV2lkZ0tmaUdlYy0tQVp6MjE3S2xweDBBY0JnYVREODRmamFhVEUxengwdHhIV1NXeHVPTjRuNldFWHAxYzk5VEh0VENrQjNadWxOQnRBQW1uR21qLXpOSlRIdGtuR1p6OXhobzFxbWZSb1BxUWVZ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 38 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-09-21T13:07:51+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share buy-back programme for week 38 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. has announced a share buy-back programme for week 38 of 2026. The article reports on this corporate action without additional context or commentary provided in the available summary material."
     }
   ],
   "share_of_voice": {
@@ -118023,7 +118061,7 @@
       },
       {
         "week": "2026-W39",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 0
       }
@@ -118031,7 +118069,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1848
+        "count": 1849
       },
       {
         "company": "Cargill",
