@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-21T15:57:39+00:00",
+  "generated_at": "2026-09-21T20:17:56+00:00",
   "stats": {
-    "mention_count": 3285,
-    "story_count": 2420,
-    "analyzed_count": 1849,
+    "mention_count": 3287,
+    "story_count": 2421,
+    "analyzed_count": 1851,
     "off_topic_mentions": 127,
     "off_topic_stories": 81
   },
@@ -405,7 +405,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -27376,6 +27376,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2592,
+      "headline": "AquaChile entrega información por negocios con BioMar y Benchmark - aqua.cl",
+      "story_summary": "AquaChile has provided information regarding its business relationships with BioMar and Benchmark, likely in response to regulatory or disclosure requirements. The article focuses on AquaChile's transparency in reporting supplier and business relationships in the aquaculture sector.",
+      "first_seen": "2019-06-12T07:00:00+00:00",
+      "last_seen": "2019-06-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1816,
@@ -114474,6 +114488,54 @@
         "none"
       ],
       "summary": "Schouw & Co. has announced a share buy-back programme for week 38 of 2026. The article reports on this corporate action without additional context or commentary provided in the available summary material."
+    },
+    {
+      "id": 581557,
+      "story_id": 2592,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaG51WW9EN2dVQXpsMGtrVFFHdFE2MUJWbVAzOVNETXpLR2ZOTER0X0N1amYtenlqRUNZNmNqbnVNVWZKUExOVzU2ZHNrVXNHT3FiQl93TmMyaEY0Ym5wUDNVaHprN0tpQTZrTnd0aHFWb0VZNVdXTjlrQThFNHl3Z1B2SURUYUJoc2ZWdER2MA?oc=5",
+      "title": "AquaChile entrega información por negocios con BioMar y Benchmark - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-06-12T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "AquaChile discloses business dealings with BioMar and Benchmark",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "AquaChile has provided information regarding its business relationships with BioMar and Benchmark, likely in response to regulatory or disclosure requirements. The article focuses on AquaChile's transparency in reporting supplier and business relationships in the aquaculture sector."
+    },
+    {
+      "id": 581558,
+      "story_id": 2591,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUklnZjR0Q3h4eGNhdU5UWmZFSHFPZjRrS28tQmI1a2txUTBtSXg5cl9yQWh1U3J1WUxwampUVFltUGR5NVJDYTQzQ2ZPYS1qbEZSZlNaRlVFcXg5SHlDdUhpY1pYNkR5eEV0X2hxSENRb0FHZVJIUlZzUGtKbGtSWVVyTjVsdGJNOGg2WDFMNzVxSTZRZ1lCRFVFczNNcXh2Wks3TzhPNG1oZDE3SVVGNmFsZGxfckRVeERkdmt30gHDAUFVX3lxTE81WWU1STZIX2t0VDlOTUkxTGE5N1A0dU5RUmVfYTZhNUtJc0trZzZkYVBCRUQweUF2bEFLb3hLZlhoTWRvOWhQVlZkR0xRZ0Q0RjZTZVdpZGdLZmlHZWMtLUFaejIxN0tscHgwQWNCZ2FURDg0ZmphYVRFMXp4MHR4SFdTV3h1T040bjZXRVhwMWM5OVRIdFRDa0IzWnVsTkJ0QUFtbkdtai16TkpUSHRrbkdaejl4aG8xcW1mUm9QcVFlWQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 38 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-09-21T13:07:51+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. share buyback programme announcement for week 38 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced details of its share buy-back programme for week 38 of 2026. The article reports on the implementation of the company's share repurchase initiative during that period."
     }
   ],
   "share_of_voice": {
@@ -115991,7 +116053,7 @@
       },
       {
         "week": "2019-W24",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -118061,7 +118123,7 @@
       },
       {
         "week": "2026-W39",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Skretting": 0
       }
@@ -118069,7 +118131,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1849
+        "count": 1851
       },
       {
         "company": "Cargill",
