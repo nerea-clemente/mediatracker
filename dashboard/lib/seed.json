@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-22T00:32:02+00:00",
+  "generated_at": "2026-09-22T10:11:57+00:00",
   "stats": {
-    "mention_count": 3288,
-    "story_count": 2422,
-    "analyzed_count": 1851,
+    "mention_count": 3291,
+    "story_count": 2423,
+    "analyzed_count": 1852,
     "off_topic_mentions": 127,
     "off_topic_stories": 81
   },
@@ -498,12 +498,12 @@
       "headline": "Price to earnings forward of Schouw & Co A/S – OMXCOP:SCHO - TradingView",
       "story_summary": "TradingView publishes a forward price-to-earnings metric for Schouw & Co A/S shares traded on OMXCOP. The article is a data-driven financial snapshot with no narrative content.",
       "first_seen": "2026-09-15T06:47:16+00:00",
-      "last_seen": "2026-09-15T06:47:16+00:00",
+      "last_seen": "2026-09-15T16:57:05+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -18867,7 +18867,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -19150,6 +19150,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2594,
+      "headline": "Skretting presenta nueva solución nutricional para Coho en fase de agua dulce - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXBxenA5T2QwVWtDdmpwSXZfM3RhWjRwSHJzQ1RXa0t4YklGdVFYaWJzUGNBVlJqRHBISlVycGVUS3pFbFhJSDNKbERlcXFha0JyN1Q2SFBxRUdNcXBJWDZVYTdDV1ZyS1F5ejhoNnQ0b0F1TEpLUzJKZ09DUHIzQmdqUnJvcTZub0daS01ESVZVanlzVlc1T1c4a2tUdjZzOV9CSzRoUWFsQQ?oc=5\" target=\"_blank\">Skretting presenta nueva solución nutricional para Coho en fase de agua dulce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2023-09-28T07:00:00+00:00",
+      "last_seen": "2023-09-28T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 93,
@@ -114574,6 +114588,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTy1rcXFMSmpyaWFacGNPeTE1bGYtU2pZbHFzRXdKTFljTHVEWVFNUVRWNmUxM0M3MFdLSExwUTIwWVF5dG55elVLblR4dlg3T3h2eW9sSnB4ZzdtRWJsU1hkUHdMLUFoM3FySE1jb2ZLRHM5UzRCT1o1SEYycnp4ay1EYml1eHBOMkRuR1ZBZGtFU3k1d0FtY29qdlZMQzhIakV1cTRUVjNsN3Q5QzBDVXN2SGg?oc=5\" target=\"_blank\">Región de Los Lagos: Skretting y Fundación Inspiring Girls realizaron charlas para niñas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 583664,
+      "story_id": 2571,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGNsdU9fZ1ZtRERFUktKSHJfOXR3T09DYmg2M3VLSWRkY1dTMEhOd3Q0bnJYa09MOFliaEpXWlFYWGdwRkMtczhaS3hvUUlUTU1OWFhFbWxldnVsUUE1cnJsNlZxVDlTT3lva256bU82dC1sZ2VOV0tIbUxMd2pOZHM4bVVnMjVubzZoTWdSU1JGUm8?oc=5",
+      "title": "Price to sales ratio of Schouw & Co – HAM:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-15T16:57:05+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting on Schouw & Co stock valuation.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView reports the price-to-sales ratio for Schouw & Co (ticker HAM:5RF), a standard financial metric used by investors to assess stock valuation. The article is a routine data presentation with no editorial commentary or analysis."
+    },
+    {
+      "id": 584125,
+      "story_id": 566,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFBDQlVsZnpVMU1xbGZyVHRKWlZzOVQ1MlprYjFyRUx6ZjlicFFVc0JpelVjNkRXcDBsSFQxYWVVWTVrbkJQNjd0czRTR2s1c0VvXzBjSFFPYUdranpyM1RZOUJvMU9qU3JhSlE1alVMaWEtMDFSODczaGwyLVMyUnVvcjA0WnRkWTNVdWZHOUE3V3ZobVQyVXZhWjlTYmdXSmJwQnI1SHcxVjJnR2U4?oc=5",
+      "title": "Skretting inaugura flota de grúas horquilla de última generación - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-10-19T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFBDQlVsZnpVMU1xbGZyVHRKWlZzOVQ1MlprYjFyRUx6ZjlicFFVc0JpelVjNkRXcDBsSFQxYWVVWTVrbkJQNjd0czRTR2s1c0VvXzBjSFFPYUdranpyM1RZOUJvMU9qU3JhSlE1alVMaWEtMDFSODczaGwyLVMyUnVvcjA0WnRkWTNVdWZHOUE3V3ZobVQyVXZhWjlTYmdXSmJwQnI1SHcxVjJnR2U4?oc=5\" target=\"_blank\">Skretting inaugura flota de grúas horquilla de última generación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 584140,
+      "story_id": 2594,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXBxenA5T2QwVWtDdmpwSXZfM3RhWjRwSHJzQ1RXa0t4YklGdVFYaWJzUGNBVlJqRHBISlVycGVUS3pFbFhJSDNKbERlcXFha0JyN1Q2SFBxRUdNcXBJWDZVYTdDV1ZyS1F5ejhoNnQ0b0F1TEpLUzJKZ09DUHIzQmdqUnJvcTZub0daS01ESVZVanlzVlc1T1c4a2tUdjZzOV9CSzRoUWFsQQ?oc=5",
+      "title": "Skretting presenta nueva solución nutricional para Coho en fase de agua dulce - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-09-28T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXBxenA5T2QwVWtDdmpwSXZfM3RhWjRwSHJzQ1RXa0t4YklGdVFYaWJzUGNBVlJqRHBISlVycGVUS3pFbFhJSDNKbERlcXFha0JyN1Q2SFBxRUdNcXBJWDZVYTdDV1ZyS1F5ejhoNnQ0b0F1TEpLUzJKZ09DUHIzQmdqUnJvcTZub0daS01ESVZVanlzVlc1T1c4a2tUdjZzOV9CSzRoUWFsQQ?oc=5\" target=\"_blank\">Skretting presenta nueva solución nutricional para Coho en fase de agua dulce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
     }
   ],
   "share_of_voice": {
@@ -117245,7 +117331,7 @@
         "week": "2023-W39",
         "BioMar": 6,
         "Cargill": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2023-W40",
@@ -117263,7 +117349,7 @@
         "week": "2023-W42",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2023-W43",
@@ -118155,7 +118241,7 @@
       },
       {
         "week": "2026-W38",
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Skretting": 4
       },
@@ -118169,7 +118255,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1851
+        "count": 1852
       },
       {
         "company": "Cargill",
@@ -118177,7 +118263,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1130
+        "count": 1132
       }
     ]
   }
