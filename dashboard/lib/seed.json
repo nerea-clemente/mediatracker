@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-22T14:05:54+00:00",
+  "generated_at": "2026-09-22T19:36:47+00:00",
   "stats": {
-    "mention_count": 3292,
-    "story_count": 2424,
-    "analyzed_count": 1853,
+    "mention_count": 3294,
+    "story_count": 2425,
+    "analyzed_count": 1854,
     "off_topic_mentions": 127,
     "off_topic_stories": 81
   },
@@ -397,15 +397,15 @@
   "stories": [
     {
       "id": 2591,
-      "headline": "Schouw & Co. share buy-back programme, week 38 2026 - The Manila Times",
-      "story_summary": "Schouw & Co. has announced a share buy-back programme for week 38 of 2026. The article reports on this corporate action without additional context or commentary provided in the available summary material.",
-      "first_seen": "2026-09-21T13:07:51+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 38 2026 - Yahoo Finance",
+      "story_summary": "Schouw & Co announced details of its share buyback programme for week 38 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group (aquaculture feed).",
+      "first_seen": "2026-09-21T13:00:00+00:00",
       "last_seen": "2026-09-21T13:07:51+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -28475,6 +28475,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcl9ka1llZmdVWDdyb3NzNDdtc3RlR0dxLXhQbWl5RXpTZ0NUeG9nQkZ0NkhDSTg4UlV0b05USEpfZmw1S2R3bER3RnQ5VGR1UVZON3ZmMkc4bTdUY3BZcEVIV1AwSW1kZl90clJfbGV6LTdmV2dVQzZvTHVFZjliT2VzRUw1ckNuQlZaTjZRcFI?oc=5\" target=\"_blank\">Skretting es premiada por “compromiso a la seguridad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2018-10-29T07:00:00+00:00",
       "last_seen": "2018-10-29T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2596,
+      "headline": "Danny Skretting | Obituary - Martin Brothers Funeral Services",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZS04aGtWZ3FZX2t5Zk9YcmpsVzZCaEh0NDUxcExHUndZZjhyckd1dTlvQndmXzNKd2VGem43Rm1KOVlHeWFlaTE0eHRveUJlN1U1YkJLbHAtTUl3dHU2N3hJd1RyYTEzRUE?oc=5\" target=\"_blank\">Danny Skretting | Obituary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Martin Brothers Funeral Services</font>",
+      "first_seen": "2018-10-25T07:00:00+00:00",
+      "last_seen": "2018-10-25T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -114698,6 +114712,54 @@
         "none"
       ],
       "summary": "This is a notice announcing the Annual General Meeting of Aktieselskabet Schouw & Co., the Danish parent company. The article contains standard AGM procedural information with no substantive commentary or news development regarding BioMar or its operations."
+    },
+    {
+      "id": 585762,
+      "story_id": 2591,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZHFnam1NYndXWmFnZ2pPVkhzTlkySDNMY1c3RmFTOFpGZHNnTW5XZlZWSjl2U3d5V1pFWjlIbU1mTm5QMzdsUzd6UkJSa2o2bVNoVVVhWXUtX1F3c3NPaHE5b0l3MGJ6RXo1QjFkVjJsYmt3aHN3UjNkdGZGZlVVa0tBeGo3ZGdYOU05M2drWXFwWTg?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 38 2026 - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-09-21T13:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co share buyback activity in week 38 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co announced details of its share buyback programme for week 38 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group (aquaculture feed)."
+    },
+    {
+      "id": 585988,
+      "story_id": 2596,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZS04aGtWZ3FZX2t5Zk9YcmpsVzZCaEh0NDUxcExHUndZZjhyckd1dTlvQndmXzNKd2VGem43Rm1KOVlHeWFlaTE0eHRveUJlN1U1YkJLbHAtTUl3dHU2N3hJd1RyYTEzRUE?oc=5",
+      "title": "Danny Skretting | Obituary - Martin Brothers Funeral Services",
+      "source_name": "Martin Brothers Funeral Services",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2018-10-25T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZS04aGtWZ3FZX2t5Zk9YcmpsVzZCaEh0NDUxcExHUndZZjhyckd1dTlvQndmXzNKd2VGem43Rm1KOVlHeWFlaTE0eHRveUJlN1U1YkJLbHAtTUl3dHU2N3hJd1RyYTEzRUE?oc=5\" target=\"_blank\">Danny Skretting | Obituary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Martin Brothers Funeral Services</font>"
     }
   ],
   "share_of_voice": {
@@ -116055,7 +116117,7 @@
         "week": "2018-W43",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2018-W44",
@@ -118285,7 +118347,7 @@
       },
       {
         "week": "2026-W39",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 0
       }
@@ -118293,7 +118355,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1853
+        "count": 1854
       },
       {
         "company": "Cargill",
@@ -118301,7 +118363,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1132
+        "count": 1133
       }
     ]
   }
