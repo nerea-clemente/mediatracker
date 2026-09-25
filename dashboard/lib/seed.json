@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-25T10:24:29+00:00",
+  "generated_at": "2026-09-25T14:39:50+00:00",
   "stats": {
-    "mention_count": 3309,
+    "mention_count": 3310,
     "story_count": 2435,
-    "analyzed_count": 1862,
+    "analyzed_count": 1863,
     "off_topic_mentions": 131,
     "off_topic_stories": 83
   },
@@ -1952,7 +1952,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -115268,6 +115268,33 @@
         "none"
       ],
       "summary": "The article mentions Jens Bjerg Sørensen, President of Schouw & Co, in connection with restructuring of an incentive programme. The specific details of the article are not accessible from the provided summary and URL only, limiting substantive analysis of BioMar's involvement or prominence in the coverage."
+    },
+    {
+      "id": 597290,
+      "story_id": 2154,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZXJlQ3J1UE9BS3ZlQW5BeEVzNGptS0ljeElhamdJWEFKaXkwMGwtR19oc0pLWGVxTVRhMjZhNnVTaXNCaTMwQWVDNjliOThpaW01WENzdDQ5c1lfb0RSaUx3WFJteDU3cks2MGRUUGpHQzZ0MURwR3pjRkNrSC05dHdYREx3eGpnYWhoNllUUzVldEhKY1E?oc=5",
+      "title": "Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co. raises full-year 2026 financial guidance",
+      "key_claims": [
+        "Schouw & Co. raised full-year 2026 revenue guidance",
+        "Schouw & Co. raised full-year 2026 EBITDA guidance"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co., the parent company of BioMar, announced an upward revision of its full-year 2026 financial guidance for both revenue and EBITDA. The guidance raise indicates stronger-than-expected operational performance across the conglomerate's business divisions."
     }
   ],
   "share_of_voice": {
@@ -118825,7 +118852,7 @@
       },
       {
         "week": "2026-W33",
-        "BioMar": 80,
+        "BioMar": 81,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -118869,7 +118896,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1862
+        "count": 1863
       },
       {
         "company": "Cargill",
