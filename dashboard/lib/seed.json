@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T00:13:48+00:00",
+  "generated_at": "2026-09-25T10:24:29+00:00",
   "stats": {
-    "mention_count": 3307,
-    "story_count": 2434,
-    "analyzed_count": 1860,
-    "off_topic_mentions": 129,
-    "off_topic_stories": 82
+    "mention_count": 3309,
+    "story_count": 2435,
+    "analyzed_count": 1862,
+    "off_topic_mentions": 131,
+    "off_topic_stories": 83
   },
   "outlets": [
     ".: El Sol de Margarita :.",
@@ -219,6 +219,7 @@
     "Norges idrettsforbund",
     "Norsk Byggebransje",
     "Norsk Lokalradioforbund",
+    "Noticias de Gipuzkoa",
     "Noticias de Navarra",
     "Nutraceutical Business Review",
     "Næringslivets sikkerhetsorganisasjon",
@@ -9769,7 +9770,7 @@
       "risk_flags": [
         "legal"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -12449,6 +12450,20 @@
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2606,
+      "headline": "Restructuring of incentive programme - The Manila Times",
+      "story_summary": "The article mentions Jens Bjerg Sørensen, President of Schouw & Co, in connection with restructuring of an incentive programme. The specific details of the article are not accessible from the provided summary and URL only, limiting substantive analysis of BioMar's involvement or prominence in the coverage.",
+      "first_seen": "2025-08-11T07:00:00+00:00",
+      "last_seen": "2025-08-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
       "company": "BioMar"
     },
     {
@@ -115202,6 +115217,57 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HZDNkZzJaaVZaV252R3M0aHN4eVBRM3J2MzZLd09DU093YlJyMnlaaldjR09OYWdSS2pld1lUNWs4V2ZBRXdsUlFSMWVUV2YtWE54Wg?oc=5\" target=\"_blank\">Emne: herman skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medier24</font>"
+    },
+    {
+      "id": 596221,
+      "story_id": 1238,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaWxGUDNQTnNVV1Y0YXBDc1pxNnpKNlFsVzNRNno3OGYwSGFkWjlWRUpyUWJURnJsTTV6M2lkQTdEYjlRS1RGcTdjZDlVa0piek9LWW9pazN0NGlMTUxaREYzUFBuYWZqREFvV19ZdWZ0MGlSenhKU3JCLWlWbjBEVjNkVFF4UTdLN1NhWkhzRURUZVEzQ01sRzViVzE0Q1lxc3FNU2VYQ2s1VVHSAbABQVVfeXFMTUZfdXBGVU4yMlVoU0J5UlpCWjJwTXZSTUItc2VJQ0hXdEpaNHgtZ3ZNdGFrMkhPWEVmR3d5aE9fSExEbGdFRnpvYnphQWZVUUZFb2ZXTXhIX3lnYk5WWW9wRUg3eEhORHRMZ0tJc3lXQ2d5a2VxcEJIdy1WWndEbURFQXFNSk0wMjZCcmZFdUxpRmFvRnVMRmoxc2szcmxGb19XWENDYnBRVEVrcmozd28?oc=5",
+      "title": "Libertad con cargos para tres directivos de Biomar por fraude del IVA de hidrocarburos - Noticias de Gipuzkoa",
+      "source_name": "Noticias de Gipuzkoa",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-12-03T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Spanish hydrocarbon company executives face VAT fraud charges",
+      "key_claims": [
+        "Three Biomar executives received conditional release pending trial",
+        "The charges relate to hydrocarbon VAT fraud"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal"
+      ],
+      "summary": "Three executives from the Spanish hydrocarbon company Biomar have been released conditionally while facing charges related to VAT fraud. The case involves alleged fraudulent practices in the hydrocarbon sector."
+    },
+    {
+      "id": 596347,
+      "story_id": 2606,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0FsbnRkUTBZV3hPUE9xMzNIZmRyRE5uZzZ6b1N0VVNzaDZrNjRXOTUwTWY2N3djN2R3SUQwSnVtMFIxZHBEV3ZnRGxJa2pTSEV3SWs5SFg1R1E0bjBXYi1XWFhVR1JMYTlnemFoRDFZcTNMenQ3SEJYRVl0b1BEQ3htZlJIdkR3cHIwaGdQVWQ1SmhseE80MnFmbHBpSW91UnNNSW9ZbWxCaEFqbDJz0gG0AUFVX3lxTE1ZVUI4dmlqZXVnei1idGZiakN6dHJoTXlReVFQem9sRUFWb1NmODBhLXU4MklzZHQ5am51U3ZkZ3R6bVc1bmVPQW1FY1g5cC10Q0pxaWctaVdaUDdsQU9nLWt4a1BDeWxhTmR4Sld0VFE1OG85cWNCQzR0eDVuZ2hyVVhWM05aY3FoVmJrRXBhNGUxUzMtbFRUQUdvTDQ5NGg1Wldxa1pCVW83UEprVGJsY0RTVw?oc=5",
+      "title": "Restructuring of incentive programme - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2025-08-11T07:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.5,
+      "prominence": "passing",
+      "angle": "Restructuring of incentive programme",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article mentions Jens Bjerg Sørensen, President of Schouw & Co, in connection with restructuring of an incentive programme. The specific details of the article are not accessible from the provided summary and URL only, limiting substantive analysis of BioMar's involvement or prominence in the coverage."
     }
   ],
   "share_of_voice": {
@@ -118447,7 +118513,7 @@
       },
       {
         "week": "2025-W33",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -118543,7 +118609,7 @@
       },
       {
         "week": "2025-W49",
-        "BioMar": 39,
+        "BioMar": 40,
         "Cargill": 1,
         "Skretting": 2
       },
@@ -118803,7 +118869,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1860
+        "count": 1862
       },
       {
         "company": "Cargill",
