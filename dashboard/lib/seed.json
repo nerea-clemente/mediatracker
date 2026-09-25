@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T19:51:50+00:00",
+  "generated_at": "2026-09-25T00:13:48+00:00",
   "stats": {
-    "mention_count": 3305,
-    "story_count": 2433,
-    "analyzed_count": 1859,
+    "mention_count": 3307,
+    "story_count": 2434,
+    "analyzed_count": 1860,
     "off_topic_mentions": 129,
     "off_topic_stories": 82
   },
@@ -420,7 +420,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -29967,6 +29967,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2605,
+      "headline": "Resultados productivos en Quitralco 6: \"Biomar Farmer of the Year en Marine Harvest Chile\" - salmonexpert.cl",
+      "story_summary": "A Marine Harvest Chile farm site (Quitralco 6) has been recognized as BioMar Farmer of the Year, highlighting productive results achieved with BioMar feed. The article indicates strong performance outcomes from the use of BioMar aquaculture feed at the facility.",
+      "first_seen": "2017-11-17T08:00:00+00:00",
+      "last_seen": "2017-11-17T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1792,
@@ -115137,6 +115151,57 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRlZjMnZOTkp5UVhOcllONU4tbE4zZ3NLb0drX1drMi0xblZ5OVc0cldVdnpvNVlOcUlsTDZYWThNVnR0LXExRENDRzF1SnJ2S210c3B6azVaTDhNS210SzRiOV9QaFRiR2cybUtNM1NFZzdMYkNUYmk2Y0dOcTRUdE84NEtkQQ?oc=5\" target=\"_blank\">Hedersprisen til Herman Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Norsk Lokalradioforbund</font>"
+    },
+    {
+      "id": 595174,
+      "story_id": 2605,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSFdfd0t4MXk1ell3TG9DMUNUYy1uc2dOUXlPZUpXbXE4SVhQV29ObXg1R2NDSE5JNmE3eTZLUWx1ZE8wZlRsV3BFUi00ZmM0V0txWS1lNXc2Qk45UkdkOS1iTmVfT0hGVXJ3SHh5dFFEUnp3SzhFX2NmLWtvSWlRLWNDbFhITUpOWDdWWV9aOW1mYXhTUlJpUm1qTFBWS3gxRk1Yd1hzV1I2WjA3cks4akhzTENHQ3dZYlJOZUFXNmJIUVByMVlYMXdaV3VWcV9PS0l4bUd1dmVnanNo?oc=5",
+      "title": "Resultados productivos en Quitralco 6: \"Biomar Farmer of the Year en Marine Harvest Chile\" - salmonexpert.cl",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-11-17T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "BioMar feed recognition at Marine Harvest Chile farm site",
+      "key_claims": [
+        "A farm site (Quitralco 6) achieved BioMar Farmer of the Year recognition from Marine Harvest Chile",
+        "BioMar feed was used in productive results at the farm"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A Marine Harvest Chile farm site (Quitralco 6) has been recognized as BioMar Farmer of the Year, highlighting productive results achieved with BioMar feed. The article indicates strong performance outcomes from the use of BioMar aquaculture feed at the facility."
+    },
+    {
+      "id": 595409,
+      "story_id": 2603,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HZDNkZzJaaVZaV252R3M0aHN4eVBRM3J2MzZLd09DU093YlJyMnlaaldjR09OYWdSS2pld1lUNWs4V2ZBRXdsUlFSMWVUV2YtWE54Wg?oc=5",
+      "title": "Emne: herman skretting - Medier24",
+      "source_name": "Medier24",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-09-24T10:40:05+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HZDNkZzJaaVZaV252R3M0aHN4eVBRM3J2MzZLd09DU093YlJyMnlaaldjR09OYWdSS2pld1lUNWs4V2ZBRXdsUlFSMWVUV2YtWE54Wg?oc=5\" target=\"_blank\">Emne: herman skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medier24</font>"
     }
   ],
   "share_of_voice": {
@@ -116264,7 +116329,7 @@
       },
       {
         "week": "2017-W46",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -118732,13 +118797,13 @@
         "week": "2026-W39",
         "BioMar": 5,
         "Cargill": 0,
-        "Skretting": 4
+        "Skretting": 5
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1859
+        "count": 1860
       },
       {
         "company": "Cargill",
@@ -118746,7 +118811,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1139
+        "count": 1140
       }
     ]
   }
