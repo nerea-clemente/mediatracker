@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T00:08:32+00:00",
+  "generated_at": "2026-09-27T10:40:07+00:00",
   "stats": {
-    "mention_count": 3314,
+    "mention_count": 3315,
     "story_count": 2437,
     "analyzed_count": 1863,
     "off_topic_mentions": 131,
@@ -435,7 +435,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -115419,6 +115419,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVVNcDZpSExoMExfSjJQOG1CWmpia0pELVN3YnlMenZJNjhoaExITThwU0VKbmFpWm8yYTR5RzdjT0N1ODB1R1RnRkMwMlVDSThTaHZod3JqeTRFcGJzU213cGo2LUcyRDlhazNVaFoza29uTmRHQTY0d3JvTlJfRmh5dHUtMmpOaWVzWW1PX3BIQXNGYWVUUjh4QQ?oc=5\" target=\"_blank\">Skretting Chile anuncia los últimos cupos para su evento de sostenibilidad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 604895,
+      "story_id": 2603,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hM0FPYXppTEtGVDJ5QVhNYXJpdTJHMVlHb1Jvd2w1Z2FiZ3BnWkdVMWJoZEhSWE85WnhyeTMtSW53WTVWSWI2MDYzajdvTWZNUjdoUVhmLU84eThiOGlsNTE5aVlwakE3cVUxOGtxOWlMb0dWSG9F?oc=5",
+      "title": "(+) Radioveteran får hederspris - Kampanje",
+      "source_name": "Kampanje",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-09-24T10:41:41+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9hM0FPYXppTEtGVDJ5QVhNYXJpdTJHMVlHb1Jvd2w1Z2FiZ3BnWkdVMWJoZEhSWE85WnhyeTMtSW53WTVWSWI2MDYzajdvTWZNUjdoUVhmLU84eThiOGlsNTE5aVlwakE3cVUxOGtxOWlMb0dWSG9F?oc=5\" target=\"_blank\">(+) Radioveteran får hederspris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kampanje</font>"
     }
   ],
   "share_of_voice": {
@@ -119014,7 +119038,7 @@
         "week": "2026-W39",
         "BioMar": 5,
         "Cargill": 0,
-        "Skretting": 7
+        "Skretting": 8
       }
     ],
     "totals": [
@@ -119028,7 +119052,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1144
+        "count": 1145
       }
     ]
   }
