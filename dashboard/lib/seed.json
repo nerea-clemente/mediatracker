@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T14:45:29+00:00",
+  "generated_at": "2026-09-27T19:36:48+00:00",
   "stats": {
-    "mention_count": 3315,
+    "mention_count": 3316,
     "story_count": 2437,
     "analyzed_count": 1863,
     "off_topic_mentions": 131,
@@ -13265,7 +13265,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -115443,6 +115443,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9hM0FPYXppTEtGVDJ5QVhNYXJpdTJHMVlHb1Jvd2w1Z2FiZ3BnWkdVMWJoZEhSWE85WnhyeTMtSW53WTVWSWI2MDYzajdvTWZNUjdoUVhmLU84eThiOGlsNTE5aVlwakE3cVUxOGtxOWlMb0dWSG9F?oc=5\" target=\"_blank\">(+) Radioveteran får hederspris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kampanje</font>"
+    },
+    {
+      "id": 607093,
+      "story_id": 671,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEtEZGY2Wjhtb0lzSzdsenp2dV9TWmppUTNvSUJoNUVobXhjN0NOUmxBbWl3Mmh2bm1LZE9mUGhGaFhMenhGYi1IcGlMVjdLbThsMUNSczhMQjBwUmV4d01kTV9sRjQ1bnN1eUN3ZWYxV3BHOFYxRUppVEZuRXFnVGNqSktkUzhVYzRSSUNZMDVwMnNIamZjckFn?oc=5",
+      "title": "Tidligere Skretting-sjef har fått ny rolle - Fiskeribladet",
+      "source_name": "Fiskeribladet",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-06-22T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEtEZGY2Wjhtb0lzSzdsenp2dV9TWmppUTNvSUJoNUVobXhjN0NOUmxBbWl3Mmh2bm1LZE9mUGhGaFhMenhGYi1IcGlMVjdLbThsMUNSczhMQjBwUmV4d01kTV9sRjQ1bnN1eUN3ZWYxV3BHOFYxRUppVEZuRXFnVGNqSktkUzhVYzRSSUNZMDVwMnNIamZjckFn?oc=5\" target=\"_blank\">Tidligere Skretting-sjef har fått ny rolle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fiskeribladet</font>"
     }
   ],
   "share_of_voice": {
@@ -118642,7 +118666,7 @@
         "week": "2025-W25",
         "BioMar": 6,
         "Cargill": 2,
-        "Skretting": 8
+        "Skretting": 9
       },
       {
         "week": "2025-W26",
@@ -119052,7 +119076,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1145
+        "count": 1146
       }
     ]
   }
