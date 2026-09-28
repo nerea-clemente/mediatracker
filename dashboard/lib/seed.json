@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-28T11:53:30+00:00",
+  "generated_at": "2026-09-28T17:44:23+00:00",
   "stats": {
-    "mention_count": 3321,
+    "mention_count": 3322,
     "story_count": 2440,
-    "analyzed_count": 1867,
+    "analyzed_count": 1869,
     "off_topic_mentions": 132,
     "off_topic_stories": 84
   },
@@ -399,22 +399,22 @@
   "stories": [
     {
       "id": 2611,
-      "headline": "Schouw & Co. share buy-back programme, week 39 2026 - The Manila Times",
-      "story_summary": "Schouw & Co announced a share buy-back programme for week 39 of 2026. The article reports on this corporate capital allocation action by the Aarhus-based industrial conglomerate.",
-      "first_seen": "2026-09-28T09:06:29+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 39 2026 - Yahoo Finance",
+      "story_summary": "Schouw & Co. announced a share buyback programme for week 39 of 2026. The article reports on the execution of the company's capital allocation strategy during this period.",
+      "first_seen": "2026-09-28T09:00:00+00:00",
       "last_seen": "2026-09-28T09:06:29+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
     {
       "id": 2610,
-      "headline": "Pareto Securities eleva el precio objetivo de Biomar Group a 140 DKK (129) y reitera su recomendación de compra - MarketScreener España",
-      "story_summary": "Pareto Securities increased its price target for BioMar Group to 140 DKK and maintained a buy recommendation on the stock. The analyst upgrade reflects positive sentiment toward the aquaculture feed producer's valuation and prospects.",
+      "headline": "Pareto Securities raises its price target for BioMar Group to DKK 140 (129), reiterates Buy - marketscreener.com",
+      "story_summary": "Pareto Securities has raised its price target for BioMar Group to DKK 140, up from the previous DKK 129, while reiterating a Buy recommendation. The analyst upgrade reflects positive sentiment toward the aquaculture feed producer's prospects.",
       "first_seen": "2026-09-28T05:07:25+00:00",
       "last_seen": "2026-09-28T05:07:25+00:00",
       "primary_sentiment": "positive",
@@ -115523,16 +115523,19 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.92,
+      "prominence": "primary",
+      "angle": "Analyst raises price target and maintains buy rating for BioMar",
+      "key_claims": [
+        "Pareto Securities raised its price target for BioMar Group to DKK 140 from DKK 129",
+        "Pareto Securities maintains a Buy rating on BioMar Group"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeDZ6am01M1BqOG1zUloyRWJ0Rko2MVVfMWdGcFdwMFBxVHVPdkp0RXVqQnh0X0RSeXREa2UxeVNoNmhXMEdwTUxvNHB0V2hTM1dENE9TNGpVMEp2cDRSMVdySlNHY0xtU2Q3dk8zY0VIT3FaN2VFTDQ5MHNOZGpKNnc0bFExcnJDUFpNSkZOUHNhS21jVW5RRXZlYkpOQWI4Q1V5NXlfNXVGcmJSTlhyblpFTEdHZUhUeFdTRG9iZmZNWWE0UE1RU2duNlJTQzVtaXNxM1JZYzM?oc=5\" target=\"_blank\">Pareto Securities raises its price target for BioMar Group to DKK 140 (129), reiterates Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+      "summary": "Pareto Securities has raised its price target for BioMar Group to DKK 140, up from the previous DKK 129, while reiterating a Buy recommendation. The analyst upgrade reflects positive sentiment toward the aquaculture feed producer's prospects."
     },
     {
       "id": 608793,
@@ -115634,6 +115637,30 @@
         "financial"
       ],
       "summary": "Schouw & Co issued a correction to its Company Announcement #47 regarding the interim report for the second quarter of 2026. The article is a regulatory filing correction, with Jens Bjerg Sørensen (Schouw President) listed as a named executive associated with the company's disclosure obligations."
+    },
+    {
+      "id": 609944,
+      "story_id": 2611,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmhBSTQwaFRfelVBbWdTSVFBLVQ2VDducWNrWnBtVm1qOTdtWEV6VjVBWHVkU3lkZE1wT3E5bXJTQVZCVVVlNEUtLVNocGJldmJWbFZrWkZ6ajZNb3poTGRIc3pXZndrb2taMTRjdENDTXlJTUFaakFVOElZSjFiRjhFZi1ITjNFSUhCalZKTjlXYlE?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 39 2026 - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-09-28T09:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buyback programme in week 39 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced a share buyback programme for week 39 of 2026. The article reports on the execution of the company's capital allocation strategy during this period."
     }
   ],
   "share_of_voice": {
@@ -119233,7 +119260,7 @@
       },
       {
         "week": "2026-W40",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 0
       }
@@ -119241,7 +119268,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1868
+        "count": 1869
       },
       {
         "company": "Cargill",
