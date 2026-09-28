@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T00:15:58+00:00",
+  "generated_at": "2026-09-28T11:53:30+00:00",
   "stats": {
-    "mention_count": 3316,
-    "story_count": 2437,
-    "analyzed_count": 1863,
-    "off_topic_mentions": 131,
-    "off_topic_stories": 83
+    "mention_count": 3321,
+    "story_count": 2440,
+    "analyzed_count": 1867,
+    "off_topic_mentions": 132,
+    "off_topic_stories": 84
   },
   "outlets": [
     ".: El Sol de Margarita :.",
@@ -397,6 +397,48 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2611,
+      "headline": "Schouw & Co. share buy-back programme, week 39 2026 - The Manila Times",
+      "story_summary": "Schouw & Co announced a share buy-back programme for week 39 of 2026. The article reports on this corporate capital allocation action by the Aarhus-based industrial conglomerate.",
+      "first_seen": "2026-09-28T09:06:29+00:00",
+      "last_seen": "2026-09-28T09:06:29+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2610,
+      "headline": "Pareto Securities eleva el precio objetivo de Biomar Group a 140 DKK (129) y reitera su recomendación de compra - MarketScreener España",
+      "story_summary": "Pareto Securities increased its price target for BioMar Group to 140 DKK and maintained a buy recommendation on the stock. The analyst upgrade reflects positive sentiment toward the aquaculture feed producer's valuation and prospects.",
+      "first_seen": "2026-09-28T05:07:25+00:00",
+      "last_seen": "2026-09-28T05:07:25+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2609,
+      "headline": "Precios históricos de acciones y datos de BIO Mar 2027 430.000 call (BIO270319C00430000) - Yahoo Finanzas",
+      "story_summary": "This is a financial data page listing historical stock prices and options contract information for a ticker symbol BIO, specifically a call option expiring March 2027 with a strike price of 430,000. The article does not discuss BioMar Group, the aquaculture feed producer, but rather appears to be a generic options pricing page that coincidentally matched the keyword 'BioMar' due to the ticker symbol or company name similarity in a different financial instrument or equity unrelated to the Aarhus-based aquaculture company.",
+      "first_seen": "2026-09-27T17:14:38+00:00",
+      "last_seen": "2026-09-27T17:14:38+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
     {
       "id": 2607,
       "headline": "På banen kjemper hun i toppen. I bølgene finner hun roen - smp.no",
@@ -1943,6 +1985,21 @@
       "company": "BioMar"
     },
     {
+      "id": 2153,
+      "headline": "Interim report - second quarter of 2026 - The Manila Times",
+      "story_summary": "The article presents Schouw & Co's interim report for the second quarter of 2026, with involvement from President Jens Bjerg Sørensen. The report covers financial performance and related corporate disclosures for the parent company of BioMar Group.",
+      "first_seen": "2026-08-14T06:13:58+00:00",
+      "last_seen": "2026-08-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2214,
       "headline": "Schouw & Co. Q2 Revenue DKK 9 Bln, Up 5% - TradingView",
       "story_summary": "Schouw & Co, the parent company of BioMar, reported Q2 revenue of DKK 9 billion, representing a 5% increase. The financial update reflects the conglomerate's overall operational performance during the second quarter.",
@@ -1967,21 +2024,6 @@
         "financial"
       ],
       "pickup_count": 5,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2153,
-      "headline": "Interim report - second quarter of 2026 - The Manila Times",
-      "story_summary": "The article presents Schouw & Co's interim report for the second quarter of 2026, with involvement from President Jens Bjerg Sørensen. The report covers financial performance and related corporate disclosures for the parent company of BioMar Group.",
-      "first_seen": "2026-08-14T06:13:58+00:00",
-      "last_seen": "2026-08-14T06:13:58+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "exec_statement",
-        "financial"
-      ],
-      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -115467,6 +115509,131 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEtEZGY2Wjhtb0lzSzdsenp2dV9TWmppUTNvSUJoNUVobXhjN0NOUmxBbWl3Mmh2bm1LZE9mUGhGaFhMenhGYi1IcGlMVjdLbThsMUNSczhMQjBwUmV4d01kTV9sRjQ1bnN1eUN3ZWYxV3BHOFYxRUppVEZuRXFnVGNqSktkUzhVYzRSSUNZMDVwMnNIamZjckFn?oc=5\" target=\"_blank\">Tidligere Skretting-sjef har fått ny rolle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fiskeribladet</font>"
+    },
+    {
+      "id": 608493,
+      "story_id": 2610,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeDZ6am01M1BqOG1zUloyRWJ0Rko2MVVfMWdGcFdwMFBxVHVPdkp0RXVqQnh0X0RSeXREa2UxeVNoNmhXMEdwTUxvNHB0V2hTM1dENE9TNGpVMEp2cDRSMVdySlNHY0xtU2Q3dk8zY0VIT3FaN2VFTDQ5MHNOZGpKNnc0bFExcnJDUFpNSkZOUHNhS21jVW5RRXZlYkpOQWI4Q1V5NXlfNXVGcmJSTlhyblpFTEdHZUhUeFdTRG9iZmZNWWE0UE1RU2duNlJTQzVtaXNxM1JZYzM?oc=5",
+      "title": "Pareto Securities raises its price target for BioMar Group to DKK 140 (129), reiterates Buy - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-09-28T05:07:25+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeDZ6am01M1BqOG1zUloyRWJ0Rko2MVVfMWdGcFdwMFBxVHVPdkp0RXVqQnh0X0RSeXREa2UxeVNoNmhXMEdwTUxvNHB0V2hTM1dENE9TNGpVMEp2cDRSMVdySlNHY0xtU2Q3dk8zY0VIT3FaN2VFTDQ5MHNOZGpKNnc0bFExcnJDUFpNSkZOUHNhS21jVW5RRXZlYkpOQWI4Q1V5NXlfNXVGcmJSTlhyblpFTEdHZUhUeFdTRG9iZmZNWWE0UE1RU2duNlJTQzVtaXNxM1JZYzM?oc=5\" target=\"_blank\">Pareto Securities raises its price target for BioMar Group to DKK 140 (129), reiterates Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>"
+    },
+    {
+      "id": 608793,
+      "story_id": 2610,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObm4tdFcyaEVkNW9vaXVpSndkOWZBelhVNHlhbWpfakNWNG1BOEMxQVZYZ0xjeGItaEhLelNrSnlqYzNyS1NjVk1Ob3dxbXVhXzBPVy1wTjNmZHdpTXJqN2w0bnRKQ19Wd211UGVkODV3eFBMZGt3bUpNaHNteWtFTlF5MWZWTlEwTGxNZEd2SkV5U2gwTm4xenBjUGZDeGhFdEZZS25NZXlsZjlDQ3l2Sno5VnAxbjVOQmVNZW9hSHgtQ3NmbV93ZUJneFh1VHEzZGxiZHJPcVVvSm8xaU82dXVVUUtUSnpT?oc=5",
+      "title": "Pareto Securities eleva el precio objetivo de Biomar Group a 140 DKK (129) y reitera su recomendación de compra - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-09-28T05:07:25+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Equity analyst raises price target and maintains buy rating",
+      "key_claims": [
+        "Pareto Securities raised BioMar Group's price target to 140 DKK from 129 DKK",
+        "Pareto Securities reiterated its buy recommendation on BioMar Group"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Pareto Securities increased its price target for BioMar Group to 140 DKK and maintained a buy recommendation on the stock. The analyst upgrade reflects positive sentiment toward the aquaculture feed producer's valuation and prospects."
+    },
+    {
+      "id": 608794,
+      "story_id": 2609,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0bVhlbGI1UFhJX3BOS0o3QUtnU0paaHRLS3ZVaVY5Z2NTTVJFQXd5U3lySW9lZEFsdkZSblE1SXpYanpVTUxfVzNNR3FjRVZfUWRzZ3VHZjgycUtlNGstbzhKTm1tRjRNeXQxRDA0Y3E0SEQ0?oc=5",
+      "title": "Precios históricos de acciones y datos de BIO Mar 2027 430.000 call (BIO270319C00430000) - Yahoo Finanzas",
+      "source_name": "Yahoo Finanzas",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-27T17:14:38+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Options pricing data for ticker BIO (not BioMar Group)",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a financial data page listing historical stock prices and options contract information for a ticker symbol BIO, specifically a call option expiring March 2027 with a strike price of 430,000. The article does not discuss BioMar Group, the aquaculture feed producer, but rather appears to be a generic options pricing page that coincidentally matched the keyword 'BioMar' due to the ticker symbol or company name similarity in a different financial instrument or equity unrelated to the Aarhus-based aquaculture company."
+    },
+    {
+      "id": 608893,
+      "story_id": 2611,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHBPcy1HeXNFeHNlVlRfcEpJVXpBSlF0UkNOdjlTdzJxS0EzbjJkS3ZCZ2ZHcmZEd21haTM5cXBRQWpVUHRYUm1rak12N3lxcElXbXQ4WFJRN3dYYmJTc1AydjByOEtBcUFDWEtFUFg3WGNQbnR2V19SLTlTMC1SSkx1VnM2QlRLcFIycUJlVVlua3JVUkU0aE1fOXBXOHpOejVxLTZ6ZUxQRDRyUXlpSGp0bWEzaVIwMmh2dG1B0gHDAUFVX3lxTE5CZklNbU5zMWo5UXF6aE92TkYybUhrQVB2NXFmanloTFVBUXd0NFNlMjRTOG5qS0RBWTdaX1pVNlBEMmtSbkRaaWdtZ25kWG1tSHFQQ0VFYlhuYkpNZHl5MmtGTVFBT2lsbnNOdEhkLTZnNy01d2E1UmZkX1dfVDBkYXJkQ1djRXZDZFZ1VUljT0lZdGhkUGVqQ3Q5WlZhdk5OODRNMDY1dmgyRmtqTGJLSzFwekNGVll5MTNobDR3NTF6cw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 39 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-09-28T09:06:29+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co announces share buy-back programme for week 39 2026",
+      "key_claims": [
+        "Schouw & Co conducted a share buy-back programme during week 39 of 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co announced a share buy-back programme for week 39 of 2026. The article reports on this corporate capital allocation action by the Aarhus-based industrial conglomerate."
+    },
+    {
+      "id": 609009,
+      "story_id": 2153,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU0JZVWY0bXI5ZGozdzNKdkJHbWtCdjdlZWd0UnV3a2ZMRURJbVZZYnVTTm5fbFJJUXNYa0hKRXc0cExianl2Vk83MDhZNkx6TkNQNW9kNTk0cHRhLUFIVjFfSHE4MW55WjlDSWtVaEg3NHctWU8yTjNqSnZBWXdaVEFWR3V6WWtSZjZrV2lWNFplR0QtMGpNdTJ0Wi1ZMk0wdEVtZVFJZExUWS1zbld0WnktcHpGM3k1cEd5SDVmbjNic09rTWxXSjBoaTNrSGNZbUxwcnlDMUVlb04wblVVajhoQdIB6AFBVV95cUxQVXNkUGJVMElrZkgwMDRnZmdILXJpb2xodzNHbTJKa2J5V1NPOUVGOXNuQ2RLOFJaR2tObnYwbDBiQUlGaUt6UGowNnBlcml3RWN2SG1lUmFJZm5nbG15M2d0YlhHTEd3MXdZUlNHTmw0UEpWM2xsanc5WjVTRmdWbC1aRnpqcEdLUU9iSTd0N0p5c05ydVVta0JIMGNxUHdBV2Vsd1o1ZkltQ0NyejVVOVgwaWF6NUE1b2RtTjVJNXdBaEExRVRKckRicVp0cC1Rb0JObEh0bXZ1ZTdYLU9MRS1zcl96YnBO?oc=5",
+      "title": "Correction to Company Announcement #47: Interim report - second quarter of 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T07:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Correction to Q2 2026 interim financial report announcement",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co issued a correction to its Company Announcement #47 regarding the interim report for the second quarter of 2026. The article is a regulatory filing correction, with Jens Bjerg Sørensen (Schouw President) listed as a named executive associated with the company's disclosure obligations."
     }
   ],
   "share_of_voice": {
@@ -119024,7 +119191,7 @@
       },
       {
         "week": "2026-W33",
-        "BioMar": 81,
+        "BioMar": 82,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -119060,15 +119227,21 @@
       },
       {
         "week": "2026-W39",
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Skretting": 8
+      },
+      {
+        "week": "2026-W40",
+        "BioMar": 3,
+        "Cargill": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1863
+        "count": 1868
       },
       {
         "company": "Cargill",
