@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-28T17:44:23+00:00",
+  "generated_at": "2026-09-28T21:38:54+00:00",
   "stats": {
-    "mention_count": 3322,
-    "story_count": 2440,
-    "analyzed_count": 1869,
-    "off_topic_mentions": 132,
+    "mention_count": 3324,
+    "story_count": 2441,
+    "analyzed_count": 1870,
+    "off_topic_mentions": 133,
     "off_topic_stories": 84
   },
   "outlets": [
@@ -397,6 +397,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2612,
+      "headline": "Skretting ble tomålshelt mot Dirdal - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSW9VX1A0dFZXZHpvc0Zkc1daVEI5dlBKV3dkcjdUNElHaFhPellYUExWUDJyaUNWSlgyaFY1Y2dzU2dzdlJiZ3dxazNTTkxBMWZqdWVMbHBSRld6cURxX1lid0hSeW1lRTlxeHVkV2xqYWVEaEVjODhJVUU0QndoTlBVNmo?oc=5\" target=\"_blank\">Skretting ble tomålshelt mot Dirdal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-09-28T20:20:18+00:00",
+      "last_seen": "2026-09-28T20:20:18+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2611,
       "headline": "Schouw & Co. share buy-back programme, week 39 2026 - Yahoo Finance",
@@ -1269,14 +1283,14 @@
       "id": 2291,
       "headline": "Economía.- El Gobierno propone multar con 8,5 millones a Biomar Oil por no aportar al Fondo de Eficiencia Energética - Bolsamania",
       "story_summary": "The Spanish government has proposed a €8.5 million fine against Biomar Oil for failing to contribute to the Energy Efficiency Fund. The penalty relates to non-compliance with energy efficiency contribution requirements under Spanish law and regulation.",
-      "first_seen": "2026-08-26T09:19:44+00:00",
+      "first_seen": "2026-08-26T07:00:00+00:00",
       "last_seen": "2026-08-26T10:21:25+00:00",
       "primary_sentiment": "negative",
       "risk_flags": [
         "financial",
         "legal"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -115661,6 +115675,54 @@
         "none"
       ],
       "summary": "Schouw & Co. announced a share buyback programme for week 39 of 2026. The article reports on the execution of the company's capital allocation strategy during this period."
+    },
+    {
+      "id": 610921,
+      "story_id": 2291,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNDdkeDJqRE9pU1doOWxEQi1LeDdlMU1rcGQtUWNJMk5FY0otQXZHMzh6R2pNOHJ3VGh0OGRhdTFFbEtKZWl1SzFhWUpoNHBFMlZNWFp2bUZwT3ZESXlFb0dQWnUtRGJtQ2xGRTBmS2hnTUtoSFc2cENzSmU5M1kzLTRGTjRpWmpVdXNvOXZld3JXbGtWWW5CTThCaW5uWGFXbEFVRlVaRTM2LXA2TE9xVWJPbnFrWTZna0twUHhHWFR2eDJkTmoxem5SZUxlTkxUOER1b1lQTlkwLUxmZkdienBXSQ?oc=5",
+      "title": "El Gobierno propone multar con 8,5 millones a Biomar Oil por no aportar al Fondo de Eficiencia Energética - Europa Press",
+      "source_name": "Europa Press",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-08-26T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Spanish government proposes fine against energy company for fund non-compliance",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The Spanish government has proposed an €8.5 million fine against Biomar Oil for failing to contribute to an energy efficiency fund. This is a regulatory enforcement action unrelated to aquaculture operations or feed production services in the salmon industry."
+    },
+    {
+      "id": 611223,
+      "story_id": 2612,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSW9VX1A0dFZXZHpvc0Zkc1daVEI5dlBKV3dkcjdUNElHaFhPellYUExWUDJyaUNWSlgyaFY1Y2dzU2dzdlJiZ3dxazNTTkxBMWZqdWVMbHBSRld6cURxX1lid0hSeW1lRTlxeHVkV2xqYWVEaEVjODhJVUU0QndoTlBVNmo?oc=5",
+      "title": "Skretting ble tomålshelt mot Dirdal - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-09-28T20:20:18+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSW9VX1A0dFZXZHpvc0Zkc1daVEI5dlBKV3dkcjdUNElHaFhPellYUExWUDJyaUNWSlgyaFY1Y2dzU2dzdlJiZ3dxazNTTkxBMWZqdWVMbHBSRld6cURxX1lid0hSeW1lRTlxeHVkV2xqYWVEaEVjODhJVUU0QndoTlBVNmo?oc=5\" target=\"_blank\">Skretting ble tomålshelt mot Dirdal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
     }
   ],
   "share_of_voice": {
@@ -119230,7 +119292,7 @@
       },
       {
         "week": "2026-W35",
-        "BioMar": 18,
+        "BioMar": 19,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -119262,13 +119324,13 @@
         "week": "2026-W40",
         "BioMar": 4,
         "Cargill": 0,
-        "Skretting": 0
+        "Skretting": 1
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1869
+        "count": 1870
       },
       {
         "company": "Cargill",
@@ -119276,7 +119338,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1146
+        "count": 1147
       }
     ]
   }
