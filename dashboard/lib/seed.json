@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-29T11:29:53+00:00",
+  "generated_at": "2026-09-29T16:00:33+00:00",
   "stats": {
-    "mention_count": 3326,
+    "mention_count": 3327,
     "story_count": 2443,
-    "analyzed_count": 1872,
+    "analyzed_count": 1873,
     "off_topic_mentions": 133,
     "off_topic_stories": 84
   },
@@ -16136,9 +16136,9 @@
       "last_seen": "2024-10-21T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -115799,6 +115799,32 @@
         "none"
       ],
       "summary": "BioMar and Musholm have set scientific objectives aimed at reducing their environmental footprint in aquaculture operations. The collaboration demonstrates commitment to sustainability through measurable environmental targets."
+    },
+    {
+      "id": 614173,
+      "story_id": 122,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3ZVSGdWNEtrTlV2ZEVaMmdiV2VPNks1X1Z2Tmo4a1VnODhvYWZPVjFBUV9NRW52RlRSNU1DeDRPMFlVS29tQjVGZmNHQ3RkSmxFRGxNMlJRMEk2aksyRDFjczl5LTBlY19wUXdwOVNpQUhjZ2R5ZS0zX3VLWGlsZ0JKcTdJZFN6NkI3R2c2VlJSQ0dCdlRGMGhMd25RM2xZQXpzWWwzeTkzR1BDVUxhcDBYazl4dHpFNUx5Uy1n0gHDAUFVX3lxTE5zenFGUUlZM2hrQjVrUmFoTUVQcVZxRXE2UGVTNlQ0YUdIU0w0blVtb0FPZnNVLXBHQjN1SHZmYS12aTk0bHVmblo0TWpISWpCYWUzWG44c1VyNnR5ZnlCS1dldHlJcWNlVEhxd0NaRDEyRjRsbnJnbGFHdl83N1RyQTR4NHpzcm10R1ZjWkdBM2RjN1dQMUtyZGN6X3FqNHllZFhTZnNUSUMzMjlNZjZLV1AzQU1pWnRIOElhcDY4YzByWQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 42 2024 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2024-10-21T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share repurchase activity for week 42 2024",
+      "key_claims": [
+        "Schouw & Co. conducted a share buy-back programme during week 42 of 2024"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co. announced its share buy-back programme for week 42 of 2024. The article reports on routine capital allocation activity by the parent company of BioMar Group."
     }
   ],
   "share_of_voice": {
@@ -118792,7 +118818,7 @@
       },
       {
         "week": "2024-W43",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -119406,7 +119432,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1872
+        "count": 1873
       },
       {
         "company": "Cargill",
