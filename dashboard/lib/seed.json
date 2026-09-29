@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-29T01:25:23+00:00",
+  "generated_at": "2026-09-29T11:29:53+00:00",
   "stats": {
-    "mention_count": 3324,
-    "story_count": 2441,
-    "analyzed_count": 1870,
+    "mention_count": 3326,
+    "story_count": 2443,
+    "analyzed_count": 1872,
     "off_topic_mentions": 133,
     "off_topic_stories": 84
   },
@@ -398,6 +398,20 @@
   ],
   "stories": [
     {
+      "id": 2614,
+      "headline": "Musholm y BioMar fija objetivos científicos para reducir su impacto - aqua.cl",
+      "story_summary": "BioMar and Musholm have set scientific objectives aimed at reducing their environmental footprint in aquaculture operations. The collaboration demonstrates commitment to sustainability through measurable environmental targets.",
+      "first_seen": "2026-09-29T09:51:17+00:00",
+      "last_seen": "2026-09-29T09:51:17+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2612,
       "headline": "Skretting ble tomålshelt mot Dirdal - Stavanger Aftenblad",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSW9VX1A0dFZXZHpvc0Zkc1daVEI5dlBKV3dkcjdUNElHaFhPellYUExWUDJyaUNWSlgyaFY1Y2dzU2dzdlJiZ3dxazNTTkxBMWZqdWVMbHBSRld6cURxX1lid0hSeW1lRTlxeHVkV2xqYWVEaEVjODhJVUU0QndoTlBVNmo?oc=5\" target=\"_blank\">Skretting ble tomålshelt mot Dirdal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
@@ -507,6 +521,20 @@
       ],
       "pickup_count": 1,
       "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
+      "id": 2613,
+      "headline": "Enterprise value to revenue forward of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "story_summary": "TradingView publishes a financial metric page for BioMar Group A/S listing its enterprise value to forward revenue ratio on the OMXCOP exchange. The article is a factual, technical financial data presentation with no editorial commentary or sentiment expressed about the company's performance or prospects.",
+      "first_seen": "2026-09-21T19:07:49+00:00",
+      "last_seen": "2026-09-21T19:07:49+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
       "company": "BioMar"
     },
     {
@@ -115723,6 +115751,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOSW9VX1A0dFZXZHpvc0Zkc1daVEI5dlBKV3dkcjdUNElHaFhPellYUExWUDJyaUNWSlgyaFY1Y2dzU2dzdlJiZ3dxazNTTkxBMWZqdWVMbHBSRld6cURxX1lid0hSeW1lRTlxeHVkV2xqYWVEaEVjODhJVUU0QndoTlBVNmo?oc=5\" target=\"_blank\">Skretting ble tomålshelt mot Dirdal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 612699,
+      "story_id": 2613,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU01WZ1Vka05FeTEzT25mMnBXc2VSTTA0czV3Ym91RlBQNzlhLUk5SmkyVy1EY3RTR3o1OENoc04zMUp2V3JOU3V2X0ZsRnkwaklhdmdNYk1oWW9TSmJINGVGQnRaNmFPb0NRV05wRkd1ZkRoYXhnRGU5RVhGQTM0WklNOU85SWJBZk1VLU1IZW16LWg1WC1TVTFzYWROZ2wwV0VzbnpHcUE5elVmTGk4?oc=5",
+      "title": "Enterprise value to revenue forward of BioMar Group A/S – OMXCOP:BIOMAR - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-21T19:07:49+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial metric analysis of BioMar Group valuation ratio",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a financial metric page for BioMar Group A/S listing its enterprise value to forward revenue ratio on the OMXCOP exchange. The article is a factual, technical financial data presentation with no editorial commentary or sentiment expressed about the company's performance or prospects."
+    },
+    {
+      "id": 612997,
+      "story_id": 2614,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmt6VGN4YkVJMUZiREk0aFNfdmE0bzdaUHNfSGZWa240UDZXVGViUkdKMm55ZVczQXd3amNZV1ZBRGdfOGVLclZGb3JwZFlVT0QyeHd0WmpNV0NueXJJUkRzM0g0UGY1ckUwcUpSeWx2enJweVpUc0MwOUhZTEpnc3JoWW5KOWxGOUltV1pmR0tLdWZGWDVocWhRTzNnS3ZXTmc?oc=5",
+      "title": "Musholm y BioMar fija objetivos científicos para reducir su impacto - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-09-29T09:51:17+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar and Musholm establish scientific targets to reduce environmental impact",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar and Musholm have set scientific objectives aimed at reducing their environmental footprint in aquaculture operations. The collaboration demonstrates commitment to sustainability through measurable environmental targets."
     }
   ],
   "share_of_voice": {
@@ -119316,13 +119392,13 @@
       },
       {
         "week": "2026-W39",
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 0,
         "Skretting": 8
       },
       {
         "week": "2026-W40",
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Skretting": 1
       }
@@ -119330,7 +119406,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1870
+        "count": 1872
       },
       {
         "company": "Cargill",
