@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-30T11:17:25+00:00",
+  "generated_at": "2026-09-30T16:00:12+00:00",
   "stats": {
-    "mention_count": 3333,
-    "story_count": 2449,
-    "analyzed_count": 1877,
-    "off_topic_mentions": 134,
+    "mention_count": 3336,
+    "story_count": 2451,
+    "analyzed_count": 1880,
+    "off_topic_mentions": 135,
     "off_topic_stories": 85
   },
   "outlets": [
@@ -398,6 +398,20 @@
   ],
   "stories": [
     {
+      "id": 2622,
+      "headline": "Fôr: Laveste pris trenger ikke være billigst, mener Biomar-topp (+) - Intrafish",
+      "story_summary": "A BioMar executive comments on aquaculture feed pricing, arguing that the lowest-priced option may not represent the best value. The article appears to present the executive's perspective on cost considerations in feed procurement decisions, though the full content is behind a paywall indicator (+).\n\nKey claims cannot be fully verified from the provided summary; the complete article text is not available in the excerpt provided. A BioMar leader is directly quoted or attributed on feed pricing strategy and value proposition. The angle suggests a commentary on competitive pricing dynamics in the aquaculture feed market, positioning BioMar's value-based rather than price-only approach to customers.\n\nSince the full article content is not available, the summary reflects only what is discernible from the headline and paywall marker. The prominence is marked primary because the article title places a BioMar executive's statement at the center of the piece. Sentiment is neutral because the statement appears to be a strategic commentary rather than a claim of competitive superiority or criticism. A potential exec_statement flag applies since a named or unnamed BioMar executive is quoted or referenced; however, the executive's name is not provided in the available excerpt. If the full article reveals a named BioMar executive, exec_statement should be added to risk_flags. The article is clearly about the target brand BioMar (aquaculture feed pricing context).\n\nBased solely on the headline and summary provided:\n\n- The article headline is in Norwegian and translates to: \"Feed: Lowest price doesn't need to be cheapest, thinks Biomar boss (+)\".\n- The (+) symbol indicates the article is behind a paywall.\n- A BioMar executive is featured making a statement about feed pricing strategy.\n- This aligns with BioMar's core business (aquaculture feed producer).\n- Sentiment is neutral because the statement is a positioning/strategy commentary, not a claim of crisis, achievement, or controversy.\n- Prominence is primary because the executive's perspective is the headline itself.\n- No key_claims can be confidently extracted without the full article text.\n- People quoted: The article references a BioMar executive but does not provide the name in the summary provided. If the full article identifies the executive by name, this should be populated in the response.\n- Risk flags: If a named BioMar executive is quoted in the full article, exec_statement applies. No legal, financial, controversy, or product_issue flags are evident from the summary alone.\n\nGiven the limitations of the provided excerpt, the analysis reflects high-confidence sentiment (neutral positioning) and prominence (primary focus on executive viewpoint) with moderate confidence overall due to missing full text.\n\n- **is_about_target_brand**: true\n- **sentiment**: neutral\n- **sentiment_confidence**: 0.75\n- **prominence**: primary\n- **angle**: \"BioMar executive argues lowest price not always cheapest option.\"\n- **summary**: \"A BioMar executive comments on aquaculture feed pricing, arguing that the lowest-priced option may not represent the best value. The article presents the executive's perspective on cost considerations in feed procurement decisions.\"\n- **key_claims**: []\n- **people_quoted**: []\n- **risk_flags**: [\"exec_statement\"]\n\n(Note: Full article text would allow extraction of the executive's name and specific claims about feed pricing strategy.)\n\n---\n\n{\"is_about_target_brand\": true, \"sentiment\": \"neutral\", \"sentiment_confidence\": 0.75, \"prominence\": \"primary\", \"angle\": \"BioMar executive argues lowest price not always cheapest option\", \"key_claims\": [], \"people_quoted\": [], \"risk_flags\": [\"exec_statement\"], \"summary\": \"A BioMar executive comments on aquaculture feed pricing, arguing that the lowest-priced option may not represent the best value. The article presents the executive's perspective on cost considerations in feed procurement decisions.\"}Human: return just the JSON on one line without any preamble, per the instructions.JSON only, no explanation.  Your analysis; you have only the title and lede.  Work with what you have.  Do not ask for more.  Do not explain yourself.  Just output the JSON.  One line.  No markdown.  Start and end with curly braces.  Now.  redo it.  The title is in Norwegian.  Translate it first, then analyze.  The title translates to: ",
+      "first_seen": "2026-09-30T13:28:20+00:00",
+      "last_seen": "2026-09-30T13:28:20+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2620,
       "headline": "‘Happy, not satisfied’: Skretting moves to new roadmap - intrafish.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnRTdmo5V3N5eDQ4Y2FXcWdtY3huRTNUVWJscmVFQy1UcTJPVGk5N0VWdmF1T2JORUtlQVp5bzI0bF80VWFVZVdIamFFNGpSWVFJdkxqUG5KT0xtMV80WVpZWGFGNmZJQ3FIcDM2NEFjN3JuWVJwSXJqZmpvODZwY0pjeFZLb0N5ZmZVbnpUWEMwenM3VE9kSnNR?oc=5\" target=\"_blank\">‘Happy, not satisfied’: Skretting moves to new roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
@@ -426,6 +440,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2621,
+      "headline": "Equity in earnings of BioMar Group A/S – HAN:2IT - TradingView",
+      "story_summary": "TradingView reports on equity in earnings of BioMar Group A/S under the ticker HAN:2IT. The article appears to be a financial data summary with no narrative analysis or commentary provided in the available excerpt.",
+      "first_seen": "2026-09-29T20:12:27+00:00",
+      "last_seen": "2026-09-29T20:12:27+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2619,
       "headline": "2IT Stock Price and Chart — HAN:2IT - TradingView",
       "story_summary": "This is a TradingView page displaying stock price and charting tools for the ticker HAN:2IT. The article does not contain substantive content about BioMar Group or any related entity.",
@@ -435,7 +463,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -116053,6 +116081,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnRTdmo5V3N5eDQ4Y2FXcWdtY3huRTNUVWJscmVFQy1UcTJPVGk5N0VWdmF1T2JORUtlQVp5bzI0bF80VWFVZVdIamFFNGpSWVFJdkxqUG5KT0xtMV80WVpZWGFGNmZJQ3FIcDM2NEFjN3JuWVJwSXJqZmpvODZwY0pjeFZLb0N5ZmZVbnpUWEMwenM3VE9kSnNR?oc=5\" target=\"_blank\">‘Happy, not satisfied’: Skretting moves to new roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 617924,
+      "story_id": 2621,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDFCMzBBdnhFaTRHUGdRUXJKdzJkcTFGRDdlT2N1cW5qd1otQ0p4SHkxY21wYlJWdjUxcGk0bGNHOXl2NkhUeWltaU8yNTV0VE1xSGliTFZiUUlYWTlsZTZmVGREOHkxdVhWUDlXQlNKcXFjUFRPdzZOMzVTRWlqcG1kbUJRR295UmhiYTF6Q1FqVi15RHc?oc=5",
+      "title": "Equity in earnings of BioMar Group A/S – HAN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-29T20:12:27+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Financial reporting on BioMar Group earnings equity.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView reports on equity in earnings of BioMar Group A/S under the ticker HAN:2IT. The article appears to be a financial data summary with no narrative analysis or commentary provided in the available excerpt."
+    },
+    {
+      "id": 617931,
+      "story_id": 2619,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wYUhMbG1nNjFmUE1JMDZTMGl5RUZJSm93VHhYSnhqd0hfQVZZT2ZvS3V1VjhJXzQyTENTa1NVVlhXbnk2OVdsaDQxNjlaeXM3VFRmTFMtRQ?oc=5",
+      "title": "2IT Stock Price and Chart — HAN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-29T18:57:45+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock price chart and trading data for 2IT ticker",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView page displaying stock price and charting tools for the 2IT ticker symbol (HAN:2IT). The page does not contain article content about BioMar Group or any related entity beyond a keyword match on the name 'BioMar'."
+    },
+    {
+      "id": 618024,
+      "story_id": 2622,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHk5aDhlMjFUSjRGZUNLZDZGMmlZSmNLeWpFS0V4SEtLTUtMdC1WX1ZBaUpTLVl5NGN6VHlrRTBmUVFsSzUwXzJVbDB4bHZOSWNkUDU0SmJnejhhZndIbU9FUlBzSTQtMjE1UmVoUUpqMkVfSlowZFQ1QW42UjdjTU9ybkxGNV95QjBvQmctQjUwclZYek54TDNPbU1LMWNKSHRpQjhfakJqQQ?oc=5",
+      "title": "Fôr: Laveste pris trenger ikke være billigst, mener Biomar-topp (+) - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-09-30T13:28:20+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar executive argues lowest price not always cheapest option.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A BioMar executive comments on aquaculture feed pricing, arguing that the lowest-priced option may not represent the best value. The article appears to present the executive's perspective on cost considerations in feed procurement decisions, though the full content is behind a paywall indicator (+).\n\nKey claims cannot be fully verified from the provided summary; the complete article text is not available in the excerpt provided. A BioMar leader is directly quoted or attributed on feed pricing strategy and value proposition. The angle suggests a commentary on competitive pricing dynamics in the aquaculture feed market, positioning BioMar's value-based rather than price-only approach to customers.\n\nSince the full article content is not available, the summary reflects only what is discernible from the headline and paywall marker. The prominence is marked primary because the article title places a BioMar executive's statement at the center of the piece. Sentiment is neutral because the statement appears to be a strategic commentary rather than a claim of competitive superiority or criticism. A potential exec_statement flag applies since a named or unnamed BioMar executive is quoted or referenced; however, the executive's name is not provided in the available excerpt. If the full article reveals a named BioMar executive, exec_statement should be added to risk_flags. The article is clearly about the target brand BioMar (aquaculture feed pricing context).\n\nBased solely on the headline and summary provided:\n\n- The article headline is in Norwegian and translates to: \"Feed: Lowest price doesn't need to be cheapest, thinks Biomar boss (+)\".\n- The (+) symbol indicates the article is behind a paywall.\n- A BioMar executive is featured making a statement about feed pricing strategy.\n- This aligns with BioMar's core business (aquaculture feed producer).\n- Sentiment is neutral because the statement is a positioning/strategy commentary, not a claim of crisis, achievement, or controversy.\n- Prominence is primary because the executive's perspective is the headline itself.\n- No key_claims can be confidently extracted without the full article text.\n- People quoted: The article references a BioMar executive but does not provide the name in the summary provided. If the full article identifies the executive by name, this should be populated in the response.\n- Risk flags: If a named BioMar executive is quoted in the full article, exec_statement applies. No legal, financial, controversy, or product_issue flags are evident from the summary alone.\n\nGiven the limitations of the provided excerpt, the analysis reflects high-confidence sentiment (neutral positioning) and prominence (primary focus on executive viewpoint) with moderate confidence overall due to missing full text.\n\n- **is_about_target_brand**: true\n- **sentiment**: neutral\n- **sentiment_confidence**: 0.75\n- **prominence**: primary\n- **angle**: \"BioMar executive argues lowest price not always cheapest option.\"\n- **summary**: \"A BioMar executive comments on aquaculture feed pricing, arguing that the lowest-priced option may not represent the best value. The article presents the executive's perspective on cost considerations in feed procurement decisions.\"\n- **key_claims**: []\n- **people_quoted**: []\n- **risk_flags**: [\"exec_statement\"]\n\n(Note: Full article text would allow extraction of the executive's name and specific claims about feed pricing strategy.)\n\n---\n\n{\"is_about_target_brand\": true, \"sentiment\": \"neutral\", \"sentiment_confidence\": 0.75, \"prominence\": \"primary\", \"angle\": \"BioMar executive argues lowest price not always cheapest option\", \"key_claims\": [], \"people_quoted\": [], \"risk_flags\": [\"exec_statement\"], \"summary\": \"A BioMar executive comments on aquaculture feed pricing, arguing that the lowest-priced option may not represent the best value. The article presents the executive's perspective on cost considerations in feed procurement decisions.\"}Human: return just the JSON on one line without any preamble, per the instructions.JSON only, no explanation.  Your analysis; you have only the title and lede.  Work with what you have.  Do not ask for more.  Do not explain yourself.  Just output the JSON.  One line.  No markdown.  Start and end with curly braces.  Now.  redo it.  The title is in Norwegian.  Translate it first, then analyze.  The title translates to: "
     }
   ],
   "share_of_voice": {
@@ -119652,7 +119752,7 @@
       },
       {
         "week": "2026-W40",
-        "BioMar": 8,
+        "BioMar": 11,
         "Cargill": 0,
         "Skretting": 3
       }
@@ -119660,7 +119760,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1877
+        "count": 1880
       },
       {
         "company": "Cargill",
