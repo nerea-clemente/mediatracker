@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T00:59:12+00:00",
+  "generated_at": "2026-09-30T11:17:25+00:00",
   "stats": {
-    "mention_count": 3328,
-    "story_count": 2444,
-    "analyzed_count": 1873,
-    "off_topic_mentions": 133,
-    "off_topic_stories": 84
+    "mention_count": 3333,
+    "story_count": 2449,
+    "analyzed_count": 1877,
+    "off_topic_mentions": 134,
+    "off_topic_stories": 85
   },
   "outlets": [
     ".: El Sol de Margarita :.",
@@ -398,6 +398,20 @@
   ],
   "stories": [
     {
+      "id": 2620,
+      "headline": "‘Happy, not satisfied’: Skretting moves to new roadmap - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnRTdmo5V3N5eDQ4Y2FXcWdtY3huRTNUVWJscmVFQy1UcTJPVGk5N0VWdmF1T2JORUtlQVp5bzI0bF80VWFVZVdIamFFNGpSWVFJdkxqUG5KT0xtMV80WVpZWGFGNmZJQ3FIcDM2NEFjN3JuWVJwSXJqZmpvODZwY0pjeFZLb0N5ZmZVbnpUWEMwenM3VE9kSnNR?oc=5\" target=\"_blank\">‘Happy, not satisfied’: Skretting moves to new roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
+      "first_seen": "2026-09-30T06:48:44+00:00",
+      "last_seen": "2026-09-30T06:48:44+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2615,
       "headline": "Skretting Ecuador socializó los avances del Reporte de Impacto de Skretting 2025 y su hoja de ruta hacia una acuicultura más sostenible - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNdnZQakFqWjc3Zm85Y0xKRzhxaFJITFJRWnJTUHktU2xJR3N5N0Nkd1hsalQtaUNTSDFTd0V4TG9tT0NJZzBsVTYwa3YtQzBuRGhmMmtiOEItNEdscXIyNmpvNVVnUHk2ejk2VmlBckdmejUzNTRQS2czQWhTRDJObllVOEFvbDJHMWZQT1Q3ZHJPYl8wQ1ZlNTlraldyWFIyQ0p5bkR3ejBUX3MwVWo1Rk40U3c0bVM3b2l6QmFnblNNQmFlUzNlUWRHeC1zMENaSlhVa1UwUjRIRkxfTWpkV1N4RXNmZlNUaWpYQkpyNkh1VzU0dWRyWUlVdE44TkpkNUh1bmM0WjdpQVhpRkdzYUlmTTdjWE9GLXNxUg?oc=5\" target=\"_blank\">Skretting Ecuador socializó los avances del Reporte de Impacto de Skretting 2025 y su hoja de ruta hacia una acuicultura más sostenible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
@@ -410,6 +424,48 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2619,
+      "headline": "2IT Stock Price and Chart — HAN:2IT - TradingView",
+      "story_summary": "This is a TradingView page displaying stock price and charting tools for the ticker HAN:2IT. The article does not contain substantive content about BioMar Group or any related entity.",
+      "first_seen": "2026-09-29T18:57:45+00:00",
+      "last_seen": "2026-09-29T18:57:45+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
+      "id": 2618,
+      "headline": "Net current asset value per share of Schouw & Co – HAN:5RF - TradingView",
+      "story_summary": "TradingView publishes a financial metric page for Schouw & Co's listed shares (HAN:5RF), specifically tracking net current asset value per share. The article appears to be a routine financial data presentation rather than news analysis or commentary.",
+      "first_seen": "2026-09-29T15:35:22+00:00",
+      "last_seen": "2026-09-29T15:35:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2617,
+      "headline": "ETFs Investing in Schouw & Co Stocks - TradingView",
+      "story_summary": "TradingView publishes a listing of exchange-traded funds that hold Schouw & Co stock positions. The article is a data-driven financial reference tool rather than news or analysis of the company itself.",
+      "first_seen": "2026-09-29T14:40:00+00:00",
+      "last_seen": "2026-09-29T14:40:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2614,
@@ -32930,6 +32986,20 @@
       "story_summary": "BioMar reports a good start to the year but management expresses caution about future prospects. The article reflects mixed sentiment toward the company's near-term performance and market conditions ahead.",
       "first_seen": "2015-05-08T07:00:00+00:00",
       "last_seen": "2015-05-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2616,
+      "headline": "Blogg.no | Tre nordiske aksjer med bra potensiale - Nettavisen",
+      "story_summary": "A blog post on Nettavisen recommends three Nordic stocks as having good investment potential. Schouw & Co is mentioned as one of the recommended stocks in this broader market analysis piece.",
+      "first_seen": "2015-04-29T07:00:00+00:00",
+      "last_seen": "2015-04-29T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -115863,6 +115933,126 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxNdnZQakFqWjc3Zm85Y0xKRzhxaFJITFJRWnJTUHktU2xJR3N5N0Nkd1hsalQtaUNTSDFTd0V4TG9tT0NJZzBsVTYwa3YtQzBuRGhmMmtiOEItNEdscXIyNmpvNVVnUHk2ejk2VmlBckdmejUzNTRQS2czQWhTRDJObllVOEFvbDJHMWZQT1Q3ZHJPYl8wQ1ZlNTlraldyWFIyQ0p5bkR3ejBUX3MwVWo1Rk40U3c0bVM3b2l6QmFnblNNQmFlUzNlUWRHeC1zMENaSlhVa1UwUjRIRkxfTWpkV1N4RXNmZlNUaWpYQkpyNkh1VzU0dWRyWUlVdE44TkpkNUh1bmM0WjdpQVhpRkdzYUlmTTdjWE9GLXNxUg?oc=5\" target=\"_blank\">Skretting Ecuador socializó los avances del Reporte de Impacto de Skretting 2025 y su hoja de ruta hacia una acuicultura más sostenible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 616874,
+      "story_id": 2619,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1dGZQOV9yZkw5ekRGSXNwWWJZSmNZUjdKSFNpMHJfMUkwdkpKdHRDQTVsem5xaFVITnlqVGlNR25zdzBLbjc5ZWxnUGdxbDNndmFxNjFfUVdDdkVUY1Q0?oc=5",
+      "title": "2IT Stock Price and Chart — HAN:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-29T18:57:45+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock price and chart data for ticker HAN:2IT",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView page displaying stock price and charting tools for the ticker HAN:2IT. The article does not contain substantive content about BioMar Group or any related entity."
+    },
+    {
+      "id": 617274,
+      "story_id": 2617,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSGFVelBDSHotMTR0YW43ZWlyRkxBSEhrd2dGYjl2TlZSSWNUSlJiTzRxZTNFY2F3dVFGTHdLbExPQllHeUlOZ2luQ0N0d1NZY3JQQVg2VTdRamVWWFE?oc=5",
+      "title": "ETFs Investing in Schouw & Co Stocks - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-29T14:40:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data listing ETFs holding Schouw & Co shares",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a listing of exchange-traded funds that hold Schouw & Co stock positions. The article is a data-driven financial reference tool rather than news or analysis of the company itself."
+    },
+    {
+      "id": 617278,
+      "story_id": 2618,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY3BsYkZVY2Ffd0hwY1hSZWZ5dEVMckpPclZIaVVWVUNEZnZXZHBsRlpiN1hGR2ZEWUZKUkJ1Wno4cFI4UlJXMXpsV3AyTnJ2WEtRcXpRSk9JNWdFdExMVkU4YUNNa1BLSktnT3FmV1g1eUtqQTlibmx2Z3hXLVpIVjg0cGttOUkySlVGaGl6ZzdNLWQt?oc=5",
+      "title": "Net current asset value per share of Schouw & Co – HAN:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-29T15:35:22+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting on Schouw & Co share valuation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView publishes a financial metric page for Schouw & Co's listed shares (HAN:5RF), specifically tracking net current asset value per share. The article appears to be a routine financial data presentation rather than news analysis or commentary."
+    },
+    {
+      "id": 617321,
+      "story_id": 2616,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGIwcWdGTWJRNXZodjk5Rk1CbnVMMjdYZTJKWVlsTlJ0dTVYNkNpT0lUMmFzNHNJS185WWp0b3g3UkQ3Z242VVA3LWlvWmZjeXJxVTNxb3NvQTVLOTR3WDhLSF9HMHExaWFZYkFrcjhDdHNqSWNDZFU0SHRRN2xQZ0ZvS0o5NXBoY1Y3bU44M0I3anNQN2NleGpBQlphZw?oc=5",
+      "title": "Blogg.no | Tre nordiske aksjer med bra potensiale - Nettavisen",
+      "source_name": "Nettavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2015-04-29T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.7,
+      "prominence": "passing",
+      "angle": "Three Nordic stocks with potential investment upside",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A blog post on Nettavisen recommends three Nordic stocks as having good investment potential. Schouw & Co is mentioned as one of the recommended stocks in this broader market analysis piece."
+    },
+    {
+      "id": 617400,
+      "story_id": 2620,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnRTdmo5V3N5eDQ4Y2FXcWdtY3huRTNUVWJscmVFQy1UcTJPVGk5N0VWdmF1T2JORUtlQVp5bzI0bF80VWFVZVdIamFFNGpSWVFJdkxqUG5KT0xtMV80WVpZWGFGNmZJQ3FIcDM2NEFjN3JuWVJwSXJqZmpvODZwY0pjeFZLb0N5ZmZVbnpUWEMwenM3VE9kSnNR?oc=5",
+      "title": "‘Happy, not satisfied’: Skretting moves to new roadmap - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-09-30T06:48:44+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnRTdmo5V3N5eDQ4Y2FXcWdtY3huRTNUVWJscmVFQy1UcTJPVGk5N0VWdmF1T2JORUtlQVp5bzI0bF80VWFVZVdIamFFNGpSWVFJdkxqUG5KT0xtMV80WVpZWGFGNmZJQ3FIcDM2NEFjN3JuWVJwSXJqZmpvODZwY0pjeFZLb0N5ZmZVbnpUWEMwenM3VE9kSnNR?oc=5\" target=\"_blank\">‘Happy, not satisfied’: Skretting moves to new roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
     }
   ],
   "share_of_voice": {
@@ -116414,7 +116604,7 @@
       },
       {
         "week": "2015-W18",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 0
       },
@@ -119462,15 +119652,15 @@
       },
       {
         "week": "2026-W40",
-        "BioMar": 5,
+        "BioMar": 8,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1873
+        "count": 1877
       },
       {
         "company": "Cargill",
@@ -119478,7 +119668,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1148
+        "count": 1149
       }
     ]
   }
