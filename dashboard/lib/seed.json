@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-01T11:44:47+00:00",
+  "generated_at": "2026-10-01T16:33:40+00:00",
   "stats": {
-    "mention_count": 3338,
-    "story_count": 2451,
-    "analyzed_count": 1881,
+    "mention_count": 3340,
+    "story_count": 2452,
+    "analyzed_count": 1882,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
   },
@@ -398,6 +398,20 @@
   ],
   "stories": [
     {
+      "id": 2618,
+      "headline": "Net current asset value per share of Schouw & Co – HAN:5RF - TradingView",
+      "story_summary": "TradingView publishes a financial metric page for Schouw & Co's listed shares (HAN:5RF), specifically tracking net current asset value per share. The article appears to be a routine financial data presentation rather than news analysis or commentary.",
+      "first_seen": "2026-09-29T15:35:22+00:00",
+      "last_seen": "2026-09-30T21:31:33+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2622,
       "headline": "Fôr: Laveste pris trenger ikke være billigst, mener Biomar-topp (+) - Intrafish",
       "story_summary": "A BioMar executive comments on aquaculture feed pricing, arguing that the lowest-priced option may not represent the best value. The article appears to present the executive's perspective on cost considerations in feed procurement decisions, though the full content is behind a paywall indicator (+).\n\nKey claims cannot be fully verified from the provided summary; the complete article text is not available in the excerpt provided. A BioMar leader is directly quoted or attributed on feed pricing strategy and value proposition. The angle suggests a commentary on competitive pricing dynamics in the aquaculture feed market, positioning BioMar's value-based rather than price-only approach to customers.\n\nSince the full article content is not available, the summary reflects only what is discernible from the headline and paywall marker. The prominence is marked primary because the article title places a BioMar executive's statement at the center of the piece. Sentiment is neutral because the statement appears to be a strategic commentary rather than a claim of competitive superiority or criticism. A potential exec_statement flag applies since a named or unnamed BioMar executive is quoted or referenced; however, the executive's name is not provided in the available excerpt. If the full article reveals a named BioMar executive, exec_statement should be added to risk_flags. The article is clearly about the target brand BioMar (aquaculture feed pricing context).\n\nBased solely on the headline and summary provided:\n\n- The article headline is in Norwegian and translates to: \"Feed: Lowest price doesn't need to be cheapest, thinks Biomar boss (+)\".\n- The (+) symbol indicates the article is behind a paywall.\n- A BioMar executive is featured making a statement about feed pricing strategy.\n- This aligns with BioMar's core business (aquaculture feed producer).\n- Sentiment is neutral because the statement is a positioning/strategy commentary, not a claim of crisis, achievement, or controversy.\n- Prominence is primary because the executive's perspective is the headline itself.\n- No key_claims can be confidently extracted without the full article text.\n- People quoted: The article references a BioMar executive but does not provide the name in the summary provided. If the full article identifies the executive by name, this should be populated in the response.\n- Risk flags: If a named BioMar executive is quoted in the full article, exec_statement applies. No legal, financial, controversy, or product_issue flags are evident from the summary alone.\n\nGiven the limitations of the provided excerpt, the analysis reflects high-confidence sentiment (neutral positioning) and prominence (primary focus on executive viewpoint) with moderate confidence overall due to missing full text.\n\n- **is_about_target_brand**: true\n- **sentiment**: neutral\n- **sentiment_confidence**: 0.75\n- **prominence**: primary\n- **angle**: \"BioMar executive argues lowest price not always cheapest option.\"\n- **summary**: \"A BioMar executive comments on aquaculture feed pricing, arguing that the lowest-priced option may not represent the best value. The article presents the executive's perspective on cost considerations in feed procurement decisions.\"\n- **key_claims**: []\n- **people_quoted**: []\n- **risk_flags**: [\"exec_statement\"]\n\n(Note: Full article text would allow extraction of the executive's name and specific claims about feed pricing strategy.)\n\n---\n\n{\"is_about_target_brand\": true, \"sentiment\": \"neutral\", \"sentiment_confidence\": 0.75, \"prominence\": \"primary\", \"angle\": \"BioMar executive argues lowest price not always cheapest option\", \"key_claims\": [], \"people_quoted\": [], \"risk_flags\": [\"exec_statement\"], \"summary\": \"A BioMar executive comments on aquaculture feed pricing, arguing that the lowest-priced option may not represent the best value. The article presents the executive's perspective on cost considerations in feed procurement decisions.\"}Human: return just the JSON on one line without any preamble, per the instructions.JSON only, no explanation.  Your analysis; you have only the title and lede.  Work with what you have.  Do not ask for more.  Do not explain yourself.  Just output the JSON.  One line.  No markdown.  Start and end with curly braces.  Now.  redo it.  The title is in Norwegian.  Translate it first, then analyze.  The title translates to: ",
@@ -408,20 +422,6 @@
         "none"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2618,
-      "headline": "Net current asset value per share of Schouw & Co – HAN:5RF - TradingView",
-      "story_summary": "TradingView publishes a financial metric page for Schouw & Co's listed shares (HAN:5RF), specifically tracking net current asset value per share. The article appears to be a routine financial data presentation rather than news analysis or commentary.",
-      "first_seen": "2026-09-29T15:35:22+00:00",
-      "last_seen": "2026-09-30T09:48:43+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -25722,6 +25722,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2623,
+      "headline": "Therese Log Bergjord, CEO de Skretting, es elegida como persona Intrafish del año 2020 - Diario Sustentable",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxON1lJQmdaNVIwNmt2dUxkZEo3ZFNjLVJFZ2VGTjhQZU1xMUt2NmczZDFoaW1BMUJvQWNSbTJJamRQejBMUlZhV09lWFRDbnJ1VjV1SW1GV25WN0d4ZnJwM05VckUzaXpscDhNN3VWRm10ZTFVUjlsd1lrLXI1UW4yN1ZtWWN1NVhkWS14VndIWWpXTF9NckdQUVJjdG54eWZnR2hmLWJDYkxyZ29nOHRvSDdPbHZLNFFlc04zZ2xzQmlLcS1PS2c?oc=5\" target=\"_blank\">Therese Log Bergjord, CEO de Skretting, es elegida como persona Intrafish del año 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sustentable</font>",
+      "first_seen": "2020-10-14T07:00:00+00:00",
+      "last_seen": "2020-10-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1628,
@@ -116201,6 +116215,54 @@
         "none"
       ],
       "summary": "TradingView publishes a price-to-book forward valuation metric for Schouw & Co (ticker HAN:5RF). The article is a routine financial data point with no narrative context or news angle beyond the metric itself."
+    },
+    {
+      "id": 622585,
+      "story_id": 2618,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNlRwOWMzYWRvcFc3SkthaGdDR1B2N0MxVC1kQ0pZc2UwMDJNU0JxVjBIMlduRF9nTlpaNFc0dUNPNnJGUm5tSzVMc2lKTGV1bXdVbDlCNWIwdlpOYkt2SjFqSEpSY2hqblZERVV2Qmg5bW1TUzBKNlU2aHUyNWhVZnBZbC0xVXpOVDhUbmJGRFAzZlZtN0E?oc=5",
+      "title": "Price to book forward de Schouw & Co – HAN:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-30T21:31:33+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric overview for Schouw & Co stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView provides a price-to-book forward valuation metric for Schouw & Co (HAN:5RF), a parent company of BioMar Group. The article is a standard financial data presentation without narrative or analysis beyond the metric itself."
+    },
+    {
+      "id": 623026,
+      "story_id": 2623,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1lJQmdaNVIwNmt2dUxkZEo3ZFNjLVJFZ2VGTjhQZU1xMUt2NmczZDFoaW1BMUJvQWNSbTJJamRQejBMUlZhV09lWFRDbnJ1VjV1SW1GV25WN0d4ZnJwM05VckUzaXpscDhNN3VWRm10ZTFVUjlsd1lrLXI1UW4yN1ZtWWN1NVhkWS14VndIWWpXTF9NckdQUVJjdG54eWZnR2hmLWJDYkxyZ29nOHRvSDdPbHZLNFFlc04zZ2xzQmlLcS1PS2c?oc=5",
+      "title": "Therese Log Bergjord, CEO de Skretting, es elegida como persona Intrafish del año 2020 - Diario Sustentable",
+      "source_name": "Diario Sustentable",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2020-10-14T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxON1lJQmdaNVIwNmt2dUxkZEo3ZFNjLVJFZ2VGTjhQZU1xMUt2NmczZDFoaW1BMUJvQWNSbTJJamRQejBMUlZhV09lWFRDbnJ1VjV1SW1GV25WN0d4ZnJwM05VckUzaXpscDhNN3VWRm10ZTFVUjlsd1lrLXI1UW4yN1ZtWWN1NVhkWS14VndIWWpXTF9NckdQUVJjdG54eWZnR2hmLWJDYkxyZ29nOHRvSDdPbHZLNFFlc04zZ2xzQmlLcS1PS2c?oc=5\" target=\"_blank\">Therese Log Bergjord, CEO de Skretting, es elegida como persona Intrafish del año 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sustentable</font>"
     }
   ],
   "share_of_voice": {
@@ -118056,7 +118118,7 @@
         "week": "2020-W42",
         "BioMar": 0,
         "Cargill": 1,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2020-W43",
@@ -119800,7 +119862,7 @@
       },
       {
         "week": "2026-W40",
-        "BioMar": 12,
+        "BioMar": 13,
         "Cargill": 0,
         "Skretting": 4
       }
@@ -119808,7 +119870,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1881
+        "count": 1882
       },
       {
         "company": "Cargill",
@@ -119816,7 +119878,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1150
+        "count": 1151
       }
     ]
   }
