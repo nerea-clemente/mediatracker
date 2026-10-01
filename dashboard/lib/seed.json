@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-30T20:37:37+00:00",
+  "generated_at": "2026-10-01T01:02:06+00:00",
   "stats": {
-    "mention_count": 3337,
+    "mention_count": 3338,
     "story_count": 2451,
-    "analyzed_count": 1880,
+    "analyzed_count": 1881,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
   },
@@ -412,6 +412,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2618,
+      "headline": "Net current asset value per share of Schouw & Co – HAN:5RF - TradingView",
+      "story_summary": "TradingView publishes a financial metric page for Schouw & Co's listed shares (HAN:5RF), specifically tracking net current asset value per share. The article appears to be a routine financial data presentation rather than news analysis or commentary.",
+      "first_seen": "2026-09-29T15:35:22+00:00",
+      "last_seen": "2026-09-30T09:48:43+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2620,
       "headline": "‘Happy, not satisfied’: Skretting moves to new roadmap - intrafish.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnRTdmo5V3N5eDQ4Y2FXcWdtY3huRTNUVWJscmVFQy1UcTJPVGk5N0VWdmF1T2JORUtlQVp5bzI0bF80VWFVZVdIamFFNGpSWVFJdkxqUG5KT0xtMV80WVpZWGFGNmZJQ3FIcDM2NEFjN3JuWVJwSXJqZmpvODZwY0pjeFZLb0N5ZmZVbnpUWEMwenM3VE9kSnNR?oc=5\" target=\"_blank\">‘Happy, not satisfied’: Skretting moves to new roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
@@ -465,20 +479,6 @@
       ],
       "pickup_count": 2,
       "is_about_target_brand": false,
-      "company": "BioMar"
-    },
-    {
-      "id": 2618,
-      "headline": "Net current asset value per share of Schouw & Co – HAN:5RF - TradingView",
-      "story_summary": "TradingView publishes a financial metric page for Schouw & Co's listed shares (HAN:5RF), specifically tracking net current asset value per share. The article appears to be a routine financial data presentation rather than news analysis or commentary.",
-      "first_seen": "2026-09-29T15:35:22+00:00",
-      "last_seen": "2026-09-29T15:35:22+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
       "company": "BioMar"
     },
     {
@@ -116177,6 +116177,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZS2k3M21kTWxpRDRRYWZZdWVwZ1NURGhvT3JqU3Z0cUY0OWlqSTJKanNUT25NOHFhY0VKd25VeTFLZXVqelRFZl85RldhbFZDNkl3ZnYwNnpHbW9JV2NKaDdjNDVYR0tvMGoxQzBrNTFQV0JMUVV0aDhzTQ?oc=5\" target=\"_blank\">Nettsus for Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 620423,
+      "story_id": 2618,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWXZsMjBIZHJkd0REU1hxOXgyVTg1d2JIakdNUVMyRUFIdkplTjFaZjJSdWlRMGNVM0FoUjQ4X1JxSnBaTlQ4ZGdtNGZlVkNncnJ6MExNalE1VC1PNzVjTEM5ZXQzNDliRExIS2xUTHY2QkpQa3ltbEctOUlpdjNYT2tLM1FOVVdBa1Y0X1NKTjk3MmVHQWc4?oc=5",
+      "title": "Price to book forward of Schouw & Co – HAN:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-09-30T09:48:43+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric snapshot for Schouw & Co stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a price-to-book forward valuation metric for Schouw & Co (ticker HAN:5RF). The article is a routine financial data point with no narrative context or news angle beyond the metric itself."
     }
   ],
   "share_of_voice": {
@@ -119776,7 +119800,7 @@
       },
       {
         "week": "2026-W40",
-        "BioMar": 11,
+        "BioMar": 12,
         "Cargill": 0,
         "Skretting": 4
       }
@@ -119784,7 +119808,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1880
+        "count": 1881
       },
       {
         "company": "Cargill",
