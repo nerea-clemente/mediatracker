@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T20:51:55+00:00",
+  "generated_at": "2026-10-02T01:15:42+00:00",
   "stats": {
-    "mention_count": 3340,
-    "story_count": 2452,
+    "mention_count": 3341,
+    "story_count": 2453,
     "analyzed_count": 1882,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
@@ -388,6 +388,7 @@
     "streamlinefeed.co.ke",
     "tasgreensmps.org",
     "tec.ac.cr",
+    "tk.no",
     "tradingview.com",
     "tronderbladet.no",
     "uk.finance.yahoo.com",
@@ -397,6 +398,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2624,
+      "headline": "Averøy, Byggesaker | Skretting fikk fritak fra miljøkrav - tk.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1jY1M4cnRSSi1TRVZZU01ScTdiMEpmWDVXd255OGZIVFZEYUFNVC1pLXByWVFvTDI3RWFqVXNrUW9McFR6c19TQ0tvT1luVmxZRUJvZlM2Sm4zMHEtX3VWdzc1czNQWjZGZjhjeVRMMHotbHYwNUE?oc=5\" target=\"_blank\">Averøy, Byggesaker | Skretting fikk fritak fra miljøkrav</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tk.no</font>",
+      "first_seen": "2026-10-01T22:30:00+00:00",
+      "last_seen": "2026-10-01T22:30:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2618,
       "headline": "Net current asset value per share of Schouw & Co – HAN:5RF - TradingView",
@@ -116263,6 +116278,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxON1lJQmdaNVIwNmt2dUxkZEo3ZFNjLVJFZ2VGTjhQZU1xMUt2NmczZDFoaW1BMUJvQWNSbTJJamRQejBMUlZhV09lWFRDbnJ1VjV1SW1GV25WN0d4ZnJwM05VckUzaXpscDhNN3VWRm10ZTFVUjlsd1lrLXI1UW4yN1ZtWWN1NVhkWS14VndIWWpXTF9NckdQUVJjdG54eWZnR2hmLWJDYkxyZ29nOHRvSDdPbHZLNFFlc04zZ2xzQmlLcS1PS2c?oc=5\" target=\"_blank\">Therese Log Bergjord, CEO de Skretting, es elegida como persona Intrafish del año 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Sustentable</font>"
+    },
+    {
+      "id": 624851,
+      "story_id": 2624,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jY1M4cnRSSi1TRVZZU01ScTdiMEpmWDVXd255OGZIVFZEYUFNVC1pLXByWVFvTDI3RWFqVXNrUW9McFR6c19TQ0tvT1luVmxZRUJvZlM2Sm4zMHEtX3VWdzc1czNQWjZGZjhjeVRMMHotbHYwNUE?oc=5",
+      "title": "Averøy, Byggesaker | Skretting fikk fritak fra miljøkrav - tk.no",
+      "source_name": "tk.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-01T22:30:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1jY1M4cnRSSi1TRVZZU01ScTdiMEpmWDVXd255OGZIVFZEYUFNVC1pLXByWVFvTDI3RWFqVXNrUW9McFR6c19TQ0tvT1luVmxZRUJvZlM2Sm4zMHEtX3VWdzc1czNQWjZGZjhjeVRMMHotbHYwNUE?oc=5\" target=\"_blank\">Averøy, Byggesaker | Skretting fikk fritak fra miljøkrav</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tk.no</font>"
     }
   ],
   "share_of_voice": {
@@ -119864,7 +119903,7 @@
         "week": "2026-W40",
         "BioMar": 13,
         "Cargill": 0,
-        "Skretting": 4
+        "Skretting": 5
       }
     ],
     "totals": [
@@ -119878,7 +119917,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1151
+        "count": 1152
       }
     ]
   }
