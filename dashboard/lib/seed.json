@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T00:53:39+00:00",
+  "generated_at": "2026-10-03T10:31:46+00:00",
   "stats": {
-    "mention_count": 3345,
-    "story_count": 2456,
-    "analyzed_count": 1883,
+    "mention_count": 3347,
+    "story_count": 2457,
+    "analyzed_count": 1885,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
   },
@@ -258,6 +258,7 @@
     "Scandasia",
     "SeafoodSource",
     "Seafoodnews",
+    "Simply Wall Street",
     "Skipsrevyen",
     "Sofascore",
     "Solabladet",
@@ -1981,7 +1982,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -29827,6 +29828,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2628,
+      "headline": "Aktieselskabet Schouw (CPSE:SCHO) - Stock Analysis - Simply Wall Street",
+      "story_summary": "Simply Wall Street published a stock analysis covering Aktieselskabet Schouw, the Danish industrial conglomerate listed on CPSE under ticker SCHO. The article provides investment analysis of the parent company that owns BioMar Group among its subsidiaries. The article appears to be a standard equity research piece without specific sentiment indicated in the available text. Detailed content beyond the headline and metadata was not provided for deeper analysis of key claims or specific angles taken regarding the company's financial performance or prospects.",
+      "first_seen": "2018-03-07T02:37:44+00:00",
+      "last_seen": "2018-03-07T02:37:44+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -116442,6 +116457,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE56YlFaZDJXRmV3N1c2VVpqdEk3YU5NTDhVSnpuSnpUVkpRdFJSRzNtQzRkU3VwVzRTXzlkS2tJVW1nTUtEZGFSVklrUUJ4anMwaV9mNnJkLXdmTFZqT282b1BHQUhGbkI2S1J3MdIBekFVX3lxTFBDQVA2Rk90NGI5eWN3bl93bnpNS3JsUWpOd1lBTTBhVDNtVDJFWVVuV2cweXN0eGhGbUd0YncyYVFTSUtjTkVJb2l5MHJTZ1NxLVFnNUU2SkcwbVAtcDI2MXNrSHExNEJVQWcxbnRxRUMtcmJzenhqSWhR?oc=5\" target=\"_blank\">Skretting CEO steps down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 629526,
+      "story_id": 2165,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wTUM3c3k0b3NoeHpwWDV2UERGLTB2dGpmdnZtYXRlX2tsNG1HMVJnZTA5SHo4djF6RDNwSGtDcFZ5ZlN5REc4NVhCd3VBVHdO?oc=5",
+      "title": "BioMar Group (CPSE:BIOMAR) Stock Price - Simply Wall Street",
+      "source_name": "Simply Wall Street",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-14T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Stock price page for BioMar Group listing.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Simply Wall Street stock information page for BioMar Group trading on the CPSE exchange under ticker BIOMAR. The page provides financial data and valuation metrics for the publicly-traded company without editorial commentary or news reporting."
+    },
+    {
+      "id": 629931,
+      "story_id": 2628,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZGo5N0hWSjlWSF9jRXVCcWtkMUZZNlVHZzRlcXlsX0xjUWY1cHVqNEJmLVBWTHRqUk56Sl9CemwzUWRiUzllYUhVUHZuWGM5aXFnMTgydXlvVGhCdHBHQmF2NDNRZVJPWXgyR3IyMTJLaWwtcF8xNzRqdTFGXy1KTVNseDN2NWM0akdna0FYbG9JVy1HNGc?oc=5",
+      "title": "Aktieselskabet Schouw (CPSE:SCHO) - Stock Analysis - Simply Wall Street",
+      "source_name": "Simply Wall Street",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2018-03-07T02:37:44+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Stock analysis of Aktieselskabet Schouw (SCHO) on Simply Wall Street",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Simply Wall Street published a stock analysis covering Aktieselskabet Schouw, the Danish industrial conglomerate listed on CPSE under ticker SCHO. The article provides investment analysis of the parent company that owns BioMar Group among its subsidiaries. The article appears to be a standard equity research piece without specific sentiment indicated in the available text. Detailed content beyond the headline and metadata was not provided for deeper analysis of key claims or specific angles taken regarding the company's financial performance or prospects."
     }
   ],
   "share_of_voice": {
@@ -117659,7 +117722,7 @@
       },
       {
         "week": "2018-W10",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 0
       },
@@ -119999,7 +120062,7 @@
       },
       {
         "week": "2026-W33",
-        "BioMar": 82,
+        "BioMar": 83,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -120049,7 +120112,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1883
+        "count": 1885
       },
       {
         "company": "Cargill",
