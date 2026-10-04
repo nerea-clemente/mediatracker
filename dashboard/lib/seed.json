@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T11:13:29+00:00",
+  "generated_at": "2026-10-04T14:53:46+00:00",
   "stats": {
-    "mention_count": 3354,
-    "story_count": 2461,
+    "mention_count": 3357,
+    "story_count": 2463,
     "analyzed_count": 1887,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
@@ -402,6 +402,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2634,
+      "headline": "1’ - Mål av Ingeborg Skretting (0-1) - TV 2",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3owR3J5NzJVQ01HX3B6RzB6RnFpSDBia3pjZ2FPTjN6cGJtOW9fU0lQN1dHUjk4ZzhrUjB1azZSRGZuMExzU1Z1ZldneVRpb1prcDlWRTFROWZvYWdnSkhQSzRLbzRLYzctTVNMMjY1aUI1V3NqYW9sMUNZMW01VjM2VTU0OG9iOWc?oc=5\" target=\"_blank\">1’ - Mål av Ingeborg Skretting (0-1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>",
+      "first_seen": "2026-10-04T13:30:31+00:00",
+      "last_seen": "2026-10-04T13:30:31+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2624,
       "headline": "Averøy, Byggesaker | Skretting fikk fritak fra miljøkrav - tk.no",
@@ -17319,7 +17333,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -18315,6 +18329,20 @@
         "none"
       ],
       "pickup_count": 4,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2633,
+      "headline": "Mexico's Vimifos and Skretting Chile first feed mills to obtain ASC certification - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFRQOWRkVmtQbkFKMkpqMU00TzB0NFgxSTZjTzR4SlpESU05ZllESTM1c3R1Z2pYeGt1T2k1YlQ3cnQyb2x3akVya3pvOTFjbzBtTm40cWVkdkdIOFY1TnVlYkdVUkhrZTlRcTFxNzdOUmZqT280N2hPYVAySnR3OV9HNlRlaXp3QXY2NTNwaHAwZ1pseGNhSjRySzZSSElkZVpWcEFud29LNmJpVGU4Wjl0cktaeXNUZDBB0gHIAUFVX3lxTFBfdl9pTUFhX2lNUVJqNHlVMVl3ZEEtNlV5MXcza0NRZ1lGVE1adjlzQ2c4R3pzRlpPN21XRHd0STFRZkp2SkR2X2xLaURiNmVxYXRrRFpZQVpJWlZ0VXUxSExKR2tqdWhmY3RZaTl0bXVPbVM2RURJTzJUY3FCTUttRTdILXV0bm9ma1N2YnZuY3pxNDFzR0luUVJCeHFoVWo0ZmlYQ3VoVGdkemE2Q2dOUG1aV3VIdVA2SWJyd3J0RGQ1bTcteGVC?oc=5\" target=\"_blank\">Mexico's Vimifos and Skretting Chile first feed mills to obtain ASC certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2024-02-06T08:00:00+00:00",
+      "last_seen": "2024-02-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -116733,6 +116761,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVdkZkhINUJ4NVpnWlBOd0NpMHVyODVaR25JNDU3b0RQUTREWHE4X3Nnal9Na1N0MmtSdFY2WHQyblB4T0UxRXliZFBoLV96S0JQYTl1RThVbzN4YVdlYlhaTF8yX2hFdFBDbnZJeV9Mb0ZwZU50NWJOdWtrc3dTY1ZUZmZ2a1VrdzR2Nm1DSnZ2TWRLLXJTc1Q4d0ZtYVVnQUhvQ3FXOVY?oc=5\" target=\"_blank\">“La adquisición de EWOS por parte de Cargill ha transformado el sector”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 635346,
+      "story_id": 2633,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFRQOWRkVmtQbkFKMkpqMU00TzB0NFgxSTZjTzR4SlpESU05ZllESTM1c3R1Z2pYeGt1T2k1YlQ3cnQyb2x3akVya3pvOTFjbzBtTm40cWVkdkdIOFY1TnVlYkdVUkhrZTlRcTFxNzdOUmZqT280N2hPYVAySnR3OV9HNlRlaXp3QXY2NTNwaHAwZ1pseGNhSjRySzZSSElkZVpWcEFud29LNmJpVGU4Wjl0cktaeXNUZDBB0gHIAUFVX3lxTFBfdl9pTUFhX2lNUVJqNHlVMVl3ZEEtNlV5MXcza0NRZ1lGVE1adjlzQ2c4R3pzRlpPN21XRHd0STFRZkp2SkR2X2xLaURiNmVxYXRrRFpZQVpJWlZ0VXUxSExKR2tqdWhmY3RZaTl0bXVPbVM2RURJTzJUY3FCTUttRTdILXV0bm9ma1N2YnZuY3pxNDFzR0luUVJCeHFoVWo0ZmlYQ3VoVGdkemE2Q2dOUG1aV3VIdVA2SWJyd3J0RGQ1bTcteGVC?oc=5",
+      "title": "Mexico's Vimifos and Skretting Chile first feed mills to obtain ASC certification - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2024-02-06T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFRQOWRkVmtQbkFKMkpqMU00TzB0NFgxSTZjTzR4SlpESU05ZllESTM1c3R1Z2pYeGt1T2k1YlQ3cnQyb2x3akVya3pvOTFjbzBtTm40cWVkdkdIOFY1TnVlYkdVUkhrZTlRcTFxNzdOUmZqT280N2hPYVAySnR3OV9HNlRlaXp3QXY2NTNwaHAwZ1pseGNhSjRySzZSSElkZVpWcEFud29LNmJpVGU4Wjl0cktaeXNUZDBB0gHIAUFVX3lxTFBfdl9pTUFhX2lNUVJqNHlVMVl3ZEEtNlV5MXcza0NRZ1lGVE1adjlzQ2c4R3pzRlpPN21XRHd0STFRZkp2SkR2X2xLaURiNmVxYXRrRFpZQVpJWlZ0VXUxSExKR2tqdWhmY3RZaTl0bXVPbVM2RURJTzJUY3FCTUttRTdILXV0bm9ma1N2YnZuY3pxNDFzR0luUVJCeHFoVWo0ZmlYQ3VoVGdkemE2Q2dOUG1aV3VIdVA2SWJyd3J0RGQ1bTcteGVC?oc=5\" target=\"_blank\">Mexico's Vimifos and Skretting Chile first feed mills to obtain ASC certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 635368,
+      "story_id": 2634,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3owR3J5NzJVQ01HX3B6RzB6RnFpSDBia3pjZ2FPTjN6cGJtOW9fU0lQN1dHUjk4ZzhrUjB1azZSRGZuMExzU1Z1ZldneVRpb1prcDlWRTFROWZvYWdnSkhQSzRLbzRLYzctTVNMMjY1aUI1V3NqYW9sMUNZMW01VjM2VTU0OG9iOWc?oc=5",
+      "title": "1’ - Mål av Ingeborg Skretting (0-1) - TV 2",
+      "source_name": "TV 2",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-04T13:30:31+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3owR3J5NzJVQ01HX3B6RzB6RnFpSDBia3pjZ2FPTjN6cGJtOW9fU0lQN1dHUjk4ZzhrUjB1azZSRGZuMExzU1Z1ZldneVRpb1prcDlWRTFROWZvYWdnSkhQSzRLbzRLYzctTVNMMjY1aUI1V3NqYW9sMUNZMW01VjM2VTU0OG9iOWc?oc=5\" target=\"_blank\">1’ - Mål av Ingeborg Skretting (0-1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>"
+    },
+    {
+      "id": 635643,
+      "story_id": 599,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUUc5dVJrZnhqVUp6RnlzYjZCc3p6QmF6YV9CZ196SVpiclZpTWtNelhFRzFGWEZyY0ZabWhmejI4MDB1Y0pRSW1YSHR3ZllyRWMyenFFb0xfR1BMT0o1VlZfVVBCVE1mbGtfWWdJV3JJUGUxX0hRcEZYSzVoN294SUQtSnYxNzE2MDRpaHJwZWlkNnVQVkJfajJjQkg4bzJHME96R3F1UnR3SW1ldnp4dDlLQk1vYVh6aDBYeGJMTG93QnJDZVRDTXdyUGpUM2tlclpiZllMdFdzNUlMR0lWYUkxT0ZSbGxSUXA4?oc=5",
+      "title": "Skretting Chile celebra exitoso cierre de negociación colectiva con Sindicato de Trabajadores - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-05-06T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUUc5dVJrZnhqVUp6RnlzYjZCc3p6QmF6YV9CZ196SVpiclZpTWtNelhFRzFGWEZyY0ZabWhmejI4MDB1Y0pRSW1YSHR3ZllyRWMyenFFb0xfR1BMT0o1VlZfVVBCVE1mbGtfWWdJV3JJUGUxX0hRcEZYSzVoN294SUQtSnYxNzE2MDRpaHJwZWlkNnVQVkJfajJjQkg4bzJHME96R3F1UnR3SW1ldnp4dDlLQk1vYVh6aDBYeGJMTG93QnJDZVRDTXdyUGpUM2tlclpiZllMdFdzNUlMR0lWYUkxT0ZSbGxSUXA4?oc=5\" target=\"_blank\">Skretting Chile celebra exitoso cierre de negociación colectiva con Sindicato de Trabajadores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
     }
   ],
   "share_of_voice": {
@@ -119524,7 +119624,7 @@
         "week": "2024-W06",
         "BioMar": 2,
         "Cargill": 1,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2024-W07",
@@ -119602,7 +119702,7 @@
         "week": "2024-W19",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W20",
@@ -120340,7 +120440,7 @@
         "week": "2026-W40",
         "BioMar": 14,
         "Cargill": 0,
-        "Skretting": 5
+        "Skretting": 6
       }
     ],
     "totals": [
@@ -120354,7 +120454,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1158
+        "count": 1161
       }
     ]
   }
