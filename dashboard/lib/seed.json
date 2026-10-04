@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T00:19:42+00:00",
+  "generated_at": "2026-10-04T11:13:29+00:00",
   "stats": {
-    "mention_count": 3347,
-    "story_count": 2457,
-    "analyzed_count": 1885,
+    "mention_count": 3354,
+    "story_count": 2461,
+    "analyzed_count": 1887,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
   },
@@ -373,6 +373,7 @@
     "mispeces.com",
     "moncloa.com",
     "mundoacuicola.cl",
+    "mynewsdesk.com",
     "navarratelevision.es",
     "news - Mongabay",
     "nord24.no",
@@ -1883,7 +1884,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 10,
+      "pickup_count": 11,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -2898,6 +2899,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3N6THByU3FaRTduUlEwT3dudmtVZU5Ua0FJRl8yYjdONEgyNGI4RDJvS3dCbkNpbG50d2cxeExYZWJxcW5sbEZzTllMMHZLT0ZNSE1YVjBxWDB2V1RHUlRic3I2b1piNXBLeXJwcmQ3UkZNcEk2RjlTMnBOV21jT0xnRDR1VUpETS00Z1h6NA?oc=5\" target=\"_blank\">Går fra Oslo til Trondheimq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tronderbladet.no</font>",
       "first_seen": "2026-07-16T10:00:00+00:00",
       "last_seen": "2026-07-16T10:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2632,
+      "headline": "Mowi posts record second-quarter harvest as earnings rise 23% - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHJTTEEtbHBTSnhyaFN4eDQza1dmT1RwR1pBdDluOFo1TGd4U05sVkNoSk5faU9UZi01U0F4S0wtaWRfdFExTXdwNXVKWWhpVHBobjNpXzY5dktZREdpVW9HdU1NZ2d4UlFvaWhabTJ1Tk1aaWxrT2VNY04yc0ZHdjRCSXR4VFgta3o3SG5MNWNDVDl5S1c3d21OckNKTlJLUVNPYdIBsgFBVV95cUxNV0p6SUlKeFhoMFJMcVhLenpwMTdoX19XZERtdVZmUmlQZnBGbC1VSU9VVjIyZzgyd2Y4ai1TYXE0MDJvY1ZXall4ZmF0QVdTNTBaZmI2T1g3TzEtVE9tajh4RTlHR18wOWYyZ3BKRVRHUE82Y3UzT3hLYjdiNTE1V0NiVWRzdHduTHdWN3R3Tms0MzZzVVVDWWZLemFYRFYxb2FXRWpiQldoVVNZUWZjN0dn?oc=5\" target=\"_blank\">Mowi posts record second-quarter harvest as earnings rise 23%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2026-07-16T07:00:00+00:00",
+      "last_seen": "2026-07-16T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -17351,6 +17366,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2631,
+      "headline": "Interim report – first quarter of 2024 - kommunikasjon.ntb.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEtKSHpuMXBsbHdfNE14Qzg0UnF1ck9zdXNtcmpnWWNsaS16dmF5dS1qUnNQcmJYMlVDNEVfckRmY1dzSDEtZUJjZ2pQS0JFWEctVF9ObUUtaDB4dmdoOTlDd05RMUhKN3hnQ25uaUxNaW9vWGpSbTVRZ2k5Y1VxSTJIa3h3dWFGN0VHQ3dScGp3ZlA3NUpHcTVMYWJPa3pUcEpDRE00SndQMGxi?oc=5\" target=\"_blank\">Interim report – first quarter of 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kommunikasjon.ntb.no</font>",
+      "first_seen": "2024-04-30T07:00:00+00:00",
+      "last_seen": "2024-04-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1839,
       "headline": "BioMar's Henning Laugen has passed away - SalmonBusiness",
       "story_summary": "BioMar employee Henning Laugen has passed away. The article appears to be a brief obituary or death notice for the individual.",
@@ -17995,6 +18024,20 @@
       "company": "BioMar"
     },
     {
+      "id": 589,
+      "headline": "Skretting Chile conmemora el Mes de la Mujer con variada programación - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzNyeVM0cXFmS2dZY3lybWFTWlRoUTdwM2hBX1RJQkg4SXF6Z3RNa3ljamZFYmNMWFBINnh4eFhiRHZCVU8xS2UtNTBXT1I5NUpfeDFSbUtZMVZFVDRnRzhhaG5rTUZYekhzNTZ4SWdqSzU1aW1GUTdreENWcjlQaU9DRGRMaFFXTzQ5cHItU3dadlp0?oc=5\" target=\"_blank\">Skretting Chile conmemora el Mes de la Mujer con variada programación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2024-03-04T08:00:00+00:00",
+      "last_seen": "2024-03-08T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 913,
       "headline": "Skretting og Cargill om fôrutfordringer: – Vi må «get our act together» - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjJkX0RmVXdIRVZMOFdUX19oaDYzTDJIM0lGOHNIMTBqamNiMmVpNlhOUUNsVy1INUZKbDRjWms2TDVXZF80YktHYUdXSkxlc3l4NVhrNk1IcHNsS1phQk1lVGxFa2RSTnlyNXJkcEIzZ1V2eXVTQ05LZVNPYzJ2b05TX1lYNjZzZ2hFbg?oc=5\" target=\"_blank\">Skretting og Cargill om fôrutfordringer: – Vi må «get our act together»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -18050,20 +18093,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
-    },
-    {
-      "id": 589,
-      "headline": "Skretting Chile conmemora el Mes de la Mujer con variada programación - aqua.cl",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzNyeVM0cXFmS2dZY3lybWFTWlRoUTdwM2hBX1RJQkg4SXF6Z3RNa3ljamZFYmNMWFBINnh4eFhiRHZCVU8xS2UtNTBXT1I5NUpfeDFSbUtZMVZFVDRnRzhhaG5rTUZYekhzNTZ4SWdqSzU1aW1GUTdreENWcjlQaU9DRGRMaFFXTzQ5cHItU3dadlp0?oc=5\" target=\"_blank\">Skretting Chile conmemora el Mes de la Mujer con variada programación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
-      "first_seen": "2024-03-04T08:00:00+00:00",
-      "last_seen": "2024-03-04T08:00:00+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "Skretting"
     },
     {
       "id": 588,
@@ -18190,6 +18219,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2630,
+      "headline": "Skretting launches a new premium feed for barramundi - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUpPWjZJME56U0pHZGgwQ2ppeEd4WVBTQkFWekdnRmpVelBJYWVnUjdJblNYUmxHNjdvZVlTdkVPWjNkR3VqdFFuclQ5Y0JVc2NtUEpuRWZWSlRyMEhoM3Y1VUNqXzBIeGNVVkhVNTJiUTdjSVZXUTZieWh5Rm9zdnlybG9GVk1Qb1o2ZDJlbHpWVlMtcGfSAaMBQVVfeXFMTnVpc2xuWTNJbGNLVDJGRFd0eHY0Q0hqRUVtSEx3Ry1Ha1MxcHE0N3B4Zzl2X3hKUVZrSUFucWNkZ0tuZUw1bGdYakJKa2h1SmF1TWY3d2FCM1VNZDlRb2JCemVwM0sydUkxZlVtb090enhuTW9kUmFwdnZ5MjU0RzlDVEhWSUdHcFNmbF84V3VRVWk2STZ1ai1aRHR0U3R2WUY1SQ?oc=5\" target=\"_blank\">Skretting launches a new premium feed for barramundi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2024-02-13T08:00:00+00:00",
+      "last_seen": "2024-02-13T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 587,
@@ -24075,15 +24118,15 @@
     },
     {
       "id": 2484,
-      "headline": "Redusert sårutvikling på Helgeland - Kyst.no",
-      "story_summary": "The article reports on reduced fry development in the Helgeland region, an aquaculture area in Norway. BioMar is mentioned in connection with feed products used in the region but is not the primary focus of the coverage.",
+      "headline": "Redusert sårutvikling på Helgeland - mynewsdesk.com",
+      "story_summary": "The article reports on reduced fry development in the Helgeland region, likely relating to aquaculture operations. BioMar is mentioned in connection with feed or fish farming activities in the area but is not the primary focus of the coverage.",
       "first_seen": "2021-09-08T07:00:00+00:00",
       "last_seen": "2021-09-08T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -32303,6 +32346,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQlM3WXN6Mk4td3IxeTJqbTNmR0RQcktOTWp2QVhBNGdwWDAycWQwZEhRMWUwR2NFRHVQaEcya0lxaGl6ckYtZGVTVDF2cURSUGpGU1VCeVgxNWRaSFdDMEFIVjJQTWdaWXRfR1dPNnVmbW9oUy1Ma0dHRXhoSlk2SHJsN0tUS2tXZDJIMExFa1RkVGhVcjR5a01WSHhNZw?oc=5\" target=\"_blank\">EWOS lanza primera App para industria salmonicultora</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2016-02-23T08:00:00+00:00",
       "last_seen": "2016-02-23T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 2629,
+      "headline": "“La adquisición de EWOS por parte de Cargill ha transformado el sector” - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVdkZkhINUJ4NVpnWlBOd0NpMHVyODVaR25JNDU3b0RQUTREWHE4X3Nnal9Na1N0MmtSdFY2WHQyblB4T0UxRXliZFBoLV96S0JQYTl1RThVbzN4YVdlYlhaTF8yX2hFdFBDbnZJeV9Mb0ZwZU50NWJOdWtrc3dTY1ZUZmZ2a1VrdzR2Nm1DSnZ2TWRLLXJTc1Q4d0ZtYVVnQUhvQ3FXOVY?oc=5\" target=\"_blank\">“La adquisición de EWOS por parte de Cargill ha transformado el sector”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2016-02-18T08:00:00+00:00",
+      "last_seen": "2016-02-18T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -116505,6 +116562,177 @@
         "none"
       ],
       "summary": "Simply Wall Street published a stock analysis covering Aktieselskabet Schouw, the Danish industrial conglomerate listed on CPSE under ticker SCHO. The article provides investment analysis of the parent company that owns BioMar Group among its subsidiaries. The article appears to be a standard equity research piece without specific sentiment indicated in the available text. Detailed content beyond the headline and metadata was not provided for deeper analysis of key claims or specific angles taken regarding the company's financial performance or prospects."
+    },
+    {
+      "id": 633892,
+      "story_id": 2484,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnRYRXIzNFRHUDdlbl9pT3Y3Mkt4X2hSQ3AwNzBxNG5RNGUtOFBjdkpaYUlMSE5lc25mLWlPRVFKVDhmUjgxNmphbVV6Y0VuN0JGMXBUaXVnTzZTc09YT3NKa3p6VjNIQjJrR1RqbFAwcU5XT0ZXckYzeUc2LWdWQUg3SmZob2lYRlYtMWFYSFhRTTFTY1J2RzZ5aw?oc=5",
+      "title": "Redusert sårutvikling på Helgeland - mynewsdesk.com",
+      "source_name": "mynewsdesk.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2021-09-08T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.7,
+      "prominence": "secondary",
+      "angle": "Reduced fry development on Helgeland region",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article reports on reduced fry development in the Helgeland region, likely relating to aquaculture operations. BioMar is mentioned in connection with feed or fish farming activities in the area but is not the primary focus of the coverage."
+    },
+    {
+      "id": 634112,
+      "story_id": 2125,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWl6bnl1MG1TaVppeG45ZThoYzhqOG5RTU9yMlZtVk1fcEIwanVHOUdIWk9LX1E2TWpzbm9GMEgyczg5ZW9IY2VFUlVNTVdyUy1zOU5qejNUVElZYWh5aUJjZm1qeExNVGdFTXk1ODlhdnd1dUl3bkZJYVg5amMzQ3ZPeW8?oc=5",
+      "title": "Schouw & Co. increases its share buy-back programme with up to DKK 170 million - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Schouw & Co expands share buyback programme by DKK 170 million",
+      "key_claims": [
+        "Schouw & Co. has increased its share buy-back programme",
+        "The increased buy-back amount is up to DKK 170 million"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co. has expanded its share buy-back programme with an allocation of up to DKK 170 million. The announcement reflects the parent company's capital allocation strategy and confidence in its financial position."
+    },
+    {
+      "id": 634214,
+      "story_id": 2631,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEtKSHpuMXBsbHdfNE14Qzg0UnF1ck9zdXNtcmpnWWNsaS16dmF5dS1qUnNQcmJYMlVDNEVfckRmY1dzSDEtZUJjZ2pQS0JFWEctVF9ObUUtaDB4dmdoOTlDd05RMUhKN3hnQ25uaUxNaW9vWGpSbTVRZ2k5Y1VxSTJIa3h3dWFGN0VHQ3dScGp3ZlA3NUpHcTVMYWJPa3pUcEpDRE00SndQMGxi?oc=5",
+      "title": "Interim report – first quarter of 2024 - kommunikasjon.ntb.no",
+      "source_name": "kommunikasjon.ntb.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-04-30T07:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEtKSHpuMXBsbHdfNE14Qzg0UnF1ck9zdXNtcmpnWWNsaS16dmF5dS1qUnNQcmJYMlVDNEVfckRmY1dzSDEtZUJjZ2pQS0JFWEctVF9ObUUtaDB4dmdoOTlDd05RMUhKN3hnQ25uaUxNaW9vWGpSbTVRZ2k5Y1VxSTJIa3h3dWFGN0VHQ3dScGp3ZlA3NUpHcTVMYWJPa3pUcEpDRE00SndQMGxi?oc=5\" target=\"_blank\">Interim report – first quarter of 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kommunikasjon.ntb.no</font>"
+    },
+    {
+      "id": 634269,
+      "story_id": 2632,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHJTTEEtbHBTSnhyaFN4eDQza1dmT1RwR1pBdDluOFo1TGd4U05sVkNoSk5faU9UZi01U0F4S0wtaWRfdFExTXdwNXVKWWhpVHBobjNpXzY5dktZREdpVW9HdU1NZ2d4UlFvaWhabTJ1Tk1aaWxrT2VNY04yc0ZHdjRCSXR4VFgta3o3SG5MNWNDVDl5S1c3d21OckNKTlJLUVNPYdIBsgFBVV95cUxNV0p6SUlKeFhoMFJMcVhLenpwMTdoX19XZERtdVZmUmlQZnBGbC1VSU9VVjIyZzgyd2Y4ai1TYXE0MDJvY1ZXall4ZmF0QVdTNTBaZmI2T1g3TzEtVE9tajh4RTlHR18wOWYyZ3BKRVRHUE82Y3UzT3hLYjdiNTE1V0NiVWRzdHduTHdWN3R3Tms0MzZzVVVDWWZLemFYRFYxb2FXRWpiQldoVVNZUWZjN0dn?oc=5",
+      "title": "Mowi posts record second-quarter harvest as earnings rise 23% - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHJTTEEtbHBTSnhyaFN4eDQza1dmT1RwR1pBdDluOFo1TGd4U05sVkNoSk5faU9UZi01U0F4S0wtaWRfdFExTXdwNXVKWWhpVHBobjNpXzY5dktZREdpVW9HdU1NZ2d4UlFvaWhabTJ1Tk1aaWxrT2VNY04yc0ZHdjRCSXR4VFgta3o3SG5MNWNDVDl5S1c3d21OckNKTlJLUVNPYdIBsgFBVV95cUxNV0p6SUlKeFhoMFJMcVhLenpwMTdoX19XZERtdVZmUmlQZnBGbC1VSU9VVjIyZzgyd2Y4ai1TYXE0MDJvY1ZXall4ZmF0QVdTNTBaZmI2T1g3TzEtVE9tajh4RTlHR18wOWYyZ3BKRVRHUE82Y3UzT3hLYjdiNTE1V0NiVWRzdHduTHdWN3R3Tms0MzZzVVVDWWZLemFYRFYxb2FXRWpiQldoVVNZUWZjN0dn?oc=5\" target=\"_blank\">Mowi posts record second-quarter harvest as earnings rise 23%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 634299,
+      "story_id": 2630,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUpPWjZJME56U0pHZGgwQ2ppeEd4WVBTQkFWekdnRmpVelBJYWVnUjdJblNYUmxHNjdvZVlTdkVPWjNkR3VqdFFuclQ5Y0JVc2NtUEpuRWZWSlRyMEhoM3Y1VUNqXzBIeGNVVkhVNTJiUTdjSVZXUTZieWh5Rm9zdnlybG9GVk1Qb1o2ZDJlbHpWVlMtcGfSAaMBQVVfeXFMTnVpc2xuWTNJbGNLVDJGRFd0eHY0Q0hqRUVtSEx3Ry1Ha1MxcHE0N3B4Zzl2X3hKUVZrSUFucWNkZ0tuZUw1bGdYakJKa2h1SmF1TWY3d2FCM1VNZDlRb2JCemVwM0sydUkxZlVtb090enhuTW9kUmFwdnZ5MjU0RzlDVEhWSUdHcFNmbF84V3VRVWk2STZ1ai1aRHR0U3R2WUY1SQ?oc=5",
+      "title": "Skretting launches a new premium feed for barramundi - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2024-02-13T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUpPWjZJME56U0pHZGgwQ2ppeEd4WVBTQkFWekdnRmpVelBJYWVnUjdJblNYUmxHNjdvZVlTdkVPWjNkR3VqdFFuclQ5Y0JVc2NtUEpuRWZWSlRyMEhoM3Y1VUNqXzBIeGNVVkhVNTJiUTdjSVZXUTZieWh5Rm9zdnlybG9GVk1Qb1o2ZDJlbHpWVlMtcGfSAaMBQVVfeXFMTnVpc2xuWTNJbGNLVDJGRFd0eHY0Q0hqRUVtSEx3Ry1Ha1MxcHE0N3B4Zzl2X3hKUVZrSUFucWNkZ0tuZUw1bGdYakJKa2h1SmF1TWY3d2FCM1VNZDlRb2JCemVwM0sydUkxZlVtb090enhuTW9kUmFwdnZ5MjU0RzlDVEhWSUdHcFNmbF84V3VRVWk2STZ1ai1aRHR0U3R2WUY1SQ?oc=5\" target=\"_blank\">Skretting launches a new premium feed for barramundi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 634616,
+      "story_id": 589,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZG9qb0E5RktCZW1reFRvbEViZ3RZUXF3S1lZYTZRMDJMR2d5QWtmZUlWd0tLYllhbkZvNmpsNE9QQ0k0UTVuR0Y0Rld6ZGFYYTdBbDdGc1IzZ0pWVndRU243UUM4SEpMRVFpVi0xNHBmRy14VzZLSXhIUUFsNWlRNHNYdUNHUDR6eThKT0tsWHY5djVldE80Zl9zc0lCYVRnMUZ0V20yMlMyWG85dGZIN3M4OWRGMXVZRnNNTWFsUzZOU3lDOWFreGh6eWRHMVlvMDhhc1dlb2Z2U1E3bXZTdmROSEdSUmFxd2RUOGU0SEFYeURQZ21xZHJQbFRTUQ?oc=5",
+      "title": "Skretting Chile conmemora el Mes de la Mujer con acciones concretas para avanzar hacia la equidad de género - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-03-08T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZG9qb0E5RktCZW1reFRvbEViZ3RZUXF3S1lZYTZRMDJMR2d5QWtmZUlWd0tLYllhbkZvNmpsNE9QQ0k0UTVuR0Y0Rld6ZGFYYTdBbDdGc1IzZ0pWVndRU243UUM4SEpMRVFpVi0xNHBmRy14VzZLSXhIUUFsNWlRNHNYdUNHUDR6eThKT0tsWHY5djVldE80Zl9zc0lCYVRnMUZ0V20yMlMyWG85dGZIN3M4OWRGMXVZRnNNTWFsUzZOU3lDOWFreGh6eWRHMVlvMDhhc1dlb2Z2U1E3bXZTdmROSEdSUmFxd2RUOGU0SEFYeURQZ21xZHJQbFRTUQ?oc=5\" target=\"_blank\">Skretting Chile conmemora el Mes de la Mujer con acciones concretas para avanzar hacia la equidad de género</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 634734,
+      "story_id": 2629,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVdkZkhINUJ4NVpnWlBOd0NpMHVyODVaR25JNDU3b0RQUTREWHE4X3Nnal9Na1N0MmtSdFY2WHQyblB4T0UxRXliZFBoLV96S0JQYTl1RThVbzN4YVdlYlhaTF8yX2hFdFBDbnZJeV9Mb0ZwZU50NWJOdWtrc3dTY1ZUZmZ2a1VrdzR2Nm1DSnZ2TWRLLXJTc1Q4d0ZtYVVnQUhvQ3FXOVY?oc=5",
+      "title": "“La adquisición de EWOS por parte de Cargill ha transformado el sector” - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2016-02-18T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVdkZkhINUJ4NVpnWlBOd0NpMHVyODVaR25JNDU3b0RQUTREWHE4X3Nnal9Na1N0MmtSdFY2WHQyblB4T0UxRXliZFBoLV96S0JQYTl1RThVbzN4YVdlYlhaTF8yX2hFdFBDbnZJeV9Mb0ZwZU50NWJOdWtrc3dTY1ZUZmZ2a1VrdzR2Nm1DSnZ2TWRLLXJTc1Q4d0ZtYVVnQUhvQ3FXOVY?oc=5\" target=\"_blank\">“La adquisición de EWOS por parte de Cargill ha transformado el sector”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -117219,7 +117447,7 @@
       {
         "week": "2016-W07",
         "BioMar": 2,
-        "Cargill": 1,
+        "Cargill": 2,
         "Skretting": 0
       },
       {
@@ -118604,7 +118832,7 @@
       },
       {
         "week": "2021-W36",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 5
       },
@@ -119299,6 +119527,12 @@
         "Skretting": 6
       },
       {
+        "week": "2024-W07",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
+      },
+      {
         "week": "2024-W08",
         "BioMar": 4,
         "Cargill": 0,
@@ -119314,7 +119548,7 @@
         "week": "2024-W10",
         "BioMar": 3,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W11",
@@ -119360,7 +119594,7 @@
       },
       {
         "week": "2024-W18",
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 0,
         "Skretting": 0
       },
@@ -120040,7 +120274,7 @@
         "week": "2026-W29",
         "BioMar": 8,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2026-W30",
@@ -120062,7 +120296,7 @@
       },
       {
         "week": "2026-W33",
-        "BioMar": 83,
+        "BioMar": 84,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -120112,15 +120346,15 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1885
+        "count": 1888
       },
       {
         "company": "Cargill",
-        "count": 307
+        "count": 308
       },
       {
         "company": "Skretting",
-        "count": 1155
+        "count": 1158
       }
     ]
   }
