@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T00:24:11+00:00",
+  "generated_at": "2026-10-05T12:29:40+00:00",
   "stats": {
-    "mention_count": 3359,
-    "story_count": 2465,
-    "analyzed_count": 1888,
+    "mention_count": 3362,
+    "story_count": 2466,
+    "analyzed_count": 1889,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
   },
@@ -10536,7 +10536,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -19202,6 +19202,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2637,
+      "headline": "[LA + LEÍDA EL LUNES] CEO de BioMar Group confirmó cambios organizacionales y anuncia reestructuraciones - aqua.cl",
+      "story_summary": "The CEO of BioMar Group has confirmed organizational changes and announced restructuring initiatives affecting the company. The announcement appears to be a significant strategic development for the aquaculture feed producer's operations and structure.",
+      "first_seen": "2023-11-06T08:00:00+00:00",
+      "last_seen": "2023-11-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2192,
       "headline": "BioMar forma una nueva sociedad - Salmonexpert",
       "story_summary": "BioMar has formed a new business partnership or joint venture, though specific details of the arrangement are not provided in the available summary. The announcement represents a strategic initiative by the aquaculture feed producer to expand its business operations or market presence through this new entity.",
@@ -26561,12 +26575,12 @@
       "headline": "Skretting Chile reconoce a centros de cultivo de salmón Top 2019 - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVBKT3diSE9ndWRWVG9FQklKSjc5UU5NMlkyTWFOQ2tmbHZ6aXhfSDRtR1MwUThRbkVrM0RibmpWR2xuUWpyMUxUdXo5MG1GMlVaeEhpX3FwR3ZLSUgySGppRThNTFVvT3BPalJsWWUzVTNnSEZJOUdXaVJreDBXZ3VVM2hhVjdYWlc5YU5IYVdBbFFYeGJkMm52ZnFtY1NTcGNBTWw0enh5Yy00cF9xUFJxdzkyZ0JNQThvUGEtbFJsWDN1?oc=5\" target=\"_blank\">Skretting Chile reconoce a centros de cultivo de salmón Top 2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2020-05-11T07:00:00+00:00",
-      "last_seen": "2020-05-11T07:00:00+00:00",
+      "last_seen": "2020-05-13T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -116910,6 +116924,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE56UmE1TDhXcEZRdkxxRFc2VEJkVGt0UjRDOFFGSTFpRFduZ0hTQkJSZ0FPRm5hUUVIRkhWcjFEdVVNV0pOZXEtZlVMdXY1OE5yNzZoVHl4cldaLVFNTXpXX29kTDhPV3hBakhJamlBNVJjRU90aTZnSDRiY9IBiAFBVV95cUxQQUNESDlWcVVyaXc1ZVNrWXpxSDlWdFZsbmZTbnhsWGR1TW1qQWZJQTVFMzVfZnFiWkFRR3A5RldaUzRkYjJybm05NVBjU00tRGpVejJ1bWVVZVdXcG44cjFZOTB5bENxRERlbVpIUlhPOXRRVTg2bVY2VndZUUJTRm52bDNFX2JZ?oc=5\" target=\"_blank\">Skretting's next CEO gets on with it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 638227,
+      "story_id": 2637,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk56Uzg0V0pHNUFsd1Njc1BXTEZSUE53SnZMMlg4TWp2cW1KOWs4QmF4dlFpRERzNnJUeFNTUnBLTUpFdEZaZmpuaWNDMEZsOS1ESlF1WGJQeDFRVXgyYnZXX0F5UThDSmw0c1ItdUpiS01FUUh4NF91NFVUWHNteTk2UXo0RTRnanhhSTFDN2NlQkhRemZVX2dyMVVBOWd5UjIyT25n?oc=5",
+      "title": "[LA + LEÍDA EL LUNES] CEO de BioMar Group confirmó cambios organizacionales y anuncia reestructuraciones - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-11-06T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar CEO announces organizational changes and restructuring",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The CEO of BioMar Group has confirmed organizational changes and announced restructuring initiatives affecting the company. The announcement appears to be a significant strategic development for the aquaculture feed producer's operations and structure."
+    },
+    {
+      "id": 638757,
+      "story_id": 744,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QcEExLWxZUVgtWjlYbXpCUVdkQWp3QVVNLWZBdlNKb1l5cEVJREZYam15RWlJdDVWbWsyV1pfc0dUOWV1TC1nT2tydFJlMUVuN243aWpYemRWR0liX3dld0d2ZXFpTG9ZX3pZcVZYQXJPWnhPSzZyYVFRMA?oc=5",
+      "title": "Skretting Turkey se ampara en certificados dudosos - Western Sahara Resource Watch",
+      "source_name": "Western Sahara Resource Watch",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-11-13T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5QcEExLWxZUVgtWjlYbXpCUVdkQWp3QVVNLWZBdlNKb1l5cEVJREZYam15RWlJdDVWbWsyV1pfc0dUOWV1TC1nT2tydFJlMUVuN243aWpYemRWR0liX3dld0d2ZXFpTG9ZX3pZcVZYQXJPWnhPSzZyYVFRMA?oc=5\" target=\"_blank\">Skretting Turkey se ampara en certificados dudosos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Western Sahara Resource Watch</font>"
+    },
+    {
+      "id": 638770,
+      "story_id": 2302,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd3R5Y28wa28zcVFRbS1rZXhZdzQza3FvTExwX19mTHlxV0o5d3pZeFRBVjBmeF9OZFJ1eEpwcm82V2pyQVRPemV4Y1lJMzRhSFpFNjAyeklKRXh1MFdMVnNsZHJkU1BaY1JYZTlFV1hvaXNHMXNhSzJLOWFBUUxsRnY1anhLYl9rYjlOU3d4RlloN2dlNjFOcWxxOWpOY1kwd2dlRnNWZU9FYnFMZkg5alJ4UXFJWXRkeFF4T1BBb2ZLM1JSeGthQkVB?oc=5",
+      "title": "Skretting Chile da inicio hoy a un nuevo ciclo de Fish Great Talks - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2020-05-13T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNd3R5Y28wa28zcVFRbS1rZXhZdzQza3FvTExwX19mTHlxV0o5d3pZeFRBVjBmeF9OZFJ1eEpwcm82V2pyQVRPemV4Y1lJMzRhSFpFNjAyeklKRXh1MFdMVnNsZHJkU1BaY1JYZTlFV1hvaXNHMXNhSzJLOWFBUUxsRnY1anhLYl9rYjlOU3d4RlloN2dlNjFOcWxxOWpOY1kwd2dlRnNWZU9FYnFMZkg5alJ4UXFJWXRkeFF4T1BBb2ZLM1JSeGthQkVB?oc=5\" target=\"_blank\">Skretting Chile da inicio hoy a un nuevo ciclo de Fish Great Talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -118663,7 +118749,7 @@
         "week": "2020-W20",
         "BioMar": 0,
         "Cargill": 1,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2020-W21",
@@ -119621,7 +119707,7 @@
       },
       {
         "week": "2023-W45",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 0
       },
@@ -120241,7 +120327,7 @@
         "week": "2025-W46",
         "BioMar": 15,
         "Cargill": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2025-W47",
@@ -120523,7 +120609,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1888
+        "count": 1889
       },
       {
         "company": "Cargill",
@@ -120531,7 +120617,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1163
+        "count": 1165
       }
     ]
   }
