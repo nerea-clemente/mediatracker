@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T16:03:16+00:00",
+  "generated_at": "2026-10-06T20:49:52+00:00",
   "stats": {
-    "mention_count": 3372,
-    "story_count": 2475,
-    "analyzed_count": 1895,
+    "mention_count": 3376,
+    "story_count": 2479,
+    "analyzed_count": 1896,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
   },
@@ -405,6 +405,20 @@
     "webull.com"
   ],
   "stories": [
+    {
+      "id": 2650,
+      "headline": "Gro (60) får navnet på sitt eget skip - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa2JyX2RDZTdHUUgxTW5DVEtINkV3N3dNRURpcFowVjhRUUxxalpvdDluOFg2VXBXWlpOa2YxVDEwLXpaM0taRk1pczFCU3RySDRJMDFTelNzOXdZMi1RVXBxc01nc01DTDFHVEVJSFA4eDFCaElhMnF2M2VLelM5R1E2M1NlQXpr?oc=5\" target=\"_blank\">Gro (60) får navnet på sitt eget skip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-10-06T17:39:46+00:00",
+      "last_seen": "2026-10-06T17:39:46+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2646,
       "headline": "Klimakrise og overfiske tvinger fôrindustrien til å gi laksen kylling - Norsk Landbruk",
@@ -17803,6 +17817,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2649,
+      "headline": "Annual general meeting of Aktieselskabet Schouw & Co. - NTB Kommunikasjon",
+      "story_summary": "Aktieselskabet Schouw & Co held its annual general meeting on the date specified. The article is a formal announcement of the AGM event from the company or its communications channel (NTB Kommunikasjon).",
+      "first_seen": "2024-04-10T07:00:00+00:00",
+      "last_seen": "2024-04-10T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 594,
       "headline": "Dual resignation of Skretting, Nutreco CEOs; Mike Kocsis named GSA CEO - SeafoodSource",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPUVZyWU1OSEJtRE5KTlNsZ0JpN1J0WkFheTUxN0RwRjB1UTVqQWNfdEdHTG5iUk5JS0J0bXphTDlJQlVKaHFpM2xIRkVrdU53Y2NGSDZocGFTRXM3TXdRQkJTTTVkaXpnRmRQLXpuNlFpSXM2cXh5SDFaU1ZGYmdOWDBuUGlHQWZwMDJBc3RZV2pWelNEUEhYN3cyV05iTlpuclpBLUxIRElFMHBkNTlLbHljR09KSU5ld0d3SzgtYnRlNF9saTNFeTA3VVUyQzZFYXlvSXlMSHppZWhBVVZCQlpvZUM0blp5WTZiaHRGZGFxZkw0MDQ5clhiNTF6Mlowcmc?oc=5\" target=\"_blank\">Dual resignation of Skretting, Nutreco CEOs; Mike Kocsis named GSA CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
@@ -22274,6 +22302,20 @@
       "id": 1910,
       "headline": "Jorge Díaz, Skretting: La acuicultura tiene sus desafíos, pero nosotros tenemos soluciones - misPeces",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFFoYUJDcjVjTDJrNy1VcHVQWG14Y3FrTm1obm9TTFl4RUd3eFh2aVRIc2UySlRyU0JyT3M3MUVsN3lnM3N4Zk5KSWlCaWhNWlN5bzhzbFF1QThRenFnbHVhZnVHTEVOYzNzbFQta1lENXYwNWVVNEVBekwyQVVUVmhKWEN2ZnRUbkM4OXNOR29fREhrTmI5WllyZ3hmUzlZWVFVWHpRTjFBZVlnWnhfVnZZZ2liSmh5bTk5NTNGQQ?oc=5\" target=\"_blank\">Jorge Díaz, Skretting: La acuicultura tiene sus desafíos, pero nosotros tenemos soluciones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2022-08-04T07:00:00+00:00",
+      "last_seen": "2022-08-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2648,
+      "headline": "Skretting charts a vessel to streamline delivery services and increase its commitment to Australia and New Zealand aquaculture - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zTG5KNDdUOHNROFN6UjBVcGt5ZFNtNTF1RnJyNFQxZXdnaFV6djZNWVJySk9FRnc0OVdnekZORlJNR0lLNDM3RDVlSndvMkl10gFeQVVfeXFMUE1RdkFoVkVHS0lDUUJSN2Z3aHZNeDBOVHlPSHNHRHc1UkxxZDJjWWhjb29TQ2dremcxSWt5NmZPdVM0dUJ0TGs2TGs0UDRvTkE4WGIzNWVTSVJlTW1DZw?oc=5\" target=\"_blank\">Skretting charts a vessel to streamline delivery services and increase its commitment to Australia and New Zealand aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
       "first_seen": "2022-08-04T07:00:00+00:00",
       "last_seen": "2022-08-04T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -31922,6 +31964,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2647,
+      "headline": "Cargill será parte de Aquasur 2016 - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQNVkyaVcyaGxtTDA0UXY3UXhmMnBwem1nbkRUOWVFVDJmbWItMzM1NGFTOE5qVWdnUTF6aDI4ZUcxMjBmRTNhV3R1SEZvTEgzZEdXSHZVaFRRejlLSW81MjJxakxnN2h6MVpRMW5XY29Td0J2bERWM2gzNjcydTFBbVlEZUdxQlR3TVZfYWozT19WSU9zaWo4eXJlTXV2Zw?oc=5\" target=\"_blank\">Cargill será parte de Aquasur 2016</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2016-10-14T07:00:00+00:00",
+      "last_seen": "2016-10-14T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1810,
@@ -117369,6 +117425,102 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQZDZvcDRIUm9rLTJyZHJJRHcwZ3dLYzhNLUpub0tHdGQwcXp1RlA3dlBJeklhN0RiaUdMcWVBSF81b3hZN1BDNVhCSUtGTW5IT1ZfME1nSnhBZC1QM0hUSklzdk51dUxTbWU4Y1g0WEFRYy0xVDhldjBJVlpuV1ZGMzNKUEJkVWhLak80LTFXZw?oc=5\" target=\"_blank\">Klimakrise og overfiske tvinger fôrindustrien til å gi laksen kylling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Norsk Landbruk</font>"
+    },
+    {
+      "id": 644486,
+      "story_id": 2649,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTVN0ZjdWdlZEZWoza0c0NEYyb3FJV250T0tQSE5IU2JiWWhIcFBCSzFNVU1FTTg5bm1pQ1llbUM0U3E0cXRtOEJDX1hOZnBYLUlEX241Mzk5UlV2ZWVBTnlFNThja3dYMGt6azBuVml2LTRET2ljRXBjSXJQRWdOZk5YelBpYjFkZU9hcWJlY2RaTm0zOGd0X3Z3OFNsbV8tZDNNYmVtcllTVUpMSVNmbkxXdGpiZ3N5d0FMeE1VQQ?oc=5",
+      "title": "Annual general meeting of Aktieselskabet Schouw & Co. - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2024-04-10T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co holds annual general meeting",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Aktieselskabet Schouw & Co held its annual general meeting on the date specified. The article is a formal announcement of the AGM event from the company or its communications channel (NTB Kommunikasjon)."
+    },
+    {
+      "id": 644666,
+      "story_id": 2648,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zTG5KNDdUOHNROFN6UjBVcGt5ZFNtNTF1RnJyNFQxZXdnaFV6djZNWVJySk9FRnc0OVdnekZORlJNR0lLNDM3RDVlSndvMkl10gFeQVVfeXFMUE1RdkFoVkVHS0lDUUJSN2Z3aHZNeDBOVHlPSHNHRHc1UkxxZDJjWWhjb29TQ2dremcxSWt5NmZPdVM0dUJ0TGs2TGs0UDRvTkE4WGIzNWVTSVJlTW1DZw?oc=5",
+      "title": "Skretting charts a vessel to streamline delivery services and increase its commitment to Australia and New Zealand aquaculture - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2022-08-04T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zTG5KNDdUOHNROFN6UjBVcGt5ZFNtNTF1RnJyNFQxZXdnaFV6djZNWVJySk9FRnc0OVdnekZORlJNR0lLNDM3RDVlSndvMkl10gFeQVVfeXFMUE1RdkFoVkVHS0lDUUJSN2Z3aHZNeDBOVHlPSHNHRHc1UkxxZDJjWWhjb29TQ2dremcxSWt5NmZPdVM0dUJ0TGs2TGs0UDRvTkE4WGIzNWVTSVJlTW1DZw?oc=5\" target=\"_blank\">Skretting charts a vessel to streamline delivery services and increase its commitment to Australia and New Zealand aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 644667,
+      "story_id": 2650,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa2JyX2RDZTdHUUgxTW5DVEtINkV3N3dNRURpcFowVjhRUUxxalpvdDluOFg2VXBXWlpOa2YxVDEwLXpaM0taRk1pczFCU3RySDRJMDFTelNzOXdZMi1RVXBxc01nc01DTDFHVEVJSFA4eDFCaElhMnF2M2VLelM5R1E2M1NlQXpr?oc=5",
+      "title": "Gro (60) får navnet på sitt eget skip - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-06T17:39:46+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa2JyX2RDZTdHUUgxTW5DVEtINkV3N3dNRURpcFowVjhRUUxxalpvdDluOFg2VXBXWlpOa2YxVDEwLXpaM0taRk1pczFCU3RySDRJMDFTelNzOXdZMi1RVXBxc01nc01DTDFHVEVJSFA4eDFCaElhMnF2M2VLelM5R1E2M1NlQXpr?oc=5\" target=\"_blank\">Gro (60) får navnet på sitt eget skip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 645078,
+      "story_id": 2647,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVkyaVcyaGxtTDA0UXY3UXhmMnBwem1nbkRUOWVFVDJmbWItMzM1NGFTOE5qVWdnUTF6aDI4ZUcxMjBmRTNhV3R1SEZvTEgzZEdXSHZVaFRRejlLSW81MjJxakxnN2h6MVpRMW5XY29Td0J2bERWM2gzNjcydTFBbVlEZUdxQlR3TVZfYWozT19WSU9zaWo4eXJlTXV2Zw?oc=5",
+      "title": "Cargill será parte de Aquasur 2016 - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2016-10-14T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQNVkyaVcyaGxtTDA0UXY3UXhmMnBwem1nbkRUOWVFVDJmbWItMzM1NGFTOE5qVWdnUTF6aDI4ZUcxMjBmRTNhV3R1SEZvTEgzZEdXSHZVaFRRejlLSW81MjJxakxnN2h6MVpRMW5XY29Td0J2bERWM2gzNjcydTFBbVlEZUdxQlR3TVZfYWozT19WSU9zaWo4eXJlTXV2Zw?oc=5\" target=\"_blank\">Cargill será parte de Aquasur 2016</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -118245,7 +118397,7 @@
       {
         "week": "2016-W41",
         "BioMar": 2,
-        "Cargill": 0,
+        "Cargill": 1,
         "Skretting": 0
       },
       {
@@ -119728,7 +119880,7 @@
         "week": "2022-W31",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2022-W32",
@@ -120212,7 +120364,7 @@
       },
       {
         "week": "2024-W15",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 8
       },
@@ -120982,21 +121134,21 @@
         "week": "2026-W41",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1895
+        "count": 1896
       },
       {
         "company": "Cargill",
-        "count": 308
+        "count": 309
       },
       {
         "company": "Skretting",
-        "count": 1169
+        "count": 1171
       }
     ]
   }
