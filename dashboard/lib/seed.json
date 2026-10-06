@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T02:02:00+00:00",
+  "generated_at": "2026-10-06T12:10:25+00:00",
   "stats": {
-    "mention_count": 3367,
-    "story_count": 2471,
-    "analyzed_count": 1892,
+    "mention_count": 3372,
+    "story_count": 2475,
+    "analyzed_count": 1895,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
   },
@@ -219,6 +219,7 @@
     "News Dakota",
     "Norges idrettsforbund",
     "Norsk Byggebransje",
+    "Norsk Landbruk",
     "Norsk Lokalradioforbund",
     "Noticias de Gipuzkoa",
     "Noticias de Navarra",
@@ -318,6 +319,7 @@
     "WageIndicator",
     "Western Sahara Resource Watch",
     "World-Grain.com",
+    "Yahoo",
     "Yahoo Finance",
     "Yahoo Finance Australia",
     "Yahoo Finance Singapore",
@@ -404,16 +406,30 @@
   ],
   "stories": [
     {
+      "id": 2646,
+      "headline": "Klimakrise og overfiske tvinger fôrindustrien til å gi laksen kylling - Norsk Landbruk",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQZDZvcDRIUm9rLTJyZHJJRHcwZ3dLYzhNLUpub0tHdGQwcXp1RlA3dlBJeklhN0RiaUdMcWVBSF81b3hZN1BDNVhCSUtGTW5IT1ZfME1nSnhBZC1QM0hUSklzdk51dUxTbWU4Y1g0WEFRYy0xVDhldjBJVlpuV1ZGMzNKUEJkVWhLak80LTFXZw?oc=5\" target=\"_blank\">Klimakrise og overfiske tvinger fôrindustrien til å gi laksen kylling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Norsk Landbruk</font>",
+      "first_seen": "2026-10-06T08:08:24+00:00",
+      "last_seen": "2026-10-06T08:08:24+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2638,
-      "headline": "Schouw & Co. share buy-back programme, week 40 2026 - The Manila Times",
-      "story_summary": "Schouw & Co. executed a share buy-back programme during week 40 of 2026. The article reports on this capital allocation activity as part of the company's shareholder management strategy.",
-      "first_seen": "2026-10-05T13:48:38+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 40 2026 - Yahoo Finance",
+      "story_summary": "Schouw & Co. conducted a share buyback programme during week 40 of 2026. The article reports factual details of the parent company's capital allocation activity without commentary or evaluation.",
+      "first_seen": "2026-10-05T13:30:00+00:00",
       "last_seen": "2026-10-05T13:48:38+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -4946,6 +4962,20 @@
       "story_summary": "The article reports on an agreement reached within the fish feed industry. BioMar is mentioned in connection with industry-wide consensus, though details are not fully visible in the provided excerpt.",
       "first_seen": "2026-05-27T23:08:18+00:00",
       "last_seen": "2026-05-27T23:08:18+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2645,
+      "headline": "BioMar Group (CPSE:BIOMAR) - Stock Analysis - Simply Wall Street",
+      "story_summary": "Simply Wall Street publishes a stock analysis of BioMar Group (CPSE:BIOMAR), examining the company's financial metrics and investment profile. The article provides fundamental analysis and valuation insights for investors considering the aquaculture feed producer's publicly traded shares on the Copenhagen Stock Exchange Perpétual Securities segment (CPSE).",
+      "first_seen": "2026-05-27T18:20:06+00:00",
+      "last_seen": "2026-05-27T18:20:06+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -13559,6 +13589,20 @@
       "id": 2096,
       "headline": "Former Skretting CEO joins Aquaticode as advisor - The Fish Site",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkhqMTE4MklNWDdSTzZkSHlpcGltZFM3akNEWnh6d2VHSlllbWJVdEN2STZEeHpMQnEzQ3RKcVFNMV9MUXVrMVdCMk5MSmYwYlZuakszQUJFT0NPR2I0Z1lTbHVLeUFsaDFwNnNPNE9NWTVMUWRrdkZfb1ZoZ2k1Vlp2Z1htMjVW?oc=5\" target=\"_blank\">Former Skretting CEO joins Aquaticode as advisor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2025-06-23T07:00:00+00:00",
+      "last_seen": "2025-06-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2644,
+      "headline": "'In every action, we need to be clear on the impact:' Skretting CEO on carbon emission fall, novel ingredients inclusion - intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLUwwRjBYUzdsTXk0ZERyNGl1RGhnMDk2eEhMbHpLRmtGYVQwVjNXYTR1cWRLRXBrZk04T3hjbHNOYm5kcUJCVzNDUWh1ZEd4cUR1NFRvZFhRNVdBOUloUXRtWkVaczlLTEsyTlJ6cEhLSmZBbDVnRDNIR3Y3ZlB1dWVUeWhlV3BpUmg3VDJrUkE2Z2tTUmoyTUFRYW1hSDJhR1J1WFd3aUEzRGJiTzFfeGhORUd2NGhDbDR4Qnh0Tm9MWFZmbURlMVZVMnI4VDNqc01seDdBRUYtc0FjWUc4UlZYd3NUbTFhOGs4RW1xZw?oc=5\" target=\"_blank\">'In every action, we need to be clear on the impact:' Skretting CEO on carbon emission fall, novel ingredients inclusion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>",
       "first_seen": "2025-06-23T07:00:00+00:00",
       "last_seen": "2025-06-23T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -31024,6 +31068,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2643,
+      "headline": "Precio de acciones, noticias, cotización e historial de Aktieselskabet Schouw & Co. (SCHO.CO) - Yahoo",
+      "story_summary": "This is a Yahoo Finance page providing stock price data, news, quotes, and historical trading information for Aktieselskabet Schouw & Co. (ticker: SCHO.CO). The article is a standard financial information page rather than editorial coverage with substantive reporting or analysis.",
+      "first_seen": "2017-07-31T14:24:43+00:00",
+      "last_seen": "2017-07-31T14:24:43+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1963,
@@ -117191,6 +117249,126 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMEYxRWNadXVEdkJvNXkySlBlWXpnZXZDckhCVG5HZ0pkYjQ2aF9fMTVNZ20xUHZpdFptS0gwYTV4MG9XT2RhMDcyLTF4UTZfdGFuYXRzRVdZemFkVmItQW5qNVpIZjVRUmlEU29XMmdncTdYa1A0d2tDdDR4Y1I5YjVTUy1WWHQ1ay1tMTFKOVFnRHNnY3daZVUwRGJYb2hSVU9ieGNhVDNENTR4SkhfUVRQZTVOUUEtR1QyNnlxVExSTVNUajlOLUZsNVZpeWEtNnlWVzd4dFdaaUZN?oc=5\" target=\"_blank\">“Feeding the Future”: debaten hoja de ruta para la salmonicultura del mañana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 642078,
+      "story_id": 2645,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEJUMEtRRnkwM0lkb1JkVm9ucHRzQXVEdDNUUURwTFByRGxnTkJ4WEJFV2o0UHI2M3VJMHJ0WE94LWVWWUtGVVU0SjlVRG5mLXN3SkthYWRHNmxoUzR0UjRuZVhIUmI1VkRXOVMtMHFLbGY5ejhEZnZOajZiOVpqZncwWXdRWjdTVzlYVw?oc=5",
+      "title": "BioMar Group (CPSE:BIOMAR) - Stock Analysis - Simply Wall Street",
+      "source_name": "Simply Wall Street",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-05-27T18:20:06+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Financial analysis and stock valuation of BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Simply Wall Street publishes a stock analysis of BioMar Group (CPSE:BIOMAR), examining the company's financial metrics and investment profile. The article provides fundamental analysis and valuation insights for investors considering the aquaculture feed producer's publicly traded shares on the Copenhagen Stock Exchange Perpétual Securities segment (CPSE)."
+    },
+    {
+      "id": 642403,
+      "story_id": 2638,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlcxb1lfOWNKbjRWQjZMVEIwb0l2Nk1tSEp5UkFUeTFTeE9xc1lKMVJEUUxzN01EY1Z6SHdYVE9wdXJ0bjF4LW51eENDSUpOdWZqMV9tTEpZMjc2eDdtazVYUW1ZTnFzb2d0VVR5djRuenlsOTNyMTl1WktzbFRWakNSd0JyeEpjRGkwT0dacHFrek0?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 40 2026 - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-10-05T13:30:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buyback programme in week 40 2026.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. conducted a share buyback programme during week 40 of 2026. The article reports factual details of the parent company's capital allocation activity without commentary or evaluation."
+    },
+    {
+      "id": 642463,
+      "story_id": 2643,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VSm1uMnlkVTFSdkJuWklYczhBWE1oSm5PVmU5Vm9CM29IRERDN0M5RDlvcTNudjNhSDBURlFtR0Q3b0JWYVpKSnllM3kzblcyREJkLXpR?oc=5",
+      "title": "Precio de acciones, noticias, cotización e historial de Aktieselskabet Schouw & Co. (SCHO.CO) - Yahoo",
+      "source_name": "Yahoo",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2017-07-31T14:24:43+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock price and trading information for Schouw & Co.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance page providing stock price data, news, quotes, and historical trading information for Aktieselskabet Schouw & Co. (ticker: SCHO.CO). The article is a standard financial information page rather than editorial coverage with substantive reporting or analysis."
+    },
+    {
+      "id": 642588,
+      "story_id": 2644,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLUwwRjBYUzdsTXk0ZERyNGl1RGhnMDk2eEhMbHpLRmtGYVQwVjNXYTR1cWRLRXBrZk04T3hjbHNOYm5kcUJCVzNDUWh1ZEd4cUR1NFRvZFhRNVdBOUloUXRtWkVaczlLTEsyTlJ6cEhLSmZBbDVnRDNIR3Y3ZlB1dWVUeWhlV3BpUmg3VDJrUkE2Z2tTUmoyTUFRYW1hSDJhR1J1WFd3aUEzRGJiTzFfeGhORUd2NGhDbDR4Qnh0Tm9MWFZmbURlMVZVMnI4VDNqc01seDdBRUYtc0FjWUc4UlZYd3NUbTFhOGs4RW1xZw?oc=5",
+      "title": "'In every action, we need to be clear on the impact:' Skretting CEO on carbon emission fall, novel ingredients inclusion - intrafish.com",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-06-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLUwwRjBYUzdsTXk0ZERyNGl1RGhnMDk2eEhMbHpLRmtGYVQwVjNXYTR1cWRLRXBrZk04T3hjbHNOYm5kcUJCVzNDUWh1ZEd4cUR1NFRvZFhRNVdBOUloUXRtWkVaczlLTEsyTlJ6cEhLSmZBbDVnRDNIR3Y3ZlB1dWVUeWhlV3BpUmg3VDJrUkE2Z2tTUmoyTUFRYW1hSDJhR1J1WFd3aUEzRGJiTzFfeGhORUd2NGhDbDR4Qnh0Tm9MWFZmbURlMVZVMnI4VDNqc01seDdBRUYtc0FjWUc4UlZYd3NUbTFhOGs4RW1xZw?oc=5\" target=\"_blank\">'In every action, we need to be clear on the impact:' Skretting CEO on carbon emission fall, novel ingredients inclusion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">intrafish.com</font>"
+    },
+    {
+      "id": 642617,
+      "story_id": 2646,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQZDZvcDRIUm9rLTJyZHJJRHcwZ3dLYzhNLUpub0tHdGQwcXp1RlA3dlBJeklhN0RiaUdMcWVBSF81b3hZN1BDNVhCSUtGTW5IT1ZfME1nSnhBZC1QM0hUSklzdk51dUxTbWU4Y1g0WEFRYy0xVDhldjBJVlpuV1ZGMzNKUEJkVWhLak80LTFXZw?oc=5",
+      "title": "Klimakrise og overfiske tvinger fôrindustrien til å gi laksen kylling - Norsk Landbruk",
+      "source_name": "Norsk Landbruk",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-06T08:08:24+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQZDZvcDRIUm9rLTJyZHJJRHcwZ3dLYzhNLUpub0tHdGQwcXp1RlA3dlBJeklhN0RiaUdMcWVBSF81b3hZN1BDNVhCSUtGTW5IT1ZfME1nSnhBZC1QM0hUSklzdk51dUxTbWU4Y1g0WEFRYy0xVDhldjBJVlpuV1ZGMzNKUEJkVWhLak80LTFXZw?oc=5\" target=\"_blank\">Klimakrise og overfiske tvinger fôrindustrien til å gi laksen kylling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Norsk Landbruk</font>"
     }
   ],
   "share_of_voice": {
@@ -118252,7 +118430,7 @@
       },
       {
         "week": "2017-W31",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 1,
         "Skretting": 0
       },
@@ -120402,7 +120580,7 @@
         "week": "2025-W26",
         "BioMar": 2,
         "Cargill": 5,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2025-W27",
@@ -120688,7 +120866,7 @@
       },
       {
         "week": "2026-W22",
-        "BioMar": 49,
+        "BioMar": 50,
         "Cargill": 0,
         "Skretting": 18
       },
@@ -120802,15 +120980,15 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 0
+        "Skretting": 1
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1892
+        "count": 1895
       },
       {
         "company": "Cargill",
@@ -120818,7 +120996,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1167
+        "count": 1169
       }
     ]
   }
