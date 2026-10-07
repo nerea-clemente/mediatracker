@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T20:49:52+00:00",
+  "generated_at": "2026-10-07T01:11:40+00:00",
   "stats": {
-    "mention_count": 3376,
+    "mention_count": 3378,
     "story_count": 2479,
-    "analyzed_count": 1896,
+    "analyzed_count": 1897,
     "off_topic_mentions": 135,
     "off_topic_stories": 85
   },
@@ -443,7 +443,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -11560,7 +11560,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -117521,6 +117521,56 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQNVkyaVcyaGxtTDA0UXY3UXhmMnBwem1nbkRUOWVFVDJmbWItMzM1NGFTOE5qVWdnUTF6aDI4ZUcxMjBmRTNhV3R1SEZvTEgzZEdXSHZVaFRRejlLSW81MjJxakxnN2h6MVpRMW5XY29Td0J2bERWM2gzNjcydTFBbVlEZUdxQlR3TVZfYWozT19WSU9zaWo4eXJlTXV2Zw?oc=5\" target=\"_blank\">Cargill será parte de Aquasur 2016</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 645482,
+      "story_id": 2638,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklLbEZ4T2g2VzZ2X0xvcmlMZ0s0azVnbGt0OERQTDhqRFFrV0lfajZsY0xxVGIwWERLcmwtU1VOQTJySG1adWdVem5QaUFXUHZqcGFUUnVyZ0ptNi0wOXlzbmJRSk9icUd6U2haeWFiamxTUUhTV182Y0lnd2o1SDE3UGRXVEFFV0pwV1Fyb3NZM2VWRTMtQU9EbGJsQk52ZlVYVVI0ZkxLTzFnRTZfSWFQaTVZb205SnIwalNB0gHDAUFVX3lxTE1ZVGplcVl4eVE3dXh2V0d2RVdrTWh5UGVhbHM1T0ZDX213bnlfSGZNcmtiV1JpT1pObEoyY3VVcE8wYVExVF9Ddk9hRzdhUWFrRHY1M3RuSExoZ1dOdDFybXlFb29iWXNJWG90OHZiMDBFOEkza19WWG1BWkRndDRzeldEOEFvMWVOQ3BBcElFajcwTV90M3I2ZjRnaEp2Zm02bEEzdzBmUk9pMW45YkR0QW83QjlybXo1WnBHQnh4V3VhQQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 40 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-10-05T13:48:38+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Schouw & Co. announces share buy-back programme for week 40 2026.",
+      "key_claims": [
+        "Schouw & Co. executed a share buy-back programme during week 40 of 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co. announced a share buy-back programme for week 40 of 2026. The announcement is a standard corporate capital management activity with no indication of controversy or operational issues."
+    },
+    {
+      "id": 645658,
+      "story_id": 718,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTE0Ml83dWN2YzNnaEZ1OWozelNGMmxBQ0hLYXFPUGlyQW5pQjFiaHJCalItaW5tMmVjLThwRE15NFN4ZjNxSkRnMGxaRUh6SjlfWnQyNzNDcFVvOVdxc1FRN1FWSjJfaWtzNndpSHcwV2hQVmZoZzctcUVJaVVKaHNpUHZXTm5tWk9KeG1PdU8zOUcwVlNrcDlFNkVaWTk3Z3FYVHBLN3p6Z0w2?oc=5",
+      "title": "New plant-based Skretting feed aims to improve survival rates across species - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-10-06T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTE0Ml83dWN2YzNnaEZ1OWozelNGMmxBQ0hLYXFPUGlyQW5pQjFiaHJCalItaW5tMmVjLThwRE15NFN4ZjNxSkRnMGxaRUh6SjlfWnQyNzNDcFVvOVdxc1FRN1FWSjJfaWtzNndpSHcwV2hQVmZoZzctcUVJaVVKaHNpUHZXTm5tWk9KeG1PdU8zOUcwVlNrcDlFNkVaWTk3Z3FYVHBLN3p6Z0w2?oc=5\" target=\"_blank\">New plant-based Skretting feed aims to improve survival rates across species</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
     }
   ],
   "share_of_voice": {
@@ -120822,7 +120872,7 @@
         "week": "2025-W41",
         "BioMar": 3,
         "Cargill": 1,
-        "Skretting": 14
+        "Skretting": 15
       },
       {
         "week": "2025-W42",
@@ -121132,7 +121182,7 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Skretting": 2
       }
@@ -121140,7 +121190,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1896
+        "count": 1897
       },
       {
         "company": "Cargill",
@@ -121148,7 +121198,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1171
+        "count": 1172
       }
     ]
   }
