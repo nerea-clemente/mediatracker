@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T01:32:10+00:00",
+  "generated_at": "2026-10-08T12:10:52+00:00",
   "stats": {
-    "mention_count": 3388,
-    "story_count": 2485,
-    "analyzed_count": 1901,
+    "mention_count": 3393,
+    "story_count": 2489,
+    "analyzed_count": 1905,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -237,6 +237,7 @@
     "Pattison Funeral Home",
     "Perishable News",
     "Periódico El Insular",
+    "Pet Food Processing",
     "Portal Innova",
     "PortalPortuario",
     "Quartr",
@@ -273,6 +274,7 @@
     "Stavanger Aftenblad",
     "Stavanger kommune",
     "Strandbuen",
+    "StreetInsider",
     "Superintendencia Del Medio Ambiente",
     "Sydvesten",
     "TV 2",
@@ -406,6 +408,49 @@
   ],
   "stories": [
     {
+      "id": 2660,
+      "headline": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - The Manila Times",
+      "story_summary": "Schouw & Co. hosted a Capital Markets Day to present long-term financial ambitions and EBITDA targets to investors. The event underscores the parent company's strategic focus on financial performance and growth objectives across its portfolio, which includes BioMar Group aquaculture operations among other subsidiaries.  For fuller detail, the article text would need to be reviewed to extract specific targets and executive commentary from the event.  The headline indicates a positive forward-looking corporate message typical of investor relations communications, hence positive sentiment, though confidence is moderate without access to the full article text and specific claims made during the presentation and its reception in the market.  BioMar Group, as a major operating subsidiary of Schouw & Co., would likely be covered or referenced within the strategic and financial context of such an investor presentation, positioning the article as primary coverage of the parent company with direct relevance to BioMar's strategic direction and investor perception.  No specific controversies, product issues, or legal concerns are evident from the headline and lede summary text; the risk flag applied reflects the corporate financial and executive communication nature of the event.  The article's mention of ",
+      "first_seen": "2026-10-08T07:20:55+00:00",
+      "last_seen": "2026-10-08T07:20:55+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2659,
+      "headline": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - StreetInsider",
+      "story_summary": "Schouw & Co, the parent company of BioMar Group, hosted a Capital Markets Day where it announced long-term EBITDA ambitions to investors. The event underscores management's growth strategy and financial targets for the conglomerate.",
+      "first_seen": "2026-10-08T07:17:27+00:00",
+      "last_seen": "2026-10-08T07:17:27+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2658,
+      "headline": "Schouw & Co Targets Consolidated EBITDA Of DKK 4.50 Bln In 2030 - TradingView",
+      "story_summary": "Schouw & Co has announced a consolidated EBITDA target of DKK 4.50 billion for 2030. The announcement reflects the parent company's strategic growth ambitions across its portfolio, which includes BioMar Group.",
+      "first_seen": "2026-10-08T07:04:08+00:00",
+      "last_seen": "2026-10-08T07:04:08+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2655,
       "headline": "Skretting confirma sponsors de Sustainability & Innovation Conference 2026 - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVDVUTXBSYTA4Z0d4U0NaSzFCNmthRldMMWxCVXNwZzNCZ2kwNDFWZXJ5UW55amZXNERpOEZJUXMzREltVnFkYXd1MXVrZzBnVmo3c2QtYnRRNzd3TjV2YjR5N2ZtN1VGWVNsal95TGwwSk5GbkNHc1V6WlVrdENaME9RVmZ3RUg5ZFdXT2k5N0dFd1JjNDE5eUxUWGphS1padEtvaHM2QXdOOUxhUVFvdk84Q1d4UUdhcUlfMzkyNlhobElGNHVjcEFSR3FYakk2bnFzRmREMEU?oc=5\" target=\"_blank\">Skretting confirma sponsors de Sustainability & Innovation Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -494,12 +539,12 @@
       "headline": "Schouw & Co. share buy-back programme, week 40 2026 - Yahoo Finance",
       "story_summary": "Schouw & Co. conducted a share buyback programme during week 40 of 2026. The article reports factual details of the parent company's capital allocation activity without commentary or evaluation.",
       "first_seen": "2026-10-05T13:30:00+00:00",
-      "last_seen": "2026-10-05T13:48:38+00:00",
+      "last_seen": "2026-10-06T04:15:38+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -20672,6 +20717,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2657,
+      "headline": "Mars, Cargill, Skretting to tackle sustainability in fisheries - Pet Food Processing",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOX013LW1VMW5faS1iVlU1LWg2b2lwX2RWQkp1Qk9nUEF2WHF4TUx1eE4yT052ako3RFdxU0U3cDNPam9falpQdVYtZ3RTRFV1NXRfMDhvb2xZd2UtLXpnMjRyS1hnUkpHWjlSZEoxY3FoSXI2X1pydVZhc2drVnJPNW1WMTFCaU9LbzE2TzZxaVlDaGZkSVo4Vk1tTjYwaGhjeUhINVFnSENseUdqdFE?oc=5\" target=\"_blank\">Mars, Cargill, Skretting to tackle sustainability in fisheries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pet Food Processing</font>",
+      "first_seen": "2023-04-28T07:00:00+00:00",
+      "last_seen": "2023-04-28T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 87,
@@ -117897,6 +117956,132 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmZsR3dFb2dDeC1JRGJNRG1WMzJwTWZIRnVuY05SUmtVMXVCdXVXTHBmNjVuNzZQZ09EQmJWR0tsMzdQRUlVSHRoVl9Ea1VvcmY2Sm5NOGhveU1hOXVyeHVTdnNZanJJN2puV3hxeEFOUm9kcExPcDZRbzBZQWY5MVZndmxPVnhoR0hBaE9VcDl2MEVCQWlFNUtaVHBVSF8xckkySGJLbGQxdw?oc=5\" target=\"_blank\">Skretting confirma sponsors de Sustainability & Innovation Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 650633,
+      "story_id": 2660,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSmZlRXlral9YekNTWEt0V0tSeW9rWnJ2NEFCRkprN0VIazMzNUN1TXRKQmp3ZE1jOXVod3g2UXllVnF4VkdFTllPeTZvMHVaMDBWaC1fc3pJdDJNZVR6aFV3LVpnWHdPSVNDV3NZY3EzSVlNdjNXdWtLdE5RNU81SlQ2YWJzQjB6N2FHOUluWHliVmI3T3VYOF96T2NEN2pKV3pSZVRfa3UtNEhwckxqbHh6R0Rtc1lnVTItZVRfTHplb3I2Nld5RzJiVHhob2dpamZBRGpYb3ZnMVBvWnlUN2prMnLSAeoBQVVfeXFMTXUyV1pBZ1JhcXpwb0Z2WC1WR19iSXJWVjl6WlpwUzJGN3dSaGg5cWMtOUtCUXZZWEhkb3lJWGFXSWNLWXdxaGVaak9NNWlXdlM3WGYwTWVSRkxVY3lCbjdOSDRlVldEanF5T3owbm55RzVMQjh4a2VPelhKQkdZXzVlSWtxNHJBcURIbjFBMWlaN1o4c2l6QUFwbll1cGV5ZjB4OG5ZeUZnYmpUWDVLRVliajU0UGhSMEVXX2RqcFRKUDFRQ1R5bXZ0VE9HV3pZRkJ0VVo2RjRPTWJ2U2pzUkRfMGtPSHI4SS1B?oc=5",
+      "title": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-10-08T07:20:55+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces long-term EBITDA growth ambitions at investor event",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. hosted a Capital Markets Day to present long-term financial ambitions and EBITDA targets to investors. The event underscores the parent company's strategic focus on financial performance and growth objectives across its portfolio, which includes BioMar Group aquaculture operations among other subsidiaries.  For fuller detail, the article text would need to be reviewed to extract specific targets and executive commentary from the event.  The headline indicates a positive forward-looking corporate message typical of investor relations communications, hence positive sentiment, though confidence is moderate without access to the full article text and specific claims made during the presentation and its reception in the market.  BioMar Group, as a major operating subsidiary of Schouw & Co., would likely be covered or referenced within the strategic and financial context of such an investor presentation, positioning the article as primary coverage of the parent company with direct relevance to BioMar's strategic direction and investor perception.  No specific controversies, product issues, or legal concerns are evident from the headline and lede summary text; the risk flag applied reflects the corporate financial and executive communication nature of the event.  The article's mention of "
+    },
+    {
+      "id": 650634,
+      "story_id": 2658,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZTQyUnBYdnFyY1d1c0xNM0MxZHRFWjRhMGo2RWR0QURHZzNucncxanZ2enJtRzdJR0tmUkIwdElVN1htM2s1MTRVZ0FwYjQwMmxNajZDX1Z1X0FCbFFRTENOeEtFMnZ5VUFaWS1FUVZUNWkzT3FzVy13R21WN3djMldDSnZTM1FpUVFyNWtNMENtUmdTRDRuU3BoNk5ub001VzZIR2ZxNkd2MWNHUENFTjFjZ3dpVjAyMjk0LTJuVFlSQkE3RHB3TDU5bw?oc=5",
+      "title": "Schouw & Co Targets Consolidated EBITDA Of DKK 4.50 Bln In 2030 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-08T07:04:08+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Schouw & Co sets ambitious EBITDA growth target for 2030",
+      "key_claims": [
+        "Schouw & Co targets consolidated EBITDA of DKK 4.50 billion in 2030"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co has announced a consolidated EBITDA target of DKK 4.50 billion for 2030. The announcement reflects the parent company's strategic growth ambitions across its portfolio, which includes BioMar Group."
+    },
+    {
+      "id": 650635,
+      "story_id": 2638,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZDBqWTh3VHBCTUYySE84b0xkNF80YTdab18yeGYwZC12SGJBTzBfWGZMUHlYbFY3YkVvbjNBWFhJQmduT08xMVIzRTlNbkNaNGtPbXM3TFdPS01EY0d5bXg3LTE0YnhDc1IzblgyeGdvYmpLa21pck1CMFhBelZEdFJqamo3YXAyNlJhZGQ2T3dHQTdRVVNhM3lJMldUTjEyNDF2dmVJNW53Umw2YWxUMFZlSEg?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 40 2026 - StreetInsider",
+      "source_name": "StreetInsider",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-06T04:15:38+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. share buyback activity for week 40 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced its share buyback programme activity for week 40 of 2026. The article reports on routine capital allocation activity by the parent company of BioMar Group during the specified week in October 2026."
+    },
+    {
+      "id": 650749,
+      "story_id": 2659,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeHdhazh3elRNc1lVbnA1VG5jcDBCb0pWQkMtX3N5UVFiQ2xaNG1OdWxmV1VKSkpuQmFxVWpiTjFGZmlQS0ZqTmd4cFdsTzd2Z19Lc1FMbDAtQzlNbEx6SXhkSEx4WEtfRmU3Y3h1eHo0c0JVNi1rR3YyaHVEWXk5YndHS3BFdGN1c2Jhb1RvOV9YWjNRVzRYeDNyT3RrZGZ4Q3k5NUd2dlJxRUJjM1ZjZWtiY0NoSFhibHkyRmtYenhpLXdRWHhycW5fWldNZk9TMG9JNlVrbw?oc=5",
+      "title": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - StreetInsider",
+      "source_name": "StreetInsider",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-08T07:17:27+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Schouw & Co announces long-term EBITDA growth targets at capital markets event",
+      "key_claims": [
+        "Schouw & Co held a Capital Markets Day",
+        "Company announced long-term EBITDA ambitions"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "Schouw & Co, the parent company of BioMar Group, hosted a Capital Markets Day where it announced long-term EBITDA ambitions to investors. The event underscores management's growth strategy and financial targets for the conglomerate."
+    },
+    {
+      "id": 650824,
+      "story_id": 2657,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX013LW1VMW5faS1iVlU1LWg2b2lwX2RWQkp1Qk9nUEF2WHF4TUx1eE4yT052ako3RFdxU0U3cDNPam9falpQdVYtZ3RTRFV1NXRfMDhvb2xZd2UtLXpnMjRyS1hnUkpHWjlSZEoxY3FoSXI2X1pydVZhc2drVnJPNW1WMTFCaU9LbzE2TzZxaVlDaGZkSVo4Vk1tTjYwaGhjeUhINVFnSENseUdqdFE?oc=5",
+      "title": "Mars, Cargill, Skretting to tackle sustainability in fisheries - Pet Food Processing",
+      "source_name": "Pet Food Processing",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2023-04-28T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOX013LW1VMW5faS1iVlU1LWg2b2lwX2RWQkp1Qk9nUEF2WHF4TUx1eE4yT052ako3RFdxU0U3cDNPam9falpQdVYtZ3RTRFV1NXRfMDhvb2xZd2UtLXpnMjRyS1hnUkpHWjlSZEoxY3FoSXI2X1pydVZhc2drVnJPNW1WMTFCaU9LbzE2TzZxaVlDaGZkSVo4Vk1tTjYwaGhjeUhINVFnSENseUdqdFE?oc=5\" target=\"_blank\">Mars, Cargill, Skretting to tackle sustainability in fisheries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pet Food Processing</font>"
     }
   ],
   "share_of_voice": {
@@ -120460,7 +120645,7 @@
         "week": "2023-W17",
         "BioMar": 4,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2023-W18",
@@ -121508,7 +121693,7 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 4,
+        "BioMar": 8,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -121516,7 +121701,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1901
+        "count": 1905
       },
       {
         "company": "Cargill",
@@ -121524,7 +121709,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1178
+        "count": 1179
       }
     ]
   }
