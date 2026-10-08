@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T12:10:52+00:00",
+  "generated_at": "2026-10-08T16:39:07+00:00",
   "stats": {
-    "mention_count": 3393,
+    "mention_count": 3394,
     "story_count": 2489,
-    "analyzed_count": 1905,
+    "analyzed_count": 1906,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -404,7 +404,8 @@
     "vol.no",
     "washburn-mcreavy.com",
     "weareaquaculture.com",
-    "webull.com"
+    "webull.com",
+    "www.marketscreener.com"
   ],
   "stories": [
     {
@@ -544,7 +545,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -118082,6 +118083,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOX013LW1VMW5faS1iVlU1LWg2b2lwX2RWQkp1Qk9nUEF2WHF4TUx1eE4yT052ako3RFdxU0U3cDNPam9falpQdVYtZ3RTRFV1NXRfMDhvb2xZd2UtLXpnMjRyS1hnUkpHWjlSZEoxY3FoSXI2X1pydVZhc2drVnJPNW1WMTFCaU9LbzE2TzZxaVlDaGZkSVo4Vk1tTjYwaGhjeUhINVFnSENseUdqdFE?oc=5\" target=\"_blank\">Mars, Cargill, Skretting to tackle sustainability in fisheries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pet Food Processing</font>"
+    },
+    {
+      "id": 651678,
+      "story_id": 2638,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGhQUXo0dVBsaUN5VlpoU0d3ZUlMOFVfd0hDNTJyN3ZkbHNTLTA5WUlXMFNkRzA0cW1GQnA0X2cwUDM5X2tfMnBGb1U0ZE54REtiRFplVDFYNGJXY2haQWY5ajV2bGlUZ3d0cTVFaVlLUFpVR3RPYUMxQTlqVGM1ZHNWeHRqY2hBd0JOUmk5RkNrS3NiOEJtWTZ2ZThQeFM3TlE?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 40 2026 - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-10-05T13:30:07+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buy-back programme in week 40 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. conducted a share buy-back programme during week 40 of 2026. This is a routine corporate capital allocation action by the parent company of BioMar Group and other industrial holdings."
     }
   ],
   "share_of_voice": {
@@ -121693,7 +121718,7 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -121701,7 +121726,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1905
+        "count": 1906
       },
       {
         "company": "Cargill",
