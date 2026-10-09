@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T01:41:38+00:00",
+  "generated_at": "2026-10-09T12:01:35+00:00",
   "stats": {
-    "mention_count": 3395,
-    "story_count": 2490,
-    "analyzed_count": 1907,
+    "mention_count": 3401,
+    "story_count": 2493,
+    "analyzed_count": 1910,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -408,6 +408,34 @@
     "www.marketscreener.com"
   ],
   "stories": [
+    {
+      "id": 2664,
+      "headline": "Danske Bank raises price target for BioMar Group to 149 Danish kroner (144), reiterates Buy - BN - www.marketscreener.com",
+      "story_summary": "Danske Bank increased its price target for BioMar Group from 144 to 149 Danish kroner while maintaining its Buy recommendation. The upgrade reflects analyst confidence in the aquaculture feed producer's financial prospects.",
+      "first_seen": "2026-10-09T07:29:29+00:00",
+      "last_seen": "2026-10-09T07:29:29+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2663,
+      "headline": "Danske Bank eleva el precio objetivo de Schouw & Co. a 945 DKK (865) y reitera comprar - BN - MarketScreener España",
+      "story_summary": "Danske Bank raised its price target for Schouw & Co. to 945 DKK and reiterated a buy rating on the stock. The analyst upgrade reflects positive expectations for the industrial conglomerate's performance.",
+      "first_seen": "2026-10-09T07:29:22+00:00",
+      "last_seen": "2026-10-09T07:29:22+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2660,
       "headline": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - The Manila Times",
@@ -4639,6 +4667,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2662,
+      "headline": "Gira técnica con agricultores de Malleco - SalmonChile",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQm9tN2l3VENGSHlrdnlCeFhCMkdUX0kzUzduTDlNdVpOempDVFRJSDRfXy14RmI2NTRpQ250QXQ4SGVBVU96NE9oWlBTOFlVejRHS3h2YVVFX0ZlT2FuQjEyRG5FUWNlM2RXbVRXLUNVY05LOTNVSFV2Q294SmVfZUR3aVFzaWpLaHphaXQ1XzRGQ05GMEk5QjRQY0w5ZVlWQ2FfejNHVXd0OWNLRWJNc01yRGdtU0Iza1BnTWFnWXZSRE5uSG40NWZtR2E4SGxlQi1VTkNsMHhSMjU5OGxMcV84RWFsazFnOG1r?oc=5\" target=\"_blank\">Gira técnica con agricultores de Malleco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonChile</font>",
+      "first_seen": "2026-06-01T07:00:00+00:00",
+      "last_seen": "2026-06-01T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1597,
       "headline": "Solid overtegning av aksjer da BioMar gikk på børs - iLaks",
       "story_summary": "BioMar completed a stock market listing with solid oversubscription of shares. The offering demonstrated investor confidence in the aquaculture feed producer's market positioning and growth prospects.",
@@ -5811,7 +5853,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -9754,7 +9796,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -118145,6 +118187,157 @@
         "none"
       ],
       "summary": "A BioMar executive statement highlights the company's delivery of volume growth alongside strong profit margins. The framing suggests operational success and financial health in the reporting period covered by the article.—–—-–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—--–—-— (Note: The provided text does not include the full article body, limiting detail available.)"
+    },
+    {
+      "id": 654406,
+      "story_id": 2664,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaGQ0VHI4SFBlU0RvT1QyNncwVUE2Y3pQeFNZd0NOOWdTYkwzWnBUSzNhTVY1MkNmNVljZHEzemNOWmlVZ1RDZkpMMXZXVEFFQ0RVR1c3aFl0TFpONGpJWFRmNGRvcGFLMVprTFJSemIwdmxfUzhjQ1RxMDJWaHhrbE1Nc3NjTHptb0hOMzlBM1dDYlduRHl1dzVDNVdSUG40WXhXb3dWVDdNTnVIQkRUaDBKbWk4bktPYTk2cXRJN2puMkpWRVVEcmZDU0VRZF95NE51eTdsc3Vqczl3?oc=5",
+      "title": "Danske Bank raises price target for BioMar Group to 149 Danish kroner (144), reiterates Buy - BN - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-10-09T07:29:29+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Danske Bank raises price target and reiterates buy rating",
+      "key_claims": [
+        "Danske Bank raised BioMar Group's price target to 149 Danish kroner",
+        "The previous price target was 144 Danish kroner",
+        "Danske Bank reiterated its Buy rating on BioMar Group"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Danske Bank increased its price target for BioMar Group from 144 to 149 Danish kroner while maintaining its Buy recommendation. The upgrade reflects analyst confidence in the aquaculture feed producer's financial prospects."
+    },
+    {
+      "id": 654706,
+      "story_id": 2664,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRTUtMHFyYy1WVFdRNVhjTG1HQk5iVmU5Nkw3MVpYMDdQc2daX2VIQVFlUC1WZC14S2FqSEJMU0ZVUXA5V2ZtdFJ1NUwydkFUM2NhUlJVeFJRdjBZdzhqZ3ZFNWhLeFFCZGNlc3lHb1dYMXNfOVliZHF5LXdremVzUkRlTWkzdmVXajZhQnNCQkJ3UGRFZ3ZoS1dLUTJpWi15X0JjcHZfZDFmNW1tUEZuODQyRkQ5OWw1SkhTWFprTFhUQWJOU0Z0Wm5aZ3JQczlNdEctY1pod3Q?oc=5",
+      "title": "Danske Bank eleva el precio objetivo de Biomar Group a 149 DKK (144), reitera comprar - BN - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-10-09T07:29:29+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Danske Bank raises BioMar price target and maintains buy rating",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Danske Bank increased its price target for BioMar Group from 144 DKK to 149 DKK and reiterated a buy recommendation on the stock. The analyst action reflects positive sentiment toward the aquaculture feed company's outlook and valuation prospects.}$people_quoted\": [], "
+    },
+    {
+      "id": 654866,
+      "story_id": 2663,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZk5fTEI4QnRKN3YyYXpuVVBqSjNUbFZuYXNjXzIwR2hmUVhZb19JSko0bEdhWnFBVTM2U3NjeGpIMkxnSUlDVGo1OExIaXF3MlJYNVdrdzNlWndjWTVBM3JFVUJxek1tbUxZNnk5WDRMMnZtRHBuLUdSc3ByRHVURUtHODl2T2hLTTAtdEVKeldHU3hxLXUxUkZScm9NUVozSFd3V2lDN1hwOUJRV2NCdGhtbm5scHJ2cmw3XzJXTXhJcjJEcmVBMk05UDQ1V0Z0RUNmeW0tWQ?oc=5",
+      "title": "Danske Bank eleva el precio objetivo de Schouw & Co. a 945 DKK (865) y reitera comprar - BN - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-10-09T07:29:22+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Danske Bank raises price target and reiterates buy rating",
+      "key_claims": [
+        "Danske Bank elevated Schouw & Co.'s price target to 945 DKK from 865 DKK",
+        "Danske Bank reiterated its buy recommendation on Schouw & Co."
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Danske Bank raised its price target for Schouw & Co. to 945 DKK and reiterated a buy rating on the stock. The analyst upgrade reflects positive expectations for the industrial conglomerate's performance."
+    },
+    {
+      "id": 655230,
+      "story_id": 2662,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQm9tN2l3VENGSHlrdnlCeFhCMkdUX0kzUzduTDlNdVpOempDVFRJSDRfXy14RmI2NTRpQ250QXQ4SGVBVU96NE9oWlBTOFlVejRHS3h2YVVFX0ZlT2FuQjEyRG5FUWNlM2RXbVRXLUNVY05LOTNVSFV2Q294SmVfZUR3aVFzaWpLaHphaXQ1XzRGQ05GMEk5QjRQY0w5ZVlWQ2FfejNHVXd0OWNLRWJNc01yRGdtU0Iza1BnTWFnWXZSRE5uSG40NWZtR2E4SGxlQi1VTkNsMHhSMjU5OGxMcV84RWFsazFnOG1r?oc=5",
+      "title": "Gira técnica con agricultores de Malleco - SalmonChile",
+      "source_name": "SalmonChile",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQm9tN2l3VENGSHlrdnlCeFhCMkdUX0kzUzduTDlNdVpOempDVFRJSDRfXy14RmI2NTRpQ250QXQ4SGVBVU96NE9oWlBTOFlVejRHS3h2YVVFX0ZlT2FuQjEyRG5FUWNlM2RXbVRXLUNVY05LOTNVSFV2Q294SmVfZUR3aVFzaWpLaHphaXQ1XzRGQ05GMEk5QjRQY0w5ZVlWQ2FfejNHVXd0OWNLRWJNc01yRGdtU0Iza1BnTWFnWXZSRE5uSG40NWZtR2E4SGxlQi1VTkNsMHhSMjU5OGxMcV84RWFsazFnOG1r?oc=5\" target=\"_blank\">Gira técnica con agricultores de Malleco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonChile</font>"
+    },
+    {
+      "id": 655237,
+      "story_id": 2003,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQldleVI4ZjZwZWM1TVNQdmRXbWRVY293Q0swXzZ1RWk0RUxsOU12S2laZjUxNkgwNmNXbEJ5aDdGQ0pnUkNnQmtUcXpWQ1pDR1YydUZwVERZQUdfcWZFdmJETEVKNTRSTkZPYw?oc=5",
+      "title": "Nutreco amplía su ecosistema inteligente Eruvaka ante el impacto de la volatilidad de los precios sobre los productores de camarón - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-05-11T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1TQldleVI4ZjZwZWM1TVNQdmRXbWRVY293Q0swXzZ1RWk0RUxsOU12S2laZjUxNkgwNmNXbEJ5aDdGQ0pnUkNnQmtUcXpWQ1pDR1YydUZwVERZQUdfcWZFdmJETEVKNTRSTkZPYw?oc=5\" target=\"_blank\">Nutreco amplía su ecosistema inteligente Eruvaka ante el impacto de la volatilidad de los precios sobre los productores de camarón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+    },
+    {
+      "id": 655239,
+      "story_id": 769,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nR3R2em04ai1NTGdYZ2FqR0tSckpBNkhyRGZHQy1hYkwzV0w1RWc3Y2hnVGdSTDZfdzY4OTMyVlZ1YUlVWDVQZXlMR2JpWENlNzB5c21xTmVOTmN6NEx1clBJMWFHQzZOdjFKa2NjLU5JNk9VdWxB?oc=5",
+      "title": "Alianza estratégica e industrial entre Mowi y Skretting/Nutreco para la producción de piensos - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2025-12-22T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9nR3R2em04ai1NTGdYZ2FqR0tSckpBNkhyRGZHQy1hYkwzV0w1RWc3Y2hnVGdSTDZfdzY4OTMyVlZ1YUlVWDVQZXlMR2JpWENlNzB5c21xTmVOTmN6NEx1clBJMWFHQzZOdjFKa2NjLU5JNk9VdWxB?oc=5\" target=\"_blank\">Alianza estratégica e industrial entre Mowi y Skretting/Nutreco para la producción de piensos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
     }
   ],
   "share_of_voice": {
@@ -121512,7 +121705,7 @@
         "week": "2025-W52",
         "BioMar": 7,
         "Cargill": 0,
-        "Skretting": 23
+        "Skretting": 24
       },
       {
         "week": "2026-W01",
@@ -121632,7 +121825,7 @@
         "week": "2026-W20",
         "BioMar": 3,
         "Cargill": 0,
-        "Skretting": 14
+        "Skretting": 15
       },
       {
         "week": "2026-W21",
@@ -121650,7 +121843,7 @@
         "week": "2026-W23",
         "BioMar": 161,
         "Cargill": 0,
-        "Skretting": 8
+        "Skretting": 9
       },
       {
         "week": "2026-W24",
@@ -121756,7 +121949,7 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 9,
+        "BioMar": 12,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -121764,7 +121957,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1907
+        "count": 1910
       },
       {
         "company": "Cargill",
@@ -121772,7 +121965,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1179
+        "count": 1182
       }
     ]
   }
