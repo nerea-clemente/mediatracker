@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-10T11:18:43+00:00",
+  "generated_at": "2026-10-10T15:28:51+00:00",
   "stats": {
     "mention_count": 3402,
     "story_count": 2494,
-    "analyzed_count": 1910,
+    "analyzed_count": 1911,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -30348,10 +30348,10 @@
     {
       "id": 2665,
       "headline": "Biomar potencia asistencia técnica en región de Magallanes - Salmonexpert",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzhLd19IQTRkUGJCSEdrb1AwV0kzUTZrZkNWR3QwazV0SmwxaUl6OTdiZHBRODVxeVhJTXVKVWhiTk5HY1FkcVVpRlg3SC1mQUFWTk9QSTFZU3l3STlhODNNV0kyOU1qQ2hkZm1ZYjZEN3V5NFZtZWhHaHplbTF0YnotbGZldkRpQWl1Q1RnRTdfZ1F5VjZVLXdrSkxmM0FFeFFQMzJlb1owSWJw?oc=5\" target=\"_blank\">Biomar potencia asistencia técnica en región de Magallanes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "story_summary": "BioMar is expanding its technical assistance capabilities in Chile's Magallanes region. The article highlights the company's commitment to supporting aquaculture operations in the area.",
       "first_seen": "2018-02-26T08:00:00+00:00",
       "last_seen": "2018-02-26T08:00:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -118366,16 +118366,18 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands technical assistance services in Magallanes region",
+      "key_claims": [
+        "BioMar is strengthening technical assistance in the Magallanes region"
+      ],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzhLd19IQTRkUGJCSEdrb1AwV0kzUTZrZkNWR3QwazV0SmwxaUl6OTdiZHBRODVxeVhJTXVKVWhiTk5HY1FkcVVpRlg3SC1mQUFWTk9QSTFZU3l3STlhODNNV0kyOU1qQ2hkZm1ZYjZEN3V5NFZtZWhHaHplbTF0YnotbGZldkRpQWl1Q1RnRTdfZ1F5VjZVLXdrSkxmM0FFeFFQMzJlb1owSWJw?oc=5\" target=\"_blank\">Biomar potencia asistencia técnica en región de Magallanes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+      "summary": "BioMar is expanding its technical assistance capabilities in Chile's Magallanes region. The article highlights the company's commitment to supporting aquaculture operations in the area."
     }
   ],
   "share_of_voice": {
