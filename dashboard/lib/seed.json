@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T01:27:08+00:00",
+  "generated_at": "2026-10-10T11:18:43+00:00",
   "stats": {
-    "mention_count": 3401,
-    "story_count": 2493,
+    "mention_count": 3402,
+    "story_count": 2494,
     "analyzed_count": 1910,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
@@ -30337,6 +30337,20 @@
       "story_summary": "Australis's Centro Filomena 2 facility has achieved a record feed conversion factor. The article does not provide detailed context about feed supplier or other operational specifics beyond the conversion metric achievement.",
       "first_seen": "2018-02-27T08:00:00+00:00",
       "last_seen": "2018-02-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2665,
+      "headline": "Biomar potencia asistencia técnica en región de Magallanes - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzhLd19IQTRkUGJCSEdrb1AwV0kzUTZrZkNWR3QwazV0SmwxaUl6OTdiZHBRODVxeVhJTXVKVWhiTk5HY1FkcVVpRlg3SC1mQUFWTk9QSTFZU3l3STlhODNNV0kyOU1qQ2hkZm1ZYjZEN3V5NFZtZWhHaHplbTF0YnotbGZldkRpQWl1Q1RnRTdfZ1F5VjZVLXdrSkxmM0FFeFFQMzJlb1owSWJw?oc=5\" target=\"_blank\">Biomar potencia asistencia técnica en región de Magallanes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2018-02-26T08:00:00+00:00",
+      "last_seen": "2018-02-26T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -118338,6 +118352,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9nR3R2em04ai1NTGdYZ2FqR0tSckpBNkhyRGZHQy1hYkwzV0w1RWc3Y2hnVGdSTDZfdzY4OTMyVlZ1YUlVWDVQZXlMR2JpWENlNzB5c21xTmVOTmN6NEx1clBJMWFHQzZOdjFKa2NjLU5JNk9VdWxB?oc=5\" target=\"_blank\">Alianza estratégica e industrial entre Mowi y Skretting/Nutreco para la producción de piensos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+    },
+    {
+      "id": 657924,
+      "story_id": 2665,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzhLd19IQTRkUGJCSEdrb1AwV0kzUTZrZkNWR3QwazV0SmwxaUl6OTdiZHBRODVxeVhJTXVKVWhiTk5HY1FkcVVpRlg3SC1mQUFWTk9QSTFZU3l3STlhODNNV0kyOU1qQ2hkZm1ZYjZEN3V5NFZtZWhHaHplbTF0YnotbGZldkRpQWl1Q1RnRTdfZ1F5VjZVLXdrSkxmM0FFeFFQMzJlb1owSWJw?oc=5",
+      "title": "Biomar potencia asistencia técnica en región de Magallanes - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2018-02-26T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzhLd19IQTRkUGJCSEdrb1AwV0kzUTZrZkNWR3QwazV0SmwxaUl6OTdiZHBRODVxeVhJTXVKVWhiTk5HY1FkcVVpRlg3SC1mQUFWTk9QSTFZU3l3STlhODNNV0kyOU1qQ2hkZm1ZYjZEN3V5NFZtZWhHaHplbTF0YnotbGZldkRpQWl1Q1RnRTdfZ1F5VjZVLXdrSkxmM0FFeFFQMzJlb1owSWJw?oc=5\" target=\"_blank\">Biomar potencia asistencia técnica en región de Magallanes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -119549,7 +119587,7 @@
       },
       {
         "week": "2018-W09",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 0
       },
@@ -121957,7 +121995,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1910
+        "count": 1911
       },
       {
         "company": "Cargill",
