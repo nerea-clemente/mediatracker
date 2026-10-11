@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T00:38:44+00:00",
+  "generated_at": "2026-10-11T11:31:37+00:00",
   "stats": {
-    "mention_count": 3404,
-    "story_count": 2494,
-    "analyzed_count": 1913,
+    "mention_count": 3405,
+    "story_count": 2495,
+    "analyzed_count": 1914,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -408,6 +408,20 @@
     "www.marketscreener.com"
   ],
   "stories": [
+    {
+      "id": 2666,
+      "headline": "Learn Why The Bull Case For Schouw & Co. (CPSE:SCHO) Could Change Following Expand 2030 Plan - Simply Wall Street",
+      "story_summary": "The article examines Schouw & Co.'s Expand 2030 plan and how it may alter the investment rationale for the company's stock. The piece suggests strategic developments could reshape the bull case for investors in the Danish industrial conglomerate.",
+      "first_seen": "2026-10-10T15:48:47+00:00",
+      "last_seen": "2026-10-10T15:48:47+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2664,
       "headline": "Danske Bank raises price target for BioMar Group to 149 Danish kroner (144), reiterates Buy - BN - www.marketscreener.com",
@@ -118426,6 +118440,30 @@
         "none"
       ],
       "summary": "Schouw & Co. announced its share buy-back programme activity for week 39 of 2026. This is a routine financial disclosure related to the parent company's capital allocation strategy."
+    },
+    {
+      "id": 662091,
+      "story_id": 2666,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMUhlRFNkaXpYYS15WjZQLWJpRHROUU5FV05BazhPUDJaR25LemRaVjNOOEI1Y0lyeEJtYUJWTDFZaDNQc1FHT05CZzluSDhKRUJLMUpLNWg5TkNIaWhfbDBuNldhVk1jVnpVN0dUZ1A4V1lyaTVTY1JUZ1hRbUxzSm94eVdQcVQ1RVY1NHZiWlQ2YkpnZ2V6VElNSWFPM3IwRGVwVnljMVloeXBzVmhvNnkwWldTU2NPRTRudHU1cnRfYkE2QlpCRVFnZXF4VnJpOHY5TzRXWndPVDFTYmh0X1RPeXYwMHV1ekVyb0ViR19TZ9IB8gFBVV95cUxQMUhlRFNkaXpYYS15WjZQLWJpRHROUU5FV05BazhPUDJaR25LemRaVjNOOEI1Y0lyeEJtYUJWTDFZaDNQc1FHT05CZzluSDhKRUJLMUpLNWg5TkNIaWhfbDBuNldhVk1jVnpVN0dUZ1A4V1lyaTVTY1JUZ1hRbUxzSm94eVdQcVQ1RVY1NHZiWlQ2YkpnZ2V6VElNSWFPM3IwRGVwVnljMVloeXBzVmhvNnkwWldTU2NPRTRudHU1cnRfYkE2QlpCRVFnZXF4VnJpOHY5TzRXWndPVDFTYmh0X1RPeXYwMHV1ekVyb0ViR19TZw?oc=5",
+      "title": "Learn Why The Bull Case For Schouw & Co. (CPSE:SCHO) Could Change Following Expand 2030 Plan - Simply Wall Street",
+      "source_name": "Simply Wall Street",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-10T15:48:47+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "Schouw's Expand 2030 strategy and implications for investment thesis",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "The article examines Schouw & Co.'s Expand 2030 plan and how it may alter the investment rationale for the company's stock. The piece suggests strategic developments could reshape the bull case for investors in the Danish industrial conglomerate."
     }
   ],
   "share_of_voice": {
@@ -122037,7 +122075,7 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 12,
+        "BioMar": 13,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -122045,7 +122083,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1913
+        "count": 1914
       },
       {
         "company": "Cargill",
