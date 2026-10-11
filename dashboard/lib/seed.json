@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T15:50:08+00:00",
+  "generated_at": "2026-10-11T19:59:07+00:00",
   "stats": {
-    "mention_count": 3405,
-    "story_count": 2495,
-    "analyzed_count": 1914,
+    "mention_count": 3406,
+    "story_count": 2496,
+    "analyzed_count": 1915,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -408,6 +408,20 @@
     "www.marketscreener.com"
   ],
   "stories": [
+    {
+      "id": 2667,
+      "headline": "Price to book ratio of Schouw & Co – HAM:5RF - TradingView",
+      "story_summary": "TradingView publishes a price-to-book ratio metric for Schouw & Co shares traded on the Hamburg exchange. The article is a routine financial data display with no narrative content or claims about the company's operations or performance.",
+      "first_seen": "2026-10-11T18:45:37+00:00",
+      "last_seen": "2026-10-11T18:45:37+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2666,
       "headline": "Learn Why The Bull Case For Schouw & Co. (CPSE:SCHO) Could Change Following Expand 2030 Plan - Simply Wall Street",
@@ -118464,6 +118478,30 @@
         "financial"
       ],
       "summary": "The article examines Schouw & Co.'s Expand 2030 plan and how it may alter the investment rationale for the company's stock. The piece suggests strategic developments could reshape the bull case for investors in the Danish industrial conglomerate."
+    },
+    {
+      "id": 664172,
+      "story_id": 2667,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZllCSzhfR242T3hJbzBIQ3JJMkx3bm5odUF5djFEVnFGNzlSampkQnNjRXR3NFp0VTBoQjRySWNPby1UMnBCR1pwT0lpZ2ZXNXBETG5FSklPd3ZYTTVobG94aHZZaTFnYmFMVXd3RzI0MDFaYmtQTm5ieTBzTzVXZUV1TmxDT2VRZlJuVnY3ek1fZw?oc=5",
+      "title": "Price to book ratio of Schouw & Co – HAM:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-11T18:45:37+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting on Schouw & Co stock valuation",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes a price-to-book ratio metric for Schouw & Co shares traded on the Hamburg exchange. The article is a routine financial data display with no narrative content or claims about the company's operations or performance."
     }
   ],
   "share_of_voice": {
@@ -122075,7 +122113,7 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 13,
+        "BioMar": 14,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -122083,7 +122121,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1914
+        "count": 1915
       },
       {
         "company": "Cargill",
