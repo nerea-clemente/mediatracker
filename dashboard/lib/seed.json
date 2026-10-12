@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T00:55:34+00:00",
+  "generated_at": "2026-10-12T13:24:15+00:00",
   "stats": {
-    "mention_count": 3406,
-    "story_count": 2496,
-    "analyzed_count": 1915,
+    "mention_count": 3411,
+    "story_count": 2500,
+    "analyzed_count": 1917,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -327,6 +327,7 @@
     "Yahoo Finance Singapore",
     "Yahoo Finance UK",
     "Yahoo Finanzas",
+    "Yahoo! Finance Canada",
     "Ytringen",
     "adressa.no",
     "advokatbladet",
@@ -426,13 +427,13 @@
       "id": 2666,
       "headline": "Learn Why The Bull Case For Schouw & Co. (CPSE:SCHO) Could Change Following Expand 2030 Plan - Simply Wall Street",
       "story_summary": "The article examines Schouw & Co.'s Expand 2030 plan and how it may alter the investment rationale for the company's stock. The piece suggests strategic developments could reshape the bull case for investors in the Danish industrial conglomerate.",
-      "first_seen": "2026-10-10T15:48:47+00:00",
+      "first_seen": "2026-10-10T09:22:13+00:00",
       "last_seen": "2026-10-10T15:48:47+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -583,6 +584,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONnFQZDZvcDRIUm9rLTJyZHJJRHcwZ3dLYzhNLUpub0tHdGQwcXp1RlA3dlBJeklhN0RiaUdMcWVBSF81b3hZN1BDNVhCSUtGTW5IT1ZfME1nSnhBZC1QM0hUSklzdk51dUxTbWU4Y1g0WEFRYy0xVDhldjBJVlpuV1ZGMzNKUEJkVWhLak80LTFXZw?oc=5\" target=\"_blank\">Klimakrise og overfiske tvinger fôrindustrien til å gi laksen kylling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Norsk Landbruk</font>",
       "first_seen": "2026-10-06T08:08:24+00:00",
       "last_seen": "2026-10-06T08:08:24+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2671,
+      "headline": "Verdens hav har ikke nok fisk til å mette norsk oppdrettslaks - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWl9BclNaeVNZRXBfR3VhcWVGLWIxeWtPRnFFYVQxV1BnU214eHR5OGFlOHlyNDl4ZUkyaEdlUk1BM01oUWVfUEQ4b0x3SGlfR2t6X3NIWEFjNktVWVJJeXBWVzJDRExMVlViNzJXTEJHY0RVZHQ1R3hyc3pBdXlWcER2eUpjNVd6MTVrSHhOVnJMNzNyVUE2anB1VWVhMWt2RVdvdXhzTVFaZw?oc=5\" target=\"_blank\">Verdens hav har ikke nok fisk til å mette norsk oppdrettslaks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-10-06T04:44:27+00:00",
+      "last_seen": "2026-10-06T04:44:27+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -13601,6 +13616,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2670,
+      "headline": "Noruega: Skretting y Andfjord innovan en nutrición para centros cerrados de acuicultura - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT19GWldGX2d4aE9yVkQ2S1kwbC1qanpWeW1QNlZXaHFkbUE3LXM3YUJUMXdXclBtcFcwYkhkX0NUWDhqWTllTjFmNExlb1R2U1RTQ0lyNWZ4dXVibWlIWVJQbGV2WXR2amJpb2ZzQi05ZkxWMnNHX2pjRlNPTWMycl83Q1N5ZjVDZFRENFhYSVRpdnh4LUppZkFYckZEejNTVkVoV0paSEsybzQ?oc=5\" target=\"_blank\">Noruega: Skretting y Andfjord innovan en nutrición para centros cerrados de acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2025-07-04T07:00:00+00:00",
+      "last_seen": "2025-07-04T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 676,
       "headline": "Lidera una operación de 900.000 toneladas de alimento para camarón - Forbes Ecuador",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcE5qeV9hRXUzMHlYeS1DaDdPZ3lIa2VxN1YwWlBqYkJsLWlzeWJjVnI1UXVKS002Qzc2M0lMVTk5TWlZT05ESXZyT1BKem00ZHlEU3dEWEpVR0Uwa0FmWFJIQ3R2NVllVjRkaEpYeEZVTUJ2ZjZsc3ZSUDlTX09Ld0ktT2dzWnlSRlBURFZXSnI0RWNhRDdzd093ONIBoAFBVV95cUxQbUJHWUdzX0pna3Bwd2c0a0FjbDNwM3hvNVcwMnRscGJaZmNCR3hpZ0MyR0JHOW12UzdrN1pxYWJYRTktWVZqSV9hUE93WGtnVndvTmtfTnA2a2FyclNkUkJuWHJaZVhFRVRxMk9sZ2ZmU0lteExtVTk4djRkS1BxZm10VlpubnhXbXhHUTNoT0xVZzZPUS1LRW00X0s4THlu?oc=5\" target=\"_blank\">Lidera una operación de 900.000 toneladas de alimento para camarón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes Ecuador</font>",
@@ -18401,6 +18430,20 @@
       "first_seen": "2024-03-11T07:00:00+00:00",
       "last_seen": "2024-03-11T07:00:00+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2669,
+      "headline": "BioMar Norge ansetter ny fagspesialist - Kyst.no",
+      "story_summary": "BioMar Norge has announced the hiring of a new technical specialist position. The announcement appears to be a routine personnel update from the company's Norwegian operations.",
+      "first_seen": "2024-03-11T07:00:00+00:00",
+      "last_seen": "2024-03-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -31532,6 +31575,20 @@
         "financial"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2668,
+      "headline": "Aktieselskabet Schouw & Co. (SCHO.CO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "story_summary": "This is a Yahoo! Finance Canada stock information page for Aktieselskabet Schouw & Co. (ticker SCHO.CO), the Danish industrial conglomerate. The page provides standard financial data, news aggregation, quotes, and historical stock information.",
+      "first_seen": "2017-06-06T03:47:54+00:00",
+      "last_seen": "2017-06-06T03:47:54+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -118502,6 +118559,126 @@
         "none"
       ],
       "summary": "TradingView publishes a price-to-book ratio metric for Schouw & Co shares traded on the Hamburg exchange. The article is a routine financial data display with no narrative content or claims about the company's operations or performance."
+    },
+    {
+      "id": 666028,
+      "story_id": 2669,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlNhVTVacFlJWnJESUVveGhVYjgzWWNBc3I2aHFFZUVMaUtjUWtwZnRoSzRMbjlXZ0hORENuc2x6eWMzQVVFNFN1M2xTaG5jcnFDdzhEYTNyRWVGZTRNUFRERk9yalpTR1ctRFY0OUdlOWxQRU5jWUg1Z0x6LWo2OUpXNmFJT2FKM2JyYkV6Z3BLd1U?oc=5",
+      "title": "BioMar Norge ansetter ny fagspesialist - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-03-11T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "BioMar Norge hires new technical specialist",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Norge has announced the hiring of a new technical specialist position. The announcement appears to be a routine personnel update from the company's Norwegian operations."
+    },
+    {
+      "id": 666249,
+      "story_id": 2666,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbElWV2paN0dpbnFMUS12ODFOeU5TeHZnQ3NPOVVlZU5seGxoWVMxQ1FnOXc4UzV4SDlYV1Z6V055YmtSWHViSGFWTVpJd0k3NWFKX25kWE5NOFlIcUw3YlZndllnQlJkZ0wzV2ZyQmRqczc0YUNSTWdnejJ4bF9SaC16Y3lHYXJKTzV2YkpsNkFfNENqeUFYZEl3UGFHektSbVAyNGxDNmlpR0ZLazgzNjVBX0dhQlFHX0NsOGdSd2ZxdjljdVhnYjB3bHUtdExwdDNTalF2b0FwUXE5Wkdra3N4ejVJSGxqc1N5aNIB8gFBVV95cUxQMUhlRFNkaXpYYS15WjZQLWJpRHROUU5FV05BazhPUDJaR25LemRaVjNOOEI1Y0lyeEJtYUJWTDFZaDNQc1FHT05CZzluSDhKRUJLMUpLNWg5TkNIaWhfbDBuNldhVk1jVnpVN0dUZ1A4V1lyaTVTY1JUZ1hRbUxzSm94eVdQcVQ1RVY1NHZiWlQ2YkpnZ2V6VElNSWFPM3IwRGVwVnljMVloeXBzVmhvNnkwWldTU2NPRTRudHU1cnRfYkE2QlpCRVFnZXF4VnJpOHY5TzRXWndPVDFTYmh0X1RPeXYwMHV1ekVyb0ViR19TZw?oc=5",
+      "title": "Learn Why The Bull Case For Schouw & Co. (CPSE:SCHO) Could Change Following Expand 2030 Plan - Simply Wall Street",
+      "source_name": "Simply Wall Street",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-10T09:22:13+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbElWV2paN0dpbnFMUS12ODFOeU5TeHZnQ3NPOVVlZU5seGxoWVMxQ1FnOXc4UzV4SDlYV1Z6V055YmtSWHViSGFWTVpJd0k3NWFKX25kWE5NOFlIcUw3YlZndllnQlJkZ0wzV2ZyQmRqczc0YUNSTWdnejJ4bF9SaC16Y3lHYXJKTzV2YkpsNkFfNENqeUFYZEl3UGFHektSbVAyNGxDNmlpR0ZLazgzNjVBX0dhQlFHX0NsOGdSd2ZxdjljdVhnYjB3bHUtdExwdDNTalF2b0FwUXE5Wkdra3N4ejVJSGxqc1N5aNIB8gFBVV95cUxQMUhlRFNkaXpYYS15WjZQLWJpRHROUU5FV05BazhPUDJaR25LemRaVjNOOEI1Y0lyeEJtYUJWTDFZaDNQc1FHT05CZzluSDhKRUJLMUpLNWg5TkNIaWhfbDBuNldhVk1jVnpVN0dUZ1A4V1lyaTVTY1JUZ1hRbUxzSm94eVdQcVQ1RVY1NHZiWlQ2YkpnZ2V6VElNSWFPM3IwRGVwVnljMVloeXBzVmhvNnkwWldTU2NPRTRudHU1cnRfYkE2QlpCRVFnZXF4VnJpOHY5TzRXWndPVDFTYmh0X1RPeXYwMHV1ekVyb0ViR19TZw?oc=5\" target=\"_blank\">Learn Why The Bull Case For Schouw & Co. (CPSE:SCHO) Could Change Following Expand 2030 Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>"
+    },
+    {
+      "id": 666284,
+      "story_id": 2668,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdGFpQUMxOG41d3d0dEJVZnQydkhXeVBreURCWjFEejdBVFZZc0F4RzF1dUtxbGROT2FXMHRPaGUyVi1iMGR6SVpOekZEcmNSVlRBSW5B?oc=5",
+      "title": "Aktieselskabet Schouw & Co. (SCHO.CO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "source_name": "Yahoo! Finance Canada",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2017-06-06T03:47:54+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock listing and financial data page for Schouw & Co.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo! Finance Canada stock information page for Aktieselskabet Schouw & Co. (ticker SCHO.CO), the Danish industrial conglomerate. The page provides standard financial data, news aggregation, quotes, and historical stock information."
+    },
+    {
+      "id": 666470,
+      "story_id": 2671,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWl9BclNaeVNZRXBfR3VhcWVGLWIxeWtPRnFFYVQxV1BnU214eHR5OGFlOHlyNDl4ZUkyaEdlUk1BM01oUWVfUEQ4b0x3SGlfR2t6X3NIWEFjNktVWVJJeXBWVzJDRExMVlViNzJXTEJHY0RVZHQ1R3hyc3pBdXlWcER2eUpjNVd6MTVrSHhOVnJMNzNyVUE2anB1VWVhMWt2RVdvdXhzTVFaZw?oc=5",
+      "title": "Verdens hav har ikke nok fisk til å mette norsk oppdrettslaks - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-06T04:44:27+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWl9BclNaeVNZRXBfR3VhcWVGLWIxeWtPRnFFYVQxV1BnU214eHR5OGFlOHlyNDl4ZUkyaEdlUk1BM01oUWVfUEQ4b0x3SGlfR2t6X3NIWEFjNktVWVJJeXBWVzJDRExMVlViNzJXTEJHY0RVZHQ1R3hyc3pBdXlWcER2eUpjNVd6MTVrSHhOVnJMNzNyVUE2anB1VWVhMWt2RVdvdXhzTVFaZw?oc=5\" target=\"_blank\">Verdens hav har ikke nok fisk til å mette norsk oppdrettslaks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 666713,
+      "story_id": 2670,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT19GWldGX2d4aE9yVkQ2S1kwbC1qanpWeW1QNlZXaHFkbUE3LXM3YUJUMXdXclBtcFcwYkhkX0NUWDhqWTllTjFmNExlb1R2U1RTQ0lyNWZ4dXVibWlIWVJQbGV2WXR2amJpb2ZzQi05ZkxWMnNHX2pjRlNPTWMycl83Q1N5ZjVDZFRENFhYSVRpdnh4LUppZkFYckZEejNTVkVoV0paSEsybzQ?oc=5",
+      "title": "Noruega: Skretting y Andfjord innovan en nutrición para centros cerrados de acuicultura - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-07-04T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT19GWldGX2d4aE9yVkQ2S1kwbC1qanpWeW1QNlZXaHFkbUE3LXM3YUJUMXdXclBtcFcwYkhkX0NUWDhqWTllTjFmNExlb1R2U1RTQ0lyNWZ4dXVibWlIWVJQbGV2WXR2amJpb2ZzQi05ZkxWMnNHX2pjRlNPTWMycl83Q1N5ZjVDZFRENFhYSVRpdnh4LUppZkFYckZEejNTVkVoV0paSEsybzQ?oc=5\" target=\"_blank\">Noruega: Skretting y Andfjord innovan en nutrición para centros cerrados de acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -119521,7 +119698,7 @@
       },
       {
         "week": "2017-W23",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 0
       },
@@ -121321,7 +121498,7 @@
       },
       {
         "week": "2024-W11",
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Skretting": 2
       },
@@ -121719,7 +121896,7 @@
         "week": "2025-W27",
         "BioMar": 7,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2025-W28",
@@ -122113,15 +122290,15 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 14,
+        "BioMar": 15,
         "Cargill": 0,
-        "Skretting": 6
+        "Skretting": 7
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1915
+        "count": 1918
       },
       {
         "company": "Cargill",
@@ -122129,7 +122306,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1182
+        "count": 1184
       }
     ]
   }
