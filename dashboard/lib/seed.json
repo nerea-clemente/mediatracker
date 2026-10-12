@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T13:24:15+00:00",
+  "generated_at": "2026-10-12T19:10:21+00:00",
   "stats": {
-    "mention_count": 3411,
-    "story_count": 2500,
-    "analyzed_count": 1917,
+    "mention_count": 3416,
+    "story_count": 2503,
+    "analyzed_count": 1920,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -135,6 +135,7 @@
     "FotMob",
     "Fremskrittspartiet - FrP.",
     "FriFagbevegelse",
+    "Frifagbevegelse",
     "Global AgInvesting",
     "Global Seafood Alliance",
     "GlobeNewswire",
@@ -149,6 +150,7 @@
     "Høyre",
     "ILEON",
     "IPac Acuicultura",
+    "Inderes",
     "IndexBox",
     "Infobae",
     "Insider.co.uk",
@@ -426,7 +428,7 @@
     {
       "id": 2666,
       "headline": "Learn Why The Bull Case For Schouw & Co. (CPSE:SCHO) Could Change Following Expand 2030 Plan - Simply Wall Street",
-      "story_summary": "The article examines Schouw & Co.'s Expand 2030 plan and how it may alter the investment rationale for the company's stock. The piece suggests strategic developments could reshape the bull case for investors in the Danish industrial conglomerate.",
+      "story_summary": "Simply Wall Street examines how Schouw & Co.'s Expand 2030 strategic plan could alter the investment case for the Danish conglomerate. The article discusses potential shifts in the company's growth narrative and market positioning resulting from this expansion initiative.",
       "first_seen": "2026-10-10T09:22:13+00:00",
       "last_seen": "2026-10-10T15:48:47+00:00",
       "primary_sentiment": "neutral",
@@ -3364,6 +3366,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2674,
+      "headline": "BioMar - Presentation of the H1 2026 Half-Year Report - Inderes",
+      "story_summary": "BioMar Group has presented its H1 2026 half-year report, covering interim financial results and operational performance. The article appears to be a factual summary of the company's earnings announcement for the first half of 2026.",
+      "first_seen": "2026-07-09T07:00:00+00:00",
+      "last_seen": "2026-07-09T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1991,
       "headline": "DNB Carnegie inicia la cobertura de BioMar Group con una recomendación de compra y un precio objetivo de 150 DKK - MarketScreener España",
       "story_summary": "DNB Carnegie has initiated research coverage of BioMar Group with a buy recommendation and a 150 DKK price target. The initiation represents analyst confidence in the aquaculture feed producer's investment potential.",
@@ -5988,6 +6004,20 @@
       "id": 2548,
       "headline": "AquaVision 2026 reveals full program focused on geopolitics and innovation - Aquafeed.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNHBid0l1M25xZWZZQ01XZ1R4Zl9PWEtSN1JjM0E2cWFfWVVDc1VnX2lVM0tuSHl6blpoUjZ4aDd5TklVb3N2dG1RUjFNMEZibzBXRkpidnIyM3ZSSFctdDBfcjNVTGpMU0NncFlsbDlIZS1DRWVpWkVWRVE3ZTlmajl1RmVJSHdzQklXWTFLaGdxazJVMkhXUkpJdWduZEZWUUxpa05zLW1EWXIyOVUwbXN1b21FQzBHdUxTSw?oc=5\" target=\"_blank\">AquaVision 2026 reveals full program focused on geopolitics and innovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2026-05-08T07:00:00+00:00",
+      "last_seen": "2026-05-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2673,
+      "headline": "AquaVision 2026: Entradas casi agotadas mientras se confirma el programa completo - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObHE1MlUzMS1WeHVkRVhhRms5RzI0REhXMkUwY0lBeWdQRFFqZXgzaXF3SnBlUl9vWk9YcHZhWFoyZHZCemVad3BmUTl1UGF3RGRPRGZMWHVPeE84STdZTzdLdkpGUVJTc2Y3WjdqVVdZRVk1dzhQVEM3QmJiNzVEMUJjMlE2T3FSYWZVV0hWYW5NUDFfMXpvck0xeV9GVjdYcEM2eWFRbkxhTV9ObVdmd21fNUo?oc=5\" target=\"_blank\">AquaVision 2026: Entradas casi agotadas mientras se confirma el programa completo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
       "first_seen": "2026-05-08T07:00:00+00:00",
       "last_seen": "2026-05-08T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -14389,6 +14419,20 @@
       "company": "BioMar"
     },
     {
+      "id": 656,
+      "headline": "Mads Martinsen appointed General Manager of Skretting Norway - SalmonBusiness",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3NjVDA1TE50UVNHNDRSeGhTSl9DYm54SmtzUndsRWF3dGlsYjI4YmNoejBnNVl1YTBUUjdJakVicVpBX1dDUTRBUkRWaGhFOE9QRFNNTGhLckcyRmdubE5uOUdPak1wSjB1ejBQcFJwcGNaVm9rUU52Z2d0aHBqazQxb21MenFKRnpHdC1YbVpLdjg1UWRJ0gGXAUFVX3lxTE9Lc2NUMDVMTnRRU0c0NFJ4aFNKX0NibnhKa3NSd2xFYXd0aWxiMjhiY2h6MGc1WXVhMFRSN0lqRWJxWkFfV0NRNEFSRFZoaEU4T1BEU01MaEtyRzJGZ25sTm45R09qTXBKMHV6MFBwUnBwY1pWb2tRTnZnZ3RocGprNDFvbUx6cUpGekd0LVhtWkt2ODVRZEk?oc=5\" target=\"_blank\">Mads Martinsen appointed General Manager of Skretting Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
+      "first_seen": "2025-05-22T07:00:00+00:00",
+      "last_seen": "2025-05-22T19:25:12+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 4,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 175,
       "headline": "BioMar lanza SmartCare CONTROL Gill para mejorar la salud branquial en peces de agua dulce - misPeces",
       "story_summary": "BioMar has launched SmartCare CONTROL Gill, a new product formulated to enhance gill health in freshwater fish species. The product represents the company's continued innovation in specialized aquaculture nutrition solutions.",
@@ -14401,20 +14445,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
-    },
-    {
-      "id": 656,
-      "headline": "Mads Martinsen appointed General Manager of Skretting Norway - SalmonBusiness",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3NjVDA1TE50UVNHNDRSeGhTSl9DYm54SmtzUndsRWF3dGlsYjI4YmNoejBnNVl1YTBUUjdJakVicVpBX1dDUTRBUkRWaGhFOE9QRFNNTGhLckcyRmdubE5uOUdPak1wSjB1ejBQcFJwcGNaVm9rUU52Z2d0aHBqazQxb21MenFKRnpHdC1YbVpLdjg1UWRJ0gGXAUFVX3lxTE9Lc2NUMDVMTnRRU0c0NFJ4aFNKX0NibnhKa3NSd2xFYXd0aWxiMjhiY2h6MGc1WXVhMFRSN0lqRWJxWkFfV0NRNEFSRFZoaEU4T1BEU01MaEtyRzJGZ25sTm45R09qTXBKMHV6MFBwUnBwY1pWb2tRTnZnZ3RocGprNDFvbUx6cUpGekd0LVhtWkt2ODVRZEk?oc=5\" target=\"_blank\">Mads Martinsen appointed General Manager of Skretting Norway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
-      "first_seen": "2025-05-22T07:00:00+00:00",
-      "last_seen": "2025-05-22T07:00:00+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 3,
-      "is_about_target_brand": true,
-      "company": "Skretting"
     },
     {
       "id": 657,
@@ -17486,6 +17516,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2672,
+      "headline": "Økt minstelønn til de som produserer fiskefôr og fiskemel - Frifagbevegelse",
+      "story_summary": "The article reports on increased minimum wage agreements affecting fish feed and fishmeal producers in Norway. BioMar is mentioned as one of the companies impacted by these labor cost changes.",
+      "first_seen": "2024-05-31T07:00:00+00:00",
+      "last_seen": "2024-05-31T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1322,
       "headline": "The Week in AgriFoodTech: Venture studio Squared Circles raises $40m, iyris nabs $16m for indoor ag - AgFunderNews",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1E3S0pIdGM1QW9pMTA0eGJIQjV3Z1JtWG5ZM05kTFRDVFFIT3phczJCcUhpNUxPdi1vR3RGY3dPX2JxOXVtLWJfbTdWSjcxSnhJUDJRM1VIaTBsUjF4WFRub1Q0N1NZWkdMWXpjdEJFT2ZNdTVNSU1VU2RWQU9ReTlPRHp6cGR6OHVpeTdCVFNVRC1ibks1a0UxUXVEZllBYU1fcGItWWJqZERqUHhXTXpLdDBLTDRvdUl6Wg?oc=5\" target=\"_blank\">The Week in AgriFoodTech: Venture studio Squared Circles raises $40m, iyris nabs $16m for indoor ag</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AgFunderNews</font>",
@@ -17705,7 +17749,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -118598,15 +118642,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.7,
+      "prominence": "primary",
+      "angle": "Schouw's Expand 2030 Plan may reshape investment thesis",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbElWV2paN0dpbnFMUS12ODFOeU5TeHZnQ3NPOVVlZU5seGxoWVMxQ1FnOXc4UzV4SDlYV1Z6V055YmtSWHViSGFWTVpJd0k3NWFKX25kWE5NOFlIcUw3YlZndllnQlJkZ0wzV2ZyQmRqczc0YUNSTWdnejJ4bF9SaC16Y3lHYXJKTzV2YkpsNkFfNENqeUFYZEl3UGFHektSbVAyNGxDNmlpR0ZLazgzNjVBX0dhQlFHX0NsOGdSd2ZxdjljdVhnYjB3bHUtdExwdDNTalF2b0FwUXE5Wkdra3N4ejVJSGxqc1N5aNIB8gFBVV95cUxQMUhlRFNkaXpYYS15WjZQLWJpRHROUU5FV05BazhPUDJaR25LemRaVjNOOEI1Y0lyeEJtYUJWTDFZaDNQc1FHT05CZzluSDhKRUJLMUpLNWg5TkNIaWhfbDBuNldhVk1jVnpVN0dUZ1A4V1lyaTVTY1JUZ1hRbUxzSm94eVdQcVQ1RVY1NHZiWlQ2YkpnZ2V6VElNSWFPM3IwRGVwVnljMVloeXBzVmhvNnkwWldTU2NPRTRudHU1cnRfYkE2QlpCRVFnZXF4VnJpOHY5TzRXWndPVDFTYmh0X1RPeXYwMHV1ekVyb0ViR19TZw?oc=5\" target=\"_blank\">Learn Why The Bull Case For Schouw & Co. (CPSE:SCHO) Could Change Following Expand 2030 Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>"
+      "summary": "Simply Wall Street examines how Schouw & Co.'s Expand 2030 strategic plan could alter the investment case for the Danish conglomerate. The article discusses potential shifts in the company's growth narrative and market positioning resulting from this expansion initiative."
     },
     {
       "id": 666284,
@@ -118679,6 +118723,128 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT19GWldGX2d4aE9yVkQ2S1kwbC1qanpWeW1QNlZXaHFkbUE3LXM3YUJUMXdXclBtcFcwYkhkX0NUWDhqWTllTjFmNExlb1R2U1RTQ0lyNWZ4dXVibWlIWVJQbGV2WXR2amJpb2ZzQi05ZkxWMnNHX2pjRlNPTWMycl83Q1N5ZjVDZFRENFhYSVRpdnh4LUppZkFYckZEejNTVkVoV0paSEsybzQ?oc=5\" target=\"_blank\">Noruega: Skretting y Andfjord innovan en nutrición para centros cerrados de acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 666969,
+      "story_id": 2674,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3JDX1ctZ1UzNzk0Qm56b0dvbHBDcHpJeDFHUE16UnowTUxiMjRDTndnMkFpc0pScmxaZjlZMFlHMnFyaGlJQlRwSWpJaHhFd056QmhEZ0RNclJNRGNkcGhaTEtQbnFZQThlclpKWF9tdlZBaTNjOW9oQzRWckwyUnppQ1JTcWFoQlhIcQ?oc=5",
+      "title": "BioMar - Presentation of the H1 2026 Half-Year Report - Inderes",
+      "source_name": "Inderes",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar presents H1 2026 half-year financial results and performance",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group has presented its H1 2026 half-year report, covering interim financial results and operational performance. The article appears to be a factual summary of the company's earnings announcement for the first half of 2026."
+    },
+    {
+      "id": 667078,
+      "story_id": 2672,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcU80bjZCdlhLbkNZel9VOExzbFJLcW80VW1meFphSUk0aGl1czAxQUJiSHp6bGFGTG9kVFVyU2NRVXJrTXA5T3NVdnZjSkZ2ZVdoUUtDT2diNGpWTldjMko3V016V0p3OHR2X0d0OTIzcTJjaGhiVXlmOU9GOXNIRlJJeThIaUx3bmx6N0JNNHY3R2syRUJzaktWckJRUndjQ0xCVmJENHpPdExLNjcxZ0tOMm14Q2FIa2h0WQ?oc=5",
+      "title": "Økt minstelønn til de som produserer fiskefôr og fiskemel - Frifagbevegelse",
+      "source_name": "Frifagbevegelse",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-05-31T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.8,
+      "prominence": "passing",
+      "angle": "Increased minimum wage for fish feed and fishmeal producers",
+      "key_claims": [
+        "BioMar is among producers affected by minimum wage increases in the fish feed and fishmeal sector"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "The article reports on increased minimum wage agreements affecting fish feed and fishmeal producers in Norway. BioMar is mentioned as one of the companies impacted by these labor cost changes."
+    },
+    {
+      "id": 667725,
+      "story_id": 2673,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObHE1MlUzMS1WeHVkRVhhRms5RzI0REhXMkUwY0lBeWdQRFFqZXgzaXF3SnBlUl9vWk9YcHZhWFoyZHZCemVad3BmUTl1UGF3RGRPRGZMWHVPeE84STdZTzdLdkpGUVJTc2Y3WjdqVVdZRVk1dzhQVEM3QmJiNzVEMUJjMlE2T3FSYWZVV0hWYW5NUDFfMXpvck0xeV9GVjdYcEM2eWFRbkxhTV9ObVdmd21fNUo?oc=5",
+      "title": "AquaVision 2026: Entradas casi agotadas mientras se confirma el programa completo - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObHE1MlUzMS1WeHVkRVhhRms5RzI0REhXMkUwY0lBeWdQRFFqZXgzaXF3SnBlUl9vWk9YcHZhWFoyZHZCemVad3BmUTl1UGF3RGRPRGZMWHVPeE84STdZTzdLdkpGUVJTc2Y3WjdqVVdZRVk1dzhQVEM3QmJiNzVEMUJjMlE2T3FSYWZVV0hWYW5NUDFfMXpvck0xeV9GVjdYcEM2eWFRbkxhTV9ObVdmd21fNUo?oc=5\" target=\"_blank\">AquaVision 2026: Entradas casi agotadas mientras se confirma el programa completo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 667745,
+      "story_id": 656,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkVXV1h0Qk9IVFd3aXd0bFhLRzZTT1ZUVGxuV1BGZ2FVanNKR2g2cy1TcnlBal9JRHVHTklQUEJGaTNCNlpQQ3RXcUsxTWI3ZVlJemNMcXExYzNfSkROSVFESlZTU0lrV1RuMlFSQm01OUdKMV9oNzJaYjRnSlhpcW5QX2RGRVhmbE52M09YNWotb0pDaVE?oc=5",
+      "title": "Mads Martinsen, nuevo Gerente General de Skretting Noruega - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-05-22T19:25:12+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkVXV1h0Qk9IVFd3aXd0bFhLRzZTT1ZUVGxuV1BGZ2FVanNKR2g2cy1TcnlBal9JRHVHTklQUEJGaTNCNlpQQ3RXcUsxTWI3ZVlJemNMcXExYzNfSkROSVFESlZTU0lrV1RuMlFSQm01OUdKMV9oNzJaYjRnSlhpcW5QX2RGRVhmbE52M09YNWotb0pDaVE?oc=5\" target=\"_blank\">Mads Martinsen, nuevo Gerente General de Skretting Noruega</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 667751,
+      "story_id": 599,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXFIZkY5YktHVHVpMEFCQ2ltT1RENnkwaWVGNGVEVVVKRTBqcG01eTRNWnRTZWVidGRnZmxmMU11UEc5Wm9BWS1QYWd2aTAtQXl4RlBXemJrbjJGV2hlUlp5QnNjcGlOaE9kWHFVU0VpbnlGU0E4dm9ScFNfVG5MVXFrSEU2QzRHOWxDdGE2NE9zZGFObXhSTG84Y0tsRVRBV2RDRmxuNTdOVml5OGUxU3hZWS1OWEJzSWJ3Vm82VzFHcjlwR0dkSUJVUk13ZHMxR2pqR3NXVHVtLXF4?oc=5",
+      "title": "Skretting Chile celebra exitoso cierre de su negociación colectiva - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-05-06T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXFIZkY5YktHVHVpMEFCQ2ltT1RENnkwaWVGNGVEVVVKRTBqcG01eTRNWnRTZWVidGRnZmxmMU11UEc5Wm9BWS1QYWd2aTAtQXl4RlBXemJrbjJGV2hlUlp5QnNjcGlOaE9kWHFVU0VpbnlGU0E4dm9ScFNfVG5MVXFrSEU2QzRHOWxDdGE2NE9zZGFObXhSTG84Y0tsRVRBV2RDRmxuNTdOVml5OGUxU3hZWS1OWEJzSWJ3Vm82VzFHcjlwR0dkSUJVUk13ZHMxR2pqR3NXVHVtLXF4?oc=5\" target=\"_blank\">Skretting Chile celebra exitoso cierre de su negociación colectiva</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -121548,7 +121714,7 @@
         "week": "2024-W19",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2024-W20",
@@ -121564,7 +121730,7 @@
       },
       {
         "week": "2024-W22",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Skretting": 6
       },
@@ -121860,7 +122026,7 @@
         "week": "2025-W21",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 9
+        "Skretting": 10
       },
       {
         "week": "2025-W22",
@@ -122160,7 +122326,7 @@
         "week": "2026-W19",
         "BioMar": 21,
         "Cargill": 0,
-        "Skretting": 24
+        "Skretting": 25
       },
       {
         "week": "2026-W20",
@@ -122212,7 +122378,7 @@
       },
       {
         "week": "2026-W28",
-        "BioMar": 87,
+        "BioMar": 88,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -122298,7 +122464,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1918
+        "count": 1920
       },
       {
         "company": "Cargill",
@@ -122306,7 +122472,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1184
+        "count": 1187
       }
     ]
   }
