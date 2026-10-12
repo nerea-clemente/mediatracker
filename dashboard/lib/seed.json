@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T19:10:21+00:00",
+  "generated_at": "2026-10-12T22:46:39+00:00",
   "stats": {
-    "mention_count": 3416,
-    "story_count": 2503,
-    "analyzed_count": 1920,
+    "mention_count": 3418,
+    "story_count": 2505,
+    "analyzed_count": 1921,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -1020,6 +1020,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG1yaHF2b29JbVBOUWl1bnZldEpHaXB4R0ozTFprSWdEaWtfLTFpRDJVTmtkOEZJelB1aHUtUmQ1WWswLXd4cy1aWkI0LVU3bGh1d2p2U1Q4V0hUZnFMcXdzMUpFTHh5X2hIUFAwYXdRLXAtcFh1TG9HdHFOcktCbkNXMVY1V0RjblpaeHJBb0V5MHU3Y3l4NXpHRXBWY0pXTEh4OTIyQUVBRTI4Yl9MdWVTTDJqVjUxcmY4S1hB?oc=5\" target=\"_blank\">Arbeidsliv, Nyhet | Rekordår i første år som sjef: – Bedre å ha det travelt enn å lete etter arbeid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>",
       "first_seen": "2026-09-19T16:00:00+00:00",
       "last_seen": "2026-09-19T16:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2676,
+      "headline": "Sola kommune, Sola | Prosjektleder-Per skifter jobb etter 13 år: – Jeg har fått være med på mye moro - Solabladet",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSnYwUjVmU2ZSNDVvNnJCT1VvUHg0VjIxWXJib0tRU2k4c1NUYXh5eVVwZXZSSVVfeHpHNVpCeFpVaF80b0l1djZvdnpGMmstRXpNeWMtbnA2MVpPNzF6NnAtaVd0aDI4NzJtNGs2b3FXLUQ4NUh5aHNZQl9XSjZ1clZSb2licy10Y0tnNnlGMUVaM1pmc2FUMTZOazdTSUFHXzVfR2VQQ2RIUEdLVmlkV0hxNjNvclk?oc=5\" target=\"_blank\">Sola kommune, Sola | Prosjektleder-Per skifter jobb etter 13 år: – Jeg har fått være med på mye moro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>",
+      "first_seen": "2026-09-18T07:00:00+00:00",
+      "last_seen": "2026-09-18T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -22920,6 +22934,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2675,
+      "headline": "Multi X lanza innovador plan piloto de alimentación basado en harina de insectos en alianza con BioMar y F4F - Diario Sustentable",
+      "story_summary": "Multi X has announced a pilot program for insect-meal-based aquaculture feed developed in partnership with BioMar and F4F. The initiative reflects industry movement toward sustainable alternative protein sources in aquaculture nutrition.",
+      "first_seen": "2022-06-14T07:00:00+00:00",
+      "last_seen": "2022-06-14T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 517,
@@ -118845,6 +118873,58 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXFIZkY5YktHVHVpMEFCQ2ltT1RENnkwaWVGNGVEVVVKRTBqcG01eTRNWnRTZWVidGRnZmxmMU11UEc5Wm9BWS1QYWd2aTAtQXl4RlBXemJrbjJGV2hlUlp5QnNjcGlOaE9kWHFVU0VpbnlGU0E4dm9ScFNfVG5MVXFrSEU2QzRHOWxDdGE2NE9zZGFObXhSTG84Y0tsRVRBV2RDRmxuNTdOVml5OGUxU3hZWS1OWEJzSWJ3Vm82VzFHcjlwR0dkSUJVUk13ZHMxR2pqR3NXVHVtLXF4?oc=5\" target=\"_blank\">Skretting Chile celebra exitoso cierre de su negociación colectiva</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 668317,
+      "story_id": 2675,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPazJ4TXM4S1RVY2E5Uk1WMTM5ZVdBclFRZ0tmeHcyNmNHUkVVT1RZRDhGUlJFZUd4cnJncEg0Ukt2di1ZNUZjNGlmcFJ6TUNDX0dGcm1Xd0FFQTYtS0VRTHRfZEZBbm1sR1dURC1fV1RMUVZVQ0p5YWhPSXRhY25DMldQWExrX3dJNVRJd2dtdUtQYUtLejRINHZxUTNGdE41dkNxQXNUQmxjcV9xWl9BNFVzM0Fqanh0ckFleGF5V2hhUXFrZld2ZWJWRGpBZE5qbHBoNVR4a0FJby00M3BjUmR5Q2x6UQ?oc=5",
+      "title": "Multi X lanza innovador plan piloto de alimentación basado en harina de insectos en alianza con BioMar y F4F - Diario Sustentable",
+      "source_name": "Diario Sustentable",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2022-06-14T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Multi X launches insect-meal pilot feed program with BioMar partnership",
+      "key_claims": [
+        "Multi X is launching a pilot feeding plan based on insect meal",
+        "BioMar is partnering with Multi X and F4F on the initiative",
+        "The program represents an innovation in sustainable aquaculture feed"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Multi X has announced a pilot program for insect-meal-based aquaculture feed developed in partnership with BioMar and F4F. The initiative reflects industry movement toward sustainable alternative protein sources in aquaculture nutrition."
+    },
+    {
+      "id": 668582,
+      "story_id": 2676,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSnYwUjVmU2ZSNDVvNnJCT1VvUHg0VjIxWXJib0tRU2k4c1NUYXh5eVVwZXZSSVVfeHpHNVpCeFpVaF80b0l1djZvdnpGMmstRXpNeWMtbnA2MVpPNzF6NnAtaVd0aDI4NzJtNGs2b3FXLUQ4NUh5aHNZQl9XSjZ1clZSb2licy10Y0tnNnlGMUVaM1pmc2FUMTZOazdTSUFHXzVfR2VQQ2RIUEdLVmlkV0hxNjNvclk?oc=5",
+      "title": "Sola kommune, Sola | Prosjektleder-Per skifter jobb etter 13 år: – Jeg har fått være med på mye moro - Solabladet",
+      "source_name": "Solabladet",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-09-18T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSnYwUjVmU2ZSNDVvNnJCT1VvUHg0VjIxWXJib0tRU2k4c1NUYXh5eVVwZXZSSVVfeHpHNVpCeFpVaF80b0l1djZvdnpGMmstRXpNeWMtbnA2MVpPNzF6NnAtaVd0aDI4NzJtNGs2b3FXLUQ4NUh5aHNZQl9XSjZ1clZSb2licy10Y0tnNnlGMUVaM1pmc2FUMTZOazdTSUFHXzVfR2VQQ2RIUEdLVmlkV0hxNjNvclk?oc=5\" target=\"_blank\">Sola kommune, Sola | Prosjektleder-Per skifter jobb etter 13 år: – Jeg har fått være med på mye moro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solabladet</font>"
     }
   ],
   "share_of_voice": {
@@ -121160,7 +121240,7 @@
       },
       {
         "week": "2022-W24",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Skretting": 2
       },
@@ -122440,7 +122520,7 @@
         "week": "2026-W38",
         "BioMar": 10,
         "Cargill": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2026-W39",
@@ -122464,7 +122544,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1920
+        "count": 1921
       },
       {
         "company": "Cargill",
@@ -122472,7 +122552,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1187
+        "count": 1188
       }
     ]
   }
