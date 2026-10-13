@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T12:52:30+00:00",
+  "generated_at": "2026-10-13T17:02:02+00:00",
   "stats": {
-    "mention_count": 3419,
-    "story_count": 2506,
-    "analyzed_count": 1921,
+    "mention_count": 3422,
+    "story_count": 2509,
+    "analyzed_count": 1924,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -411,6 +411,48 @@
     "www.marketscreener.com"
   ],
   "stories": [
+    {
+      "id": 2680,
+      "headline": "Transcript : Aktieselskabet Schouw & Co. - Analyst/Investor Day - MarketScreener España",
+      "story_summary": "This is a transcript from Schouw & Co.'s analyst and investor day event. The document captures formal presentations and discussion with financial analysts and investors about the company's business and strategy.",
+      "first_seen": "2026-10-13T14:17:37+00:00",
+      "last_seen": "2026-10-13T14:17:37+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2679,
+      "headline": "BioMar provides experimental and farm-scale evidence on improving European seabass survival under bacterial pressure - misPeces",
+      "story_summary": "BioMar has published research showing experimental and farm-scale evidence that its feed solutions can improve survival rates in European seabass exposed to bacterial pressure. The article highlights the company's technical approach to addressing a significant disease challenge in aquaculture production systems.",
+      "first_seen": "2026-10-13T13:54:59+00:00",
+      "last_seen": "2026-10-13T13:54:59+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "product_issue"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2678,
+      "headline": "BioMar presenta resultados experimentales y de granja sobre una estrategia de alimentación funcional para lubina - misPeces",
+      "story_summary": "BioMar presents experimental and farm-based results demonstrating a functional feeding strategy designed for sea bass (lubina). The announcement highlights the company's research and development work in specialized aquaculture nutrition for this species segment.",
+      "first_seen": "2026-10-13T13:49:11+00:00",
+      "last_seen": "2026-10-13T13:49:11+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2667,
       "headline": "Price to book ratio of Schouw & Co – HAM:5RF - TradingView",
@@ -118963,6 +119005,81 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWxsV3RSUTUxVUJUaHo4NThadm9qbThodEZaTjlEcGNISzBNT1BwbVpZZmpIY09oaWx5cUZaWkV1ZGFyRDRELVpQSjFFdHh1MjV2ZHJoVVg5dWlfRXFPbW5kWjVaZm5URkRzUHBUZFpDS1JJVVNhSVl1akc1U1BEem5Ka2dGM3hrQmVlb0FxMXhRT0tVMllTNWFXdUgtRnZqTW1vbmphVlJtNTJyUk1teFJlTmNyOVptdmFydzljS09rMDRLM3M4VWI1OA?oc=5\" target=\"_blank\">Vitalis de Skretting Chile: una dieta versátil para reproductores en todos los sistemas de cultivo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 671056,
+      "story_id": 2679,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZmFCQlVWWEtLUGs5WF9Lb1Y2aXpJNWxfZmdRQ19LM0o4SHQtV3ZVTm1JaFhEN280Yi1oYTY1NTlqWnFxTXotcXp4N3VUV0N2MHpQRVFlRF9UbzhGVE5ZTFBsb25BNGlGZWdZeGxQM0ZSWjhxRFJIN1pnVW8xRXZzOU11YW1YMHZwOG1INXFFSmU5dFBNaEh3YlM2Tk5PSjMzU0pmSWx5RkllSkRpbGtnQUQ0S0FjclY1Y2FvaWtRV3I3dXR3dE5sbVJqS1JJb1RxRFBmTUJiTGl1VW8tSmhuTXBMY04?oc=5",
+      "title": "BioMar provides experimental and farm-scale evidence on improving European seabass survival under bacterial pressure - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-10-13T13:54:59+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar demonstrates feed solutions for European seabass bacterial disease resilience",
+      "key_claims": [
+        "BioMar has generated experimental evidence on improving European seabass survival under bacterial pressure",
+        "BioMar has demonstrated farm-scale evidence of survival improvements under bacterial pressure"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "product_issue"
+      ],
+      "summary": "BioMar has published research showing experimental and farm-scale evidence that its feed solutions can improve survival rates in European seabass exposed to bacterial pressure. The article highlights the company's technical approach to addressing a significant disease challenge in aquaculture production systems."
+    },
+    {
+      "id": 671356,
+      "story_id": 2678,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNVFhLWRxUy1FbmE2Nm5VS0tadTFVLVlmM2JnSmRQb0Jmb3N0QS15V0IwX1Y2UlkyUDAzNUJtdEplS2o4RkVBT25aZmFTNnRaVTk0NXlLblY3d1lta0Z0dTNSWWQ3MmpyRENlZTBFUzBLSm5ubldTNWNJeWp0LWhnUUdMcHdBYjJXYlhFX1FMZFo5TkR4V1VLZm4xRVJFS2djRE10azNBVC1JM3ZJd1lnYTJ2cG9FQlJFYS1GUldRRkVUNlJGMlJ4VnI4V1pqOHBLdmVON0NUVzZpVjJPQlNvUw?oc=5",
+      "title": "BioMar presenta resultados experimentales y de granja sobre una estrategia de alimentación funcional para lubina - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-10-13T13:49:11+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar showcases functional feed strategy results for sea bass",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar presents experimental and farm-based results demonstrating a functional feeding strategy designed for sea bass (lubina). The announcement highlights the company's research and development work in specialized aquaculture nutrition for this species segment."
+    },
+    {
+      "id": 671517,
+      "story_id": 2680,
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTmtrckxYelJiNS02YkhHUjZqSUxVd1duOWptb3dxZ0FzbzdWNUFXdGM0OGwtQkRnRjlBeFNlVnpQckxuVU50STVJUWxKclRjdGlNOGFGRWxIZ25nZ0J6bnFOa0hhU3Z1ZElodEo4a21wcVJZZFNrWU15NFYwUHR4cDZnTEFCanZkamkza0FGaHZIcXN6UW5fYjlZd3RZajkwVkJEUkNPeXhxaVZzY3B6NF9jV2NBMWlMSDh0Z2t1RmNTTTB4V0tja1JxSEZjSHc1cHBpVUhBWU1GUjNmTG56S3IwNDQxbTB1RTI4?oc=5",
+      "title": "Transcript : Aktieselskabet Schouw & Co. - Analyst/Investor Day - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-10-13T14:17:37+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co. analyst and investor day transcript",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "This is a transcript from Schouw & Co.'s analyst and investor day event. The document captures formal presentations and discussion with financial analysts and investors about the company's business and strategy."
     }
   ],
   "share_of_voice": {
@@ -122577,12 +122694,18 @@
         "BioMar": 15,
         "Cargill": 0,
         "Skretting": 7
+      },
+      {
+        "week": "2026-W42",
+        "BioMar": 3,
+        "Cargill": 0,
+        "Skretting": 0
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1921
+        "count": 1924
       },
       {
         "company": "Cargill",
