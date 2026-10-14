@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T21:02:01+00:00",
+  "generated_at": "2026-10-14T00:49:44+00:00",
   "stats": {
-    "mention_count": 3424,
-    "story_count": 2510,
-    "analyzed_count": 1924,
+    "mention_count": 3427,
+    "story_count": 2512,
+    "analyzed_count": 1925,
     "off_topic_mentions": 136,
     "off_topic_stories": 85
   },
@@ -412,6 +412,20 @@
     "www.marketscreener.com"
   ],
   "stories": [
+    {
+      "id": 2683,
+      "headline": "BioMar presents experimental and farm results on a functional feeding strategy for European seabass - misPeces",
+      "story_summary": "BioMar has presented experimental and farm-based results demonstrating a functional feeding strategy designed for European seabass production. The presentation showcases the company's research and practical application of this nutritional approach in aquaculture settings., key_claims: [",
+      "first_seen": "2026-10-13T21:59:16+00:00",
+      "last_seen": "2026-10-13T21:59:16+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2681,
       "headline": "Espen (35) Gjesdals er yngste ordførerkandidat: – Et generasjonsskifte - Gjesdalbuen",
@@ -18885,7 +18899,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -31473,6 +31487,20 @@
       "id": 2314,
       "headline": "Cargill lanserer ny teknologi for kvalitetsprøver av levende laks - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTg3NnUzakxxMHlqcG85V1dIaHkyaGVCTExiNWpudHFsZHItWWtuTkdQbW5MVlR6ZlZVQkEyRGU0WFltcXZNNTRmUHVJY0k0cmhWYTU3T0ZNZm5ZcGxEdUpmcExITDFjMDExWkZId3JNYnRPd2IzQXdvMXRVVlZhWUU2WHJRV3ZVMWJj?oc=5\" target=\"_blank\">Cargill lanserer ny teknologi for kvalitetsprøver av levende laks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2017-08-15T07:00:00+00:00",
+      "last_seen": "2017-08-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 2682,
+      "headline": "Cargill launches new technology for quality sampling of live salmon - Salmon Business",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFRKc0ZRcFctOTJydWt0X29DUlNMR0hWR1Ntd0YyaUpYNEdQRHRUcnlBZmxWcklIMDF3a0Zsc1A1M2Q5UXdqMG50Y3JCcFBGUTU4R19zYTB4Y2RoellzNE1TR1haTDJteVhSWWN1VDRWcE9mNnR5bllfaV95WFRlVE12TjV1a1A2TmhBVGQxY3NDSkk0VHFJSVAtNHR0c08tM1E?oc=5\" target=\"_blank\">Cargill launches new technology for quality sampling of live salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>",
       "first_seen": "2017-08-15T07:00:00+00:00",
       "last_seen": "2017-08-15T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -119143,6 +119171,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9fazQyQklLOUU0UXluX2Nyb01HR2NwQzB2M0pPXzQ4ZVZRNEw3Z1NFZVVvQkNxczdvS3dhMGI0cEJzWl9rLXRpeG56MWdHOGd4NE16c1F4azdCVHdyc2tEd3J3SXhDOGYyMUVpNlRCd3VXUExJZGk0ZjhiU1A?oc=5\" target=\"_blank\">86’ - Mål av Ingeborg Skretting (2-1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>"
+    },
+    {
+      "id": 673144,
+      "story_id": 2683,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUHpKQU5RSzdqamtaRlJmZlB0STFleWF3dDRHQ1Y1dTJPMDZsOFpjblJKX3U0TTIycEhZQ2lTck9vaS1WOHBYdFlpX0NBZEhCbVZWVURqcVVkQUVjWnFFQVU5RF9RZ0d4UVcxRktfWjYwdEk5Qkh6WGV1M29uNzY5OXhKM0NiV0JFeFhFSXEyTWVlbHh3d09pSUViMXQ2ZndnZ29HLUNqOURlUUdVUDJEZG1qbm94TXg1Vi1PcVEtWm5qSGNyMGwwRWUxQjJuQQ?oc=5",
+      "title": "BioMar presents experimental and farm results on a functional feeding strategy for European seabass - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-10-13T21:59:16+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar advances functional feeding strategy for European seabass",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has presented experimental and farm-based results demonstrating a functional feeding strategy designed for European seabass production. The presentation showcases the company's research and practical application of this nutritional approach in aquaculture settings., key_claims: ["
+    },
+    {
+      "id": 673759,
+      "story_id": 2633,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTFLRm8tY05HeDFibG5uTHFscW1UWmxOSjFQdnFQb2YxRE1fZnBwSUxJWGhZVGdTUDBDbGFtalJNMEpVbTFRS25iRVd3dEtyUHJWTllpYi1lNHVHRGF5YVNlbUN2d3QyOFpYU092TkxFNnRvN2NGcjZvOEdiZjJQN0RqbElPakxUMEZhRk5rUkpYa0hfeURHWjFkU2I2dktyclh3b3NJVTRqMTg?oc=5",
+      "title": "Skretting Chile becomes first salmon feed mill to achieve ASC certification - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2024-02-06T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTFLRm8tY05HeDFibG5uTHFscW1UWmxOSjFQdnFQb2YxRE1fZnBwSUxJWGhZVGdTUDBDbGFtalJNMEpVbTFRS25iRVd3dEtyUHJWTllpYi1lNHVHRGF5YVNlbUN2d3QyOFpYU092TkxFNnRvN2NGcjZvOEdiZjJQN0RqbElPakxUMEZhRk5rUkpYa0hfeURHWjFkU2I2dktyclh3b3NJVTRqMTg?oc=5\" target=\"_blank\">Skretting Chile becomes first salmon feed mill to achieve ASC certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 674088,
+      "story_id": 2682,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFRKc0ZRcFctOTJydWt0X29DUlNMR0hWR1Ntd0YyaUpYNEdQRHRUcnlBZmxWcklIMDF3a0Zsc1A1M2Q5UXdqMG50Y3JCcFBGUTU4R19zYTB4Y2RoellzNE1TR1haTDJteVhSWWN1VDRWcE9mNnR5bllfaV95WFRlVE12TjV1a1A2TmhBVGQxY3NDSkk0VHFJSVAtNHR0c08tM1E?oc=5",
+      "title": "Cargill launches new technology for quality sampling of live salmon - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2017-08-15T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFRKc0ZRcFctOTJydWt0X29DUlNMR0hWR1Ntd0YyaUpYNEdQRHRUcnlBZmxWcklIMDF3a0Zsc1A1M2Q5UXdqMG50Y3JCcFBGUTU4R19zYTB4Y2RoellzNE1TR1haTDJteVhSWWN1VDRWcE9mNnR5bllfaV95WFRlVE12TjV1a1A2TmhBVGQxY3NDSkk0VHFJSVAtNHR0c08tM1E?oc=5\" target=\"_blank\">Cargill launches new technology for quality sampling of live salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
     }
   ],
   "share_of_voice": {
@@ -120217,7 +120317,7 @@
       {
         "week": "2017-W33",
         "BioMar": 2,
-        "Cargill": 1,
+        "Cargill": 2,
         "Skretting": 0
       },
       {
@@ -121934,7 +122034,7 @@
         "week": "2024-W06",
         "BioMar": 2,
         "Cargill": 1,
-        "Skretting": 7
+        "Skretting": 8
       },
       {
         "week": "2024-W07",
@@ -122760,7 +122860,7 @@
       },
       {
         "week": "2026-W42",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 1
       }
@@ -122768,15 +122868,15 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1924
+        "count": 1925
       },
       {
         "company": "Cargill",
-        "count": 309
+        "count": 310
       },
       {
         "company": "Skretting",
-        "count": 1191
+        "count": 1192
       }
     ]
   }
