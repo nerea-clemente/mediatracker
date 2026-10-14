@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T10:26:41+00:00",
+  "generated_at": "2026-10-14T14:34:54+00:00",
   "stats": {
-    "mention_count": 3427,
-    "story_count": 2512,
-    "analyzed_count": 1925,
-    "off_topic_mentions": 136,
+    "mention_count": 3429,
+    "story_count": 2513,
+    "analyzed_count": 1926,
+    "off_topic_mentions": 137,
     "off_topic_stories": 85
   },
   "outlets": [
@@ -10066,7 +10066,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -13491,6 +13491,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2684,
+      "headline": "Skretting Chile reconocerá iniciativas de sostenibilidad en próxima conferencia - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYmoxeFFhcENWS1Q4TUlMZjhUd1J1RzNDamR3S2J4YVJFLXBtYjlVV19jUFVaaElnMWZFQUlETFdYZmFDdVViM0FtVVlleG5MYkpBT2tVVy1DUVJ5VW0tZDVMMEJwQjFvS003TWY4cEhlTFB1S1NyM0tueTdoQ19iMTFUWkd2U05Pd0NDMFFFTkJyYjRGcFJEWEF5a0loWXJtenhwUjgyRGVFeWJObDJTRVRld2dpMW44cjYwaTRMRDUzZzFzVjNtTlg4WQ?oc=5\" target=\"_blank\">Skretting Chile reconocerá iniciativas de sostenibilidad en próxima conferencia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2025-07-18T07:00:00+00:00",
+      "last_seen": "2025-07-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 2034,
@@ -119243,6 +119257,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFRKc0ZRcFctOTJydWt0X29DUlNMR0hWR1Ntd0YyaUpYNEdQRHRUcnlBZmxWcklIMDF3a0Zsc1A1M2Q5UXdqMG50Y3JCcFBGUTU4R19zYTB4Y2RoellzNE1TR1haTDJteVhSWWN1VDRWcE9mNnR5bllfaV95WFRlVE12TjV1a1A2TmhBVGQxY3NDSkk0VHFJSVAtNHR0c08tM1E?oc=5\" target=\"_blank\">Cargill launches new technology for quality sampling of live salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 675587,
+      "story_id": 269,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM2g5YnVxVFBLN2ZqUHVBR3lWVjU1U2ZONlFBcVlFUjJLVm5ZSWphb05uU21ud0wyb1QxVVVCczhHWEZCZEpFWGdFWGdpbDBTeDlVUEZJd2Y0WmtQcFZhcHdEemhsNVV1VVI0eG5WMG9sZVBvUEt2eVNxSEIxVS15eE83eVI1UWxlaDlQN05Jc2c2X0FKbnNwY2hzekgwSXFZLW5MR0NOMjRPMlZvTG5URnpzTVhyOHBVUkh3TmU1UlY0M0M0b1RuRnZNOVRHV3JCQkFnNGpzQUwya0Z3OWEyeFQwNktsMGpuc1FDLUxzNXVwVDE4bktLZUxSZw?oc=5",
+      "title": "Biomar y BioZenite, la mayor organización criminal del fraude del IVA en hidrocarburos, tenía un taller clandestino de armas de guerra y un blindado de combate 'BMR' - Cadena SER",
+      "source_name": "Cadena SER",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-12-18T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Spanish criminal hydrocarbons VAT-fraud ring with weapons cache",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This article reports on a major Spanish criminal organization involved in VAT fraud in the hydrocarbons sector, which operated clandestine weapons workshops and possessed armored vehicles. The organization uses a name 'Biomar' but is unrelated to BioMar Group, the aquaculture feed producer.','key_claims':[],"
+    },
+    {
+      "id": 676099,
+      "story_id": 2684,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYmoxeFFhcENWS1Q4TUlMZjhUd1J1RzNDamR3S2J4YVJFLXBtYjlVV19jUFVaaElnMWZFQUlETFdYZmFDdVViM0FtVVlleG5MYkpBT2tVVy1DUVJ5VW0tZDVMMEJwQjFvS003TWY4cEhlTFB1S1NyM0tueTdoQ19iMTFUWkd2U05Pd0NDMFFFTkJyYjRGcFJEWEF5a0loWXJtenhwUjgyRGVFeWJObDJTRVRld2dpMW44cjYwaTRMRDUzZzFzVjNtTlg4WQ?oc=5",
+      "title": "Skretting Chile reconocerá iniciativas de sostenibilidad en próxima conferencia - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-07-18T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYmoxeFFhcENWS1Q4TUlMZjhUd1J1RzNDamR3S2J4YVJFLXBtYjlVV19jUFVaaElnMWZFQUlETFdYZmFDdVViM0FtVVlleG5MYkpBT2tVVy1DUVJ5VW0tZDVMMEJwQjFvS003TWY4cEhlTFB1S1NyM0tueTdoQ19iMTFUWkd2U05Pd0NDMFFFTkJyYjRGcFJEWEF5a0loWXJtenhwUjgyRGVFeWJObDJTRVRld2dpMW44cjYwaTRMRDUzZzFzVjNtTlg4WQ?oc=5\" target=\"_blank\">Skretting Chile reconocerá iniciativas de sostenibilidad en próxima conferencia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -122472,7 +122534,7 @@
         "week": "2025-W29",
         "BioMar": 3,
         "Cargill": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2025-W30",
@@ -122602,7 +122664,7 @@
       },
       {
         "week": "2025-W51",
-        "BioMar": 24,
+        "BioMar": 25,
         "Cargill": 0,
         "Skretting": 9
       },
@@ -122868,7 +122930,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1925
+        "count": 1926
       },
       {
         "company": "Cargill",
@@ -122876,7 +122938,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1192
+        "count": 1193
       }
     ]
   }
