@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T10:11:06+00:00",
+  "generated_at": "2026-10-15T14:14:57+00:00",
   "stats": {
-    "mention_count": 3438,
-    "story_count": 2519,
-    "analyzed_count": 1928,
+    "mention_count": 3439,
+    "story_count": 2520,
+    "analyzed_count": 1929,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
   },
@@ -412,6 +412,20 @@
     "www.marketscreener.com"
   ],
   "stories": [
+    {
+      "id": 2691,
+      "headline": "BioMar lanza BioRetain para mejorar la retención de nutrientes y optimizar la formulación de alimentos acuícolas - Mundoacuicola",
+      "story_summary": "BioMar has introduced BioRetain, a new product designed to improve nutrient retention and optimize the formulation of aquaculture feeds. The launch represents an innovation aimed at enhancing feed efficiency in the aquaculture sector.",
+      "first_seen": "2026-10-15T13:49:01+00:00",
+      "last_seen": "2026-10-15T13:49:01+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2690,
       "headline": "BioMar unveils new formulation concept focused on nutrient retention - Aquafeed.com",
@@ -119605,6 +119619,34 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2p4RGZPeGd6MWVFQ3Y4UGhTcmQ1a2tUYlJQOEpiMENUQWRXSGtZejBQUHZ6bHFscG5pdklqcG9VN0hzMDNESjViVTFhb0UxZEo4VU05OTMyblEyZTBISmZST3hacEhpQXp1RUZrZGNOOHRTWFpKSlpGVnJtVWZNY0FWVHdzQnZPVWQyRk5NcmFDTjRLOHhGQlpyYWtodHBDc1ZXdGVXdGllWDUxNWc?oc=5\" target=\"_blank\">Ny bærekraftsrapport lansert av Cargill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 679600,
+      "story_id": 2691,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdnJqcE55bnRJSmQySVpndWdKczRRckI3TDZPZ3FPcXRWcUlka1pfb2k3NDB3UWI2dFZCc0ZFazBXYXFXZTRyc3hfN3hFeUd2bXV1bU50RlZteWVkS0hueUxHZzg5RnE0ZHdKYVNtWnMxOVhTakt5UUY1aWJFUFJkY0NPTHdBcTZ3bVo2UVdFb0VsZXV1SWhqX2w2TWh3c1c4TkM2YVZpaGxCVnNGa1N6QjZlOWFpUUZLWmc4V3B0SXpZTldqR0l6OFhiRU5ETGdzLVd1RTJ4TzRueVFBVEhr?oc=5",
+      "title": "BioMar lanza BioRetain para mejorar la retención de nutrientes y optimizar la formulación de alimentos acuícolas - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-10-15T13:49:01+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar launches new feed additive to enhance nutrient retention",
+      "key_claims": [
+        "BioMar has launched a product called BioRetain",
+        "BioRetain improves nutrient retention in aquaculture feed",
+        "BioRetain optimizes aquaculture feed formulation"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has introduced BioRetain, a new product designed to improve nutrient retention and optimize the formulation of aquaculture feeds. The launch represents an innovation aimed at enhancing feed efficiency in the aquaculture sector."
     }
   ],
   "share_of_voice": {
@@ -123228,7 +123270,7 @@
       },
       {
         "week": "2026-W42",
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Skretting": 1
       }
@@ -123236,7 +123278,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1928
+        "count": 1929
       },
       {
         "company": "Cargill",
