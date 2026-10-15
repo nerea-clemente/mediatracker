@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T14:14:57+00:00",
+  "generated_at": "2026-10-15T19:44:39+00:00",
   "stats": {
-    "mention_count": 3439,
-    "story_count": 2520,
-    "analyzed_count": 1929,
+    "mention_count": 3443,
+    "story_count": 2524,
+    "analyzed_count": 1932,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
   },
@@ -413,11 +413,39 @@
   ],
   "stories": [
     {
+      "id": 2695,
+      "headline": "BioMar Launches BioRetain, Targeting Nutrient Retention in Aquafeed - Seafoodnews",
+      "story_summary": "BioMar has launched BioRetain, a new aquafeed product designed to improve nutrient retention. The product represents the company's effort to enhance feed efficiency in aquaculture operations.",
+      "first_seen": "2026-10-15T18:59:48+00:00",
+      "last_seen": "2026-10-15T18:59:48+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2691,
       "headline": "BioMar lanza BioRetain para mejorar la retención de nutrientes y optimizar la formulación de alimentos acuícolas - Mundoacuicola",
       "story_summary": "BioMar has introduced BioRetain, a new product designed to improve nutrient retention and optimize the formulation of aquaculture feeds. The launch represents an innovation aimed at enhancing feed efficiency in the aquaculture sector.",
       "first_seen": "2026-10-15T13:49:01+00:00",
       "last_seen": "2026-10-15T13:49:01+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2694,
+      "headline": "BioMar lanza una nueva era en la formulación de alimentos con BioRetain - Salmonexpert",
+      "story_summary": "BioMar has launched a new feed formulation technology called BioRetain, marking a significant advancement in aquaculture feed innovation. The product represents the company's commitment to developing next-generation solutions for the aquaculture industry.",
+      "first_seen": "2026-10-15T09:20:00+00:00",
+      "last_seen": "2026-10-15T09:20:00+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -15221,6 +15249,20 @@
       "id": 1566,
       "headline": "BioMar reduce al mínimo histórico su dependencia de ingredientes marinos extractivos para sus piensos - misPeces",
       "story_summary": "BioMar has achieved a historic reduction in its use of extractive marine ingredients in its aquaculture feed formulations. The company is moving toward more sustainable sourcing practices for its product lines.",
+      "first_seen": "2025-03-25T07:00:00+00:00",
+      "last_seen": "2025-03-25T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2693,
+      "headline": "BioMar reduce drásticamente el porcentaje de peces forrajeros utilizados - Salmonexpert",
+      "story_summary": "BioMar has substantially decreased the percentage of forage fish used in its aquaculture feed formulations. This initiative aligns with industry sustainability goals to reduce dependency on wild-caught fish resources in aquaculture production systems.",
       "first_seen": "2025-03-25T07:00:00+00:00",
       "last_seen": "2025-03-25T07:00:00+00:00",
       "primary_sentiment": "positive",
@@ -31440,6 +31482,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2692,
+      "headline": "Skretting Chile aumenta su capacidad de I+D con nuevo Centro de Investigación en Pargua - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEdSaE9LeWw2UUhScXdlX0gzYUdTX3FQMFRmeHhrNENteVZvTERUMkN0TXRKQUVaUzJTQW9lZVRzU0ZpSG9Lc2wyZVhXdGpfZElYOGM2S2dtLXY3NGhXQWFrcEpleW90Vnc2WW9NZDVmWkhCaVZLUUN0bmh5akpsMWstNHQ3bXJBemlSbGFxeEw1RXVFNGJHTHUwZExEUUZUaDhYamZFQmtDWDZtQzRRYjN4c2M4N3FncG1QU0RLR2RuQzhtenlwSG1NUXBPaERYYkhzTVlSOA?oc=5\" target=\"_blank\">Skretting Chile aumenta su capacidad de I+D con nuevo Centro de Investigación en Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2017-09-13T07:00:00+00:00",
+      "last_seen": "2017-09-13T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 2374,
@@ -119647,6 +119703,108 @@
         "none"
       ],
       "summary": "BioMar has introduced BioRetain, a new product designed to improve nutrient retention and optimize the formulation of aquaculture feeds. The launch represents an innovation aimed at enhancing feed efficiency in the aquaculture sector."
+    },
+    {
+      "id": 680337,
+      "story_id": 2695,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUVfVnppSEMyWGt2SGpDSUE3aEwxQ2RYTFYyLXAwQW9pc0o5MWRMZnJ0SVBEdDktbEtqQm9WWklXTUVDajBGN2pGTFd4ZHo5ZlZzU1FFRE5kV3JIbXhnZk1PV24yTzdOZTRkUFUwc2RrVlFFM2xucDdlZmxKVkpVZlZySjZ4elpSN1ZNRXRyN0lPQkVsdlFjRi1PNkluX0IxN184XzA2M21SNWJX?oc=5",
+      "title": "BioMar Launches BioRetain, Targeting Nutrient Retention in Aquafeed - Seafoodnews",
+      "source_name": "Seafoodnews",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-10-15T18:59:48+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar launches new aquafeed product targeting nutrient retention",
+      "key_claims": [
+        "BioMar has launched a new product called BioRetain",
+        "BioRetain targets nutrient retention in aquafeed"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has launched BioRetain, a new aquafeed product designed to improve nutrient retention. The product represents the company's effort to enhance feed efficiency in aquaculture operations."
+    },
+    {
+      "id": 680638,
+      "story_id": 2694,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWk8yV3FPcXp4MUVTd0NkQlNaWWZneFRGdXRpNG1GMGUzOElWUmhqblhHLXZnWWZSQ3NIS2xqLUFDbEtDUWNoTGxnUm52TmNmeVBzRzdSbFl6YjRGNGFYZHI3bnBkNVYwTnllUWNZVkZTOFlKMXdqVGlacEdvZ3pRd25Sc0VyOTBXSVNVWWFlZXAzSXpaYUZDWjJpazgwYVJjZkRsUjVjenBLaXp0Wm5ZS25hb08zU0t1RHllb0liWXFvWlVFUlNlUWZVWWNBd19PSHc?oc=5",
+      "title": "BioMar lanza una nueva era en la formulación de alimentos con BioRetain - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-10-15T09:20:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar launches innovative BioRetain feed formulation technology",
+      "key_claims": [
+        "BioMar has introduced a new feed formulation technology called BioRetain",
+        "BioRetain represents a new era in aquaculture feed formulation"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has launched a new feed formulation technology called BioRetain, marking a significant advancement in aquaculture feed innovation. The product represents the company's commitment to developing next-generation solutions for the aquaculture industry."
+    },
+    {
+      "id": 680695,
+      "story_id": 2693,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS3h4YS1NcWZCZ1NVQUdUSHFoZzU5OThLY0tua0dzU1Z0QWlZUk95R1Y0NDVPZjdISTRhVG9obXJhZEtJU3pTWi1ucWhWSGhtMmEzZDNqQzRldTNUV0psWUJuZTFuQWdfNnhwMHg1YWhNWDUyNkVfaVhHZ3BwcG5Sc0dkQnhqRXN4Q2ZNdjMxX2x0M2NTYTlDSnJYeHhXclhYeGRmTjZiS2U2RmZzaklmYjdVaU90Uk5wSEtwQzVXU0cxVU5ydzhKY0JZXzduUVZNS1pBaA?oc=5",
+      "title": "BioMar reduce drásticamente el porcentaje de peces forrajeros utilizados - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2025-03-25T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar significantly reduces forage fish content in feed",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has substantially decreased the percentage of forage fish used in its aquaculture feed formulations. This initiative aligns with industry sustainability goals to reduce dependency on wild-caught fish resources in aquaculture production systems."
+    },
+    {
+      "id": 681247,
+      "story_id": 2692,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEdSaE9LeWw2UUhScXdlX0gzYUdTX3FQMFRmeHhrNENteVZvTERUMkN0TXRKQUVaUzJTQW9lZVRzU0ZpSG9Lc2wyZVhXdGpfZElYOGM2S2dtLXY3NGhXQWFrcEpleW90Vnc2WW9NZDVmWkhCaVZLUUN0bmh5akpsMWstNHQ3bXJBemlSbGFxeEw1RXVFNGJHTHUwZExEUUZUaDhYamZFQmtDWDZtQzRRYjN4c2M4N3FncG1QU0RLR2RuQzhtenlwSG1NUXBPaERYYkhzTVlSOA?oc=5",
+      "title": "Skretting Chile aumenta su capacidad de I+D con nuevo Centro de Investigación en Pargua - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2017-09-13T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEdSaE9LeWw2UUhScXdlX0gzYUdTX3FQMFRmeHhrNENteVZvTERUMkN0TXRKQUVaUzJTQW9lZVRzU0ZpSG9Lc2wyZVhXdGpfZElYOGM2S2dtLXY3NGhXQWFrcEpleW90Vnc2WW9NZDVmWkhCaVZLUUN0bmh5akpsMWstNHQ3bXJBemlSbGFxeEw1RXVFNGJHTHUwZExEUUZUaDhYamZFQmtDWDZtQzRRYjN4c2M4N3FncG1QU0RLR2RuQzhtenlwSG1NUXBPaERYYkhzTVlSOA?oc=5\" target=\"_blank\">Skretting Chile aumenta su capacidad de I+D con nuevo Centro de Investigación en Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -120752,7 +120910,7 @@
         "week": "2017-W37",
         "BioMar": 4,
         "Cargill": 1,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2017-W40",
@@ -122784,7 +122942,7 @@
       },
       {
         "week": "2025-W13",
-        "BioMar": 7,
+        "BioMar": 8,
         "Cargill": 0,
         "Skretting": 2
       },
@@ -123270,7 +123428,7 @@
       },
       {
         "week": "2026-W42",
-        "BioMar": 6,
+        "BioMar": 8,
         "Cargill": 0,
         "Skretting": 1
       }
@@ -123278,7 +123436,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1929
+        "count": 1932
       },
       {
         "company": "Cargill",
@@ -123286,7 +123444,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1199
+        "count": 1200
       }
     ]
   }
