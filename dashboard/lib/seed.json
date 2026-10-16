@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T00:01:35+00:00",
+  "generated_at": "2026-10-16T10:02:04+00:00",
   "stats": {
-    "mention_count": 3443,
-    "story_count": 2524,
+    "mention_count": 3445,
+    "story_count": 2525,
     "analyzed_count": 1932,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
@@ -409,9 +409,24 @@
     "washburn-mcreavy.com",
     "weareaquaculture.com",
     "webull.com",
+    "www.aqua.cl",
     "www.marketscreener.com"
   ],
   "stories": [
+    {
+      "id": 2696,
+      "headline": "Sustainability & Innovation Conference 2026 anuncia sus expositores y programa completo - www.aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkRrTS1vZDJ2bnlXb0xfa3BXak9TaVBKVDBXVmZLY3YzaGxka0UySUgwWWt1ZllUS3ZzUGxzMm5ZQmkyaTNkWWVlREZLcVdWRnozWUdSTTRTb1JfV2ZhVm4wdjcxNXpTcVlrOUU4OF81Y0l4WVI2Y3ZIdXQyRWxsdUdxVGdSSG5CZWJCUzlNblhHT01OVnZCMGZzbl9ReTFGbHZlZXlPY1hrQQ?oc=5\" target=\"_blank\">Sustainability & Innovation Conference 2026 anuncia sus expositores y programa completo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.aqua.cl</font>",
+      "first_seen": "2026-10-16T09:51:09+00:00",
+      "last_seen": "2026-10-16T09:51:09+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2695,
       "headline": "BioMar Launches BioRetain, Targeting Nutrient Retention in Aquafeed - Seafoodnews",
@@ -4254,12 +4269,12 @@
       "headline": "Skretting: launches plant-based feed additive approach for Norwegian salmon - SalmonBusiness",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXpsbmU3MS1EcGw4LW1QbGFpTnp0RENTdHdwelBoZUpWZTJ6SGZ0X1dtYm9zd000RWNONnRjclF1WFhjdFpZVGZhdkp3aFlFREo2SFdhaERpMmEtZHk2SFZTN0YyR3RVSlR3MFA3TUpCYWQ3MVdBcXZKNnByZy05Y0ozMkFmbTJxdnJyQjdvd2NJRGxmSWZNZ0VBZy1jdG5PbFM4b3haX0ZaQdIBqgFBVV95cUxPeXpsbmU3MS1EcGw4LW1QbGFpTnp0RENTdHdwelBoZUpWZTJ6SGZ0X1dtYm9zd000RWNONnRjclF1WFhjdFpZVGZhdkp3aFlFREo2SFdhaERpMmEtZHk2SFZTN0YyR3RVSlR3MFA3TUpCYWQ3MVdBcXZKNnByZy05Y0ozMkFmbTJxdnJyQjdvd2NJRGxmSWZNZ0VBZy1jdG5PbFM4b3haX0ZaQQ?oc=5\" target=\"_blank\">Skretting: launches plant-based feed additive approach for Norwegian salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
       "first_seen": "2026-06-12T05:47:42+00:00",
-      "last_seen": "2026-06-12T05:47:42+00:00",
+      "last_seen": "2026-06-12T07:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -119805,6 +119820,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxObEdSaE9LeWw2UUhScXdlX0gzYUdTX3FQMFRmeHhrNENteVZvTERUMkN0TXRKQUVaUzJTQW9lZVRzU0ZpSG9Lc2wyZVhXdGpfZElYOGM2S2dtLXY3NGhXQWFrcEpleW90Vnc2WW9NZDVmWkhCaVZLUUN0bmh5akpsMWstNHQ3bXJBemlSbGFxeEw1RXVFNGJHTHUwZExEUUZUaDhYamZFQmtDWDZtQzRRYjN4c2M4N3FncG1QU0RLR2RuQzhtenlwSG1NUXBPaERYYkhzTVlSOA?oc=5\" target=\"_blank\">Skretting Chile aumenta su capacidad de I+D con nuevo Centro de Investigación en Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 682931,
+      "story_id": 1724,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXpsbmU3MS1EcGw4LW1QbGFpTnp0RENTdHdwelBoZUpWZTJ6SGZ0X1dtYm9zd000RWNONnRjclF1WFhjdFpZVGZhdkp3aFlFREo2SFdhaERpMmEtZHk2SFZTN0YyR3RVSlR3MFA3TUpCYWQ3MVdBcXZKNnByZy05Y0ozMkFmbTJxdnJyQjdvd2NJRGxmSWZNZ0VBZy1jdG5PbFM4b3haX0ZaQQ?oc=5",
+      "title": "Skretting: launches plant-based feed additive approach for Norwegian salmon - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-06-12T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXpsbmU3MS1EcGw4LW1QbGFpTnp0RENTdHdwelBoZUpWZTJ6SGZ0X1dtYm9zd000RWNONnRjclF1WFhjdFpZVGZhdkp3aFlFREo2SFdhaERpMmEtZHk2SFZTN0YyR3RVSlR3MFA3TUpCYWQ3MVdBcXZKNnByZy05Y0ozMkFmbTJxdnJyQjdvd2NJRGxmSWZNZ0VBZy1jdG5PbFM4b3haX0ZaQQ?oc=5\" target=\"_blank\">Skretting: launches plant-based feed additive approach for Norwegian salmon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 683219,
+      "story_id": 2696,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkRrTS1vZDJ2bnlXb0xfa3BXak9TaVBKVDBXVmZLY3YzaGxka0UySUgwWWt1ZllUS3ZzUGxzMm5ZQmkyaTNkWWVlREZLcVdWRnozWUdSTTRTb1JfV2ZhVm4wdjcxNXpTcVlrOUU4OF81Y0l4WVI2Y3ZIdXQyRWxsdUdxVGdSSG5CZWJCUzlNblhHT01OVnZCMGZzbl9ReTFGbHZlZXlPY1hrQQ?oc=5",
+      "title": "Sustainability & Innovation Conference 2026 anuncia sus expositores y programa completo - www.aqua.cl",
+      "source_name": "www.aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-10-16T09:51:09+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkRrTS1vZDJ2bnlXb0xfa3BXak9TaVBKVDBXVmZLY3YzaGxka0UySUgwWWt1ZllUS3ZzUGxzMm5ZQmkyaTNkWWVlREZLcVdWRnozWUdSTTRTb1JfV2ZhVm4wdjcxNXpTcVlrOUU4OF81Y0l4WVI2Y3ZIdXQyRWxsdUdxVGdSSG5CZWJCUzlNblhHT01OVnZCMGZzbl9ReTFGbHZlZXlPY1hrQQ?oc=5\" target=\"_blank\">Sustainability & Innovation Conference 2026 anuncia sus expositores y programa completo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -123322,7 +123385,7 @@
         "week": "2026-W24",
         "BioMar": 42,
         "Cargill": 0,
-        "Skretting": 15
+        "Skretting": 16
       },
       {
         "week": "2026-W25",
@@ -123430,7 +123493,7 @@
         "week": "2026-W42",
         "BioMar": 8,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       }
     ],
     "totals": [
@@ -123444,7 +123507,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1200
+        "count": 1202
       }
     ]
   }
