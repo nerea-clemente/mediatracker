@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T18:18:26+00:00",
+  "generated_at": "2026-10-17T23:43:32+00:00",
   "stats": {
-    "mention_count": 3449,
-    "story_count": 2528,
-    "analyzed_count": 1933,
+    "mention_count": 3451,
+    "story_count": 2529,
+    "analyzed_count": 1934,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
   },
@@ -22402,7 +22402,7 @@
         "exec_statement",
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -26865,6 +26865,20 @@
       "id": 1395,
       "headline": "Skretting firma convenio de colaboración con la Universidad Austral de Chile - Paislobo Prensa",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RBSGdrNXUtekFMeG5BOTFiSFJOSFhIbDZWT1M0Vll0R1ZGV3F6WGc3VW1iSG9vdEJHSEdPRzg4bVNiSDZJQmhXMEl4ZngzdDQ4VFhoMG1GSFZWLUQ0NG1INmJEaWIycnhVRVJCb1g5V1dyRWY5UU4yLWRma0RKV1ZVZ0M3RzhUSVpZS1k0cDdJbm1xLU5PdG11Nld6WV9IbndYYkdPTQ?oc=5\" target=\"_blank\">Skretting firma convenio de colaboración con la Universidad Austral de Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paislobo Prensa</font>",
+      "first_seen": "2020-07-20T07:00:00+00:00",
+      "last_seen": "2020-07-20T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2700,
+      "headline": "Programa Fish Quality: La apuesta de Skretting por la calidad final - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNcEdxekg1Mmd3RkZ3S25fWEhJYllxUnlvSDF2TFBYeEpoVjZFOHN5NU1Ec2FDNkdsWHNoNHlFb3AwRWNvV2lvRWRZY0VoMEJ0emg4VV9vSWZXTE8yZlllZFVqcFlPREVUVlVqZVgzUmVIbkY3ZDRaSkNaLVpsVGlYQm9xR1ZIVUU5akhDMHpIZ25oUF82c2Y0Uzg2LWhCbmsxSjY3MG54RnhRVVFLdzEwVjI4QlF1X0I3ZkRLZE5FbmhuSGxTSkZFdUdn?oc=5\" target=\"_blank\">Programa Fish Quality: La apuesta de Skretting por la calidad final</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2020-07-20T07:00:00+00:00",
       "last_seen": "2020-07-20T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -120007,6 +120021,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGktSEF5SW5JZHhSY1NIeHpxNWN4eXlrQWJ1czlUa0h5UVBuTzFGalB3S0paUnA1Ml9pUWFKMzFnbWdZRWJlellzeUV4OXg1cW1TbmJNTjVJVVduSEdISEt0TmVrNGN3a1VSd0VOMnNPLUY4dVhYTFNVZHp2dkQzSFllVE9rWnBCLV9fSXRDN2dKT1NNNEdRdjlucVVIR240SEJDMFpjRQ?oc=5\" target=\"_blank\">Denne laksen har aldri spist fisk – fôret opp på plante­protein og algeolje</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.tu.no</font>"
+    },
+    {
+      "id": 688974,
+      "story_id": 1776,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbU5Cc2tZWnJsWkZrTmk2VGpGNFJqSUoxcmlQTlk3T0xmY1VNWFZkZVotMWtnNVE1NDFZRU54VW52RGJQUThJZEFRUEQ0RmdDQXBRTWI1TDZzTVh6UDNkbjRGZEYzOEpxeGtnSFdpUnJORzFwWkp0X2t4VHVWSUxWR1Bn?oc=5",
+      "title": "Profit jump as inflation boosts BioMar sales - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2022-11-15T08:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports profit growth driven by inflation-related sales increases",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has achieved a profit jump, with inflation contributing to increased sales performance. The company's financial results reflect positive momentum in its core aquaculture feed business during a period of market pressures on input costs and pricing dynamics across the industry. Carlos Diaz, BioMar's CEO, is referenced in the article context. No other specific claims or quoted statements are available from the provided excerpt, but the headline and framing suggest a favorable financial development for the group during an inflationary economic period. The article focuses on BioMar Group's financial performance and the role of macroeconomic factors in driving its results upward, positioning the company favorably relative to sector headwinds. This is a straightforward business results coverage indicating strong corporate performance amid challenging market conditions. The framing treats BioMar's profit increase as a positive business outcome worthy of investor and stakeholder attention during volatile times."
+    },
+    {
+      "id": 689403,
+      "story_id": 2700,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcEdxekg1Mmd3RkZ3S25fWEhJYllxUnlvSDF2TFBYeEpoVjZFOHN5NU1Ec2FDNkdsWHNoNHlFb3AwRWNvV2lvRWRZY0VoMEJ0emg4VV9vSWZXTE8yZlllZFVqcFlPREVUVlVqZVgzUmVIbkY3ZDRaSkNaLVpsVGlYQm9xR1ZIVUU5akhDMHpIZ25oUF82c2Y0Uzg2LWhCbmsxSjY3MG54RnhRVVFLdzEwVjI4QlF1X0I3ZkRLZE5FbmhuSGxTSkZFdUdn?oc=5",
+      "title": "Programa Fish Quality: La apuesta de Skretting por la calidad final - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2020-07-20T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNcEdxekg1Mmd3RkZ3S25fWEhJYllxUnlvSDF2TFBYeEpoVjZFOHN5NU1Ec2FDNkdsWHNoNHlFb3AwRWNvV2lvRWRZY0VoMEJ0emg4VV9vSWZXTE8yZlllZFVqcFlPREVUVlVqZVgzUmVIbkY3ZDRaSkNaLVpsVGlYQm9xR1ZIVUU5akhDMHpIZ25oUF82c2Y0Uzg2LWhCbmsxSjY3MG54RnhRVVFLdzEwVjI4QlF1X0I3ZkRLZE5FbmhuSGxTSkZFdUdn?oc=5\" target=\"_blank\">Programa Fish Quality: La apuesta de Skretting por la calidad final</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -121820,7 +121882,7 @@
         "week": "2020-W30",
         "BioMar": 0,
         "Cargill": 1,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2020-W32",
@@ -122442,7 +122504,7 @@
       },
       {
         "week": "2022-W46",
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 1,
         "Skretting": 0
       },
@@ -123638,7 +123700,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1933
+        "count": 1934
       },
       {
         "company": "Cargill",
@@ -123646,7 +123708,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1205
+        "count": 1206
       }
     ]
   }
