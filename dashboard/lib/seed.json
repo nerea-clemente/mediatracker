@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T23:43:32+00:00",
+  "generated_at": "2026-10-18T09:47:13+00:00",
   "stats": {
-    "mention_count": 3451,
-    "story_count": 2529,
-    "analyzed_count": 1934,
+    "mention_count": 3453,
+    "story_count": 2531,
+    "analyzed_count": 1935,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
   },
@@ -414,6 +414,20 @@
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2702,
+      "headline": "Startet sin politiske karriere på Vertshuset: – Vil du ha en endring, må du gjøre noe med det selv - Gjesdalbuen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUNPdkdsNnB1MjRMZVdiR1RTelJ2UXpzYmEtRjJjR1lUSVlXOEJGdlpDOTN2Q3B5UW5NMFlEMDdYbU15Qk9ubldfLXR2X2lXR3VSUGNPdXNTdEN1bmxfYXp1enNsdDkzWWtYemVNZDl5RW9QbUZGbUNscUhXR2w2ckxnTjRKUndmNG5fS2g4UTlleGo4bEpBUHFXNURreU9xNFB6WUpFZGJYazNGQ2tYWk1haFJKaXpObTBTLUNDaEg2R2s4QVY1V3lB?oc=5\" target=\"_blank\">Startet sin politiske karriere på Vertshuset: – Vil du ha en endring, må du gjøre noe med det selv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gjesdalbuen</font>",
+      "first_seen": "2026-10-18T03:00:00+00:00",
+      "last_seen": "2026-10-18T03:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2698,
       "headline": "Skretting presenta programa de Sustainability & Innovation Conference 2026 con 11 expositores y lanzamiento de nueva dieta funcional - Mundoacuicola",
@@ -841,6 +855,20 @@
       "story_summary": "TradingView reports operating expenses (excluding cost of goods sold) for Schouw & Co on the HAM:5RF ticker. The article is a routine financial data publication for investor reference and analysis purposes, with no narrative or commentary beyond the expense figures presented.",
       "first_seen": "2026-10-01T12:53:18+00:00",
       "last_seen": "2026-10-01T12:53:18+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2701,
+      "headline": "biomar-logo-with-tagline-rgb - Miljøstiftelsen Bellona",
+      "story_summary": "The article appears to be a metadata artifact or image file reference rather than substantive coverage. No meaningful claims about BioMar can be extracted from the provided content.",
+      "first_seen": "2026-10-01T09:40:46+00:00",
+      "last_seen": "2026-10-01T09:40:46+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -120069,6 +120097,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNcEdxekg1Mmd3RkZ3S25fWEhJYllxUnlvSDF2TFBYeEpoVjZFOHN5NU1Ec2FDNkdsWHNoNHlFb3AwRWNvV2lvRWRZY0VoMEJ0emg4VV9vSWZXTE8yZlllZFVqcFlPREVUVlVqZVgzUmVIbkY3ZDRaSkNaLVpsVGlYQm9xR1ZIVUU5akhDMHpIZ25oUF82c2Y0Uzg2LWhCbmsxSjY3MG54RnhRVVFLdzEwVjI4QlF1X0I3ZkRLZE5FbmhuSGxTSkZFdUdn?oc=5\" target=\"_blank\">Programa Fish Quality: La apuesta de Skretting por la calidad final</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 689637,
+      "story_id": 2701,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVZpcXZ0aXVmWWtLandNS3lPUUt2VVFzOW1TdVEybGdHNFZHRmE5NWZrRU5BVDJOWGxBdVF5QkRDaVJlMHA3UHoza2JaWUFqZzdZSWJWWmlJWGozVllqMy1UZVpvVlA5TVZyVHcxLXJXUkZObTNQUEtqV0RoVUxkV0JJRVFocGVORkxsS3FuMElneDg?oc=5",
+      "title": "biomar-logo-with-tagline-rgb - Miljøstiftelsen Bellona",
+      "source_name": "Miljøstiftelsen Bellona",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-01T09:40:46+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.5,
+      "prominence": "passing",
+      "angle": "Image file reference without substantive article content",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article appears to be a metadata artifact or image file reference rather than substantive coverage. No meaningful claims about BioMar can be extracted from the provided content."
+    },
+    {
+      "id": 690152,
+      "story_id": 2702,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUNPdkdsNnB1MjRMZVdiR1RTelJ2UXpzYmEtRjJjR1lUSVlXOEJGdlpDOTN2Q3B5UW5NMFlEMDdYbU15Qk9ubldfLXR2X2lXR3VSUGNPdXNTdEN1bmxfYXp1enNsdDkzWWtYemVNZDl5RW9QbUZGbUNscUhXR2w2ckxnTjRKUndmNG5fS2g4UTlleGo4bEpBUHFXNURreU9xNFB6WUpFZGJYazNGQ2tYWk1haFJKaXpObTBTLUNDaEg2R2s4QVY1V3lB?oc=5",
+      "title": "Startet sin politiske karriere på Vertshuset: – Vil du ha en endring, må du gjøre noe med det selv - Gjesdalbuen",
+      "source_name": "Gjesdalbuen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-18T03:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUNPdkdsNnB1MjRMZVdiR1RTelJ2UXpzYmEtRjJjR1lUSVlXOEJGdlpDOTN2Q3B5UW5NMFlEMDdYbU15Qk9ubldfLXR2X2lXR3VSUGNPdXNTdEN1bmxfYXp1enNsdDkzWWtYemVNZDl5RW9QbUZGbUNscUhXR2w2ckxnTjRKUndmNG5fS2g4UTlleGo4bEpBUHFXNURreU9xNFB6WUpFZGJYazNGQ2tYWk1haFJKaXpObTBTLUNDaEg2R2s4QVY1V3lB?oc=5\" target=\"_blank\">Startet sin politiske karriere på Vertshuset: – Vil du ha en endring, må du gjøre noe med det selv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gjesdalbuen</font>"
     }
   ],
   "share_of_voice": {
@@ -123680,7 +123756,7 @@
       },
       {
         "week": "2026-W40",
-        "BioMar": 18,
+        "BioMar": 19,
         "Cargill": 0,
         "Skretting": 8
       },
@@ -123694,13 +123770,13 @@
         "week": "2026-W42",
         "BioMar": 8,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1934
+        "count": 1935
       },
       {
         "company": "Cargill",
@@ -123708,7 +123784,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1206
+        "count": 1207
       }
     ]
   }
