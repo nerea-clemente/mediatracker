@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T11:04:21+00:00",
+  "generated_at": "2026-10-19T16:33:15+00:00",
   "stats": {
-    "mention_count": 3457,
-    "story_count": 2534,
-    "analyzed_count": 1937,
+    "mention_count": 3458,
+    "story_count": 2535,
+    "analyzed_count": 1938,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
   },
@@ -415,6 +415,20 @@
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2706,
+      "headline": "Schouw & Co. share buy-back programme, week 42 2026 - The Manila Times",
+      "story_summary": "Schouw & Co. disclosed its share buy-back programme activity for week 42 of 2026. The article reports routine corporate capital allocation actions by the parent company of BioMar Group.",
+      "first_seen": "2026-10-19T13:09:06+00:00",
+      "last_seen": "2026-10-19T13:09:06+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2705,
       "headline": "Skretting aborda el futuro de las materias primas en AquaNext - Aqua.cl",
@@ -120284,6 +120298,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0RVYWJXcUxCcGpSZ2JrdVBXc195OGRYQ2kwUWpidi1UMUNKamZ4T3lRcDlXYi13X2FubzcyeDdJR25LZnFYcHpwX2FKMmY3VU96cERyY09DeEczdzJ6T21MT3JuVTVCM2JEQXZwUkRGamZ5WlZxTG5pUGRrdUx0S2xkR2dNQTJmd2c?oc=5\" target=\"_blank\">Skretting aborda el futuro de las materias primas en AquaNext</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aqua.cl</font>"
+    },
+    {
+      "id": 695104,
+      "story_id": 2706,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMXp2R3FSMUpHTEloMEw5TVRkSFllbEZ5aHh5ZHYzWHlFczVPa21QRVhyNkZuTm8tOGwyeWtfZk5lblczbVFEcTZ3Q0xzRjRyaFlzX0x6TDF2OHF5M1ZGdUNoVE5MWVZjWFlXTHBxVVZqcHl4Qi1OY0FPckMzd2E4aHk4ZjNuYy1GQ2ZQMTFGRDZtQ1czR0V5UDBzNmpZdHNkQzVUUEppUHhkai13elhKVVFWeGJyVkpxZTMxVDNiUjJ0WlnSAcMBQVVfeXFMTTF6dkdxUjFKR0xJaDBMOU1UZEhZZWxGeWh4eWR2M1h5RXM1T2ttUEVYcjZGbk5vLThsMnlrX2ZOZW5XM21RRHE2d0NMc0Y0cmhZc19MekwxdjhxeTNWRnVDaFROTFlWY1hZV0xwcVVWanB5eEItTmNBT3JDM3dhOGh5OGYzbmMtRkNmUDExRkQ2bUNXM0dFeVAwczZqWXRzZEM1VFBKaVB4ZGotd3pYSlVRVnhiclZKcWUzMVQzYlIydFpZ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 42 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-10-19T13:09:06+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share repurchase activity for week 42 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. disclosed its share buy-back programme activity for week 42 of 2026. The article reports routine corporate capital allocation actions by the parent company of BioMar Group."
     }
   ],
   "share_of_voice": {
@@ -123913,7 +123951,7 @@
       },
       {
         "week": "2026-W43",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Skretting": 1
       }
@@ -123921,7 +123959,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1937
+        "count": 1938
       },
       {
         "company": "Cargill",
