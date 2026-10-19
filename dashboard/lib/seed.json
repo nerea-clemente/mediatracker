@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T23:52:39+00:00",
+  "generated_at": "2026-10-19T11:04:21+00:00",
   "stats": {
-    "mention_count": 3455,
-    "story_count": 2533,
-    "analyzed_count": 1936,
+    "mention_count": 3457,
+    "story_count": 2534,
+    "analyzed_count": 1937,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
   },
@@ -25,6 +25,7 @@
     "All About Feed",
     "Altinget.no",
     "Animalshealth.es",
+    "Aqua.cl",
     "Aquafeed.com",
     "Australasian Lawyer",
     "Australian Broadcasting Corporation",
@@ -415,6 +416,20 @@
   ],
   "stories": [
     {
+      "id": 2705,
+      "headline": "Skretting aborda el futuro de las materias primas en AquaNext - Aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0RVYWJXcUxCcGpSZ2JrdVBXc195OGRYQ2kwUWpidi1UMUNKamZ4T3lRcDlXYi13X2FubzcyeDdJR25LZnFYcHpwX2FKMmY3VU96cERyY09DeEczdzJ6T21MT3JuVTVCM2JEQXZwUkRGamZ5WlZxTG5pUGRrdUx0S2xkR2dNQTJmd2c?oc=5\" target=\"_blank\">Skretting aborda el futuro de las materias primas en AquaNext</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aqua.cl</font>",
+      "first_seen": "2026-10-19T09:53:44+00:00",
+      "last_seen": "2026-10-19T09:53:44+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2702,
       "headline": "Startet sin politiske karriere på Vertshuset: – Vil du ha en endring, må du gjøre noe med det selv - Gjesdalbuen",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdUNPdkdsNnB1MjRMZVdiR1RTelJ2UXpzYmEtRjJjR1lUSVlXOEJGdlpDOTN2Q3B5UW5NMFlEMDdYbU15Qk9ubldfLXR2X2lXR3VSUGNPdXNTdEN1bmxfYXp1enNsdDkzWWtYemVNZDl5RW9QbUZGbUNscUhXR2w2ckxnTjRKUndmNG5fS2g4UTlleGo4bEpBUHFXNURreU9xNFB6WUpFZGJYazNGQ2tYWk1haFJKaXpObTBTLUNDaEg2R2s4QVY1V3lB?oc=5\" target=\"_blank\">Startet sin politiske karriere på Vertshuset: – Vil du ha en endring, må du gjøre noe med det selv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gjesdalbuen</font>",
@@ -781,15 +796,15 @@
     },
     {
       "id": 2638,
-      "headline": "Schouw & Co. share buy-back programme, week 40 2026 - Yahoo Finance",
-      "story_summary": "Schouw & Co. conducted a share buyback programme during week 40 of 2026. The article reports factual details of the parent company's capital allocation activity without commentary or evaluation.",
-      "first_seen": "2026-10-05T13:30:00+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 40 2026 - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co. executed a share buyback programme during week 40 of 2026. The announcement provides routine corporate financial activity information for shareholders and investors in the conglomerate parent company of BioMar Group and other subsidiaries. No specific operational details regarding BioMar or other subsidiary performance were disclosed in this corporate governance announcement. Share buyback programmes are standard capital allocation activities conducted by large public companies to return value to shareholders or manage share capital structures. The timing and scale of such programmes are typically disclosed in compliance with stock exchange regulations and corporate governance standards applicable to Danish-listed companies like Schouw & Co.",
+      "first_seen": "2026-10-05T07:00:00+00:00",
       "last_seen": "2026-10-06T04:15:38+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 5,
+      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -120221,6 +120236,54 @@
         "none"
       ],
       "summary": "BioMar has acquired a new environmentally friendly vessel for its operations. The vessel represents the company's commitment to sustainable and eco-conscious business practices in aquaculture feed distribution and logistics."
+    },
+    {
+      "id": 694086,
+      "story_id": 2638,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNW1ELXA4T3lXR0RjSzVFd0NKUW50WldDdm1SaEZUSHJrOE1TM0d2MGlqMGV2SWhJcklBZGswT0hrOWR5LTVfaDVOX2RGVHRlWVQteWJGOWIwRXN2d0wzTXFmeFlzZkpTM1FmLWpPSnNmVm1HaVE2d25PemxYR0Zvb05VSGJMcTMwSHRUT29xdnl5X0J4TGxuU0tEVTItT3hZaUgyWU1mZE9feTB2dDZJaG1uUzFjNEcybU04ZVVJZzVlQXFUSUI1b0lpQQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 40 2026 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share buyback programme for week 40 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. executed a share buyback programme during week 40 of 2026. The announcement provides routine corporate financial activity information for shareholders and investors in the conglomerate parent company of BioMar Group and other subsidiaries. No specific operational details regarding BioMar or other subsidiary performance were disclosed in this corporate governance announcement. Share buyback programmes are standard capital allocation activities conducted by large public companies to return value to shareholders or manage share capital structures. The timing and scale of such programmes are typically disclosed in compliance with stock exchange regulations and corporate governance standards applicable to Danish-listed companies like Schouw & Co."
+    },
+    {
+      "id": 694489,
+      "story_id": 2705,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0RVYWJXcUxCcGpSZ2JrdVBXc195OGRYQ2kwUWpidi1UMUNKamZ4T3lRcDlXYi13X2FubzcyeDdJR25LZnFYcHpwX2FKMmY3VU96cERyY09DeEczdzJ6T21MT3JuVTVCM2JEQXZwUkRGamZ5WlZxTG5pUGRrdUx0S2xkR2dNQTJmd2c?oc=5",
+      "title": "Skretting aborda el futuro de las materias primas en AquaNext - Aqua.cl",
+      "source_name": "Aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-10-19T09:53:44+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQd0RVYWJXcUxCcGpSZ2JrdVBXc195OGRYQ2kwUWpidi1UMUNKamZ4T3lRcDlXYi13X2FubzcyeDdJR25LZnFYcHpwX2FKMmY3VU96cERyY09DeEczdzJ6T21MT3JuVTVCM2JEQXZwUkRGamZ5WlZxTG5pUGRrdUx0S2xkR2dNQTJmd2c?oc=5\" target=\"_blank\">Skretting aborda el futuro de las materias primas en AquaNext</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -123838,7 +123901,7 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 15,
+        "BioMar": 16,
         "Cargill": 0,
         "Skretting": 7
       },
@@ -123847,12 +123910,18 @@
         "BioMar": 8,
         "Cargill": 0,
         "Skretting": 4
+      },
+      {
+        "week": "2026-W43",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1936
+        "count": 1937
       },
       {
         "company": "Cargill",
@@ -123860,7 +123929,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1208
+        "count": 1209
       }
     ]
   }
