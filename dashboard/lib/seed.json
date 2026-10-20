@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T00:53:16+00:00",
+  "generated_at": "2026-10-20T10:17:17+00:00",
   "stats": {
-    "mention_count": 3459,
-    "story_count": 2536,
+    "mention_count": 3460,
+    "story_count": 2537,
     "analyzed_count": 1939,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
@@ -415,6 +415,20 @@
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2708,
+      "headline": "Skretting jumps to defend sourcing after Outlaw Ocean links suppliers to abuses - IntraFish",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWN5aC1SMUZFQ0FMM0ZyRVNMUkNvR1pGbnpDUXVLOFJSUVQ1ZThKZmRUdEZpenNtOG9oSWRiY2FxcThubl94bFBicU50SFJuZ0pQcXAtYTNCb0otU1lXWU53eEt1TXJlS2hEYjJ1WmNkSGRjM181NHAzam4zSjZ4QVVqdnE3bUN1emEtNU14aVo2MXl6cXNCWTM0TmVzT0MybDdBWS03bE5hX3hfVFgwUklZTWpYclNZSlV2U3NnWQ?oc=5\" target=\"_blank\">Skretting jumps to defend sourcing after Outlaw Ocean links suppliers to abuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IntraFish</font>",
+      "first_seen": "2026-10-20T09:34:19+00:00",
+      "last_seen": "2026-10-20T09:34:19+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2706,
       "headline": "Schouw & Co. share buy-back programme, week 42 2026 - The Manila Times",
@@ -120360,6 +120374,30 @@
         "none"
       ],
       "summary": "The article reports on insider trading activity and transactions by persons with privileged information at Aktieselskabet Schouw & Co. (SCHOC.XC). This is a routine disclosure of share transactions by company insiders on the stock exchange."
+    },
+    {
+      "id": 698282,
+      "story_id": 2708,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWN5aC1SMUZFQ0FMM0ZyRVNMUkNvR1pGbnpDUXVLOFJSUVQ1ZThKZmRUdEZpenNtOG9oSWRiY2FxcThubl94bFBicU50SFJuZ0pQcXAtYTNCb0otU1lXWU53eEt1TXJlS2hEYjJ1WmNkSGRjM181NHAzam4zSjZ4QVVqdnE3bUN1emEtNU14aVo2MXl6cXNCWTM0TmVzT0MybDdBWS03bE5hX3hfVFgwUklZTWpYclNZSlV2U3NnWQ?oc=5",
+      "title": "Skretting jumps to defend sourcing after Outlaw Ocean links suppliers to abuses - IntraFish",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-20T09:34:19+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWN5aC1SMUZFQ0FMM0ZyRVNMUkNvR1pGbnpDUXVLOFJSUVQ1ZThKZmRUdEZpenNtOG9oSWRiY2FxcThubl94bFBicU50SFJuZ0pQcXAtYTNCb0otU1lXWU53eEt1TXJlS2hEYjJ1WmNkSGRjM181NHAzam4zSjZ4QVVqdnE3bUN1emEtNU14aVo2MXl6cXNCWTM0TmVzT0MybDdBWS03bE5hX3hfVFgwUklZTWpYclNZSlV2U3NnWQ?oc=5\" target=\"_blank\">Skretting jumps to defend sourcing after Outlaw Ocean links suppliers to abuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IntraFish</font>"
     }
   ],
   "share_of_voice": {
@@ -123991,7 +124029,7 @@
         "week": "2026-W43",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       }
     ],
     "totals": [
@@ -124005,7 +124043,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1209
+        "count": 1210
       }
     ]
   }
