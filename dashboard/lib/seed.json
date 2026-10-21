@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T00:21:09+00:00",
+  "generated_at": "2026-10-21T10:26:38+00:00",
   "stats": {
-    "mention_count": 3467,
-    "story_count": 2540,
-    "analyzed_count": 1941,
+    "mention_count": 3473,
+    "story_count": 2542,
+    "analyzed_count": 1945,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
   },
@@ -416,6 +416,20 @@
   ],
   "stories": [
     {
+      "id": 2713,
+      "headline": "Nutrición, innovación y territorio darán forma a un encuentro sobre el futuro del salmón - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ01TNWlGQ0NMb1NhS09KZGhudTlsdGFBdnFaTlZEaExPa210LUZHNzhuVzluYmtDM0lZcTFBY3RtRDdEdVZobTlYR0pOS1Y5a29KQ2xoajhfN1B3XzB6alpjUjB6VGNpWkU2UmwyUVdxQ2xoSE9wLTl4cVlERHRUdDJpM0Q4MkJCdkdndDd4MUxOSWpmX0U3RUhLNkQtWGxRd3RmS1k5TUx3TXZHaUZ1MHNpVzFVYXA0Zl9iLWxmVEQxb0l0Q2x2bWNrR2s2MWlwOFhkTjBvbTcxY0R2dEhwU3RkQ0syM0hF?oc=5\" target=\"_blank\">Nutrición, innovación y territorio darán forma a un encuentro sobre el futuro del salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2026-10-21T08:30:00+00:00",
+      "last_seen": "2026-10-21T08:30:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2708,
       "headline": "Skretting jumps to defend sourcing after Outlaw Ocean links suppliers to abuses - IntraFish",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWN5aC1SMUZFQ0FMM0ZyRVNMUkNvR1pGbnpDUXVLOFJSUVQ1ZThKZmRUdEZpenNtOG9oSWRiY2FxcThubl94bFBicU50SFJuZ0pQcXAtYTNCb0otU1lXWU53eEt1TXJlS2hEYjJ1WmNkSGRjM181NHAzam4zSjZ4QVVqdnE3bUN1emEtNU14aVo2MXl6cXNCWTM0TmVzT0MybDdBWS03bE5hX3hfVFgwUklZTWpYclNZSlV2U3NnWQ?oc=5\" target=\"_blank\">Skretting jumps to defend sourcing after Outlaw Ocean links suppliers to abuses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IntraFish</font>",
@@ -459,15 +473,15 @@
     },
     {
       "id": 2706,
-      "headline": "Schouw & Co. share buy-back programme, week 42 2026 - The Manila Times",
-      "story_summary": "Schouw & Co. disclosed its share buy-back programme activity for week 42 of 2026. The article reports routine corporate capital allocation actions by the parent company of BioMar Group.",
-      "first_seen": "2026-10-19T13:09:06+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 42 2026 - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co. announced its share buy-back programme activity for week 42 of 2026. The article reports routine corporate capital management actions by the parent company of BioMar Group aquaculture feeds division.",
+      "first_seen": "2026-10-19T13:00:00+00:00",
       "last_seen": "2026-10-19T13:09:06+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1112,7 +1126,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1216,15 +1230,15 @@
     },
     {
       "id": 2591,
-      "headline": "Schouw & Co. share buy-back programme, week 38 2026 - Yahoo Finance",
-      "story_summary": "Schouw & Co announced details of its share buyback programme for week 38 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group (aquaculture feed).",
-      "first_seen": "2026-09-21T13:00:00+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 38 2026 - www.marketscreener.com",
+      "story_summary": "Schouw & Co. executed a share repurchase programme during week 38 of 2026. The article reports on this corporate capital allocation activity as part of the company's ongoing buyback initiative.",
+      "first_seen": "2026-09-21T07:00:00+00:00",
       "last_seen": "2026-09-21T13:07:51+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -19854,7 +19868,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -23718,6 +23732,20 @@
       "primary_sentiment": "negative",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2712,
+      "headline": "BioMar snaps up shrimp feed tech firm - The Fish Site",
+      "story_summary": "BioMar completed an acquisition of a shrimp feed technology company. The deal expands BioMar's capabilities in the specialized shrimp nutrition segment.",
+      "first_seen": "2022-04-08T07:00:00+00:00",
+      "last_seen": "2022-04-08T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -120610,6 +120638,156 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUDBYMVpQOTZoTWxBbWpPM0VlMlpPdTh5Qm1uTmxacVl6NjR0dVJBSnVFbnE0dlJNWUVrV3N3bHpISUV3TWhVRXNnM2hVcmpKelRzdFVuS0NNc2hubDY1MkZQWkdPOFkxRDM4WXpicjJzWXpQSDBHaWUweW41bjVBR0o2aGZVTHQybGVNbkM4R2xtQ2JWODZEb1hNWkp6ZHcwcjU1VnN3YUx5d1N5bkFDdnBvWkN6STcxWXZtYmhsbEpiU3d3TFMzWjdZM2hlb0pna1JtVjd3UktmbnQtX25CRkhhaUlFZw?oc=5\" target=\"_blank\">Skretting lanzará nueva dieta funcional y abordará huella de carbono y materias primas en su conferencia de Frutillar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 701897,
+      "story_id": 2712,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44NDFGNG1kaFdpTTZhTkN3SVJyQWQwY1FfOXZ5c2xxbTRmVE5raTNRbFd3TzIxTDFMcE15SGpTZnhtQ0J2YXdiSUJ0cElQSXJ3aENKZF82UzFudnVpeFBFRGJWWGlzUGZzWWx0alBYQlg2WVJXM3B0ZmtR?oc=5",
+      "title": "BioMar snaps up shrimp feed tech firm - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2022-04-08T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar acquires shrimp feed technology company",
+      "key_claims": [
+        "BioMar acquired a shrimp feed technology firm"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar completed an acquisition of a shrimp feed technology company. The deal expands BioMar's capabilities in the specialized shrimp nutrition segment."
+    },
+    {
+      "id": 702156,
+      "story_id": 2706,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnZ0dzUyaUVaZGxLR2RpVUFBR2NLNkJuU2JfbWtCSUtLc3hqYW9CZnNhbXY4ajJXdVNvNm1veTBkaXBtb1M3ZzQ2bXQtWW5mb0JRTkZ2WVBXQzl4R1dkWjBoY3lQQ0lWT21NMVNWQmU5cGhRQUdxTnBRRks1TlBtNGlXVDVjcDg0R0JucHZkYmh3YkVDS2p6N3M1anNVcFAxWmRFYzhDXzhmblNVN3VEY1RkRFVESE13YWJKdWJ2NU1ZYlBTTXZ5TmF4aw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 42 2026 - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2026-10-19T13:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "Share buy-back programme execution for week 42 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced its share buy-back programme activity for week 42 of 2026. The article reports routine corporate capital management actions by the parent company of BioMar Group aquaculture feeds division."
+    },
+    {
+      "id": 702159,
+      "story_id": 2611,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHhXeTZZZUVJVFF1NXN1RkxBbEZiUTJkTHRZRi12Q0VXLWJLSWktZ0xNTDlOeWtIQzNRcGpSWXlLdi1SOVpvYUhsVFZxZ1ZaS2ZKSnkzNkJKXzh0NjNBTHQ2eExrbEt3RHdpdzJZOTRsSUlwaGJVSFVmODlKY3pKYnRXQTlVYlVXZWV5LVVUOXc3X0g5Vlk1TVJubW93QzB1R3c?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 39 2026 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-09-28T09:00:08+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co share buy-back programme activity in week 39 2026",
+      "key_claims": [
+        "Schouw & Co conducted a share buy-back programme during week 39 of 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co, the parent company of BioMar Group, executed share buy-back transactions during week 39 of 2026. The article reports on the company's capital allocation activity as part of its ongoing share repurchase programme."
+    },
+    {
+      "id": 702165,
+      "story_id": 2591,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTZVWXlLZDNtdlZBYkkxSUtONmlETDRtYXlGakVlOWMyZHc1ZGx6bWxOWVEtd0oyY1l2amV2blRLWVV2V2xPU2tsQW5pU21sYUJTWXNCMElidms4WnV1TzJzdGM5Um5sOU1iQ0ZfQWlNSThqMUtVZDJrREdsdXRNS3ZWR3U2ZHJfUVZ2SnNWZDJJeDlHSmNHWWtOblo0bFlfcUE?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 38 2026 - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share repurchase programme in week 38.",
+      "key_claims": [
+        "Schouw & Co. conducted a share buy-back programme during week 38 of 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co. executed a share repurchase programme during week 38 of 2026. The article reports on this corporate capital allocation activity as part of the company's ongoing buyback initiative."
+    },
+    {
+      "id": 702354,
+      "story_id": 1869,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX015b2YxZXVHRTNzOTY4NkRoNkY3aXhublhtSDY2QVBZcnczTFNVMGg0Zy1KOEtzRHVEQ3Z1eE1yN1RiYzRyQ183VkFJM1BBVkVHU0NJMWlFOWZaLV8yNURGcnZrNndzRHFjYVRKb2tRWjE3S2kwZXNUdW1EUmlzTVYtdVp0NVJpRTZGZ2VmNmRzbHJ1ODM5cy1Pd2c5RXF1SV9GbWtwVzZJY1B6YmFvUjBTQ29vdw?oc=5",
+      "title": "Skretting parent company appoints former Cargill exec as Managing Director for Asia - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-11-24T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOX015b2YxZXVHRTNzOTY4NkRoNkY3aXhublhtSDY2QVBZcnczTFNVMGg0Zy1KOEtzRHVEQ3Z1eE1yN1RiYzRyQ183VkFJM1BBVkVHU0NJMWlFOWZaLV8yNURGcnZrNndzRHFjYVRKb2tRWjE3S2kwZXNUdW1EUmlzTVYtdVp0NVJpRTZGZ2VmNmRzbHJ1ODM5cy1Pd2c5RXF1SV9GbWtwVzZJY1B6YmFvUjBTQ29vdw?oc=5\" target=\"_blank\">Skretting parent company appoints former Cargill exec as Managing Director for Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 702556,
+      "story_id": 2713,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ01TNWlGQ0NMb1NhS09KZGhudTlsdGFBdnFaTlZEaExPa210LUZHNzhuVzluYmtDM0lZcTFBY3RtRDdEdVZobTlYR0pOS1Y5a29KQ2xoajhfN1B3XzB6alpjUjB6VGNpWkU2UmwyUVdxQ2xoSE9wLTl4cVlERHRUdDJpM0Q4MkJCdkdndDd4MUxOSWpmX0U3RUhLNkQtWGxRd3RmS1k5TUx3TXZHaUZ1MHNpVzFVYXA0Zl9iLWxmVEQxb0l0Q2x2bWNrR2s2MWlwOFhkTjBvbTcxY0R2dEhwU3RkQ0syM0hF?oc=5",
+      "title": "Nutrición, innovación y territorio darán forma a un encuentro sobre el futuro del salmón - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-10-21T08:30:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ01TNWlGQ0NMb1NhS09KZGhudTlsdGFBdnFaTlZEaExPa210LUZHNzhuVzluYmtDM0lZcTFBY3RtRDdEdVZobTlYR0pOS1Y5a29KQ2xoajhfN1B3XzB6alpjUjB6VGNpWkU2UmwyUVdxQ2xoSE9wLTl4cVlERHRUdDJpM0Q4MkJCdkdndDd4MUxOSWpmX0U3RUhLNkQtWGxRd3RmS1k5TUx3TXZHaUZ1MHNpVzFVYXA0Zl9iLWxmVEQxb0l0Q2x2bWNrR2s2MWlwOFhkTjBvbTcxY0R2dEhwU3RkQ0syM0hF?oc=5\" target=\"_blank\">Nutrición, innovación y territorio darán forma a un encuentro sobre el futuro del salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -122871,7 +123049,7 @@
       },
       {
         "week": "2022-W14",
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -123341,7 +123519,7 @@
         "week": "2023-W47",
         "BioMar": 0,
         "Cargill": 6,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2023-W48",
@@ -124215,13 +124393,13 @@
       },
       {
         "week": "2026-W39",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 8
       },
       {
         "week": "2026-W40",
-        "BioMar": 19,
+        "BioMar": 20,
         "Cargill": 0,
         "Skretting": 8
       },
@@ -124239,15 +124417,15 @@
       },
       {
         "week": "2026-W43",
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
-        "Skretting": 4
+        "Skretting": 5
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1941
+        "count": 1945
       },
       {
         "company": "Cargill",
@@ -124255,7 +124433,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1215
+        "count": 1217
       }
     ]
   }
