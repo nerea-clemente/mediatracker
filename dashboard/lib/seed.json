@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T10:26:38+00:00",
+  "generated_at": "2026-10-21T14:33:23+00:00",
   "stats": {
-    "mention_count": 3473,
-    "story_count": 2542,
-    "analyzed_count": 1945,
+    "mention_count": 3475,
+    "story_count": 2544,
+    "analyzed_count": 1946,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
   },
@@ -6464,6 +6464,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2715,
+      "headline": "Nutreco: emissions fall 47%, novel ingredient targets missed in 2025 impact report - Salmon Business",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU1RRUUpEYzI5MjNrQmZVOW12U0lPQ2dtczJyWWJnTnBmTW9tQnpKYkNYa2NXcnRreC02LUE5NFdYdVdlQ1RzdGozcmx1aUwxLXQtamczVlFUQnZmSVY0X2Fwbk9MNHk0TlE0MkNjWHNwQmZ3OVU3Y0lJQ29iZEZ6OEQtMndSR05sOXZuVXoxMnBhREw2UnNYMkpXRXZVR01NcEM0Unp3MG1DUXd5aW95bw?oc=5\" target=\"_blank\">Nutreco: emissions fall 47%, novel ingredient targets missed in 2025 impact report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>",
+      "first_seen": "2026-05-05T07:00:00+00:00",
+      "last_seen": "2026-05-05T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -22209,6 +22223,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2714,
+      "headline": "BioMar da un paso adelante en educación a través de Potencia TP - Salmonexpert",
+      "story_summary": "BioMar has partnered with Potencia TP to advance educational programs in the aquaculture sector. The initiative represents the company's commitment to workforce development and industry education in salmon farming regions.",
+      "first_seen": "2023-01-16T08:00:00+00:00",
+      "last_seen": "2023-01-16T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 534,
@@ -120788,6 +120816,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ01TNWlGQ0NMb1NhS09KZGhudTlsdGFBdnFaTlZEaExPa210LUZHNzhuVzluYmtDM0lZcTFBY3RtRDdEdVZobTlYR0pOS1Y5a29KQ2xoajhfN1B3XzB6alpjUjB6VGNpWkU2UmwyUVdxQ2xoSE9wLTl4cVlERHRUdDJpM0Q4MkJCdkdndDd4MUxOSWpmX0U3RUhLNkQtWGxRd3RmS1k5TUx3TXZHaUZ1MHNpVzFVYXA0Zl9iLWxmVEQxb0l0Q2x2bWNrR2s2MWlwOFhkTjBvbTcxY0R2dEhwU3RkQ0syM0hF?oc=5\" target=\"_blank\">Nutrición, innovación y territorio darán forma a un encuentro sobre el futuro del salmón</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 703107,
+      "story_id": 2714,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnRsYS0wcWpiZDRpZlhKWnUtdjBYZmxMWE5SSXE2RG9BX0RaLWo2LVlKUTBsb18tZEV1bk5mbzJkanc1MjdMR01HRWJQNWVFZGtKbl95THJUUFFtdHRVY19OSVdYdG9rcmdhQVlkMG9xaS12STRpYzNkNVVETXJaMjVnUlNrNVVKTXY3MHh1Q0dQbkVPcXMtaUI5MFhhNnhkTENaVHd1OWVOYkQwNDNJZkNzNlFJaHVFMjdnckMzT3Nvd1F2Y3paczJmRQ?oc=5",
+      "title": "BioMar da un paso adelante en educación a través de Potencia TP - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2023-01-16T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "secondary",
+      "angle": "BioMar advances education initiatives through Potencia TP partnership",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has partnered with Potencia TP to advance educational programs in the aquaculture sector. The initiative represents the company's commitment to workforce development and industry education in salmon farming regions."
+    },
+    {
+      "id": 703253,
+      "story_id": 2715,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU1RRUUpEYzI5MjNrQmZVOW12U0lPQ2dtczJyWWJnTnBmTW9tQnpKYkNYa2NXcnRreC02LUE5NFdYdVdlQ1RzdGozcmx1aUwxLXQtamczVlFUQnZmSVY0X2Fwbk9MNHk0TlE0MkNjWHNwQmZ3OVU3Y0lJQ29iZEZ6OEQtMndSR05sOXZuVXoxMnBhREw2UnNYMkpXRXZVR01NcEM0Unp3MG1DUXd5aW95bw?oc=5",
+      "title": "Nutreco: emissions fall 47%, novel ingredient targets missed in 2025 impact report - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-05T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU1RRUUpEYzI5MjNrQmZVOW12U0lPQ2dtczJyWWJnTnBmTW9tQnpKYkNYa2NXcnRreC02LUE5NFdYdVdlQ1RzdGozcmx1aUwxLXQtamczVlFUQnZmSVY0X2Fwbk9MNHk0TlE0MkNjWHNwQmZ3OVU3Y0lJQ29iZEZ6OEQtMndSR05sOXZuVXoxMnBhREw2UnNYMkpXRXZVR01NcEM0Unp3MG1DUXd5aW95bw?oc=5\" target=\"_blank\">Nutreco: emissions fall 47%, novel ingredient targets missed in 2025 impact report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
     }
   ],
   "share_of_voice": {
@@ -123271,7 +123347,7 @@
       },
       {
         "week": "2023-W03",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -124275,7 +124351,7 @@
         "week": "2026-W19",
         "BioMar": 21,
         "Cargill": 0,
-        "Skretting": 25
+        "Skretting": 26
       },
       {
         "week": "2026-W20",
@@ -124425,7 +124501,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1945
+        "count": 1946
       },
       {
         "company": "Cargill",
@@ -124433,7 +124509,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1217
+        "count": 1218
       }
     ]
   }
