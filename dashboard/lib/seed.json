@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T00:23:06+00:00",
+  "generated_at": "2026-10-22T10:26:15+00:00",
   "stats": {
-    "mention_count": 3479,
-    "story_count": 2547,
-    "analyzed_count": 1947,
-    "off_topic_mentions": 137,
-    "off_topic_stories": 85
+    "mention_count": 3482,
+    "story_count": 2548,
+    "analyzed_count": 1950,
+    "off_topic_mentions": 138,
+    "off_topic_stories": 86
   },
   "outlets": [
     ".: El Sol de Margarita :.",
@@ -416,6 +416,20 @@
   ],
   "stories": [
     {
+      "id": 2719,
+      "headline": "Price performance - Yahoo Finance Australia",
+      "story_summary": "This appears to be a financial data page or automated content feed from Yahoo Finance Australia. The article itself is not substantive and contains only a generic title and link structure without readable content about BioMar, Schouw & Co, or the named executive Jens Bjerg Sørensen beyond the keyword match that triggered extraction.",
+      "first_seen": "2026-10-22T00:54:55+00:00",
+      "last_seen": "2026-10-22T00:54:55+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 2718,
       "headline": "Nettsus for Tobias Moen Skretting - Stavanger Aftenblad",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0lrMU80cWRsV2NadkhYTGRHR0toejAxSWxYVm9SWXhnSzdQVGlyVVpIM1ZuUFNUZjl5Z2J0YXYzODJoSHFxR1BGV0ZEYnByLUUtNThSd1ROUmNYdzMya3JlUmF6UE9qVjUxQmxGNEp3WGNncEtpTnJUaHJFYUdXWA?oc=5\" target=\"_blank\">Nettsus for Tobias Moen Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
@@ -753,15 +767,15 @@
     },
     {
       "id": 2660,
-      "headline": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - The Manila Times",
-      "story_summary": "Schouw & Co. hosted a Capital Markets Day to present long-term financial ambitions and EBITDA targets to investors. The event underscores the parent company's strategic focus on financial performance and growth objectives across its portfolio, which includes BioMar Group aquaculture operations among other subsidiaries.  For fuller detail, the article text would need to be reviewed to extract specific targets and executive commentary from the event.  The headline indicates a positive forward-looking corporate message typical of investor relations communications, hence positive sentiment, though confidence is moderate without access to the full article text and specific claims made during the presentation and its reception in the market.  BioMar Group, as a major operating subsidiary of Schouw & Co., would likely be covered or referenced within the strategic and financial context of such an investor presentation, positioning the article as primary coverage of the parent company with direct relevance to BioMar's strategic direction and investor perception.  No specific controversies, product issues, or legal concerns are evident from the headline and lede summary text; the risk flag applied reflects the corporate financial and executive communication nature of the event.  The article's mention of ",
-      "first_seen": "2026-10-08T07:20:55+00:00",
+      "headline": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - GlobeNewswire",
+      "story_summary": "Schouw & Co. held a Capital Markets Day event and disclosed long-term earnings before interest, taxes, depreciation, and amortization (EBITDA) ambitions to investors. The company's announcement of forward-looking financial targets signals management confidence and strategic direction to the capital markets community. Due to the news headline alone, details on BioMar specifically and specific EBITDA figures are not provided in the source text supplied, though BioMar A/S is a major subsidiary of Schouw & Co. and would be included in group EBITDA targets. Capital Markets Days typically include divisional performance review and guidance for investor relations purposes, and BioMar historically represents a significant part of Schouw's earnings profile, so BioMar would be a relevant component of such communications even if not explicitly mentioned in this headline summary. For the purposes of this analysis, the company statement and capital markets event are attributed to Schouw & Co. as the parent holding company, and BioMar's prominence here is primary given that investor-focused EBITDA targets at the parent company level are substantively about the operational and financial direction of all major subsidiaries including BioMar A/S. Therefore, we analyze this as substantively relevant to BioMar through its parent company's financial communications. Confidence in positive sentiment reflects the forward-looking, investor-confidence-signaling nature of Capital Markets Day announcements, though the headline summary does not provide specific details to assess the quality or ambition level of the stated targets. Based on the title alone, the article does not indicate any negative developments. Key claims are sparse given the limited summary provided; we note only that the company held the event and made forward-looking EBITDA announcements, without specific figures or multiples to cite from the excerpt. No named executives or quotations are evident in the headline or summary provided. Risk flags are marked as financial due to the earnings guidance / EBITDA target announcement, and exec_statement does not apply because no specific named Schouw or BioMar executive quote is present in the source material provided, only an implied corporate announcement. is_about_target_brand is true because this is explicitly about Schouw & Co., BioMar's parent company, and investor relations disclosures by the parent are substantively about the group's business including BioMar. The article is not about a different Biomar (e.g. automotive, hydrocarbons, or pharma)—it is clearly about the Danish industrial conglomerate Schouw & Co. headquartered in Aarhus, which owns BioMar Group A/S. Capital Markets Day events by listed parent companies typically include segment or subsidiary performance updates and are core investor-relations material relevant to the aquaculture feed business. We classify prominence as primary because the article is specifically about the parent company's formal announcement to investors, which by definition concerns the direction and ambitions of its major operating subsidiaries including BioMar, even if BioMar is not explicitly named in the headline or summary excerpt provided. The positive sentiment reflects the constructive, confidence-signaling nature of forward guidance and capital markets engagement, without any indication of controversy, legal issue, product problem, or negative commentary in the source provided. Confidence is moderate-to-high (0.75) rather than very high because the excerpt does not provide specific details of the targets, tone of management commentary, or analyst / market reaction that would allow more definitive sentiment calibration. Given the summary/lede text only and no article body, we cannot extract detailed key claims, named speaker quotes, or risk flags beyond the financial guidance category. We retain a conservative stance and do not invent details; the analysis reflects only what is evident from the headline and summary provided, which is that the parent company held a capital markets event and announced EBITDA ambitions to investors—a standard, positive investor-relations action for a listed industrial holding company whose portfolio includes BioMar A/S as a significant asset and operating company. Based on this reasoning, the structured response is as follows: is_about_target_brand = true, sentiment = positive, sentiment_confidence = 0.75, prominence = primary, angle = \"Schouw & Co. announces long-term EBITDA ambitions at Capital Markets Day\", key_claims = [\"Schouw & Co. held a Capital Markets Day event\", \"The company announced long-term EBITDA ambitions to investors\"], people_quoted = [], risk_flags = [\"financial\", \"exec_statement\"], summary = \"Schouw & Co. held a Capital Markets Day and announced long-term EBITDA ambitions to investors. The investor-relations event signals management's forward-looking strategy and financial targets for the parent company and its operating subsidiaries, including BioMar Group A/S.\"—however, I must note that the exec_statement flag should be reconsidered: the headline and summary do not provide a verbatim or paraphrased quote from a named Schouw or BioMar executive. The announcement is attributed to the company corporately, not to a named individual speaker. Therefore, exec_statement should be removed and only financial should apply. Upon re-reading the risk_flags rules, exec_statement applies \"only when a named BioMar / Schouw executive is making a public statement.\" Since no named executive quote appears in the source material provided, exec_statement does not apply. Risk flags should be [\"financial\"] only. The summary should remain neutral and factual, describing the event and announcement without inflating sentiment beyond what the source supports. Here is the final structured response: is_about_target_brand = true, sentiment = positive, sentiment_confidence = 0.75, prominence = primary, angle = \"Schouw & Co. announces long-term EBITDA ambitions at Capital Markets Day\", key_claims = [\"Schouw & Co. held a Capital Markets Day event\", \"The company announced long-term EBITDA ambitions to investors\"], people_quoted = [], risk_flags = [\"financial\"], summary = \"Schouw & Co. held a Capital Markets Day and announced long-term EBITDA ambitions to investors. The event represents a formal communication of the parent company's strategic direction and financial targets to the capital markets.\"",
+      "first_seen": "2026-10-08T07:00:00+00:00",
       "last_seen": "2026-10-08T07:20:55+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1560,7 +1574,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -121006,6 +121020,81 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0lrMU80cWRsV2NadkhYTGRHR0toejAxSWxYVm9SWXhnSzdQVGlyVVpIM1ZuUFNUZjl5Z2J0YXYzODJoSHFxR1BGV0ZEYnByLUUtNThSd1ROUmNYdzMya3JlUmF6UE9qVjUxQmxGNEp3WGNncEtpTnJUaHJFYUdXWA?oc=5\" target=\"_blank\">Nettsus for Tobias Moen Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 705985,
+      "story_id": 2716,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YNXNmNmhvNE55cXdhRkpYMmxlbDRxbk84eU1zOGVVQjRWYTJZblFWajAxcnBPdzdWY24wTmFNbzlYVkl2RVdZeDczaERfNy1FU1dVek4zQWxhaHBvaUJoSjdEQ0ctVFJwY2Uw?oc=5",
+      "title": "BioMar Group completa su plan de certificación de piensos ASC Feed con BioMar Grecia - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Group completes ASC Feed certification plan with Greece facility",
+      "key_claims": [
+        "BioMar Group has completed its ASC Feed certification plan",
+        "BioMar's Greece operation (BioMar Grecia) is part of this certification initiative"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Group has completed its ASC Feed certification plan, with BioMar Grecia playing a key role in the initiative. The announcement reflects the company's commitment to certified sustainable aquaculture feed production standards."
+    },
+    {
+      "id": 706065,
+      "story_id": 2660,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQkhuM2dPS0xqLTFmWnZzOXNRWFZROHp0VGZpXzBaU0x2WUp1THJDcU1ZQW14cDN3LVhKWml3V21GUHM0UTJkLW9HZTZyNXoxRjJBeU01eGFIR1lXUUFmaUxraXowWDhDUGJ0YkUzS2lZalZPMGpxMFFudW9TX0ludDVIVlVzZkhvWERjcFV0VHB0a3JtV2JOTTBMS2dOMzVCSUQ4REZkQ3hpbmpJYm03bm5qWXVQVm0yd1Z0TkVOOEpGbEgxMm45T1M2WVJYV092UFdrUGFQWGZxZHUwZFdxcFl3?oc=5",
+      "title": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - GlobeNewswire",
+      "source_name": "GlobeNewswire",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces long-term EBITDA ambitions at Capital Markets Day",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. held a Capital Markets Day event and disclosed long-term earnings before interest, taxes, depreciation, and amortization (EBITDA) ambitions to investors. The company's announcement of forward-looking financial targets signals management confidence and strategic direction to the capital markets community. Due to the news headline alone, details on BioMar specifically and specific EBITDA figures are not provided in the source text supplied, though BioMar A/S is a major subsidiary of Schouw & Co. and would be included in group EBITDA targets. Capital Markets Days typically include divisional performance review and guidance for investor relations purposes, and BioMar historically represents a significant part of Schouw's earnings profile, so BioMar would be a relevant component of such communications even if not explicitly mentioned in this headline summary. For the purposes of this analysis, the company statement and capital markets event are attributed to Schouw & Co. as the parent holding company, and BioMar's prominence here is primary given that investor-focused EBITDA targets at the parent company level are substantively about the operational and financial direction of all major subsidiaries including BioMar A/S. Therefore, we analyze this as substantively relevant to BioMar through its parent company's financial communications. Confidence in positive sentiment reflects the forward-looking, investor-confidence-signaling nature of Capital Markets Day announcements, though the headline summary does not provide specific details to assess the quality or ambition level of the stated targets. Based on the title alone, the article does not indicate any negative developments. Key claims are sparse given the limited summary provided; we note only that the company held the event and made forward-looking EBITDA announcements, without specific figures or multiples to cite from the excerpt. No named executives or quotations are evident in the headline or summary provided. Risk flags are marked as financial due to the earnings guidance / EBITDA target announcement, and exec_statement does not apply because no specific named Schouw or BioMar executive quote is present in the source material provided, only an implied corporate announcement. is_about_target_brand is true because this is explicitly about Schouw & Co., BioMar's parent company, and investor relations disclosures by the parent are substantively about the group's business including BioMar. The article is not about a different Biomar (e.g. automotive, hydrocarbons, or pharma)—it is clearly about the Danish industrial conglomerate Schouw & Co. headquartered in Aarhus, which owns BioMar Group A/S. Capital Markets Day events by listed parent companies typically include segment or subsidiary performance updates and are core investor-relations material relevant to the aquaculture feed business. We classify prominence as primary because the article is specifically about the parent company's formal announcement to investors, which by definition concerns the direction and ambitions of its major operating subsidiaries including BioMar, even if BioMar is not explicitly named in the headline or summary excerpt provided. The positive sentiment reflects the constructive, confidence-signaling nature of forward guidance and capital markets engagement, without any indication of controversy, legal issue, product problem, or negative commentary in the source provided. Confidence is moderate-to-high (0.75) rather than very high because the excerpt does not provide specific details of the targets, tone of management commentary, or analyst / market reaction that would allow more definitive sentiment calibration. Given the summary/lede text only and no article body, we cannot extract detailed key claims, named speaker quotes, or risk flags beyond the financial guidance category. We retain a conservative stance and do not invent details; the analysis reflects only what is evident from the headline and summary provided, which is that the parent company held a capital markets event and announced EBITDA ambitions to investors—a standard, positive investor-relations action for a listed industrial holding company whose portfolio includes BioMar A/S as a significant asset and operating company. Based on this reasoning, the structured response is as follows: is_about_target_brand = true, sentiment = positive, sentiment_confidence = 0.75, prominence = primary, angle = \"Schouw & Co. announces long-term EBITDA ambitions at Capital Markets Day\", key_claims = [\"Schouw & Co. held a Capital Markets Day event\", \"The company announced long-term EBITDA ambitions to investors\"], people_quoted = [], risk_flags = [\"financial\", \"exec_statement\"], summary = \"Schouw & Co. held a Capital Markets Day and announced long-term EBITDA ambitions to investors. The investor-relations event signals management's forward-looking strategy and financial targets for the parent company and its operating subsidiaries, including BioMar Group A/S.\"—however, I must note that the exec_statement flag should be reconsidered: the headline and summary do not provide a verbatim or paraphrased quote from a named Schouw or BioMar executive. The announcement is attributed to the company corporately, not to a named individual speaker. Therefore, exec_statement should be removed and only financial should apply. Upon re-reading the risk_flags rules, exec_statement applies \"only when a named BioMar / Schouw executive is making a public statement.\" Since no named executive quote appears in the source material provided, exec_statement does not apply. Risk flags should be [\"financial\"] only. The summary should remain neutral and factual, describing the event and announcement without inflating sentiment beyond what the source supports. Here is the final structured response: is_about_target_brand = true, sentiment = positive, sentiment_confidence = 0.75, prominence = primary, angle = \"Schouw & Co. announces long-term EBITDA ambitions at Capital Markets Day\", key_claims = [\"Schouw & Co. held a Capital Markets Day event\", \"The company announced long-term EBITDA ambitions to investors\"], people_quoted = [], risk_flags = [\"financial\"], summary = \"Schouw & Co. held a Capital Markets Day and announced long-term EBITDA ambitions to investors. The event represents a formal communication of the parent company's strategic direction and financial targets to the capital markets.\""
+    },
+    {
+      "id": 706144,
+      "story_id": 2719,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QRWpDVTZpM3NPNTF3Y3NIelkxMms2MndsRzliMDlwZjE0WlY4Z1BUcjlyY0s3bm9GODRhX0RMTmYtMGRYQ2htcjF2MUFTV1ctZGtjU3BLaWs?oc=5",
+      "title": "Price performance - Yahoo Finance Australia",
+      "source_name": "Yahoo Finance Australia",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-22T00:54:55+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.5,
+      "prominence": "passing",
+      "angle": "Stock price performance data",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This appears to be a financial data page or automated content feed from Yahoo Finance Australia. The article itself is not substantive and contains only a generic title and link structure without readable content about BioMar, Schouw & Co, or the named executive Jens Bjerg Sørensen beyond the keyword match that triggered extraction."
     }
   ],
   "share_of_voice": {
@@ -124599,7 +124688,7 @@
       },
       {
         "week": "2026-W37",
-        "BioMar": 16,
+        "BioMar": 17,
         "Cargill": 0,
         "Skretting": 6
       },
@@ -124623,7 +124712,7 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 16,
+        "BioMar": 17,
         "Cargill": 0,
         "Skretting": 8
       },
@@ -124635,7 +124724,7 @@
       },
       {
         "week": "2026-W43",
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -124643,7 +124732,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1947
+        "count": 1950
       },
       {
         "company": "Cargill",
