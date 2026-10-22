@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T19:57:45+00:00",
+  "generated_at": "2026-10-22T00:23:06+00:00",
   "stats": {
-    "mention_count": 3477,
-    "story_count": 2545,
+    "mention_count": 3479,
+    "story_count": 2547,
     "analyzed_count": 1947,
     "off_topic_mentions": 137,
     "off_topic_stories": 85
@@ -415,6 +415,20 @@
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2718,
+      "headline": "Nettsus for Tobias Moen Skretting - Stavanger Aftenblad",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0lrMU80cWRsV2NadkhYTGRHR0toejAxSWxYVm9SWXhnSzdQVGlyVVpIM1ZuUFNUZjl5Z2J0YXYzODJoSHFxR1BGV0ZEYnByLUUtNThSd1ROUmNYdzMya3JlUmF6UE9qVjUxQmxGNEp3WGNncEtpTnJUaHJFYUdXWA?oc=5\" target=\"_blank\">Nettsus for Tobias Moen Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>",
+      "first_seen": "2026-10-21T18:48:33+00:00",
+      "last_seen": "2026-10-21T18:48:33+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2713,
       "headline": "Nutrición, innovación y territorio darán forma a un encuentro sobre el futuro del salmón - Salmonexpert",
@@ -26318,6 +26332,20 @@
       "id": 2566,
       "headline": "Programa Fish Quality de Skretting analizó cuatro mil muestras de salmón durante 2020 - Diario Acuícola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcEFtSjZXczdsWS01ZHEtOEdnTUFlUWxsaG9tYThPRHRnQjdmZUh3OVpKdmJOMGltQXprNVRpTzBFTlZldXhMTkxGN2JYblZNeG5sUm9qemhoa3lxLURsOUEzZWt1amFORkk1d2hTWTFMR1JNbjB5NVp4d0htUGFCU1RZWkpBU3ZqOGJTS0FxN1lZRUI2OVNTTmJBY0FKdnRrVzRydU9rRDc0TmxQNFk4RkIzOVhSeWJxM0VXb2RTYl8xNFJxV3M1bEVieE1Sb01KVXdLTk5oSUxJWlhDRDVtQXY5cw?oc=5\" target=\"_blank\">Programa Fish Quality de Skretting analizó cuatro mil muestras de salmón durante 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2021-01-27T08:00:00+00:00",
+      "last_seen": "2021-01-27T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2717,
+      "headline": "Biotech-feed giant partnership to explore bacteriophage potential - Global Seafood Alliance",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXy12b0hkLWRYa3JDRWZGa2dFbWFnc3diZndjOGhXclRKNzBTQ3VucTFrWUc5T2tEb1BHUTlXalN1UFVaY3FHSGpZWmJqMnk2aEc5M1dUaDNlWlpXdl9hYzFHczg2S0FiUDlnQno5aWFuX3NNZXg2YlBwRUV5TUd1bTEtdEJFVDZUTTFPWEgtdWxWVFVYVktpNFhwdFNPSkdnNTdCSmhoelM?oc=5\" target=\"_blank\">Biotech-feed giant partnership to explore bacteriophage potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>",
       "first_seen": "2021-01-27T08:00:00+00:00",
       "last_seen": "2021-01-27T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -120930,6 +120958,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAyUVZUTjBqQmhPWHFGcVdEa0hiamh3Sl9ZU1Uza3NrNGhESkNqclBYM0wtWnlnZGZzbURTY0VVeTY2bTUtRVVfal9ZOVdreVEwUGQ2Sml1b1VMeE1UZG9FcVE4T295QUZPOVZPR0N1MTFZZw?oc=5\" target=\"_blank\">Skretting to cease UK production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmon Business</font>"
+    },
+    {
+      "id": 705249,
+      "story_id": 2717,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXy12b0hkLWRYa3JDRWZGa2dFbWFnc3diZndjOGhXclRKNzBTQ3VucTFrWUc5T2tEb1BHUTlXalN1UFVaY3FHSGpZWmJqMnk2aEc5M1dUaDNlWlpXdl9hYzFHczg2S0FiUDlnQno5aWFuX3NNZXg2YlBwRUV5TUd1bTEtdEJFVDZUTTFPWEgtdWxWVFVYVktpNFhwdFNPSkdnNTdCSmhoelM?oc=5",
+      "title": "Biotech-feed giant partnership to explore bacteriophage potential - Global Seafood Alliance",
+      "source_name": "Global Seafood Alliance",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2021-01-27T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXy12b0hkLWRYa3JDRWZGa2dFbWFnc3diZndjOGhXclRKNzBTQ3VucTFrWUc5T2tEb1BHUTlXalN1UFVaY3FHSGpZWmJqMnk2aEc5M1dUaDNlWlpXdl9hYzFHczg2S0FiUDlnQno5aWFuX3NNZXg2YlBwRUV5TUd1bTEtdEJFVDZUTTFPWEgtdWxWVFVYVktpNFhwdFNPSkdnNTdCSmhoelM?oc=5\" target=\"_blank\">Biotech-feed giant partnership to explore bacteriophage potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Seafood Alliance</font>"
+    },
+    {
+      "id": 705251,
+      "story_id": 2718,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0lrMU80cWRsV2NadkhYTGRHR0toejAxSWxYVm9SWXhnSzdQVGlyVVpIM1ZuUFNUZjl5Z2J0YXYzODJoSHFxR1BGV0ZEYnByLUUtNThSd1ROUmNYdzMya3JlUmF6UE9qVjUxQmxGNEp3WGNncEtpTnJUaHJFYUdXWA?oc=5",
+      "title": "Nettsus for Tobias Moen Skretting - Stavanger Aftenblad",
+      "source_name": "Stavanger Aftenblad",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-21T18:48:33+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0lrMU80cWRsV2NadkhYTGRHR0toejAxSWxYVm9SWXhnSzdQVGlyVVpIM1ZuUFNUZjl5Z2J0YXYzODJoSHFxR1BGV0ZEYnByLUUtNThSd1ROUmNYdzMya3JlUmF6UE9qVjUxQmxGNEp3WGNncEtpTnJUaHJFYUdXWA?oc=5\" target=\"_blank\">Nettsus for Tobias Moen Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
     }
   ],
   "share_of_voice": {
@@ -122869,7 +122945,7 @@
         "week": "2021-W04",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 8
+        "Skretting": 9
       },
       {
         "week": "2021-W05",
@@ -124561,7 +124637,7 @@
         "week": "2026-W43",
         "BioMar": 5,
         "Cargill": 0,
-        "Skretting": 5
+        "Skretting": 6
       }
     ],
     "totals": [
@@ -124575,7 +124651,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1219
+        "count": 1221
       }
     ]
   }
