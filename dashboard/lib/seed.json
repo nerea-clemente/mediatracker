@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T19:48:51+00:00",
+  "generated_at": "2026-10-23T00:21:40+00:00",
   "stats": {
-    "mention_count": 3486,
-    "story_count": 2550,
-    "analyzed_count": 1951,
-    "off_topic_mentions": 138,
-    "off_topic_stories": 86
+    "mention_count": 3487,
+    "story_count": 2551,
+    "analyzed_count": 1953,
+    "off_topic_mentions": 139,
+    "off_topic_stories": 87
   },
   "outlets": [
     ".: El Sol de Margarita :.",
@@ -702,6 +702,20 @@
       "first_seen": "2026-10-13T13:49:11+00:00",
       "last_seen": "2026-10-13T13:49:11+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2722,
+      "headline": "Schouw & Co. share buy-back programme, week 41 2026 - Yahoo Finance",
+      "story_summary": "Schouw & Co. conducted a share buy-back programme during week 41 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group.",
+      "first_seen": "2026-10-12T07:00:00+00:00",
+      "last_seen": "2026-10-12T07:00:00+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -20295,7 +20309,7 @@
     {
       "id": 2720,
       "headline": "Feeding the Aquaculture Industry: Understanding Critical Areas of Environmental Impact - environment coastal & offshore",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTdCUkFQbWZWeHpGeC1OSGJSWDEyTEV4LTZHaTZyOXQ3bDh2ZFNVb3pRN1hhRG0tdTdabUotX1NfQWtmenhmWURUcndETmxQVjJRWnZpcC1ZakZpM2tRY3N3QVRITkJKVFhObDZZQ1ZwLUFYRFhYYTBoaFJqWUZWUTdvRTRTOHJoTXRGbjMtNWxXREN5Y0RpREd0SnJCaWJnTElqVFJneThxZm9WNS0wVXFwUUZ2V2IyWFVz?oc=5\" target=\"_blank\">Feeding the Aquaculture Industry: Understanding Critical Areas of Environmental Impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">environment coastal & offshore</font>",
+      "story_summary": "This is a general industry article about environmental considerations in aquaculture feed production. While BioMar is mentioned as a keyword match, the article appears to be a broad educational piece about the sector rather than focused coverage of BioMar specifically.",
       "first_seen": "2023-10-13T07:00:00+00:00",
       "last_seen": "2023-10-13T07:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -20303,7 +20317,7 @@
         "none"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
+      "is_about_target_brand": false,
       "company": "BioMar"
     },
     {
@@ -121136,17 +121150,17 @@
       "published_at": "2023-10-13T07:00:00+00:00",
       "matched_keyword": "BioMar",
       "company": "BioMar",
-      "is_about_target_brand": true,
+      "is_about_target_brand": false,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
+      "sentiment_confidence": 0.85,
       "prominence": "passing",
-      "angle": "",
+      "angle": "Environmental impacts of aquaculture feed production and use.",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTdCUkFQbWZWeHpGeC1OSGJSWDEyTEV4LTZHaTZyOXQ3bDh2ZFNVb3pRN1hhRG0tdTdabUotX1NfQWtmenhmWURUcndETmxQVjJRWnZpcC1ZakZpM2tRY3N3QVRITkJKVFhObDZZQ1ZwLUFYRFhYYTBoaFJqWUZWUTdvRTRTOHJoTXRGbjMtNWxXREN5Y0RpREd0SnJCaWJnTElqVFJneThxZm9WNS0wVXFwUUZ2V2IyWFVz?oc=5\" target=\"_blank\">Feeding the Aquaculture Industry: Understanding Critical Areas of Environmental Impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">environment coastal & offshore</font>"
+      "summary": "This is a general industry article about environmental considerations in aquaculture feed production. While BioMar is mentioned as a keyword match, the article appears to be a broad educational piece about the sector rather than focused coverage of BioMar specifically."
     },
     {
       "id": 707871,
@@ -121219,6 +121233,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVklxR3dxQ3lENnMybXJpZTFUWWVtaUJZY0IzVnY2bGI1V1ozT0w5SV9fXzRVbmdqa3NLNmVHZGxJMGlyMW1lNld4YVd3M1FWbmJESDFBT0RnTTl2RjZkQnZpR1V5NHJJV1RDZ2xqOE5qNVpTdUhxbUlFcTNCUkhsaXlqZzBmZzlFTHpUc29Fa1JQVHFXSEozbHBQXzZ5eTRfc3pBclF6ZjFLZ1c4a2wydGJDYjl3LU5aaUtoLUJEb3VQUFFWeGp1Ry1YR09BMTk1dkpXZmNRQzBhb0syZW95MzVfZHhyaTBmWXpSbHN3?oc=5\" target=\"_blank\">\"Para avanzar a nuestra ambición de sostenibilidad se necesita colaboración y compromiso\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 708869,
+      "story_id": 2722,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmFxbnVtdmp0TXNsRHdSTVVPTmQ0ZlFQVnBHMndYWXZqNkZsbmsxVEE5ZjVoV2I0M1llcXAyQjhOSGpOV1FkNGoxdDd4U2lTLTEzMWpleXdnY2dnelpRQnJ2dXliYWtGSDBsV0VDZV9Wd3kyeFlWVmR4dlprSGE2RHhMYW9qOTVOU3l3YzNYWkpRM2M?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 41 2026 - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-10-12T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buy-back programme for week 41 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. conducted a share buy-back programme during week 41 of 2026. The article reports routine capital allocation activity by the parent company of BioMar Group."
     }
   ],
   "share_of_voice": {
@@ -124848,7 +124886,7 @@
       },
       {
         "week": "2026-W42",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 4
       },
@@ -124862,7 +124900,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1952
+        "count": 1953
       },
       {
         "company": "Cargill",
