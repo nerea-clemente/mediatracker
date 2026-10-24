@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T09:43:20+00:00",
+  "generated_at": "2026-10-24T13:25:22+00:00",
   "stats": {
-    "mention_count": 3499,
+    "mention_count": 3500,
     "story_count": 2560,
-    "analyzed_count": 1960,
+    "analyzed_count": 1961,
     "off_topic_mentions": 139,
     "off_topic_stories": 87
   },
@@ -434,12 +434,12 @@
       "headline": "Schouw & Co A/S Estimates – OMXCOP:SCHO - TradingView",
       "story_summary": "TradingView provides financial estimates and trading information for Schouw & Co A/S shares listed on the OMX Copenhagen exchange. The article is a routine financial data and analysis page without substantive narrative content.",
       "first_seen": "2026-10-23T13:39:57+00:00",
-      "last_seen": "2026-10-23T14:21:25+00:00",
+      "last_seen": "2026-10-23T15:33:43+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -121673,6 +121673,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPd3ljVmhvWV9HY3dSSFE4RGZyNThCUmFzQVhtQ3FRLWVkMDcyM0habDFVY3JQWVZpSDRrNG53R3NlYjhZdFhvdGFYdzRPVjB2UmFBOVRjQ1p4SGVES0FzRi0xTFVHUjVzT3NzMm5ramxvWE5TMUxXSUQ2YmlRbXZRTFc5M1gtdERXaDh2bnBpWDd2dHZNVzU1OFhVUGxjVFBYUWFaX1FoTQ?oc=5\" target=\"_blank\">Skretting develops nutrition solution to tackle salmon melanosis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 714495,
+      "story_id": 2729,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XTk9vZy02cFBZR2VWYzF6YzB3UjQ4aE1aSGxva3Etajc4VXVleGtaM1pwREpZLXpobFRoRDUyWFhiTlpuOWdpd3JvN1lzR2NXREVTczN2UG1CLTcybFNzTVBNTElOdmdYbFdlU2g3aTdvSWR2Mi04ZQ?oc=5",
+      "title": "Schouw & Co A/S Estimates – OMXCOP:SCHO - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-23T15:33:43+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Financial estimates and trading data for Schouw & Co stock.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView provides earnings estimates and financial data for Schouw & Co A/S, the parent company of BioMar Group. The article is primarily a financial data platform entry rather than editorial coverage with substantive news or analysis."
     }
   ],
   "share_of_voice": {
@@ -125320,7 +125344,7 @@
       },
       {
         "week": "2026-W43",
-        "BioMar": 10,
+        "BioMar": 11,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -125328,7 +125352,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1960
+        "count": 1961
       },
       {
         "company": "Cargill",
