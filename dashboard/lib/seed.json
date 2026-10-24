@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T13:25:22+00:00",
+  "generated_at": "2026-10-24T18:38:23+00:00",
   "stats": {
-    "mention_count": 3500,
-    "story_count": 2560,
-    "analyzed_count": 1961,
+    "mention_count": 3505,
+    "story_count": 2565,
+    "analyzed_count": 1963,
     "off_topic_mentions": 139,
     "off_topic_stories": 87
   },
@@ -44,6 +44,7 @@
     "Bloomberg.com",
     "Bodøposten.no",
     "Bolsamania",
+    "Boulger Funeral Home",
     "BriefGlance",
     "Budstikka",
     "Business News Australia",
@@ -100,6 +101,7 @@
     "EL PAÍS",
     "ESM Magazine",
     "EVOKE",
+    "EXTRADIGITAL",
     "Economía Digital",
     "Education News Canada",
     "El Confidencial",
@@ -404,6 +406,7 @@
     "tec.ac.cr",
     "tk.no",
     "tradingview.com",
+    "transfermarkt.us",
     "tronderbladet.no",
     "uk.finance.yahoo.com",
     "vol.no",
@@ -2377,6 +2380,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2736,
+      "headline": "Skretting busca un Communication Specialist en Cojóbar - EXTRADIGITAL",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVUxaFlOS1AzQ0ZlMWdPaUU0Wl9IMXdNVG5ETlpuMnJrNDQ2U3ZJbFRSSVlOcWVEczU4RDhJSW9kMXV6TkgyNTJzSFVWclEtXzhqcnplQkRjejItZWhMTkE3VmVYRzVKWDAtYnlqY25sQmZJLXJzNmFPbGJ0VF9zWU9tQWl1eEpkTlhqMFdPNWRqY0t0dEZIeXhR?oc=5\" target=\"_blank\">Skretting busca un Communication Specialist en Cojóbar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EXTRADIGITAL</font>",
+      "first_seen": "2026-08-21T07:00:00+00:00",
+      "last_seen": "2026-08-21T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 2222,
@@ -17408,6 +17425,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2735,
+      "headline": "Mikkel Aune Skretting - transfermarkt.us",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBsYnpkY01XNHBQdVpqcXR0bW5PNXV6QjhaNHg4MDBEU0w4bks3ck85S25jUGMtdTgwMzhVd2RDU2NPemdyNEc4N09FTm9pb0puZXVEVXhIdWNoZmlpcFFDa0otX3RDLW5FRFhIZ1ZDdmtidkZjbFZQcEFTRlZqUQ?oc=5\" target=\"_blank\">Mikkel Aune Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">transfermarkt.us</font>",
+      "first_seen": "2024-09-24T19:44:27+00:00",
+      "last_seen": "2024-09-24T19:44:27+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 118,
       "headline": "BioMar investerer 100 millioner på Myre. Vil redusere fotavtrykket ved å elektrifisere driften - iLaks",
       "story_summary": "BioMar is committing 100 million in capital investment to electrify its Myre production facility as part of efforts to reduce its environmental footprint. The project reflects the aquaculture feed producer's sustainability focus and operational modernization strategy.",
@@ -21539,6 +21570,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2734,
+      "headline": "BioMar signs deal with French biotech company to produce novel insect aquafeed - The Fish Site",
+      "story_summary": "BioMar has entered into a partnership agreement with a French biotech company to develop and produce insect-based aquaculture feed. The deal represents the company's expansion into novel feed ingredients for the aquaculture sector.",
+      "first_seen": "2023-04-25T07:00:00+00:00",
+      "last_seen": "2023-04-25T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1338,
       "headline": "BioMar receives third-party verification of carbon reduction plan - SeafoodSource",
       "story_summary": "BioMar has received independent verification of its carbon reduction plan, demonstrating progress toward sustainability goals. The third-party verification provides credibility to the company's environmental commitments in aquaculture feed production.",
@@ -23617,6 +23662,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNRDM4X2ZOQjZGT0xjVVdYTThLTEJYb3QwdzdGaHNlZTdzcVZ0VEotNFRvZVpDUFNWSU5kdXpXV3JhZ0tjS0lENlVVNEdQVW01OVRLVFk5THQ5MHlrTjlOckUtOEJaRkVPdE5NMzVzNE02QTlwWUJNbWJUZmtiNVFQQXVRc25zajdFRGNjcHpham5WX1NlYS0ySEpjM3JuU3JiTG5weTlMUTU1aFVldDFnaGg1Xzk3Nk5kc09MY1V3cTNQemdORExsY2ZqVl8?oc=5\" target=\"_blank\">Skretting Chile reafirma compromiso para impulsar la formación técnica</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2022-05-24T07:00:00+00:00",
       "last_seen": "2022-05-24T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2733,
+      "headline": "Jerald Skretting - Boulger Funeral Home",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2djJFem5FMWNQcUVJSzh5MmlIdm9xMzVMRFVZZHFSR1BYWnBkSU9iQU9reVgyWVFfbEQzaXNCTWszNHNjbFFyaVNLOTBGeDNBNDU2c2UweXJObzZfM20ycjRQcmc?oc=5\" target=\"_blank\">Jerald Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boulger Funeral Home</font>",
+      "first_seen": "2022-05-23T19:08:39+00:00",
+      "last_seen": "2022-05-23T19:08:39+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -32444,6 +32503,20 @@
       "story_summary": "The article reports that former employees from competing aquaculture feed companies Skretting and BioMar hold central positions at a Marine Harvest production facility. The piece highlights the movement of talent between major players in the Norwegian salmon farming supply chain. The news was published in May 2017 and appears to focus on staffing changes at Marine Harvest's operations rather than on BioMar's own business directly. However, it confirms industry staff mobility and the profile of BioMar employees in the sector. BioMar is mentioned as one of the source companies for these experienced personnel now working in production roles at Marine Harvest facilities.",
       "first_seen": "2017-05-29T05:17:45+00:00",
       "last_seen": "2017-05-29T05:17:45+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2732,
+      "headline": "Aktieselskabet Schouw & Co. (SCHO.CO) stock price, news, quote and history - Yahoo Finance UK",
+      "story_summary": "This is a Yahoo Finance UK stock information page for Aktieselskabet Schouw & Co., listing basic company data, stock price, and trading history. The article serves as a directory entry rather than a substantive news narrative about the company or its operations.",
+      "first_seen": "2017-05-20T08:18:39+00:00",
+      "last_seen": "2017-05-20T08:18:39+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -121697,6 +121770,129 @@
         "none"
       ],
       "summary": "TradingView provides earnings estimates and financial data for Schouw & Co A/S, the parent company of BioMar Group. The article is primarily a financial data platform entry rather than editorial coverage with substantive news or analysis."
+    },
+    {
+      "id": 715210,
+      "story_id": 2734,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ1RGUGJBRzVZTm9RbHJ5MHN1dXdicTV1VUxHa0lUMzRwWTd4TUdhMW5ZczRKQ0JiNXNjZ1dYNUJtSnZKb0NvNW0waVpkQXlheDFad0RiZlF0VzF1NVBWZ21Dc09rU3VyQkRtanFEUldSOENEMnZCd1dhU1g5SXRFZDNMUVE5VFAzZ0dyS0NhbFF6ZVNKNGpYWjhDT1NpZnJLSEZhbkg5MUlWdw?oc=5",
+      "title": "BioMar signs deal with French biotech company to produce novel insect aquafeed - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2023-04-25T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.8,
+      "prominence": "primary",
+      "angle": "BioMar partners with French biotech on innovative insect-based aquafeed",
+      "key_claims": [
+        "BioMar has signed a deal with a French biotech company",
+        "The deal involves production of novel insect-based aquafeed"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has entered into a partnership agreement with a French biotech company to develop and produce insect-based aquaculture feed. The deal represents the company's expansion into novel feed ingredients for the aquaculture sector."
+    },
+    {
+      "id": 715534,
+      "story_id": 2732,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIM1ZWejJTVmtpZWR1SVBWUEYyc3g0X3EtZThnTnJZVU12Y1JPUFM0ZDhZTV9TTXFyOUgyY2RPbEJwUy1XTWV4MHZocENaR3hfaVg2N0ZR?oc=5",
+      "title": "Aktieselskabet Schouw & Co. (SCHO.CO) stock price, news, quote and history - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2017-05-20T08:18:39+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock listing and company information page",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance UK stock information page for Aktieselskabet Schouw & Co., listing basic company data, stock price, and trading history. The article serves as a directory entry rather than a substantive news narrative about the company or its operations."
+    },
+    {
+      "id": 715625,
+      "story_id": 2733,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2djJFem5FMWNQcUVJSzh5MmlIdm9xMzVMRFVZZHFSR1BYWnBkSU9iQU9reVgyWVFfbEQzaXNCTWszNHNjbFFyaVNLOTBGeDNBNDU2c2UweXJObzZfM20ycjRQcmc?oc=5",
+      "title": "Jerald Skretting - Boulger Funeral Home",
+      "source_name": "Boulger Funeral Home",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2022-05-23T19:08:39+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2djJFem5FMWNQcUVJSzh5MmlIdm9xMzVMRFVZZHFSR1BYWnBkSU9iQU9reVgyWVFfbEQzaXNCTWszNHNjbFFyaVNLOTBGeDNBNDU2c2UweXJObzZfM20ycjRQcmc?oc=5\" target=\"_blank\">Jerald Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boulger Funeral Home</font>"
+    },
+    {
+      "id": 715644,
+      "story_id": 2735,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsYnpkY01XNHBQdVpqcXR0bW5PNXV6QjhaNHg4MDBEU0w4bks3ck85S25jUGMtdTgwMzhVd2RDU2NPemdyNEc4N09FTm9pb0puZXVEVXhIdWNoZmlpcFFDa0otX3RDLW5FRFhIZ1ZDdmtidkZjbFZQcEFTRlZqUQ?oc=5",
+      "title": "Mikkel Aune Skretting - transfermarkt.us",
+      "source_name": "transfermarkt.us",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2024-09-24T19:44:27+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBsYnpkY01XNHBQdVpqcXR0bW5PNXV6QjhaNHg4MDBEU0w4bks3ck85S25jUGMtdTgwMzhVd2RDU2NPemdyNEc4N09FTm9pb0puZXVEVXhIdWNoZmlpcFFDa0otX3RDLW5FRFhIZ1ZDdmtidkZjbFZQcEFTRlZqUQ?oc=5\" target=\"_blank\">Mikkel Aune Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">transfermarkt.us</font>"
+    },
+    {
+      "id": 715963,
+      "story_id": 2736,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVUxaFlOS1AzQ0ZlMWdPaUU0Wl9IMXdNVG5ETlpuMnJrNDQ2U3ZJbFRSSVlOcWVEczU4RDhJSW9kMXV6TkgyNTJzSFVWclEtXzhqcnplQkRjejItZWhMTkE3VmVYRzVKWDAtYnlqY25sQmZJLXJzNmFPbGJ0VF9zWU9tQWl1eEpkTlhqMFdPNWRqY0t0dEZIeXhR?oc=5",
+      "title": "Skretting busca un Communication Specialist en Cojóbar - EXTRADIGITAL",
+      "source_name": "EXTRADIGITAL",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVUxaFlOS1AzQ0ZlMWdPaUU0Wl9IMXdNVG5ETlpuMnJrNDQ2U3ZJbFRSSVlOcWVEczU4RDhJSW9kMXV6TkgyNTJzSFVWclEtXzhqcnplQkRjejItZWhMTkE3VmVYRzVKWDAtYnlqY25sQmZJLXJzNmFPbGJ0VF9zWU9tQWl1eEpkTlhqMFdPNWRqY0t0dEZIeXhR?oc=5\" target=\"_blank\">Skretting busca un Communication Specialist en Cojóbar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EXTRADIGITAL</font>"
     }
   ],
   "share_of_voice": {
@@ -122722,7 +122918,7 @@
       },
       {
         "week": "2017-W20",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -124014,7 +124210,7 @@
         "week": "2022-W21",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2022-W22",
@@ -124276,7 +124472,7 @@
       },
       {
         "week": "2023-W17",
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Skretting": 4
       },
@@ -124698,7 +124894,7 @@
         "week": "2024-W39",
         "BioMar": 0,
         "Cargill": 1,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W40",
@@ -125292,7 +125488,7 @@
         "week": "2026-W34",
         "BioMar": 22,
         "Cargill": 0,
-        "Skretting": 13
+        "Skretting": 14
       },
       {
         "week": "2026-W35",
@@ -125352,7 +125548,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1961
+        "count": 1963
       },
       {
         "company": "Cargill",
@@ -125360,7 +125556,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1228
+        "count": 1231
       }
     ]
   }
