@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T18:38:23+00:00",
+  "generated_at": "2026-10-24T23:57:42+00:00",
   "stats": {
-    "mention_count": 3505,
+    "mention_count": 3506,
     "story_count": 2565,
-    "analyzed_count": 1963,
+    "analyzed_count": 1964,
     "off_topic_mentions": 139,
     "off_topic_stories": 87
   },
@@ -554,7 +554,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -121893,6 +121893,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVUxaFlOS1AzQ0ZlMWdPaUU0Wl9IMXdNVG5ETlpuMnJrNDQ2U3ZJbFRSSVlOcWVEczU4RDhJSW9kMXV6TkgyNTJzSFVWclEtXzhqcnplQkRjejItZWhMTkE3VmVYRzVKWDAtYnlqY25sQmZJLXJzNmFPbGJ0VF9zWU9tQWl1eEpkTlhqMFdPNWRqY0t0dEZIeXhR?oc=5\" target=\"_blank\">Skretting busca un Communication Specialist en Cojóbar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EXTRADIGITAL</font>"
+    },
+    {
+      "id": 716417,
+      "story_id": 2706,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFhoT2lUVmdXOGZ1RzVGSVBwLUJTaFRNa0ZFeWF0eHkzSk9MRmpKWlBxbzN2OEVLQlZhelc5YXdCTzR6aS1OcEZwMmRyVXJZYnRtc0dYOWx6TnNuNFU4MEh4WHpicmVnOGVzN2ppTlBpTEd0NFRLRXRtLTFsa0h6VEFIR3hERmZuNF9GLVpaM3hvb1hvR2ZmWGNJWUFwbGtTY0E?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 42 2026 - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-10-19T13:02:24+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buyback programme in week 42 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. conducted a share buyback programme during week 42 of 2026. The announcement is a routine corporate capital allocation update from the Aarhus-based industrial conglomerate parent of BioMar Group."
     }
   ],
   "share_of_voice": {
@@ -125540,7 +125564,7 @@
       },
       {
         "week": "2026-W43",
-        "BioMar": 11,
+        "BioMar": 12,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -125548,7 +125572,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1963
+        "count": 1964
       },
       {
         "company": "Cargill",
