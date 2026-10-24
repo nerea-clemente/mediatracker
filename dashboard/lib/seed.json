@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T00:12:21+00:00",
+  "generated_at": "2026-10-24T09:43:20+00:00",
   "stats": {
-    "mention_count": 3496,
-    "story_count": 2558,
-    "analyzed_count": 1959,
+    "mention_count": 3499,
+    "story_count": 2560,
+    "analyzed_count": 1960,
     "off_topic_mentions": 139,
     "off_topic_stories": 87
   },
@@ -431,15 +431,15 @@
     },
     {
       "id": 2729,
-      "headline": "Schouw & Co Estimates – LSX:882803 - TradingView",
-      "story_summary": "TradingView publishes financial estimates and trading data for Schouw & Co stock (LSX:882803). The article provides analyst consensus and valuation metrics for the publicly listed Danish conglomerate. No specific news or developments are reported in this ticker/estimates page format.",
+      "headline": "Schouw & Co A/S Estimates – OMXCOP:SCHO - TradingView",
+      "story_summary": "TradingView provides financial estimates and trading information for Schouw & Co A/S shares listed on the OMX Copenhagen exchange. The article is a routine financial data and analysis page without substantive narrative content.",
       "first_seen": "2026-10-23T13:39:57+00:00",
-      "last_seen": "2026-10-23T13:39:57+00:00",
+      "last_seen": "2026-10-23T14:21:25+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -24915,6 +24915,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2731,
+      "headline": "Skretting develops nutrition solution to tackle salmon melanosis - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPd3ljVmhvWV9HY3dSSFE4RGZyNThCUmFzQVhtQ3FRLWVkMDcyM0habDFVY3JQWVZpSDRrNG53R3NlYjhZdFhvdGFYdzRPVjB2UmFBOVRjQ1p4SGVES0FzRi0xTFVHUjVzT3NzMm5ramxvWE5TMUxXSUQ2YmlRbXZRTFc5M1gtdERXaDh2bnBpWDd2dHZNVzU1OFhVUGxjVFBYUWFaX1FoTQ?oc=5\" target=\"_blank\">Skretting develops nutrition solution to tackle salmon melanosis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2021-11-09T08:00:00+00:00",
+      "last_seen": "2021-11-09T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 56,
       "headline": "Julie (18) er i rute mot fast jobb - FriFagbevegelse",
       "story_summary": "The article profiles an 18-year-old named Julie who is progressing toward a permanent job. BioMar is mentioned only in passing, if at all, as context for her employment situation rather than as the focus of the story.",
@@ -34713,6 +34727,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYU9zM25ETG9YeDkyMGY2bFVBaHVsMm94NlNPd0s5LW5uSVlTekRMaG85UUdiUXplQnhESE0wclpFcUl1TW01VjBzU2RXNkh2cWpRWGMwZDc2Vy01bmd1Qk5Dc1JreHRYTWFSeW9XbFFEZkxtS0VtZjIxQS1KamM4UndtSUYxVGE2d1RweVVjZEU5VlZtblZtVEhyRzNpV2hYZng5aTFmamhIeUlVakRZYlJyR0t4Q1dWRFl3YVlsZHNxMjBNZVVzMjI4MmVUMERhOEFwdGNoZFZCbW96LWIyZzd3?oc=5\" target=\"_blank\">Fútbol: Skretting y Prat disputarán la final del Súper Seniors de Rahue este miércoles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SoyChile.cl</font>",
       "first_seen": "2015-01-26T08:00:00+00:00",
       "last_seen": "2015-01-26T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2730,
+      "headline": "Skretting to Launch New Premium Trout Feed - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmlqMmUtd0k4NVZJNFY2SXRSOVFabnhYb2pxZ0xiR1Z4d3NVaTdkSDB5LUdHZWttNmxxS0kzeEdJbnJRUFZ0NGlZQlR2Um1CbmZLZ1hraDhtdldOMGd0TzRXclgwOW9hWkFxVldZZDJkaFhUUF9ud3hxU3loaDRCNQ?oc=5\" target=\"_blank\">Skretting to Launch New Premium Trout Feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2014-12-24T08:00:00+00:00",
+      "last_seen": "2014-12-24T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -121573,6 +121601,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5hb2xJYUpNbVNXMWI3Q0hkVWdtZ1FTSnlSMTlBaW0wUVlvVXpqcHR3TFMyd2lFVEFISG1uMS1NWFVpQTR6dTBtajdoMkwzazFmOG5SMG53NXJ2Nk91dDFhbXBqTmtVMjNieFhVdTJ4OU1GMC1iVFdtNzJKUQ?oc=5\" target=\"_blank\">1’ - Mål av Ingeborg Skretting (0-1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>"
+    },
+    {
+      "id": 713624,
+      "story_id": 2729,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpVTE3ZEtmdl9NYTRGZTEyd2w0RElMV0ZjNmpSZTV5MmFxbjAxS2RCekJTcU1yZ0o2NGYteVZSeWNsYlhrWFpaN0JqSDRYNDRtaWlmenV6NXVsVzd2b25nSTJYTHpPZXBYQmxCd3RFYkJKZWwtMGdr?oc=5",
+      "title": "Schouw & Co A/S Estimates – OMXCOP:SCHO - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-23T14:21:25+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial estimates and trading data for Schouw & Co stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView provides financial estimates and trading information for Schouw & Co A/S shares listed on the OMX Copenhagen exchange. The article is a routine financial data and analysis page without substantive narrative content."
+    },
+    {
+      "id": 713779,
+      "story_id": 2730,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmlqMmUtd0k4NVZJNFY2SXRSOVFabnhYb2pxZ0xiR1Z4d3NVaTdkSDB5LUdHZWttNmxxS0kzeEdJbnJRUFZ0NGlZQlR2Um1CbmZLZ1hraDhtdldOMGd0TzRXclgwOW9hWkFxVldZZDJkaFhUUF9ud3hxU3loaDRCNQ?oc=5",
+      "title": "Skretting to Launch New Premium Trout Feed - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2014-12-24T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmlqMmUtd0k4NVZJNFY2SXRSOVFabnhYb2pxZ0xiR1Z4d3NVaTdkSDB5LUdHZWttNmxxS0kzeEdJbnJRUFZ0NGlZQlR2Um1CbmZLZ1hraDhtdldOMGd0TzRXclgwOW9hWkFxVldZZDJkaFhUUF9ud3hxU3loaDRCNQ?oc=5\" target=\"_blank\">Skretting to Launch New Premium Trout Feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 713783,
+      "story_id": 2731,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd3ljVmhvWV9HY3dSSFE4RGZyNThCUmFzQVhtQ3FRLWVkMDcyM0habDFVY3JQWVZpSDRrNG53R3NlYjhZdFhvdGFYdzRPVjB2UmFBOVRjQ1p4SGVES0FzRi0xTFVHUjVzT3NzMm5ramxvWE5TMUxXSUQ2YmlRbXZRTFc5M1gtdERXaDh2bnBpWDd2dHZNVzU1OFhVUGxjVFBYUWFaX1FoTQ?oc=5",
+      "title": "Skretting develops nutrition solution to tackle salmon melanosis - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2021-11-09T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPd3ljVmhvWV9HY3dSSFE4RGZyNThCUmFzQVhtQ3FRLWVkMDcyM0habDFVY3JQWVZpSDRrNG53R3NlYjhZdFhvdGFYdzRPVjB2UmFBOVRjQ1p4SGVES0FzRi0xTFVHUjVzT3NzMm5ramxvWE5TMUxXSUQ2YmlRbXZRTFc5M1gtdERXaDh2bnBpWDd2dHZNVzU1OFhVUGxjVFBYUWFaX1FoTQ?oc=5\" target=\"_blank\">Skretting develops nutrition solution to tackle salmon melanosis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -122073,6 +122173,12 @@
         "BioMar": 1,
         "Cargill": 0,
         "Skretting": 0
+      },
+      {
+        "week": "2014-W52",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
       },
       {
         "week": "2015-W05",
@@ -123734,7 +123840,7 @@
         "week": "2021-W45",
         "BioMar": 1,
         "Cargill": 0,
-        "Skretting": 10
+        "Skretting": 11
       },
       {
         "week": "2021-W46",
@@ -125214,7 +125320,7 @@
       },
       {
         "week": "2026-W43",
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -125222,7 +125328,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1959
+        "count": 1960
       },
       {
         "company": "Cargill",
@@ -125230,7 +125336,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1226
+        "count": 1228
       }
     ]
   }
