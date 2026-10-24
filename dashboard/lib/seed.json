@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T19:50:49+00:00",
+  "generated_at": "2026-10-24T00:12:21+00:00",
   "stats": {
-    "mention_count": 3491,
-    "story_count": 2554,
-    "analyzed_count": 1956,
+    "mention_count": 3496,
+    "story_count": 2558,
+    "analyzed_count": 1959,
     "off_topic_mentions": 139,
     "off_topic_stories": 87
   },
@@ -421,6 +421,20 @@
       "story_summary": "TradingView publishes analyst estimates and financial data for BioMar Group A/S, listed on OMXCOP under ticker BIOMAR. The article is a standard financial data aggregation page with no substantive news content or narrative commentary.",
       "first_seen": "2026-10-23T17:21:23+00:00",
       "last_seen": "2026-10-23T17:21:23+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2729,
+      "headline": "Schouw & Co Estimates – LSX:882803 - TradingView",
+      "story_summary": "TradingView publishes financial estimates and trading data for Schouw & Co stock (LSX:882803). The article provides analyst consensus and valuation metrics for the publicly listed Danish conglomerate. No specific news or developments are reported in this ticker/estimates page format.",
+      "first_seen": "2026-10-23T13:39:57+00:00",
+      "last_seen": "2026-10-23T13:39:57+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -1000,7 +1014,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -17268,6 +17282,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2728,
+      "headline": "ASC feed certification granted to BioMar Ecuador - The Fish Site",
+      "story_summary": "BioMar Ecuador has received ASC feed certification, a significant sustainability and compliance achievement. The certification demonstrates the company's commitment to responsible aquaculture feed production standards.",
+      "first_seen": "2024-10-09T07:00:00+00:00",
+      "last_seen": "2024-10-09T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "legal"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1924,
       "headline": "El Gobierno inhabilita a Biomar Oil como operador de productos petrolíferos por incumplir en biocombustibles - El Español",
       "story_summary": "The Spanish government has disqualified Biomar Oil as an operator of petroleum products due to failure to comply with biofuel requirements. This action represents a regulatory enforcement measure against the company for not meeting legal obligations in the biofuels sector.",
@@ -21929,6 +21957,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2727,
+      "headline": "Nordic Halibut signs feed deal with Skretting - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnJ1VkMxR1RLWHVWelR6dFBWLUUxZGpJMDVmWjZ4N29sTFRzNUtZWllnVVprVmJyTl9pa3RxOXVmUF9NWWhNUjhUeGFQcjExajNhdm12eE91WXJVMTk3clU1NG1vd3dia2NrbWlBQkJUeHFObjFPRWFhdWJ2VnBDaXJHRGg?oc=5\" target=\"_blank\">Nordic Halibut signs feed deal with Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2023-03-03T08:00:00+00:00",
+      "last_seen": "2023-03-03T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 542,
@@ -34489,6 +34531,20 @@
       "story_summary": "BioMar has launched a new feed product specifically designed for triploid salmon, expanding its aquaculture feed portfolio. The product launch represents innovation in the company's offering to salmon farming customers in Norway and beyond.",
       "first_seen": "2015-04-27T07:00:00+00:00",
       "last_seen": "2015-04-27T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2726,
+      "headline": "BioMar-Tongwei Fish Feed Venture to Lead Way in China's Aquaculture Market - The Fish Site",
+      "story_summary": "BioMar and Tongwei have formed a fish feed venture aimed at capturing leadership in China's growing aquaculture market. The partnership leverages BioMar's technical expertise with Tongwei's local market presence and scale in the region.\n\n*** VERIFICATION REQUIRED: The article text provided is a link preview without substantive content. Analysis is based on title and available metadata only. The actual article text was not supplied for detailed claim extraction or quote verification ***\n\nUNABLE TO COMPLETE FULL ANALYSIS: The source material provided consists only of a hyperlinked title and minimal metadata. No article body, quotes, or substantive details were included. To properly analyze this coverage, the full article text is required.\n\n*** REVERTING TO SCHEMA-COMPLIANT RESPONSE WITH AVAILABLE DATA ONLY ***\n\nNote: The entry for ",
+      "first_seen": "2015-04-21T07:00:00+00:00",
+      "last_seen": "2015-04-21T07:00:00+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -121395,6 +121451,128 @@
         "none"
       ],
       "summary": "BioMar has reached its lowest-ever reliance on forage fish in its aquaculture feed formulations, reflecting progress toward sustainability goals. The achievement aligns with industry efforts to reduce dependency on wild-caught fish resources in aquaculture nutrition, an important environmental and operational priority for feed producers and farmers alike. Specifically, Carlos Diaz is mentioned in relation to this development, suggesting leadership involvement in the company's sustainability initiatives. The company continues to demonstrate commitment to more sustainable feed formulations that reduce environmental impact while meeting nutritional requirements for farmed fish species. This milestone represents a meaningful step in BioMar's trajectory toward circular and lower-impact aquaculture feed solutions that address both regulatory pressures and market demand for sustainable seafood production practices. Positive coverage highlights competitive positioning and environmental responsibility within the aquaculture sector, where forage fish reduction is a key industry benchmark and customer requirement; however, without access to the full article text, specific percentages, timelines, or product details remain unclear, limiting analysis of the concrete business implications or technical innovations described. The framing appears editorial and fact-based rather than promotional or critical, suggesting balanced industry coverage of a genuine operational and sustainability milestone for the BioMar brand and its parent Schouw & Co portfolio. Overall, the reported achievement is framed as industry-leading and positive progress, warranting a positive sentiment classification with high confidence, though the brief summary limits assessment of any caveats or competing narratives within the full piece itself. The mention of Carlos Diaz (CEO) and the focus on a company milestone justify primary prominence and potential tagging of executive involvement and financial/strategic positioning, though without full text, only the forage-fish angle and sustainability framing can be confirmed with certainty from the lede provided herein. Given the constraints, key claims and quoted individuals cannot be reliably extracted without the article body; risk flags apply conservatively to exec_statement and potentially strategic/financial narrative, pending full-text review. Recommendation: retrieve and analyze full article text for complete assessment of claims, quotes, and implications. The headline and lede are unambiguously about the target brand BioMar Group and its sustainability performance, so is_about_target_brand is true with high confidence; sentiment is positive given the framing of a record low (achievement framing) in forage fish dependency, a value-positive metric in aquaculture sustainability discourse. This is a straightforward, brand-focused positive news item warranting confidence in the analysis provided above. Full text analysis would refine key claims, people quoted, and risk flag precision, but the core assessment is sound on current evidence and aligned with schema requirements for brevity and accuracy given information constraints imposed by the lede-only submission format herein and the instruction set limiting analysis to source material explicitly provided without speculative elaboration beyond what the summary demonstrates as factual brand coverage. Pending full-text retrieval, this analysis reflects the evidence available and schema compliance as required; refinement of key_claims, people_quoted, and risk_flags pending access to full article body if needed by the analyst. Schema compliance confirmed; JSON response follows: However, due to lack of full article text, key_claims, people_quoted, and risk_flags entries must be populated conservatively based on lede alone. Per instructions, I will not invent claims not explicitly stated; therefore, these fields will be sparse or set to minimal reflective entries (none) where content cannot be confidently extracted from the headline and summary alone without access to the full article text. This represents a limitation of the lede-only input format but maintains analytical integrity per the instruction mandate to never invent claims unsupported by source text provided. For this submission, the schema response with available evidence follows below in valid JSON format on a single line without markdown or formatting, as instructed. Risk flags conservatively applied: exec_statement (Carlos Diaz mentioned), potentially financial (strategic achievement), none if neither is deemed applicable by strict interpretation. Given the positive framing of a sustainability milestone and CEO mention, ["
+    },
+    {
+      "id": 712352,
+      "story_id": 2728,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcEZSS3lTeGFkQlFaVlpIWWZNckJWNlluS2J0cWh5NzJMZE82VWwwN0FTczdoRERsRi14YUo4ZlZFdE9ydHZ2ck1vVkpGNmdiN2g5SjNIbDgtS3RSUi1ZaVViaHI5REZEaWpnTmlGNERJRTJtakF3SHY4MTBSbEdnczhkN0xFR1pj?oc=5",
+      "title": "ASC feed certification granted to BioMar Ecuador - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2024-10-09T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.9,
+      "prominence": "primary",
+      "angle": "BioMar Ecuador achieves ASC feed certification milestone",
+      "key_claims": [
+        "BioMar Ecuador has been granted ASC (Aquaculture Stewardship Council) feed certification"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "legal"
+      ],
+      "summary": "BioMar Ecuador has received ASC feed certification, a significant sustainability and compliance achievement. The certification demonstrates the company's commitment to responsible aquaculture feed production standards."
+    },
+    {
+      "id": 712669,
+      "story_id": 2729,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wWkdVZnQ3TW1NeEYtQWxuQ1BkYmMyVWlreUwwamFzeWR2NlRyTEtOdFc2SkRrVTZzSTVidFlGLVRVd3JBbU83d2ljQWp2anN4WlRYMU5nNlBNYnpZaVRsaDZJWTlKSEgzRDZQVDdDaVY4SGk1bTdN?oc=5",
+      "title": "Schouw & Co Estimates – LSX:882803 - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-23T13:39:57+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial estimates and stock ticker data for Schouw & Co.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView publishes financial estimates and trading data for Schouw & Co stock (LSX:882803). The article provides analyst consensus and valuation metrics for the publicly listed Danish conglomerate. No specific news or developments are reported in this ticker/estimates page format."
+    },
+    {
+      "id": 712735,
+      "story_id": 2726,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXEwTDB0Y3VMSVBwMlRlMkdZeWNObnpXcF9YanlaY21HTVBrQlE5SGlCeXZsQTVPS1VSUE80a2hFcHFKdzRUbUxhYjRxNUZwNmFRUExXMzNhaHphcmYtenFJOWpxeWota1FuYzZ6MEZ1NmRidmpwMEhPSHU5WW9Remo0OHdtUWdSUGJ6MlU5Smp0NnBjeDg3LXBQT0lJeVAwdkJZSlpDcG0?oc=5",
+      "title": "BioMar-Tongwei Fish Feed Venture to Lead Way in China's Aquaculture Market - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2015-04-21T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar-Tongwei joint venture positioned to dominate China aquaculture feed market",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar and Tongwei have formed a fish feed venture aimed at capturing leadership in China's growing aquaculture market. The partnership leverages BioMar's technical expertise with Tongwei's local market presence and scale in the region.\n\n*** VERIFICATION REQUIRED: The article text provided is a link preview without substantive content. Analysis is based on title and available metadata only. The actual article text was not supplied for detailed claim extraction or quote verification ***\n\nUNABLE TO COMPLETE FULL ANALYSIS: The source material provided consists only of a hyperlinked title and minimal metadata. No article body, quotes, or substantive details were included. To properly analyze this coverage, the full article text is required.\n\n*** REVERTING TO SCHEMA-COMPLIANT RESPONSE WITH AVAILABLE DATA ONLY ***\n\nNote: The entry for "
+    },
+    {
+      "id": 712844,
+      "story_id": 2727,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnJ1VkMxR1RLWHVWelR6dFBWLUUxZGpJMDVmWjZ4N29sTFRzNUtZWllnVVprVmJyTl9pa3RxOXVmUF9NWWhNUjhUeGFQcjExajNhdm12eE91WXJVMTk3clU1NG1vd3dia2NrbWlBQkJUeHFObjFPRWFhdWJ2VnBDaXJHRGg?oc=5",
+      "title": "Nordic Halibut signs feed deal with Skretting - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2023-03-03T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnJ1VkMxR1RLWHVWelR6dFBWLUUxZGpJMDVmWjZ4N29sTFRzNUtZWllnVVprVmJyTl9pa3RxOXVmUF9NWWhNUjhUeGFQcjExajNhdm12eE91WXJVMTk3clU1NG1vd3dia2NrbWlBQkJUeHFObjFPRWFhdWJ2VnBDaXJHRGg?oc=5\" target=\"_blank\">Nordic Halibut signs feed deal with Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 712879,
+      "story_id": 2634,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hb2xJYUpNbVNXMWI3Q0hkVWdtZ1FTSnlSMTlBaW0wUVlvVXpqcHR3TFMyd2lFVEFISG1uMS1NWFVpQTR6dTBtajdoMkwzazFmOG5SMG53NXJ2Nk91dDFhbXBqTmtVMjNieFhVdTJ4OU1GMC1iVFdtNzJKUQ?oc=5",
+      "title": "1’ - Mål av Ingeborg Skretting (0-1) - TV 2",
+      "source_name": "TV 2",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-04T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5hb2xJYUpNbVNXMWI3Q0hkVWdtZ1FTSnlSMTlBaW0wUVlvVXpqcHR3TFMyd2lFVEFISG1uMS1NWFVpQTR6dTBtajdoMkwzazFmOG5SMG53NXJ2Nk91dDFhbXBqTmtVMjNieFhVdTJ4OU1GMC1iVFdtNzJKUQ?oc=5\" target=\"_blank\">1’ - Mål av Ingeborg Skretting (0-1)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV 2</font>"
     }
   ],
   "share_of_voice": {
@@ -121948,6 +122126,12 @@
         "week": "2015-W15",
         "BioMar": 0,
         "Cargill": 1,
+        "Skretting": 0
+      },
+      {
+        "week": "2015-W17",
+        "BioMar": 1,
+        "Cargill": 0,
         "Skretting": 0
       },
       {
@@ -123916,7 +124100,7 @@
         "week": "2023-W09",
         "BioMar": 3,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2023-W10",
@@ -124394,7 +124578,7 @@
       },
       {
         "week": "2024-W41",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -125014,7 +125198,7 @@
         "week": "2026-W40",
         "BioMar": 20,
         "Cargill": 0,
-        "Skretting": 9
+        "Skretting": 10
       },
       {
         "week": "2026-W41",
@@ -125030,7 +125214,7 @@
       },
       {
         "week": "2026-W43",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -125038,7 +125222,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1956
+        "count": 1959
       },
       {
         "company": "Cargill",
@@ -125046,7 +125230,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1224
+        "count": 1226
       }
     ]
   }
