@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T13:47:25+00:00",
+  "generated_at": "2026-10-25T18:46:08+00:00",
   "stats": {
-    "mention_count": 3509,
-    "story_count": 2568,
-    "analyzed_count": 1966,
+    "mention_count": 3511,
+    "story_count": 2569,
+    "analyzed_count": 1967,
     "off_topic_mentions": 139,
     "off_topic_stories": 87
   },
@@ -443,6 +443,20 @@
         "financial"
       ],
       "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2740,
+      "headline": "Precio de acciones, noticias, cotización e historial de BioMar Group A/S (BIOMAR.CO) - Yahoo",
+      "story_summary": "This is a Yahoo Finance page displaying stock price data, news, quotations, and historical information for BioMar Group A/S. The page serves as a financial reference tool rather than news coverage of the company's activities or announcements.",
+      "first_seen": "2026-10-22T16:03:30+00:00",
+      "last_seen": "2026-10-22T16:03:30+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -22938,7 +22952,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -122039,6 +122053,54 @@
         "exec_statement"
       ],
       "summary": "Carlos Diaz, CEO of BioMar, speaks about the company's awareness of pandemic-related impacts. The article captures BioMar's stance on managing through the COVID-19 crisis."
+    },
+    {
+      "id": 719186,
+      "story_id": 2740,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55NkNnZnhYeVdtRnlEYmFqaDZjUG9LNFFtQkx4b3J6RjZHNlFiNlpMMUN3LVJ6OHV5YmRvejdFX3haX2wzZW5RcENCemc3R05iY3pvZmZibEZSRTJ1VmRfOFJETzFGdjg?oc=5",
+      "title": "Precio de acciones, noticias, cotización e historial de BioMar Group A/S (BIOMAR.CO) - Yahoo",
+      "source_name": "Yahoo",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-22T16:03:30+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock price and financial information page for BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance page displaying stock price data, news, quotations, and historical information for BioMar Group A/S. The page serves as a financial reference tool rather than news coverage of the company's activities or announcements."
+    },
+    {
+      "id": 719733,
+      "story_id": 960,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUHhIWTlLX2YwVGFaWU0wUVBhX2tHMFJhZ1RidGMxVmFKMXJqcW9ibnREZ1laZl9qWmcyYWt5MTlrb29SM05rTmNzMTRHak4xOWpUM04zTUFiLUZOcktodU5SSGotUDVsYmRLcmdlSVFNd3Ryc1Nobm5Sd3NTcy0xVmlwQWFEMkFtR2hUcjN0NUFjMWdJMC13UU55T2hValpldWZ1YmtHRVV2SDZXemFielFSRWoyN1EwQmxScDJDWU1oYVVfNzczQU1aQU1aSlhuOUhhbkluVTVmc3pWRDRhN3pCemFKbGJm?oc=5",
+      "title": "Skretting Chile conmemoró el Día Internacional de Limpieza de Playas junto a escolares de Pargua - Diario de Osorno",
+      "source_name": "Diario de Osorno",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-09-30T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUHhIWTlLX2YwVGFaWU0wUVBhX2tHMFJhZ1RidGMxVmFKMXJqcW9ibnREZ1laZl9qWmcyYWt5MTlrb29SM05rTmNzMTRHak4xOWpUM04zTUFiLUZOcktodU5SSGotUDVsYmRLcmdlSVFNd3Ryc1Nobm5Sd3NTcy0xVmlwQWFEMkFtR2hUcjN0NUFjMWdJMC13UU55T2hValpldWZ1YmtHRVV2SDZXemFielFSRWoyN1EwQmxScDJDWU1oYVVfNzczQU1aQU1aSlhuOUhhbkluVTVmc3pWRDRhN3pCemFKbGJm?oc=5\" target=\"_blank\">Skretting Chile conmemoró el Día Internacional de Limpieza de Playas junto a escolares de Pargua</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
     }
   ],
   "share_of_voice": {
@@ -124464,7 +124526,7 @@
         "week": "2022-W39",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2022-W40",
@@ -125692,7 +125754,7 @@
       },
       {
         "week": "2026-W43",
-        "BioMar": 12,
+        "BioMar": 13,
         "Cargill": 0,
         "Skretting": 6
       }
@@ -125700,7 +125762,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1966
+        "count": 1967
       },
       {
         "company": "Cargill",
@@ -125708,7 +125770,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1231
+        "count": 1232
       }
     ]
   }
