@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T10:00:02+00:00",
+  "generated_at": "2026-10-25T13:47:25+00:00",
   "stats": {
-    "mention_count": 3508,
-    "story_count": 2567,
-    "analyzed_count": 1965,
+    "mention_count": 3509,
+    "story_count": 2568,
+    "analyzed_count": 1966,
     "off_topic_mentions": 139,
     "off_topic_stories": 87
   },
@@ -27827,6 +27827,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2739,
+      "headline": "BioMar: \"We are very conscious of the potential impact of the pandemic\" - Salmon Business",
+      "story_summary": "Carlos Diaz, CEO of BioMar, speaks about the company's awareness of pandemic-related impacts. The article captures BioMar's stance on managing through the COVID-19 crisis.",
+      "first_seen": "2020-05-07T07:00:00+00:00",
+      "last_seen": "2020-05-07T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "exec_statement"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -121993,6 +122007,38 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ083STI1SUJ2Q0RNYThnVWdqLThnMC1qQms0RzBhWEcxdjhNZGJSczAtVjQ0amFyWnF0OUhWWlhFRWM2cUUzdHNib1BPOXR3ZjFOMWZORWdCXzQ2YWZHSHp6UDN4alhDMGdYMlpqTUxuM3RNVjdRT2RHZDNSQmlHNkoyOVRqM1J4NUxj?oc=5\" target=\"_blank\">Research on Arctic Salmon Farming Granted Millions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 718383,
+      "story_id": 2739,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenNYYnlkalh2RXUyd2RVLVpUOXZFckdaUGkxNVpHWERMTFBISDJIMjFHbkwxZ0FiaXhHQnFiSC1kLVdTRV9TZ1dseG0ydDVsajBRWk1IQVZvQ0tqaUh4Ul84N2JjMmFMWHk0ekJzOVZNQjFsY0N5S2FOM1RZVTVDdTh5Z0ZSOExhY3FiNDBPdUt1OTUxZEdQUkgxeEczRTRkMFE?oc=5",
+      "title": "BioMar: \"We are very conscious of the potential impact of the pandemic\" - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-05-07T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar CEO discusses pandemic awareness and company preparedness",
+      "key_claims": [
+        "BioMar is conscious of the potential impact of the pandemic"
+      ],
+      "people_quoted": [
+        {
+          "name": "Carlos Diaz",
+          "affiliation": "BioMar",
+          "quote_summary": "The company is very conscious of the potential impact of the pandemic on its operations."
+        }
+      ],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "Carlos Diaz, CEO of BioMar, speaks about the company's awareness of pandemic-related impacts. The article captures BioMar's stance on managing through the COVID-19 crisis."
     }
   ],
   "share_of_voice": {
@@ -123762,7 +123808,7 @@
       },
       {
         "week": "2020-W19",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 4
       },
@@ -125654,7 +125700,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1965
+        "count": 1966
       },
       {
         "company": "Cargill",
