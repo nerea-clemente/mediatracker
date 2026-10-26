@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T11:23:11+00:00",
+  "generated_at": "2026-10-26T16:13:45+00:00",
   "stats": {
-    "mention_count": 3517,
-    "story_count": 2573,
-    "analyzed_count": 1969,
-    "off_topic_mentions": 139,
-    "off_topic_stories": 87
+    "mention_count": 3520,
+    "story_count": 2575,
+    "analyzed_count": 1971,
+    "off_topic_mentions": 140,
+    "off_topic_stories": 88
   },
   "outlets": [
     ".: El Sol de Margarita :.",
@@ -419,6 +419,20 @@
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2746,
+      "headline": "Schouw & Co. share buy-back programme, week 43 2026 - The Manila Times",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPajRITFNlR1RWWUVZRWs5c1h2X01INi1HMWRLbF9kSjAzbVRPWWd6ZzBHM2xEbkc4UkpWNDdGNmRrMGIxcWxFRktQYjBDc3czNllEYXNwcnJoZld1QkZsWVF4RldROWpJYTlHYjBPUzR1aFdHS09UQWl3VTZ4MVVIN05OUVd2MzFidWUyaEpUaVpXWkNRaDdrX3hzMzBRQURWZnlMYktlOXBBZzFGLXFhWUtzNEduU0ctajJpT2JB0gHDAUFVX3lxTE1QTDVJS1YyYTROcFNBcVk4cHQtUFhnSV8wa09vX0R0cFRBMmNaeHlBOTVMbE01TXVBLTF3Yy1Yd2VqU3dkQUlrMWl5RVU0YlJEYk9XNEhoNE55MzAycGRiXzA3UkhwX0lIOWdqeVJYbXVrQ1RJMFItSElDeDE2S3dpeEtYVkgyejlyd09CRWpvUkpSR3drS3pSaUg5a0tNR3pheF92Y1pPU3phMmREVDVPUjNKbUlsNlhsSlJ3cVdwZWdtTQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 43 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+      "first_seen": "2026-10-26T13:05:27+00:00",
+      "last_seen": "2026-10-26T13:05:27+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2744,
       "headline": "BioMar, Multi X e INIA impulsan una acuicultura regenerativa - Aqua.cl",
@@ -17804,6 +17818,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2745,
+      "headline": "Compare stock performance against competitors - Yahoo Finance Singapore",
+      "story_summary": "This is a generic Yahoo Finance Singapore stock comparison tool or feature article. The article appears to be a template or navigation page for comparing stock performance rather than substantive reporting about any company.",
+      "first_seen": "2024-08-02T07:43:53+00:00",
+      "last_seen": "2024-08-02T07:43:53+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 608,
       "headline": "'Where's the Drone Port?': Future-looking objection to Cronulla development - St George & Sutherland Shire Leader",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdW5ZU3RNcmZSdmR1WExTSTZ2LWIwdmlybVhxVjhhcno0TWRHTVFXZlRYckJSSk41OVBnalFIaWhpYXFqN19xVWctdjhxMFVhLUlVMG9JRXB1Q1p5M1ptdmJpUkhBRTJ2VlFTLXdGXzJFUGQwZDNsbzdOek1lSFJDMTNhUDFfVF9VYUdmZ0lBbHB5RFBhbEFYOWItTTRLNXZuSXc?oc=5\" target=\"_blank\">'Where's the Drone Port?': Future-looking objection to Cronulla development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St George & Sutherland Shire Leader</font>",
@@ -32612,15 +32640,15 @@
     },
     {
       "id": 2732,
-      "headline": "Aktieselskabet Schouw & Co. (SCHO.CO) stock price, news, quote and history - Yahoo Finance UK",
-      "story_summary": "This is a Yahoo Finance UK stock information page for Aktieselskabet Schouw & Co., listing basic company data, stock price, and trading history. The article serves as a directory entry rather than a substantive news narrative about the company or its operations.",
-      "first_seen": "2017-05-20T08:18:39+00:00",
+      "headline": "Aktieselskabet Schouw & Co. (SCHO.CO) stock price, news, quote and history - Yahoo Finance Singapore",
+      "story_summary": "This is a Yahoo Finance Singapore stock quote page for Aktieselskabet Schouw & Co., providing price, news, and historical data for the company. The content is a standard financial data aggregation service with no substantive reporting or analysis of the company's operations or performance.",
+      "first_seen": "2017-05-19T03:10:57+00:00",
       "last_seen": "2017-05-20T08:18:39+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -122305,6 +122333,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5BTHp2UUQ2Y0szc3FBRnUzaGdwMThwT3JKT0Y1eU9WWm43bW9fajQyQkNRSC1vTXA4YldRa2tMYlhtcUxBLWcxZVVUSWRxa2VsbWFnMElFbjVwS25WTzBIZ3lFUEIzeWhheDU5ZERFMjJzQQ?oc=5\" target=\"_blank\">Storfint besøk til Grimstad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 722265,
+      "story_id": 2746,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPajRITFNlR1RWWUVZRWs5c1h2X01INi1HMWRLbF9kSjAzbVRPWWd6ZzBHM2xEbkc4UkpWNDdGNmRrMGIxcWxFRktQYjBDc3czNllEYXNwcnJoZld1QkZsWVF4RldROWpJYTlHYjBPUzR1aFdHS09UQWl3VTZ4MVVIN05OUVd2MzFidWUyaEpUaVpXWkNRaDdrX3hzMzBRQURWZnlMYktlOXBBZzFGLXFhWUtzNEduU0ctajJpT2JB0gHDAUFVX3lxTE1QTDVJS1YyYTROcFNBcVk4cHQtUFhnSV8wa09vX0R0cFRBMmNaeHlBOTVMbE01TXVBLTF3Yy1Yd2VqU3dkQUlrMWl5RVU0YlJEYk9XNEhoNE55MzAycGRiXzA3UkhwX0lIOWdqeVJYbXVrQ1RJMFItSElDeDE2S3dpeEtYVkgyejlyd09CRWpvUkpSR3drS3pSaUg5a0tNR3pheF92Y1pPU3phMmREVDVPUjNKbUlsNlhsSlJ3cVdwZWdtTQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 43 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-10-26T13:05:27+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPajRITFNlR1RWWUVZRWs5c1h2X01INi1HMWRLbF9kSjAzbVRPWWd6ZzBHM2xEbkc4UkpWNDdGNmRrMGIxcWxFRktQYjBDc3czNllEYXNwcnJoZld1QkZsWVF4RldROWpJYTlHYjBPUzR1aFdHS09UQWl3VTZ4MVVIN05OUVd2MzFidWUyaEpUaVpXWkNRaDdrX3hzMzBRQURWZnlMYktlOXBBZzFGLXFhWUtzNEduU0ctajJpT2JB0gHDAUFVX3lxTE1QTDVJS1YyYTROcFNBcVk4cHQtUFhnSV8wa09vX0R0cFRBMmNaeHlBOTVMbE01TXVBLTF3Yy1Yd2VqU3dkQUlrMWl5RVU0YlJEYk9XNEhoNE55MzAycGRiXzA3UkhwX0lIOWdqeVJYbXVrQ1RJMFItSElDeDE2S3dpeEtYVkgyejlyd09CRWpvUkpSR3drS3pSaUg5a0tNR3pheF92Y1pPU3phMmREVDVPUjNKbUlsNlhsSlJ3cVdwZWdtTQ?oc=5\" target=\"_blank\">Schouw & Co. share buy-back programme, week 43 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+    },
+    {
+      "id": 722288,
+      "story_id": 2732,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SUDNYdjIyVjVyenZScnpsZHpGTDkxSW45bzV1eDlQVG81c1dMVTdlZFFzZmhKWGNMaVpuVF9uaS11X2owSkxCbE5VTThHbWRocDNlVkh3?oc=5",
+      "title": "Aktieselskabet Schouw & Co. (SCHO.CO) stock price, news, quote and history - Yahoo Finance Singapore",
+      "source_name": "Yahoo Finance Singapore",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2017-05-19T03:10:57+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock price and company information listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance Singapore stock quote page for Aktieselskabet Schouw & Co., providing price, news, and historical data for the company. The content is a standard financial data aggregation service with no substantive reporting or analysis of the company's operations or performance."
+    },
+    {
+      "id": 722370,
+      "story_id": 2745,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vZHU0akVIMU1aTVZ2VG82dmJDTEludVpwamV3YUpwSWd3NE1vUnFfM3JkOWYtNzVTRGhrUU1mZVg1VXNOeEVHXzQtNUdWTmZRQzh2YVl3Zw?oc=5",
+      "title": "Compare stock performance against competitors - Yahoo Finance Singapore",
+      "source_name": "Yahoo Finance Singapore",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2024-08-02T07:43:53+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "passing",
+      "angle": "Stock performance comparison tool on Yahoo Finance",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a generic Yahoo Finance Singapore stock comparison tool or feature article. The article appears to be a template or navigation page for comparing stock performance rather than substantive reporting about any company."
     }
   ],
   "share_of_voice": {
@@ -123336,7 +123436,7 @@
       },
       {
         "week": "2017-W20",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -125268,7 +125368,7 @@
       },
       {
         "week": "2024-W31",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Skretting": 0
       },
@@ -125964,7 +126064,7 @@
       },
       {
         "week": "2026-W44",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 3
       }
@@ -125972,7 +126072,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1969
+        "count": 1972
       },
       {
         "company": "Cargill",
