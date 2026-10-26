@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T23:44:30+00:00",
+  "generated_at": "2026-10-26T11:23:11+00:00",
   "stats": {
-    "mention_count": 3512,
-    "story_count": 2569,
-    "analyzed_count": 1967,
+    "mention_count": 3517,
+    "story_count": 2573,
+    "analyzed_count": 1969,
     "off_topic_mentions": 139,
     "off_topic_stories": 87
   },
@@ -414,10 +414,67 @@
     "weareaquaculture.com",
     "webull.com",
     "www.aqua.cl",
+    "www.intrafish.com",
     "www.marketscreener.com",
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2744,
+      "headline": "BioMar, Multi X e INIA impulsan una acuicultura regenerativa - Aqua.cl",
+      "story_summary": "BioMar, Multi X, and the National Institute of Agricultural Research (INIA) are collaborating to promote regenerative aquaculture practices. The partnership represents an industry and research-led initiative to advance sustainability in the sector.",
+      "first_seen": "2026-10-26T09:51:04+00:00",
+      "last_seen": "2026-10-26T09:51:04+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2743,
+      "headline": "Skretting secures insect protein supply from new factory - www.intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3lVNWFJX0tyOFo3R1JwMi1wd1M2aDdiUzJBZEdTMG9SVHFIMGFZSm5SS2Y5U1YwQ2VrOXdBcGFEUmdIQkxpdHhKb21XWTdvSlNRUXVjNXlQT3h4MGNEblZfOWFUQzY5NVhVTjNfckdnd0FadGFORVI2ZlNPTnVzendUWkFkbDFpd1FPaUczb3QxdzVPWXA2WEV5T2YxYkd2?oc=5\" target=\"_blank\">Skretting secures insect protein supply from new factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.intrafish.com</font>",
+      "first_seen": "2026-10-26T09:31:41+00:00",
+      "last_seen": "2026-10-26T09:31:41+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2742,
+      "headline": "Volare completes 5,000-ton insect protein factory in Finland - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGFfYmI1Q0hnUDFCekpVWW1MdG9qS0ZHcWc1aGh1aDNLTXpHZ1NuLVNyRFdFTTdaTGtNMEZtenJMektWaUhpaHBtLWpKQVZWcnJaZllocXRyWHd4TGpVM3VlaXhsWmhPVzhuVnQ4LW5ZaXRPc0pfYVRNaklRQm8wM0hHUTN6YXpSajFiTjJkamFHVWtVUFdSaUNTRTJ1aW1PVWhUWFRrSlV1YlhXVEE?oc=5\" target=\"_blank\">Volare completes 5,000-ton insect protein factory in Finland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2026-10-26T08:01:12+00:00",
+      "last_seen": "2026-10-26T08:01:12+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2741,
+      "headline": "Storfint besøk til Grimstad - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5BTHp2UUQ2Y0szc3FBRnUzaGdwMThwT3JKT0Y1eU9WWm43bW9fajQyQkNRSC1vTXA4YldRa2tMYlhtcUxBLWcxZVVUSWRxa2VsbWFnMElFbjVwS25WTzBIZ3lFUEIzeWhheDU5ZERFMjJzQQ?oc=5\" target=\"_blank\">Storfint besøk til Grimstad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2026-10-26T08:00:00+00:00",
+      "last_seen": "2026-10-26T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2725,
       "headline": "BioMar Group A/S Estimates – OMXCOP:BIOMAR - TradingView",
@@ -442,7 +499,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -122125,6 +122182,129 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNYlBhOXp1QXhfTTlSV1dnVUVubzhZWjhaMkVCQ240WlkzdHhyM3FfQUxqel8yTFRIUmQ2VWEtLW5NTmdWVWd1VmhfaGVndmpMVlVZbWdDV2hkM0NidTRaZkU1RmhvY1BfU1hVN0JVVlRTMFFERjFqNjh0cnF4cUJKeklxZmlqNHc?oc=5\" target=\"_blank\">Nicklas Skretting Obituary (2023) - Sweet Home, OR - Sweet Home Funeral Chapel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legacy | Obituary</font>"
+    },
+    {
+      "id": 721156,
+      "story_id": 2744,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYzhLY1BaZXd0RHQxLTVxMUNleGlzNVZnYUZmRDJWX3hUTGdhVnY4dlYtcVp5M2NmcU9qbFNQSUpoaTl1XzU2X1B5VjJlanZDbEp1Mnk5Q1VxYVRXZEkwUmR3dko0eDM2UUpsQTA0cERubFZXd2QtNUdQNnAzZXBfcE1iZ2dQOXc?oc=5",
+      "title": "BioMar, Multi X e INIA impulsan una acuicultura regenerativa - Aqua.cl",
+      "source_name": "Aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-10-26T09:51:04+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar partners on regenerative aquaculture initiative with industry and research",
+      "key_claims": [
+        "BioMar is partnering with Multi X and INIA on regenerative aquaculture",
+        "The collaboration aims to advance sustainable aquaculture practices"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar, Multi X, and the National Institute of Agricultural Research (INIA) are collaborating to promote regenerative aquaculture practices. The partnership represents an industry and research-led initiative to advance sustainability in the sector."
+    },
+    {
+      "id": 721257,
+      "story_id": 2729,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLUVNKUG9Hdkgxa2JXdS1tZFJyaldNN2FidkU1Qi1NSDhzZFNJeUhTQ2ZpaXhoaDBmQkNhTlExOEFINTQ2cU9kZnFWZUNIU3pjU2VVQUFET1pnWEU5Y2l3cDFFUlZCMUd5bHFwV0ZFbnY5Zlk?oc=5",
+      "title": "Schouw & Co Estimates – FWB:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-23T14:31:52+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial estimates page for Schouw & Co stock listing.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView provides financial estimates and valuation data for Schouw & Co, the parent company of BioMar Group, traded on Frankfurt Stock Exchange under ticker FWB:5RF. The page aggregates analyst forecasts and trading information for the publicly listed industrial conglomerate."
+    },
+    {
+      "id": 721366,
+      "story_id": 2743,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3lVNWFJX0tyOFo3R1JwMi1wd1M2aDdiUzJBZEdTMG9SVHFIMGFZSm5SS2Y5U1YwQ2VrOXdBcGFEUmdIQkxpdHhKb21XWTdvSlNRUXVjNXlQT3h4MGNEblZfOWFUQzY5NVhVTjNfckdnd0FadGFORVI2ZlNPTnVzendUWkFkbDFpd1FPaUczb3QxdzVPWXA2WEV5T2YxYkd2?oc=5",
+      "title": "Skretting secures insect protein supply from new factory - www.intrafish.com",
+      "source_name": "www.intrafish.com",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-26T09:31:41+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQT3lVNWFJX0tyOFo3R1JwMi1wd1M2aDdiUzJBZEdTMG9SVHFIMGFZSm5SS2Y5U1YwQ2VrOXdBcGFEUmdIQkxpdHhKb21XWTdvSlNRUXVjNXlQT3h4MGNEblZfOWFUQzY5NVhVTjNfckdnd0FadGFORVI2ZlNPTnVzendUWkFkbDFpd1FPaUczb3QxdzVPWXA2WEV5T2YxYkd2?oc=5\" target=\"_blank\">Skretting secures insect protein supply from new factory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.intrafish.com</font>"
+    },
+    {
+      "id": 721367,
+      "story_id": 2742,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGFfYmI1Q0hnUDFCekpVWW1MdG9qS0ZHcWc1aGh1aDNLTXpHZ1NuLVNyRFdFTTdaTGtNMEZtenJMektWaUhpaHBtLWpKQVZWcnJaZllocXRyWHd4TGpVM3VlaXhsWmhPVzhuVnQ4LW5ZaXRPc0pfYVRNaklRQm8wM0hHUTN6YXpSajFiTjJkamFHVWtVUFdSaUNTRTJ1aW1PVWhUWFRrSlV1YlhXVEE?oc=5",
+      "title": "Volare completes 5,000-ton insect protein factory in Finland - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-26T08:01:12+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGFfYmI1Q0hnUDFCekpVWW1MdG9qS0ZHcWc1aGh1aDNLTXpHZ1NuLVNyRFdFTTdaTGtNMEZtenJMektWaUhpaHBtLWpKQVZWcnJaZllocXRyWHd4TGpVM3VlaXhsWmhPVzhuVnQ4LW5ZaXRPc0pfYVRNaklRQm8wM0hHUTN6YXpSajFiTjJkamFHVWtVUFdSaUNTRTJ1aW1PVWhUWFRrSlV1YlhXVEE?oc=5\" target=\"_blank\">Volare completes 5,000-ton insect protein factory in Finland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 721466,
+      "story_id": 2741,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BTHp2UUQ2Y0szc3FBRnUzaGdwMThwT3JKT0Y1eU9WWm43bW9fajQyQkNRSC1vTXA4YldRa2tMYlhtcUxBLWcxZVVUSWRxa2VsbWFnMElFbjVwS25WTzBIZ3lFUEIzeWhheDU5ZERFMjJzQQ?oc=5",
+      "title": "Storfint besøk til Grimstad - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-26T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5BTHp2UUQ2Y0szc3FBRnUzaGdwMThwT3JKT0Y1eU9WWm43bW9fajQyQkNRSC1vTXA4YldRa2tMYlhtcUxBLWcxZVVUSWRxa2VsbWFnMElFbjVwS25WTzBIZ3lFUEIzeWhheDU5ZERFMjJzQQ?oc=5\" target=\"_blank\">Storfint besøk til Grimstad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
     }
   ],
   "share_of_voice": {
@@ -125778,15 +125958,21 @@
       },
       {
         "week": "2026-W43",
-        "BioMar": 13,
+        "BioMar": 14,
         "Cargill": 0,
         "Skretting": 6
+      },
+      {
+        "week": "2026-W44",
+        "BioMar": 1,
+        "Cargill": 0,
+        "Skretting": 3
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1967
+        "count": 1969
       },
       {
         "company": "Cargill",
@@ -125794,7 +125980,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1233
+        "count": 1236
       }
     ]
   }
