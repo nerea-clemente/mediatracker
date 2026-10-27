@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T15:27:09+00:00",
+  "generated_at": "2026-10-27T20:29:27+00:00",
   "stats": {
-    "mention_count": 3523,
-    "story_count": 2577,
-    "analyzed_count": 1973,
+    "mention_count": 3525,
+    "story_count": 2579,
+    "analyzed_count": 1974,
     "off_topic_mentions": 140,
     "off_topic_stories": 88
   },
@@ -419,6 +419,34 @@
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2750,
+      "headline": "Skretting presenta tres nuevas soluciones para camarón dentro de su programa de innovación nutricional LifeStart: InVita, Ignis y Optiline Starters - IPac Acuicultura",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE45dnRFNnBGWEQ1bFVYbU8tTGhva2NHNXZkNWhJaGxCcE4wa29oRUx5T1o0dmVwZHNIN3dCSFEwUG1FeFBCb3YxQXUteDFNUkZtaE1oa0ktRTJrZm1Id1J3TEt0TEsxTEFBNFZiWGhmd05XNVVVUUdr?oc=5\" target=\"_blank\">Skretting presenta tres nuevas soluciones para camarón dentro de su programa de innovación nutricional LifeStart: InVita, Ignis y Optiline Starters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>",
+      "first_seen": "2026-10-27T16:04:30+00:00",
+      "last_seen": "2026-10-27T16:04:30+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2749,
+      "headline": "BioMar Group (BIOMAR:DC) PT Raised to DKK131 at Morgan Stanley - StreetInsider",
+      "story_summary": "Morgan Stanley increased its price target for BioMar Group to DKK131, signaling analyst optimism on the aquaculture feed producer's stock. The move reflects positive sentiment from a major investment bank on the company's prospects.",
+      "first_seen": "2026-10-27T09:41:00+00:00",
+      "last_seen": "2026-10-27T09:41:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2746,
       "headline": "Schouw & Co. share buy-back programme, week 43 2026 - The Manila Times",
@@ -122512,6 +122540,56 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2xIaGNSLTFWdFhvNmp5NGdkUXdUZDh3RlpXcFE1MGJfVElDRVlCeVJRUUNOUWVKM2xZSjZJel9pVkdSRVBvNmtrMEZRdFlpWHo3Y1hqMGRyZ3RfWm93eHo0VTUzX1FyZFY4eFFmS0JoMGpUWk5BWTYycW1QM3V2M29TNzBtMmVnc1FRSHB0VUk5Mzl1VW05NmFnUFk1VXNqQ1YtTXNZODY3UGhHSG5NTGQ2S2xrRk0?oc=5\" target=\"_blank\">New feeds offer bigger trout and lower FCR - Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 726353,
+      "story_id": 2749,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4bExySG4zcGRTU3BWeC02OWpieEVJR18tc2xhZFRicXdNcmV5elVXTnZ5SjVVMV81M1M3RHBrc2VHeE5TUVM4NWpmVDhQeHYzOV81bmFYOGxiOGFqRkZPUlNqeUE1enh6bHVRMg?oc=5",
+      "title": "BioMar Group (BIOMAR:DC) PT Raised to DKK131 at Morgan Stanley - StreetInsider",
+      "source_name": "StreetInsider",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-27T09:41:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Morgan Stanley raises price target on BioMar Group shares",
+      "key_claims": [
+        "Morgan Stanley raised BioMar Group's price target to DKK131"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Morgan Stanley increased its price target for BioMar Group to DKK131, signaling analyst optimism on the aquaculture feed producer's stock. The move reflects positive sentiment from a major investment bank on the company's prospects."
+    },
+    {
+      "id": 727055,
+      "story_id": 2750,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45dnRFNnBGWEQ1bFVYbU8tTGhva2NHNXZkNWhJaGxCcE4wa29oRUx5T1o0dmVwZHNIN3dCSFEwUG1FeFBCb3YxQXUteDFNUkZtaE1oa0ktRTJrZm1Id1J3TEt0TEsxTEFBNFZiWGhmd05XNVVVUUdr?oc=5",
+      "title": "Skretting presenta tres nuevas soluciones para camarón dentro de su programa de innovación nutricional LifeStart: InVita, Ignis y Optiline Starters - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-10-27T16:04:30+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE45dnRFNnBGWEQ1bFVYbU8tTGhva2NHNXZkNWhJaGxCcE4wa29oRUx5T1o0dmVwZHNIN3dCSFEwUG1FeFBCb3YxQXUteDFNUkZtaE1oa0ktRTJrZm1Id1J3TEt0TEsxTEFBNFZiWGhmd05XNVVVUUdr?oc=5\" target=\"_blank\">Skretting presenta tres nuevas soluciones para camarón dentro de su programa de innovación nutricional LifeStart: InVita, Ignis y Optiline Starters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
     }
   ],
   "share_of_voice": {
@@ -126177,15 +126255,15 @@
       },
       {
         "week": "2026-W44",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1973
+        "count": 1974
       },
       {
         "company": "Cargill",
@@ -126193,7 +126271,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1238
+        "count": 1239
       }
     ]
   }
