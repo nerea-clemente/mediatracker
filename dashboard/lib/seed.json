@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T11:40:03+00:00",
+  "generated_at": "2026-10-29T16:17:51+00:00",
   "stats": {
-    "mention_count": 3536,
-    "story_count": 2586,
-    "analyzed_count": 1975,
+    "mention_count": 3537,
+    "story_count": 2587,
+    "analyzed_count": 1976,
     "off_topic_mentions": 140,
     "off_topic_stories": 88
   },
@@ -420,6 +420,20 @@
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2758,
+      "headline": "DNB Carnegie eleva el precio objetivo de Schouw & Co. a 960 DKK (920) y reitera comprar - MarketScreener España",
+      "story_summary": "DNB Carnegie analyst raised its price target for Schouw & Co from 920 DKK to 960 DKK while maintaining a buy recommendation on the stock. The upgrade reflects analyst confidence in the parent company's valuation and outlook.",
+      "first_seen": "2026-10-29T12:11:44+00:00",
+      "last_seen": "2026-10-29T12:11:44+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2754,
       "headline": "Skretting Chile pone el foco en la sostenibilidad para los próximos 50 años de la salmonicultura - Mundoacuicola",
@@ -122955,6 +122969,33 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1oWkI5UHUtUGV0WFdlYnd0eGJBN2RmZGNnSEUtREdtb1RwUVJ6aERzMW1Ea0YybWx3SWhTc25zSFZyMDhLQkJSZkQ3X2FTRmQtb3dhanQ2WE9pUDAzMk5wNS1ORkdMVGtSTVRIczNsOUJZbkU?oc=5\" target=\"_blank\">Skretting presenta tres nuevas soluciones para camarón dentro de su programa de innovación nutricional LifeStart: InVita, Ignis y Optiline Starters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+    },
+    {
+      "id": 732533,
+      "story_id": 2758,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSlh2bTVQYjNUeElWNl84MlNkZGtZRzFkTlpqWGZNS0JCSmRhR3FMZF9rY1hEZE4wZThfbmxTRkk3N0p4WWxyb0FITkt6QmZfc3pUVGw2OU4zbFpELXlCZE5qUUt1clBlLUozU1hwYmc2VmlMUEhwY2U1OXlrcTJyMDBobVFMbVdGem1QbzlqckJidTdQd25WYUNaalZsNXhkNkpZUTRScHJiTzFobGoyR2ZUUWVyUjRRLXhYVjIyb2JiaEJtdEhGZml2ZGlQSnFIQnEtRw?oc=5",
+      "title": "DNB Carnegie eleva el precio objetivo de Schouw & Co. a 960 DKK (920) y reitera comprar - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-10-29T12:11:44+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "DNB Carnegie raises Schouw price target and reiterates buy rating",
+      "key_claims": [
+        "DNB Carnegie elevated Schouw & Co's price target from 920 DKK to 960 DKK",
+        "The analyst reiterated a buy recommendation on Schouw stock"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "DNB Carnegie analyst raised its price target for Schouw & Co from 920 DKK to 960 DKK while maintaining a buy recommendation on the stock. The upgrade reflects analyst confidence in the parent company's valuation and outlook."
     }
   ],
   "share_of_voice": {
@@ -126620,7 +126661,7 @@
       },
       {
         "week": "2026-W44",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 10
       }
@@ -126628,7 +126669,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1975
+        "count": 1976
       },
       {
         "company": "Cargill",
