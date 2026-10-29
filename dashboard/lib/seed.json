@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T16:17:51+00:00",
+  "generated_at": "2026-10-29T20:55:23+00:00",
   "stats": {
-    "mention_count": 3537,
+    "mention_count": 3538,
     "story_count": 2587,
     "analyzed_count": 1976,
     "off_topic_mentions": 140,
@@ -486,7 +486,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -122996,6 +122996,30 @@
         "financial"
       ],
       "summary": "DNB Carnegie analyst raised its price target for Schouw & Co from 920 DKK to 960 DKK while maintaining a buy recommendation on the stock. The upgrade reflects analyst confidence in the parent company's valuation and outlook."
+    },
+    {
+      "id": 733756,
+      "story_id": 2750,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkUjJ3WTRqUkJQTG90eUlxVkJoNE5lUDdtZDhnVlZWRmp6Qmg1a1VIallGMjhyYXJZaXN5MzRPQjRMY0VwcVVVX01vWUlvQ2NBakYzcVo0UmRoZzYzTHV6Mk1OZnI5MGRiZ3JR?oc=5",
+      "title": "Skretting presenta tres nuevas soluciones para camarón dentro de su programa de innovación nutricional LifeStart: InVita, Ignis y Optiline Starters - IPac Acuicultura",
+      "source_name": "IPac Acuicultura",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-10-27T16:04:30+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBkUjJ3WTRqUkJQTG90eUlxVkJoNE5lUDdtZDhnVlZWRmp6Qmg1a1VIallGMjhyYXJZaXN5MzRPQjRMY0VwcVVVX01vWUlvQ2NBakYzcVo0UmRoZzYzTHV6Mk1OZnI5MGRiZ3JR?oc=5\" target=\"_blank\">Skretting presenta tres nuevas soluciones para camarón dentro de su programa de innovación nutricional LifeStart: InVita, Ignis y Optiline Starters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
     }
   ],
   "share_of_voice": {
@@ -126663,7 +126687,7 @@
         "week": "2026-W44",
         "BioMar": 4,
         "Cargill": 0,
-        "Skretting": 10
+        "Skretting": 11
       }
     ],
     "totals": [
@@ -126677,7 +126701,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1249
+        "count": 1250
       }
     ]
   }
