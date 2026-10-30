@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T20:55:23+00:00",
+  "generated_at": "2026-10-30T01:30:41+00:00",
   "stats": {
-    "mention_count": 3538,
-    "story_count": 2587,
-    "analyzed_count": 1976,
+    "mention_count": 3541,
+    "story_count": 2588,
+    "analyzed_count": 1977,
     "off_topic_mentions": 140,
     "off_topic_stories": 88
   },
@@ -350,6 +350,7 @@
     "bechbruun.com",
     "brenny.com",
     "ca.finance.yahoo.com",
+    "csgfh.ca",
     "dalane-tidende.no",
     "dataportuaria.com",
     "diarioestrategia.cl",
@@ -420,6 +421,20 @@
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2759,
+      "headline": "DNB Carnegie raises its target price for Biomar Group to DKK 160 (155), reiterates Buy - www.marketscreener.com",
+      "story_summary": "DNB Carnegie increased its price target for BioMar Group to DKK 160 from DKK 155 while reiterating a Buy rating. The analyst action reflects positive sentiment toward the aquaculture feed producer's prospects.",
+      "first_seen": "2026-10-29T12:12:26+00:00",
+      "last_seen": "2026-10-29T12:12:26+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2758,
       "headline": "DNB Carnegie eleva el precio objetivo de Schouw & Co. a 960 DKK (920) y reitera comprar - MarketScreener España",
@@ -10312,7 +10327,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 6,
+      "pickup_count": 7,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -20000,7 +20015,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -123020,6 +123035,81 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBkUjJ3WTRqUkJQTG90eUlxVkJoNE5lUDdtZDhnVlZWRmp6Qmg1a1VIallGMjhyYXJZaXN5MzRPQjRMY0VwcVVVX01vWUlvQ2NBakYzcVo0UmRoZzYzTHV6Mk1OZnI5MGRiZ3JR?oc=5\" target=\"_blank\">Skretting presenta tres nuevas soluciones para camarón dentro de su programa de innovación nutricional LifeStart: InVita, Ignis y Optiline Starters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IPac Acuicultura</font>"
+    },
+    {
+      "id": 733972,
+      "story_id": 2759,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGhnM2pBcWJROThDNHlqSmtGMHpUQk8tM0FtS0NDcnBSNGNNaFVYMmJ3SnhhYW9WSUhCNXVmMmFaN1ZVU19tT19ZM2wwTldfVU5ybmdNcHFocGpYV00yMjJmUTBidXpVZHZUR0RBV05mc0xURkpXMnBJVTY2X1hCa2NNRUotVW90QS1VR2QtOE1zVmg4Q0pySVc3Ny1hYU1uVEVRMVpFbmthVmRqVjFzSnR4a2psLWJrRnF0a2pJSGdNck1Id0V6TzUtUTBfbHI0aEE?oc=5",
+      "title": "DNB Carnegie raises its target price for Biomar Group to DKK 160 (155), reiterates Buy - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-10-29T12:12:26+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.92,
+      "prominence": "primary",
+      "angle": "Analyst upgrades BioMar price target, maintains buy rating",
+      "key_claims": [
+        "DNB Carnegie raised target price for BioMar Group from DKK 155 to DKK 160",
+        "DNB Carnegie reiterated its Buy recommendation on BioMar Group"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "DNB Carnegie increased its price target for BioMar Group to DKK 160 from DKK 155 while reiterating a Buy rating. The analyst action reflects positive sentiment toward the aquaculture feed producer's prospects."
+    },
+    {
+      "id": 734355,
+      "story_id": 762,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHV5STNLY1FTSEFmeW0xQU1BS0t1X2pHSE9pcVI3SnhQaXlCX3dEYUozX2pnVWdTVWtvVGtkNjZWeExyR01mRUZSUHJjZ2NFTXlUMGd2TmI2X3Z1NHhBQ1dKQlpNTF84YXpuMElXQ1ZLYVpubjF6dk45VDNNclBxbVJDcE5iZEdFaW1LODlrVTFJZ3F2SmkzNQ?oc=5",
+      "title": "Mowi enters into aquafeed partnership with Skretting - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-12-22T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHV5STNLY1FTSEFmeW0xQU1BS0t1X2pHSE9pcVI3SnhQaXlCX3dEYUozX2pnVWdTVWtvVGtkNjZWeExyR01mRUZSUHJjZ2NFTXlUMGd2TmI2X3Z1NHhBQ1dKQlpNTF84YXpuMElXQ1ZLYVpubjF6dk45VDNNclBxbVJDcE5iZEdFaW1LODlrVTFJZ3F2SmkzNQ?oc=5\" target=\"_blank\">Mowi enters into aquafeed partnership with Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 734385,
+      "story_id": 575,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LYWpFVTZMVTRKWXRROFh0d2ROSDRYcVFvRVN1YVlKeGZ2czNMUzA3MUE1bjFGRFA2TXV0U0tlcTYxYXNLdkhhYzRrYldxVjJqLWhlVC1oSC16MWc?oc=5",
+      "title": "Janet Lyn Skretting | Obituary | Christensen Salmon Generations - csgfh.ca",
+      "source_name": "csgfh.ca",
+      "language": "en",
+      "country": "CA",
+      "outlet_kind": "press",
+      "published_at": "2023-12-30T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LYWpFVTZMVTRKWXRROFh0d2ROSDRYcVFvRVN1YVlKeGZ2czNMUzA3MUE1bjFGRFA2TXV0U0tlcTYxYXNLdkhhYzRrYldxVjJqLWhlVC1oSC16MWc?oc=5\" target=\"_blank\">Janet Lyn Skretting | Obituary | Christensen Salmon Generations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">csgfh.ca</font>"
     }
   ],
   "share_of_voice": {
@@ -125805,7 +125895,7 @@
         "week": "2023-W52",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W01",
@@ -126423,7 +126513,7 @@
         "week": "2025-W52",
         "BioMar": 7,
         "Cargill": 0,
-        "Skretting": 25
+        "Skretting": 26
       },
       {
         "week": "2026-W01",
@@ -126685,7 +126775,7 @@
       },
       {
         "week": "2026-W44",
-        "BioMar": 4,
+        "BioMar": 5,
         "Cargill": 0,
         "Skretting": 11
       }
@@ -126693,7 +126783,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1976
+        "count": 1977
       },
       {
         "company": "Cargill",
@@ -126701,7 +126791,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1250
+        "count": 1252
       }
     ]
   }
