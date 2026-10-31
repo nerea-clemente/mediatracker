@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-31T11:02:32+00:00",
+  "generated_at": "2026-10-31T15:25:06+00:00",
   "stats": {
-    "mention_count": 3546,
-    "story_count": 2588,
-    "analyzed_count": 1979,
+    "mention_count": 3550,
+    "story_count": 2591,
+    "analyzed_count": 1981,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -421,6 +421,34 @@
     "www.tu.no"
   ],
   "stories": [
+    {
+      "id": 2762,
+      "headline": "Havnet på toppen av nominasjonslista enda en gang - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWtYaHpuOHE3M1ZESnFnaEhmOTVBQ0kxVXBBRUljY0pnUENFUmcyWFQ1YXdlYkJ0QzEwS2Nha0FMa2I3QVdKRWxMNGR6ZV92U2dzZTA1Yjdnd0hhbnc5ZjdDYUpmOTliWGluSGY1T3Z6a2tncWtEREU1UEdGOTNUa1FhODRhOERpZTNNWi1QZw?oc=5\" target=\"_blank\">Havnet på toppen av nominasjonslista enda en gang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2026-10-31T11:49:44+00:00",
+      "last_seen": "2026-10-31T11:49:44+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2761,
+      "headline": "– Det står ikke masse mennesker i kø - agderposten.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOSXVqcjhNZ09OYXNMOHZEZk1TZ2F1QlhxMXJwMlI5QXlYeXM1VnNvNkpzNUNWejlhZnE3bGViUnA1UW1IZW9TZmxiVXFqdjhwaVkzcHhPWHZaTWJwSWZ6SS1mMkpFRERLbWhhdFIzcXItbFczYXRuSUt5ODNiUmlRSlFNVFBhcXI4WWc?oc=5\" target=\"_blank\">– Det står ikke masse mennesker i kø</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">agderposten.no</font>",
+      "first_seen": "2026-10-31T11:08:46+00:00",
+      "last_seen": "2026-10-31T11:08:46+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
     {
       "id": 2759,
       "headline": "DNB Carnegie raises its target price for Biomar Group to DKK 160 (155), reiterates Buy - www.marketscreener.com",
@@ -3205,16 +3233,16 @@
     },
     {
       "id": 2139,
-      "headline": "BIOMAR: Upgraded 2026 guidance after strong Q2 volume and revenue growth, despite cost pressures - TradingView",
-      "story_summary": "BioMar reported strong Q2 volume and revenue growth, leading the company to upgrade its full-year 2026 guidance. The positive performance occurred despite ongoing cost pressures affecting the business environment.",
-      "first_seen": "2026-08-12T12:07:39+00:00",
+      "headline": "BIOMAR: Guidance raised after strong Q2 growth, with Ecuador expansion and most new capacity pre-sold - TradingView",
+      "story_summary": "BioMar reported strong Q2 results and raised its guidance for the year, supported by robust growth and successful pre-sales of new production capacity. The company is expanding geographically into Ecuador as part of its growth strategy.",
+      "first_seen": "2026-08-12T07:00:00+00:00",
       "last_seen": "2026-08-13T14:38:13+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "exec_statement",
         "financial"
       ],
-      "pickup_count": 5,
+      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -3256,6 +3284,20 @@
       "primary_sentiment": "negative",
       "risk_flags": [
         "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2760,
+      "headline": "BIOMAR: Record-high volumes and raised 2026 guidance, with Shrimp growth offsetting margin pressures - TradingView",
+      "story_summary": "BioMar reported record-high volumes and raised its 2026 guidance, with strong shrimp segment growth helping offset margin pressures across the business. The company's volume expansion demonstrates resilience in the aquaculture feed market despite challenging cost conditions in 2026 so far.",
+      "first_seen": "2026-08-13T07:00:00+00:00",
+      "last_seen": "2026-08-13T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -123230,6 +123272,108 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNT3dxUU1sdE1ybG9kZ1Rfb3A1d1FrQmZtOEZ3Y2o1dXZXRURlV1kzQ1E0V0dqYjgyb2ZiUnBNT0RIeXQ3MTY2OVRJRmJtTHZ2SlpMNHEwZUtpcFZ4NXhYM1ZBejNjcnE5VVg2VFJxY3hpNVRQLWl0anBIdlV5djlPVnZRUGlWU3dVV2lMelZ4UHVkS0pUSVBnaUU0aEsyT0tXdW53?oc=5\" target=\"_blank\">Skretting anuncia nuevos sponsors para Sustainability & Innovation Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
+    },
+    {
+      "id": 738497,
+      "story_id": 2760,
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaDd3U0VYeF9aZWNCNWJVUGl1bWg1Z2VlMEVnZ0pEYUIzX3huTGZlT054T0RqaDY2WG52R0diMlVpUGEzRnNiQUYtbk13ZjhudDdsMlpCUkVTM2stOVk4Vk5LY21iaWpkN3B0Q0hiVk1VYjRGWU1hMDEzTms5UDBOOHl1Q00tZTg5aEljMzk3WU44WksyWmNvZkdVMVRuNkVPUXJGQ0NVOWpPeGZydGNuVHR0YnpDeVNXX0RPa25NSjVKTmR0cG9LUFRhaHZBb1JXYzF4UXN1RWhhbGZfdXpXdDZtMTNteEozNDVjVlBPRlB5S1ZXazhabDZrRjI3U1F4c2Z3V25tcEIzOVQ4anc?oc=5",
+      "title": "BIOMAR: Record-high volumes and raised 2026 guidance, with Shrimp growth offsetting margin pressures - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "Record volumes and raised guidance despite margin headwinds",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar reported record-high volumes and raised its 2026 guidance, with strong shrimp segment growth helping offset margin pressures across the business. The company's volume expansion demonstrates resilience in the aquaculture feed market despite challenging cost conditions in 2026 so far."
+    },
+    {
+      "id": 738504,
+      "story_id": 2139,
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNS1ZJY242Vk92WTFoT1d1N3N2TU1wY0FMUzMzMWJiN2xCdzFQb2h0V1RmLXVQdEJzR0hxQjV5VmZYZExrMEFQZkMxVTcteldwVDdWZWhJN3BTS1Q4OTFfWGQ4OTNwU3hoN3lZQ3RrVHA1YW1PZkszVkJ4YXlKbFFFYmRLTGdMR3hzOGtfLXJxcy0wWXpOSnJWemdKdmhQM2VsWDhsbWNmVGRPVHUzQUZtVGtHbFNCLVFLWm9LaGhPdEduMVRQVG9CVV9JbjdEdUdlU1F3bzNNbVlITE5qN1g0bjFjWkJTSERtLXY1S0poT3VsTEMwRF82UGFMczRPN3ZEMmdFaGRRYmdHUDBCTlU1dDBUa18?oc=5",
+      "title": "BIOMAR: Guidance raised after strong Q2 growth, with Ecuador expansion and most new capacity pre-sold - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar raises guidance after strong Q2, expands into Ecuador",
+      "key_claims": [
+        "BioMar achieved strong Q2 growth",
+        "Company raised forward guidance",
+        "BioMar is expanding into Ecuador",
+        "Most new capacity has been pre-sold"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "BioMar reported strong Q2 results and raised its guidance for the year, supported by robust growth and successful pre-sales of new production capacity. The company is expanding geographically into Ecuador as part of its growth strategy."
+    },
+    {
+      "id": 739030,
+      "story_id": 2761,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSXVqcjhNZ09OYXNMOHZEZk1TZ2F1QlhxMXJwMlI5QXlYeXM1VnNvNkpzNUNWejlhZnE3bGViUnA1UW1IZW9TZmxiVXFqdjhwaVkzcHhPWHZaTWJwSWZ6SS1mMkpFRERLbWhhdFIzcXItbFczYXRuSUt5ODNiUmlRSlFNVFBhcXI4WWc?oc=5",
+      "title": "– Det står ikke masse mennesker i kø - agderposten.no",
+      "source_name": "agderposten.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-31T11:08:46+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOSXVqcjhNZ09OYXNMOHZEZk1TZ2F1QlhxMXJwMlI5QXlYeXM1VnNvNkpzNUNWejlhZnE3bGViUnA1UW1IZW9TZmxiVXFqdjhwaVkzcHhPWHZaTWJwSWZ6SS1mMkpFRERLbWhhdFIzcXItbFczYXRuSUt5ODNiUmlRSlFNVFBhcXI4WWc?oc=5\" target=\"_blank\">– Det står ikke masse mennesker i kø</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">agderposten.no</font>"
+    },
+    {
+      "id": 739031,
+      "story_id": 2762,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWtYaHpuOHE3M1ZESnFnaEhmOTVBQ0kxVXBBRUljY0pnUENFUmcyWFQ1YXdlYkJ0QzEwS2Nha0FMa2I3QVdKRWxMNGR6ZV92U2dzZTA1Yjdnd0hhbnc5ZjdDYUpmOTliWGluSGY1T3Z6a2tncWtEREU1UEdGOTNUa1FhODRhOERpZTNNWi1QZw?oc=5",
+      "title": "Havnet på toppen av nominasjonslista enda en gang - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-10-31T11:49:44+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWtYaHpuOHE3M1ZESnFnaEhmOTVBQ0kxVXBBRUljY0pnUENFUmcyWFQ1YXdlYkJ0QzEwS2Nha0FMa2I3QVdKRWxMNGR6ZV92U2dzZTA1Yjdnd0hhbnc5ZjdDYUpmOTliWGluSGY1T3Z6a2tncWtEREU1UEdGOTNUa1FhODRhOERpZTNNWi1QZw?oc=5\" target=\"_blank\">Havnet på toppen av nominasjonslista enda en gang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
     }
   ],
   "share_of_voice": {
@@ -126829,7 +126973,7 @@
       },
       {
         "week": "2026-W33",
-        "BioMar": 84,
+        "BioMar": 86,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -126897,13 +127041,13 @@
         "week": "2026-W44",
         "BioMar": 6,
         "Cargill": 0,
-        "Skretting": 12
+        "Skretting": 14
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1979
+        "count": 1981
       },
       {
         "company": "Cargill",
@@ -126911,7 +127055,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1255
+        "count": 1257
       }
     ]
   }
