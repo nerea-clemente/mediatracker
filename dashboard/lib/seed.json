@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-31T01:23:06+00:00",
+  "generated_at": "2026-10-31T11:02:32+00:00",
   "stats": {
-    "mention_count": 3544,
+    "mention_count": 3546,
     "story_count": 2588,
-    "analyzed_count": 1978,
+    "analyzed_count": 1979,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -521,15 +521,15 @@
     },
     {
       "id": 2746,
-      "headline": "Schouw & Co. share buy-back programme, week 43 2026 - The Manila Times",
-      "story_summary": "Schouw & Co. announced a share buy-back programme for week 43 of 2026. The article reports on this corporate financial activity without additional context or narrative framing.",
-      "first_seen": "2026-10-26T13:05:27+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 43 2026 - www.marketscreener.com",
+      "story_summary": "Schouw & Co. disclosed its share buy-back programme activity for week 43 of 2026. The announcement is a routine corporate disclosure of share repurchase execution during the specified period.",
+      "first_seen": "2026-10-26T13:00:07+00:00",
       "last_seen": "2026-10-26T13:05:27+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1071,12 +1071,12 @@
       "headline": "Skretting confirma sponsors de Sustainability & Innovation Conference 2026 - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVDVUTXBSYTA4Z0d4U0NaSzFCNmthRldMMWxCVXNwZzNCZ2kwNDFWZXJ5UW55amZXNERpOEZJUXMzREltVnFkYXd1MXVrZzBnVmo3c2QtYnRRNzd3TjV2YjR5N2ZtN1VGWVNsal95TGwwSk5GbkNHc1V6WlVrdENaME9RVmZ3RUg5ZFdXT2k5N0dFd1JjNDE5eUxUWGphS1padEtvaHM2QXdOOUxhUVFvdk84Q1d4UUdhcUlfMzkyNlhobElGNHVjcEFSR3FYakk2bnFzRmREMEU?oc=5\" target=\"_blank\">Skretting confirma sponsors de Sustainability & Innovation Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
       "first_seen": "2026-10-07T08:10:00+00:00",
-      "last_seen": "2026-10-07T12:34:05+00:00",
+      "last_seen": "2026-10-07T14:03:53+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -123182,6 +123182,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNYS05U05qYVllWFQ0eUFkS2hQNjhZRjRfOGNiMGZaM3g2YUdQVEp6UlNpd3FmR2swbjMxZ0hPamc5d29Ib2Y3WDJYWEIxaExlRWtGRlJYS1otMnJ1ZE5SQ0UtRjdISTF1QVdodXJJbE1RTkFwOXA3N1lGdERZb3IxUkRSbDVWakh0U1M5Z3FGeDlyb0ZfdlVwdjNka0VEc0ppWXhpLWdQZVY0X3JZV2ZXVTdGSmV0WTZhZzNHSXNxanY4SENwWmZfTHk2cjFBOWVoanZoR19HS0xjaHdkRUJTSjd6TWRJdTg3SkJkMUI5amFRd3czcGVKUndMTVV5TmdkNU1SdA?oc=5\" target=\"_blank\">Skretting Chile conmemora el Día internacional de Limpieza de Playas junto a estudiantes y autoridades de Osorno</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario de Osorno</font>"
+    },
+    {
+      "id": 738104,
+      "story_id": 2746,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQzkyM1BiU29PeHZwUjVHblhSdHhtNUI0dS1UakdlUVZkbjkycDZpdjNPSHREbDliMklEUGJiV2R6eUl2RzZRVHpFcm9ILTl6V2xUUFk4NFlTV0MtWEZUWDNXYno5VnJzSzZzRXhIQURxLVJUM1o4M2lyYTBsNzU2ZUpsa2lyQU9TQTY3SzRHR0Y0U2gxX1k3ZS1TeFExTk55bEE?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 43 2026 - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-10-26T13:00:07+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co announces share repurchase activity for week 43 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. disclosed its share buy-back programme activity for week 43 of 2026. The announcement is a routine corporate disclosure of share repurchase execution during the specified period."
+    },
+    {
+      "id": 738350,
+      "story_id": 2655,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT3dxUU1sdE1ybG9kZ1Rfb3A1d1FrQmZtOEZ3Y2o1dXZXRURlV1kzQ1E0V0dqYjgyb2ZiUnBNT0RIeXQ3MTY2OVRJRmJtTHZ2SlpMNHEwZUtpcFZ4NXhYM1ZBejNjcnE5VVg2VFJxY3hpNVRQLWl0anBIdlV5djlPVnZRUGlWU3dVV2lMelZ4UHVkS0pUSVBnaUU0aEsyT0tXdW53?oc=5",
+      "title": "Skretting anuncia nuevos sponsors para Sustainability & Innovation Conference 2026 - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-10-07T14:03:53+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNT3dxUU1sdE1ybG9kZ1Rfb3A1d1FrQmZtOEZ3Y2o1dXZXRURlV1kzQ1E0V0dqYjgyb2ZiUnBNT0RIeXQ3MTY2OVRJRmJtTHZ2SlpMNHEwZUtpcFZ4NXhYM1ZBejNjcnE5VVg2VFJxY3hpNVRQLWl0anBIdlV5djlPVnZRUGlWU3dVV2lMelZ4UHVkS0pUSVBnaUU0aEsyT0tXdW53?oc=5\" target=\"_blank\">Skretting anuncia nuevos sponsors para Sustainability & Innovation Conference 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -126831,7 +126879,7 @@
         "week": "2026-W41",
         "BioMar": 17,
         "Cargill": 0,
-        "Skretting": 9
+        "Skretting": 10
       },
       {
         "week": "2026-W42",
@@ -126847,7 +126895,7 @@
       },
       {
         "week": "2026-W44",
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Skretting": 12
       }
@@ -126855,7 +126903,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1978
+        "count": 1979
       },
       {
         "company": "Cargill",
@@ -126863,7 +126911,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1254
+        "count": 1255
       }
     ]
   }
