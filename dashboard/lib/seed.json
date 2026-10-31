@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T15:25:06+00:00",
+  "generated_at": "2026-10-31T19:46:22+00:00",
   "stats": {
-    "mention_count": 3550,
-    "story_count": 2591,
+    "mention_count": 3552,
+    "story_count": 2592,
     "analyzed_count": 1981,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
@@ -418,7 +418,8 @@
     "www.aqua.cl",
     "www.intrafish.com",
     "www.marketscreener.com",
-    "www.tu.no"
+    "www.tu.no",
+    "ytringen"
   ],
   "stories": [
     {
@@ -9949,7 +9950,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -29532,6 +29533,20 @@
       "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2763,
+      "headline": "Cargill marine content of feed reduced in 2018 - Fishfarming expert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTzh3SFNGOFo3c2dIZlI0T0V5dVZCTURtSFkzVkx0cHh5VlNqdEdoTUhxTHNLbkhrZ0FDaWYwaE5vZ1NvMElWRjA0QjJfLWtlRkNhbWZGQlpxckRpOUVLb3lZSXkzQXJ0aFZvc3diZWp0YXdRQW8zRlRCSXRkeWdYY0pVWjdVemJvR000Zk1qbF9LYXB1VzZPYVBqSFQ1TjdreWEzR05acWVNQjNuRGJhWFB0LXI1Ulk?oc=5\" target=\"_blank\">Cargill marine content of feed reduced in 2018</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "first_seen": "2019-06-11T07:00:00+00:00",
+      "last_seen": "2019-06-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1405,
@@ -123374,6 +123389,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWtYaHpuOHE3M1ZESnFnaEhmOTVBQ0kxVXBBRUljY0pnUENFUmcyWFQ1YXdlYkJ0QzEwS2Nha0FMa2I3QVdKRWxMNGR6ZV92U2dzZTA1Yjdnd0hhbnc5ZjdDYUpmOTliWGluSGY1T3Z6a2tncWtEREU1UEdGOTNUa1FhODRhOERpZTNNWi1QZw?oc=5\" target=\"_blank\">Havnet på toppen av nominasjonslista enda en gang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
+    },
+    {
+      "id": 739981,
+      "story_id": 994,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnJkMV9zSVgwNDFCU0ZTRi1FMVFKR3c0WW51c2dGd0JvRXlDRnJYMVFtbGNWU3dRSV9xVU4wb243Q3NnX3V4SWZxMUk2UktMSm5HOXFiUkV4S043eDdsRElmY2xOajF2UGloNmhxRkNMcW5ER1dOQ2F6U1pWclQ1Mjl3RVdxUnRNSlFEU2dsaWc4TTA?oc=5",
+      "title": "Mowi inngår strategisk fôrpartnerskap med Skretting - ytringen",
+      "source_name": "ytringen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-01-20T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnJkMV9zSVgwNDFCU0ZTRi1FMVFKR3c0WW51c2dGd0JvRXlDRnJYMVFtbGNWU3dRSV9xVU4wb243Q3NnX3V4SWZxMUk2UktMSm5HOXFiUkV4S043eDdsRElmY2xOajF2UGloNmhxRkNMcW5ER1dOQ2F6U1pWclQ1Mjl3RVdxUnRNSlFEU2dsaWc4TTA?oc=5\" target=\"_blank\">Mowi inngår strategisk fôrpartnerskap med Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ytringen</font>"
+    },
+    {
+      "id": 740189,
+      "story_id": 2763,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTzh3SFNGOFo3c2dIZlI0T0V5dVZCTURtSFkzVkx0cHh5VlNqdEdoTUhxTHNLbkhrZ0FDaWYwaE5vZ1NvMElWRjA0QjJfLWtlRkNhbWZGQlpxckRpOUVLb3lZSXkzQXJ0aFZvc3diZWp0YXdRQW8zRlRCSXRkeWdYY0pVWjdVemJvR000Zk1qbF9LYXB1VzZPYVBqSFQ1TjdreWEzR05acWVNQjNuRGJhWFB0LXI1Ulk?oc=5",
+      "title": "Cargill marine content of feed reduced in 2018 - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2019-06-11T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTzh3SFNGOFo3c2dIZlI0T0V5dVZCTURtSFkzVkx0cHh5VlNqdEdoTUhxTHNLbkhrZ0FDaWYwaE5vZ1NvMElWRjA0QjJfLWtlRkNhbWZGQlpxckRpOUVLb3lZSXkzQXJ0aFZvc3diZWp0YXdRQW8zRlRCSXRkeWdYY0pVWjdVemJvR000Zk1qbF9LYXB1VzZPYVBqSFQ1TjdreWEzR05acWVNQjNuRGJhWFB0LXI1Ulk?oc=5\" target=\"_blank\">Cargill marine content of feed reduced in 2018</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
     }
   ],
   "share_of_voice": {
@@ -124922,7 +124985,7 @@
       {
         "week": "2019-W24",
         "BioMar": 3,
-        "Cargill": 0,
+        "Cargill": 1,
         "Skretting": 1
       },
       {
@@ -126801,7 +126864,7 @@
         "week": "2026-W04",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2026-W05",
@@ -127051,11 +127114,11 @@
       },
       {
         "company": "Cargill",
-        "count": 312
+        "count": 313
       },
       {
         "company": "Skretting",
-        "count": 1257
+        "count": 1258
       }
     ]
   }
