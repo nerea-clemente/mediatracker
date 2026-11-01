@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-31T19:46:22+00:00",
+  "generated_at": "2026-11-01T00:38:25+00:00",
   "stats": {
-    "mention_count": 3552,
+    "mention_count": 3553,
     "story_count": 2592,
-    "analyzed_count": 1981,
+    "analyzed_count": 1982,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -3243,7 +3243,7 @@
         "exec_statement",
         "financial"
       ],
-      "pickup_count": 6,
+      "pickup_count": 7,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -123437,6 +123437,36 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTzh3SFNGOFo3c2dIZlI0T0V5dVZCTURtSFkzVkx0cHh5VlNqdEdoTUhxTHNLbkhrZ0FDaWYwaE5vZ1NvMElWRjA0QjJfLWtlRkNhbWZGQlpxckRpOUVLb3lZSXkzQXJ0aFZvc3diZWp0YXdRQW8zRlRCSXRkeWdYY0pVWjdVemJvR000Zk1qbF9LYXB1VzZPYVBqSFQ1TjdreWEzR05acWVNQjNuRGJhWFB0LXI1Ulk?oc=5\" target=\"_blank\">Cargill marine content of feed reduced in 2018</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 740520,
+      "story_id": 2139,
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYkw1N2FGa3Z1U3RaVW1KeldyZWdlU3NTc1NNZW9ha28xTkVJekdURy1nT0ZsVVFVOGpwem9FaGNPZkd5bnJydnpxY3Y3NWpiYVlScDI3YlplQ29SSkF1T3hrSnozRlM5NHh0SlJWaUZpSHVRYlpzRlVBVmFqUmxrT2RBQTNHbFR2TzBGQ0dBalk2S1dqWk9HV3RVb0RUcG4yWFAxTl82WTJkejFEUDJpYjBMUWFYWmFaZzlwbkhkRGxkczBwMHdlSk84MGR3ZmdWc1ZuN0VYWm1URmY4RXRJRlVJZ19OQy01elZnNEZtWWRMNy1NRnpqZm9ieHdiNHhuSk54SElUTEZhN1l3V0dKeU9IOA?oc=5",
+      "title": "BIOMAR: Guidance raised after strong Q2 growth, with Ecuador expansion and most new capacity pre-sold - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar raises guidance on strong Q2 growth and capacity expansion",
+      "key_claims": [
+        "BioMar reported strong Q2 growth",
+        "BioMar is expanding operations in Ecuador",
+        "Most of BioMar's new capacity is pre-sold",
+        "BioMar has raised financial guidance"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "BioMar Group raised its financial guidance following strong second-quarter results and announced expansion into Ecuador with most new production capacity already pre-sold to customers. The company's growth trajectory and secured order book demonstrate robust market demand for its aquaculture feed products."
     }
   ],
   "share_of_voice": {
@@ -127036,7 +127066,7 @@
       },
       {
         "week": "2026-W33",
-        "BioMar": 86,
+        "BioMar": 87,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -127110,7 +127140,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1981
+        "count": 1982
       },
       {
         "company": "Cargill",
