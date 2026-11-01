@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T11:57:32+00:00",
+  "generated_at": "2026-11-01T16:09:36+00:00",
   "stats": {
-    "mention_count": 3554,
-    "story_count": 2593,
+    "mention_count": 3555,
+    "story_count": 2594,
     "analyzed_count": 1983,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
@@ -21769,6 +21769,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2765,
+      "headline": "Energi, Florø | Dei er størst på energiforbruk i Florø. No brukar dei 47 millionar kroner på å få det ned - Firdaposten",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VrYmM4UHB3RVlobVctcmpSWTBlOW9hdlBVckxBNFNWOHd4YzVPWUNoLS1ad1dYM3N4Wk41VEdoN1dxVFhrYnhVcFppeHhSTHc1UW9oanhXZTBVcEd0VnFrNi1QUHNhVWV1ZEhYR3djTUIycEJ2NzM1X09IMXVSUTVPR1BUSjM1UGVsVFY4Q2p3enBrb1lwaVo3U2E2VFp3QlBrRWQ2ZmZmNmJjWWdJODA1RDUyWEVSTFBnQ1F4RDczZ01Ka3I2Ug?oc=5\" target=\"_blank\">Energi, Florø | Dei er størst på energiforbruk i Florø. No brukar dei 47 millionar kroner på å få det ned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firdaposten</font>",
+      "first_seen": "2023-04-30T07:00:00+00:00",
+      "last_seen": "2023-04-30T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 2657,
@@ -123505,6 +123519,30 @@
         "none"
       ],
       "summary": "The article displays a seasonal return chart for Schouw & Co A/S (SCHOC.XD) traded on a European exchange. No substantive news, analysis, or commentary about the company is provided beyond the visualization tool itself."
+    },
+    {
+      "id": 742731,
+      "story_id": 2765,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VrYmM4UHB3RVlobVctcmpSWTBlOW9hdlBVckxBNFNWOHd4YzVPWUNoLS1ad1dYM3N4Wk41VEdoN1dxVFhrYnhVcFppeHhSTHc1UW9oanhXZTBVcEd0VnFrNi1QUHNhVWV1ZEhYR3djTUIycEJ2NzM1X09IMXVSUTVPR1BUSjM1UGVsVFY4Q2p3enBrb1lwaVo3U2E2VFp3QlBrRWQ2ZmZmNmJjWWdJODA1RDUyWEVSTFBnQ1F4RDczZ01Ka3I2Ug?oc=5",
+      "title": "Energi, Florø | Dei er størst på energiforbruk i Florø. No brukar dei 47 millionar kroner på å få det ned - Firdaposten",
+      "source_name": "Firdaposten",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2023-04-30T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VrYmM4UHB3RVlobVctcmpSWTBlOW9hdlBVckxBNFNWOHd4YzVPWUNoLS1ad1dYM3N4Wk41VEdoN1dxVFhrYnhVcFppeHhSTHc1UW9oanhXZTBVcEd0VnFrNi1QUHNhVWV1ZEhYR3djTUIycEJ2NzM1X09IMXVSUTVPR1BUSjM1UGVsVFY4Q2p3enBrb1lwaVo3U2E2VFp3QlBrRWQ2ZmZmNmJjWWdJODA1RDUyWEVSTFBnQ1F4RDczZ01Ka3I2Ug?oc=5\" target=\"_blank\">Energi, Florø | Dei er størst på energiforbruk i Florø. No brukar dei 47 millionar kroner på å få det ned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firdaposten</font>"
     }
   ],
   "share_of_voice": {
@@ -126097,7 +126135,7 @@
       {
         "week": "2023-W17",
         "BioMar": 5,
-        "Cargill": 0,
+        "Cargill": 1,
         "Skretting": 4
       },
       {
@@ -127182,7 +127220,7 @@
       },
       {
         "company": "Cargill",
-        "count": 313
+        "count": 314
       },
       {
         "company": "Skretting",
