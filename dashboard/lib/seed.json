@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T16:09:36+00:00",
+  "generated_at": "2026-11-01T20:19:09+00:00",
   "stats": {
-    "mention_count": 3555,
+    "mention_count": 3556,
     "story_count": 2594,
-    "analyzed_count": 1983,
+    "analyzed_count": 1984,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -3312,9 +3312,9 @@
       "last_seen": "2026-08-13T07:00:00+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -123543,6 +123543,36 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VrYmM4UHB3RVlobVctcmpSWTBlOW9hdlBVckxBNFNWOHd4YzVPWUNoLS1ad1dYM3N4Wk41VEdoN1dxVFhrYnhVcFppeHhSTHc1UW9oanhXZTBVcEd0VnFrNi1QUHNhVWV1ZEhYR3djTUIycEJ2NzM1X09IMXVSUTVPR1BUSjM1UGVsVFY4Q2p3enBrb1lwaVo3U2E2VFp3QlBrRWQ2ZmZmNmJjWWdJODA1RDUyWEVSTFBnQ1F4RDczZ01Ka3I2Ug?oc=5\" target=\"_blank\">Energi, Florø | Dei er størst på energiforbruk i Florø. No brukar dei 47 millionar kroner på å få det ned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firdaposten</font>"
+    },
+    {
+      "id": 743053,
+      "story_id": 2760,
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSURQMUZESTBER2hjNVczM0E0VHR6NC1kRm1QcTVaNGoxX0xsZGd6aGlFOWUwc1l1Y0xjX0Mta1BDWUE5N25GejFHbHYxUlhDX3FldnNlWVpGSTBaZFVVTnRpeDRQWFc2eHBvWDdnOWN5RUlyWVlOWDJWbEl0MWJUQ19aeURCRTlPMVh6QnlnS3BXSGNScS1IRkg2bVA4MlF6M01EM21zeHRjRUdFaUZQdkpkRWRJdnlpXzRuUGZkVWFNWERzX0txdFJmbmZ5R3J1TjlMNmtMWWE5SlF3Nkg3UjJEQlJHbWtoLXJ3RDJESENVM2RLLUxtQ1FEN0pNU2xHM0xHTHlYZlpsR2c3?oc=5",
+      "title": "BIOMAR: Record-high volumes and raised 2026 guidance, with Shrimp growth offsetting margin pressures - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "Record volumes and upgraded guidance despite margin headwinds",
+      "key_claims": [
+        "BioMar achieved record-high volumes in 2026",
+        "Company raised its 2026 guidance",
+        "Shrimp segment growth is offsetting margin pressures",
+        "Margin pressures are present but manageable"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "none"
+      ],
+      "summary": "BioMar reported record-high sales volumes and raised its 2026 financial guidance, with strong shrimp segment performance helping to counterbalance operating margin compression. The company's upgraded outlook reflects confidence despite ongoing cost and margin headwinds in the feed business."
     }
   ],
   "share_of_voice": {
@@ -127142,7 +127172,7 @@
       },
       {
         "week": "2026-W33",
-        "BioMar": 87,
+        "BioMar": 88,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -127216,7 +127246,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1983
+        "count": 1984
       },
       {
         "company": "Cargill",
