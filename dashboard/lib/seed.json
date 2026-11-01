@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T00:38:25+00:00",
+  "generated_at": "2026-11-01T11:57:32+00:00",
   "stats": {
-    "mention_count": 3553,
-    "story_count": 2592,
-    "analyzed_count": 1982,
+    "mention_count": 3554,
+    "story_count": 2593,
+    "analyzed_count": 1983,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -422,6 +422,20 @@
     "ytringen"
   ],
   "stories": [
+    {
+      "id": 2764,
+      "headline": "Gráfico de rentabilidades estacionales de Schouw & Co A/S (SCHOC.XD) - Yahoo",
+      "story_summary": "The article displays a seasonal return chart for Schouw & Co A/S (SCHOC.XD) traded on a European exchange. No substantive news, analysis, or commentary about the company is provided beyond the visualization tool itself.",
+      "first_seen": "2026-10-31T22:17:36+00:00",
+      "last_seen": "2026-10-31T22:17:36+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2762,
       "headline": "Havnet på toppen av nominasjonslista enda en gang - gat.no",
@@ -123467,6 +123481,30 @@
         "exec_statement"
       ],
       "summary": "BioMar Group raised its financial guidance following strong second-quarter results and announced expansion into Ecuador with most new production capacity already pre-sold to customers. The company's growth trajectory and secured order book demonstrate robust market demand for its aquaculture feed products."
+    },
+    {
+      "id": 741368,
+      "story_id": 2764,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBicW41RVJfRndSdzAxOVNudE1kZHFBN3ZXbnJSSFVRczUtUmc2Sk9OR2kwWlAzSEszN0t2TXMxZXg0Sm45LXpTX0dZTlV3YmtkVjI2UjNVbzNRWWpwTVpfNHpDMHdvcEk?oc=5",
+      "title": "Gráfico de rentabilidades estacionales de Schouw & Co A/S (SCHOC.XD) - Yahoo",
+      "source_name": "Yahoo",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-10-31T22:17:36+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Seasonal return chart for Schouw & Co stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article displays a seasonal return chart for Schouw & Co A/S (SCHOC.XD) traded on a European exchange. No substantive news, analysis, or commentary about the company is provided beyond the visualization tool itself."
     }
   ],
   "share_of_voice": {
@@ -127132,7 +127170,7 @@
       },
       {
         "week": "2026-W44",
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 0,
         "Skretting": 14
       }
@@ -127140,7 +127178,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1982
+        "count": 1983
       },
       {
         "company": "Cargill",
