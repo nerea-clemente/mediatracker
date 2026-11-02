@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T20:19:09+00:00",
+  "generated_at": "2026-11-02T01:11:58+00:00",
   "stats": {
-    "mention_count": 3556,
-    "story_count": 2594,
-    "analyzed_count": 1984,
+    "mention_count": 3557,
+    "story_count": 2595,
+    "analyzed_count": 1985,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -3998,6 +3998,20 @@
       "story_summary": "BioMar A/S has announced the launch of a long-term incentive plan designed for its executive management and key employees. The initiative appears aimed at retaining and motivating senior leadership and high-performing staff members within the organization.",
       "first_seen": "2026-07-09T21:00:07+00:00",
       "last_seen": "2026-07-09T21:00:07+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2766,
+      "headline": "BioMar Group A/S (BIOMAR.CO) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+      "story_summary": "This is a Yahoo Finance company profile page for BioMar Group A/S listing basic corporate information and facts. The article serves an informational rather than investigative or news-driven purpose.",
+      "first_seen": "2026-07-09T19:35:59+00:00",
+      "last_seen": "2026-07-09T19:35:59+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -123573,6 +123587,30 @@
         "none"
       ],
       "summary": "BioMar reported record-high sales volumes and raised its 2026 financial guidance, with strong shrimp segment performance helping to counterbalance operating margin compression. The company's upgraded outlook reflects confidence despite ongoing cost and margin headwinds in the feed business."
+    },
+    {
+      "id": 743659,
+      "story_id": 2766,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82QkJYRkQwbTR4NEdkYldkcWs3eFpDZkJEWThPX0RDUThOR2RXOU4xaHNmekVyNnRSeFk2YkJLcElVMzdpRTRCVGVkRFVLU2ktdDQ5NWpPNXVQOExHaVdfVkY4cw?oc=5",
+      "title": "BioMar Group A/S (BIOMAR.CO) company profile and facts - Yahoo Finance - Yahoo Finance Singapore",
+      "source_name": "Yahoo Finance Singapore",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-07-09T19:35:59+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Company profile and factual overview of BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance company profile page for BioMar Group A/S listing basic corporate information and facts. The article serves an informational rather than investigative or news-driven purpose."
     }
   ],
   "share_of_voice": {
@@ -127142,7 +127180,7 @@
       },
       {
         "week": "2026-W28",
-        "BioMar": 88,
+        "BioMar": 89,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -127246,7 +127284,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 1984
+        "count": 1985
       },
       {
         "company": "Cargill",
