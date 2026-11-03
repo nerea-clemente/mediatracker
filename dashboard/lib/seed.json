@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T03:16:24+00:00",
+  "generated_at": "2026-11-03T12:56:46+00:00",
   "stats": {
-    "mention_count": 3577,
-    "story_count": 2612,
-    "analyzed_count": 1996,
+    "mention_count": 3588,
+    "story_count": 2619,
+    "analyzed_count": 2007,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -423,6 +423,147 @@
   ],
   "stories": [
     {
+      "id": 2790,
+      "headline": "BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut - Investing.com Canada",
+      "story_summary": "BioMar released Q3 2026 results showing record earnings and an upward revision of full-year guidance, even as the company experienced a reduction in sales volume. The performance suggests improved profitability and operational efficiency offsetting lower unit volumes in the period.",
+      "first_seen": "2026-11-03T12:14:18+00:00",
+      "last_seen": "2026-11-03T12:14:18+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2789,
+      "headline": "Earnings call transcript: BioMar lifts profit outlook after record Q3 2026 - Investing.com",
+      "story_summary": "BioMar reported record Q3 2026 results and raised its profit outlook during an earnings call. The positive performance led the company to increase its forward guidance for profitability.",
+      "first_seen": "2026-11-03T10:45:59+00:00",
+      "last_seen": "2026-11-03T10:45:59+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2788,
+      "headline": "BioMar raises earnings outlook despite El Niño-related uncertainty - Aquafeed.com",
+      "story_summary": "BioMar has raised its earnings outlook despite uncertainty caused by El Niño weather patterns affecting aquaculture operations. The company's improved guidance suggests resilience in its business despite challenging external conditions in the sector.\n\n{default: True}\n\nNo further claims are apparent from the excerpt, though the title indicates an earnings or forward guidance announcement by BioMar Group. The mention of El Niño-related uncertainty suggests potential climate-driven risks to aquaculture production, but the outlook raise indicates management confidence in navigating these headwinds. Without access to the full article body, I cannot extract specific financial figures or executive quotes, though an exec_statement is likely present given the context of an earnings announcement.\n\nKey claims would likely include: BioMar raised earnings outlook; El Niño is cited as a source of uncertainty; the company remains confident despite sectoral challenges. However, I will record only those explicitly stated in the provided summary.\n\nNo person names or quotes are visible in the excerpt provided.\n\nRisk flags apply due to the financial nature (earnings outlook) and likely executive statement (implied by the announcement format), as well as the external environmental factor (El Niño) that could be classified as a business risk.\n\nSince only the headline and summary are provided, the analysis is limited. A full article review would yield more detailed key claims and people_quoted data.\n\nConfidence is high on sentiment (positive earnings revision) but moderate overall due to limited source material.\n\n---\n\n{\n  \"is_about_target_brand\": true,\n  \"sentiment\": \"positive\",\n  \"sentiment_confidence\": 0.85,\n  \"prominence\": \"primary\",\n  \"angle\": \"BioMar upgrades financial guidance amid environmental headwinds\",\n  \"key_claims\": [\n    \"BioMar raised its earnings outlook\",\n    \"El Niño-related uncertainty affects the aquaculture sector\"\n  ],\n  \"people_quoted\": [],\n  \"risk_flags\": [\"financial\", \"exec_statement\"],\n  \"summary\": \"BioMar has raised its earnings outlook despite uncertainty caused by El Niño weather patterns affecting aquaculture operations. The company's improved guidance suggests resilience in its business despite challenging external conditions in the sector.\"\n}\n\nApologies for the extended reasoning above the JSON. Here is the clean JSON output:\n\n{\"is_about_target_brand\":true,\"sentiment\":\"positive\",\"sentiment_confidence\":0.85,\"prominence\":\"primary\",\"angle\":\"BioMar upgrades financial guidance amid environmental headwinds\",\"key_claims\":[\"BioMar raised its earnings outlook\",\"El Niño-related uncertainty affects the aquaculture sector\"],\"people_quoted\":[],\"risk_flags\":[\"financial\",\"exec_statement\"],\"summary\":\"BioMar has raised its earnings outlook despite uncertainty caused by El Niño weather patterns affecting aquaculture operations. The company's improved guidance suggests resilience in its business despite challenging external conditions in the sector.\"}",
+      "first_seen": "2026-11-03T10:41:39+00:00",
+      "last_seen": "2026-11-03T10:41:39+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2787,
+      "headline": "Feed recipes offset rocketing marine ingredient costs at BioMar - IntraFish",
+      "story_summary": "BioMar has modified its feed formulations to counteract rising costs of marine ingredients used in aquaculture feed production. The company's recipe adjustments demonstrate operational resilience in managing commodity price pressures affecting the aquaculture sector.",
+      "first_seen": "2026-11-03T09:44:02+00:00",
+      "last_seen": "2026-11-03T09:44:02+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2786,
+      "headline": "Skretting expands shrimp nutrition portfolio with three new solutions - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUtVemUyQVpZVnlKN2tBM3h6MFptV0RnODdOVG5yTWhBMUhTUnFCbjRsU2s1R1paVnlSMW0zUEdIa1ZNbTZjSEVkMEVkSXIzc3pTejEyTHBIUExzalhELXliRHhGLVZ0S1Y2YnYxU2xUZkVjOFg4WERDMkIyaG5pSW5Cd2JHZW90ZDlSRF81VHFTOFhMZXlpVVRHOHVnWmRiSjRwOVJ2dHdmOHU3WXZ5NHRtNE90b1ZCdkE?oc=5\" target=\"_blank\">Skretting expands shrimp nutrition portfolio with three new solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2026-11-03T09:30:12+00:00",
+      "last_seen": "2026-11-03T09:30:12+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2785,
+      "headline": "BioMar Q3 2026 Earnings Call Is Live - TradingView",
+      "story_summary": "TradingView announces that BioMar's Q3 2026 earnings call is live. The article serves as a notice for investors to access the earnings discussion.",
+      "first_seen": "2026-11-03T08:58:15+00:00",
+      "last_seen": "2026-11-03T08:58:15+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2759,
+      "headline": "DNB Carnegie raises its target price for Biomar Group to DKK 160 (155), reiterates Buy - www.marketscreener.com",
+      "story_summary": "DNB Carnegie increased its price target for BioMar Group to DKK 160 from DKK 155 while reiterating a Buy rating. The analyst action reflects positive sentiment toward the aquaculture feed producer's prospects.",
+      "first_seen": "2026-10-29T12:12:26+00:00",
+      "last_seen": "2026-11-03T08:33:19+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2780,
+      "headline": "DNB Carnegie eleva el precio objetivo de Biomar Group a 160 DKK (155) y reitera su recomendación de compra - MarketScreener España",
+      "story_summary": "DNB Carnegie has elevated its price target for BioMar Group to 160 DKK, up from 155 DKK, while maintaining a buy recommendation on the stock. The analyst action reflects positive sentiment toward the company's financial prospects.",
+      "first_seen": "2026-10-29T12:12:26+00:00",
+      "last_seen": "2026-11-03T08:33:19+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2784,
+      "headline": "BioMar: quarterly operating profit jumps 50% to €83 million - Salmon Business",
+      "story_summary": "BioMar reported a 50% jump in quarterly operating profit to €83 million, demonstrating strong financial performance. The result highlights the company's improved operational efficiency and market position in the aquaculture feed sector.",
+      "first_seen": "2026-11-03T07:44:53+00:00",
+      "last_seen": "2026-11-03T07:44:53+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2775,
+      "headline": "BIOMAR: Record Q3 EBIT lifted guidance, despite softer volume expectations and raw-material risks - TradingView",
+      "story_summary": "BioMar reported record Q3 EBIT results and raised full-year guidance, though the company faces softer volume expectations and raw material cost pressures. The strong earnings performance offset concerns about market conditions and input cost volatility going forward.",
+      "first_seen": "2026-11-02T15:10:54+00:00",
+      "last_seen": "2026-11-03T06:30:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2779,
       "headline": "PHARMAQademy reunirá a expertos para analizar la situación actual del ISA - Mundoacuicola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE1LWEQyMU10a2F6WHI1eHFGRHpJRFRPbU1TRmVsaHdpOHluMzNEckZQbmoxZTZ2d1dhbXNCa2FpVDhaRTZvSXVOMC14V2JLMFJ5Uk9seVpfak5ybkFqWDlKM3N1Tk1lREdJcXBZOG10UjlKdUR5alJjODEwOTI3aU1iV2FYWkVBR3plVnpaNUZFYmdPT1VfM2hiQUNvZDBIVlg2dmtWZTJmaFE?oc=5\" target=\"_blank\">PHARMAQademy reunirá a expertos para analizar la situación actual del ISA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
@@ -451,6 +592,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2764,
+      "headline": "Gráfico de rentabilidades estacionales de Schouw & Co A/S (SCHOC.XD) - Yahoo",
+      "story_summary": "The article displays a seasonal return chart for Schouw & Co A/S (SCHOC.XD) traded on a European exchange. No substantive news, analysis, or commentary about the company is provided beyond the visualization tool itself.",
+      "first_seen": "2026-10-31T22:17:36+00:00",
+      "last_seen": "2026-11-02T22:18:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2783,
       "headline": "Puerto Varas reunirá a más de 160 especialistas en conferencia sobre SRS - Mundoacuicola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEU3X1A4a0dyZnBBVzAyR3FnQXRHbXUxTWFwcF9kVzZ0OGljV05OcXFiVFdObVVFZTEyY1VFWGRPQjFUOG9nckJxam5xQ0pHeFY0NE5kOS1yV1NVQXFwV3loczRyZGQ2dlJoc2cxSVNUdXdmd1ZINnZtbWJuMUNuWlllWVBlUVdYSFNsRlVPakJUbnNvNUV1SjBPSWZsdXVjX0syQ21tbm5udw?oc=5\" target=\"_blank\">Puerto Varas reunirá a más de 160 especialistas en conferencia sobre SRS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
@@ -467,10 +622,10 @@
     {
       "id": 2777,
       "headline": "BioMar posts record Q3 earnings as salmon feed margins surge - Undercurrent News",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQVIzZFVuZVJwMWw0VTJKeEQza2JxQm5jWHVlSEJZTjBvTE5la1BIQU85QktFa3FhMTFFVEZoa3V6S0R5WHQ2cTV1cDBfS2ZZUzliT1djdHRNRkJkVmNnODRxMmtVdUhoYjVuVG5Vc2RYTmpnRE5DZnBCd0RIQjRVSzZXUkd1eU1CaWdnSUs3b2Nmb0ttMHR5UVRuOVFPNmhkQmtXelFfM2s?oc=5\" target=\"_blank\">BioMar posts record Q3 earnings as salmon feed margins surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>",
+      "story_summary": "BioMar reported record third-quarter earnings with significant margin improvement in its salmon feed business. The results reflect strong market conditions and operational performance in the aquaculture feed segment during the quarter ending September 2026.",
       "first_seen": "2026-11-02T17:40:00+00:00",
       "last_seen": "2026-11-02T17:40:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
@@ -484,20 +639,6 @@
       "story_summary": "BioMar has delivered its strongest quarter ever, according to a statement from the company. The announcement highlights record performance across the aquaculture feed producer's operations during the period ending November 2026, indicating robust business growth and market demand for its product portfolio and services in the aquaculture sector through November 2026, indicating robust business growth and market demand for its product portfolio during the period, signaling strong operational execution and market growth during the reporting period through November 2026, indicating robust business growth and market demand for its portfolio during the period. The company's strongest quarterly result to date demonstrates successful operational performance and market strength in the aquaculture feed sector, reflecting strong market demand and operational execution by BioMar across its geographies and product lines.",
       "first_seen": "2026-11-02T15:51:30+00:00",
       "last_seen": "2026-11-02T15:51:30+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2775,
-      "headline": "BIOMAR: Record Q3 EBIT lifted guidance, despite softer volume expectations and raw-material risks - TradingView",
-      "story_summary": "BioMar reported record Q3 EBIT results and raised full-year guidance, though the company faces softer volume expectations and raw material cost pressures. The strong earnings performance offset concerns about market conditions and input cost volatility going forward.",
-      "first_seen": "2026-11-02T15:10:54+00:00",
-      "last_seen": "2026-11-02T15:10:54+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -634,20 +775,6 @@
       "company": "Skretting"
     },
     {
-      "id": 2764,
-      "headline": "Gráfico de rentabilidades estacionales de Schouw & Co A/S (SCHOC.XD) - Yahoo",
-      "story_summary": "The article displays a seasonal return chart for Schouw & Co A/S (SCHOC.XD) traded on a European exchange. No substantive news, analysis, or commentary about the company is provided beyond the visualization tool itself.",
-      "first_seen": "2026-10-31T22:17:36+00:00",
-      "last_seen": "2026-10-31T22:17:36+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
       "id": 2762,
       "headline": "Havnet på toppen av nominasjonslista enda en gang - gat.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWtYaHpuOHE3M1ZESnFnaEhmOTVBQ0kxVXBBRUljY0pnUENFUmcyWFQ1YXdlYkJ0QzEwS2Nha0FMa2I3QVdKRWxMNGR6ZV92U2dzZTA1Yjdnd0hhbnc5ZjdDYUpmOTliWGluSGY1T3Z6a2tncWtEREU1UEdGOTNUa1FhODRhOERpZTNNWi1QZw?oc=5\" target=\"_blank\">Havnet på toppen av nominasjonslista enda en gang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
@@ -674,34 +801,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
-    },
-    {
-      "id": 2759,
-      "headline": "DNB Carnegie raises its target price for Biomar Group to DKK 160 (155), reiterates Buy - www.marketscreener.com",
-      "story_summary": "DNB Carnegie increased its price target for BioMar Group to DKK 160 from DKK 155 while reiterating a Buy rating. The analyst action reflects positive sentiment toward the aquaculture feed producer's prospects.",
-      "first_seen": "2026-10-29T12:12:26+00:00",
-      "last_seen": "2026-10-29T12:12:26+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2780,
-      "headline": "DNB Carnegie eleva el precio objetivo de Biomar Group a 160 DKK (155) y reitera su recomendación de compra - MarketScreener España",
-      "story_summary": "DNB Carnegie has elevated its price target for BioMar Group to 160 DKK, up from 155 DKK, while maintaining a buy recommendation on the stock. The analyst action reflects positive sentiment toward the company's financial prospects.",
-      "first_seen": "2026-10-29T12:12:26+00:00",
-      "last_seen": "2026-10-29T12:12:26+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
     },
     {
       "id": 2758,
@@ -124138,16 +124237,16 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment": "positive",
+      "sentiment_confidence": 0.92,
+      "prominence": "primary",
+      "angle": "BioMar achieves record Q3 earnings driven by salmon feed margin expansion",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQVIzZFVuZVJwMWw0VTJKeEQza2JxQm5jWHVlSEJZTjBvTE5la1BIQU85QktFa3FhMTFFVEZoa3V6S0R5WHQ2cTV1cDBfS2ZZUzliT1djdHRNRkJkVmNnODRxMmtVdUhoYjVuVG5Vc2RYTmpnRE5DZnBCd0RIQjRVSzZXUkd1eU1CaWdnSUs3b2Nmb0ttMHR5UVRuOVFPNmhkQmtXelFfM2s?oc=5\" target=\"_blank\">BioMar posts record Q3 earnings as salmon feed margins surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Undercurrent News</font>"
+      "summary": "BioMar reported record third-quarter earnings with significant margin improvement in its salmon feed business. The results reflect strong market conditions and operational performance in the aquaculture feed segment during the quarter ending September 2026."
     },
     {
       "id": 746539,
@@ -124343,6 +124442,290 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPMXhGSW9XckNuZl9Xb1dyX0x4eUwyaDhVR1JvWmd0ZUloREMtNGhBYjBNWl9MUXlRUkxXNEg3MWpwcjI0M2x1dzVjbk9yZ1RoT2ZieUNtOC11a0FJaklRWmRpckJvelFMQmVsTDZmQno0T2c1MDZXekxXMDIza0pLTXlSZlVsS1pub1dMSERPSDI0cGdoSlpTamlFQjF5OUotN0trYURWZ185MWpN?oc=5\" target=\"_blank\">SalmonChile releva potencial de la acuicultura para invertir en ENADE 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 747901,
+      "story_id": 2787,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1hYMWljRVNneHAtLXU4LWtxakFlZFpHelAydnEwUE4wWExMVGVjeDVLQlRpd0pLSlliMmZwWXJHbHB5QTBOTnFrUXAxOUZHZXpxV1hwWmNJN3FDbWYydnQ1QVQydkx6QUpMRzg1c3BkbnFNSy0yUzExaUdLNDZhOFF2Rm8zSERTV0stZUtZYnlXWUN3OHd0VkFzTzdvWjU2WUVjV3RKNVkydE9vclE?oc=5",
+      "title": "Feed recipes offset rocketing marine ingredient costs at BioMar - IntraFish",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T09:44:02+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar adapts feed formulations to manage rising marine ingredient costs",
+      "key_claims": [
+        "BioMar has adjusted feed recipes in response to elevated marine ingredient prices",
+        "The company's formulation adjustments help offset cost pressures from raw material inflation"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has modified its feed formulations to counteract rising costs of marine ingredients used in aquaculture feed production. The company's recipe adjustments demonstrate operational resilience in managing commodity price pressures affecting the aquaculture sector."
+    },
+    {
+      "id": 747902,
+      "story_id": 2788,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2RjQWFEVEV5cGZ4OVprZXNQdDVDNGhFaENxMVRFUGtfbi00WENhbTZXRHV3ZWVEcGZwU1J4Rmd5SC10ZlJYaWZTTDl4dElUWFNQSVFwQzVkSmRNMW8xdElXdVJnTVNwVkFuR2ltTVRTWGRQOENFcWJTdWZFTHZGYi1IUFlqTlFHdmtSbjIyV29pWWQ0d3dtUzNfbHJiZXkyRzJ2RVNXWGk5SER2azNkeQ?oc=5",
+      "title": "BioMar raises earnings outlook despite El Niño-related uncertainty - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T10:41:39+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar upgrades financial guidance amid environmental headwinds",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has raised its earnings outlook despite uncertainty caused by El Niño weather patterns affecting aquaculture operations. The company's improved guidance suggests resilience in its business despite challenging external conditions in the sector.\n\n{default: True}\n\nNo further claims are apparent from the excerpt, though the title indicates an earnings or forward guidance announcement by BioMar Group. The mention of El Niño-related uncertainty suggests potential climate-driven risks to aquaculture production, but the outlook raise indicates management confidence in navigating these headwinds. Without access to the full article body, I cannot extract specific financial figures or executive quotes, though an exec_statement is likely present given the context of an earnings announcement.\n\nKey claims would likely include: BioMar raised earnings outlook; El Niño is cited as a source of uncertainty; the company remains confident despite sectoral challenges. However, I will record only those explicitly stated in the provided summary.\n\nNo person names or quotes are visible in the excerpt provided.\n\nRisk flags apply due to the financial nature (earnings outlook) and likely executive statement (implied by the announcement format), as well as the external environmental factor (El Niño) that could be classified as a business risk.\n\nSince only the headline and summary are provided, the analysis is limited. A full article review would yield more detailed key claims and people_quoted data.\n\nConfidence is high on sentiment (positive earnings revision) but moderate overall due to limited source material.\n\n---\n\n{\n  \"is_about_target_brand\": true,\n  \"sentiment\": \"positive\",\n  \"sentiment_confidence\": 0.85,\n  \"prominence\": \"primary\",\n  \"angle\": \"BioMar upgrades financial guidance amid environmental headwinds\",\n  \"key_claims\": [\n    \"BioMar raised its earnings outlook\",\n    \"El Niño-related uncertainty affects the aquaculture sector\"\n  ],\n  \"people_quoted\": [],\n  \"risk_flags\": [\"financial\", \"exec_statement\"],\n  \"summary\": \"BioMar has raised its earnings outlook despite uncertainty caused by El Niño weather patterns affecting aquaculture operations. The company's improved guidance suggests resilience in its business despite challenging external conditions in the sector.\"\n}\n\nApologies for the extended reasoning above the JSON. Here is the clean JSON output:\n\n{\"is_about_target_brand\":true,\"sentiment\":\"positive\",\"sentiment_confidence\":0.85,\"prominence\":\"primary\",\"angle\":\"BioMar upgrades financial guidance amid environmental headwinds\",\"key_claims\":[\"BioMar raised its earnings outlook\",\"El Niño-related uncertainty affects the aquaculture sector\"],\"people_quoted\":[],\"risk_flags\":[\"financial\",\"exec_statement\"],\"summary\":\"BioMar has raised its earnings outlook despite uncertainty caused by El Niño weather patterns affecting aquaculture operations. The company's improved guidance suggests resilience in its business despite challenging external conditions in the sector.\"}"
+    },
+    {
+      "id": 747903,
+      "story_id": 2785,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDNwVDBpT3kwNjJFRHFTNmdPcW9MUTQ4b2x1OVNZd2lPeldfc29hNDdYTE9wOVVBOGctSTF0REpTTmNZcWNZUVUyWjRZLVJnWGtZWWI5U0FNU2xqZGUzclAwYUxhSlFkc2EzOGhuT25vY3ZQODBUdTVqOEw0YW9VeVBVUnNkY0traG1sQVc1MzZTMFBMV2xEZFdwVW5yN1FRV2E0a1JiQy0?oc=5",
+      "title": "BioMar Q3 2026 Earnings Call Is Live - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T08:58:15+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar Q3 2026 earnings call announcement",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "TradingView announces that BioMar's Q3 2026 earnings call is live. The article serves as a notice for investors to access the earnings discussion."
+    },
+    {
+      "id": 747904,
+      "story_id": 2789,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWnBUallvVVJUcDVRclRpTndvUW92REFOT2FJSmw4MXpEYkIwUnNTZjBjRy0ySnl1MUFzQ0UtOXJHWUJ5RFlBb1kzMGluRmFqNDJjOW1aNEhOMHdrOVc5dDlDcGVRaDBhSGtTclBLMjJwNW5TSVYzWXhPcXYzTzRrWk9EWjJqVnhRaVpRdEpEblZWak9BVHd5djBWcWRleTl2WlI0NTZTcHdDNU04MGR3S3RTajNmSEJ5ZzdVTHU5RVhEbURneHI1Mw?oc=5",
+      "title": "Earnings call transcript: BioMar lifts profit outlook after record Q3 2026 - Investing.com",
+      "source_name": "Investing.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T10:45:59+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar raises profit outlook on record Q3 2026 results",
+      "key_claims": [
+        "BioMar achieved record Q3 2026 results",
+        "Company lifted its profit outlook following strong third-quarter performance"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "BioMar reported record Q3 2026 results and raised its profit outlook during an earnings call. The positive performance led the company to increase its forward guidance for profitability."
+    },
+    {
+      "id": 747905,
+      "story_id": 2784,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkl6cS1UaGk5dm5oZUstb3RTeWFMcFFZYzRNNkhGVFBBaGFEdUtRSU9IdXhJYWx3cFN0VHhmclZJbTVEc2FycUhhelo0WGtEdkpDV2l2dm9ROU1QaGUyOHIwd2VSLTBNNXlqczRQTXlCZVJsOHNyWUtTaHdrZUJtUU5jejliNzEtUXZQdFg3TENwWEE?oc=5",
+      "title": "BioMar: quarterly operating profit jumps 50% to €83 million - Salmon Business",
+      "source_name": "Salmon Business",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T07:44:53+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.92,
+      "prominence": "primary",
+      "angle": "BioMar reports strong quarterly profit growth of 50%",
+      "key_claims": [
+        "BioMar's quarterly operating profit increased 50% to €83 million"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar reported a 50% jump in quarterly operating profit to €83 million, demonstrating strong financial performance. The result highlights the company's improved operational efficiency and market position in the aquaculture feed sector."
+    },
+    {
+      "id": 747906,
+      "story_id": 2759,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUZ3aDlVcnNic2dJTXRNMlNyM3FncVRDanJsRDZxTmh0c0JRWDllcUVaNjNKY3c5Z0d1NVBCaVRzX09RS2h4dU82VG1JSWlVODZISnJxSkhUNzRhVlJ5ZzJfZzZLeWM1SVU0c1o4TklRTXFNTkFKUm8wS2tQdC1iNmcwNHNMdXVoTF9vaUtJaEZZYzBlSUE4N0J2U0NkWFhsTmhPMVRVbWphcHdoRjFaM04xUDJXZ0RMVDItNTVDSnQtaDRVa21oVV9JSmE?oc=5",
+      "title": "Danske Bank cuts price target for BioMar Group to DKK 148 (149), reiterates buy - BN - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T08:33:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Danske Bank revises BioMar Group valuation downward but maintains buy rating",
+      "key_claims": [
+        "Danske Bank lowered BioMar Group price target from DKK 149 to DKK 148",
+        "Danske Bank maintains buy recommendation on BioMar Group"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Danske Bank reduced its price target for BioMar Group by one Danish krone to DKK 148 while reiterating a buy rating on the stock. The adjustment reflects a minor valuation revision despite the analyst maintaining confidence in the company's investment thesis."
+    },
+    {
+      "id": 747909,
+      "story_id": 2775,
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaW5aUHZ1bFB4aDl5OVlNdHhSYmM4SE1MX3FycDRQUHBXcDRsMUptSW5BV3ItVndldHdvRU9CeGwxUk45R0MxQnhwckxkOE5URG5FOGFVS0s3ZnJfNXNUWFNySm9UTHlkbTdFRU4wVTRrMGFyWUxyUWl0bGNSTk13QWVXQWVBRVBOeWJyVFVXZDJlckV4NzZGdjFWaU9UdmFaR0ZVeENMR3FCV3k3eGMxeXNERUxybzlIUnNlY2pRMWpaZmxxRTVxOXdGLUk2dUJxbXBKbjBxNHd2WXJQQVNOX0Z3aXM4bzYwZmxlcFFqVGYyRXhTTEsxRjE2a2dNX1ZfVXRaSFozVGJ4dzgtZ2hCdGVKQQ?oc=5",
+      "title": "BIOMAR: Record Q3 earnings drive higher FY revenue and EBIT guidance despite softer volume expectations - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T06:30:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Record Q3 results lift full-year guidance despite volume headwinds",
+      "key_claims": [
+        "BioMar achieved record Q3 earnings",
+        "Full-year revenue guidance raised",
+        "Full-year EBIT guidance raised",
+        "Volume growth expectations are softer than previously anticipated"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar reported record Q3 earnings results and raised its full-year revenue and EBIT guidance. The upgrade comes despite expectations for softer volume growth in the remainder of the year."
+    },
+    {
+      "id": 747911,
+      "story_id": 2790,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa3I4UHFJQU04ZkE2c1NqLU5tNnE4enhLQzJ4VmsxUUhrSkYtcGQ0WkYwV1BHWHA3eGhpYVM3cXA4NUZfNTlWUERwVWNMTVFLTzh2Sm8zajhfM200TGZYNHN5T1lmMFEzb1ZFNFVCazVRYnVFX2F0N2Y3YUZNR3d5V1YtMFlkNUVUZHRHQnRtYzZOV01HSFB3RmVtdnZvOGp4QzA3T2Y3TWRPdDRodWxxcDVoclgwLVNXVlNSa0NjT3duV0d5RFZ2cEM3QlNPUQ?oc=5",
+      "title": "BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut - Investing.com Canada",
+      "source_name": "Investing.com Canada",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T12:14:18+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports record Q3 earnings and raises guidance despite lower sales volume",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar released Q3 2026 results showing record earnings and an upward revision of full-year guidance, even as the company experienced a reduction in sales volume. The performance suggests improved profitability and operational efficiency offsetting lower unit volumes in the period."
+    },
+    {
+      "id": 748057,
+      "story_id": 2780,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWW9SYlJLNzhUaDZEc1JJanhzTUItT2Q2TF9FYzVoWnFXVnZOMkQtai0tR1FGekh5cmg5X2YzTFNzRFZxMHVVRXFGTUwtUGZZY0tlWjFxTktQYjJYczJBeVQ2bTE1OS1fNHRGbnFmREc4V21QUUNPZno4TTNDVVZTWDBOakJwMVc0cGlET1ZicFpnYWgydVBBY1JITkxNMG1WOUVDSnZsN20tUm1pdFlhS2Z3RUM2UjBod0RRSjZZcFdZa3pVNTRPd2NWc2NnSkVDc3Q1ZHl3NmJ1U3hSOGJyQTBXRlhjTWc?oc=5",
+      "title": "Danske Bank recorta el precio objetivo de Biomar Group a 148 DKK (desde 149) y reitera compra - Bloomberg News - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-11-03T08:33:19+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Danske Bank adjusts price target slightly downward while maintaining buy rating",
+      "key_claims": [
+        "Danske Bank reduced BioMar Group's price objective from 149 DKK to 148 DKK",
+        "Danske Bank reiterated a buy recommendation on BioMar Group"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Danske Bank lowered its price target for BioMar Group to 148 DKK from 149 DKK, a minimal adjustment of 1 DKK. The bank maintained its buy recommendation on the aquaculture feed producer."
+    },
+    {
+      "id": 748146,
+      "story_id": 2764,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKb0t4UWpaeHFoZEpsWllyeF9DSFlsWGNDN09nS2U2S0JMaUlvZmlEeGRBZTZQZGxoOHFOaDJjRFpSQkFySm5PUzZPWE9iWWtUaU10MUpVOWdJWEhiMkV6WEZkc21nQQ?oc=5",
+      "title": "Gráfico de rentabilidades estacionales de Aktieselskabet Schouw & Co. (SCHO.CO) - Yahoo",
+      "source_name": "Yahoo",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-02T22:18:22+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Seasonal return chart for Schouw & Co stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance published a seasonal returns chart for Aktieselskabet Schouw & Co (ticker SCHO.CO), a standard technical analysis tool for investors. The article is a data visualization tool rather than news reporting on the company's operations or performance."
+    },
+    {
+      "id": 748211,
+      "story_id": 2786,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUtVemUyQVpZVnlKN2tBM3h6MFptV0RnODdOVG5yTWhBMUhTUnFCbjRsU2s1R1paVnlSMW0zUEdIa1ZNbTZjSEVkMEVkSXIzc3pTejEyTHBIUExzalhELXliRHhGLVZ0S1Y2YnYxU2xUZkVjOFg4WERDMkIyaG5pSW5Cd2JHZW90ZDlSRF81VHFTOFhMZXlpVVRHOHVnWmRiSjRwOVJ2dHdmOHU3WXZ5NHRtNE90b1ZCdkE?oc=5",
+      "title": "Skretting expands shrimp nutrition portfolio with three new solutions - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T09:30:12+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUtVemUyQVpZVnlKN2tBM3h6MFptV0RnODdOVG5yTWhBMUhTUnFCbjRsU2s1R1paVnlSMW0zUEdIa1ZNbTZjSEVkMEVkSXIzc3pTejEyTHBIUExzalhELXliRHhGLVZ0S1Y2YnYxU2xUZkVjOFg4WERDMkIyaG5pSW5Cd2JHZW90ZDlSRF81VHFTOFhMZXlpVVRHOHVnWmRiSjRwOVJ2dHdmOHU3WXZ5NHRtNE90b1ZCdkE?oc=5\" target=\"_blank\">Skretting expands shrimp nutrition portfolio with three new solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -128014,15 +128397,15 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 11,
+        "BioMar": 21,
         "Cargill": 0,
-        "Skretting": 5
+        "Skretting": 6
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 1997
+        "count": 2007
       },
       {
         "company": "Cargill",
@@ -128030,7 +128413,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1266
+        "count": 1267
       }
     ]
   }
