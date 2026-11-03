@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T17:14:50+00:00",
+  "generated_at": "2026-11-03T21:36:28+00:00",
   "stats": {
-    "mention_count": 3588,
-    "story_count": 2619,
-    "analyzed_count": 2007,
+    "mention_count": 3605,
+    "story_count": 2628,
+    "analyzed_count": 2018,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -268,6 +268,7 @@
     "Scandasia",
     "SeafoodSource",
     "Seafoodnews",
+    "Simply Wall St",
     "Simply Wall Street",
     "Skipsrevyen",
     "Sofascore",
@@ -423,11 +424,110 @@
   ],
   "stories": [
     {
+      "id": 2799,
+      "headline": "BioMar Group (CPSE:BIOMAR) Q3 Earnings Build On Higher Guidance - Simply Wall St",
+      "story_summary": "BioMar Group reported Q3 earnings that supported the company's elevated guidance communicated earlier. The results demonstrate ongoing operational performance aligned with management expectations.",
+      "first_seen": "2026-11-03T20:06:01+00:00",
+      "last_seen": "2026-11-03T20:06:01+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2775,
+      "headline": "BIOMAR: Record Q3 EBIT lifted guidance, despite softer volume expectations and raw-material risks - TradingView",
+      "story_summary": "BioMar reported record Q3 EBIT results and raised full-year guidance, though the company faces softer volume expectations and raw material cost pressures. The strong earnings performance offset concerns about market conditions and input cost volatility going forward.",
+      "first_seen": "2026-11-02T15:10:54+00:00",
+      "last_seen": "2026-11-03T14:41:45+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 5,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2759,
+      "headline": "DNB Carnegie raises its target price for Biomar Group to DKK 160 (155), reiterates Buy - www.marketscreener.com",
+      "story_summary": "DNB Carnegie increased its price target for BioMar Group to DKK 160 from DKK 155 while reiterating a Buy rating. The analyst action reflects positive sentiment toward the aquaculture feed producer's prospects.",
+      "first_seen": "2026-10-29T12:12:26+00:00",
+      "last_seen": "2026-11-03T14:26:17+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2778,
+      "headline": "Skretting distingue cinco proyectos salmonicultores en ACTívate 2026 - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUE43ODh3NDYyNGt2TnJfVXVhbzVlVTZqLTk2YjB4MEVIUHVIVjk1RUlJR1VRQUk1WklHOFdIMWRBRkJxbWM3SGdYLWw5ZkFvVThucTlQUzVDNU5UYnc0T3hkUEEteG5jZ1lrWGh5ei1qYmtpVnVEMzU2blNOOU1pOW5iMnpyVE9DcTV1eUZSSGFoWlpLdWdESUpRSDVkVWg2OEJ4WA?oc=5\" target=\"_blank\">Skretting distingue cinco proyectos salmonicultores en ACTívate 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-11-02T23:09:16+00:00",
+      "last_seen": "2026-11-03T14:07:57+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2798,
+      "headline": "Transcript : BioMar Group A/S, Q3 2026 Earnings Call, Nov 03, 2026 - MarketScreener España",
+      "story_summary": "This is a transcript of BioMar Group A/S's third-quarter 2026 earnings call held on November 3, 2026. The article provides the official record of management remarks and Q&A from the quarterly results presentation to investors and analysts.",
+      "first_seen": "2026-11-03T14:06:45+00:00",
+      "last_seen": "2026-11-03T14:06:45+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2790,
       "headline": "BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut - Investing.com Canada",
       "story_summary": "BioMar released Q3 2026 results showing record earnings and an upward revision of full-year guidance, even as the company experienced a reduction in sales volume. The performance suggests improved profitability and operational efficiency offsetting lower unit volumes in the period.",
       "first_seen": "2026-11-03T12:14:18+00:00",
-      "last_seen": "2026-11-03T12:14:18+00:00",
+      "last_seen": "2026-11-03T14:01:09+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2797,
+      "headline": "Earnings call transcript: BioMar posts strong Q3 2026 beat as stock slips 2.4% By Investing.com - Investing.com India",
+      "story_summary": "BioMar reported stronger-than-expected Q3 2026 financial results, though the market reacted negatively with a 2.4% stock decline. An earnings call transcript documents the company's performance and management commentary for the period.",
+      "first_seen": "2026-11-03T14:01:09+00:00",
+      "last_seen": "2026-11-03T14:01:09+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2796,
+      "headline": "BIOMAR: Q3 EBIT rose 50% YoY as higher guidance outweighed temporary Q4 volume risks - TradingView",
+      "story_summary": "BioMar reported a 50% year-over-year increase in Q3 EBIT and raised full-year guidance, though management flagged temporary volume constraints in Q4. The results reflect strong operational performance that outweighed near-term seasonal and market challenges for the aquaculture feed producer's stock price movement and investor outlook.",
+      "first_seen": "2026-11-03T14:00:28+00:00",
+      "last_seen": "2026-11-03T14:00:28+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -508,20 +608,6 @@
       "company": "BioMar"
     },
     {
-      "id": 2759,
-      "headline": "DNB Carnegie raises its target price for Biomar Group to DKK 160 (155), reiterates Buy - www.marketscreener.com",
-      "story_summary": "DNB Carnegie increased its price target for BioMar Group to DKK 160 from DKK 155 while reiterating a Buy rating. The analyst action reflects positive sentiment toward the aquaculture feed producer's prospects.",
-      "first_seen": "2026-10-29T12:12:26+00:00",
-      "last_seen": "2026-11-03T08:33:19+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
       "id": 2780,
       "headline": "DNB Carnegie eleva el precio objetivo de Biomar Group a 160 DKK (155) y reitera su recomendación de compra - MarketScreener España",
       "story_summary": "DNB Carnegie has elevated its price target for BioMar Group to 160 DKK, up from 155 DKK, while maintaining a buy recommendation on the stock. The analyst action reflects positive sentiment toward the company's financial prospects.",
@@ -550,39 +636,11 @@
       "company": "BioMar"
     },
     {
-      "id": 2775,
-      "headline": "BIOMAR: Record Q3 EBIT lifted guidance, despite softer volume expectations and raw-material risks - TradingView",
-      "story_summary": "BioMar reported record Q3 EBIT results and raised full-year guidance, though the company faces softer volume expectations and raw material cost pressures. The strong earnings performance offset concerns about market conditions and input cost volatility going forward.",
-      "first_seen": "2026-11-02T15:10:54+00:00",
-      "last_seen": "2026-11-03T06:30:00+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 2,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
       "id": 2779,
       "headline": "PHARMAQademy reunirá a expertos para analizar la situación actual del ISA - Mundoacuicola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE1LWEQyMU10a2F6WHI1eHFGRHpJRFRPbU1TRmVsaHdpOHluMzNEckZQbmoxZTZ2d1dhbXNCa2FpVDhaRTZvSXVOMC14V2JLMFJ5Uk9seVpfak5ybkFqWDlKM3N1Tk1lREdJcXBZOG10UjlKdUR5alJjODEwOTI3aU1iV2FYWkVBR3plVnpaNUZFYmdPT1VfM2hiQUNvZDBIVlg2dmtWZTJmaFE?oc=5\" target=\"_blank\">PHARMAQademy reunirá a expertos para analizar la situación actual del ISA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
       "first_seen": "2026-11-02T23:09:58+00:00",
       "last_seen": "2026-11-02T23:09:58+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "Skretting"
-    },
-    {
-      "id": 2778,
-      "headline": "Skretting distingue cinco proyectos salmonicultores en ACTívate 2026 - Mundoacuicola",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUE43ODh3NDYyNGt2TnJfVXVhbzVlVTZqLTk2YjB4MEVIUHVIVjk1RUlJR1VRQUk1WklHOFdIMWRBRkJxbWM3SGdYLWw5ZkFvVThucTlQUzVDNU5UYnc0T3hkUEEteG5jZ1lrWGh5ei1qYmtpVnVEMzU2blNOOU1pOW5iMnpyVE9DcTV1eUZSSGFoWlpLdWdESUpRSDVkVWg2OEJ4WA?oc=5\" target=\"_blank\">Skretting distingue cinco proyectos salmonicultores en ACTívate 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
-      "first_seen": "2026-11-02T23:09:16+00:00",
-      "last_seen": "2026-11-02T23:09:16+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -2120,6 +2178,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2795,
+      "headline": "Salmon Awards reconoce trayectorias, aportes y protagonistas de la salmonicultura chilena - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEhHRkl4QUticUw1YjVRQ19qcERTNVNBQzJWOHpQV3NiYWJGV3BFcTRielZVbzRVZzZGLUhzUmNkZjF4Y2NxY0FUVlozcUVZRkdrNzlDVEFFbWdpY0JpdDNVcVN5Z0o2czRfY3VxRGpMQUMxeUxxVmlUcXlSdjN6cU5SQnI4OUhWSy1URnBuTnhuSjFvOVYxYnlPcEdaem1DWlBCRzkwRy1MRmdRTXZOcHJGQ0R6UHEzV2VaZEdrWQ?oc=5\" target=\"_blank\">Salmon Awards reconoce trayectorias, aportes y protagonistas de la salmonicultura chilena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-09-11T07:00:00+00:00",
+      "last_seen": "2026-09-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2553,
       "headline": "Skretting será parte de AquaNext con foco en los desafíos de la alimentación - aqua.cl",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOclhFQ0dadFQyUXRjWkxkMjVXZnBjdloxb2tTWjA1LVZjSVgxNWtnb3ItQnJ3cWljTnFsU000ZHdmZzYzaTVMZTY2b2dOanp3ZjhRMjRacGl1SkE2b0VlYkkwUXZwcGcyWXRBTUE5dzhfaGRBdGpsbkdmRTduaWFkaDVtekZVc0ZTNURfSXZwQ0dpSFZSSjYyWHFRMmJnQQ?oc=5\" target=\"_blank\">Skretting será parte de AquaNext con foco en los desafíos de la alimentación</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
@@ -3627,6 +3699,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2794,
+      "headline": "¡Agotadas! todas las adhesiones para la Cena del Salmón 2026 - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUczakYxRVRoOENqYklGaHM3T0JyZFpzX3NoX0tZVllNMEIyQ2lVWkNkQVpJaEg5NFFmaWt3YnR1ajVpRDdfWVNnYjdhMi1MN2ZYVHNaakV6WFJjbWtKanRjVkdqNDByeFRvZjl1TWdReWRQbmV6Ql84VWVUTlFPelRXdnF4QktMeWtZOVJrN2dvR1pScndSMWl3am1wci1Ib3l3cHNTenpvbkZoQ1NrX1psWjlpcnlNS3hz?oc=5\" target=\"_blank\">¡Agotadas! todas las adhesiones para la Cena del Salmón 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-08-13T08:18:47+00:00",
+      "last_seen": "2026-08-13T08:18:47+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 2760,
@@ -5885,6 +5971,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2793,
+      "headline": "Mundo Acuícola organizó en Puerto Montt la conmemoración de los 50 años de la salmonicultura chilena - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbmFocmZmX2Z4eDVyYWtEeTJPUXdRbENkU1djRXB4cnlhdElTQ2lMcmlQSTZFd3doZ3NuRnZZTjlfZFdGNWk3WUF2ODlvb2RZSW1LelRXZ1ZYak9DVVlOYkdJNzB3M2JnYUthZzdvbGVPWG85RXVGTDFMTGUyak9IUE5lNW92Z2R4RnZrdG9Ja1dwYVh2aUo1MjJwUFI5NWdxblVQNkpzejlZZ1J1QWJKNjl4Uzdsc3pNOVVHLWVFVnRTRURtbFgxNFREQnBXaDRVRDdtRTNZR2x4bDdBVFpZdVNXcFYybmc?oc=5\" target=\"_blank\">Mundo Acuícola organizó en Puerto Montt la conmemoración de los 50 años de la salmonicultura chilena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-05-29T07:00:00+00:00",
+      "last_seen": "2026-05-29T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1578,
@@ -8459,6 +8559,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2792,
+      "headline": "Sernapesca prepara denuncia por muerte de ballena en Chiloé - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWVnaGZhc2g3dE4zMml5bVItd0FvN0FwZVpXc0s2NDA0dkpRaVAtN1JMbnBFaF9Ob0QzdHh0Qk9RMTI0RzVCTEp2VTByWTdUNE1EQ2JlcVdQZm5GUTBGTUQ0YnJVQUlpQTQ5bHltWXYtUEU3NHk4amY2OUN4RWM4anZ1d1JRazlZR3NaQzhxZXl3VV95S1NVNw?oc=5\" target=\"_blank\">Sernapesca prepara denuncia por muerte de ballena en Chiloé</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-04-06T07:00:00+00:00",
+      "last_seen": "2026-04-06T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1525,
       "headline": "– Kjører med forsterket stab - gat.no",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE13V05fVkEtakFJZ3JpWTFSeC1zcFBwQXJaQnM0Vnd6T0dISUo0TlJVX2V3aThQQnZSUGxBS3hfaEJQTUxVdTVyYktKR0lOQU1sMFAyQkxIcUVCTWpGWjNwenc0MDdHbENBZ3ZhVG1xSnJHWGs?oc=5\" target=\"_blank\">– Kjører med forsterket stab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
@@ -9580,15 +9694,15 @@
     },
     {
       "id": 313,
-      "headline": "BioMar lanza un nuevo alimento funcional para apoyar a los peces durante los desafíos bacterianos - aqua.cl",
-      "story_summary": "BioMar has introduced a new functional feed product designed to help fish overcome bacterial health challenges. The product represents the company's effort to address disease management in aquaculture operations through specialized nutrition solutions.",
-      "first_seen": "2026-02-17T08:00:00+00:00",
+      "headline": "BioMar lanza un nuevo alimento funcional para apoyar a la lubina durante desafíos bacterianos - misPeces",
+      "story_summary": "BioMar has introduced a new functional feed product designed to support sea bass during periods of bacterial stress. The development represents the company's continued focus on health-supporting aquaculture nutrition solutions.",
+      "first_seen": "2026-02-16T06:56:16+00:00",
       "last_seen": "2026-02-17T08:00:00+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -10543,6 +10657,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2791,
+      "headline": "SAG reconoce protección de vacuna LiVac® SRS frente a ambos serotipos del SRS - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVRPUHloakZoRUY1dFJReFhWS3lzVTFCT21ZazZOZVFlUElvYjVYaG1zeXZZalhCTEM2cGNvNXJvVUxMRzQ2RUNQMWtORkF6WTR1U3lBeHBxRktoMFhZZmcwckdlUlBhSXkwYTl6Tm5PWlhQRGJDT2hsbDRZX00zbDBRMEQ4bVpWUDY4X0cxM2xZclJYcEt1TXBBeHlncmRTTkd6RE5UQ0JmaDA0S0RJ?oc=5\" target=\"_blank\">SAG reconoce protección de vacuna LiVac® SRS frente a ambos serotipos del SRS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-01-05T08:00:00+00:00",
+      "last_seen": "2026-01-05T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 283,
@@ -124726,6 +124854,439 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUtVemUyQVpZVnlKN2tBM3h6MFptV0RnODdOVG5yTWhBMUhTUnFCbjRsU2s1R1paVnlSMW0zUEdIa1ZNbTZjSEVkMEVkSXIzc3pTejEyTHBIUExzalhELXliRHhGLVZ0S1Y2YnYxU2xUZkVjOFg4WERDMkIyaG5pSW5Cd2JHZW90ZDlSRF81VHFTOFhMZXlpVVRHOHVnWmRiSjRwOVJ2dHdmOHU3WXZ5NHRtNE90b1ZCdkE?oc=5\" target=\"_blank\">Skretting expands shrimp nutrition portfolio with three new solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 748688,
+      "story_id": 2775,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYjE3RUJxUUlNWlkzNTJHQ1Y0TEY4UUpUZXJ3SlcwRTJmUFU1VTNwc1Z4WHN5STBXWkZsbzhUbEl5ZXRNakpzSzlWX1BSTjFnSmlmTVdIWE82dGJXOEdQQ3paeGx0RWJrZ0xzcGpzWEt5QnJmOV9MT1BZcTFyRlhyRGF6LTZQS0xaRmFKVmRLOUhodXdMVDE2MTFxa1ltek1pMW5wMUZna0c4MGFzTm51OEs0ZEVaTkc2dmZ0ak9uLW1XMHp5VWptSThyYzFsbWw3eEtfekFRZTlTeklYLWJMSUxZSGhPd1d3eTZYQUhZTHBOWjEySFJ3?oc=5",
+      "title": "BIOMAR: Record volumes and Salmon-led earnings lift 2026 revenue and EBIT guidance - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T14:41:45+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Record volumes and salmon-led growth drive BioMar 2026 guidance upgrade",
+      "key_claims": [
+        "BioMar achieved record volumes in 2026",
+        "Salmon segment led earnings performance",
+        "Company raised revenue guidance for 2026",
+        "Company raised EBIT guidance for 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar reported record sales volumes driven by strong salmon segment performance, prompting the company to raise both revenue and EBIT guidance for 2026. The upgrade reflects positive operational momentum across the aquaculture feed producer's portfolio."
+    },
+    {
+      "id": 748690,
+      "story_id": 2759,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRzhyVFR5YjRRdmFnSGFPUlVid19wOEFNaVpPWUVNQ1o4anprNTVBVHdhTGFZUWJuX2o5WXJDS1laTjR5NEVtQnVMREdpU09SNlZZSVJaTFhkSVhoOGVuMGhtYV9neG9sYlhXUjFfMTg5aWN1LVdnVThmUVZpaUdFcWlXcHlmeWxDZ205aVltVGNIVTVCVGZWYTFybkFWZ2dzUjFTTGhiTDVpSTJlOVVXNUw2bXFIQkl5MGtHWVdMbTcyc0dpcTBxdnNSQWpnSW5nQ0pyTllfMTFOQTZZUEdZSQ?oc=5",
+      "title": "Pareto Securities raises target price for Biomar Group to 150 Danish kroner (140), reiterates buy - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T14:26:17+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Analyst upgrades BioMar Group target price with buy recommendation.",
+      "key_claims": [
+        "Pareto Securities raised target price for BioMar Group to 150 Danish kroner",
+        "Previous target price was 140 Danish kroner",
+        "Pareto Securities reiterates buy recommendation on the stock"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Pareto Securities increased its price target for BioMar Group to 150 Danish kroner and maintained a buy recommendation on the stock. The analyst upgraded the target price from the previous level of 140 Danish kroner."
+    },
+    {
+      "id": 748694,
+      "story_id": 2796,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdzZjYjJlU08ycWdCSXY5Rng3Y0R0TEc2VlNVMWhUV1FRZURsZHJRQVgwdUkzUmJiang3TXlnWXVlNVpIYTlDVXJ4N0RMSmxUWUhndEgwaXJ4cVVCQzR0LXljazhCVXlDSFFwLWNXVHk2alVDN0FSN1lWWnRNZFpBa2JHeUNPZnBFWlN6c2dSbHdyX01oQ0E1el9HekdFVk5udTk0b1FuNWhYbzBpMnJKQVU4cVVfQS1jYnZmdTdLZGRWNlcyMmhVV25hVlpCd3RDMS03UjZWaVJhNWd2VmtWWkZfUmRSRXBieXhTTjktQ0tZbjZxbTVzS1VWUy11dw?oc=5",
+      "title": "BIOMAR: Q3 EBIT rose 50% YoY as higher guidance outweighed temporary Q4 volume risks - TradingView",
+      "source_name": "TradingView",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T14:00:28+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Q3 earnings beat with EBIT growth and raised guidance despite Q4 headwinds",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar reported a 50% year-over-year increase in Q3 EBIT and raised full-year guidance, though management flagged temporary volume constraints in Q4. The results reflect strong operational performance that outweighed near-term seasonal and market challenges for the aquaculture feed producer's stock price movement and investor outlook."
+    },
+    {
+      "id": 748696,
+      "story_id": 2799,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVjE5b0o1MHg3dnpNUmt3UnNQVGoxbktaS0dPV3pLRnF2TTJqUHk5ZmhCYUliWWtyRHBQR0YtRk16WGpXNFZEQkt6Y1RVSmRQYjU1VXlVSVJQZ3l1ZkRWZ0ZIakVyb2lGSU9vR096WnFJYkRBRWFIeXpDc3ZLVWNkZ3RaNU04dHd1Vzh4cC1QQVJ1aE1halJLQjh5S0tWWnR5M2QxUDdlR3RCRFpqSFNXWERPY1FXbzF0YXphZF9lLU00enpxZDl1czJVa281Q0tPcWg2a2FONGNJenp4Vm4zSWVCWXnSAeoBQVVfeXFMUENRLUhYUVhUbGE4UzZsMm1OdE9zLXdGbDV4SUdnNDVmMnVHaTlMXzc1Qk5EcHNtZWtCaTliNjN6bkF0S3dtTlFJVmZZcDM2NWk2QTRlVHYxaUVmNmtxUjRCc2tWSGxSa2tscXVFbjhDT2pQeVE5RXhpb0RNVmhZTVFYUWVaSnI1WDRfUEJaY2JiU2pwLVR5TUpyUVR2bXhlVlJPNThfQ01HN2tSNGxEaXRuZVAwUG9LYVFvblNhZ21nekdxd2xLWjVhWmoxVWtrNzhfR2lYeVNINlczMkl0czNaRGdIUUo4Y2xn?oc=5",
+      "title": "BioMar Group (CPSE:BIOMAR) Q3 Earnings Build On Higher Guidance - Simply Wall St",
+      "source_name": "Simply Wall St",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T20:06:01+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "Q3 earnings results support elevated guidance",
+      "key_claims": [
+        "BioMar delivered Q3 earnings results",
+        "Results built upon previously raised guidance"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group reported Q3 earnings that supported the company's elevated guidance communicated earlier. The results demonstrate ongoing operational performance aligned with management expectations."
+    },
+    {
+      "id": 748698,
+      "story_id": 2797,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZEQ5OGlJRTlzYTNfeUJqb1dyWE1zbjlVcjF3Ml95ZWg3RzBkTUxSRkJvSng0V2RYUVRtaWk1NlVseXRLWGZlTldnSDhQdmt6a3R4VnBOenljMjVZV3Z4WXhwMkFVUlBJaVdjWldYZzgxY1BLd1FJbU91RjJITC1PcXUwLU9RQVM0dmVIemV6TzhBTVhrVzcxcEVVNG55ZklMbkZQYTMzQVVLaWRfcl9oUjNVZnNKZUh4eTJGUlVtdXdRNEVOcVlyRFA1bkY3Y25pMkE?oc=5",
+      "title": "Earnings call transcript: BioMar posts strong Q3 2026 beat as stock slips 2.4% By Investing.com - Investing.com India",
+      "source_name": "Investing.com India",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T14:01:09+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar delivers strong Q3 earnings beat despite stock price decline",
+      "key_claims": [
+        "BioMar posted a strong Q3 2026 beat",
+        "Stock price slipped 2.4% following the earnings announcement"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "BioMar reported stronger-than-expected Q3 2026 financial results, though the market reacted negatively with a 2.4% stock decline. An earnings call transcript documents the company's performance and management commentary for the period."
+    },
+    {
+      "id": 748700,
+      "story_id": 2790,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVpZODhNY21LUkI3VnRZaDF0Y09FY1JYbDNrLTdwNlJjMnR6UzAtbVB0cFZzMWoxaS1TLWQ3RVNjWlBrMlBoRGFla3Vuc3lrWlZsRlBRRmowMEFLdWRzOTVxYzF3cHhsakFEUXdNOUpkOER4R0U1ZHpYY2FpRkRWbUtJb1JhaUx6LVI2S1NEcVZsQ0dCQk9jZVFFemc5TjI1MTNYT1FHTTlydnRxM2xyTzdyZGFobXFmTnFv?oc=5",
+      "title": "BioMar Q3 2026 slides: 50% EBIT surge masks volume headwinds By Investing.com - Investing.com India",
+      "source_name": "Investing.com India",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T14:01:09+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Strong profitability growth despite sales volume challenges",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar reported a 50% surge in EBIT for Q3 2026, reflecting improved margins and operational performance. However, the company faced headwinds in sales volume, indicating market or competitive pressures offsetting profit gains through efficiency and pricing measures. The Q3 results slide presentation highlights this mixed operational picture of margin strength masking underlying demand softness in the aquaculture feed business. This neutral framing reflects the bifurcated nature of the results—strong bottom-line performance paired with top-line volume pressures that suggest near-term growth challenges despite profitability recovery."
+    },
+    {
+      "id": 748703,
+      "story_id": 2790,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVUduWWFNUkdWcGVMLXpUMTh4MDY4ZE5naUZOTkRtaTBrMFNyMVJTQkZlcy1yc2l6dTlZbTZfTXhnMUVtX0tFNl8zTHJkeTZ4NjlMRmFQb0hGMW5zbVlxLUVMOE56Z3h0aGpJOHZlRDBoV0JZRXlsN3p2eE5rYTF2UUg0ck1iN045MW5CTEZjeEJYZjFJMDUwcWpfUEZhcGk0YllPbFkyZWJreDRqb3ZTWjZrMjJ2VW11Y1F3VjNqSThuazZSNEtRZnZValk5QQ?oc=5",
+      "title": "BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut By Investing.com - Investing.com India",
+      "source_name": "Investing.com India",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T12:16:08+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Record Q3 earnings and raised guidance despite volume headwinds",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar reported record earnings in Q3 2026 and raised full-year guidance despite a reduction in sales volume. The strong financial performance suggests improved pricing or margin management offsetting lower unit volumes in the aquaculture feed market."
+    },
+    {
+      "id": 748847,
+      "story_id": 2775,
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOV1FJOU5qY2FQbVp1eW10MEV5U1dZS0Utbnd0dVUtY2lWQ2ZyN0EyYXZIbHhOZUZERHNWbzlYampDMmJhbk1zNjFWeGZrX25vZTFPSWdiWHZleTdBdFYtM2hqV19kVlp3U0JPZENCcGQ5cnFwemNVTjJTNGhSNUF5dGJOUEJ4LXNZMU5MeDh2S19WSVc2Q0xFYUtDTVhSNHZUdmluUmJscW5DY1pWY25QSmZiaG96Skt0dnpUSVpDVjd2OGJQSVRQUWNNWVNORmo5VjhSc1JIQTJvS0k2R0RJczduN0pvMXBwT1M1NkprcDBfQV9GaXpiM01PUFkyRGh6MktybU5hNmZiczdoZ2ZrSGJR?oc=5",
+      "title": "BIOMAR: Record Q3 earnings drive higher FY revenue and EBIT guidance despite softer volume expectations - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T06:30:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Strong Q3 earnings lift full-year guidance despite volume headwinds",
+      "key_claims": [
+        "BioMar posted record Q3 earnings",
+        "The company raised full-year revenue guidance",
+        "The company raised full-year EBIT guidance",
+        "Volume expectations for the remainder of FY are softer than previously anticipated"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar delivered record third-quarter earnings results, prompting management to raise full-year revenue and EBIT guidance. However, the company signaled softer volume expectations for the remainder of the fiscal year despite the improved financial outlook."
+    },
+    {
+      "id": 748848,
+      "story_id": 2798,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLWFhSVBFQkx6NkJfX2tfZWo5djVCNmR6QVBnSzdXd2JPUW95M0NhRDFNa094cVBZbFBjWU9QUVpLNE5RdkVBX1hYYVVPNWl2WUVyT2tkaUktRV92ZVhReGg4RnBOSkw3aGQ5SC1Od0oxNUVEYURnZ3dSbXUzMVVXVEExV2hLVGh4RTU5MU95SjQ2Z2ZPTjdMTXg1VWJuQzdjSlA1MjBxdUhnN2NwbENPS2szZDRZMjRnMGxTRHN5Q1dCWWZGUldpZlUxUWRUZ3pMeVhEWmQyN243WWZaNWpnUm9KVFRKQ01tZ1E?oc=5",
+      "title": "Transcript : BioMar Group A/S, Q3 2026 Earnings Call, Nov 03, 2026 - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-11-03T14:06:45+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar Group Q3 2026 earnings call transcript",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a transcript of BioMar Group A/S's third-quarter 2026 earnings call held on November 3, 2026. The article provides the official record of management remarks and Q&A from the quarterly results presentation to investors and analysts."
+    },
+    {
+      "id": 748852,
+      "story_id": 2775,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQ1BITEhfN3NXSzZxNEpBR05RRlhzTmE5LURwbEhjbkhISnkxeEtFSDdkeTFudmlnNG1VbGVLaENLS2dqdVJ3b0tPMFQzMzJMbWRJcnpoM2UxZWtkd1U2NjkyUlBLNE5EOWVfbk5KUGVybVhZMmdzYzd0Znp5SE5kcWJQQ3g2Y2NvWGxtTDdWbzE3VFRMaXdnNC1pN0xvTXUyNEkxb2pwNkk3RzQtaFZfY1N6ZjdCRVFTYTRBbkFCS0tvdWNBS1VkT3FkZTRaMjJtLVlzMTk5X0tXUUlKRmZPUVdTVmRpMndUSTg3NDhxMEg1c2tyUkFyOGEtZ2dVOXhVMVlwQnVpaHY?oc=5",
+      "title": "BIOMAR: Record Q3 EBIT lifted guidance, despite softer volume expectations and raw-material risks - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-02T15:10:54+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Strong Q3 EBIT performance drives guidance lift despite headwinds",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar reported record Q3 EBIT results that prompted the company to raise its full-year guidance, though the outlook acknowledges softer volume expectations and raw material cost pressures. The positive earnings momentum outweighed near-term operational challenges in driving the upgraded outlook."
+    },
+    {
+      "id": 748894,
+      "story_id": 313,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcXhlN0x5QUdrU1N5Z19UUVlKZ0tOQWNVcVRLME5NNWxybjlqbm8xc0tZVURhXzNFMXhLRkNOQmgyS1Nfa0RYNldUN1o5dzNtZUxRbHBISnh6SkxkbFJpbGY3a2lydU03MVFnMkRiRGVNdVdNUjRjRGMtU1RISWdERzh3anAtQWw3YTNSMjNZS0NyVHNZZmlkcXdnZFFhQXp2WmlrU2REUTRqZjBTZ1NlYzlzVU5SUWVmOVVCNzVKRUNsX1I4WFVr?oc=5",
+      "title": "BioMar lanza un nuevo alimento funcional para apoyar a la lubina durante desafíos bacterianos - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-02-16T06:56:16+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.8,
+      "prominence": "primary",
+      "angle": "BioMar launches functional feed to support sea bass during bacterial challenges",
+      "key_claims": [
+        "BioMar has launched a new functional feed product",
+        "The feed is designed to support sea bass (lubina)",
+        "The feed is formulated to help sea bass cope with bacterial challenges"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has introduced a new functional feed product designed to support sea bass during periods of bacterial stress. The development represents the company's continued focus on health-supporting aquaculture nutrition solutions."
+    },
+    {
+      "id": 749239,
+      "story_id": 2778,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjM0ZTkxc25pck9FNTNJSFo0cjJ5SlBSR1lPejByX2VFaEZac1pTUjdnbC02VGk0QVMzTzJmXzRSR1YtQkpiNEJvWDFVQjF1UHExTTlVVFFNZEFTOEtabzN5WF82a3pxUjNIY2M3ck1YOWdibGpvckFKTXJDSnd2VnRzN2lHQXJJUVdjYVNRQXlMYTNFRThCZVBobDhOc281RWVnbEJUdzZqUQ?oc=5",
+      "title": "Skretting reconoce cinco proyectos en la salmonicultura - Aqua.cl",
+      "source_name": "Aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T14:07:57+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjM0ZTkxc25pck9FNTNJSFo0cjJ5SlBSR1lPejByX2VFaEZac1pTUjdnbC02VGk0QVMzTzJmXzRSR1YtQkpiNEJvWDFVQjF1UHExTTlVVFFNZEFTOEtabzN5WF82a3pxUjNIY2M3ck1YOWdibGpvckFKTXJDSnd2VnRzN2lHQXJJUVdjYVNRQXlMYTNFRThCZVBobDhOc281RWVnbEJUdzZqUQ?oc=5\" target=\"_blank\">Skretting reconoce cinco proyectos en la salmonicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aqua.cl</font>"
+    },
+    {
+      "id": 749265,
+      "story_id": 2795,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEhHRkl4QUticUw1YjVRQ19qcERTNVNBQzJWOHpQV3NiYWJGV3BFcTRielZVbzRVZzZGLUhzUmNkZjF4Y2NxY0FUVlozcUVZRkdrNzlDVEFFbWdpY0JpdDNVcVN5Z0o2czRfY3VxRGpMQUMxeUxxVmlUcXlSdjN6cU5SQnI4OUhWSy1URnBuTnhuSjFvOVYxYnlPcEdaem1DWlBCRzkwRy1MRmdRTXZOcHJGQ0R6UHEzV2VaZEdrWQ?oc=5",
+      "title": "Salmon Awards reconoce trayectorias, aportes y protagonistas de la salmonicultura chilena - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-09-11T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEhHRkl4QUticUw1YjVRQ19qcERTNVNBQzJWOHpQV3NiYWJGV3BFcTRielZVbzRVZzZGLUhzUmNkZjF4Y2NxY0FUVlozcUVZRkdrNzlDVEFFbWdpY0JpdDNVcVN5Z0o2czRfY3VxRGpMQUMxeUxxVmlUcXlSdjN6cU5SQnI4OUhWSy1URnBuTnhuSjFvOVYxYnlPcEdaem1DWlBCRzkwRy1MRmdRTXZOcHJGQ0R6UHEzV2VaZEdrWQ?oc=5\" target=\"_blank\">Salmon Awards reconoce trayectorias, aportes y protagonistas de la salmonicultura chilena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 749267,
+      "story_id": 2794,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUczakYxRVRoOENqYklGaHM3T0JyZFpzX3NoX0tZVllNMEIyQ2lVWkNkQVpJaEg5NFFmaWt3YnR1ajVpRDdfWVNnYjdhMi1MN2ZYVHNaakV6WFJjbWtKanRjVkdqNDByeFRvZjl1TWdReWRQbmV6Ql84VWVUTlFPelRXdnF4QktMeWtZOVJrN2dvR1pScndSMWl3am1wci1Ib3l3cHNTenpvbkZoQ1NrX1psWjlpcnlNS3hz?oc=5",
+      "title": "¡Agotadas! todas las adhesiones para la Cena del Salmón 2026 - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-08-13T08:18:47+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQUczakYxRVRoOENqYklGaHM3T0JyZFpzX3NoX0tZVllNMEIyQ2lVWkNkQVpJaEg5NFFmaWt3YnR1ajVpRDdfWVNnYjdhMi1MN2ZYVHNaakV6WFJjbWtKanRjVkdqNDByeFRvZjl1TWdReWRQbmV6Ql84VWVUTlFPelRXdnF4QktMeWtZOVJrN2dvR1pScndSMWl3am1wci1Ib3l3cHNTenpvbkZoQ1NrX1psWjlpcnlNS3hz?oc=5\" target=\"_blank\">¡Agotadas! todas las adhesiones para la Cena del Salmón 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 749269,
+      "story_id": 2792,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWVnaGZhc2g3dE4zMml5bVItd0FvN0FwZVpXc0s2NDA0dkpRaVAtN1JMbnBFaF9Ob0QzdHh0Qk9RMTI0RzVCTEp2VTByWTdUNE1EQ2JlcVdQZm5GUTBGTUQ0YnJVQUlpQTQ5bHltWXYtUEU3NHk4amY2OUN4RWM4anZ1d1JRazlZR3NaQzhxZXl3VV95S1NVNw?oc=5",
+      "title": "Sernapesca prepara denuncia por muerte de ballena en Chiloé - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-04-06T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWVnaGZhc2g3dE4zMml5bVItd0FvN0FwZVpXc0s2NDA0dkpRaVAtN1JMbnBFaF9Ob0QzdHh0Qk9RMTI0RzVCTEp2VTByWTdUNE1EQ2JlcVdQZm5GUTBGTUQ0YnJVQUlpQTQ5bHltWXYtUEU3NHk4amY2OUN4RWM4anZ1d1JRazlZR3NaQzhxZXl3VV95S1NVNw?oc=5\" target=\"_blank\">Sernapesca prepara denuncia por muerte de ballena en Chiloé</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 749270,
+      "story_id": 2793,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbmFocmZmX2Z4eDVyYWtEeTJPUXdRbENkU1djRXB4cnlhdElTQ2lMcmlQSTZFd3doZ3NuRnZZTjlfZFdGNWk3WUF2ODlvb2RZSW1LelRXZ1ZYak9DVVlOYkdJNzB3M2JnYUthZzdvbGVPWG85RXVGTDFMTGUyak9IUE5lNW92Z2R4RnZrdG9Ja1dwYVh2aUo1MjJwUFI5NWdxblVQNkpzejlZZ1J1QWJKNjl4Uzdsc3pNOVVHLWVFVnRTRURtbFgxNFREQnBXaDRVRDdtRTNZR2x4bDdBVFpZdVNXcFYybmc?oc=5",
+      "title": "Mundo Acuícola organizó en Puerto Montt la conmemoración de los 50 años de la salmonicultura chilena - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-05-29T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbmFocmZmX2Z4eDVyYWtEeTJPUXdRbENkU1djRXB4cnlhdElTQ2lMcmlQSTZFd3doZ3NuRnZZTjlfZFdGNWk3WUF2ODlvb2RZSW1LelRXZ1ZYak9DVVlOYkdJNzB3M2JnYUthZzdvbGVPWG85RXVGTDFMTGUyak9IUE5lNW92Z2R4RnZrdG9Ja1dwYVh2aUo1MjJwUFI5NWdxblVQNkpzejlZZ1J1QWJKNjl4Uzdsc3pNOVVHLWVFVnRTRURtbFgxNFREQnBXaDRVRDdtRTNZR2x4bDdBVFpZdVNXcFYybmc?oc=5\" target=\"_blank\">Mundo Acuícola organizó en Puerto Montt la conmemoración de los 50 años de la salmonicultura chilena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 749273,
+      "story_id": 2791,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVRPUHloakZoRUY1dFJReFhWS3lzVTFCT21ZazZOZVFlUElvYjVYaG1zeXZZalhCTEM2cGNvNXJvVUxMRzQ2RUNQMWtORkF6WTR1U3lBeHBxRktoMFhZZmcwckdlUlBhSXkwYTl6Tm5PWlhQRGJDT2hsbDRZX00zbDBRMEQ4bVpWUDY4X0cxM2xZclJYcEt1TXBBeHlncmRTTkd6RE5UQ0JmaDA0S0RJ?oc=5",
+      "title": "SAG reconoce protección de vacuna LiVac® SRS frente a ambos serotipos del SRS - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-01-05T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVRPUHloakZoRUY1dFJReFhWS3lzVTFCT21ZazZOZVFlUElvYjVYaG1zeXZZalhCTEM2cGNvNXJvVUxMRzQ2RUNQMWtORkF6WTR1U3lBeHBxRktoMFhZZmcwckdlUlBhSXkwYTl6Tm5PWlhQRGJDT2hsbDRZX00zbDBRMEQ4bVpWUDY4X0cxM2xZclJYcEt1TXBBeHlncmRTTkd6RE5UQ0JmaDA0S0RJ?oc=5\" target=\"_blank\">SAG reconoce protección de vacuna LiVac® SRS frente a ambos serotipos del SRS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
     }
   ],
   "share_of_voice": {
@@ -128141,7 +128702,7 @@
         "week": "2026-W02",
         "BioMar": 2,
         "Cargill": 3,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2026-W03",
@@ -128175,7 +128736,7 @@
       },
       {
         "week": "2026-W08",
-        "BioMar": 10,
+        "BioMar": 11,
         "Cargill": 1,
         "Skretting": 12
       },
@@ -128219,7 +128780,7 @@
         "week": "2026-W15",
         "BioMar": 6,
         "Cargill": 1,
-        "Skretting": 12
+        "Skretting": 13
       },
       {
         "week": "2026-W16",
@@ -128261,7 +128822,7 @@
         "week": "2026-W22",
         "BioMar": 50,
         "Cargill": 0,
-        "Skretting": 19
+        "Skretting": 20
       },
       {
         "week": "2026-W23",
@@ -128327,7 +128888,7 @@
         "week": "2026-W33",
         "BioMar": 88,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       },
       {
         "week": "2026-W34",
@@ -128351,7 +128912,7 @@
         "week": "2026-W37",
         "BioMar": 17,
         "Cargill": 0,
-        "Skretting": 6
+        "Skretting": 7
       },
       {
         "week": "2026-W38",
@@ -128397,15 +128958,15 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 21,
+        "BioMar": 31,
         "Cargill": 0,
-        "Skretting": 6
+        "Skretting": 7
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2007
+        "count": 2018
       },
       {
         "company": "Cargill",
@@ -128413,7 +128974,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1267
+        "count": 1273
       }
     ]
   }
