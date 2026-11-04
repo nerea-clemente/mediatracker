@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T21:36:28+00:00",
+  "generated_at": "2026-11-04T01:51:38+00:00",
   "stats": {
-    "mention_count": 3605,
-    "story_count": 2628,
-    "analyzed_count": 2018,
+    "mention_count": 3612,
+    "story_count": 2634,
+    "analyzed_count": 2020,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -432,6 +432,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2805,
+      "headline": "BioMar Group (CPSE:BIOMAR) Stock Ignores Q3 Earnings Beat and EBIT Upgrade - Yahoo Finance",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPc19NSXVpQWhHbVlGTEdXT1FoRm1feHRsOGprWWNLOEFnaGQ0MEpJcEcwM1lBcW44VTlrVGVvb1JEMEFBWFgtU29uTlB4MHNHRFZrLXE4ajFZNjF3REI5V1pNclRlNDRlRzItbnpoSURUYmpVcHBXcllNQkZNN21adFBPeXhpeFhSblhsa0dveGpkSVh4cmN3QVdoRQ?oc=5\" target=\"_blank\">BioMar Group (CPSE:BIOMAR) Stock Ignores Q3 Earnings Beat and EBIT Upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "first_seen": "2026-11-03T18:08:28+00:00",
+      "last_seen": "2026-11-03T18:08:28+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -870,7 +884,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -4151,6 +4165,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2804,
+      "headline": "Cena del Salmón 2026: cuando la industria se reúne, las oportunidades también aparecen - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVdOLVhFM212UWQ0QS1zTENwcDNoUHVVd2xDai1WVThUVHIzaGtIbzRCd2xPRjhpcVpkSXdVZkN1LUJTc0pXanZWSGZSN2hhUlAtcTdjWTBNNlE5dU1TVVQ4ZGlGWWtvbzNzODZiQ0d0Rm5jNjZqRVprSW9aY3ZyR0IzZmRMZFl2WVBKak1VNzBDaURZTHduMGdhTlMtR21hb051V1lMV2VrUF8wUEFIY1laYW1mOS15TUE?oc=5\" target=\"_blank\">Cena del Salmón 2026: cuando la industria se reúne, las oportunidades también aparecen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-07-26T07:00:00+00:00",
+      "last_seen": "2026-07-26T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2062,
       "headline": "Desglose de los ingresos de Schouw & Co, LS:882803 - TradingView",
       "story_summary": "TradingView publishes a financial breakdown of Schouw & Co's revenue streams. The article appears to be a standard financial analysis piece focused on the parent company's earnings composition.",
@@ -6968,6 +6996,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2803,
+      "headline": "[50 años de salmonicultura]: Grupo Maqsur reunió a prensa especializada en Puerto Varas y puso en valor su cercanía con el desarrollo salmonero - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNRkZ4dnRNUW1DR0ZkeXg4Z2JaLXdfejg4dWI3M2M4ZVJiMXp6bTVzUnBaMTZxaE9ZRWhNT1BPVWJtMUwzSWJPdDFZMzFUcURmQ19tWVgxMXVWYTlmWVdTZVpTM2YtUmpZaXIyOHF4ZVE3T0FmUXJMdHlrOThIUm8zWU56YWxLRTlNTC1GOHp3V0NMeVYxREdDMUVTRmZMY3hrU01BOGdzZHplYlZ0T25ORnEzaXhUY2NjM1ZrV3pNUVhPZkxxZ2piMXREdmFMYzVhVFRuZk5WTlNqM0ZjWVFva2NIT3RNZFlkR1RqNWNPeWljaUZHZ3Y1cElOa2xZN0R0eFd4VQ?oc=5\" target=\"_blank\">[50 años de salmonicultura]: Grupo Maqsur reunió a prensa especializada en Puerto Varas y puso en valor su cercanía con el desarrollo salmonero</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-05-15T07:00:00+00:00",
+      "last_seen": "2026-05-15T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1410,
       "headline": "Sebastian Skretting Sandtorv - Transfermarkt",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMGtvbDFRbjRGQVdoTG9UNVo2dkZybnRrdmVsdlB1dFV1NDJsczZBb0FaRXlrMWNwUElPSFhCMjdoNVc3cG9CLUtVdzBBbHR1ZDNrWU9YME94UlhZYXgyVUFnNHowS3l5R0VPclkzUjRoX1VYcTg5MGJ5b1hQbldLNnBYbDBTbU9XbDYw?oc=5\" target=\"_blank\">Sebastian Skretting Sandtorv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transfermarkt</font>",
@@ -7983,6 +8025,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2802,
+      "headline": "Fallece María Cristina González Araneda, esposa de Alfredo Valenzuela, pionero de la salmonicultura chilena - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmZoUVlHOUtteVZwbEpYdFU2eFYyd01KSkRXQTJNNjlPQnhyTkhoUnljRjdFZlp5TDJoNEEtVFVEQjVEZHozdF96aFBpQkkzN3lMVndQLXlNNm15SkZfZ3NhdGJWVURSV09JVUpOeVFiMzk1ZWlDUDNUTFRFZmY1cVFGM0UyMUJPWTkyRERueDVNTVhCSG9TOFpoaUx5VV9XdFdPYWM2QXpuQUpobjFhWTJieFlJMEd2eDBkRTNVTTByMVI4TmhoTmRmTUpkOXpyZ0swVTRn?oc=5\" target=\"_blank\">Fallece María Cristina González Araneda, esposa de Alfredo Valenzuela, pionero de la salmonicultura chilena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
+      "first_seen": "2026-04-28T07:00:00+00:00",
+      "last_seen": "2026-04-28T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 825,
@@ -10550,6 +10606,20 @@
       "id": 971,
       "headline": "Aquafeed Outlook 2026: Skretting’s view on risk, resilience and opportunity - Aquafeed.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVI4bllpNHJueDgtN25nd2o5TGN6UmNWSThDYmtKS2hGSDVieEl2NVp0cG84MHpiSDZWb2RWSE5MMEN5bjNuaXUwRk55ajBzeUwzQVY2T2JlMU1XVDdrRkxCY19mTjc5WWpIQWxSOHZNTGQ4Sjd4RWl0bkNBSGJOTVhnSzFqQmFsU25QUktEaldVTE5za3FCSUFZTElPelBZelRmX0dycHNHM0puM3Z2MFBZSU8zMXBXV3d6X05R?oc=5\" target=\"_blank\">Aquafeed Outlook 2026: Skretting’s view on risk, resilience and opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2026-01-14T08:00:00+00:00",
+      "last_seen": "2026-01-14T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2801,
+      "headline": "Marcela Delgado se suma a la Northwest Aquaculture Alliance - Mundoacuicola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1FUcHRFeDhSWnZaYkJSVldaR1ZjOHk4Q0kwSkZXV29GMGw0UmNTY3NiX1U4NmhXTWVfMVR2SGpOWDZUd1phNjVGN0FFU0poSGFFeHZ4R1ZFYXRXSGpKZFE0Q3RvaFcwMEZHcURGeU9JX0ZpUDNoQzdKTTVMeEVUN1l6NDVEMVV3UkJtdFRnN3VDd0F2OUJrUg?oc=5\" target=\"_blank\">Marcela Delgado se suma a la Northwest Aquaculture Alliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
       "first_seen": "2026-01-14T08:00:00+00:00",
       "last_seen": "2026-01-14T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -22203,6 +22273,21 @@
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2800,
+      "headline": "Solid start to 2023 for BioMar - Aquafeed.com",
+      "story_summary": "BioMar reported positive financial performance in the first quarter of 2023. The article indicates strong momentum for the aquaculture feed producer early in the year.",
+      "first_seen": "2023-05-04T07:00:00+00:00",
+      "last_seen": "2023-05-04T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -125287,6 +125372,180 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVRPUHloakZoRUY1dFJReFhWS3lzVTFCT21ZazZOZVFlUElvYjVYaG1zeXZZalhCTEM2cGNvNXJvVUxMRzQ2RUNQMWtORkF6WTR1U3lBeHBxRktoMFhZZmcwckdlUlBhSXkwYTl6Tm5PWlhQRGJDT2hsbDRZX00zbDBRMEQ4bVpWUDY4X0cxM2xZclJYcEt1TXBBeHlncmRTTkd6RE5UQ0JmaDA0S0RJ?oc=5\" target=\"_blank\">SAG reconoce protección de vacuna LiVac® SRS frente a ambos serotipos del SRS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 749443,
+      "story_id": 2805,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc19NSXVpQWhHbVlGTEdXT1FoRm1feHRsOGprWWNLOEFnaGQ0MEpJcEcwM1lBcW44VTlrVGVvb1JEMEFBWFgtU29uTlB4MHNHRFZrLXE4ajFZNjF3REI5V1pNclRlNDRlRzItbnpoSURUYmpVcHBXcllNQkZNN21adFBPeXhpeFhSblhsa0dveGpkSVh4cmN3QVdoRQ?oc=5",
+      "title": "BioMar Group (CPSE:BIOMAR) Stock Ignores Q3 Earnings Beat and EBIT Upgrade - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-11-03T18:08:28+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPc19NSXVpQWhHbVlGTEdXT1FoRm1feHRsOGprWWNLOEFnaGQ0MEpJcEcwM1lBcW44VTlrVGVvb1JEMEFBWFgtU29uTlB4MHNHRFZrLXE4ajFZNjF3REI5V1pNclRlNDRlRzItbnpoSURUYmpVcHBXcllNQkZNN21adFBPeXhpeFhSblhsa0dveGpkSVh4cmN3QVdoRQ?oc=5\" target=\"_blank\">BioMar Group (CPSE:BIOMAR) Stock Ignores Q3 Earnings Beat and EBIT Upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+    },
+    {
+      "id": 749723,
+      "story_id": 2758,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc2ZCeDlyUENhQ2U0SkhqSGVlMjhsTnlraVRMam94R0N2V19DMGFPNWE4amNJRWdmSktPYTJvdUVXaHU5SWx0bHhMbkJPQlBKZzl1YUhFZzYxeFN4VkdJVFZza1NlRHZMRld5dEpQeTBuY2tGa3JfRjZnVy1KdFJJMUlJTmFiNXNuSmJCV3JFWWVuaGdud01iNGVnWE91QklFNFBJanh4SVF3cGpzNDBIQUowODN1QXZSNUhhZHA2RmZBckZyXzhHWQ?oc=5",
+      "title": "DNB Carnegie raises price target for Schouw & Co. to DKK 960 (920), reiterates buy - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-10-29T12:11:44+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Analyst upgrades Schouw valuation target amid positive outlook",
+      "key_claims": [
+        "DNB Carnegie raised price target for Schouw & Co. from DKK 920 to DKK 960",
+        "DNB Carnegie reiterated a buy recommendation on the stock"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "DNB Carnegie has increased its price target for Schouw & Co. to DKK 960, up from DKK 920, while maintaining a buy recommendation. The upgrade reflects analyst confidence in the industrial conglomerate's valuation and prospects."
+    },
+    {
+      "id": 749776,
+      "story_id": 2800,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ldHFCQ1hLV0ZzTlJESVdycFFnNE1SUGxJbjVjM2VkUHZwVS16aS1lLWFJYmRfbDNsVU9aRmtNeFpxYVBzUzFNendYbHQzS0ZuSUVQQjR5V0UzdElxX3k3dnZ2ZzdRdXEzS2JkMWpXWGVsUU9CYzMwdk5n?oc=5",
+      "title": "Solid start to 2023 for BioMar - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2023-05-04T07:00:00+00:00",
+      "matched_keyword": "Carlos Diaz",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports strong first-quarter performance in 2023",
+      "key_claims": [
+        "BioMar achieved solid results in Q1 2023"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "BioMar reported positive financial performance in the first quarter of 2023. The article indicates strong momentum for the aquaculture feed producer early in the year."
+    },
+    {
+      "id": 750046,
+      "story_id": 2804,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVdOLVhFM212UWQ0QS1zTENwcDNoUHVVd2xDai1WVThUVHIzaGtIbzRCd2xPRjhpcVpkSXdVZkN1LUJTc0pXanZWSGZSN2hhUlAtcTdjWTBNNlE5dU1TVVQ4ZGlGWWtvbzNzODZiQ0d0Rm5jNjZqRVprSW9aY3ZyR0IzZmRMZFl2WVBKak1VNzBDaURZTHduMGdhTlMtR21hb051V1lMV2VrUF8wUEFIY1laYW1mOS15TUE?oc=5",
+      "title": "Cena del Salmón 2026: cuando la industria se reúne, las oportunidades también aparecen - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVdOLVhFM212UWQ0QS1zTENwcDNoUHVVd2xDai1WVThUVHIzaGtIbzRCd2xPRjhpcVpkSXdVZkN1LUJTc0pXanZWSGZSN2hhUlAtcTdjWTBNNlE5dU1TVVQ4ZGlGWWtvbzNzODZiQ0d0Rm5jNjZqRVprSW9aY3ZyR0IzZmRMZFl2WVBKak1VNzBDaURZTHduMGdhTlMtR21hb051V1lMV2VrUF8wUEFIY1laYW1mOS15TUE?oc=5\" target=\"_blank\">Cena del Salmón 2026: cuando la industria se reúne, las oportunidades también aparecen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 750049,
+      "story_id": 2803,
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRkZ4dnRNUW1DR0ZkeXg4Z2JaLXdfejg4dWI3M2M4ZVJiMXp6bTVzUnBaMTZxaE9ZRWhNT1BPVWJtMUwzSWJPdDFZMzFUcURmQ19tWVgxMXVWYTlmWVdTZVpTM2YtUmpZaXIyOHF4ZVE3T0FmUXJMdHlrOThIUm8zWU56YWxLRTlNTC1GOHp3V0NMeVYxREdDMUVTRmZMY3hrU01BOGdzZHplYlZ0T25ORnEzaXhUY2NjM1ZrV3pNUVhPZkxxZ2piMXREdmFMYzVhVFRuZk5WTlNqM0ZjWVFva2NIT3RNZFlkR1RqNWNPeWljaUZHZ3Y1cElOa2xZN0R0eFd4VQ?oc=5",
+      "title": "[50 años de salmonicultura]: Grupo Maqsur reunió a prensa especializada en Puerto Varas y puso en valor su cercanía con el desarrollo salmonero - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-05-15T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNRkZ4dnRNUW1DR0ZkeXg4Z2JaLXdfejg4dWI3M2M4ZVJiMXp6bTVzUnBaMTZxaE9ZRWhNT1BPVWJtMUwzSWJPdDFZMzFUcURmQ19tWVgxMXVWYTlmWVdTZVpTM2YtUmpZaXIyOHF4ZVE3T0FmUXJMdHlrOThIUm8zWU56YWxLRTlNTC1GOHp3V0NMeVYxREdDMUVTRmZMY3hrU01BOGdzZHplYlZ0T25ORnEzaXhUY2NjM1ZrV3pNUVhPZkxxZ2piMXREdmFMYzVhVFRuZk5WTlNqM0ZjWVFva2NIT3RNZFlkR1RqNWNPeWljaUZHZ3Y1cElOa2xZN0R0eFd4VQ?oc=5\" target=\"_blank\">[50 años de salmonicultura]: Grupo Maqsur reunió a prensa especializada en Puerto Varas y puso en valor su cercanía con el desarrollo salmonero</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 750050,
+      "story_id": 2802,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmZoUVlHOUtteVZwbEpYdFU2eFYyd01KSkRXQTJNNjlPQnhyTkhoUnljRjdFZlp5TDJoNEEtVFVEQjVEZHozdF96aFBpQkkzN3lMVndQLXlNNm15SkZfZ3NhdGJWVURSV09JVUpOeVFiMzk1ZWlDUDNUTFRFZmY1cVFGM0UyMUJPWTkyRERueDVNTVhCSG9TOFpoaUx5VV9XdFdPYWM2QXpuQUpobjFhWTJieFlJMEd2eDBkRTNVTTByMVI4TmhoTmRmTUpkOXpyZ0swVTRn?oc=5",
+      "title": "Fallece María Cristina González Araneda, esposa de Alfredo Valenzuela, pionero de la salmonicultura chilena - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-04-28T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSmZoUVlHOUtteVZwbEpYdFU2eFYyd01KSkRXQTJNNjlPQnhyTkhoUnljRjdFZlp5TDJoNEEtVFVEQjVEZHozdF96aFBpQkkzN3lMVndQLXlNNm15SkZfZ3NhdGJWVURSV09JVUpOeVFiMzk1ZWlDUDNUTFRFZmY1cVFGM0UyMUJPWTkyRERueDVNTVhCSG9TOFpoaUx5VV9XdFdPYWM2QXpuQUpobjFhWTJieFlJMEd2eDBkRTNVTTByMVI4TmhoTmRmTUpkOXpyZ0swVTRn?oc=5\" target=\"_blank\">Fallece María Cristina González Araneda, esposa de Alfredo Valenzuela, pionero de la salmonicultura chilena</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 750052,
+      "story_id": 2801,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1FUcHRFeDhSWnZaYkJSVldaR1ZjOHk4Q0kwSkZXV29GMGw0UmNTY3NiX1U4NmhXTWVfMVR2SGpOWDZUd1phNjVGN0FFU0poSGFFeHZ4R1ZFYXRXSGpKZFE0Q3RvaFcwMEZHcURGeU9JX0ZpUDNoQzdKTTVMeEVUN1l6NDVEMVV3UkJtdFRnN3VDd0F2OUJrUg?oc=5",
+      "title": "Marcela Delgado se suma a la Northwest Aquaculture Alliance - Mundoacuicola",
+      "source_name": "Mundoacuicola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-01-14T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1FUcHRFeDhSWnZaYkJSVldaR1ZjOHk4Q0kwSkZXV29GMGw0UmNTY3NiX1U4NmhXTWVfMVR2SGpOWDZUd1phNjVGN0FFU0poSGFFeHZ4R1ZFYXRXSGpKZFE0Q3RvaFcwMEZHcURGeU9JX0ZpUDNoQzdKTTVMeEVUN1l6NDVEMVV3UkJtdFRnN3VDd0F2OUJrUg?oc=5\" target=\"_blank\">Marcela Delgado se suma a la Northwest Aquaculture Alliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
     }
   ],
   "share_of_voice": {
@@ -127884,7 +128143,7 @@
       },
       {
         "week": "2023-W18",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -128708,7 +128967,7 @@
         "week": "2026-W03",
         "BioMar": 0,
         "Cargill": 3,
-        "Skretting": 7
+        "Skretting": 8
       },
       {
         "week": "2026-W04",
@@ -128798,7 +129057,7 @@
         "week": "2026-W18",
         "BioMar": 73,
         "Cargill": 1,
-        "Skretting": 5
+        "Skretting": 6
       },
       {
         "week": "2026-W19",
@@ -128810,7 +129069,7 @@
         "week": "2026-W20",
         "BioMar": 3,
         "Cargill": 0,
-        "Skretting": 15
+        "Skretting": 16
       },
       {
         "week": "2026-W21",
@@ -128870,7 +129129,7 @@
         "week": "2026-W30",
         "BioMar": 11,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2026-W31",
@@ -128952,13 +129211,13 @@
       },
       {
         "week": "2026-W44",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 15
       },
       {
         "week": "2026-W45",
-        "BioMar": 31,
+        "BioMar": 32,
         "Cargill": 0,
         "Skretting": 7
       }
@@ -128966,7 +129225,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2018
+        "count": 2021
       },
       {
         "company": "Cargill",
@@ -128974,7 +129233,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1273
+        "count": 1277
       }
     ]
   }
