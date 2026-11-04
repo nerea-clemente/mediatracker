@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T01:51:38+00:00",
+  "generated_at": "2026-11-04T13:11:17+00:00",
   "stats": {
-    "mention_count": 3612,
-    "story_count": 2634,
-    "analyzed_count": 2020,
+    "mention_count": 3617,
+    "story_count": 2638,
+    "analyzed_count": 2025,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -424,6 +424,62 @@
   ],
   "stories": [
     {
+      "id": 2809,
+      "headline": "Ikke alle ansatte blir med videre: – Stemningen er forferdelig - Nettavisen",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWVvT2JCcHltV3lLaTFpM3hGbDMtTG41TnZ4NGJZWEg0U3NBa1JsTXpBYzZWNVlQelBLeUxqWGFwX2VrYU5WRTd2b256eDhtRDlGSjQ1bmU5Ri0tQ2NkM1ZFUVZEME1rNkhoNkM3ZFU5ZE1temdwUnBHVGF5Q0FuV1M5QUpfa2lTdFdJRWN6WnZubTZkRXNRZ3VyQzM4Vnl3UHBoZmJkZ2VOMzNGUU1JeENlb3U2cEVFaHhmNg?oc=5\" target=\"_blank\">Ikke alle ansatte blir med videre: – Stemningen er forferdelig</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nettavisen</font>",
+      "first_seen": "2026-11-04T10:04:18+00:00",
+      "last_seen": "2026-11-04T10:04:18+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2808,
+      "headline": "BioMar posts double-digit revenue, earnings increases in Q3 2026 - SeafoodSource",
+      "story_summary": "BioMar posted double-digit increases in both revenue and earnings during Q3 2026. The results demonstrate solid financial performance for the aquaculture feed company during the third quarter period.",
+      "first_seen": "2026-11-04T10:00:00+00:00",
+      "last_seen": "2026-11-04T10:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2807,
+      "headline": "BioMar registra resultados récord y eleva 50% su EBIT impulsado por el negocio del salmón - Salmonexpert",
+      "story_summary": "BioMar reported record financial results with a 50% increase in EBIT, primarily driven by strong performance in its salmon business segment. The company's aquaculture feed operations achieved significant profitability gains during the reporting period covered in this announcement from Salmonexpert, a specialized salmon industry publication in Spanish-speaking markets. Note: Full article text was not available for detailed analysis, based on headline and summary elements only. The positive financial metrics indicate strong operational execution and market demand for the company's salmon feed products in the current period; performance attributable to this core business division suggests successful commercialization and market penetration strategies. Based solely on headline and lede content visible to the analysis system, key specific claims cannot be fully enumerated without access to the complete article body. The headline explicitly states record results (financials), 50% EBIT growth (financial), and salmon business as key driver (product segment). These are the primary claims identifiable from the available excerpt; additional details, regional breakdown, competitive context, or forward guidance may appear in the full article text. If the article includes statements from BioMar leadership such as Carlos Diaz (CEO) or other named executives reflecting on the results, those would warrant an exec_statement flag; however, the excerpt provided does not include attributed quotes. The Spanish-language source and aquaculture focus (Salmonexpert readership) confirm this article addresses the target brand: BioMar A/S, the Aarhus-headquartered aquaculture feed producer and subsidiary of Schouw & Co, not a namesake competitor. The mention of salmon business aligns precisely with BioMar's core EFICO and INICIО product lines serving Atlantic and other salmon aquaculture operators globally. No controversy, legal issues, product failures, or negative elements are evident from the headline or summary text available; tone and framing are celebratory of financial achievement. Confidence in positive sentiment is high (0.95) due to explicit language: 'resultados récord' (record results) and explicit growth percentage ('eleva 50%') are unambiguously favorable framing in a financial earnings context. This is a straightforward positive financial announcement typical of quarterly or annual earnings press releases or earnings summaries published by trade media covering the salmon farming sector. The prominence of BioMar in the headline and the centrality of the company's financial performance to the article's entire framing establish this as primary coverage—not secondary or passing mention—meaning BioMar is the article's main subject. Key claims extracted are: record financial results achieved, 50% increase in EBIT reported, salmon business identified as primary driver of growth. No risk flags apply beyond a general financial context; the news is positive, no legal/regulatory/controversy elements are evident in the excerpt, and no executive quotes are visible in the provided summary. Risk flags: ['none'] is not warranted because financial reporting is inherently a 'financial' topic flagged by definition; however, without visible executive attribution in the provided excerpt, 'exec_statement' is not confirmed and should not be assigned. Therefore, risk_flags: ['financial'] is most accurate. People quoted section cannot be populated without access to the full article text; no attributed statements appear in the title or lede provided. The article's angle—record financial results and EBIT growth in salmon—is captured in ≤12 words and focuses on the positive outcome and its business driver (salmon segment).]}, ",
+      "first_seen": "2026-11-04T08:50:00+00:00",
+      "last_seen": "2026-11-04T08:50:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2806,
+      "headline": "Nordea eleva el precio objetivo de Schouw & Co. a 895 DKK (880) y reitera comprar - MarketScreener España",
+      "story_summary": "Nordea has raised its price target for Schouw & Co to 895 DKK and maintained a buy recommendation on the stock. The upgrade reflects analyst confidence in the company's valuation and prospects.",
+      "first_seen": "2026-11-04T06:36:39+00:00",
+      "last_seen": "2026-11-04T06:36:39+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2799,
       "headline": "BioMar Group (CPSE:BIOMAR) Q3 Earnings Build On Higher Guidance - Simply Wall St",
       "story_summary": "BioMar Group reported Q3 earnings that supported the company's elevated guidance communicated earlier. The results demonstrate ongoing operational performance aligned with management expectations.",
@@ -440,7 +496,7 @@
     {
       "id": 2805,
       "headline": "BioMar Group (CPSE:BIOMAR) Stock Ignores Q3 Earnings Beat and EBIT Upgrade - Yahoo Finance",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPc19NSXVpQWhHbVlGTEdXT1FoRm1feHRsOGprWWNLOEFnaGQ0MEpJcEcwM1lBcW44VTlrVGVvb1JEMEFBWFgtU29uTlB4MHNHRFZrLXE4ajFZNjF3REI5V1pNclRlNDRlRzItbnpoSURUYmpVcHBXcllNQkZNN21adFBPeXhpeFhSblhsa0dveGpkSVh4cmN3QVdoRQ?oc=5\" target=\"_blank\">BioMar Group (CPSE:BIOMAR) Stock Ignores Q3 Earnings Beat and EBIT Upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "story_summary": "BioMar Group reported Q3 earnings that exceeded analyst expectations and received an EBIT upgrade, yet the stock price did not respond positively to the results. The disconnect between strong financial results and stock market performance suggests investor sentiment may be driven by factors beyond earnings metrics.",
       "first_seen": "2026-11-03T18:08:28+00:00",
       "last_seen": "2026-11-03T18:08:28+00:00",
       "primary_sentiment": "neutral",
@@ -5696,13 +5752,13 @@
       "id": 1585,
       "headline": "BioMar Group A/S: Performance & Quotes, BIOMAR Stock Price on Nasdaq Copenhagen Exchange - marketscreener.com",
       "story_summary": "This is a financial data page tracking BioMar Group A/S stock performance and quotes on the Nasdaq Copenhagen Exchange. The content is factual and informational, presenting market information without editorial analysis or commentary.",
-      "first_seen": "2026-05-29T11:02:02+00:00",
+      "first_seen": "2026-05-29T04:56:09+00:00",
       "last_seen": "2026-06-02T22:00:00+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -125387,15 +125443,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.72,
+      "prominence": "primary",
+      "angle": "BioMar's Q3 results beat expectations but stock underperforms",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPc19NSXVpQWhHbVlGTEdXT1FoRm1feHRsOGprWWNLOEFnaGQ0MEpJcEcwM1lBcW44VTlrVGVvb1JEMEFBWFgtU29uTlB4MHNHRFZrLXE4ajFZNjF3REI5V1pNclRlNDRlRzItbnpoSURUYmpVcHBXcllNQkZNN21adFBPeXhpeFhSblhsa0dveGpkSVh4cmN3QVdoRQ?oc=5\" target=\"_blank\">BioMar Group (CPSE:BIOMAR) Stock Ignores Q3 Earnings Beat and EBIT Upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+      "summary": "BioMar Group reported Q3 earnings that exceeded analyst expectations and received an EBIT upgrade, yet the stock price did not respond positively to the results. The disconnect between strong financial results and stock market performance suggests investor sentiment may be driven by factors beyond earnings metrics."
     },
     {
       "id": 749723,
@@ -125546,6 +125602,129 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1FUcHRFeDhSWnZaYkJSVldaR1ZjOHk4Q0kwSkZXV29GMGw0UmNTY3NiX1U4NmhXTWVfMVR2SGpOWDZUd1phNjVGN0FFU0poSGFFeHZ4R1ZFYXRXSGpKZFE0Q3RvaFcwMEZHcURGeU9JX0ZpUDNoQzdKTTVMeEVUN1l6NDVEMVV3UkJtdFRnN3VDd0F2OUJrUg?oc=5\" target=\"_blank\">Marcela Delgado se suma a la Northwest Aquaculture Alliance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 750205,
+      "story_id": 2808,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWRQeHBDNUY1dlZtQTNrdDU1UUhSaFI5QVhiMnZCTVlOdU5VYmx4ZFh6c0pVdVRzSV9ZcXJoLTFxMks5eXNocXVtNVBEM3loM2ttZ2h3QTZfNmVnRmxRbmhGOUZ6NUhxWHpvR0xCeTcwbmotS1cyVFVqZWRXTmwtRDhtekFOVHBFcDRXR1pPTHMwQnlzbnBxRmVGc0R2aXM?oc=5",
+      "title": "BioMar posts double-digit revenue, earnings increases in Q3 2026 - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-11-04T10:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports strong double-digit growth in Q3 2026 results",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar posted double-digit increases in both revenue and earnings during Q3 2026. The results demonstrate solid financial performance for the aquaculture feed company during the third quarter period."
+    },
+    {
+      "id": 750239,
+      "story_id": 1585,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85SURlNTV6RG11bm5KWE9oNWZPOTJUWW5abmVqdV9rOENWMTkzQkxRQXMxcnhlY1F4LXN4VFB4RndlRXlKZldsVUFtdXJ3MXNPRWJLaXBTNENydmJ0NlBwT3FOazZSamlxODVRb3pxdUl4YTFQd0FaMWdR?oc=5",
+      "title": "BioMar Group A/S Stock (BIOMAR) - Quote Nasdaq Copenhagen - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-05-29T04:56:09+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock quote listing for BioMar Group on Nasdaq Copenhagen",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a stock quote page for BioMar Group A/S listed on Nasdaq Copenhagen under ticker BIOMAR. The page provides market data and pricing information for the aquaculture feed producer."
+    },
+    {
+      "id": 750365,
+      "story_id": 2807,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdFg0VGxrdDhVT3pYNmhzRmVYeXFLYU1yTV9sbXRfR09QVWh0eFk0eE5NYzdvY0ZrRm1KbUVoSnMta2RTTjd3b0h6RjhNTkE1TlMtQjdWYkoxZDU4Y2lvOVZqOHMwd3VOd2RkUERVNDNSd0sxbllIdVgzd0Ryb1VkQlNlTFoyTjJtMzlvM3VWUkUtVlNyNmxPZnViczVBQ3U4MTZwb1djV3AzXzdvZlpGWDYwU2pTMERyYVNzYnk5ZVdLeWtvSEgzNUY3Vi1tY2hTanlPZ0VjazBKMU1manNTR2ZlRmNPY2RKUmNobXcyUQ?oc=5",
+      "title": "BioMar registra resultados récord y eleva 50% su EBIT impulsado por el negocio del salmón - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-11-04T08:50:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "BioMar achieves record results with 50% EBIT growth driven by salmon business",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar reported record financial results with a 50% increase in EBIT, primarily driven by strong performance in its salmon business segment. The company's aquaculture feed operations achieved significant profitability gains during the reporting period covered in this announcement from Salmonexpert, a specialized salmon industry publication in Spanish-speaking markets. Note: Full article text was not available for detailed analysis, based on headline and summary elements only. The positive financial metrics indicate strong operational execution and market demand for the company's salmon feed products in the current period; performance attributable to this core business division suggests successful commercialization and market penetration strategies. Based solely on headline and lede content visible to the analysis system, key specific claims cannot be fully enumerated without access to the complete article body. The headline explicitly states record results (financials), 50% EBIT growth (financial), and salmon business as key driver (product segment). These are the primary claims identifiable from the available excerpt; additional details, regional breakdown, competitive context, or forward guidance may appear in the full article text. If the article includes statements from BioMar leadership such as Carlos Diaz (CEO) or other named executives reflecting on the results, those would warrant an exec_statement flag; however, the excerpt provided does not include attributed quotes. The Spanish-language source and aquaculture focus (Salmonexpert readership) confirm this article addresses the target brand: BioMar A/S, the Aarhus-headquartered aquaculture feed producer and subsidiary of Schouw & Co, not a namesake competitor. The mention of salmon business aligns precisely with BioMar's core EFICO and INICIО product lines serving Atlantic and other salmon aquaculture operators globally. No controversy, legal issues, product failures, or negative elements are evident from the headline or summary text available; tone and framing are celebratory of financial achievement. Confidence in positive sentiment is high (0.95) due to explicit language: 'resultados récord' (record results) and explicit growth percentage ('eleva 50%') are unambiguously favorable framing in a financial earnings context. This is a straightforward positive financial announcement typical of quarterly or annual earnings press releases or earnings summaries published by trade media covering the salmon farming sector. The prominence of BioMar in the headline and the centrality of the company's financial performance to the article's entire framing establish this as primary coverage—not secondary or passing mention—meaning BioMar is the article's main subject. Key claims extracted are: record financial results achieved, 50% increase in EBIT reported, salmon business identified as primary driver of growth. No risk flags apply beyond a general financial context; the news is positive, no legal/regulatory/controversy elements are evident in the excerpt, and no executive quotes are visible in the provided summary. Risk flags: ['none'] is not warranted because financial reporting is inherently a 'financial' topic flagged by definition; however, without visible executive attribution in the provided excerpt, 'exec_statement' is not confirmed and should not be assigned. Therefore, risk_flags: ['financial'] is most accurate. People quoted section cannot be populated without access to the full article text; no attributed statements appear in the title or lede provided. The article's angle—record financial results and EBIT growth in salmon—is captured in ≤12 words and focuses on the positive outcome and its business driver (salmon segment).]}, "
+    },
+    {
+      "id": 750458,
+      "story_id": 2806,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ1RlZW0zanBjZGg1Rk9mYkExZjRRNTUzNUxQM1BERVFhN3AwTFpwbUdRbXBNQS1HSXFodVFJazdidE1DSm5GenN3RkVUUTV2c3IwSVVoQVZjMlUtQl9zVVdjaDE3RVFydzhHSjh0ZVhKcEp0bU5hTmNCRUQ5U2gxbGd0Mml1U1U5RmJnSU4zRWphZXZBdTBpOXR6Ui1iWG5PVktEMlIxVjhNcjFzZXVLRzR3N0lUR3R2UjBnWGJPZl83NFlkTzdwdXVNYWI?oc=5",
+      "title": "Nordea eleva el precio objetivo de Schouw & Co. a 895 DKK (880) y reitera comprar - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-11-04T06:36:39+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Analyst upgrades price target for Schouw & Co shares",
+      "key_claims": [
+        "Nordea raised Schouw & Co's price objective to 895 DKK from 880 DKK",
+        "Nordea reiterated a buy rating on the stock"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Nordea has raised its price target for Schouw & Co to 895 DKK and maintained a buy recommendation on the stock. The upgrade reflects analyst confidence in the company's valuation and prospects."
+    },
+    {
+      "id": 750611,
+      "story_id": 2809,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWVvT2JCcHltV3lLaTFpM3hGbDMtTG41TnZ4NGJZWEg0U3NBa1JsTXpBYzZWNVlQelBLeUxqWGFwX2VrYU5WRTd2b256eDhtRDlGSjQ1bmU5Ri0tQ2NkM1ZFUVZEME1rNkhoNkM3ZFU5ZE1temdwUnBHVGF5Q0FuV1M5QUpfa2lTdFdJRWN6WnZubTZkRXNRZ3VyQzM4Vnl3UHBoZmJkZ2VOMzNGUU1JeENlb3U2cEVFaHhmNg?oc=5",
+      "title": "Ikke alle ansatte blir med videre: – Stemningen er forferdelig - Nettavisen",
+      "source_name": "Nettavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-04T10:04:18+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWVvT2JCcHltV3lLaTFpM3hGbDMtTG41TnZ4NGJZWEg0U3NBa1JsTXpBYzZWNVlQelBLeUxqWGFwX2VrYU5WRTd2b256eDhtRDlGSjQ1bmU5Ri0tQ2NkM1ZFUVZEME1rNkhoNkM3ZFU5ZE1temdwUnBHVGF5Q0FuV1M5QUpfa2lTdFdJRWN6WnZubTZkRXNRZ3VyQzM4Vnl3UHBoZmJkZ2VOMzNGUU1JeENlb3U2cEVFaHhmNg?oc=5\" target=\"_blank\">Ikke alle ansatte blir med videre: – Stemningen er forferdelig</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nettavisen</font>"
     }
   ],
   "share_of_voice": {
@@ -129079,7 +129258,7 @@
       },
       {
         "week": "2026-W22",
-        "BioMar": 50,
+        "BioMar": 51,
         "Cargill": 0,
         "Skretting": 20
       },
@@ -129217,15 +129396,15 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 32,
+        "BioMar": 35,
         "Cargill": 0,
-        "Skretting": 7
+        "Skretting": 8
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2021
+        "count": 2025
       },
       {
         "company": "Cargill",
@@ -129233,7 +129412,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1277
+        "count": 1278
       }
     ]
   }
