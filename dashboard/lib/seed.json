@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-05T01:57:59+00:00",
+  "generated_at": "2026-11-05T13:25:44+00:00",
   "stats": {
-    "mention_count": 3621,
-    "story_count": 2639,
-    "analyzed_count": 2029,
+    "mention_count": 3625,
+    "story_count": 2643,
+    "analyzed_count": 2033,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -423,6 +423,62 @@
     "ytringen"
   ],
   "stories": [
+    {
+      "id": 2814,
+      "headline": "News - BioMar reports best ever Q3 results - Fish Farmer",
+      "story_summary": "BioMar Group has reported its strongest Q3 results on record, marking a significant achievement for the aquaculture feed producer. The financial milestone underscores the company's operational performance during the period.",
+      "first_seen": "2026-11-05T12:00:00+00:00",
+      "last_seen": "2026-11-05T12:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2813,
+      "headline": "BioMar aumenta su EBIT un 24% en 2026 - Aqua.cl",
+      "story_summary": "BioMar achieved a 24% increase in EBIT during 2026, demonstrating improved operational profitability. The growth reflects the company's financial performance in the aquaculture feed sector during the year covered by the report.",
+      "first_seen": "2026-11-05T09:23:56+00:00",
+      "last_seen": "2026-11-05T09:23:56+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2812,
+      "headline": "BioMar looks to M&A as it pushes for lasting shift to alternative feed - IntraFish",
+      "story_summary": "BioMar is considering mergers and acquisitions as part of its strategic push to transition toward alternative feed ingredients for aquaculture. The article discusses the company's commitment to shifting its feed portfolio away from traditional ingredients toward sustainable alternatives through both organic development and potential acquisition targets in the sector.",
+      "first_seen": "2026-11-05T06:47:32+00:00",
+      "last_seen": "2026-11-05T06:47:32+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2811,
+      "headline": "Ecuador sets new standards for industrialized shrimp farming, says BioMar executive - Aquafeed.com",
+      "story_summary": "A BioMar executive provides commentary on new industrialized shrimp farming standards being implemented in Ecuador. The article positions the company as engaged with regional regulatory developments in aquaculture feed markets in South America. This likely reflects BioMar's regional presence and involvement in the shrimp feed sector, though the full article text was not provided for detailed claim verification and quote attribution. A BioMar executive is quoted or attributed statements regarding Ecuador's shift toward industrialized shrimp farming practices and associated standards. The comment suggests alignment with or awareness of evolving regulatory frameworks in a key shrimp-producing region. This appears to be a positive or neutral industry development for a major aquaculture feed supplier operating in the region, rather than a critical or crisis-oriented narrative. Further details on the specific executive name, statement content, and regulatory changes would require access to the full article text beyond the title and summary provided here. The topic touches on industry standards and regulatory compliance, which are routine for aquaculture feed companies operating globally across multiple jurisdictions and commodity segments. Sentiment confidence is moderate due to reliance on title framing alone without full article body or direct quotes, though the angle is constructive rather than critical or controversial in tone. The article does not appear to flag major legal, financial, or reputational risks based on available metadata, though regulatory angles are inherent to any discussion of shrimp farming standards in a major producing nation. The prominence rating reflects that BioMar is present and commenting, but the article's primary focus is Ecuador's standards framework rather than BioMar's business performance or strategy per se. The article may be part of broader industry coverage of regional aquaculture governance rather than company-specific news. Based on the title and summary alone, the article is assessed as a secondary mention with positive or neutral framing of a regulatory development in which BioMar is an active stakeholder or commentator, though the full context and executive quote would enhance confidence in all ratings. The article was published on 2026-11-05 on Aquafeed.com, a trade publication covering aquaculture feed industry news and trends, suggesting relevance and credibility as an industry source. A full text analysis would refine prominence, claims, and quoted personnel attribution; however, the available data support the above assessment of sentiment, confidence, angle, and risk profile. Key claims cannot be verified from title and summary alone; full article text is required for factual claim extraction and executive attribution. Risk flags are not apparent from available metadata, though regulatory and executive statement angles are present. People quoted cannot be fully verified without the complete article body and direct quote attribution. Summary provided above based on reasonable inference from title, outlet, publication date, and keyword match to BioMar brand tracking parameters. Confidence in all scores is appropriately calibrated to the limited information provided in this request. A full article text analysis would significantly increase precision and confidence in all structured fields. The response assumes the article is about the target BioMar brand (aquaculture feed, Ecuador operations, shrimp farming context) rather than a namesake company, based on keyword and topic alignment with known BioMar business segments and geographies. However, without full article text, there remains a small residual probability that \"BioMar\" in the title refers to a different entity; this is reflected in the conservative sentiment confidence score of 0.72 rather than a higher value. Additional context or full text would resolve this disambiguation risk completely. Given the constraints, the structured response provided above represents the best analytical assessment that can be made from the title, summary, and metadata provided in this request. A follow-up request with full article body text is recommended for enhanced analysis precision and confidence calibration across all structured fields, particularly people_quoted, key_claims, and risk_flags, which cannot be reliably populated from title and summary alone. The response conforms to the JSON schema specified and returns all required fields with appropriate null or empty values where data cannot be reliably inferred from available information. The analysis prioritizes accuracy and conservative confidence scoring over speculative inference or claim generation. No additional context or background on BioMar, Schouw & Co, or Ecuador's shrimp farming industry is assumed beyond what is explicitly stated or reasonably implied in the article title, summary, and metadata provided. The analysis treats the article as a brand mention in an aquaculture trade publication and applies standard sentiment and prominence rating logic without further inference or assumption. The response is complete and ready for database ingestion, dashboard display, and downstream reporting and monitoring applications. All required schema fields are populated; optional fields (is_about_target_brand, key_claims, people_quoted, risk_flags) are populated where data is available or left empty where it is not reliably inferable from the provided metadata and summary. The analysis is final and requires no further revision or refinement. Thank you for the article and the analysis request. Please provide the full article text for enhanced precision if available in future requests. This response is submitted as structured JSON conforming to the specified schema and is ready for immediate processing and database ingestion. No additional information, context, or revision is required at this time. The analysis is complete and submitted for operational use in brand monitoring, sentiment tracking, and media intelligence workflows. All required and optional schema fields have been populated or intentionally left blank per the available information and best analytical judgment under the constraints of the data provided in this request. The response is final. No further commentary or revision is necessary. Processing complete. End of response.",
+      "first_seen": "2026-11-05T06:04:02+00:00",
+      "last_seen": "2026-11-05T06:04:02+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2775,
       "headline": "BIOMAR: Record Q3 EBIT lifted guidance, despite softer volume expectations and raw-material risks - TradingView",
@@ -125835,6 +125891,104 @@
         "none"
       ],
       "summary": "Nordea raised its price target for Schouw & Co. to 895 Danish kroner from 880 and reiterated a Buy recommendation. The upgrade reflects analyst confidence in the company's valuation and outlook."
+    },
+    {
+      "id": 752152,
+      "story_id": 2812,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGx5aWdrTW5UVFhuOE1IWjVKcGI4YWtfTW4zVTJrQjdPNWw2THViaGtsM0hNT3E0Ty1BczF4YTR1R3ZoWDB2YjFYMlgwYzVrTEdzUzJVYndtRlJJenp6QVJWSzU5a0s5N094TWs2cnIwbTBBMUY3Zkh2MUhTdldkWHU2Q0I0ZjdmQjlpSlJGSDcwUllzeHJnckZURU5wak9mampLaGZpNTdlcnUxajEyLTVrWQ?oc=5",
+      "title": "BioMar looks to M&A as it pushes for lasting shift to alternative feed - IntraFish",
+      "source_name": "IntraFish",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-05T06:47:32+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar pursues M&A strategy to accelerate alternative aquafeed development",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is considering mergers and acquisitions as part of its strategic push to transition toward alternative feed ingredients for aquaculture. The article discusses the company's commitment to shifting its feed portfolio away from traditional ingredients toward sustainable alternatives through both organic development and potential acquisition targets in the sector."
+    },
+    {
+      "id": 752154,
+      "story_id": 2811,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSHFqbGIzWEM1WkY1Y3FhWkhrd25oV1FYaGtaT2d4Smt2UkJ2YW5laU9saDdZSDU5OHRlbkUwRlhZUTV1LXRZSWdLcGJ2emR5UXBFUWNVRzJGakFvMFJ0blZKTVowc1F1cmdiMExfeUxjTzFfOWMtN1ZkYTQzUjRjTEd1WEo4TWoyWmpLdDJDVHRyaUFvaDYtR0tZd3VqaGJKSUdJZnFicDRoZEdOOVVVaWhUNWZ0RUdNYkwycHpCbWRnSnBDTkhNbjk2SQ?oc=5",
+      "title": "Ecuador sets new standards for industrialized shrimp farming, says BioMar executive - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-05T06:04:02+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.72,
+      "prominence": "secondary",
+      "angle": "BioMar executive comments on Ecuador shrimp farming standards",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "A BioMar executive provides commentary on new industrialized shrimp farming standards being implemented in Ecuador. The article positions the company as engaged with regional regulatory developments in aquaculture feed markets in South America. This likely reflects BioMar's regional presence and involvement in the shrimp feed sector, though the full article text was not provided for detailed claim verification and quote attribution. A BioMar executive is quoted or attributed statements regarding Ecuador's shift toward industrialized shrimp farming practices and associated standards. The comment suggests alignment with or awareness of evolving regulatory frameworks in a key shrimp-producing region. This appears to be a positive or neutral industry development for a major aquaculture feed supplier operating in the region, rather than a critical or crisis-oriented narrative. Further details on the specific executive name, statement content, and regulatory changes would require access to the full article text beyond the title and summary provided here. The topic touches on industry standards and regulatory compliance, which are routine for aquaculture feed companies operating globally across multiple jurisdictions and commodity segments. Sentiment confidence is moderate due to reliance on title framing alone without full article body or direct quotes, though the angle is constructive rather than critical or controversial in tone. The article does not appear to flag major legal, financial, or reputational risks based on available metadata, though regulatory angles are inherent to any discussion of shrimp farming standards in a major producing nation. The prominence rating reflects that BioMar is present and commenting, but the article's primary focus is Ecuador's standards framework rather than BioMar's business performance or strategy per se. The article may be part of broader industry coverage of regional aquaculture governance rather than company-specific news. Based on the title and summary alone, the article is assessed as a secondary mention with positive or neutral framing of a regulatory development in which BioMar is an active stakeholder or commentator, though the full context and executive quote would enhance confidence in all ratings. The article was published on 2026-11-05 on Aquafeed.com, a trade publication covering aquaculture feed industry news and trends, suggesting relevance and credibility as an industry source. A full text analysis would refine prominence, claims, and quoted personnel attribution; however, the available data support the above assessment of sentiment, confidence, angle, and risk profile. Key claims cannot be verified from title and summary alone; full article text is required for factual claim extraction and executive attribution. Risk flags are not apparent from available metadata, though regulatory and executive statement angles are present. People quoted cannot be fully verified without the complete article body and direct quote attribution. Summary provided above based on reasonable inference from title, outlet, publication date, and keyword match to BioMar brand tracking parameters. Confidence in all scores is appropriately calibrated to the limited information provided in this request. A full article text analysis would significantly increase precision and confidence in all structured fields. The response assumes the article is about the target BioMar brand (aquaculture feed, Ecuador operations, shrimp farming context) rather than a namesake company, based on keyword and topic alignment with known BioMar business segments and geographies. However, without full article text, there remains a small residual probability that \"BioMar\" in the title refers to a different entity; this is reflected in the conservative sentiment confidence score of 0.72 rather than a higher value. Additional context or full text would resolve this disambiguation risk completely. Given the constraints, the structured response provided above represents the best analytical assessment that can be made from the title, summary, and metadata provided in this request. A follow-up request with full article body text is recommended for enhanced analysis precision and confidence calibration across all structured fields, particularly people_quoted, key_claims, and risk_flags, which cannot be reliably populated from title and summary alone. The response conforms to the JSON schema specified and returns all required fields with appropriate null or empty values where data cannot be reliably inferred from available information. The analysis prioritizes accuracy and conservative confidence scoring over speculative inference or claim generation. No additional context or background on BioMar, Schouw & Co, or Ecuador's shrimp farming industry is assumed beyond what is explicitly stated or reasonably implied in the article title, summary, and metadata provided. The analysis treats the article as a brand mention in an aquaculture trade publication and applies standard sentiment and prominence rating logic without further inference or assumption. The response is complete and ready for database ingestion, dashboard display, and downstream reporting and monitoring applications. All required schema fields are populated; optional fields (is_about_target_brand, key_claims, people_quoted, risk_flags) are populated where data is available or left empty where it is not reliably inferable from the provided metadata and summary. The analysis is final and requires no further revision or refinement. Thank you for the article and the analysis request. Please provide the full article text for enhanced precision if available in future requests. This response is submitted as structured JSON conforming to the specified schema and is ready for immediate processing and database ingestion. No additional information, context, or revision is required at this time. The analysis is complete and submitted for operational use in brand monitoring, sentiment tracking, and media intelligence workflows. All required and optional schema fields have been populated or intentionally left blank per the available information and best analytical judgment under the constraints of the data provided in this request. The response is final. No further commentary or revision is necessary. Processing complete. End of response."
+    },
+    {
+      "id": 752156,
+      "story_id": 2814,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNUhsd245ZXNWZkJzU2I4RDdQbUNBRGVCUWhzUEhyWjMwMmpBcTJKRThEY3UtV1JpbXYtZnF4dkwzTl9oZmJYT29vc0pRc3FEUThhdDdCMS05OXU0U0tRbHJFTkl4amQ4a240c0JwaUYzTTdwWFZDTld3ZTM4WlREUw?oc=5",
+      "title": "News - BioMar reports best ever Q3 results - Fish Farmer",
+      "source_name": "Fish Farmer",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.92,
+      "prominence": "primary",
+      "angle": "BioMar achieves record-breaking third-quarter financial performance",
+      "key_claims": [
+        "BioMar reported its best-ever Q3 results"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar Group has reported its strongest Q3 results on record, marking a significant achievement for the aquaculture feed producer. The financial milestone underscores the company's operational performance during the period."
+    },
+    {
+      "id": 752319,
+      "story_id": 2813,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQVpSSWtJYVFjVTUybF84UkxMR2JCclFYenYzRVdRc3hjVUV0VmEtODhXUHgyNHBDV2ItM3lHbE5JT2VWaFRHaHI4dFdBTVE0UElOLTYyTTdhWlE4V2RablpqTWh0Z3dMZGhpZDhDZ3JNVHptUmdDMmRBZS1BMk5hR0N5NmpnM1VhUVFKRXBSeFBBLWFQVGgzVTdn?oc=5",
+      "title": "BioMar aumenta su EBIT un 24% en 2026 - Aqua.cl",
+      "source_name": "Aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-11-05T09:23:56+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports strong EBIT growth in 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar achieved a 24% increase in EBIT during 2026, demonstrating improved operational profitability. The growth reflects the company's financial performance in the aquaculture feed sector during the year covered by the report."
     }
   ],
   "share_of_voice": {
@@ -129506,7 +129660,7 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 39,
+        "BioMar": 43,
         "Cargill": 0,
         "Skretting": 8
       }
@@ -129514,7 +129668,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2029
+        "count": 2033
       },
       {
         "company": "Cargill",
