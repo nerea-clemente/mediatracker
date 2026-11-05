@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T21:47:34+00:00",
+  "generated_at": "2026-11-05T01:57:59+00:00",
   "stats": {
-    "mention_count": 3619,
-    "story_count": 2638,
-    "analyzed_count": 2027,
+    "mention_count": 3621,
+    "story_count": 2639,
+    "analyzed_count": 2029,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -503,7 +503,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -767,6 +767,20 @@
       "story_summary": "BioMar has delivered its strongest quarter ever, according to a statement from the company. The announcement highlights record performance across the aquaculture feed producer's operations during the period ending November 2026, indicating robust business growth and market demand for its product portfolio and services in the aquaculture sector through November 2026, indicating robust business growth and market demand for its product portfolio during the period, signaling strong operational execution and market growth during the reporting period through November 2026, indicating robust business growth and market demand for its portfolio during the period. The company's strongest quarterly result to date demonstrates successful operational performance and market strength in the aquaculture feed sector, reflecting strong market demand and operational execution by BioMar across its geographies and product lines.",
       "first_seen": "2026-11-02T15:51:30+00:00",
       "last_seen": "2026-11-02T15:51:30+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2810,
+      "headline": "BIOMAR(NY): OPPJUSTERER GUIDING FOR OMSETNING OG EBIT, KUTTER VOLUMGUIDING - Finansavisen",
+      "story_summary": "BioMar has upgraded its guidance for revenue and EBIT while simultaneously reducing its volume guidance. The mixed guidance adjustment suggests improved pricing or margin performance despite lower production volumes expected ahead.",
+      "first_seen": "2026-11-02T15:29:45+00:00",
+      "last_seen": "2026-11-02T15:29:45+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -125773,6 +125787,54 @@
         "none"
       ],
       "summary": "BioMar achieved record volumes and EBIT in Q3 2026 and raised both revenue and EBIT guidance for the full year. The announcement reflects strong operational and financial performance across the company's aquaculture feed business segments in the third quarter period ending September 2026. During this quarter, the company significantly outperformed expectations, signalling positive momentum in key markets including salmon, shrimp, and tilapia feed categories where BioMar competes globally through its INICIO, EFICO, ORBIT, SIGMA, and LARVIVA brands. The updated guidance reflects management's confidence in sustained market demand and operational execution through the remainder of the fiscal year as major aquaculture producing regions maintain robust production cycles. Financial results of this magnitude typically signal strong pricing power, cost management, or market share gains relative to competitors in the specialized aquaculture nutrition sector where BioMar holds leading positions across multiple geographies and species segments."
+    },
+    {
+      "id": 751614,
+      "story_id": 2810,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelZKM1FON1BJNkhCbldGNW90MExqZl9pcHh0NS1ucm5tbkJkRXRjTTZXNGxPV005QlN0b0dtZ3hTdGxTVnhBV1Q3alRKNHZJRnpjQjU3WFoxU3dFc0MtLWYwVlVqR1BEU05hVkpNZ25ZejViSDFtSFZVdmZsQkF3SEZER0tUdHdwZTlLUzg4WjQtVjdnZXp1cElSbHUwNkZTWXpwZFlmZnczR1dDTVRaX3hRazAwQVB1eFR5dTZ4Tjg?oc=5",
+      "title": "BIOMAR(NY): OPPJUSTERER GUIDING FOR OMSETNING OG EBIT, KUTTER VOLUMGUIDING - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-02T15:29:45+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar raises revenue and EBIT guidance while cutting volume targets",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has upgraded its guidance for revenue and EBIT while simultaneously reducing its volume guidance. The mixed guidance adjustment suggests improved pricing or margin performance despite lower production volumes expected ahead."
+    },
+    {
+      "id": 751789,
+      "story_id": 2806,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlNXdnQxdFVoeWowaWQ2OXkwdF9iLU0tMW10SVRXanNwQTNBXzlsM2hpUDkyMVpQQTI0ZFFqNmtaWVpQVFFzaGJHVkcxZlQ5S3BJenpPNDBpY19GN2dUdk92M1dMa0hUVl9ONHc5ZFhkcmQzaS1iWll2OUVjTUpMYzJ2N1JSOWRxbTlkMnpQUTVKMko4MmJjbE5sd01HaUY1cTlmMllTV3RIanoxWTZmVmJ1VldQV1F0WUxHWFFFUHZZTHJ4dVVKZWJPbW4za0EwUTdZ?oc=5",
+      "title": "Nordea raises its price target for Schouw & Co. to 895 Danish kroner (880), reiterates Buy - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-11-04T06:36:39+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Analyst upgrades price target and maintains buy rating",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Nordea raised its price target for Schouw & Co. to 895 Danish kroner from 880 and reiterated a Buy recommendation. The upgrade reflects analyst confidence in the company's valuation and outlook."
     }
   ],
   "share_of_voice": {
@@ -129444,7 +129506,7 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 37,
+        "BioMar": 39,
         "Cargill": 0,
         "Skretting": 8
       }
@@ -129452,7 +129514,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2027
+        "count": 2029
       },
       {
         "company": "Cargill",
