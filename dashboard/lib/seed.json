@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T16:51:32+00:00",
+  "generated_at": "2026-11-06T21:21:21+00:00",
   "stats": {
-    "mention_count": 3632,
-    "story_count": 2646,
-    "analyzed_count": 2039,
+    "mention_count": 3634,
+    "story_count": 2647,
+    "analyzed_count": 2042,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -424,6 +424,20 @@
   ],
   "stories": [
     {
+      "id": 2818,
+      "headline": "Schouw & Co. A/S (SCHO.CO) Q3 FY2026 earnings call transcript - Yahoo Finance",
+      "story_summary": "Yahoo Finance published a transcript of Schouw & Co's Q3 FY2026 earnings call, featuring executives discussing the conglomerate's financial performance. The call includes discussion of Schouw's operating divisions, which include BioMar Group, the aquaculture feed subsidiary. The article does not include the full text or key takeaways directly visible in the provided summary, only the linked transcript placeholder on Yahoo Finance's earnings platform. As a earnings call transcript publication, the article likely contains exec_statement elements from Jens Bjerg Sørensen or other named Schouw leadership discussing financial results and business outlook across divisions including BioMar's performance in the aquaculture sector and operational metrics for the quarter.",
+      "first_seen": "2026-11-06T09:00:00+00:00",
+      "last_seen": "2026-11-06T09:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2817,
       "headline": "Schouw & Co. Raises 2026 Revenue, EBITDA Guidance - TradingView",
       "story_summary": "Schouw & Co., parent company of BioMar Group, has raised its revenue and EBITDA guidance for 2026. The company's improved outlook reflects positive business momentum across its portfolio.",
@@ -469,12 +483,12 @@
     {
       "id": 2815,
       "headline": "Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA - The Manila Times",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFpOSlVuVmduUmhGbFpvMHFZUmZ1dzEyRlFUNllfTno1WmFFbjlEYk0zOVlGTjdmQzU5aHRsV20zcloyWXNmWU1ZdTRHeVhCNjJxM0FaQ2VBRnA5dk9xNGdfTnpCNzJ6c2NaX2YtdjliRGRlVFFza0JhWTQ0emJXTTg5ckJnS2xfYTdrQjdIYlJBTTFLSkRjVnQtcFhfYXA2UE5tdnJNMVVkSXU0ZjRfWVRiTTZNRkVxVnRwaWszUG54cERHd0tYOFgzem41dmNtR1lMaDNMa9IB3AFBVV95cUxPTUJScEkyV0JmcEZZaEhLQ2RoaXBSalJVMEFjUzVjV3dDX2ZIdUItRkJBTHB1Qm5CMjg3UEJ3eEJNdWMyTWNqalNhZ3gyU0FXem5qYmMxMnVOWVhvLU8tQzhaLTRVN1BrYnM2aTFEMHNwVk4yN0YyNGtEaHZYOU8ybWF5SG1PLUQ0M0wyWEtqc21ERk1hX2ZoVHZIZnFRNkJMM1hMQk9kZXQydGIxNFlneHIxcGY4Uk1XdFZzaXhjLVpVOEFVRExVRFp2NTU3alBtTFFDMlQxRGVTWUkw?oc=5\" target=\"_blank\">Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
+      "story_summary": "Schouw & Co. announced an upward revision of its full-year 2026 financial guidance for both revenue and EBITDA. The guidance increase reflects improved business performance expectations across the conglomerate's portfolio, which includes BioMar.",
       "first_seen": "2026-11-06T07:08:17+00:00",
       "last_seen": "2026-11-06T07:08:17+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -974,15 +988,15 @@
     },
     {
       "id": 2769,
-      "headline": "Schouw & Co. share buy-back programme, week 44 2026 - The Manila Times",
-      "story_summary": "Schouw & Co. announced its share buy-back programme activity for week 44 of 2026. The article reports routine corporate capital allocation and shareholder management actions by the parent company of BioMar Group A/S.",
-      "first_seen": "2026-11-02T13:32:33+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 44 2026 - StreetInsider",
+      "story_summary": "Schouw & Co. announced details of its share buyback programme for week 44 of 2026. The article provides routine corporate disclosure on repurchase activity during this period.",
+      "first_seen": "2026-11-02T08:00:00+00:00",
       "last_seen": "2026-11-02T13:32:33+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -126072,16 +126086,19 @@
       "matched_keyword": "Schouw",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co. raises full-year 2026 guidance on revenue and EBITDA",
+      "key_claims": [
+        "Schouw & Co. raised its full-year 2026 revenue guidance",
+        "Schouw & Co. raised its full-year 2026 EBITDA guidance"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFpOSlVuVmduUmhGbFpvMHFZUmZ1dzEyRlFUNllfTno1WmFFbjlEYk0zOVlGTjdmQzU5aHRsV20zcloyWXNmWU1ZdTRHeVhCNjJxM0FaQ2VBRnA5dk9xNGdfTnpCNzJ6c2NaX2YtdjliRGRlVFFza0JhWTQ0emJXTTg5ckJnS2xfYTdrQjdIYlJBTTFLSkRjVnQtcFhfYXA2UE5tdnJNMVVkSXU0ZjRfWVRiTTZNRkVxVnRwaWszUG54cERHd0tYOFgzem41dmNtR1lMaDNMa9IB3AFBVV95cUxPTUJScEkyV0JmcEZZaEhLQ2RoaXBSalJVMEFjUzVjV3dDX2ZIdUItRkJBTHB1Qm5CMjg3UEJ3eEJNdWMyTWNqalNhZ3gyU0FXem5qYmMxMnVOWVhvLU8tQzhaLTRVN1BrYnM2aTFEMHNwVk4yN0YyNGtEaHZYOU8ybWF5SG1PLUQ0M0wyWEtqc21ERk1hX2ZoVHZIZnFRNkJMM1hMQk9kZXQydGIxNFlneHIxcGY4Uk1XdFZzaXhjLVpVOEFVRExVRFp2NTU3alBtTFFDMlQxRGVTWUkw?oc=5\" target=\"_blank\">Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>"
+      "summary": "Schouw & Co. announced an upward revision of its full-year 2026 financial guidance for both revenue and EBITDA. The guidance increase reflects improved business performance expectations across the conglomerate's portfolio, which includes BioMar."
     },
     {
       "id": 754815,
@@ -126210,6 +126227,54 @@
         "exec_statement"
       ],
       "summary": "Schouw & Co, the parent company of BioMar Group, announced an upward revision to its full-year 2026 financial guidance for both revenue and EBITDA. The article indicates strong financial performance and management confidence in achieving improved results for the full year."
+    },
+    {
+      "id": 755876,
+      "story_id": 2769,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdk44WGF0bXBNRVJWVEFzQlNTbURHTGpSQVE0WDZBak5EMXZVVnYyeFZuWG5QMGRTNm45QVdhOVI0c2swd0NRYVg0OVJFM1M3Y2UySE1vamxLbkpVakpaTzdLS0I3V3o2bGZ3X3p3UEFZQ3pDWXVsdWxsdzBVR3VfanRVanVrMUtOWXhDWjc5NVEyNExHZzJ2bWJmeThVS0J0WkQyY1czVTg3UGswQzB3U2MwSUY?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 44 2026 - StreetInsider",
+      "source_name": "StreetInsider",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-02T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. share buyback activity in week 44 of 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced details of its share buyback programme for week 44 of 2026. The article provides routine corporate disclosure on repurchase activity during this period."
+    },
+    {
+      "id": 755952,
+      "story_id": 2818,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHoxdlFXTmRXQU9FX1JGLV9LYU1OQXNOLTRBbGZZNFpBeUZGY1R6aFpnX1RQWEVXYUhmQngzeVJfVmVocVExSjFiN0dmZmFrbmhoWHN6NHRnVjFqN25rZmItWFdGVWFDT3ZnU0pMZUVSSmk4dlJKX0J4TGdfbnRlc1NEMHhlYTZydWdsQXBTU1E5b3pI?oc=5",
+      "title": "Schouw & Co. A/S (SCHO.CO) Q3 FY2026 earnings call transcript - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-11-06T09:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co Q3 FY2026 earnings call transcript publication",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance published a transcript of Schouw & Co's Q3 FY2026 earnings call, featuring executives discussing the conglomerate's financial performance. The call includes discussion of Schouw's operating divisions, which include BioMar Group, the aquaculture feed subsidiary. The article does not include the full text or key takeaways directly visible in the provided summary, only the linked transcript placeholder on Yahoo Finance's earnings platform. As a earnings call transcript publication, the article likely contains exec_statement elements from Jens Bjerg Sørensen or other named Schouw leadership discussing financial results and business outlook across divisions including BioMar's performance in the aquaculture sector and operational metrics for the quarter."
     }
   ],
   "share_of_voice": {
@@ -129881,7 +129946,7 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 49,
+        "BioMar": 51,
         "Cargill": 0,
         "Skretting": 8
       }
@@ -129889,7 +129954,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2040
+        "count": 2042
       },
       {
         "company": "Cargill",
