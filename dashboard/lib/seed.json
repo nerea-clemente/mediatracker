@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T13:08:34+00:00",
+  "generated_at": "2026-11-06T16:51:32+00:00",
   "stats": {
-    "mention_count": 3629,
+    "mention_count": 3632,
     "story_count": 2646,
-    "analyzed_count": 2035,
+    "analyzed_count": 2039,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -426,12 +426,12 @@
     {
       "id": 2817,
       "headline": "Schouw & Co. Raises 2026 Revenue, EBITDA Guidance - TradingView",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3dPYlItUExXQ0FvOWZtQ3BHa0xNcVJGX0Y2RTFWODk3TEUtZ2xVVU9XWWlBY2RDYXZkbTI3MzUyd05VZ0lDNWo5VWZWMjVLYlE5VVNEVkxGRjdpWm1QakozZlZ2ekU1VGUzMkRFdjNPclU4MDZkb2VCREpDd243UWMtYUxBRzJkY0pHazVwYkdPXzMxZzQ4T0VELTRGaWZQTkh0NTJoWk83TEJiUkw2Nk43NDRxZw?oc=5\" target=\"_blank\">Schouw & Co. Raises 2026 Revenue, EBITDA Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "story_summary": "Schouw & Co., parent company of BioMar Group, has raised its revenue and EBITDA guidance for 2026. The company's improved outlook reflects positive business momentum across its portfolio.",
       "first_seen": "2026-11-06T07:10:00+00:00",
       "last_seen": "2026-11-06T07:10:00+00:00",
-      "primary_sentiment": "neutral",
+      "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -452,6 +452,21 @@
       "company": "BioMar"
     },
     {
+      "id": 2770,
+      "headline": "Changes to full-year guidance for BioMar - StreetInsider",
+      "story_summary": "BioMar has announced changes to its full-year guidance, indicating a downward revision of financial expectations. The announcement was attributed to leadership and represents a material update to investor expectations for the year.",
+      "first_seen": "2026-11-02T14:42:54+00:00",
+      "last_seen": "2026-11-06T07:08:17+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement",
+        "financial"
+      ],
+      "pickup_count": 4,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2815,
       "headline": "Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA - The Manila Times",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFpOSlVuVmduUmhGbFpvMHFZUmZ1dzEyRlFUNllfTno1WmFFbjlEYk0zOVlGTjdmQzU5aHRsV20zcloyWXNmWU1ZdTRHeVhCNjJxM0FaQ2VBRnA5dk9xNGdfTnpCNzJ6c2NaX2YtdjliRGRlVFFza0JhWTQ0emJXTTg5ckJnS2xfYTdrQjdIYlJBTTFLSkRjVnQtcFhfYXA2UE5tdnJNMVVkSXU0ZjRfWVRiTTZNRkVxVnRwaWszUG54cERHd0tYOFgzem41dmNtR1lMaDNMa9IB3AFBVV95cUxPTUJScEkyV0JmcEZZaEhLQ2RoaXBSalJVMEFjUzVjV3dDX2ZIdUItRkJBTHB1Qm5CMjg3UEJ3eEJNdWMyTWNqalNhZ3gyU0FXem5qYmMxMnVOWVhvLU8tQzhaLTRVN1BrYnM2aTFEMHNwVk4yN0YyNGtEaHZYOU8ybWF5SG1PLUQ0M0wyWEtqc21ERk1hX2ZoVHZIZnFRNkJMM1hMQk9kZXQydGIxNFlneHIxcGY4Uk1XdFZzaXhjLVpVOEFVRExVRFp2NTU3alBtTFFDMlQxRGVTWUkw?oc=5\" target=\"_blank\">Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
@@ -462,21 +477,6 @@
         "none"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2770,
-      "headline": "Changes to full-year guidance for BioMar - StreetInsider",
-      "story_summary": "BioMar has announced changes to its full-year guidance, indicating a downward revision of financial expectations. The announcement was attributed to leadership and represents a material update to investor expectations for the year.",
-      "first_seen": "2026-11-02T14:42:54+00:00",
-      "last_seen": "2026-11-06T07:07:36+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "exec_statement",
-        "financial"
-      ],
-      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1393,6 +1393,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2694,
+      "headline": "BioMar lanza una nueva era en la formulación de alimentos con BioRetain - Salmonexpert",
+      "story_summary": "BioMar has launched a new feed formulation technology called BioRetain, marking a significant advancement in aquaculture feed innovation. The product represents the company's commitment to developing next-generation solutions for the aquaculture industry.",
+      "first_seen": "2026-10-15T09:20:00+00:00",
+      "last_seen": "2026-10-16T15:19:36+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2698,
       "headline": "Skretting presenta programa de Sustainability & Innovation Conference 2026 con 11 expositores y lanzamiento de nueva dieta funcional - Mundoacuicola",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQzV0T0dXSzl5ZVVlUVRRcFdqaXlpRlpHSm5kT2JpV2I3b2pHLWY3RDMzVWMydE5QRXJLMTVGUXpGRHVYc2t1TGlrSWRoeTlXNUI3X0ZrdXh2dEdicVloLW1fVURqWmpxQjZ1dVFZOXQ0eVRVYTY5MG1GN1cxWnpmX3BXY213ODBVMFFQSlplblZMTmE2bHFDbEQzUlk0RlR1ZkRLVEplSGhZUGYzTE84b3FqYzNYYnJqMW1nd20tQS02OEFqS1VuajRab01ydXBVUXlTVjZYSXRsMHhvV0hZVDY4cFMzODFad044aVRpRDNPYTl1Nmow?oc=5\" target=\"_blank\">Skretting presenta programa de Sustainability & Innovation Conference 2026 con 11 expositores y lanzamiento de nueva dieta funcional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>",
@@ -1440,20 +1454,6 @@
       "story_summary": "BioMar has introduced BioRetain, a new product designed to improve nutrient retention and optimize the formulation of aquaculture feeds. The launch represents an innovation aimed at enhancing feed efficiency in the aquaculture sector.",
       "first_seen": "2026-10-15T13:49:01+00:00",
       "last_seen": "2026-10-15T13:49:01+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2694,
-      "headline": "BioMar lanza una nueva era en la formulación de alimentos con BioRetain - Salmonexpert",
-      "story_summary": "BioMar has launched a new feed formulation technology called BioRetain, marking a significant advancement in aquaculture feed innovation. The product represents the company's commitment to developing next-generation solutions for the aquaculture industry.",
-      "first_seen": "2026-10-15T09:20:00+00:00",
-      "last_seen": "2026-10-15T09:20:00+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
@@ -126045,16 +126045,19 @@
       "matched_keyword": "Schouw",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co. raises full-year revenue and EBITDA guidance.",
+      "key_claims": [
+        "Schouw & Co. raised 2026 revenue guidance",
+        "Schouw & Co. raised 2026 EBITDA guidance"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3dPYlItUExXQ0FvOWZtQ3BHa0xNcVJGX0Y2RTFWODk3TEUtZ2xVVU9XWWlBY2RDYXZkbTI3MzUyd05VZ0lDNWo5VWZWMjVLYlE5VVNEVkxGRjdpWm1QakozZlZ2ekU1VGUzMkRFdjNPclU4MDZkb2VCREpDd243UWMtYUxBRzJkY0pHazVwYkdPXzMxZzQ4T0VELTRGaWZQTkh0NTJoWk83TEJiUkw2Nk43NDRxZw?oc=5\" target=\"_blank\">Schouw & Co. Raises 2026 Revenue, EBITDA Guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "Schouw & Co., parent company of BioMar Group, has raised its revenue and EBITDA guidance for 2026. The company's improved outlook reflects positive business momentum across its portfolio."
     },
     {
       "id": 754740,
@@ -126127,6 +126130,86 @@
         "none"
       ],
       "summary": "Schouw & Co released its third-quarter 2026 interim report, which is cited in The Manila Times. The report is a standard periodic disclosure of financial performance for the parent company of BioMar Group, requiring no editorial analysis beyond factual presentation of results data and management statements as provided in the official document itself, a regulatory filing containing reporting on overall conglomerate performance that includes the aquaculture division among other business units within the holding company structure.Note: The article link itself is to an official interim report, not original journalism. Jens Bjerg Sørensen (Schouw President) is named in the matched keyword field but without verbatim quotes or direct commentary attributed to him in the lede/summary provided here, so he appears in context of an earnings document rather than an interview or statement context proper to the analysis framework.Note: This appears to be either a republication of a corporate filing or a news aggregation link to the raw document itself rather than independent media coverage with editorial analysis or reportage. The Manila Times may be hosting or linking to the official Schouw interim report for reader access rather than publishing original analysis. Absence of detailed article text prevents deeper claims extraction, but the core subject—a quarterly financial disclosure involving Schouw & Co, BioMar's parent—confirms topical relevance and target-brand association. Prominence is marked as "
+    },
+    {
+      "id": 755250,
+      "story_id": 2694,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWUwdDByYzB3QTZoY1dNN1VzOGF1eXl4QzVRSUlySUZGdlh0WkdtY291MjVJa3pJeUdyVjNmQU4tWWlpUEJqN1psbmFDc3hPTUZuTVl6bUkxaTRfdkJNTlNYUzZBN0Y0WkVONWo3U0NfMTFsdFNvTXNNR3E0ZlB5aEpjN29ocGRJVmhJZGt0bng3V21SM3dZ?oc=5",
+      "title": "BioMar lanza un nuevo concepto de formulación nutricional con BioRetain - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-10-16T15:19:36+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar launches innovative nutritional formulation concept with BioRetain",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has introduced a new nutritional formulation concept featuring BioRetain technology. The launch represents the company's advancement in aquaculture feed innovation for its customer base in the region covered by aqua.cl (likely Chile/Latin America).\n\nKey Claims: BioMar developed a new nutritional formulation concept; the formulation incorporates BioRetain technology; this represents a product innovation from the company.\n\n, "
+    },
+    {
+      "id": 755385,
+      "story_id": 2770,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWXNMVHRGYmFOVWlheUk4bkJXUWVnWUdrdkhpeWhGU3JxZjdhUi1aT004ajdpQnlkN25VYllqSDFZSDRTc0ZFbEoxbzBqOXlXRDRQTFNac2FzbjZKdEVwbFpLeHBkVTJ0YmtaeWtQdUpFeXpLREZmQ3hSYk1PS250b2pjSDVaVlBXakdhTGVuZ3BENFU0UXNCRmJVLTc0bldvLXd0N3NveDNrQUk3ZVVCNmhWRHFWRHdWUkhIakd2Rjc1bVhJeHFqdUgyU0lUQXpMUTNYa29kb1d1LTFzb0Eyd3I5TV8?oc=5",
+      "title": "Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2026-11-06T07:02:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co raises full-year 2026 guidance on revenue and EBITDA",
+      "key_claims": [
+        "Schouw & Co raised its full-year 2026 guidance on revenue",
+        "Schouw & Co raised its full-year 2026 guidance on EBITDA"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "Schouw & Co, the parent company of BioMar Group, has raised its full-year 2026 financial guidance for both revenue and EBITDA, signaling improved operational performance. The announcement reflects positive momentum across the company's portfolio including its aquaculture feed business BioMar Group led by President Jens Bjerg Sørensen."
+    },
+    {
+      "id": 755388,
+      "story_id": 2770,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTUJScEkyV0JmcEZZaEhLQ2RoaXBSalJVMEFjUzVjV3dDX2ZIdUItRkJBTHB1Qm5CMjg3UEJ3eEJNdWMyTWNqalNhZ3gyU0FXem5qYmMxMnVOWVhvLU8tQzhaLTRVN1BrYnM2aTFEMHNwVk4yN0YyNGtEaHZYOU8ybWF5SG1PLUQ0M0wyWEtqc21ERk1hX2ZoVHZIZnFRNkJMM1hMQk9kZXQydGIxNFlneHIxcGY4Uk1XdFZzaXhjLVpVOEFVRExVRFp2NTU3alBtTFFDMlQxRGVTWUkw0gHcAUFVX3lxTE9NQlJwSTJXQmZwRlloSEtDZGhpcFJqUlUwQWNTNWNXd0NfZkh1Qi1GQkFMcHVCbkIyODdQQnd4Qk11YzJNY2pqU2FneDJTQVd6bmpiYzEydU5ZWG8tTy1DOFotNFU3UGticzZpMUQwc3BWTjI3RjI0a0Rodlg5TzJtYXlIbU8tRDQzTDJYS2pzbURGTWFfZmhUdkhmcVE2QkwzWExCT2RldDJ0YjE0WWd4cjFwZjhSTVd0VnNpeGMtWlU4QVVETFVEWnY1NTdqUG1MUUMyVDFEZVNZSTA?oc=5",
+      "title": "Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-11-06T07:08:17+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co raises full-year 2026 guidance on revenue and EBITDA",
+      "key_claims": [
+        "Schouw & Co raised its full-year 2026 revenue guidance",
+        "Schouw & Co raised its full-year 2026 EBITDA guidance"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "Schouw & Co, the parent company of BioMar Group, announced an upward revision to its full-year 2026 financial guidance for both revenue and EBITDA. The article indicates strong financial performance and management confidence in achieving improved results for the full year."
     }
   ],
   "share_of_voice": {
@@ -129780,7 +129863,7 @@
       },
       {
         "week": "2026-W42",
-        "BioMar": 9,
+        "BioMar": 10,
         "Cargill": 0,
         "Skretting": 4
       },
@@ -129798,7 +129881,7 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 47,
+        "BioMar": 49,
         "Cargill": 0,
         "Skretting": 8
       }
@@ -129806,7 +129889,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2037
+        "count": 2040
       },
       {
         "company": "Cargill",
