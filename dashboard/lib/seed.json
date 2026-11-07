@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T01:33:38+00:00",
+  "generated_at": "2026-11-07T11:52:03+00:00",
   "stats": {
-    "mention_count": 3634,
-    "story_count": 2647,
-    "analyzed_count": 2042,
+    "mention_count": 3639,
+    "story_count": 2650,
+    "analyzed_count": 2045,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -237,6 +237,7 @@
     "Onda Vasca",
     "Opinión Bolivia",
     "Oppland Arbeiderblad",
+    "PEI Private Equity",
     "PR Newswire",
     "Packaging Gateway",
     "Paislobo Prensa",
@@ -424,6 +425,34 @@
   ],
   "stories": [
     {
+      "id": 2821,
+      "headline": "Biomar har oppkjøp som strategi (+) - Intrafish",
+      "story_summary": "BioMar is employing acquisitions as a key strategic initiative for business expansion. The article frames this acquisition strategy positively within the company's growth plans (+).",
+      "first_seen": "2026-11-07T07:02:34+00:00",
+      "last_seen": "2026-11-07T07:02:34+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2820,
+      "headline": "Altor and Bain sell fish food maker Ewos for $1.5 bln - PEI Private Equity",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQb24xazBzSlJrRnAyeFA1NktXMlktRkE5czdDMXFsTWlKQVJyVUZUZC12SUhDMmg1RUVCS00wVzh5bnQwWkpBbjBqNk9hVEZKNmxCSXFSZkV1c2RvRTdHNEQxZzBjWW9jMEV1MGNoa0pxRk9PYmRTblo1dl9zOWdDQ3BVbEdJN0duNVl4NkJFd09MdUVmejFIZkJHRko?oc=5\" target=\"_blank\">Altor and Bain sell fish food maker Ewos for $1.5 bln</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PEI Private Equity</font>",
+      "first_seen": "2026-11-07T05:00:43+00:00",
+      "last_seen": "2026-11-07T05:00:43+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 2818,
       "headline": "Schouw & Co. A/S (SCHO.CO) Q3 FY2026 earnings call transcript - Yahoo Finance",
       "story_summary": "Yahoo Finance published a transcript of Schouw & Co's Q3 FY2026 earnings call, featuring executives discussing the conglomerate's financial performance. The call includes discussion of Schouw's operating divisions, which include BioMar Group, the aquaculture feed subsidiary. The article does not include the full text or key takeaways directly visible in the provided summary, only the linked transcript placeholder on Yahoo Finance's earnings platform. As a earnings call transcript publication, the article likely contains exec_statement elements from Jens Bjerg Sørensen or other named Schouw leadership discussing financial results and business outlook across divisions including BioMar's performance in the aquaculture sector and operational metrics for the quarter.",
@@ -439,15 +468,15 @@
     },
     {
       "id": 2817,
-      "headline": "Schouw & Co. Raises 2026 Revenue, EBITDA Guidance - TradingView",
-      "story_summary": "Schouw & Co., parent company of BioMar Group, has raised its revenue and EBITDA guidance for 2026. The company's improved outlook reflects positive business momentum across its portfolio.",
-      "first_seen": "2026-11-06T07:10:00+00:00",
-      "last_seen": "2026-11-06T07:10:00+00:00",
+      "headline": "Schouw & Co Q3 2026 EBITDA DKK 1.20 Billion - TradingView",
+      "story_summary": "Schouw & Co reported Q3 2026 EBITDA of DKK 1.20 billion. The announcement was published on TradingView financial platform on 6 November 2026. Note: The snippet contains only the headline and source information without detailed earnings commentary or context from the full article body. Without access to the complete article text, claim details are limited to the headline figure alone. Recommend review of full earnings report or press release for comprehensive analysis of segment performance, including BioMar's contribution to group results. Sentiment: neutral - factual, straightforward financial disclosure. Confidence: high (0.95) - financial results are presented without commentary that would shift tone. Prominence: primary - Schouw & Co and its financial results are the clear focus. Angle: routine quarterly earnings announcement. Key claims: limited to the single data point provided in headline. Risk flags: ['financial'] - this is a quarterly earnings disclosure involving a parent company of BioMar Group. Exec_statement flag not applied as no named executive quote is present in the provided text snippet; if the full article contains CEO or CFO commentary, please re-submit with complete text. People quoted: none identified in the snippet provided. Additional analysis pending access to full article content including management commentary, segment results, forward guidance, or other substantive discussion of BioMar's performance or strategy within the group results context. Based on the information provided, this is a standard financial disclosure. Without the body text, interpretation is limited to headline data only. If the full article contains material discussion of BioMar, its brands (LARVIVA, INICIO, EFICO, ORBIT, SIGMA), regional performance, or strategic commentary from Carlos Diaz or other named executives, those details should be incorporated into a revised analysis. For now: Key claims: ['Schouw & Co reported Q3 2026 EBITDA of DKK 1.20 billion']  Risk flags: ['financial'] People quoted: [] is_about_target_brand: true, ",
+      "first_seen": "2026-11-06T07:09:00+00:00",
+      "last_seen": "2026-11-06T08:57:50+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -20282,6 +20311,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOLUpPWjZJME56U0pHZGgwQ2ppeEd4WVBTQkFWekdnRmpVelBJYWVnUjdJblNYUmxHNjdvZVlTdkVPWjNkR3VqdFFuclQ5Y0JVc2NtUEpuRWZWSlRyMEhoM3Y1VUNqXzBIeGNVVkhVNTJiUTdjSVZXUTZieWh5Rm9zdnlybG9GVk1Qb1o2ZDJlbHpWVlMtcGfSAaMBQVVfeXFMTnVpc2xuWTNJbGNLVDJGRFd0eHY0Q0hqRUVtSEx3Ry1Ha1MxcHE0N3B4Zzl2X3hKUVZrSUFucWNkZ0tuZUw1bGdYakJKa2h1SmF1TWY3d2FCM1VNZDlRb2JCemVwM0sydUkxZlVtb090enhuTW9kUmFwdnZ5MjU0RzlDVEhWSUdHcFNmbF84V3VRVWk2STZ1ai1aRHR0U3R2WUY1SQ?oc=5\" target=\"_blank\">Skretting launches a new premium feed for barramundi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
       "first_seen": "2024-02-13T08:00:00+00:00",
       "last_seen": "2024-02-13T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2819,
+      "headline": "Skretting Chile and Vimifos feed mills achieve ASC certification; Global Reporting Initiative unveils biodiversity standard - SeafoodSource",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZFp1N0tsQTZLRGlzZDJ0YnJjb1hMTEV5Q0RDd1V5Z3hMNFh6M0RoVERZQUxCZkQwcFNYX2dXbU1vWVJTdGx2QlJXVEFwZE94bVBFenUzclZGRzZPZmZ1al9Lc1pVaUxBXzRyZjdiME9nN1VTNHBzSERPTW1VbDdKZDIyMU5iNDYxMVBrOHpZdUZtbTRlVzE4R1dLVWZiZXlJLUF6U3g3UDdUNnc4cV84OVJXb2ptYXFrb3dPUWtFWERQUXNiTHlfR0JXVnVXdk4zS01ROGwtYzRBOGZfbEVYU3ZsMTg1dFpyT1ZRSjl3Qlc4Qmc?oc=5\" target=\"_blank\">Skretting Chile and Vimifos feed mills achieve ASC certification; Global Reporting Initiative unveils biodiversity standard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>",
+      "first_seen": "2024-02-12T08:00:00+00:00",
+      "last_seen": "2024-02-12T08:00:00+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -126275,6 +126318,126 @@
         "none"
       ],
       "summary": "Yahoo Finance published a transcript of Schouw & Co's Q3 FY2026 earnings call, featuring executives discussing the conglomerate's financial performance. The call includes discussion of Schouw's operating divisions, which include BioMar Group, the aquaculture feed subsidiary. The article does not include the full text or key takeaways directly visible in the provided summary, only the linked transcript placeholder on Yahoo Finance's earnings platform. As a earnings call transcript publication, the article likely contains exec_statement elements from Jens Bjerg Sørensen or other named Schouw leadership discussing financial results and business outlook across divisions including BioMar's performance in the aquaculture sector and operational metrics for the quarter."
+    },
+    {
+      "id": 756840,
+      "story_id": 2821,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMHhjYkxYUktRdWoyRlhxcDAzSFJUMl93LVFzRUJHa3pUMjlYSUwzaTZpYXBnWFh1d1VSRlJqR3dyRjhPU1d3UnFfaXdKeDFERUNmRm53TUlMS21mTzUxdEdlTUEwNmhKUHZKLTdXZ3c1cUhNWDIyeG9Cc0gwYVRRTWt3?oc=5",
+      "title": "Biomar har oppkjøp som strategi (+) - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-07T07:02:34+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar pursuing acquisitions as strategic growth approach",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar is employing acquisitions as a key strategic initiative for business expansion. The article frames this acquisition strategy positively within the company's growth plans (+)."
+    },
+    {
+      "id": 757030,
+      "story_id": 2817,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOU1WUnZjOFpKSDMtSGcxRUJwUWJ1TVRoc1h2NVA0aGd3ZVBBdEpXenctSWIwT19RNEpySXhTSU5iSUNwTG04VUVnc1dZV3Fva3F6bmpBSGl3RXV0dGJ0VEN0U3Qycmk3TzdkbXpfSlJVNDR0MXUwRUxhdnhpMThUN3VRcjFmMkZ3eVJDemZ0VENtNDhNdUd5Z0lsYUcwVC1Ldml2cDhKVnRORUU?oc=5",
+      "title": "Schouw & Co Q3 2026 Earnings Call Is Live - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-06T08:57:50+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co Q3 2026 earnings call announcement",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "TradingView has announced that Schouw & Co's Q3 2026 earnings call is now live. The article is a brief notification directing readers to the earnings event without providing commentary or results details. key_claims: [], "
+    },
+    {
+      "id": 757031,
+      "story_id": 2817,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2NKRGRQeTRhRnFLcFhBaHNVUHludFd0V2RoVUQwYXgwX2ItcWZHTFpoUE5PNnpDYjdZcVNIQm9JbmJPdjhJQW1JM3NjbXR6WVJ4MkRMX3lvWHdXLWZpOHJrN3VrTS1rX0FwY3otN19FQ2tKMEpJRXkzSXItSko4MWk1SG1JWW5aeU5kVF85NU5HdG1acGExZUU3YzNzRm9FUVFuUkJZcGZZSlpxOFlF?oc=5",
+      "title": "Schouw & Co Q3 2026 EBITDA DKK 1.20 Billion - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-06T07:09:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co reports Q3 2026 EBITDA of DKK 1.20 billion",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co reported Q3 2026 EBITDA of DKK 1.20 billion. The announcement was published on TradingView financial platform on 6 November 2026. Note: The snippet contains only the headline and source information without detailed earnings commentary or context from the full article body. Without access to the complete article text, claim details are limited to the headline figure alone. Recommend review of full earnings report or press release for comprehensive analysis of segment performance, including BioMar's contribution to group results. Sentiment: neutral - factual, straightforward financial disclosure. Confidence: high (0.95) - financial results are presented without commentary that would shift tone. Prominence: primary - Schouw & Co and its financial results are the clear focus. Angle: routine quarterly earnings announcement. Key claims: limited to the single data point provided in headline. Risk flags: ['financial'] - this is a quarterly earnings disclosure involving a parent company of BioMar Group. Exec_statement flag not applied as no named executive quote is present in the provided text snippet; if the full article contains CEO or CFO commentary, please re-submit with complete text. People quoted: none identified in the snippet provided. Additional analysis pending access to full article content including management commentary, segment results, forward guidance, or other substantive discussion of BioMar's performance or strategy within the group results context. Based on the information provided, this is a standard financial disclosure. Without the body text, interpretation is limited to headline data only. If the full article contains material discussion of BioMar, its brands (LARVIVA, INICIO, EFICO, ORBIT, SIGMA), regional performance, or strategic commentary from Carlos Diaz or other named executives, those details should be incorporated into a revised analysis. For now: Key claims: ['Schouw & Co reported Q3 2026 EBITDA of DKK 1.20 billion']  Risk flags: ['financial'] People quoted: [] is_about_target_brand: true, "
+    },
+    {
+      "id": 757113,
+      "story_id": 2819,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZFp1N0tsQTZLRGlzZDJ0YnJjb1hMTEV5Q0RDd1V5Z3hMNFh6M0RoVERZQUxCZkQwcFNYX2dXbU1vWVJTdGx2QlJXVEFwZE94bVBFenUzclZGRzZPZmZ1al9Lc1pVaUxBXzRyZjdiME9nN1VTNHBzSERPTW1VbDdKZDIyMU5iNDYxMVBrOHpZdUZtbTRlVzE4R1dLVWZiZXlJLUF6U3g3UDdUNnc4cV84OVJXb2ptYXFrb3dPUWtFWERQUXNiTHlfR0JXVnVXdk4zS01ROGwtYzRBOGZfbEVYU3ZsMTg1dFpyT1ZRSjl3Qlc4Qmc?oc=5",
+      "title": "Skretting Chile and Vimifos feed mills achieve ASC certification; Global Reporting Initiative unveils biodiversity standard - SeafoodSource",
+      "source_name": "SeafoodSource",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2024-02-12T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZFp1N0tsQTZLRGlzZDJ0YnJjb1hMTEV5Q0RDd1V5Z3hMNFh6M0RoVERZQUxCZkQwcFNYX2dXbU1vWVJTdGx2QlJXVEFwZE94bVBFenUzclZGRzZPZmZ1al9Lc1pVaUxBXzRyZjdiME9nN1VTNHBzSERPTW1VbDdKZDIyMU5iNDYxMVBrOHpZdUZtbTRlVzE4R1dLVWZiZXlJLUF6U3g3UDdUNnc4cV84OVJXb2ptYXFrb3dPUWtFWERQUXNiTHlfR0JXVnVXdk4zS01ROGwtYzRBOGZfbEVYU3ZsMTg1dFpyT1ZRSjl3Qlc4Qmc?oc=5\" target=\"_blank\">Skretting Chile and Vimifos feed mills achieve ASC certification; Global Reporting Initiative unveils biodiversity standard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+    },
+    {
+      "id": 757293,
+      "story_id": 2820,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb24xazBzSlJrRnAyeFA1NktXMlktRkE5czdDMXFsTWlKQVJyVUZUZC12SUhDMmg1RUVCS00wVzh5bnQwWkpBbjBqNk9hVEZKNmxCSXFSZkV1c2RvRTdHNEQxZzBjWW9jMEV1MGNoa0pxRk9PYmRTblo1dl9zOWdDQ3BVbEdJN0duNVl4NkJFd09MdUVmejFIZkJHRko?oc=5",
+      "title": "Altor and Bain sell fish food maker Ewos for $1.5 bln - PEI Private Equity",
+      "source_name": "PEI Private Equity",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-07T05:00:43+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQb24xazBzSlJrRnAyeFA1NktXMlktRkE5czdDMXFsTWlKQVJyVUZUZC12SUhDMmg1RUVCS00wVzh5bnQwWkpBbjBqNk9hVEZKNmxCSXFSZkV1c2RvRTdHNEQxZzBjWW9jMEV1MGNoa0pxRk9PYmRTblo1dl9zOWdDQ3BVbEdJN0duNVl4NkJFd09MdUVmejFIZkJHRko?oc=5\" target=\"_blank\">Altor and Bain sell fish food maker Ewos for $1.5 bln</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PEI Private Equity</font>"
     }
   ],
   "share_of_voice": {
@@ -129102,7 +129265,7 @@
         "week": "2024-W07",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2024-W08",
@@ -129946,23 +130109,23 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 51,
-        "Cargill": 0,
+        "BioMar": 54,
+        "Cargill": 1,
         "Skretting": 8
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2042
+        "count": 2045
       },
       {
         "company": "Cargill",
-        "count": 314
+        "count": 315
       },
       {
         "company": "Skretting",
-        "count": 1278
+        "count": 1279
       }
     ]
   }
