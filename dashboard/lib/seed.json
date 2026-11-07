@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T15:47:24+00:00",
+  "generated_at": "2026-11-07T19:58:23+00:00",
   "stats": {
-    "mention_count": 3639,
-    "story_count": 2650,
-    "analyzed_count": 2045,
+    "mention_count": 3640,
+    "story_count": 2651,
+    "analyzed_count": 2046,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -451,6 +451,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2822,
+      "headline": "Schouw & Co AS (FRA:5RF) (Q3 2026) Earnings Call Highlights: Record Quarter Sparks Guidance ... - Yahoo Finance",
+      "story_summary": "Schouw & Co achieved record quarterly results in Q3 2026, prompting the company to raise its forward guidance. The earnings call highlights indicate strong operational and financial performance across the conglomerate's portfolio, including its aquaculture feed division BioMar Group.",
+      "first_seen": "2026-11-06T19:16:01+00:00",
+      "last_seen": "2026-11-06T19:16:01+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2818,
@@ -126438,6 +126452,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQb24xazBzSlJrRnAyeFA1NktXMlktRkE5czdDMXFsTWlKQVJyVUZUZC12SUhDMmg1RUVCS00wVzh5bnQwWkpBbjBqNk9hVEZKNmxCSXFSZkV1c2RvRTdHNEQxZzBjWW9jMEV1MGNoa0pxRk9PYmRTblo1dl9zOWdDQ3BVbEdJN0duNVl4NkJFd09MdUVmejFIZkJHRko?oc=5\" target=\"_blank\">Altor and Bain sell fish food maker Ewos for $1.5 bln</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PEI Private Equity</font>"
+    },
+    {
+      "id": 758140,
+      "story_id": 2822,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUkwNlR3ZUxSMkM2bTJzU210WVZkZ1BWMTRxVzcxVzZZUldCOHhPNEJnbzh3ZnE0UjV3bUZ5aEpEVU4wcDY2VGRucUdScUtJa0dqdlFvVlVlM2l3SmE3dEdwR01JbVRob0FSQ1BaMTFLLW1UQkdIXzJvSHNRYXNRVURMYVFrRUJ4akRPdlpB?oc=5",
+      "title": "Schouw & Co AS (FRA:5RF) (Q3 2026) Earnings Call Highlights: Record Quarter Sparks Guidance ... - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-11-06T19:16:01+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw records strong Q3 2026 results and raises guidance",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co achieved record quarterly results in Q3 2026, prompting the company to raise its forward guidance. The earnings call highlights indicate strong operational and financial performance across the conglomerate's portfolio, including its aquaculture feed division BioMar Group."
     }
   ],
   "share_of_voice": {
@@ -130109,7 +130147,7 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 54,
+        "BioMar": 55,
         "Cargill": 1,
         "Skretting": 8
       }
@@ -130117,7 +130155,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2045
+        "count": 2046
       },
       {
         "company": "Cargill",
