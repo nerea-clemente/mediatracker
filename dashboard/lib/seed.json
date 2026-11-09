@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T01:23:24+00:00",
+  "generated_at": "2026-11-09T14:11:03+00:00",
   "stats": {
-    "mention_count": 3642,
-    "story_count": 2651,
-    "analyzed_count": 2048,
+    "mention_count": 3650,
+    "story_count": 2657,
+    "analyzed_count": 2055,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -425,6 +425,90 @@
   ],
   "stories": [
     {
+      "id": 2828,
+      "headline": "Møttes etter uenighet: – Gode venner - gat.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBOc0VuSVlfMkRHYjJnbnNsY25YNlBMbTJEVkRXRFFfY0Z5bndNM2VTX0JKMUhVZkxwWkd6S3BxU2ppUGVudnRGZnBLSXl5cTVuVGEwOUtLUDhkaXo5X1U2VmlUcFpJSmk2aXJUQkdRVG4zd2hialAxOUt3?oc=5\" target=\"_blank\">Møttes etter uenighet: – Gode venner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>",
+      "first_seen": "2026-11-09T12:11:04+00:00",
+      "last_seen": "2026-11-09T12:11:04+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2827,
+      "headline": "BioMar Ecuador Inaugurates Shrimp Feed Production Expansion - Seafoodnews",
+      "story_summary": "BioMar Ecuador has inaugurated an expansion of its shrimp feed production capacity. The move represents infrastructure investment in the company's aquaculture feed operations in the region.",
+      "first_seen": "2026-11-09T11:56:45+00:00",
+      "last_seen": "2026-11-09T11:56:45+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2826,
+      "headline": "BioMar opens Ecuador shrimp feed expansion, targets up to 710,000t capacity by 2028 - Undercurrent News",
+      "story_summary": "BioMar has opened a shrimp feed expansion in Ecuador with ambitions to reach 710,000 tonnes of production capacity by 2028. The expansion represents a significant investment in the company's regional aquaculture feed operations in South America.",
+      "first_seen": "2026-11-09T10:48:00+00:00",
+      "last_seen": "2026-11-09T10:48:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2825,
+      "headline": "BioMar expands shrimp feed capacity by 37% in Ecuador - Fishfarming expert",
+      "story_summary": "BioMar has expanded its shrimp feed production capacity in Ecuador by 37%, signaling growth in its aquaculture feed operations. The expansion reflects the company's strategic investment in key markets for shrimp farming inputs.",
+      "first_seen": "2026-11-09T10:23:49+00:00",
+      "last_seen": "2026-11-09T10:23:49+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2824,
+      "headline": "Danske Bank eleva el precio objetivo de Schouw & Co. a 985 DKK (desde 945) y reitera comprar - BN - MarketScreener España",
+      "story_summary": "Danske Bank has increased its price target for Schouw & Co. from 945 DKK to 985 DKK while maintaining a buy rating on the stock. The adjustment reflects the bank's confidence in the company's prospects and valuation potential going forward.",
+      "first_seen": "2026-11-09T10:04:15+00:00",
+      "last_seen": "2026-11-09T10:04:15+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2806,
+      "headline": "Nordea eleva el precio objetivo de Schouw & Co. a 895 DKK (880) y reitera comprar - MarketScreener España",
+      "story_summary": "Nordea has raised its price target for Schouw & Co to 895 DKK and maintained a buy recommendation on the stock. The upgrade reflects analyst confidence in the company's valuation and prospects.",
+      "first_seen": "2026-11-04T06:36:39+00:00",
+      "last_seen": "2026-11-09T05:51:33+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2821,
       "headline": "Biomar har oppkjøp som strategi (+) - Intrafish",
       "story_summary": "BioMar is employing acquisitions as a key strategic initiative for business expansion. The article frames this acquisition strategy positively within the company's growth plans (+).",
@@ -496,15 +580,15 @@
     },
     {
       "id": 2816,
-      "headline": "Interim report - third quarter of 2026 - The Manila Times",
-      "story_summary": "Schouw & Co released its third-quarter 2026 interim report, which is cited in The Manila Times. The report is a standard periodic disclosure of financial performance for the parent company of BioMar Group, requiring no editorial analysis beyond factual presentation of results data and management statements as provided in the official document itself, a regulatory filing containing reporting on overall conglomerate performance that includes the aquaculture division among other business units within the holding company structure.Note: The article link itself is to an official interim report, not original journalism. Jens Bjerg Sørensen (Schouw President) is named in the matched keyword field but without verbatim quotes or direct commentary attributed to him in the lede/summary provided here, so he appears in context of an earnings document rather than an interview or statement context proper to the analysis framework.Note: This appears to be either a republication of a corporate filing or a news aggregation link to the raw document itself rather than independent media coverage with editorial analysis or reportage. The Manila Times may be hosting or linking to the official Schouw interim report for reader access rather than publishing original analysis. Absence of detailed article text prevents deeper claims extraction, but the core subject—a quarterly financial disclosure involving Schouw & Co, BioMar's parent—confirms topical relevance and target-brand association. Prominence is marked as ",
+      "headline": "Interim report – third quarter of 2026 - StreetInsider",
+      "story_summary": "Schouw & Co, the parent company of BioMar Group, published its third quarter 2026 interim financial report. The announcement appears to be a routine earnings disclosure covering the period's operational and financial performance.",
       "first_seen": "2026-11-06T07:08:24+00:00",
-      "last_seen": "2026-11-06T07:08:24+00:00",
+      "last_seen": "2026-11-06T07:20:59+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -660,20 +744,6 @@
         "none"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2806,
-      "headline": "Nordea eleva el precio objetivo de Schouw & Co. a 895 DKK (880) y reitera comprar - MarketScreener España",
-      "story_summary": "Nordea has raised its price target for Schouw & Co to 895 DKK and maintained a buy recommendation on the stock. The upgrade reflects analyst confidence in the company's valuation and prospects.",
-      "first_seen": "2026-11-04T06:36:39+00:00",
-      "last_seen": "2026-11-04T06:36:39+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -37030,6 +37100,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2823,
+      "headline": "Schouw solgte seg ut av Lerøy - Fisk.no",
+      "story_summary": "Schouw & Co has sold its ownership stake in Lerøy, a seafood company. The article reports on this divestment transaction by Schouw's portfolio management activities in the Norwegian seafood sector. (Note: limited detail available from the provided excerpt; the full article would contain additional context.)",
+      "first_seen": "2013-01-25T08:00:00+00:00",
+      "last_seen": "2013-01-25T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2006,
@@ -126527,6 +126611,207 @@
         "financial"
       ],
       "summary": "BioMar has upwardly revised its financial guidance for 2026, increasing both revenue and EBIT targets. The announcement reflects improved business outlook for the aquaculture feed producer during the year."
+    },
+    {
+      "id": 761353,
+      "story_id": 2827,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWE5BRVNYN00yU1lLcGt5R0VEbDJ1OEdZWXA5UUdjd2ZJUXNnMm52VThZd2ZyZUU4ODM0UmJJdGlnTEdmQk5uQnoyVXQ3b3JETHJFZ0Rjb0ZNRmc2eEJWaS1nVEx1TERvWGdFb0t1TWZqdGl5c09zU043ZGJULThMSEYyU09JUU4xbm1wTFpKR2FIWmlqeHlBQi1XcENVRFNINUJJ?oc=5",
+      "title": "BioMar Ecuador Inaugurates Shrimp Feed Production Expansion - Seafoodnews",
+      "source_name": "Seafoodnews",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-11-09T11:56:45+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.8,
+      "prominence": "primary",
+      "angle": "BioMar Ecuador opens expanded shrimp feed production facility",
+      "key_claims": [
+        "BioMar Ecuador has inaugurated a shrimp feed production expansion"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar Ecuador has inaugurated an expansion of its shrimp feed production capacity. The move represents infrastructure investment in the company's aquaculture feed operations in the region."
+    },
+    {
+      "id": 761354,
+      "story_id": 2825,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWHhwSEtSa21qUmdUbkdZOHczajFOX2NTMDhZVkVyY2ljaDVuMWpaQUtzckphQm4xRVEwMG5HTE5yTUlpNm5HWjdPUVFFQXB5RjdBdmdmbzRZdE5BaXkzdkJlUmNXOHVXclNFYlBKMDhuTWt1MDNPT2JSTkEyaGtxWkI3RDNMWFg3Z0dPWVdHM3FwWUQ1ZWxFWXJtSWdLVG5hcmcyaWQwRjF1TmtVclhtZFBubGtRTWo2akd3dl9NQWxobW1ZMzhlWg?oc=5",
+      "title": "BioMar expands shrimp feed capacity by 37% in Ecuador - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-11-09T10:23:49+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar increases shrimp feed production capacity in Ecuador",
+      "key_claims": [
+        "BioMar expanded shrimp feed capacity by 37% in Ecuador"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has expanded its shrimp feed production capacity in Ecuador by 37%, signaling growth in its aquaculture feed operations. The expansion reflects the company's strategic investment in key markets for shrimp farming inputs."
+    },
+    {
+      "id": 761355,
+      "story_id": 2826,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVV6VHdZdmdkd0dLaFNwdnFmOW5UWk9FTW81eEsySmpfUFFEd1V6RHRFWGV0U2VfelF1SThKNWlkeTYyNVBZQ0dhZFFWUVJTR0pLNnJOQldVVmdGNjZxM0NqckRZLTMyNTRkSmFydDNpTDNRcnAxYVRLSjQ1OEZfY1V6b0ptX2pHbW5LaWFXbTYzX1EyZ08yNGo5Mm1PS1dkRVJuVXFqbzlwc3dNVVQ0MUhOLU5oeUVtNjdQUTRVOTlwQzU3?oc=5",
+      "title": "BioMar opens Ecuador shrimp feed expansion, targets up to 710,000t capacity by 2028 - Undercurrent News",
+      "source_name": "Undercurrent News",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2026-11-09T10:48:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.8,
+      "prominence": "primary",
+      "angle": "BioMar expands Ecuador shrimp feed capacity significantly ahead of 2028",
+      "key_claims": [
+        "BioMar opened a shrimp feed expansion facility in Ecuador",
+        "The expansion targets up to 710,000 tonnes of capacity by 2028"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has opened a shrimp feed expansion in Ecuador with ambitions to reach 710,000 tonnes of production capacity by 2028. The expansion represents a significant investment in the company's regional aquaculture feed operations in South America."
+    },
+    {
+      "id": 761562,
+      "story_id": 2806,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaktCVlUwVWR0bS14cEwxUlBVc0loU3FZTkhmLXY1UGZLQzdFcGZRVXVIYmtteFcxU1JSWXI1VTR5S2RxLXZPMmZxWGR5ZmxNRzc2akpaYTI1VTRGcHJBRndqZEFyWk9NcjJkc0VFUHNiSFpJZnFMNE1ZWk1KWWNrR3g1MzhGcWluZHBXNENuMy1TcDRZXzA3LWtfVHE0U1BJZjZ0VDBSeGRIenJaT0Z3VTdPNHpaRVp3cGVGTEdvejNIZmtENW14VExRQms2dw?oc=5",
+      "title": "DNB Carnegie raises its price target for Schouw & Co. to DKK 980 (960), reiterates buy - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-11-09T05:51:33+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Analyst upgrades price target and maintains buy rating for Schouw",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "DNB Carnegie increased its price target for Schouw & Co. from DKK 960 to DKK 980 while reiterating a buy recommendation. The analyst action reflects confidence in the industrial conglomerate's valuation and prospects."
+    },
+    {
+      "id": 761571,
+      "story_id": 2823,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ETm95dkxkUFdCcnNGTHpubmVBaURXblZlWVp6LTJKT2x6ZjVmOG55Y2hlSmYzeTBEcDNISzFqcWFfTHlLWGZTUkRNUUFSTzlWTnY1TVBVLWVDbjU2TW1XdlpidWpKWElTMTBN?oc=5",
+      "title": "Schouw solgte seg ut av Lerøy - Fisk.no",
+      "source_name": "Fisk.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2013-01-25T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "secondary",
+      "angle": "Schouw divests stake in Lerøy seafood company",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co has sold its ownership stake in Lerøy, a seafood company. The article reports on this divestment transaction by Schouw's portfolio management activities in the Norwegian seafood sector. (Note: limited detail available from the provided excerpt; the full article would contain additional context.)"
+    },
+    {
+      "id": 761592,
+      "story_id": 2824,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbEw4S2Z4cENuS0l6UXNhUW1GTzFZaTlmdlpmSmo5T0VtN01XU3dKQ0dERDFmVndEUDRLUnA4cDhRTmFzQ0ttanphbGgzT0d5Zno1ejFoRUpET3RuUnBLU2Rtb0lHQjBBUFhCd3lPWjNQaFhGT2d5TnlBSWo2TjVlSHNUd0VjdjBnUFJzZjdmYnluWVNJYUN1eWxwMkdyczRXNERaZDBBbUFuWmNKbGRPVlZ4T1NMXzlkM1k4Q0VYU25NTktxNVc2cXNpLWkzNHpsWFZyZlpVRm8zN2NFb3Bj?oc=5",
+      "title": "Danske Bank eleva el precio objetivo de Schouw & Co. a 985 DKK (desde 945) y reitera comprar - BN - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-11-09T10:04:15+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.92,
+      "prominence": "primary",
+      "angle": "Danske Bank raises price target for Schouw on positive outlook",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Danske Bank has increased its price target for Schouw & Co. from 945 DKK to 985 DKK while maintaining a buy rating on the stock. The adjustment reflects the bank's confidence in the company's prospects and valuation potential going forward."
+    },
+    {
+      "id": 761635,
+      "story_id": 2816,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdExua3ZWVndFZDNWY1c4QnRxRmZESlhPMVRhS1g4dXdHUnlxTThtVmF3dVBSUVlTZ3V1THVqVlZlWHFnV0NRSUozTDQxZ1FjSWhKS3hPWDVRMEZGMVpVZHVTTkZoR3ZIS1dJMTV4dloyQzljUGR1MzVlSmEtZGg2YVZsVEI4ZG83TkdQVUhzS0FlOGlwd2ZoX25CSlFsWHlSemliNEZ4Sy0?oc=5",
+      "title": "Interim report – third quarter of 2026 - StreetInsider",
+      "source_name": "StreetInsider",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-06T07:20:59+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co reports Q3 2026 financial results",
+      "key_claims": [
+        "Schouw & Co (BioMar's parent company) released third quarter 2026 interim results"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co, the parent company of BioMar Group, published its third quarter 2026 interim financial report. The announcement appears to be a routine earnings disclosure covering the period's operational and financial performance."
+    },
+    {
+      "id": 761696,
+      "story_id": 2828,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOc0VuSVlfMkRHYjJnbnNsY25YNlBMbTJEVkRXRFFfY0Z5bndNM2VTX0JKMUhVZkxwWkd6S3BxU2ppUGVudnRGZnBLSXl5cTVuVGEwOUtLUDhkaXo5X1U2VmlUcFpJSmk2aXJUQkdRVG4zd2hialAxOUt3?oc=5",
+      "title": "Møttes etter uenighet: – Gode venner - gat.no",
+      "source_name": "gat.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-09T12:11:04+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBOc0VuSVlfMkRHYjJnbnNsY25YNlBMbTJEVkRXRFFfY0Z5bndNM2VTX0JKMUhVZkxwWkd6S3BxU2ppUGVudnRGZnBLSXl5cTVuVGEwOUtLUDhkaXo5X1U2VmlUcFpJSmk2aXJUQkdRVG4zd2hialAxOUt3?oc=5\" target=\"_blank\">Møttes etter uenighet: – Gode venner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">gat.no</font>"
     }
   ],
   "share_of_voice": {
@@ -126754,7 +127039,7 @@
       },
       {
         "week": "2013-W04",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -130198,15 +130483,21 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 56,
+        "BioMar": 57,
         "Cargill": 1,
         "Skretting": 8
+      },
+      {
+        "week": "2026-W46",
+        "BioMar": 5,
+        "Cargill": 0,
+        "Skretting": 1
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2048
+        "count": 2055
       },
       {
         "company": "Cargill",
@@ -130214,7 +130505,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1279
+        "count": 1280
       }
     ]
   }
