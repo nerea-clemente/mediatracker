@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T19:57:00+00:00",
+  "generated_at": "2026-11-09T23:59:35+00:00",
   "stats": {
     "mention_count": 3654,
     "story_count": 2659,
-    "analyzed_count": 2057,
+    "analyzed_count": 2059,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -426,8 +426,8 @@
   "stories": [
     {
       "id": 2829,
-      "headline": "Schouw & Co. to initiate share buy-back programme of up to DKK 75 million - The Manila Times",
-      "story_summary": "Schouw & Co., the parent company of BioMar Group, has announced a share buyback programme valued at up to DKK 75 million. The announcement represents a standard corporate capital allocation decision by the industrial conglomerate headquartered in Aarhus, Denmark.",
+      "headline": "Schouw & Co. To Initiate Share Buy-Back Programme Of Up To DKK 75 Mln - TradingView",
+      "story_summary": "Schouw & Co. has announced the initiation of a share buy-back programme with a maximum allocation of DKK 75 million. This is a standard capital allocation decision by the parent company of BioMar Group, signaling management confidence in the company's financial position and shareholder returns strategy.",
       "first_seen": "2026-11-09T14:58:29+00:00",
       "last_seen": "2026-11-09T14:59:46+00:00",
       "primary_sentiment": "neutral",
@@ -460,7 +460,7 @@
       "last_seen": "2026-11-09T14:46:48+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
       "pickup_count": 2,
       "is_about_target_brand": true,
@@ -126854,16 +126854,18 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands production capacity in Ecuador",
+      "key_claims": [
+        "BioMar is inaugurating the first phase of a production expansion facility in Ecuador"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGxVdUdNQXVLVDNmWDVVUjdsUF9aalBOVmNhbHhHa0o3LWRURm56Ri1qYmh0ZDRwa1NFX2QwRW1ISXZjSFhBWjBRRkJDQXpldldCaU5YeDhnZk9WMGF2d2w5ZVFEenQwam9mdUg0Zklqc0twOEpEcU05a3cwbEpPNGFtQWs2TnhWc3kzTzRGakxBSGZvVUNvWXB2dGsxZC1tUkl3?oc=5\" target=\"_blank\">BioMar Inaugurates First Phase of Production Expansion in Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Perishable News</font>"
+      "summary": "BioMar has inaugurated the first phase of its production expansion in Ecuador, signaling investment in regional manufacturing capacity. The expansion represents a strategic move to increase production capabilities in the Latin American aquaculture market."
     },
     {
       "id": 762133,
@@ -126879,15 +126881,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co. announces share buyback program of up to DKK 75 million",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2NFZkw4MkZUd2dIelFNTVRBMDQxd0RjSUZZUWs1Z0c1TTk1alpyRzB6R0pTVk85TV9WbzFmY283Q3ZhakFtNmxKZnAwYUIzOERsaXc0T2lwMU5RZkN1blV0bzBuUFBNZFRGbEZUTUxEQ1ViNEV2UXR0RVg4bzhHUEk0dnNJTXA2enZpOTFfeUdIQm00RUpiOFNHWkp4ZDZtV25iVDQ1aE1fallVS3NPRFR3Q1N1SlNKaWRWbjBPZGxDNHE0VzZHT2RILWVUYm00RXc?oc=5\" target=\"_blank\">Schouw & Co. To Initiate Share Buy-Back Programme Of Up To DKK 75 Mln</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>"
+      "summary": "Schouw & Co. has announced the initiation of a share buy-back programme with a maximum allocation of DKK 75 million. This is a standard capital allocation decision by the parent company of BioMar Group, signaling management confidence in the company's financial position and shareholder returns strategy."
     },
     {
       "id": 762134,
