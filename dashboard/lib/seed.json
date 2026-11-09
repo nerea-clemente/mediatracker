@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T20:15:50+00:00",
+  "generated_at": "2026-11-09T01:23:24+00:00",
   "stats": {
-    "mention_count": 3640,
+    "mention_count": 3642,
     "story_count": 2651,
-    "analyzed_count": 2046,
+    "analyzed_count": 2048,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -947,15 +947,15 @@
     },
     {
       "id": 2810,
-      "headline": "BIOMAR(NY): OPPJUSTERER GUIDING FOR OMSETNING OG EBIT, KUTTER VOLUMGUIDING - Finansavisen",
-      "story_summary": "BioMar has upgraded its guidance for revenue and EBIT while simultaneously reducing its volume guidance. The mixed guidance adjustment suggests improved pricing or margin performance despite lower production volumes expected ahead.",
-      "first_seen": "2026-11-02T15:29:45+00:00",
+      "headline": "BIOMAR: OPPJUSTERER GUIDING FOR OMSETNING OG EBIT FOR 2026 - Finansavisen",
+      "story_summary": "BioMar has upwardly revised its financial guidance for 2026, increasing both revenue and EBIT targets. The announcement reflects improved business outlook for the aquaculture feed producer during the year.",
+      "first_seen": "2026-11-02T14:55:43+00:00",
       "last_seen": "2026-11-02T15:29:45+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -4519,13 +4519,13 @@
       "id": 2059,
       "headline": "BioMar Group A/S (BIOMAR.CO) insider ownership and holdings - Yahoo Finance UK",
       "story_summary": "This article presents insider ownership data for BioMar Group A/S listed on the Copenhagen Stock Exchange. It provides factual information about executive and significant shareholder holdings in the company without editorial commentary or news developments.",
-      "first_seen": "2026-07-17T17:48:09+00:00",
+      "first_seen": "2026-07-14T22:44:05+00:00",
       "last_seen": "2026-07-17T17:48:09+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -126476,6 +126476,57 @@
         "none"
       ],
       "summary": "Schouw & Co achieved record quarterly results in Q3 2026, prompting the company to raise its forward guidance. The earnings call highlights indicate strong operational and financial performance across the conglomerate's portfolio, including its aquaculture feed division BioMar Group."
+    },
+    {
+      "id": 760796,
+      "story_id": 2059,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3Wmg5Rlp3UktvTDlUNVVKcG5UcTRzeEtkOFJhblhjNjV1WElUeFFaNjc2ZHZxQVZPZ1ZKY05lNExvZHA1NXZ5aWVoSTJvZTJ4NFhlSGhid2Y?oc=5",
+      "title": "BioMar Group A/S (BIOMAR.CO) stock price, news, quote and history - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-07-14T22:44:05+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock listing and financial information page",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance UK stock listing page for BioMar Group A/S providing basic financial data and historical information. The article itself contains no substantive news or commentary about the company's operations, strategy, or performance beyond standard market data presentation."
+    },
+    {
+      "id": 760821,
+      "story_id": 2810,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRkZSX1FFQmhxWWYxdzB4N0pDbmxyU2xNSkpaRk9Gb3YtNXNGOFlFakpfUTdUeDZITFM4b1k2VG9DVS1hbkozbnJCVzZEMTZwLW5zSmpJaDh6aTM2RjlNcFJZYTdHVklrSXRpYm16Q0tLUnFzWG1PVXNZYUdYYjk3YXFmQm9IWkZNYUFVc21RZEVKeVkybkJ5YnZHLVVCLUNfMWcxd0NMb3hRbzd1YUE?oc=5",
+      "title": "BIOMAR: OPPJUSTERER GUIDING FOR OMSETNING OG EBIT FOR 2026 - Finansavisen",
+      "source_name": "Finansavisen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-02T14:55:43+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar raises revenue and EBIT guidance for 2026",
+      "key_claims": [
+        "BioMar is raising its revenue guidance for 2026",
+        "BioMar is raising its EBIT guidance for 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has upwardly revised its financial guidance for 2026, increasing both revenue and EBIT targets. The announcement reflects improved business outlook for the aquaculture feed producer during the year."
     }
   ],
   "share_of_voice": {
@@ -130051,7 +130102,7 @@
       },
       {
         "week": "2026-W29",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 4
       },
@@ -130147,7 +130198,7 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 55,
+        "BioMar": 56,
         "Cargill": 1,
         "Skretting": 8
       }
@@ -130155,7 +130206,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2046
+        "count": 2048
       },
       {
         "company": "Cargill",
