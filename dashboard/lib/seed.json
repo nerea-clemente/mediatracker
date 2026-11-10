@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T03:56:51+00:00",
+  "generated_at": "2026-11-10T13:41:15+00:00",
   "stats": {
-    "mention_count": 3654,
-    "story_count": 2659,
-    "analyzed_count": 2059,
+    "mention_count": 3657,
+    "story_count": 2661,
+    "analyzed_count": 2062,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -425,6 +425,34 @@
   ],
   "stories": [
     {
+      "id": 2832,
+      "headline": "BioMar opens first phase of Ecuador feed expansion - Aquafeed.com",
+      "story_summary": "BioMar has initiated the first phase of a feed mill expansion project in Ecuador, signaling growth in its Latin American production footprint. The expansion reflects the company's investment in regional capacity to serve aquaculture markets in the region.",
+      "first_seen": "2026-11-10T07:25:52+00:00",
+      "last_seen": "2026-11-10T07:25:52+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2831,
+      "headline": "Schouw & Co. iniciará un programa de recompra de acciones por 75 millones DKK - MarketScreener España",
+      "story_summary": "Schouw & Co, the parent company of BioMar Group, has announced a share buyback program worth 75 million DKK. The announcement is a standard capital allocation decision by the industrial conglomerate.",
+      "first_seen": "2026-11-09T16:46:14+00:00",
+      "last_seen": "2026-11-09T16:46:14+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2829,
       "headline": "Schouw & Co. To Initiate Share Buy-Back Programme Of Up To DKK 75 Mln - TradingView",
       "story_summary": "Schouw & Co. has announced the initiation of a share buy-back programme with a maximum allocation of DKK 75 million. This is a standard capital allocation decision by the parent company of BioMar Group, signaling management confidence in the company's financial position and shareholder returns strategy.",
@@ -432,9 +460,9 @@
       "last_seen": "2026-11-09T14:59:46+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -126941,6 +126969,85 @@
         "financial"
       ],
       "summary": "Schouw & Co., parent company of BioMar Group, announced a share buy-back programme valued at up to DKK 75 million. The announcement was reported by StreetInsider on 9 November 2026."
+    },
+    {
+      "id": 763658,
+      "story_id": 2832,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0lMVjAzT1BkWU9UWDlDeTUxMmp0QVhYMVZEXy1iOEpYMWpSdFRNZWZMUW1rb1FEcktENGtjcnZkc0tFNTlNMkdISksyb3VxWGprMzJxRE10cS0xeUNKUmU1ZnlHOTI1OGg5eTd1Z2VRNTIwWXhiNnA2QTA0bWdMeGVsRjA4MDNncmtiaE5sZUx1TEdJbkFkOUMxVjI5RWc?oc=5",
+      "title": "BioMar opens first phase of Ecuador feed expansion - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-10T07:25:52+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands aquaculture feed production capacity in Ecuador",
+      "key_claims": [
+        "BioMar has opened the first phase of a feed production expansion in Ecuador"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has initiated the first phase of a feed mill expansion project in Ecuador, signaling growth in its Latin American production footprint. The expansion reflects the company's investment in regional capacity to serve aquaculture markets in the region."
+    },
+    {
+      "id": 763890,
+      "story_id": 2829,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSlphcHU3VWtGZEJyQWtxZENlYm95aS1zVGQ1QTdsekd2cGlTYjh0U3dQQWJfY0x5U1RZdXFIS09sYkgtZm1LTmxkbGRrN0RKd3oxQUFZMUlpcHVMLV9Hc3owc1g0VW92Znd4V2FkNmw1ZmNPTWY5Qmc1a3Bna1RiclctUUJObHBmeWt2dGgtanVINVdqUDB4b0plMVIzYXRFSUQ2RUdUeHpGNHZpejd0OFh5REhIb0VNSjJDdEJnazBkMF9KaGIwNjN1WlFrUHdf?oc=5",
+      "title": "Schouw & Co. To Initiate Share Buy-Back Programme Of Up To DKK 75 Mln - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-09T14:58:29+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Schouw & Co announces share buyback program of up to DKK 75 million",
+      "key_claims": [
+        "Schouw & Co is initiating a share buyback programme",
+        "The programme will be for up to DKK 75 million"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co announced a share buyback programme with a maximum value of DKK 75 million. This is a standard capital allocation move for the parent company of BioMar Group."
+    },
+    {
+      "id": 763893,
+      "story_id": 2831,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckFLR21iTVZjOGlRdTZ3OHY3akxwM1pnTVd4amVJZEFmQVFPdG5HU2JqMDNUdHdwZGdDT2ctTFJ6Z1dMYUdMZGhGMDMxWkt6NzY4bUs1VWxDMzlGQjdzcW1fVGVZR1hwSHlWaTFPTXZqaFN6ckVwZ3Brcm1xdmV0M2NxelBGMWxlZElXcFhaUF9Qd3BiZmZ4UkVnLTZzV01sS1dlSDBSc3FIT0Q5NlpCcEtSN3Q1eEtRQjh1NnFWanVRakROYVAyWA?oc=5",
+      "title": "Schouw & Co. iniciará un programa de recompra de acciones por 75 millones DKK - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-11-09T16:46:14+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co announces 75 million DKK share buyback program",
+      "key_claims": [
+        "Schouw & Co will initiate a share repurchase program valued at 75 million DKK"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co, the parent company of BioMar Group, has announced a share buyback program worth 75 million DKK. The announcement is a standard capital allocation decision by the industrial conglomerate."
     }
   ],
   "share_of_voice": {
@@ -130618,7 +130725,7 @@
       },
       {
         "week": "2026-W46",
-        "BioMar": 9,
+        "BioMar": 12,
         "Cargill": 0,
         "Skretting": 1
       }
@@ -130626,7 +130733,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2059
+        "count": 2062
       },
       {
         "company": "Cargill",
