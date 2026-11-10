@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T17:10:21+00:00",
+  "generated_at": "2026-11-10T21:41:21+00:00",
   "stats": {
-    "mention_count": 3657,
+    "mention_count": 3658,
     "story_count": 2661,
-    "analyzed_count": 2062,
+    "analyzed_count": 2063,
     "off_topic_mentions": 141,
     "off_topic_stories": 88
   },
@@ -555,12 +555,12 @@
       "headline": "Nordea eleva el precio objetivo de Schouw & Co. a 895 DKK (880) y reitera comprar - MarketScreener España",
       "story_summary": "Nordea has raised its price target for Schouw & Co to 895 DKK and maintained a buy recommendation on the stock. The upgrade reflects analyst confidence in the company's valuation and prospects.",
       "first_seen": "2026-11-04T06:36:39+00:00",
-      "last_seen": "2026-11-09T05:51:33+00:00",
+      "last_seen": "2026-11-09T06:29:44+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -127048,6 +127048,33 @@
         "financial"
       ],
       "summary": "Schouw & Co, the parent company of BioMar Group, has announced a share buyback program worth 75 million DKK. The announcement is a standard capital allocation decision by the industrial conglomerate."
+    },
+    {
+      "id": 765050,
+      "story_id": 2806,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeGF1eF9JOHUwRTZfY1N0Nk0wQ05lcE9ldE5PY0xUVmFMYVRwaFUxMUdkeTd3MnVDQUdjRHNEZjdsWlpEbVd1RVNIVVJ0UVY5OFd6ZjY2VWlaV0pmclMyWWQtMDNFR2VMSVpETXdycXdBbjJXM3JHbE14bXhWNWg5Sng5Zl95NmtsSHdZSVJtZXk5TjFMS2lqN3NNcV9UWFRYMlBRdTNLam1aTWhocEI4M1BJSFVSVU9QNGYtZGVmdzY2aVJyRVlPTjVvMjVvWHhhRWlHRjhCQWhLQ092UGQteVBjSXQtQQ?oc=5",
+      "title": "Nordea eleva el precio objetivo de Schouw & Co. a 950 DKK (895) y reitera su recomendación de compra - MarketScreener España",
+      "source_name": "MarketScreener España",
+      "language": "es",
+      "country": "US",
+      "outlet_kind": "release",
+      "published_at": "2026-11-09T06:29:44+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Nordea raises price target and maintains buy recommendation for Schouw",
+      "key_claims": [
+        "Nordea elevated Schouw & Co's price target to 950 DKK from 895 DKK",
+        "Nordea reiterated its buy recommendation for Schouw & Co"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Nordea elevated its price target for Schouw & Co from 895 DKK to 950 DKK and reiterated a buy recommendation on the stock. The analyst upgrade reflects confidence in the conglomerate's valuation and outlook."
     }
   ],
   "share_of_voice": {
@@ -130725,7 +130752,7 @@
       },
       {
         "week": "2026-W46",
-        "BioMar": 12,
+        "BioMar": 13,
         "Cargill": 0,
         "Skretting": 1
       }
@@ -130733,7 +130760,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2062
+        "count": 2063
       },
       {
         "company": "Cargill",
