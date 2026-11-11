@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-11T01:40:56+00:00",
+  "generated_at": "2026-11-11T12:53:00+00:00",
   "stats": {
-    "mention_count": 3661,
-    "story_count": 2663,
-    "analyzed_count": 2064,
+    "mention_count": 3663,
+    "story_count": 2665,
+    "analyzed_count": 2065,
     "off_topic_mentions": 142,
     "off_topic_stories": 88
   },
@@ -424,6 +424,34 @@
     "ytringen"
   ],
   "stories": [
+    {
+      "id": 2836,
+      "headline": "Skretting lanza Necto: Dieta funcional para salmones basada en fitocomplejos vegetales - www.aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQU0tSU1weHdpQlNQeWlqNUxoRFl5QWFKLVVieGNlRERaZ1Y4dUlMMTRjbzdUaFFwQXNBSF96ZmltenhjX1l3YnlreEU2Q3NNbVdMWTZFbFZzcmEyZXk1dVpvaDdCbXRsQ2NSeUNSX2ZEb1pVS3VieWhWTzc5MnZvcUExaE45VUpXdUdOWExFc1Fuc1RPb25mVW5LeVhlUG9wLWFXUzRaYnZUNEtLeFBGNlpn?oc=5\" target=\"_blank\">Skretting lanza Necto: Dieta funcional para salmones basada en fitocomplejos vegetales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.aqua.cl</font>",
+      "first_seen": "2026-11-11T09:52:42+00:00",
+      "last_seen": "2026-11-11T09:52:42+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2835,
+      "headline": "Aktieselskabet Schouw & Co. Beat Analyst Estimates: See What The Consensus Is Forecasting For Next Year - Simply Wall St",
+      "story_summary": "Schouw & Co exceeded analyst expectations in recent results. The article discusses analyst consensus forecasts for the company's performance in the coming year.",
+      "first_seen": "2026-11-11T04:15:34+00:00",
+      "last_seen": "2026-11-11T04:15:34+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2834,
       "headline": "Todo listo para el XI Congreso Nacional de Acuicultura - Mundoacuicola",
@@ -127175,6 +127203,56 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXAzVUNFWlRtbkZHcDdKUHlTSm1DV296dnZlTDRWR0xNcUR6WEhNa192dm81Z1NoUnctMnRiWGprOVV3OVdZdExfXzBTU0FCd2RCY21VSEowSnRpLXVLa19PMkhtbkJKQ0lSako1c2ZHUG8yWlVGX3NhOUNxOEVYTzdzY2NJREp1RWtnU0RabEtHUQ?oc=5\" target=\"_blank\">Todo listo para el XI Congreso Nacional de Acuicultura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mundoacuicola</font>"
+    },
+    {
+      "id": 766176,
+      "story_id": 2835,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcmlhQS1ZQ0tBNTRzb3BEQk9sWjZjeVNyWU1FQ0RXUElHenVGcHRkNWg0VVl4TGN1OUt2YW84VTh5c3FoOVV1VkE0UVJvYzFidzRBSl9uNngtYnZ5QTYtakdGNktJTjBCZGNFbXJGR0d2RmpmZTAzR1ZZdjhCLUhETXhOYXZqMzhldGRpdUtVeWYydjY3SFdjUFJCdmZFM2x4LTVBd1AzRHRVdld3QlpNWm4zY1BBaV9oR1dfVXBfMGZ5Rkh1MDBxLU5RNVVfVWVwQ05vUVlsQWphZ0ZOUkZGSnhZRXdiY00wdGpkSkdB0gHzAUFVX3lxTFAyeU1aM215R1FXaHZ1NHdFdWJQdXB6MWt3UDZ2b0R5akIxaVpVRnZQUFlhN0s4YmYxSHI2MFJEOGlza3BDTndRd19XLUVxUFl5Zl83QkR6RS1nNkNiWjZlNE41Y0dWZ1JCRHRZRUVLU2twM3dxMzU3bmJWV1NiajdNVzFndEVjLUM0WjVJSEo3eU5pa1BlZkgwR01nTk1OTXBDNjFpWXlicHZnMHE3emh4ZG1JbnM0REo3OE1KWllOSnFFM0lnYlJJYk9vRm9UUVMxYUJYeHRLNXhWTFNDc2FmR0IxcGZPWFJzTUhDYmJXTWhubw?oc=5",
+      "title": "Aktieselskabet Schouw & Co. Beat Analyst Estimates: See What The Consensus Is Forecasting For Next Year - Simply Wall St",
+      "source_name": "Simply Wall St",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-11T04:15:34+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Schouw outperformed analyst expectations; forecasting ahead",
+      "key_claims": [
+        "Schouw & Co beat analyst estimates"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co exceeded analyst expectations in recent results. The article discusses analyst consensus forecasts for the company's performance in the coming year."
+    },
+    {
+      "id": 766411,
+      "story_id": 2836,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQU0tSU1weHdpQlNQeWlqNUxoRFl5QWFKLVVieGNlRERaZ1Y4dUlMMTRjbzdUaFFwQXNBSF96ZmltenhjX1l3YnlreEU2Q3NNbVdMWTZFbFZzcmEyZXk1dVpvaDdCbXRsQ2NSeUNSX2ZEb1pVS3VieWhWTzc5MnZvcUExaE45VUpXdUdOWExFc1Fuc1RPb25mVW5LeVhlUG9wLWFXUzRaYnZUNEtLeFBGNlpn?oc=5",
+      "title": "Skretting lanza Necto: Dieta funcional para salmones basada en fitocomplejos vegetales - www.aqua.cl",
+      "source_name": "www.aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-11-11T09:52:42+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQU0tSU1weHdpQlNQeWlqNUxoRFl5QWFKLVVieGNlRERaZ1Y4dUlMMTRjbzdUaFFwQXNBSF96ZmltenhjX1l3YnlreEU2Q3NNbVdMWTZFbFZzcmEyZXk1dVpvaDdCbXRsQ2NSeUNSX2ZEb1pVS3VieWhWTzc5MnZvcUExaE45VUpXdUdOWExFc1Fuc1RPb25mVW5LeVhlUG9wLWFXUzRaYnZUNEtLeFBGNlpn?oc=5\" target=\"_blank\">Skretting lanza Necto: Dieta funcional para salmones basada en fitocomplejos vegetales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -130852,15 +130930,15 @@
       },
       {
         "week": "2026-W46",
-        "BioMar": 13,
+        "BioMar": 14,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 4
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2064
+        "count": 2065
       },
       {
         "company": "Cargill",
@@ -130868,7 +130946,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1282
+        "count": 1283
       }
     ]
   }
