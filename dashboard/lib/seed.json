@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T22:32:43+00:00",
+  "generated_at": "2026-11-12T02:40:08+00:00",
   "stats": {
-    "mention_count": 3665,
-    "story_count": 2666,
+    "mention_count": 3666,
+    "story_count": 2667,
     "analyzed_count": 2065,
     "off_topic_mentions": 142,
     "off_topic_stories": 88
@@ -35968,6 +35968,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2838,
+      "headline": "Clean Seas Tuna Sues Skretting Over Feed Quality - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDdfak8yTGNvNk55b3BKZ210NUQ1bkhOc0hicXg2RmpNMWd2ZUN5cW04ZjlHRFhWWGhuQUZiR3djemxDMWZQLUFndExJbjZVRUFJSUtreEJpbGNacTNZdGdtaGRfby1nTHM1bWJTWVBzYkNwQ0ltak1fUFdvXzBJWlprZml6Wmw4?oc=5\" target=\"_blank\">Clean Seas Tuna Sues Skretting Over Feed Quality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2015-06-18T07:00:00+00:00",
+      "last_seen": "2015-06-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 401,
@@ -127317,6 +127331,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOV29uMi1HNjdNSmVvMXFycjcwRnZSWHhzU1o1VTVnMWpFalg1ZHZpM0ktMF9ua1MwRHlld2l1T0hXaTFaZzY1NDV6dXdxMXZSd2hzVnFwOWszakRRU1V4cWNoTU9MUmtDandRc0F3Y1hyYTltb1dkV2VwMDBGTlpMU0F6VEFMb0Q3ODhxYkhJLVgxLVZjbUFQc0hwQ3JLWlVJOVI3Wjg3c0kzNlZTTlhZdUJIVV9IODFKa242aHkybw?oc=5\" target=\"_blank\">Carreras Grupo Logístico, Skretting y ESPORG reciben los Premios Truck Friendly 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transporte 3</font>"
+    },
+    {
+      "id": 768021,
+      "story_id": 2838,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDdfak8yTGNvNk55b3BKZ210NUQ1bkhOc0hicXg2RmpNMWd2ZUN5cW04ZjlHRFhWWGhuQUZiR3djemxDMWZQLUFndExJbjZVRUFJSUtreEJpbGNacTNZdGdtaGRfby1nTHM1bWJTWVBzYkNwQ0ltak1fUFdvXzBJWlprZml6Wmw4?oc=5",
+      "title": "Clean Seas Tuna Sues Skretting Over Feed Quality - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2015-06-18T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDdfak8yTGNvNk55b3BKZ210NUQ1bkhOc0hicXg2RmpNMWd2ZUN5cW04ZjlHRFhWWGhuQUZiR3djemxDMWZQLUFndExJbjZVRUFJSUtreEJpbGNacTNZdGdtaGRfby1nTHM1bWJTWVBzYkNwQ0ltak1fUFdvXzBJWlprZml6Wmw4?oc=5\" target=\"_blank\">Clean Seas Tuna Sues Skretting Over Feed Quality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
     }
   ],
   "share_of_voice": {
@@ -127912,7 +127950,7 @@
         "week": "2015-W25",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2015-W26",
@@ -131010,7 +131048,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1285
+        "count": 1286
       }
     ]
   }
