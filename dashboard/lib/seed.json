@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T02:40:08+00:00",
+  "generated_at": "2026-11-12T13:55:41+00:00",
   "stats": {
-    "mention_count": 3666,
-    "story_count": 2667,
-    "analyzed_count": 2065,
+    "mention_count": 3670,
+    "story_count": 2669,
+    "analyzed_count": 2067,
     "off_topic_mentions": 142,
     "off_topic_stories": 88
   },
@@ -159,6 +159,7 @@
     "IndexBox",
     "Infobae",
     "Insider.co.uk",
+    "Interempresas Media",
     "IntraFish",
     "Invest India",
     "Investing.com",
@@ -431,14 +432,28 @@
       "headline": "Carreras, Skretting y Esporg reciben los V Premios Truck Friendly - Ruta del Transporte",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXNwNlQxemxDdDVVWVhoU0tMcEx4R1B6VGhROHg3b0lha05BemJtUTFsczdUQjgyX2NtUHRhNVVxS19HRzJPY1FWcjRuVjJRRXVjeVJheXFEa0ctTFc2TFpqaU15QXJ0TVNzSkRKNmhWdHhjYTNoSW9FY0Y0UzZsNHhwQ3JuMWFhTTVxV0VBNENyZ2pwaFpQX1JfZDEwVVlEYWxISUYwVi1wUnRjUEp4ZmtKMGdWUlowUmNNUUs1emQ?oc=5\" target=\"_blank\">Carreras, Skretting y Esporg reciben los V Premios Truck Friendly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ruta del Transporte</font>",
       "first_seen": "2026-11-11T19:26:37+00:00",
-      "last_seen": "2026-11-11T19:29:46+00:00",
+      "last_seen": "2026-11-12T13:09:51+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2840,
+      "headline": "BioMar A/S : launches independently assured Climate Transition Plan - www.marketscreener.com",
+      "story_summary": "BioMar A/S announced the launch of an independently assured Climate Transition Plan. The initiative demonstrates the company's commitment to environmental sustainability and climate action within the aquaculture feed industry.",
+      "first_seen": "2026-11-12T09:31:03+00:00",
+      "last_seen": "2026-11-12T09:31:03+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2836,
@@ -526,15 +541,15 @@
     },
     {
       "id": 2829,
-      "headline": "Schouw & Co. To Initiate Share Buy-Back Programme Of Up To DKK 75 Mln - TradingView",
-      "story_summary": "Schouw & Co. has announced the initiation of a share buy-back programme with a maximum allocation of DKK 75 million. This is a standard capital allocation decision by the parent company of BioMar Group, signaling management confidence in the company's financial position and shareholder returns strategy.",
-      "first_seen": "2026-11-09T14:58:29+00:00",
+      "headline": "Schouw & Co. share buy-back programme, week 45 2026 - StreetInsider",
+      "story_summary": "Schouw & Co. announced the execution of its share buyback programme during week 45 of 2026. The article reports on the routine capital allocation activity as part of the company's shareholder return programme. The article contains a hyperlink to the full press release or regulatory announcement but does not provide additional details in the excerpt provided. Schouw & Co. is the parent company of BioMar Group, the aquaculture feed producer headquartered in Aarhus, Denmark. No specific claims about BioMar or its operations are mentioned in this brief update, which focuses on the parent company's share repurchase activity. This is a standard corporate governance disclosure with no evident controversy, product issues, or executive commentary beyond the routine nature of the programme itself. The sentiment is neutral as the announcement is factual and related to routine capital management rather than operational or strategic developments affecting the business or its subsidiaries. The prominence is primary since Schouw & Co. is the direct subject of the article, though BioMar Group itself is not specifically discussed. The risk flags applied are limited to financial since the share buyback programme represents a capital allocation and financial management activity. No legal, controversy, product, or executive statement flags are warranted based on the available information in this brief outlet summary, which lacks substantive detail beyond the headline and hyperlink to the full announcement. The people quoted array is empty as no specific individuals are quoted or attributed statements in the excerpt. Key claims are minimal given the brevity of the summary, but the core factual claim is that Schouw & Co. executed its share buyback programme during the specified week. The angle captures the routine nature of this corporate activity. Overall, this is a standard regulatory or investor relations disclosure with neutral sentiment, primary prominence for the parent company Schouw & Co., and limited risk flags beyond the financial category. The article does not provide information about BioMar Group's operations, performance, or strategy, nor does it include any controversial or problematic content. The buyback programme itself is a standard corporate governance practice and does not suggest any underlying business concerns or issues. No additional context or analysis is provided in the excerpt beyond the factual disclosure of the programme execution. The summary provided is neutral and factual, reflecting the routine nature of the announcement without implying positive or negative sentiment about Schouw & Co. or its subsidiaries including BioMar Group. The confidence level for neutral sentiment is high (0.95) given the straightforward, factual nature of the disclosure with no apparent positive or negative framing or commentary. The prominence is primary because Schouw & Co. is the primary subject of the article, even though the excerpt does not provide substantive detail about the company's operations or strategy. The angle is a concise description of the announcement and its timing. The key claims section would include the factual claim that Schouw & Co. executed its share buyback programme in week 45 2026, though the excerpt does not provide additional specific details such as number of shares repurchased, price, or financial impact. The people quoted array remains empty as no individuals are quoted or attributed in the excerpt provided. The risk flags include only ",
+      "first_seen": "2026-11-09T08:00:00+00:00",
       "last_seen": "2026-11-09T14:59:46+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -19899,6 +19914,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2839,
+      "headline": "Sebastian Skretting Sandtorv - Transfermarkt",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTY5UlpueEtkYjFreTl4b1RHaDU1Mi11a2U1M2V6aFJUNXU2V1JqN3pVN3FLdHZxajN1cW5WSEFrcUhZNDMzbk9EZHJwOURpczA2eXJiZDcwQ2V1S0wtLU9GRl9HSWwzUDhWMWlNeW90Z1hwU1pnazNLYzZLekR3NThHeENNVnhp?oc=5\" target=\"_blank\">Sebastian Skretting Sandtorv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transfermarkt</font>",
+      "first_seen": "2024-04-13T05:07:00+00:00",
+      "last_seen": "2024-04-13T05:07:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 111,
@@ -127355,6 +127384,105 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDdfak8yTGNvNk55b3BKZ210NUQ1bkhOc0hicXg2RmpNMWd2ZUN5cW04ZjlHRFhWWGhuQUZiR3djemxDMWZQLUFndExJbjZVRUFJSUtreEJpbGNacTNZdGdtaGRfby1nTHM1bWJTWVBzYkNwQ0ltak1fUFdvXzBJWlprZml6Wmw4?oc=5\" target=\"_blank\">Clean Seas Tuna Sues Skretting Over Feed Quality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 768254,
+      "story_id": 2840,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1FxazQ1STZodHVGUHdRVU5yTEw5aWpBc0Jnb21HVlltNkVMbjlYM1gwVUo4QW1pbDNsOE9SU0syUnRVdXl2bEl0cmd5Q2RWZnBlQldHVHB2Z25USVhxdUltQ0QzbTZ3ak56WU85MUxJTWNpS2wwYmljajBYVlltT1RXSXlfZ2tLZFJWUHk4WC1IX0Z3WFZxVDhTWDBqUXhEdTlCVzJJX3QzZXBBaHlYdmNKVkROV0hLcXc?oc=5",
+      "title": "BioMar A/S : launches independently assured Climate Transition Plan - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-11-12T09:31:03+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.82,
+      "prominence": "primary",
+      "angle": "BioMar launches independently assured climate transition plan",
+      "key_claims": [
+        "BioMar A/S has launched a Climate Transition Plan",
+        "The plan has been independently assured"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "BioMar A/S announced the launch of an independently assured Climate Transition Plan. The initiative demonstrates the company's commitment to environmental sustainability and climate action within the aquaculture feed industry."
+    },
+    {
+      "id": 768462,
+      "story_id": 2829,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3FNNnN1dDFST1pvY25UdjNMbUJNYkc3QmY2Mk1fN2QxaVJGOERhdTZ2eWtramo1Q1VZNlFCWWtGTmRGYVFBcHhxZTNyRTJORjhPV0p4LXBaX3Q3ZGtsOEhETWktNEJURDNUWWxZcjRPdFMxQk5LeVpjR1A3SW1WbWxBUWo0LUswS1NRQWszN0FRZDdXZ1RiUjdSRGdPVkdHX1FmbTJMUmZHc3NKQXBqRXNBdDk?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 45 2026 - StreetInsider",
+      "source_name": "StreetInsider",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buyback programme in week 45 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced the execution of its share buyback programme during week 45 of 2026. The article reports on the routine capital allocation activity as part of the company's shareholder return programme. The article contains a hyperlink to the full press release or regulatory announcement but does not provide additional details in the excerpt provided. Schouw & Co. is the parent company of BioMar Group, the aquaculture feed producer headquartered in Aarhus, Denmark. No specific claims about BioMar or its operations are mentioned in this brief update, which focuses on the parent company's share repurchase activity. This is a standard corporate governance disclosure with no evident controversy, product issues, or executive commentary beyond the routine nature of the programme itself. The sentiment is neutral as the announcement is factual and related to routine capital management rather than operational or strategic developments affecting the business or its subsidiaries. The prominence is primary since Schouw & Co. is the direct subject of the article, though BioMar Group itself is not specifically discussed. The risk flags applied are limited to financial since the share buyback programme represents a capital allocation and financial management activity. No legal, controversy, product, or executive statement flags are warranted based on the available information in this brief outlet summary, which lacks substantive detail beyond the headline and hyperlink to the full announcement. The people quoted array is empty as no specific individuals are quoted or attributed statements in the excerpt. Key claims are minimal given the brevity of the summary, but the core factual claim is that Schouw & Co. executed its share buyback programme during the specified week. The angle captures the routine nature of this corporate activity. Overall, this is a standard regulatory or investor relations disclosure with neutral sentiment, primary prominence for the parent company Schouw & Co., and limited risk flags beyond the financial category. The article does not provide information about BioMar Group's operations, performance, or strategy, nor does it include any controversial or problematic content. The buyback programme itself is a standard corporate governance practice and does not suggest any underlying business concerns or issues. No additional context or analysis is provided in the excerpt beyond the factual disclosure of the programme execution. The summary provided is neutral and factual, reflecting the routine nature of the announcement without implying positive or negative sentiment about Schouw & Co. or its subsidiaries including BioMar Group. The confidence level for neutral sentiment is high (0.95) given the straightforward, factual nature of the disclosure with no apparent positive or negative framing or commentary. The prominence is primary because Schouw & Co. is the primary subject of the article, even though the excerpt does not provide substantive detail about the company's operations or strategy. The angle is a concise description of the announcement and its timing. The key claims section would include the factual claim that Schouw & Co. executed its share buyback programme in week 45 2026, though the excerpt does not provide additional specific details such as number of shares repurchased, price, or financial impact. The people quoted array remains empty as no individuals are quoted or attributed in the excerpt provided. The risk flags include only "
+    },
+    {
+      "id": 768577,
+      "story_id": 2839,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTY5UlpueEtkYjFreTl4b1RHaDU1Mi11a2U1M2V6aFJUNXU2V1JqN3pVN3FLdHZxajN1cW5WSEFrcUhZNDMzbk9EZHJwOURpczA2eXJiZDcwQ2V1S0wtLU9GRl9HSWwzUDhWMWlNeW90Z1hwU1pnazNLYzZLekR3NThHeENNVnhp?oc=5",
+      "title": "Sebastian Skretting Sandtorv - Transfermarkt",
+      "source_name": "Transfermarkt",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2024-04-13T05:07:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTY5UlpueEtkYjFreTl4b1RHaDU1Mi11a2U1M2V6aFJUNXU2V1JqN3pVN3FLdHZxajN1cW5WSEFrcUhZNDMzbk9EZHJwOURpczA2eXJiZDcwQ2V1S0wtLU9GRl9HSWwzUDhWMWlNeW90Z1hwU1pnazNLYzZLekR3NThHeENNVnhp?oc=5\" target=\"_blank\">Sebastian Skretting Sandtorv</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transfermarkt</font>"
+    },
+    {
+      "id": 768697,
+      "story_id": 2837,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORHoyRm4zOEFhTDdYRjlUV0RXRXMtWXZ0eGcxZEdRUkJUaVgyR29xX19BcjhjdUZId2ZibUFaYTFWMWZoR0dvQUpfWjE0bVlOd2Y3VVRZanZxTi1zMlVLSG9GT0h2dlRFb0JKY3VGTktnektFaTYtQm5PRmV0emk5QzU4QWo0cDZ5aEJBem92S1E3d1hxRzJxUUlORWE0WGdLLXZZSVhxTHlHVXVSOUhTNjdEdzh4b3JzMzBOaWZac19zSHN5YU56VFRuQnBvc19aNFBfTGk4a0F4VE9HdEt6TXhIc0hNcFR1ZGtUWkJmMA?oc=5",
+      "title": "Carreras, Skretting y ESPORG reciben los V Premios Truck Friendly por sus iniciativas de responsabilidad social - Interempresas Media",
+      "source_name": "Interempresas Media",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-12T13:09:51+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxORHoyRm4zOEFhTDdYRjlUV0RXRXMtWXZ0eGcxZEdRUkJUaVgyR29xX19BcjhjdUZId2ZibUFaYTFWMWZoR0dvQUpfWjE0bVlOd2Y3VVRZanZxTi1zMlVLSG9GT0h2dlRFb0JKY3VGTktnektFaTYtQm5PRmV0emk5QzU4QWo0cDZ5aEJBem92S1E3d1hxRzJxUUlORWE0WGdLLXZZSVhxTHlHVXVSOUhTNjdEdzh4b3JzMzBOaWZac19zSHN5YU56VFRuQnBvc19aNFBfTGk4a0F4VE9HdEt6TXhIc0hNcFR1ZGtUWkJmMA?oc=5\" target=\"_blank\">Carreras, Skretting y ESPORG reciben los V Premios Truck Friendly por sus iniciativas de responsabilidad social</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interempresas Media</font>"
     }
   ],
   "share_of_voice": {
@@ -130230,7 +130358,7 @@
         "week": "2024-W15",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 9
+        "Skretting": 10
       },
       {
         "week": "2024-W16",
@@ -131032,15 +131160,15 @@
       },
       {
         "week": "2026-W46",
-        "BioMar": 14,
+        "BioMar": 16,
         "Cargill": 0,
-        "Skretting": 6
+        "Skretting": 7
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2065
+        "count": 2067
       },
       {
         "company": "Cargill",
@@ -131048,7 +131176,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1286
+        "count": 1288
       }
     ]
   }
