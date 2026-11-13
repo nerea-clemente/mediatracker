@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T02:20:49+00:00",
+  "generated_at": "2026-11-13T13:19:32+00:00",
   "stats": {
-    "mention_count": 3670,
-    "story_count": 2669,
-    "analyzed_count": 2067,
-    "off_topic_mentions": 142,
-    "off_topic_stories": 88
+    "mention_count": 3672,
+    "story_count": 2670,
+    "analyzed_count": 2068,
+    "off_topic_mentions": 143,
+    "off_topic_stories": 89
   },
   "outlets": [
     ".: El Sol de Margarita :.",
@@ -27,6 +27,7 @@
     "Animalshealth.es",
     "Aqua.cl",
     "Aquafeed.com",
+    "Asociación de Cargadores de España",
     "Australasian Lawyer",
     "Australian Broadcasting Corporation",
     "Aviation24.be",
@@ -432,12 +433,12 @@
       "headline": "Carreras, Skretting y Esporg reciben los V Premios Truck Friendly - Ruta del Transporte",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXNwNlQxemxDdDVVWVhoU0tMcEx4R1B6VGhROHg3b0lha05BemJtUTFsczdUQjgyX2NtUHRhNVVxS19HRzJPY1FWcjRuVjJRRXVjeVJheXFEa0ctTFc2TFpqaU15QXJ0TVNzSkRKNmhWdHhjYTNoSW9FY0Y0UzZsNHhwQ3JuMWFhTTVxV0VBNENyZ2pwaFpQX1JfZDEwVVlEYWxISUYwVi1wUnRjUEp4ZmtKMGdWUlowUmNNUUs1emQ?oc=5\" target=\"_blank\">Carreras, Skretting y Esporg reciben los V Premios Truck Friendly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ruta del Transporte</font>",
       "first_seen": "2026-11-11T19:26:37+00:00",
-      "last_seen": "2026-11-12T13:09:51+00:00",
+      "last_seen": "2026-11-13T09:51:09+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -453,6 +454,20 @@
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2841,
+      "headline": "Gráfico y cotización de 5RF: HAN:5RF - TradingView",
+      "story_summary": "This is a TradingView page displaying a stock chart and price data for a Danish-listed security. The article does not contain substantive news content or analysis about any company's operations or performance.",
+      "first_seen": "2026-11-12T02:29:36+00:00",
+      "last_seen": "2026-11-12T02:29:36+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": false,
       "company": "BioMar"
     },
     {
@@ -127483,6 +127498,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxORHoyRm4zOEFhTDdYRjlUV0RXRXMtWXZ0eGcxZEdRUkJUaVgyR29xX19BcjhjdUZId2ZibUFaYTFWMWZoR0dvQUpfWjE0bVlOd2Y3VVRZanZxTi1zMlVLSG9GT0h2dlRFb0JKY3VGTktnektFaTYtQm5PRmV0emk5QzU4QWo0cDZ5aEJBem92S1E3d1hxRzJxUUlORWE0WGdLLXZZSVhxTHlHVXVSOUhTNjdEdzh4b3JzMzBOaWZac19zSHN5YU56VFRuQnBvc19aNFBfTGk4a0F4VE9HdEt6TXhIc0hNcFR1ZGtUWkJmMA?oc=5\" target=\"_blank\">Carreras, Skretting y ESPORG reciben los V Premios Truck Friendly por sus iniciativas de responsabilidad social</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interempresas Media</font>"
+    },
+    {
+      "id": 770784,
+      "story_id": 2841,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzaGRvNFhsT1JDQXVlVlFiOHRybGZHdmpEaXIyNTRlU0JZcDZWZVRSRjNlVXJIUHVCQkhvZTV4V2w5bklDcEtJMV9QbnhqOHFuS2RnNUNwM044OUpaTUh5VjhYSkhONDFPVkItVFBBVm9BQQ?oc=5",
+      "title": "Gráfico y cotización de 5RF: HAN:5RF - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-12T02:29:36+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.9,
+      "prominence": "passing",
+      "angle": "Stock ticker and chart display for Danish ticker symbol",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a TradingView page displaying a stock chart and price data for a Danish-listed security. The article does not contain substantive news content or analysis about any company's operations or performance."
+    },
+    {
+      "id": 770988,
+      "story_id": 2837,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaXNlLW4yNnY0eldXRDZ4Y3JTTUwxTEJwNXZqSWR0Q1dTZzQzUWp0a0lZVVFKVkdSQkNqSFg4NFptOEN3REJQMEJnT04zU2hrS3ctRkRRNlVVSDRTNVUzUnh3ejl2WGNvd2hUMG9YcmJzZXhsRkFXUmpzM3E3amk5RnI2V2lxc244eS1jbktHMVhOeUJrUmV2WWRHY0pvdDlzSmh2eWtXVFN4UlZIV01PcWZsZHRoWG4zZ0dKUTZjSDFWQjVo?oc=5",
+      "title": "Carreras Grupo Logístico, Skretting y ESPORG reciben los Premios Truck Friendly 2026 - Asociación de Cargadores de España",
+      "source_name": "Asociación de Cargadores de España",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-13T09:51:09+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQaXNlLW4yNnY0eldXRDZ4Y3JTTUwxTEJwNXZqSWR0Q1dTZzQzUWp0a0lZVVFKVkdSQkNqSFg4NFptOEN3REJQMEJnT04zU2hrS3ctRkRRNlVVSDRTNVUzUnh3ejl2WGNvd2hUMG9YcmJzZXhsRkFXUmpzM3E3amk5RnI2V2lxc244eS1jbktHMVhOeUJrUmV2WWRHY0pvdDlzSmh2eWtXVFN4UlZIV01PcWZsZHRoWG4zZ0dKUTZjSDFWQjVo?oc=5\" target=\"_blank\">Carreras Grupo Logístico, Skretting y ESPORG reciben los Premios Truck Friendly 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asociación de Cargadores de España</font>"
     }
   ],
   "share_of_voice": {
@@ -131160,15 +131223,15 @@
       },
       {
         "week": "2026-W46",
-        "BioMar": 16,
+        "BioMar": 17,
         "Cargill": 0,
-        "Skretting": 7
+        "Skretting": 8
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2067
+        "count": 2068
       },
       {
         "company": "Cargill",
@@ -131176,7 +131239,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1288
+        "count": 1289
       }
     ]
   }
