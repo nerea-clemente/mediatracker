@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T21:50:03+00:00",
+  "generated_at": "2026-11-14T01:57:18+00:00",
   "stats": {
-    "mention_count": 3673,
+    "mention_count": 3674,
     "story_count": 2671,
     "analyzed_count": 2068,
     "off_topic_mentions": 143,
@@ -314,6 +314,7 @@
     "TradingView",
     "Transfermarkt",
     "Transporte 3",
+    "Transporte Profesional",
     "Tribute Archive",
     "Tvedestrandsposten",
     "UA.NEWS",
@@ -433,12 +434,12 @@
       "headline": "Carreras, Skretting y Esporg reciben los V Premios Truck Friendly - Ruta del Transporte",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXNwNlQxemxDdDVVWVhoU0tMcEx4R1B6VGhROHg3b0lha05BemJtUTFsczdUQjgyX2NtUHRhNVVxS19HRzJPY1FWcjRuVjJRRXVjeVJheXFEa0ctTFc2TFpqaU15QXJ0TVNzSkRKNmhWdHhjYTNoSW9FY0Y0UzZsNHhwQ3JuMWFhTTVxV0VBNENyZ2pwaFpQX1JfZDEwVVlEYWxISUYwVi1wUnRjUEp4ZmtKMGdWUlowUmNNUUs1emQ?oc=5\" target=\"_blank\">Carreras, Skretting y Esporg reciben los V Premios Truck Friendly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ruta del Transporte</font>",
       "first_seen": "2026-11-11T19:26:37+00:00",
-      "last_seen": "2026-11-13T09:51:09+00:00",
+      "last_seen": "2026-11-13T23:00:03+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 4,
+      "pickup_count": 5,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -127584,6 +127585,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5PZHk4VlBrXzd0NEZBNjl0b2lQaG9xRWQyNUsyT1dmcVBSWk1rN0FKM1UxR2NNcjRNSVJiWk0zaVZpWmVXbWx2OGhwUVNFYjJLWXZZa3RiTEpseEZkM0tUUjNGdjBaX3ByRjNUdGxaTGN2NU5lejJqdTZ5OW0?oc=5\" target=\"_blank\">Ingeborg Lye Skretting stats and ratings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sofascore</font>"
+    },
+    {
+      "id": 772695,
+      "story_id": 2837,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0ZBeDNKNFMydGN6WE9GM1ZzQldxRHNzNk9uOERvV0ZTaFFveHVNcHYzT2xnSzhVb2w1QVVfdFJGS3FoU1BuSFVSemx2WnpqaFRRRlJHSDlpTUxPNzFOZ3dmNGlvUFgxczVscjRBSjY0b3AzaHNldVQ5NG03cnFmclg3QjRsQkN6Zm1hSWtoSzExZlFEVlNpQV9FbXdxYjhQaS1UTzY0eUtmS3lLOFR4UlNzYlVqVExZQnFRcFJB?oc=5",
+      "title": "Grupo Carreras, Skretting y Esporg, ganadores del V Premio Truck Friendly - Transporte Profesional",
+      "source_name": "Transporte Profesional",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-11-13T23:00:03+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0ZBeDNKNFMydGN6WE9GM1ZzQldxRHNzNk9uOERvV0ZTaFFveHVNcHYzT2xnSzhVb2w1QVVfdFJGS3FoU1BuSFVSemx2WnpqaFRRRlJHSDlpTUxPNzFOZ3dmNGlvUFgxczVscjRBSjY0b3AzaHNldVQ5NG03cnFmclg3QjRsQkN6Zm1hSWtoSzExZlFEVlNpQV9FbXdxYjhQaS1UTzY0eUtmS3lLOFR4UlNzYlVqVExZQnFRcFJB?oc=5\" target=\"_blank\">Grupo Carreras, Skretting y Esporg, ganadores del V Premio Truck Friendly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transporte Profesional</font>"
     }
   ],
   "share_of_voice": {
@@ -131263,7 +131288,7 @@
         "week": "2026-W46",
         "BioMar": 17,
         "Cargill": 0,
-        "Skretting": 8
+        "Skretting": 9
       }
     ],
     "totals": [
@@ -131277,7 +131302,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1290
+        "count": 1291
       }
     ]
   }
