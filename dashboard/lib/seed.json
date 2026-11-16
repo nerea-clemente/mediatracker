@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T01:32:27+00:00",
+  "generated_at": "2026-11-16T13:54:05+00:00",
   "stats": {
-    "mention_count": 3682,
-    "story_count": 2678,
+    "mention_count": 3683,
+    "story_count": 2679,
     "analyzed_count": 2069,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
@@ -29247,6 +29247,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2850,
+      "headline": "Fish oil spill at Norwegian EWOS plant - Aquafeed.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWo4NFZJZTYtOWFTcTVFbHZ3OFoxLTVLTGowSkx5eC1MaGFsaGRQSUFHbGotUjFrcmlFdjREZ0hyVTdBNjdSZU9NaGo1aTRlZmpqczR0Wkhzb09vRnktd21FSm5PclhrQXJzbVRDd0RrLVFsNUQ2OXZUZkgwbnJZVVoydXNzZw?oc=5\" target=\"_blank\">Fish oil spill at Norwegian EWOS plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
+      "first_seen": "2020-05-11T07:00:00+00:00",
+      "last_seen": "2020-05-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 1421,
@@ -127899,6 +127913,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQWC1UaGNjQURtQTJsVldRZlM2cG1sOFN2Uk9UZFNtb3lKYkZpdkJ1U2I1a0lmZ0wyc0lSSFc5Q1I2N1kzWmRkTHVUTDg5Rk1CdjI2NHJZbjl3SHFZZEdIYmZGb2xYcjJ5aThnVVB3dWhuLWIydW9va296d1FCdmxYU0FLS091U2dvcC1BejNiUzZpSHB6MXZV?oc=5\" target=\"_blank\">Skretting introduces functional salmon feed in Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
+    },
+    {
+      "id": 777868,
+      "story_id": 2850,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWo4NFZJZTYtOWFTcTVFbHZ3OFoxLTVLTGowSkx5eC1MaGFsaGRQSUFHbGotUjFrcmlFdjREZ0hyVTdBNjdSZU9NaGo1aTRlZmpqczR0Wkhzb09vRnktd21FSm5PclhrQXJzbVRDd0RrLVFsNUQ2OXZUZkgwbnJZVVoydXNzZw?oc=5",
+      "title": "Fish oil spill at Norwegian EWOS plant - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2020-05-11T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWo4NFZJZTYtOWFTcTVFbHZ3OFoxLTVLTGowSkx5eC1MaGFsaGRQSUFHbGotUjFrcmlFdjREZ0hyVTdBNjdSZU9NaGo1aTRlZmpqczR0Wkhzb09vRnktd21FSm5PclhrQXJzbVRDd0RrLVFsNUQ2OXZUZkgwbnJZVVoydXNzZw?oc=5\" target=\"_blank\">Fish oil spill at Norwegian EWOS plant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>"
     }
   ],
   "share_of_voice": {
@@ -129687,7 +129725,7 @@
       {
         "week": "2020-W20",
         "BioMar": 0,
-        "Cargill": 1,
+        "Cargill": 2,
         "Skretting": 4
       },
       {
@@ -131600,7 +131638,7 @@
       },
       {
         "company": "Cargill",
-        "count": 315
+        "count": 316
       },
       {
         "company": "Skretting",
