@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T04:17:51+00:00",
+  "generated_at": "2026-11-17T14:46:14+00:00",
   "stats": {
-    "mention_count": 3685,
-    "story_count": 2679,
-    "analyzed_count": 2070,
+    "mention_count": 3687,
+    "story_count": 2681,
+    "analyzed_count": 2071,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -58,6 +58,7 @@
     "CEOWORLD magazine",
     "CTV News",
     "Cadena SER",
+    "Cadena de Suministro",
     "Camión Actualidad",
     "Carey",
     "Centro Competencia",
@@ -431,6 +432,20 @@
   ],
   "stories": [
     {
+      "id": 2852,
+      "headline": "Carreras, Skretting y Esporg, reconocidos por su responsabilidad social en el transporte de mercancías - Cadena de Suministro",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxORE9IczRDRjhQZGpsR3hvVzA2VmVnUUhBSzlsUk5sakVjUnNUTWJGb2pnelZGX1psZS1GQk1pMUl4WloyRTlKQjNKTE10QzRuREoyZEV3SGFlS1hRUXVLdzN0WGxUZUMwWV9FbmNtOFAtZnhHY01XckpIS01MWlhkMW5qTzI4M3I2cTdkNzVoamcxd09SYzNRdVRKZWQ5OUlIeEpQZnRwaW9TWkhYMUtlVFN4MURDUU9KR1FsekVKNmFGX2hRWWI4aWVqbGRQeTlXXzJUSEx6bExqSXdvU2h3ZXZ0V2Y5bFdDcmFhYkMzbFFHT2RmTzFr?oc=5\" target=\"_blank\">Carreras, Skretting y Esporg, reconocidos por su responsabilidad social en el transporte de mercancías</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena de Suministro</font>",
+      "first_seen": "2026-11-17T11:55:06+00:00",
+      "last_seen": "2026-11-17T11:55:06+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2837,
       "headline": "Carreras, Skretting y Esporg reciben los V Premios Truck Friendly - Ruta del Transporte",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXNwNlQxemxDdDVVWVhoU0tMcEx4R1B6VGhROHg3b0lha05BemJtUTFsczdUQjgyX2NtUHRhNVVxS19HRzJPY1FWcjRuVjJRRXVjeVJheXFEa0ctTFc2TFpqaU15QXJ0TVNzSkRKNmhWdHhjYTNoSW9FY0Y0UzZsNHhwQ3JuMWFhTTVxV0VBNENyZ2pwaFpQX1JfZDEwVVlEYWxISUYwVi1wUnRjUEp4ZmtKMGdWUlowUmNNUUs1emQ?oc=5\" target=\"_blank\">Carreras, Skretting y Esporg reciben los V Premios Truck Friendly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ruta del Transporte</font>",
@@ -443,6 +458,20 @@
       "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2851,
+      "headline": "Schouw & Co. share buy-back programme, week 46 2026 - Yahoo Finance UK",
+      "story_summary": "Schouw & Co. announced its share buy-back programme activity for week 46 of 2026. The article reports routine corporate capital allocation actions by the parent company of BioMar Group.",
+      "first_seen": "2026-11-16T14:20:00+00:00",
+      "last_seen": "2026-11-16T14:20:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2849,
@@ -127986,6 +128015,54 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUU8tcTZIYl94OWVoQ3RHS3o1MjMwQVdvTXZsOGFEMmlaSi1EeGJQSjVhZzhTaGhRc0ZuTWtHODBwR1lxWEV4bTNEYjZLVFBYcXBoSXo4QlA4SEp4NjBBN0pYajVneWhTZ3U5RERtMkltUWJ0WDBLQmFkVWY3aDFzc1dQX3E0TXpjdEw0cHREOG1ES1JoSWNSU09uWHVYdEFZOVVzeVJpa0FaWThP?oc=5\" target=\"_blank\">Carreras, Skretting y ESPORG ganan los Premios Truck Friendly 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Camión Actualidad</font>"
+    },
+    {
+      "id": 779179,
+      "story_id": 2851,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsYUVhNmMzaFRKQTJtcjlZSmtVWGRnY3NmaXN6OHhyTV9tbVdUazVvcGRuT0JRdkRIZFJDNHVtVXVYdDBTN1FCWkdvQnUtX0QycncyWFB2ZFNtYzRoOFMwNXpZOENPR0RKSXhfS0J0dGVMS2tPSHo0bVc1cGlEUQ?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 46 2026 - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-16T14:20:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buy-back programme in week 46 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced its share buy-back programme activity for week 46 of 2026. The article reports routine corporate capital allocation actions by the parent company of BioMar Group."
+    },
+    {
+      "id": 779415,
+      "story_id": 2852,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORE9IczRDRjhQZGpsR3hvVzA2VmVnUUhBSzlsUk5sakVjUnNUTWJGb2pnelZGX1psZS1GQk1pMUl4WloyRTlKQjNKTE10QzRuREoyZEV3SGFlS1hRUXVLdzN0WGxUZUMwWV9FbmNtOFAtZnhHY01XckpIS01MWlhkMW5qTzI4M3I2cTdkNzVoamcxd09SYzNRdVRKZWQ5OUlIeEpQZnRwaW9TWkhYMUtlVFN4MURDUU9KR1FsekVKNmFGX2hRWWI4aWVqbGRQeTlXXzJUSEx6bExqSXdvU2h3ZXZ0V2Y5bFdDcmFhYkMzbFFHT2RmTzFr?oc=5",
+      "title": "Carreras, Skretting y Esporg, reconocidos por su responsabilidad social en el transporte de mercancías - Cadena de Suministro",
+      "source_name": "Cadena de Suministro",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-11-17T11:55:06+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxORE9IczRDRjhQZGpsR3hvVzA2VmVnUUhBSzlsUk5sakVjUnNUTWJGb2pnelZGX1psZS1GQk1pMUl4WloyRTlKQjNKTE10QzRuREoyZEV3SGFlS1hRUXVLdzN0WGxUZUMwWV9FbmNtOFAtZnhHY01XckpIS01MWlhkMW5qTzI4M3I2cTdkNzVoamcxd09SYzNRdVRKZWQ5OUlIeEpQZnRwaW9TWkhYMUtlVFN4MURDUU9KR1FsekVKNmFGX2hRWWI4aWVqbGRQeTlXXzJUSEx6bExqSXdvU2h3ZXZ0V2Y5bFdDcmFhYkMzbFFHT2RmTzFr?oc=5\" target=\"_blank\">Carreras, Skretting y Esporg, reconocidos por su responsabilidad social en el transporte de mercancías</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena de Suministro</font>"
     }
   ],
   "share_of_voice": {
@@ -131681,15 +131758,15 @@
       },
       {
         "week": "2026-W47",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2070
+        "count": 2071
       },
       {
         "company": "Cargill",
@@ -131697,7 +131774,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1299
+        "count": 1300
       }
     ]
   }
