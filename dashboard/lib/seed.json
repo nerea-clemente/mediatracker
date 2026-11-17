@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T00:01:43+00:00",
+  "generated_at": "2026-11-17T04:17:51+00:00",
   "stats": {
-    "mention_count": 3684,
+    "mention_count": 3685,
     "story_count": 2679,
     "analyzed_count": 2070,
     "off_topic_mentions": 143,
@@ -58,6 +58,7 @@
     "CEOWORLD magazine",
     "CTV News",
     "Cadena SER",
+    "Camión Actualidad",
     "Carey",
     "Centro Competencia",
     "ChartMill",
@@ -430,6 +431,20 @@
   ],
   "stories": [
     {
+      "id": 2837,
+      "headline": "Carreras, Skretting y Esporg reciben los V Premios Truck Friendly - Ruta del Transporte",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXNwNlQxemxDdDVVWVhoU0tMcEx4R1B6VGhROHg3b0lha05BemJtUTFsczdUQjgyX2NtUHRhNVVxS19HRzJPY1FWcjRuVjJRRXVjeVJheXFEa0ctTFc2TFpqaU15QXJ0TVNzSkRKNmhWdHhjYTNoSW9FY0Y0UzZsNHhwQ3JuMWFhTTVxV0VBNENyZ2pwaFpQX1JfZDEwVVlEYWxISUYwVi1wUnRjUEp4ZmtKMGdWUlowUmNNUUs1emQ?oc=5\" target=\"_blank\">Carreras, Skretting y Esporg reciben los V Premios Truck Friendly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ruta del Transporte</font>",
+      "first_seen": "2026-11-11T19:26:37+00:00",
+      "last_seen": "2026-11-16T23:37:48+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 6,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2849,
       "headline": "Skretting introduces functional salmon feed in Chile - Aquafeed.com",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQWC1UaGNjQURtQTJsVldRZlM2cG1sOFN2Uk9UZFNtb3lKYkZpdkJ1U2I1a0lmZ0wyc0lSSFc5Q1I2N1kzWmRkTHVUTDg5Rk1CdjI2NHJZbjl3SHFZZEdIYmZGb2xYcjJ5aThnVVB3dWhuLWIydW9va296d1FCdmxYU0FLS091U2dvcC1BejNiUzZpSHB6MXZV?oc=5\" target=\"_blank\">Skretting introduces functional salmon feed in Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aquafeed.com</font>",
@@ -456,20 +471,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
-    },
-    {
-      "id": 2837,
-      "headline": "Carreras, Skretting y Esporg reciben los V Premios Truck Friendly - Ruta del Transporte",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXNwNlQxemxDdDVVWVhoU0tMcEx4R1B6VGhROHg3b0lha05BemJtUTFsczdUQjgyX2NtUHRhNVVxS19HRzJPY1FWcjRuVjJRRXVjeVJheXFEa0ctTFc2TFpqaU15QXJ0TVNzSkRKNmhWdHhjYTNoSW9FY0Y0UzZsNHhwQ3JuMWFhTTVxV0VBNENyZ2pwaFpQX1JfZDEwVVlEYWxISUYwVi1wUnRjUEp4ZmtKMGdWUlowUmNNUUs1emQ?oc=5\" target=\"_blank\">Carreras, Skretting y Esporg reciben los V Premios Truck Friendly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ruta del Transporte</font>",
-      "first_seen": "2026-11-11T19:26:37+00:00",
-      "last_seen": "2026-11-13T23:00:03+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 5,
-      "is_about_target_brand": true,
-      "company": "Skretting"
     },
     {
       "id": 2840,
@@ -127961,6 +127962,30 @@
         "none"
       ],
       "summary": "Schouw & Co., the parent company of aquaculture feed producer BioMar Group, has announced the initiation of a share buyback programme worth up to DKK 75 million. The announcement represents a capital allocation decision by the industrial conglomerate and was made by company leadership including Jens Bjerg Sørensen, Schouw's President. The buyback has not been completed and represents planned future action rather than a completed transaction or operational development at BioMar itself."
+    },
+    {
+      "id": 778871,
+      "story_id": 2837,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUU8tcTZIYl94OWVoQ3RHS3o1MjMwQVdvTXZsOGFEMmlaSi1EeGJQSjVhZzhTaGhRc0ZuTWtHODBwR1lxWEV4bTNEYjZLVFBYcXBoSXo4QlA4SEp4NjBBN0pYajVneWhTZ3U5RERtMkltUWJ0WDBLQmFkVWY3aDFzc1dQX3E0TXpjdEw0cHREOG1ES1JoSWNSU09uWHVYdEFZOVVzeVJpa0FaWThP?oc=5",
+      "title": "Carreras, Skretting y ESPORG ganan los Premios Truck Friendly 2026 - Camión Actualidad",
+      "source_name": "Camión Actualidad",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-11-16T23:37:48+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOUU8tcTZIYl94OWVoQ3RHS3o1MjMwQVdvTXZsOGFEMmlaSi1EeGJQSjVhZzhTaGhRc0ZuTWtHODBwR1lxWEV4bTNEYjZLVFBYcXBoSXo4QlA4SEp4NjBBN0pYajVneWhTZ3U5RERtMkltUWJ0WDBLQmFkVWY3aDFzc1dQX3E0TXpjdEw0cHREOG1ES1JoSWNSU09uWHVYdEFZOVVzeVJpa0FaWThP?oc=5\" target=\"_blank\">Carreras, Skretting y ESPORG ganan los Premios Truck Friendly 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Camión Actualidad</font>"
     }
   ],
   "share_of_voice": {
@@ -131653,6 +131678,12 @@
         "BioMar": 19,
         "Cargill": 0,
         "Skretting": 10
+      },
+      {
+        "week": "2026-W47",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
       }
     ],
     "totals": [
@@ -131666,7 +131697,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1298
+        "count": 1299
       }
     ]
   }
