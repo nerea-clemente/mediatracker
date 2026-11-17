@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T14:46:14+00:00",
+  "generated_at": "2026-11-17T18:40:39+00:00",
   "stats": {
-    "mention_count": 3687,
-    "story_count": 2681,
-    "analyzed_count": 2071,
+    "mention_count": 3688,
+    "story_count": 2682,
+    "analyzed_count": 2072,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -382,6 +382,7 @@
     "heraldo.es",
     "hitra-froya.no",
     "iLaks",
+    "iSandnessjøen",
     "indiashippingnews.com",
     "intrafish.no",
     "jbl.no",
@@ -17191,6 +17192,20 @@
       "id": 2697,
       "headline": "BioMar acquires leading Norwegian aquaculture research centre - WEAREAQUACULTURE",
       "story_summary": "BioMar has acquired a leading Norwegian aquaculture research centre, strengthening its innovation and research portfolio. The acquisition represents BioMar's strategic investment in expanding its technical capabilities within the aquaculture sector.",
+      "first_seen": "2025-03-11T07:00:00+00:00",
+      "last_seen": "2025-03-11T07:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2853,
+      "headline": "BioMar kjøper opp forskningssenter: – Det er godt å vite at neste eier vil ta godt vare på det som er skapt - iSandnessjøen",
+      "story_summary": "BioMar has purchased a research center, with stakeholders expressing confidence in the company's stewardship of the facility and its mission. The acquisition represents BioMar's commitment to maintaining and advancing the research infrastructure established at the center.\n\nKey_claims: [\"BioMar acquired a research center\", \"Previous operators expressed satisfaction with BioMar as the successor owner\"], \"people_quoted\": [], \"risk_flags\": [\"none\"], \"is_about_target_brand\": true},",
       "first_seen": "2025-03-11T07:00:00+00:00",
       "last_seen": "2025-03-11T07:00:00+00:00",
       "primary_sentiment": "positive",
@@ -128063,6 +128078,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxORE9IczRDRjhQZGpsR3hvVzA2VmVnUUhBSzlsUk5sakVjUnNUTWJGb2pnelZGX1psZS1GQk1pMUl4WloyRTlKQjNKTE10QzRuREoyZEV3SGFlS1hRUXVLdzN0WGxUZUMwWV9FbmNtOFAtZnhHY01XckpIS01MWlhkMW5qTzI4M3I2cTdkNzVoamcxd09SYzNRdVRKZWQ5OUlIeEpQZnRwaW9TWkhYMUtlVFN4MURDUU9KR1FsekVKNmFGX2hRWWI4aWVqbGRQeTlXXzJUSEx6bExqSXdvU2h3ZXZ0V2Y5bFdDcmFhYkMzbFFHT2RmTzFr?oc=5\" target=\"_blank\">Carreras, Skretting y Esporg, reconocidos por su responsabilidad social en el transporte de mercancías</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cadena de Suministro</font>"
+    },
+    {
+      "id": 779611,
+      "story_id": 2853,
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLVZ4M0FlQmRTa3EtamEteENRaS1iRUJzRFhLS3hINUVkNjdJV0hQcVhjbWxkakczelRCbEdvUF9CQ3J4Y01MaVBjZncyQl9nU05La2FBbmZOMDJNN2lKYnZoM2RYazJYbEpmUFBNS1Z6UVg0SHRZRnF1VmxCb2FTcTZKY3BFbVY1dWRhaHB6RVBMT00tcV9YOW1DSG9XVjcxT3RJcnNqbVFRYzViaVl5cVlxdHc4QWRyM05nMWozLUVtWGJqc1lGTDF6Z2hSRTlzM0FqX2VKdmt2bkxKT2wyS0t3?oc=5",
+      "title": "BioMar kjøper opp forskningssenter: – Det er godt å vite at neste eier vil ta godt vare på det som er skapt - iSandnessjøen",
+      "source_name": "iSandnessjøen",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2025-03-11T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar acquires research center, ensuring continuity of innovation.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has purchased a research center, with stakeholders expressing confidence in the company's stewardship of the facility and its mission. The acquisition represents BioMar's commitment to maintaining and advancing the research infrastructure established at the center.\n\nKey_claims: [\"BioMar acquired a research center\", \"Previous operators expressed satisfaction with BioMar as the successor owner\"], \"people_quoted\": [], \"risk_flags\": [\"none\"], \"is_about_target_brand\": true},"
     }
   ],
   "share_of_voice": {
@@ -131230,7 +131269,7 @@
       },
       {
         "week": "2025-W11",
-        "BioMar": 20,
+        "BioMar": 21,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -131766,7 +131805,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2071
+        "count": 2072
       },
       {
         "company": "Cargill",
