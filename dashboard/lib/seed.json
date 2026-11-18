@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-18T03:17:37+00:00",
+  "generated_at": "2026-11-18T14:26:21+00:00",
   "stats": {
-    "mention_count": 3688,
-    "story_count": 2682,
-    "analyzed_count": 2072,
+    "mention_count": 3690,
+    "story_count": 2684,
+    "analyzed_count": 2073,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -432,6 +432,20 @@
     "ytringen"
   ],
   "stories": [
+    {
+      "id": 2855,
+      "headline": "BioMar presenta plan de transición climática con certificación independiente - Aqua.cl",
+      "story_summary": "BioMar has announced a climate transition plan that features independent certification, signaling the company's commitment to environmental sustainability. The certification validates BioMar's approach to managing climate-related risks and impacts.",
+      "first_seen": "2026-11-18T09:51:07+00:00",
+      "last_seen": "2026-11-18T09:51:07+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2852,
       "headline": "Carreras, Skretting y Esporg, reconocidos por su responsabilidad social en el transporte de mercancías - Cadena de Suministro",
@@ -31743,6 +31757,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2854,
+      "headline": "Skretting plans to cease UK production due to market overcapacity - The Fish Site",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3AzNF9CREhWWE43V0RyZVF5bS1XOVNmdF9fWG84T1AyT0gxUWR4emU0Y1htOWVHelNvaFowX1hIM3UtYlFLVGd6MFUzQVpqd0hBRDV5bnpraHp0TWptRUMwdTkwSXB5bW1jVUJVTzkwXzdUSFJUeHVTYkNRalBlcV9EZjFyQVVIell4RFZIeHJOSkcxc3hna0xoeVVGT3c?oc=5\" target=\"_blank\">Skretting plans to cease UK production due to market overcapacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>",
+      "first_seen": "2018-11-06T08:00:00+00:00",
+      "last_seen": "2018-11-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -128102,6 +128130,57 @@
         "none"
       ],
       "summary": "BioMar has purchased a research center, with stakeholders expressing confidence in the company's stewardship of the facility and its mission. The acquisition represents BioMar's commitment to maintaining and advancing the research infrastructure established at the center.\n\nKey_claims: [\"BioMar acquired a research center\", \"Previous operators expressed satisfaction with BioMar as the successor owner\"], \"people_quoted\": [], \"risk_flags\": [\"none\"], \"is_about_target_brand\": true},"
+    },
+    {
+      "id": 781398,
+      "story_id": 2855,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUNNQnA3aUtKS2M2c0UzVFRXczVRVU1SWF90eDRleFJsUkNYTXdVZXhycGMzM0ZzMWt3bHZGbXVJSE52b1FHYlYtdE04d28tNmFBNUpDZG0tZGR1UWh0bGFKSkpUbGVkX2J3VzFmaWVET05wVWhEbTBQc01oaXVXQkc3MlZ0Ukh4UWk0NXhTTGJmMnd4RXhwLTM2bWdzQQ?oc=5",
+      "title": "BioMar presenta plan de transición climática con certificación independiente - Aqua.cl",
+      "source_name": "Aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-11-18T09:51:07+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "BioMar announces climate transition plan with independent certification",
+      "key_claims": [
+        "BioMar has developed a climate transition plan",
+        "The plan includes independent certification"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "exec_statement"
+      ],
+      "summary": "BioMar has announced a climate transition plan that features independent certification, signaling the company's commitment to environmental sustainability. The certification validates BioMar's approach to managing climate-related risks and impacts."
+    },
+    {
+      "id": 781580,
+      "story_id": 2854,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3AzNF9CREhWWE43V0RyZVF5bS1XOVNmdF9fWG84T1AyT0gxUWR4emU0Y1htOWVHelNvaFowX1hIM3UtYlFLVGd6MFUzQVpqd0hBRDV5bnpraHp0TWptRUMwdTkwSXB5bW1jVUJVTzkwXzdUSFJUeHVTYkNRalBlcV9EZjFyQVVIell4RFZIeHJOSkcxc3hna0xoeVVGT3c?oc=5",
+      "title": "Skretting plans to cease UK production due to market overcapacity - The Fish Site",
+      "source_name": "The Fish Site",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2018-11-06T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3AzNF9CREhWWE43V0RyZVF5bS1XOVNmdF9fWG84T1AyT0gxUWR4emU0Y1htOWVHelNvaFowX1hIM3UtYlFLVGd6MFUzQVpqd0hBRDV5bnpraHp0TWptRUMwdTkwSXB5bW1jVUJVTzkwXzdUSFJUeHVTYkNRalBlcV9EZjFyQVVIell4RFZIeHJOSkcxc3hna0xoeVVGT3c?oc=5\" target=\"_blank\">Skretting plans to cease UK production due to market overcapacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
     }
   ],
   "share_of_voice": {
@@ -129513,7 +129592,7 @@
         "week": "2018-W45",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 4
+        "Skretting": 5
       },
       {
         "week": "2018-W46",
@@ -131797,7 +131876,7 @@
       },
       {
         "week": "2026-W47",
-        "BioMar": 1,
+        "BioMar": 2,
         "Cargill": 0,
         "Skretting": 2
       }
@@ -131805,7 +131884,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2072
+        "count": 2073
       },
       {
         "company": "Cargill",
@@ -131813,7 +131892,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1300
+        "count": 1301
       }
     ]
   }
