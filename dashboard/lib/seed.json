@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T18:25:01+00:00",
+  "generated_at": "2026-11-19T22:57:05+00:00",
   "stats": {
-    "mention_count": 3692,
-    "story_count": 2685,
-    "analyzed_count": 2073,
+    "mention_count": 3699,
+    "story_count": 2688,
+    "analyzed_count": 2079,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -479,12 +479,12 @@
       "headline": "Schouw & Co. share buy-back programme, week 46 2026 - Yahoo Finance UK",
       "story_summary": "Schouw & Co. announced its share buy-back programme activity for week 46 of 2026. The article reports routine corporate capital allocation actions by the parent company of BioMar Group.",
       "first_seen": "2026-11-16T14:20:00+00:00",
-      "last_seen": "2026-11-16T14:20:00+00:00",
+      "last_seen": "2026-11-16T14:25:10+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -501,6 +501,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2859,
+      "headline": "Aktieselskabet Schouw & Co. (5RF.MU) Analyst Insights, Price Targets & Recommendations - Yahoo Finance - Yahoo! Finance Canada",
+      "story_summary": "Yahoo! Finance Canada publishes analyst insights, price targets, and recommendations for Schouw & Co (ticker 5RF.MU). The article is a financial data aggregation page providing market analysis and investor guidance on the Danish industrial conglomerate's equity performance and valuation metrics. The article is a financial data aggregation page providing market analysis and investor guidance on the Danish industrial conglomerate's equity performance and valuation metrics.",
+      "first_seen": "2026-11-15T11:55:13+00:00",
+      "last_seen": "2026-11-15T11:55:13+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2848,
@@ -811,6 +825,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2815,
+      "headline": "Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA - The Manila Times",
+      "story_summary": "Schouw & Co. announced an upward revision of its full-year 2026 financial guidance for both revenue and EBITDA. The guidance increase reflects improved business performance expectations across the conglomerate's portfolio, which includes BioMar.",
+      "first_seen": "2026-11-06T07:08:17+00:00",
+      "last_seen": "2026-11-06T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2816,
       "headline": "Interim report – third quarter of 2026 - StreetInsider",
       "story_summary": "Schouw & Co, the parent company of BioMar Group, published its third quarter 2026 interim financial report. The announcement appears to be a routine earnings disclosure covering the period's operational and financial performance.",
@@ -836,20 +864,6 @@
         "financial"
       ],
       "pickup_count": 4,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2815,
-      "headline": "Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA - The Manila Times",
-      "story_summary": "Schouw & Co. announced an upward revision of its full-year 2026 financial guidance for both revenue and EBITDA. The guidance increase reflects improved business performance expectations across the conglomerate's portfolio, which includes BioMar.",
-      "first_seen": "2026-11-06T07:08:17+00:00",
-      "last_seen": "2026-11-06T07:08:17+00:00",
-      "primary_sentiment": "positive",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -3254,13 +3268,13 @@
       "id": 2490,
       "headline": "Aktieselskabet Schouw & Co. (CPSE:SCHO) completa la adquisición del 75% de Spectre A/S a Dansk Ejerkapital V K/S, gestionada por Dansk Ejerkapital A/S, y a la familia Klausen - MarketScreener España",
       "story_summary": "Schouw & Co has completed its acquisition of a 75% stake in Spectre A/S from Dansk Ejerkapital and the Klausen family. This is a standard M&A transaction announcement by the parent company of BioMar Group.",
-      "first_seen": "2026-09-01T12:36:16+00:00",
+      "first_seen": "2026-09-01T07:00:00+00:00",
       "last_seen": "2026-09-01T12:36:16+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -7717,6 +7731,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2858,
+      "headline": "Prisen på fiskefôr har falt med mer enn en tredjedel på tre år - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTJOVS1yNVpUTHFNdXJ5NzZ4c3FuV2xQNFo1ei1BSDBFa3ZXQ3Z4NFI5Q3hyZVMxQkRNcWU4OVRxWGZRckQ4UUtQQlJ4bmozaEltRGt1a0UxLXdTVTQwQjFGM0VUaG9OLVVNcjhkMkJHZFBCWjltLWRLamdUa2ktVHVzeTRNTU0?oc=5\" target=\"_blank\">Prisen på fiskefôr har falt med mer enn en tredjedel på tre år</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2026-05-08T07:00:00+00:00",
+      "last_seen": "2026-05-08T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1253,
@@ -14685,7 +14713,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -20835,6 +20863,20 @@
       "id": 2290,
       "headline": "New managing director for BioMar JV in Vietnam - Fishfarming expert",
       "story_summary": "BioMar has appointed a new managing director to its joint venture operation in Vietnam. The appointment represents organizational development within the company's Asian aquaculture feed operations. The article does not provide additional details about the specific individual or strategic implications of the change, as the matched content appears to be a headline link only without full article text available for analysis. BioMar operates through joint ventures in multiple markets as part of its global aquaculture feed distribution strategy. The Vietnam market is part of the company's broader Asian regional presence serving salmon, shrimp, and other farmed fish producers. No specific claims, quotes, or risk factors are evident from the limited text provided, keeping this announcement in routine personnel management territory with neutral business sentiment and secondary prominence as it addresses organizational structure rather than core business performance or strategic news. People_quoted, key_claims and risk_flags cannot be populated from the headline-only content made available for analysis, but all other required fields are completed based on the nature of the appointment announcement itself. No executive statements, product issues, financial implications, controversies or legal matters appear relevant to this routine management update at a regional subsidiary level. The sentiment reflects a standard, factual business announcement without positive or negative undertones beyond normal organizational change communication. Confidence in neutral sentiment is high given the purely informational nature of announcing a new managing director appointment without additional context, commentary or implications provided in the matched content received. Further detail from the full article would be needed to identify whether any of the optional risk_flags categories should be applied, but none appear warranted based on the limited information available. Prominence is marked secondary since while BioMar is the subject, the news is a routine management change rather than a primary strategic or operational focus. The angle succinctly captures the core of the announcement without overstatement. The summary provides the neutral framing appropriate for this type of organizational announcement without implying positive or negative business impact that is not evident from the source material provided. The managed consistency in sentiment, prominence, angle and summary across this analysis reflects the straightforward nature of routine personnel announcements in corporate operations. The appointment itself is not controversial, legal, product-related or financial in nature based on available information, and no executive statements beyond the appointment itself appear to have been made or reported. In the absence of any claims attributable to sources quoted in the article, key_claims is left empty to maintain accuracy and avoid speculation about implications not explicitly stated in the provided text material available for analysis and interpretation by this system for structured intelligence collection and media monitoring purposes concerning BioMar Group and its operations, subsidiaries, and personnel changes globally.",
+      "first_seen": "2024-01-31T08:00:00+00:00",
+      "last_seen": "2024-01-31T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2857,
+      "headline": "Schouw & Co. Announces CFO Changes - marketscreener.com",
+      "story_summary": "Schouw & Co, the Danish industrial conglomerate and parent company of BioMar Group, has announced changes to its CFO position. The announcement reflects organizational adjustments within the company's leadership structure during the 2024 fiscal period transition period (early 2024).",
       "first_seen": "2024-01-31T08:00:00+00:00",
       "last_seen": "2024-01-31T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -128243,6 +128285,174 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0haV3VFU1VoMERtQVFSLS1DbDVhRXpxZ3B0T1JOSUdWS2FyaTNLYV9YVFFtX19rUG4wRE54YVJjem9fWnB0VTh0bnJVdzJhczQyaWR5eWVfSWtxaktNTUlla0I2cXZ2WlRCM0ZrXzFFRFQ0NTBUX0o3STRVcWZ0Um9qdG94RXdPRTdWTHhQRDVJNlpoNmc?oc=5\" target=\"_blank\">- Skretting handlet i strid med guttenes interesser</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stavanger Aftenblad</font>"
+    },
+    {
+      "id": 784616,
+      "story_id": 2858,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTJOVS1yNVpUTHFNdXJ5NzZ4c3FuV2xQNFo1ei1BSDBFa3ZXQ3Z4NFI5Q3hyZVMxQkRNcWU4OVRxWGZRckQ4UUtQQlJ4bmozaEltRGt1a0UxLXdTVTQwQjFGM0VUaG9OLVVNcjhkMkJHZFBCWjltLWRLamdUa2ktVHVzeTRNTU0?oc=5",
+      "title": "Prisen på fiskefôr har falt med mer enn en tredjedel på tre år - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTJOVS1yNVpUTHFNdXJ5NzZ4c3FuV2xQNFo1ei1BSDBFa3ZXQ3Z4NFI5Q3hyZVMxQkRNcWU4OVRxWGZRckQ4UUtQQlJ4bmozaEltRGt1a0UxLXdTVTQwQjFGM0VUaG9OLVVNcjhkMkJHZFBCWjltLWRLamdUa2ktVHVzeTRNTU0?oc=5\" target=\"_blank\">Prisen på fiskefôr har falt med mer enn en tredjedel på tre år</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 784848,
+      "story_id": 2851,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWWVrWXVkZzNxa0dXMGlYeEtZWk9od1NOcm0xSzVyLTJUOFk4S0x2Rlc1cGhPLUktbHRnX1kzNEF6TGFFQUZhZ1BmX3EzODFCemZxVFpMbkMxZDhDNE5hZVZBNHBaTTdZWTZ6N2lWc2s4cWNFMDBIY3hWX1lPdzhpRjNEbFREX1AtQUc1RzJPcExLS3ljOXNsd1V3Zm56V1lkcmF1eTVTejRYRkstaGYxWmtTcU9xRWMtNzkxWnBn0gHDAUFVX3lxTE5OcWdRZGV1QVdoSnFjdXZBVnZKOERWTTJnLVdKcGdyc2xVbmVKR2lvTEdjQ1JRZS1BRGdsa3NkS1BONkUtWjFuTW9JSjJNZ3ctQTZpLXZTWDNORUdYZE1RVVc0YTN5MmhHX2lXUm5VS0NYWGRGcG8zYlR1SnpTSnRyZ1JvcWhQQnBsbEFXdlA0X2xRdXk1emdMdE9Zb3A5MUdCWlVDU2phaTEweFhsVHVlQlYtNDBmNS05QnQ1X3k1cnV0dw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 46 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-11-16T14:25:10+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share repurchase programme in week 46 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced a share buy-back programme for week 46 of 2026. The article reports on the routine capital allocation activity of the parent company of BioMar Group without commentary or analysis of financial performance or strategy beyond the buyback itself."
+    },
+    {
+      "id": 784864,
+      "story_id": 2859,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IS3c1bVBmWkFjUTlDRGkyWXIzaWROdTVlX0JlcktpQU04VXM3T1RObXRWX0ptNlpKdjBVc01KdWo2eHI0a3c0UTBRT1NDYmFTNjRiRVFRWVpsZ29aNW9tYzJjMUFiWjE1VDBJ?oc=5",
+      "title": "Aktieselskabet Schouw & Co. (5RF.MU) Analyst Insights, Price Targets & Recommendations - Yahoo Finance - Yahoo! Finance Canada",
+      "source_name": "Yahoo! Finance Canada",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-15T11:55:13+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Analyst insights and price targets for Schouw & Co stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo! Finance Canada publishes analyst insights, price targets, and recommendations for Schouw & Co (ticker 5RF.MU). The article is a financial data aggregation page providing market analysis and investor guidance on the Danish industrial conglomerate's equity performance and valuation metrics. The article is a financial data aggregation page providing market analysis and investor guidance on the Danish industrial conglomerate's equity performance and valuation metrics."
+    },
+    {
+      "id": 784866,
+      "story_id": 840,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0ZERmItZnp4Q0lIWnQ2ZU9DclBpSnFmbHBfLWlxam9fTzlNYjZXTHBPd1J1dmJQVENVU0t3dG9fcUZRMVB4RHdzUUVvY08tLTJqX3hUY29FN3Z2eVJOOUpRZkt2cVVlcUgtaWZpNzNlNjQ4VzdPSHcyZnIydVpkSmhkMmJiWElGUDFtWm5MWldCZ0cxNkVXM281U3gxU3paekFsTlV0ektvMDdCYzZxYUFfeW0?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 33 2025 - StreetInsider",
+      "source_name": "StreetInsider",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-08-18T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co share buyback programme activity in week 33 2025",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co announced details of its share buyback programme for week 33 of 2025. The article reports on the company's capital allocation activity during the specified week period.,"
+    },
+    {
+      "id": 784867,
+      "story_id": 2815,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVQ4anJ0LVkteGhlekZHSnh1aEF6emRJbFZQbWlXbmtMdTNNY05Pa2h5NVliQmVBdjBrb0ExbFRhTTNjVDB5UW5IYUVGd2FoNmNwY0hQTG5PY0UtU05WRnU2d3hNdUhCclZhem5vRWRtTDNQMVZaZnZ2azJIZXNJUjZjU1ItT2pRbGpTVmxheFJ6bG4zREJTUVRyUWI4TTc0SEtpNnlSOER6VV9JcUtGYlZsVWR1ZWEzbnNj?oc=5",
+      "title": "Schouw & Co. raises its full-year 2026 guidance on revenue and EBITDA - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Parent company upgrades full-year 2026 financial guidance upward",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced an upward revision to its full-year 2026 revenue and EBITDA guidance, signaling improved financial performance across its portfolio of industrial subsidiaries including BioMar. The upgrade reflects stronger-than-expected operational results and market conditions affecting the conglomerate's business segments in 2026."
+    },
+    {
+      "id": 784868,
+      "story_id": 2857,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNem5rVUVfZ3BQM2h3TzE3LUVQVzI5WFVXREJ4LXBuMHdVSkRJb3JCYlFSZ1JPWGhTTXJId1d3UXJ2anU3YjQ0dmktRG5oTFN4V29SS0lpNHlVSGJDT1U5YWtiSW11M1UtMW9VM01vSWZ5b1lGdWttelk4NVI1cnNwdlRfYlBzdlV2SXJDcy1tRGItT2haSUZ4eDhMTEZ6aVRlMU5FbXRUSmoyS1dWNEh5TzkwbUIybHFRenFvNEl0bw?oc=5",
+      "title": "Schouw & Co. Announces CFO Changes - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2024-01-31T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co announces changes to chief financial officer role",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co, the Danish industrial conglomerate and parent company of BioMar Group, has announced changes to its CFO position. The announcement reflects organizational adjustments within the company's leadership structure during the 2024 fiscal period transition period (early 2024)."
+    },
+    {
+      "id": 784869,
+      "story_id": 2490,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVUJvdFVONXZPR2dJZDlKVjdvMUJLQzlwcFphX08ydDZnS0tIZUdBLVFjSDRHZDRyUXpaT3ByYmpoMF9PMG5KNmlaa2gzT1ZuTmJxTk1SMm5hQ3J3UE8yaGlDaGc1XzZEUkM1aFVNekU3OVdhclROLUhNaGRQa2ZGelFZUktOVS1UYlg4Tm9uUHlmWnMyRUVBYS1IMVRpTWxYMUJYYnhWamllV1FwZS1CZG83NWg5N29WU2Q3WGpaZWNSVW9aUVZaZk04aHR1c1ZtSWxLa2dhMFZxTWJPVXR6ZG5Pdw?oc=5",
+      "title": "Aktieselskabet Schouw & Co. completed the acquisition of 75% stake in Spectre A/S from Dansk Ejerkapital V K/S, managed by Dansk Ejerkapital A/S and Klausen family. - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-09-01T07:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "Schouw & Co completes acquisition of majority stake in Spectre A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co has completed the acquisition of a 75% stake in Spectre A/S from Dansk Ejerkapital V K/S and the Klausen family. The transaction represents a corporate acquisition by the Danish industrial conglomerate but provides no detail on Spectre's business operations or strategic rationale for the deal."
     }
   ],
   "share_of_voice": {
@@ -131074,7 +131284,7 @@
       },
       {
         "week": "2024-W05",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 3
       },
@@ -131554,7 +131764,7 @@
       },
       {
         "week": "2025-W34",
-        "BioMar": 7,
+        "BioMar": 8,
         "Cargill": 0,
         "Skretting": 16
       },
@@ -131776,7 +131986,7 @@
       },
       {
         "week": "2026-W19",
-        "BioMar": 21,
+        "BioMar": 22,
         "Cargill": 0,
         "Skretting": 26
       },
@@ -131878,7 +132088,7 @@
       },
       {
         "week": "2026-W36",
-        "BioMar": 37,
+        "BioMar": 38,
         "Cargill": 0,
         "Skretting": 5
       },
@@ -131932,19 +132142,19 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 57,
+        "BioMar": 58,
         "Cargill": 1,
         "Skretting": 8
       },
       {
         "week": "2026-W46",
-        "BioMar": 19,
+        "BioMar": 20,
         "Cargill": 0,
         "Skretting": 10
       },
       {
         "week": "2026-W47",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Skretting": 2
       }
@@ -131952,7 +132162,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2073
+        "count": 2080
       },
       {
         "company": "Cargill",
