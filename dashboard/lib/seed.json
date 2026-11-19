@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T22:52:36+00:00",
+  "generated_at": "2026-11-19T02:55:19+00:00",
   "stats": {
-    "mention_count": 3690,
+    "mention_count": 3691,
     "story_count": 2684,
     "analyzed_count": 2073,
     "off_topic_mentions": 143,
@@ -21562,14 +21562,14 @@
     {
       "id": 2405,
       "headline": "Ingeborg Lye Skretting - FotMob",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBQWDJUY2RLcEthWFdTaUFwV3hHN0FyM1I5Y3I0ZEJVVW1IQ01VN1RfZFU3SGNyZVEtSDVJOV85enF2U2FKcUxEdm96dnZwTXhSdlFsTXdyaWxoN2xkNHVPcjd3SWdhSDhMMlFmaTJpXzlJQQ?oc=5\" target=\"_blank\">Ingeborg Lye Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FotMob</font>",
-      "first_seen": "2023-11-15T19:15:20+00:00",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9TOTFVWTY1QThwSTllVEQ5V3lOMUwxOW9QdzhmVFYtallSQmpZUmFqcjhuRkNtV1dPWl9nSUhmemlYTGQ5aXhPTkpVVE9qa1gzcHlJWjluU2RVZ1h0em9NX0I2c2N6bmpxOVBZSGNhWHVRZw?oc=5\" target=\"_blank\">Ingeborg Lye Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FotMob</font>",
+      "first_seen": "2023-11-15T10:01:04+00:00",
       "last_seen": "2023-11-15T19:15:20+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -128181,6 +128181,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3AzNF9CREhWWE43V0RyZVF5bS1XOVNmdF9fWG84T1AyT0gxUWR4emU0Y1htOWVHelNvaFowX1hIM3UtYlFLVGd6MFUzQVpqd0hBRDV5bnpraHp0TWptRUMwdTkwSXB5bW1jVUJVTzkwXzdUSFJUeHVTYkNRalBlcV9EZjFyQVVIell4RFZIeHJOSkcxc3hna0xoeVVGT3c?oc=5\" target=\"_blank\">Skretting plans to cease UK production due to market overcapacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fish Site</font>"
+    },
+    {
+      "id": 783408,
+      "story_id": 2405,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TOTFVWTY1QThwSTllVEQ5V3lOMUwxOW9QdzhmVFYtallSQmpZUmFqcjhuRkNtV1dPWl9nSUhmemlYTGQ5aXhPTkpVVE9qa1gzcHlJWjluU2RVZ1h0em9NX0I2c2N6bmpxOVBZSGNhWHVRZw?oc=5",
+      "title": "Ingeborg Lye Skretting - FotMob",
+      "source_name": "FotMob",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2023-11-15T10:01:04+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9TOTFVWTY1QThwSTllVEQ5V3lOMUwxOW9QdzhmVFYtallSQmpZUmFqcjhuRkNtV1dPWl9nSUhmemlYTGQ5aXhPTkpVVE9qa1gzcHlJWjluU2RVZ1h0em9NX0I2c2N6bmpxOVBZSGNhWHVRZw?oc=5\" target=\"_blank\">Ingeborg Lye Skretting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FotMob</font>"
     }
   ],
   "share_of_voice": {
@@ -130942,7 +130966,7 @@
         "week": "2023-W46",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2023-W47",
@@ -131892,7 +131916,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1301
+        "count": 1302
       }
     ]
   }
