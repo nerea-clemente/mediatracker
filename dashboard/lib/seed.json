@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T17:55:10+00:00",
+  "generated_at": "2026-11-20T22:31:51+00:00",
   "stats": {
-    "mention_count": 3702,
-    "story_count": 2691,
-    "analyzed_count": 2081,
+    "mention_count": 3703,
+    "story_count": 2692,
+    "analyzed_count": 2082,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -21054,6 +21054,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2863,
+      "headline": "BioMar incorpora nueva investigadora a su departamento global de I+D - Salmonexpert",
+      "story_summary": "BioMar has added a new researcher to its global research and development department. The announcement reflects the company's ongoing investment in its scientific and innovation capabilities.",
+      "first_seen": "2024-01-12T08:00:00+00:00",
+      "last_seen": "2024-01-12T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 105,
@@ -128569,6 +128583,32 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeTYxcmp1dlFsU09TTk84aWMxaU5iU0lQempESUFjVWd6Y2lRQTFXcEpHNHcydFpSVzh6RWVTWlVmR1NNbC1tOEtSTUFjeUxKcld3LTZTRXZQZUx0WlRiLTJlNVBNZ0NOWXgzZURxc2lzRlZoTFdyV01OY0tRbmFLREtMU3k2dFV4bjR1aDdrZHRENi0xUXBCYzdSeUg1dUtGQ0dxQ0FQWmZTVkg2eUlEenVmenpSZG5ESlVNN3NIaEJJeVlsV29fS1UyMFAzcDRETmFYbjlCbXZXd2h3S01KRzRudlB3WUlWYm4w?oc=5\" target=\"_blank\">Así es la correcta estrategia de alimentación para salmón coho según Skretting Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 787266,
+      "story_id": 2863,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdTVaTzBPMXBKYVIyNzZHTDc3WmJwa3phMmlzNEVyaDM1aFNzN2pEUUhvNDhQakE0U0pLOVJwN045ckdnWXE3dEtPcDJzVDRibG1IOV9nUGRTUzhyYWIxRFVBWEczY0RlTG10STRkVm53TXF4M2NSSUhJVmxqcnZTQUJpTmNyQy1paU1neG51NjgtNWFJQTlTLVVmbVdxSm4tYkYxU2VJc1A0UmpuaHVFMHNCMA?oc=5",
+      "title": "BioMar incorpora nueva investigadora a su departamento global de I+D - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2024-01-12T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "secondary",
+      "angle": "BioMar hires new researcher for global R&D department",
+      "key_claims": [
+        "BioMar has incorporated a new researcher into its global R&D department"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has added a new researcher to its global research and development department. The announcement reflects the company's ongoing investment in its scientific and innovation capabilities."
     }
   ],
   "share_of_voice": {
@@ -131382,7 +131422,7 @@
       },
       {
         "week": "2024-W02",
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 4,
         "Skretting": 3
       },
@@ -132278,7 +132318,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2081
+        "count": 2082
       },
       {
         "company": "Cargill",
