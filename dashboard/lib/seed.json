@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-21T02:57:46+00:00",
+  "generated_at": "2026-11-21T13:39:36+00:00",
   "stats": {
-    "mention_count": 3706,
-    "story_count": 2694,
-    "analyzed_count": 2083,
+    "mention_count": 3719,
+    "story_count": 2702,
+    "analyzed_count": 2092,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -447,6 +447,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2873,
+      "headline": "BioMar Group A/S (BIOMAC.XD) latest press releases and corporate news - Yahoo Finance UK",
+      "story_summary": "This is a Yahoo Finance UK aggregation page displaying BioMar Group A/S (BIOMAC.XD) press releases and corporate news. The page itself contains no substantive article content, only links to external news sources.",
+      "first_seen": "2026-11-18T15:54:57+00:00",
+      "last_seen": "2026-11-19T05:58:39+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2855,
       "headline": "BioMar presenta plan de transición climática con certificación independiente - Aqua.cl",
       "story_summary": "BioMar has announced a climate transition plan that features independent certification, signaling the company's commitment to environmental sustainability. The certification validates BioMar's approach to managing climate-related risks and impacts.",
@@ -537,6 +551,20 @@
       "first_seen": "2026-11-15T07:15:52+00:00",
       "last_seen": "2026-11-15T07:15:52+00:00",
       "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2872,
+      "headline": "BioMar Group A/S (BIOMAC.XD) cash flow - Yahoo Finance UK",
+      "story_summary": "This is a Yahoo Finance UK listing page displaying cash flow information for BioMar Group A/S (BIOMAC.XD). The page serves as a financial reference tool for investors tracking the company's liquidity position and cash movements over time.",
+      "first_seen": "2026-11-13T15:54:37+00:00",
+      "last_seen": "2026-11-13T15:54:37+00:00",
+      "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
@@ -967,15 +995,15 @@
     },
     {
       "id": 2805,
-      "headline": "BioMar Group (CPSE:BIOMAR) Stock Ignores Q3 Earnings Beat and EBIT Upgrade - Yahoo Finance",
-      "story_summary": "BioMar Group reported Q3 earnings that exceeded analyst expectations and received an EBIT upgrade, yet the stock price did not respond positively to the results. The disconnect between strong financial results and stock market performance suggests investor sentiment may be driven by factors beyond earnings metrics.",
-      "first_seen": "2026-11-03T18:08:28+00:00",
+      "headline": "BioMar Group A/S (BIOMAC.XD) Q3 FY2026 earnings call transcript - Yahoo Finance",
+      "story_summary": "Yahoo Finance published a transcript of BioMar Group A/S's Q3 FY2026 earnings call. The article provides access to the company's quarterly financial results and management commentary.",
+      "first_seen": "2026-11-03T08:00:00+00:00",
       "last_seen": "2026-11-04T13:02:24+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1081,28 +1109,28 @@
       "id": 2790,
       "headline": "BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut - Investing.com Canada",
       "story_summary": "BioMar released Q3 2026 results showing record earnings and an upward revision of full-year guidance, even as the company experienced a reduction in sales volume. The performance suggests improved profitability and operational efficiency offsetting lower unit volumes in the period.",
-      "first_seen": "2026-11-03T12:14:18+00:00",
+      "first_seen": "2026-11-03T08:00:00+00:00",
       "last_seen": "2026-11-03T14:01:09+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 3,
+      "pickup_count": 4,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
     {
       "id": 2797,
-      "headline": "Earnings call transcript: BioMar posts strong Q3 2026 beat as stock slips 2.4% By Investing.com - Investing.com India",
-      "story_summary": "BioMar reported stronger-than-expected Q3 2026 financial results, though the market reacted negatively with a 2.4% stock decline. An earnings call transcript documents the company's performance and management commentary for the period.",
-      "first_seen": "2026-11-03T14:01:09+00:00",
+      "headline": "Earnings call transcript: BioMar posts strong Q3 2026 beat as stock slips 2.4% - Investing.com",
+      "story_summary": "BioMar delivered better-than-expected Q3 2026 earnings results, though the stock price declined 2.4% following the announcement. The article covers the earnings call transcript, indicating management commentary on the strong financial performance.",
+      "first_seen": "2026-11-03T08:00:00+00:00",
       "last_seen": "2026-11-03T14:01:09+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "exec_statement",
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -1122,16 +1150,16 @@
     },
     {
       "id": 2789,
-      "headline": "Earnings call transcript: BioMar lifts profit outlook after record Q3 2026 - Investing.com",
-      "story_summary": "BioMar reported record Q3 2026 results and raised its profit outlook during an earnings call. The positive performance led the company to increase its forward guidance for profitability.",
-      "first_seen": "2026-11-03T10:45:59+00:00",
+      "headline": "Earnings call transcript: BioMar lifts profit outlook after record Q3 2026 - Investing.com UK",
+      "story_summary": "BioMar announced record Q3 2026 results and lifted its profit outlook for the full year during an earnings call. The company's strong financial performance signals improved operational execution and market conditions in the aquaculture feed sector.",
+      "first_seen": "2026-11-03T08:00:00+00:00",
       "last_seen": "2026-11-03T10:45:59+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "exec_statement",
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -6262,6 +6290,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2871,
+      "headline": "BioMar Group A/S: Target Price Consensus and Analysts Recommendations | BIOMAR | DK0064867972 - marketscreener.com",
+      "story_summary": "MarketScreener publishes a summary of analyst consensus target prices and buy/sell/hold recommendations for BioMar Group A/S shares (ticker: BIOMAR, ISIN: DK0064867972). The page aggregates financial analyst views on the stock's valuation and performance outlook without presenting company-specific news or operational updates.",
+      "first_seen": "2026-06-02T23:42:37+00:00",
+      "last_seen": "2026-06-02T23:42:37+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1585,
       "headline": "BioMar Group A/S: Performance & Quotes, BIOMAR Stock Price on Nasdaq Copenhagen Exchange - marketscreener.com",
       "story_summary": "This is a financial data page tracking BioMar Group A/S stock performance and quotes on the Nasdaq Copenhagen Exchange. The content is factual and informational, presenting market information without editorial analysis or commentary.",
@@ -9842,6 +9884,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2870,
+      "headline": "BioMar gains market share across all segments in 2025 - Aquafeed.com",
+      "story_summary": "BioMar achieved market share growth across all of its operational segments during 2025. The company's broad-based gains underscore its competitive positioning in the global aquaculture feed market.",
+      "first_seen": "2026-03-06T08:00:00+00:00",
+      "last_seen": "2026-03-06T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 1030,
       "headline": "Mange utfordringer for lokalradio - Norsk Lokalradioforbund",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOFBlWks1NldQR0RYYUJUd2RvTGZTYU95ZTk4bXpERWZkOFRjblBwdy1PdGdMTng0MXZOc2lVS1Z2WG1kMVpJamwtLVNUeWdkcmdqV19YSUkxNl9iTml2VXlLMlpKRk14TnJYZlBtYnFLR1Q3N1FJNE1wTDBrejRCb1hxVVg0R3QxVm9B?oc=5\" target=\"_blank\">Mange utfordringer for lokalradio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Norsk Lokalradioforbund</font>",
@@ -10788,6 +10844,20 @@
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2869,
+      "headline": "BioMar takes full ownership of Ecuadorian shrimp feed business - WEAREAQUACULTURE",
+      "story_summary": "BioMar has taken full ownership of its shrimp feed operations in Ecuador, consolidating its presence in the region. The move represents an expansion of BioMar's control over its aquaculture nutrition portfolio in South America.",
+      "first_seen": "2026-02-06T08:00:00+00:00",
+      "last_seen": "2026-02-06T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -26365,6 +26435,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2868,
+      "headline": "“Para Skretting es fundamental la colaboración para hacer más y mejores progresos en sostenibilidad” - Diario Acuícola",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa2oydDh3cXRQWDR5eC16WF94dVVkYXZ1bUVPMFdNUFYzbmQ0VWZXX1l1WHBZLTRlalhGd2tJMVgzaGpVQ2pjUUJlalpDMjdueF9UVHFrY1dpRXdsb0JPMGpwckliMnY4WGgyMDVtOHZER1NBZXlZRzJwVFNqMDVEaTJrWm00UTVtWGNfRHotZVM1ajdPOTJCZlZCT0NJWFp3NElBNnkwV2lFclRpOFptbGp4OFF4WWc4cmxpeG5pdFpsWmpLZFhLMU9yUC1sRnc5Zjh3S0NPWm9xYWFGSG5Zazd6dHh5Mnp3NV9qVDFWX2xkNmlV?oc=5\" target=\"_blank\">“Para Skretting es fundamental la colaboración para hacer más y mejores progresos en sostenibilidad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>",
+      "first_seen": "2021-12-06T08:00:00+00:00",
+      "last_seen": "2021-12-06T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2699,
       "headline": "Nuevo gerente de Sostenibilidad en Skretting expone sus principales desafíos - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTk9vbzQ2N1Y4TTliVWVmYnNvNDFudE94TkxJTk5BRURXeFdTalNIYlZWR3dvVTZ1OFRQZVlMSERiNnltX190RXBqUmFFVXZabEFXRlpacGdGZTdJQmdld3ZqWl9NVHpCd0YtelVLUVEtOWpWSUNSMmEybm52cFdlRkNuRG1VUjh6am03X0Y1TUJ0WjlPaEgwOS1xd0xvRUFmXzlPRkJFN3RJNThxTzBIMUJ1NVhEWGRaLXYzWnQ0LXRJY2RxZ3hFTnZqQnRCVkx5S3NoMUl6bnFnSjhHS2c?oc=5\" target=\"_blank\">Nuevo gerente de Sostenibilidad en Skretting expone sus principales desafíos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -29319,6 +29403,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2867,
+      "headline": "UK factory closures dent Skretting sustainability performance - Fishfarming expert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM1dCV3ppdXQzUnNjTExqTC1HZ2NsN09Qb21HSkVSSGVOc1pmU0dlZHg5N29jeFVrMzNfWUZfX1VXczhMbWhxTmxscWxuV3ZEaGdZSkE1d1VnelZHQ2l1Q2tHNWNrV01rVk1yVk9MZGx3VzVtZ1FDNHJuR1o3N1YwYW1uZFBLbW13OThPUFlFNjR1TWhhWjVLbHJpZEx0ei1BWWFiakx4ZDVJQzdmRzVLWXBpY1hNRmExQmVpeXZyZGxSME1hcVVHYVZCdnRIRGw0ei1HQw?oc=5\" target=\"_blank\">UK factory closures dent Skretting sustainability performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>",
+      "first_seen": "2020-05-28T07:00:00+00:00",
+      "last_seen": "2020-05-28T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1437,
@@ -36800,6 +36898,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2866,
+      "headline": "Skretting får ikke se Marine Harvest-dokumenter - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9lX2hIV25FeGg0bEx0YzVPSk9ySVlsZmFKQ19xLWxWUlZFVWFEYXlmQkVmdjVneGFTMm5mblp0MVotdE5tVDBHZ3dxdUZqV1h2R0w5aU95enJ5WXBhV2pSYkVrSjhxc09lRU16QkY5ZHczbFE?oc=5\" target=\"_blank\">Skretting får ikke se Marine Harvest-dokumenter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2014-09-11T07:00:00+00:00",
+      "last_seen": "2014-09-11T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1861,
@@ -128709,6 +128821,324 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1FHZTl6Z0xTYjZLSXlCOTNObGlkODN5Sk5tSmlCUFhOZi11LXpHdEd6b3hLMW1oT2xKc2dnX2JQMC1IbnJpRllGdFZwR0NnZXN0V3JMeklrTldaVndzeUNGSG5jaVVfeXlBTlpwS1I4VXNNWG13WVpiQjJ1LXJ6R3BvMDNhWGYzdVNsUmQ4T3BqZ2ZLd0V6XzJqR1VuckU4bnh4VVdMdmItcGYydlIyWmlxZXQzSGgtVjMxN0kxTWVsdw?oc=5\" target=\"_blank\">Dieta de Skretting muestra positivos resultados en post smolt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
+    },
+    {
+      "id": 788090,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoTjg2MlhicXJjenVqUVJndUFraXUycXctM0RmTDFTYTlaUkdIcXA3TVpVWEJwdHpkWElOWG1Ya2p3MjZjOUpTeEt3Ym5ESllRMXFfNkJhZU1qTGc0d29jN0YtMmRaUUE?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XD) stock price, news, quote and history - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-19T05:58:39+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock listing and company information aggregation page",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance UK listing page for BioMar Group A/S showing stock price, news, and historical data. The page serves as a financial data aggregator rather than original reporting on the company's business activities or performance."
+    },
+    {
+      "id": 788097,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81d3E4S2RhdVlsS0l2VUJHajlYaXAzeU4zVXFFOTVrT0UtMzEwMk5TTVpfSVRuM0JPY25oTWI2Y2RjSVhWLXc0SUdMS3plVE8xWE85SW9lR2c1SXJaZ0I4NTlCejhNZnN0NVI3bA?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XD) latest press releases and corporate news - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-18T15:54:57+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial news aggregation page for BioMar Group listing press releases.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance UK aggregation page displaying BioMar Group A/S (BIOMAC.XD) press releases and corporate news. The page itself contains no substantive article content, only links to external news sources."
+    },
+    {
+      "id": 788115,
+      "story_id": 2805,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUUtWTd1R0ZzU2hiWjBZNzNpdWFTX2pjY1hMeFh3cFprODA1dG1DWmZzZzdUQkYtQWlFZ1NYemlsYXRDbGg2U0luVGtXdFR4MjY4V0xPMnY2QUliRnVHYVI4a0twdG10UlJOZ3BLVjRldDJIa2R0ZWt4dzlUMlVrMGV0eFdNUWtWU0dHRE85ajlVbFQwX05VQ2dB?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XD) Q3 FY2026 earnings call transcript - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Q3 FY2026 earnings call transcript publication",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Yahoo Finance published a transcript of BioMar Group A/S's Q3 FY2026 earnings call. The article provides access to the company's quarterly financial results and management commentary."
+    },
+    {
+      "id": 788116,
+      "story_id": 2872,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZSjJONml3NGhkeWlNLW5WdmRURURiQlNWZEFhUXljaF9mQ19tZWhFQ3dsVGpQbGoxakQtejFNY0M0eXVucEx3QVotUy1pNHBfQ3A2dkNYY0tqUmhnWDFuTUZyZmt2QQ?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XD) cash flow - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-13T15:54:37+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data page for BioMar Group listing cash flow metrics",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance UK listing page displaying cash flow information for BioMar Group A/S (BIOMAC.XD). The page serves as a financial reference tool for investors tracking the company's liquidity position and cash movements over time."
+    },
+    {
+      "id": 788125,
+      "story_id": 2790,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHBQczg0OG5jZURZTTZSNlV1eXQ4RGY5blp5RWhIV094dDRwV0xuLUpsd1A1T0ZSeWd1ZTE4TlhPZndSa1V0NE5PY2pWMmphVEJLb1FCMW5FZ19UMUVFc0xEam9OS0RybnZrX2NweDlucm5YZEIxOGx3WTNleUlEdmNiMHVSbDR3RHhUMGlCeHZhUWY2RDlTTktHU0RIZWxaOVNyUS0yMmpQSjJad0tlVFdTNlJDM2wwS1dneXpYZXFLSlI2SUh2Tw?oc=5",
+      "title": "BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut - Investing.com",
+      "source_name": "Investing.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHBQczg0OG5jZURZTTZSNlV1eXQ4RGY5blp5RWhIV094dDRwV0xuLUpsd1A1T0ZSeWd1ZTE4TlhPZndSa1V0NE5PY2pWMmphVEJLb1FCMW5FZ19UMUVFc0xEam9OS0RybnZrX2NweDlucm5YZEIxOGx3WTNleUlEdmNiMHVSbDR3RHhUMGlCeHZhUWY2RDlTTktHU0RIZWxaOVNyUS0yMmpQSjJad0tlVFdTNlJDM2wwS1dneXpYZXFLSlI2SUh2Tw?oc=5\" target=\"_blank\">BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>"
+    },
+    {
+      "id": 788127,
+      "story_id": 2797,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmwxelVSN3JQU2ZuaElGTjZmSUV2TEs3RF90SHlWUDNXaXFSWldldk5FUU9OSmhLU1R4N3A2NlFSMDRkLWZDMUFqbFZfTmtNX1loYUNRcDNqVWllZFBBYVVaa0lEOHA1WVNiRS11T3hsSXFNR2cxZjlYUXgxVGJsSDlPRlBLVlZvd2E1eUt5XzFRNVVRV3pzcjBFY0NFZ2pQWHhfNnlaaTZxdUNROU8tamhvN2twbjcwSDF2X2VoZXdQWm9MQkh6Z0VSbw?oc=5",
+      "title": "Earnings call transcript: BioMar posts strong Q3 2026 beat as stock slips 2.4% - Investing.com",
+      "source_name": "Investing.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar exceeds Q3 2026 earnings expectations despite stock decline",
+      "key_claims": [
+        "BioMar posted strong Q3 2026 results that beat expectations",
+        "Stock declined 2.4% despite earnings beat"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial",
+        "exec_statement"
+      ],
+      "summary": "BioMar delivered better-than-expected Q3 2026 earnings results, though the stock price declined 2.4% following the announcement. The article covers the earnings call transcript, indicating management commentary on the strong financial performance."
+    },
+    {
+      "id": 788145,
+      "story_id": 2871,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0pMYV9vSFllUEthWUljU1R0SWhMZmc2SEI4emZiclJGZ3BubTQ3ZGJqT0V0ZV94WnV0VUlrdldfbU52STlnNHpGNkNRRHVEYkZ0OWVERXBPeVhSQ0JjdWNfMUxrc2xOeGtJa2c1RkRaZk5IbnRmU19PSEFiUVluNkJ0bnFjeVU?oc=5",
+      "title": "BioMar Group A/S: Target Price Consensus and Analysts Recommendations | BIOMAR | DK0064867972 - marketscreener.com",
+      "source_name": "marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-06-02T23:42:37+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Analyst target price consensus and stock recommendations",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "MarketScreener publishes a summary of analyst consensus target prices and buy/sell/hold recommendations for BioMar Group A/S shares (ticker: BIOMAR, ISIN: DK0064867972). The page aggregates financial analyst views on the stock's valuation and performance outlook without presenting company-specific news or operational updates."
+    },
+    {
+      "id": 788147,
+      "story_id": 2869,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTBHS1VTY1d2S3lIOG9vYTN2eGQwaE91UFZUU3FjbFV6QnJNREprdzJLVFB6VWdjU0VQWDlJdENRVnpmSTVsQjZBQ1FOWUZUNjlBRVRrUUkzQy1sVFVnTWNGSkJhMXhlTk9fdTNoYjdldjJVVTBkcHRkZWxmcTVjRElwTzI0OElMSG4wWk44aWZjb0RxYmxEbTNIX3JKWVVaY1RrR2hFUdIBtAFBVV95cUxQYVNidEtjTGV2SEJ6SDNUS1Z2bUpiai1RMktTa3RsS09ybWJVUHdyZFp1TnNuVThQdXozSDlWamtfQ3RYQnYzZzJocmRUVFZGRkxKaWNiQU5uSU5halN3WG16VFV0by1ISEl0NVp0RnI3b3hlWTZsQlBydWQyLWw2OGlfUDZkaWwyR2k4ektfLXFUUXRfOGRuSExwVTY1ZlotU01zcWU5MHRSaWtGSF9MMzRQNFo?oc=5",
+      "title": "BioMar takes full ownership of Ecuadorian shrimp feed business - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-02-06T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands control in Ecuador shrimp feed market",
+      "key_claims": [
+        "BioMar has acquired full ownership of an Ecuadorian shrimp feed business"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has taken full ownership of its shrimp feed operations in Ecuador, consolidating its presence in the region. The move represents an expansion of BioMar's control over its aquaculture nutrition portfolio in South America."
+    },
+    {
+      "id": 788155,
+      "story_id": 2870,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOem1KTU9hSE5pWmd3ZGJFMFRpWjZlUVIyLVFERVA3YVMteEpCN3hhYWYxdUJxR0E0djhtRnQzc2FKQjdvZ05abGIxczYyQ2s1bXpqdU5xT0NOa1RYbGo2VFNYa2NpaGwxdld1amtoUzBKU0JSYTlPTWUxem16cXhHMm1jVXhXalFESVYxM0k0ekdJOTNrVzRYRQ?oc=5",
+      "title": "BioMar gains market share across all segments in 2025 - Aquafeed.com",
+      "source_name": "Aquafeed.com",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-03-06T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar expands market position across all business segments in 2025",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar achieved market share growth across all of its operational segments during 2025. The company's broad-based gains underscore its competitive positioning in the global aquaculture feed market."
+    },
+    {
+      "id": 788165,
+      "story_id": 2789,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXZPRVZCcFBmOENyc0MzemkxSkl4SllBVGdqcGs0dHl2b0lSYklOQVV2aFFwb2M4N0FKMUhYb3FSTi1pTWQzR3VSbTJ4RnRBTDdUbTIyYXBrMllrUGJOdGp5dFExZC1EZ1JfV1ltZUZpQTdibnYtSFdYSUhZT0ZUc1pLT2tkbU1UcElsQUhkaWNoQkpUVUtKeENGYmFRRjBPc0g0enJqTXNlZldGemVFOXpzeko5dGdqR203RmJQWEJ4OXZXZEsxckJudWtpSEE?oc=5",
+      "title": "Earnings call transcript: BioMar lifts profit outlook after record Q3 2026 - Investing.com UK",
+      "source_name": "Investing.com UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.92,
+      "prominence": "primary",
+      "angle": "BioMar reports record Q3 results and raises full-year profit guidance",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar announced record Q3 2026 results and lifted its profit outlook for the full year during an earnings call. The company's strong financial performance signals improved operational execution and market conditions in the aquaculture feed sector."
+    },
+    {
+      "id": 788482,
+      "story_id": 2867,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM1dCV3ppdXQzUnNjTExqTC1HZ2NsN09Qb21HSkVSSGVOc1pmU0dlZHg5N29jeFVrMzNfWUZfX1VXczhMbWhxTmxscWxuV3ZEaGdZSkE1d1VnelZHQ2l1Q2tHNWNrV01rVk1yVk9MZGx3VzVtZ1FDNHJuR1o3N1YwYW1uZFBLbW13OThPUFlFNjR1TWhhWjVLbHJpZEx0ei1BWWFiakx4ZDVJQzdmRzVLWXBpY1hNRmExQmVpeXZyZGxSME1hcVVHYVZCdnRIRGw0ei1HQw?oc=5",
+      "title": "UK factory closures dent Skretting sustainability performance - Fishfarming expert",
+      "source_name": "Fish Farming Expert",
+      "language": "en",
+      "country": "GB",
+      "outlet_kind": "press",
+      "published_at": "2020-05-28T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM1dCV3ppdXQzUnNjTExqTC1HZ2NsN09Qb21HSkVSSGVOc1pmU0dlZHg5N29jeFVrMzNfWUZfX1VXczhMbWhxTmxscWxuV3ZEaGdZSkE1d1VnelZHQ2l1Q2tHNWNrV01rVk1yVk9MZGx3VzVtZ1FDNHJuR1o3N1YwYW1uZFBLbW13OThPUFlFNjR1TWhhWjVLbHJpZEx0ei1BWWFiakx4ZDVJQzdmRzVLWXBpY1hNRmExQmVpeXZyZGxSME1hcVVHYVZCdnRIRGw0ei1HQw?oc=5\" target=\"_blank\">UK factory closures dent Skretting sustainability performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 788529,
+      "story_id": 2866,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lX2hIV25FeGg0bEx0YzVPSk9ySVlsZmFKQ19xLWxWUlZFVWFEYXlmQkVmdjVneGFTMm5mblp0MVotdE5tVDBHZ3dxdUZqV1h2R0w5aU95enJ5WXBhV2pSYkVrSjhxc09lRU16QkY5ZHczbFE?oc=5",
+      "title": "Skretting får ikke se Marine Harvest-dokumenter - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2014-09-11T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9lX2hIV25FeGg0bEx0YzVPSk9ySVlsZmFKQ19xLWxWUlZFVWFEYXlmQkVmdjVneGFTMm5mblp0MVotdE5tVDBHZ3dxdUZqV1h2R0w5aU95enJ5WXBhV2pSYkVrSjhxc09lRU16QkY5ZHczbFE?oc=5\" target=\"_blank\">Skretting får ikke se Marine Harvest-dokumenter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 788677,
+      "story_id": 2868,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa2oydDh3cXRQWDR5eC16WF94dVVkYXZ1bUVPMFdNUFYzbmQ0VWZXX1l1WHBZLTRlalhGd2tJMVgzaGpVQ2pjUUJlalpDMjdueF9UVHFrY1dpRXdsb0JPMGpwckliMnY4WGgyMDVtOHZER1NBZXlZRzJwVFNqMDVEaTJrWm00UTVtWGNfRHotZVM1ajdPOTJCZlZCT0NJWFp3NElBNnkwV2lFclRpOFptbGp4OFF4WWc4cmxpeG5pdFpsWmpLZFhLMU9yUC1sRnc5Zjh3S0NPWm9xYWFGSG5Zazd6dHh5Mnp3NV9qVDFWX2xkNmlV?oc=5",
+      "title": "“Para Skretting es fundamental la colaboración para hacer más y mejores progresos en sostenibilidad” - Diario Acuícola",
+      "source_name": "Diario Acuícola",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2021-12-06T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa2oydDh3cXRQWDR5eC16WF94dVVkYXZ1bUVPMFdNUFYzbmQ0VWZXX1l1WHBZLTRlalhGd2tJMVgzaGpVQ2pjUUJlalpDMjdueF9UVHFrY1dpRXdsb0JPMGpwckliMnY4WGgyMDVtOHZER1NBZXlZRzJwVFNqMDVEaTJrWm00UTVtWGNfRHotZVM1ajdPOTJCZlZCT0NJWFp3NElBNnkwV2lFclRpOFptbGp4OFF4WWc4cmxpeG5pdFpsWmpLZFhLMU9yUC1sRnc5Zjh3S0NPWm9xYWFGSG5Zazd6dHh5Mnp3NV9qVDFWX2xkNmlV?oc=5\" target=\"_blank\">“Para Skretting es fundamental la colaboración para hacer más y mejores progresos en sostenibilidad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
     }
   ],
   "share_of_voice": {
@@ -129178,7 +129608,7 @@
         "week": "2014-W37",
         "BioMar": 1,
         "Cargill": 1,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2014-W38",
@@ -130516,7 +130946,7 @@
         "week": "2020-W22",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2020-W23",
@@ -130924,7 +131354,7 @@
         "week": "2021-W49",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2021-W50",
@@ -132164,7 +132594,7 @@
       },
       {
         "week": "2026-W06",
-        "BioMar": 11,
+        "BioMar": 12,
         "Cargill": 0,
         "Skretting": 1
       },
@@ -132188,7 +132618,7 @@
       },
       {
         "week": "2026-W10",
-        "BioMar": 16,
+        "BioMar": 17,
         "Cargill": 0,
         "Skretting": 4
       },
@@ -132266,7 +132696,7 @@
       },
       {
         "week": "2026-W23",
-        "BioMar": 161,
+        "BioMar": 162,
         "Cargill": 0,
         "Skretting": 9
       },
@@ -132398,19 +132828,19 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 59,
+        "BioMar": 63,
         "Cargill": 1,
         "Skretting": 8
       },
       {
         "week": "2026-W46",
-        "BioMar": 20,
+        "BioMar": 21,
         "Cargill": 0,
         "Skretting": 11
       },
       {
         "week": "2026-W47",
-        "BioMar": 3,
+        "BioMar": 5,
         "Cargill": 0,
         "Skretting": 3
       }
@@ -132418,7 +132848,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2083
+        "count": 2093
       },
       {
         "company": "Cargill",
@@ -132426,7 +132856,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1307
+        "count": 1310
       }
     ]
   }
