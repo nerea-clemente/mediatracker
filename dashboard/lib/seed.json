@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-21T16:52:25+00:00",
+  "generated_at": "2026-11-21T21:29:30+00:00",
   "stats": {
-    "mention_count": 3719,
-    "story_count": 2702,
-    "analyzed_count": 2092,
+    "mention_count": 3720,
+    "story_count": 2703,
+    "analyzed_count": 2094,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -1107,13 +1107,14 @@
     },
     {
       "id": 2790,
-      "headline": "BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut - Investing.com Canada",
-      "story_summary": "BioMar released Q3 2026 results showing record earnings and an upward revision of full-year guidance, even as the company experienced a reduction in sales volume. The performance suggests improved profitability and operational efficiency offsetting lower unit volumes in the period.",
+      "headline": "BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut - Investing.com",
+      "story_summary": "BioMar reported record Q3 2026 earnings and raised its full-year financial guidance, despite experiencing a decline in sales volumes during the period. The results suggest improved profitability and operational efficiency offsetting the volume reduction.",
       "first_seen": "2026-11-03T08:00:00+00:00",
       "last_seen": "2026-11-03T14:01:09+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
-        "none"
+        "exec_statement",
+        "financial"
       ],
       "pickup_count": 4,
       "is_about_target_brand": true,
@@ -1412,6 +1413,20 @@
         "none"
       ],
       "pickup_count": 3,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2874,
+      "headline": "BioMar: Record quarter and upward revision, the open question is when earnings normalize - Inderes",
+      "story_summary": "BioMar delivered record quarterly results and raised earnings guidance, raising investor questions about sustainability of performance levels. The article focuses on when profitability metrics will return to normalized levels.",
+      "first_seen": "2026-11-02T08:00:00+00:00",
+      "last_seen": "2026-11-02T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -128931,16 +128946,21 @@
       "matched_keyword": "BioMar",
       "company": "BioMar",
       "is_about_target_brand": true,
-      "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
-      "key_claims": [],
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar reports record Q3 earnings and raises guidance despite lower volumes",
+      "key_claims": [
+        "BioMar achieved record earnings in Q3 2026",
+        "The company raised its full-year guidance",
+        "Volume declined in the quarter"
+      ],
       "people_quoted": [],
       "risk_flags": [
-        "none"
+        "financial",
+        "exec_statement"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHBQczg0OG5jZURZTTZSNlV1eXQ4RGY5blp5RWhIV094dDRwV0xuLUpsd1A1T0ZSeWd1ZTE4TlhPZndSa1V0NE5PY2pWMmphVEJLb1FCMW5FZ19UMUVFc0xEam9OS0RybnZrX2NweDlucm5YZEIxOGx3WTNleUlEdmNiMHVSbDR3RHhUMGlCeHZhUWY2RDlTTktHU0RIZWxaOVNyUS0yMmpQSjJad0tlVFdTNlJDM2wwS1dneXpYZXFLSlI2SUh2Tw?oc=5\" target=\"_blank\">BioMar Q3 2026 slides: record earnings, guidance raised despite volume cut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>"
+      "summary": "BioMar reported record Q3 2026 earnings and raised its full-year financial guidance, despite experiencing a decline in sales volumes during the period. The results suggest improved profitability and operational efficiency offsetting the volume reduction."
     },
     {
       "id": 788127,
@@ -129139,6 +129159,34 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa2oydDh3cXRQWDR5eC16WF94dVVkYXZ1bUVPMFdNUFYzbmQ0VWZXX1l1WHBZLTRlalhGd2tJMVgzaGpVQ2pjUUJlalpDMjdueF9UVHFrY1dpRXdsb0JPMGpwckliMnY4WGgyMDVtOHZER1NBZXlZRzJwVFNqMDVEaTJrWm00UTVtWGNfRHotZVM1ajdPOTJCZlZCT0NJWFp3NElBNnkwV2lFclRpOFptbGp4OFF4WWc4cmxpeG5pdFpsWmpLZFhLMU9yUC1sRnc5Zjh3S0NPWm9xYWFGSG5Zazd6dHh5Mnp3NV9qVDFWX2xkNmlV?oc=5\" target=\"_blank\">“Para Skretting es fundamental la colaboración para hacer más y mejores progresos en sostenibilidad”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario Acuícola</font>"
+    },
+    {
+      "id": 789431,
+      "story_id": 2874,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzdlaWRoamQ3ei03NVBOQ0o2MHR5am9ScUVNMzFFamViak43NGZuS0pkcUhPSFhPakVOSnFkNi1QYVYxc2dlQ3FHbW9TTVN6MnpEY0NpUVRqbGlzSWRvcDRLVUl4Mld6cEtmV1RuV3FibjJaTGVhLWU3S3lxaHp4aEpFaFh0aUEtbFZZVk9UTFRjc3NWQ2lDNEVXLW9aVlNyellENFNTcFVlbXA4bk4tWThVUV9CM0M1a2prUlg3aUcwUmVpVFFhVA?oc=5",
+      "title": "BioMar: Record quarter and upward revision, the open question is when earnings normalize - Inderes",
+      "source_name": "Inderes",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-02T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Record quarterly results and earnings guidance revision signal strong performance.",
+      "key_claims": [
+        "BioMar achieved record quarter results",
+        "BioMar issued upward earnings revision",
+        "Market questions when earnings will normalize to sustainable levels"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar delivered record quarterly results and raised earnings guidance, raising investor questions about sustainability of performance levels. The article focuses on when profitability metrics will return to normalized levels."
     }
   ],
   "share_of_voice": {
@@ -132828,7 +132876,7 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 63,
+        "BioMar": 64,
         "Cargill": 1,
         "Skretting": 8
       },
@@ -132848,7 +132896,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2093
+        "count": 2094
       },
       {
         "company": "Cargill",
