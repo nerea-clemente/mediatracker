@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T22:31:51+00:00",
+  "generated_at": "2026-11-21T02:57:46+00:00",
   "stats": {
-    "mention_count": 3703,
-    "story_count": 2692,
-    "analyzed_count": 2082,
+    "mention_count": 3706,
+    "story_count": 2694,
+    "analyzed_count": 2083,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -484,7 +484,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 6,
+      "pickup_count": 7,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -795,6 +795,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
+    },
+    {
+      "id": 2865,
+      "headline": "SCHO: Record Q3 results and strong backlogs lifted FY 2026 guidance - TradingView",
+      "story_summary": "Schouw & Co reported record Q3 results and robust order backlogs, prompting management to raise FY 2026 guidance. The positive financial performance reflects operational strength across the conglomerate's portfolio, including its BioMar aquaculture feed subsidiary.",
+      "first_seen": "2026-11-06T21:12:52+00:00",
+      "last_seen": "2026-11-06T21:12:52+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 2822,
@@ -24107,6 +24121,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2864,
+      "headline": "Dieta de Skretting muestra positivos resultados en post smolt - Salmonexpert",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1FHZTl6Z0xTYjZLSXlCOTNObGlkODN5Sk5tSmlCUFhOZi11LXpHdEd6b3hLMW1oT2xKc2dnX2JQMC1IbnJpRllGdFZwR0NnZXN0V3JMeklrTldaVndzeUNGSG5jaVVfeXlBTlpwS1I4VXNNWG13WVpiQjJ1LXJ6R3BvMDNhWGYzdVNsUmQ4T3BqZ2ZLd0V6XzJqR1VuckU4bnh4VVdMdmItcGYydlIyWmlxZXQzSGgtVjMxN0kxTWVsdw?oc=5\" target=\"_blank\">Dieta de Skretting muestra positivos resultados en post smolt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
+      "first_seen": "2022-12-12T08:00:00+00:00",
+      "last_seen": "2022-12-12T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 75,
@@ -128609,6 +128637,78 @@
         "none"
       ],
       "summary": "BioMar has added a new researcher to its global research and development department. The announcement reflects the company's ongoing investment in its scientific and innovation capabilities."
+    },
+    {
+      "id": 787758,
+      "story_id": 2865,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQckItanZRektJUXBQdGJjanhrSG45TVl0c3dMSUE0X01ROUVHU1VtSGpuQ3VPMDhPUHVTZEVWS3REXzM2RnVUa1FQZ2V0X2l4b09zeHVSQkhRVE9UYjdNay1XbEcyVlBRV0g0cWJyOW9Uc1lGNkZUMUpOdlNLRWZOeTI2Z0l1cE55MTFKVEU3WEdjbmlBZUhzcVVpTHExaXBUWHl4ai12bkIwNERpamZraUozcWFlNkp5dzRkVG9xR2M2UDI4T0Q5NlM2dlFTQVBSNjY2UU9JN0JTQkhLaXEwdFVhWng1S28?oc=5",
+      "title": "SCHO: Record Q3 results and strong backlogs lifted FY 2026 guidance - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-06T21:12:52+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Strong Q3 financial performance drives improved full-year outlook",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co reported record Q3 results and robust order backlogs, prompting management to raise FY 2026 guidance. The positive financial performance reflects operational strength across the conglomerate's portfolio, including its BioMar aquaculture feed subsidiary."
+    },
+    {
+      "id": 787966,
+      "story_id": 2837,
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNX1RILVhoZUg0eFB1T1l6VXJoUmdmT2VkZUNtSWN0RGctdGVFSjUybHBxZGE1RXkxZWI3ZEJETDdwcEVmT284VVVqUGRULTdHT2RDVjUzcGRodmVPSUs4ZjZhbVdJalpmaENTaXdhd21YNzRJQkM5TFFVQW8zQWRCQzBESlFtR1dBSjgtdlJZa3VkaFk3dFVTT2lPZ01WaFBfVlh0S0U5emh5akNnek5UQWQyaHB6amtXRlpoenBJTG1ZZG1TNU41b2lucFNlMnJWNnl6NzA4eVhmR0Q2eG8wRTNNajlSZ0xjWXlSakdlNnVyV0hXY1R5RjhJdEJTc0hHMnR0MUtB?oc=5",
+      "title": "Grupo Carreras, Skretting y Esporg, ganadores del V Premio Truck Friendly - Transporte Profesional",
+      "source_name": "Transporte Profesional",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-11-13T23:00:03+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNX1RILVhoZUg0eFB1T1l6VXJoUmdmT2VkZUNtSWN0RGctdGVFSjUybHBxZGE1RXkxZWI3ZEJETDdwcEVmT284VVVqUGRULTdHT2RDVjUzcGRodmVPSUs4ZjZhbVdJalpmaENTaXdhd21YNzRJQkM5TFFVQW8zQWRCQzBESlFtR1dBSjgtdlJZa3VkaFk3dFVTT2lPZ01WaFBfVlh0S0U5emh5akNnek5UQWQyaHB6amtXRlpoenBJTG1ZZG1TNU41b2lucFNlMnJWNnl6NzA4eVhmR0Q2eG8wRTNNajlSZ0xjWXlSakdlNnVyV0hXY1R5RjhJdEJTc0hHMnR0MUtB?oc=5\" target=\"_blank\">Grupo Carreras, Skretting y Esporg, ganadores del V Premio Truck Friendly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Transporte Profesional</font>"
+    },
+    {
+      "id": 787999,
+      "story_id": 2864,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1FHZTl6Z0xTYjZLSXlCOTNObGlkODN5Sk5tSmlCUFhOZi11LXpHdEd6b3hLMW1oT2xKc2dnX2JQMC1IbnJpRllGdFZwR0NnZXN0V3JMeklrTldaVndzeUNGSG5jaVVfeXlBTlpwS1I4VXNNWG13WVpiQjJ1LXJ6R3BvMDNhWGYzdVNsUmQ4T3BqZ2ZLd0V6XzJqR1VuckU4bnh4VVdMdmItcGYydlIyWmlxZXQzSGgtVjMxN0kxTWVsdw?oc=5",
+      "title": "Dieta de Skretting muestra positivos resultados en post smolt - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2022-12-12T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1FHZTl6Z0xTYjZLSXlCOTNObGlkODN5Sk5tSmlCUFhOZi11LXpHdEd6b3hLMW1oT2xKc2dnX2JQMC1IbnJpRllGdFZwR0NnZXN0V3JMeklrTldaVndzeUNGSG5jaVVfeXlBTlpwS1I4VXNNWG13WVpiQjJ1LXJ6R3BvMDNhWGYzdVNsUmQ4T3BqZ2ZLd0V6XzJqR1VuckU4bnh4VVdMdmItcGYydlIyWmlxZXQzSGgtVjMxN0kxTWVsdw?oc=5\" target=\"_blank\">Dieta de Skretting muestra positivos resultados en post smolt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>"
     }
   ],
   "share_of_voice": {
@@ -131112,7 +131212,7 @@
         "week": "2022-W50",
         "BioMar": 2,
         "Cargill": 0,
-        "Skretting": 0
+        "Skretting": 1
       },
       {
         "week": "2022-W51",
@@ -132298,7 +132398,7 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 58,
+        "BioMar": 59,
         "Cargill": 1,
         "Skretting": 8
       },
@@ -132306,7 +132406,7 @@
         "week": "2026-W46",
         "BioMar": 20,
         "Cargill": 0,
-        "Skretting": 10
+        "Skretting": 11
       },
       {
         "week": "2026-W47",
@@ -132318,7 +132418,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2082
+        "count": 2083
       },
       {
         "company": "Cargill",
@@ -132326,7 +132426,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1305
+        "count": 1307
       }
     ]
   }
