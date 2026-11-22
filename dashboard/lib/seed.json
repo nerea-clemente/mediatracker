@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-21T21:29:30+00:00",
+  "generated_at": "2026-11-22T01:52:20+00:00",
   "stats": {
-    "mention_count": 3720,
+    "mention_count": 3721,
     "story_count": 2703,
-    "analyzed_count": 2094,
+    "analyzed_count": 2095,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -2076,16 +2076,16 @@
     },
     {
       "id": 2659,
-      "headline": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - StreetInsider",
-      "story_summary": "Schouw & Co, the parent company of BioMar Group, hosted a Capital Markets Day where it announced long-term EBITDA ambitions to investors. The event underscores management's growth strategy and financial targets for the conglomerate.",
-      "first_seen": "2026-10-08T07:17:27+00:00",
+      "headline": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - NTB Kommunikasjon",
+      "story_summary": "Schouw & Co. held a Capital Markets Day event and announced long-term EBITDA targets to investors. The event featured management presentations on the conglomerate's strategic direction and financial goals going forward., key_claims: [",
+      "first_seen": "2026-10-08T07:00:00+00:00",
       "last_seen": "2026-10-08T07:17:27+00:00",
       "primary_sentiment": "positive",
       "risk_flags": [
         "exec_statement",
         "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -129187,6 +129187,30 @@
         "financial"
       ],
       "summary": "BioMar delivered record quarterly results and raised earnings guidance, raising investor questions about sustainability of performance levels. The article focuses on when profitability metrics will return to normalized levels."
+    },
+    {
+      "id": 790242,
+      "story_id": 2659,
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY3VPMnlvX1ItSXd5QmNjdDF1TGt6Zl8xbmI3dnhZZjFhWHVvWHdfelZOUTFCUW55RnlPT3hrSEpRUG5NVWFFYkxIUm1mSFl1bGdMbDBfRUlheU91ejEycldkRFZRcWJIbzNYalNSSDM4Z2JrNFBVdGRKTV9aSmFtN09yV2t5XzU5SmZpVkpKdmxaUy10bjNHT1pHcTVtYjZveUdkMTJTZTNoQWJUMW8yYkQ1cllIV010NndtQWZadUx6NERQWGxaSFlwNUVpR2NkOFg2TTI2UTVSa0Q3Z3p1bV9hMUVaZWVBVF9VbFJMTnE3QQ?oc=5",
+      "title": "Schouw & Co. hosts Capital Markets Day and announces long-term EBITDA ambitions - NTB Kommunikasjon",
+      "source_name": "NTB Kommunikasjon",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "release",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "matched_keyword": "Jens Bjerg Sørensen",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.75,
+      "prominence": "primary",
+      "angle": "Schouw & Co. presents long-term earnings ambitions at investor event",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. held a Capital Markets Day event and announced long-term EBITDA targets to investors. The event featured management presentations on the conglomerate's strategic direction and financial goals going forward., key_claims: ["
     }
   ],
   "share_of_voice": {
@@ -132852,7 +132876,7 @@
       },
       {
         "week": "2026-W41",
-        "BioMar": 17,
+        "BioMar": 18,
         "Cargill": 0,
         "Skretting": 10
       },
@@ -132896,7 +132920,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2094
+        "count": 2095
       },
       {
         "company": "Cargill",
