@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-23T16:20:09+00:00",
+  "generated_at": "2026-11-23T21:34:04+00:00",
   "stats": {
-    "mention_count": 3729,
-    "story_count": 2709,
-    "analyzed_count": 2097,
+    "mention_count": 3730,
+    "story_count": 2710,
+    "analyzed_count": 2099,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -432,6 +432,20 @@
     "ytringen"
   ],
   "stories": [
+    {
+      "id": 2881,
+      "headline": "Schouw & Co. share buy-back programme, week 47 2026 - StreetInsider",
+      "story_summary": "Schouw & Co. announced execution of its share buy-back programme during week 47 of 2026. The article reports standard corporate capital allocation activity with no material operational or strategic developments mentioned.",
+      "first_seen": "2026-11-23T20:02:19+00:00",
+      "last_seen": "2026-11-23T20:02:19+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2880,
       "headline": "Morgan Stanley raises price target for BioMar Group to DKK 135 (131), reiterates equal-weight - BN - www.marketscreener.com",
@@ -129457,15 +129471,15 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
-      "sentiment_confidence": 0.0,
-      "prominence": "passing",
-      "angle": "",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "Morgan Stanley raises BioMar price target but maintains neutral rating",
       "key_claims": [],
       "people_quoted": [],
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaVQzakZJSUhrbjFUcXJvSk16OU9hYWtCQmhBRmpsdnBvdVM5TU9NSGVzR2pNZkRpVUdhdkxqcXVaM2JfYjJQaVMtYk5aLS1ZbXlFSUx3bjZSMGdINnczdHBCT19ZLTl0T215YzhjNU16anBoVXptaFFsWkFwTXlNaGs3Wlc1clhqRGtFLW1qRFN5WFA2T0FuamdncG8wdzJnT1pKRjA4UThTMzVmX3QwUUpfQjBkNjVqWlh2d0xoNk4yYXFkSFZPcmVGMFhHRlAtT2IzVVpBMUNkQ2h6akVrckNQZU43TkE?oc=5\" target=\"_blank\">Morgan Stanley eleva el precio objetivo de Biomar Group a 135 DKK (131) y reitera neutral - Bloomberg News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketScreener España</font>"
+      "summary": "Morgan Stanley increased its price objective for BioMar Group to 135 DKK from 131 DKK while reiterating a neutral investment rating. The analyst action reflects a modest upward revision of valuation expectations without a change in recommendation stance.\n\n\n{\"BioMar stock price target raised to 135 DKK\", \"Morgan Stanley maintains neutral rating despite price target increase\", \"Previous price target was 131 DKK\"]}\"Ja\", \"key_claims\": [\"Morgan Stanley raised BioMar Group's price objective to 135 DKK\", \"The previous price objective was 131 DKK\", \"Morgan Stanley reiterated a neutral rating on the stock\"], "
     },
     {
       "id": 793421,
@@ -129490,6 +129504,30 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ3dBYW5DYVpIVTd1NjlYVXk1SkJfUlVTX2FBY2dHMWl4M05WRG9HbVJEdlVEN0Y2SWxTVmtzY2VFVU4wRG1JQUduMFlzYktTTTI1NzZORzBWQjJYODBBUEdKbU5pcTFVdUZ0b3VCc2FUb3ZVa1BZNzdCVTJCYlVkUWZlTWlJUHdMcVp6alc0T0ZsOGx0clc3bDkzeHVxVC15OFR4ejR5Zk5GcS1BdDd6RGpVT1FVaWRVUHJaNlNxLUV0VWd1R21ZdE8tSEV2M002bVZPOQ?oc=5\" target=\"_blank\">Carreras, Skretting y ESPORG ganan los Premios Truck Friendly 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Camión Actualidad</font>"
+    },
+    {
+      "id": 793744,
+      "story_id": 2881,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmNMUGxSOVpkdmswWV9DQndtdmgwSFVmVmVqa3FvSjgxeUI2THlIR2JCblRfRzNnVC1MSDNQaUYyMVd4TVNYYVh2OU1ha3AtLWZTak9ZcUIzWlZaYXVjc21nM3ZLbHlCaWh0ajBUVnJwUXBvT2NacmNXQ3d4RXV4VWV6M3A2eWJXRE1jZ0NGLWdYa2JrRU4yR1cwYkc0RlJYNFBxdldzeU5waTZfRkhrZFNVREY?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 47 2026 - StreetInsider",
+      "source_name": "StreetInsider",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-23T20:02:19+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buy-back programme in week 47 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced execution of its share buy-back programme during week 47 of 2026. The article reports standard corporate capital allocation activity with no material operational or strategic developments mentioned."
     }
   ],
   "share_of_voice": {
@@ -133197,7 +133235,7 @@
       },
       {
         "week": "2026-W48",
-        "BioMar": 2,
+        "BioMar": 3,
         "Cargill": 0,
         "Skretting": 0
       }
@@ -133205,7 +133243,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2098
+        "count": 2099
       },
       {
         "company": "Cargill",
