@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-22T21:35:59+00:00",
+  "generated_at": "2026-11-23T02:09:07+00:00",
   "stats": {
-    "mention_count": 3723,
-    "story_count": 2705,
-    "analyzed_count": 2095,
+    "mention_count": 3726,
+    "story_count": 2708,
+    "analyzed_count": 2096,
     "off_topic_mentions": 143,
     "off_topic_stories": 89
   },
@@ -432,6 +432,20 @@
     "ytringen"
   ],
   "stories": [
+    {
+      "id": 2879,
+      "headline": "Aktieselskabet Schouw & Co. (5RF.F) Gráfico de rendimientos estacionales - Yahoo Finanzas",
+      "story_summary": "Yahoo Finanzas publishes a seasonal stock performance chart for Aktieselskabet Schouw & Co (ticker 5RF.F). The article is a technical financial data visualization tool with no narrative content or commentary about the company's operations or news events.",
+      "first_seen": "2026-11-22T04:44:30+00:00",
+      "last_seen": "2026-11-22T04:44:30+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2860,
       "headline": "Gabriel Østråt får nye eiere – går inn i nytt bil-samarbeid - Stavanger Aftenblad",
@@ -26380,6 +26394,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2878,
+      "headline": "Ewos tok markedsandeler og økte omsetningen til over 9 milliarder kroner (+) - Intrafish",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZl9BZU5GTWpsVXRPZTdKb0JXbXZGazhIdDNOMUFyOTlNQzBkN3VHbVFpU1NWbUVxa3dhM2FrZzFkOU4xQjJMc3BXN0NMR1BkQ3JTQ0tBUEFWVk52ZmZvaXgwUGZiOVlFOHlBMXVpY2pCS2hWSUlxcmdYbEtZN2pXd0RvQUNBclpRUFVLUV9FSmVzcnFkalpDNzRJV0pWVkJOVUg4ZmJBVnBiTndEQTY5VnViWEIzYmYx?oc=5\" target=\"_blank\">Ewos tok markedsandeler og økte omsetningen til over 9 milliarder kroner (+)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
+      "first_seen": "2021-12-30T08:00:00+00:00",
+      "last_seen": "2021-12-30T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
       "id": 1454,
       "headline": "Finaliza productiva temporada de Nutrainings 2021 - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUzhtZ1RKOU4xUHE3LTBSeHNTa01CTS1tVkd4RTlkQVZfNnZKR0YwMDRla3JGWmZJREc4SzNITVRhTk9PZFpDbnMyS01DX05KdFhyVFFKTDNZU1djRWR4a0RmWEIyWTI5eXRlX1dHSmlYazNLMk1kRHIyR0U2dEhfbExGenNwR0dxanFPVFdCZ00yNnZxSEhBVnNxYmhjOGllQjNxbnRTa2lDSkxtR0VEQV8tV1k?oc=5\" target=\"_blank\">Finaliza productiva temporada de Nutrainings 2021</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -30107,6 +30135,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2877,
+      "headline": "Dette er de beste folkene på merdkanten - se vinnerne 2020 her - Intrafish",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSk56ZUM0VU9aYlRXMUFWcE00Y0VWNVp1enpKVTdwZktSUzdwZlFjZ2dGazQwT2ZRMGNoWjNzNkwtMS1oRFhMSUFzSnFYRTBHa3Y0ZGlCa0RlQ2d3ZkNpbmV3STd1bGVYV25SckNtbllfb1oxZWctU0Y1d29rX2puZ1RwZjd5QkFBVk5NT2JCN0JRVEd1VWcyZVF1V0lNQXd5d3M4UmZ5OA?oc=5\" target=\"_blank\">Dette er de beste folkene på merdkanten - se vinnerne 2020 her</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>",
+      "first_seen": "2020-01-10T08:00:00+00:00",
+      "last_seen": "2020-01-10T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Cargill"
     },
     {
       "id": 854,
@@ -129287,6 +129329,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONEpOeXRvTVpoc3BHbW1IZWNvQVFMei1lTXdheFBGaHhuUVlhRVhGOFZFX0JaVndieEJMV1FDaFJxV2lMVjN6X3JJbDV1Yk9GSHptYXJpMTNaalg2VWNKZkE3OGRpQVpXWEpyUUZMZEJPMTdZcl9meWROTVlnR0c2cVhEQ3FNVGlMLXdrTlRvakZ3aHhYRGkwNEJnd3Z3MWhNalB5dWc3WE5VVHl5X0pkZ3ZGMElxSmc?oc=5\" target=\"_blank\">Cargill gives back to a local community in need</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fishfarming expert</font>"
+    },
+    {
+      "id": 792540,
+      "story_id": 2879,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CaGw4bFNpRGJUSUpYWG5ETkVLdUNBN2xva19hcnVEN1gxTThNMG9seElXb1E3RG9GWlRKVnlsUDJLVWFxbllTdFdHOFRIamZ0WDRpXzBSd0hHZjFBTm5Eb0hXN0tsUEFW?oc=5",
+      "title": "Aktieselskabet Schouw & Co. (5RF.F) Gráfico de rendimientos estacionales - Yahoo Finanzas",
+      "source_name": "Yahoo Finanzas",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-22T04:44:30+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Schouw & Co seasonal stock performance chart",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finanzas publishes a seasonal stock performance chart for Aktieselskabet Schouw & Co (ticker 5RF.F). The article is a technical financial data visualization tool with no narrative content or commentary about the company's operations or news events."
+    },
+    {
+      "id": 792890,
+      "story_id": 2878,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZl9BZU5GTWpsVXRPZTdKb0JXbXZGazhIdDNOMUFyOTlNQzBkN3VHbVFpU1NWbUVxa3dhM2FrZzFkOU4xQjJMc3BXN0NMR1BkQ3JTQ0tBUEFWVk52ZmZvaXgwUGZiOVlFOHlBMXVpY2pCS2hWSUlxcmdYbEtZN2pXd0RvQUNBclpRUFVLUV9FSmVzcnFkalpDNzRJV0pWVkJOVUg4ZmJBVnBiTndEQTY5VnViWEIzYmYx?oc=5",
+      "title": "Ewos tok markedsandeler og økte omsetningen til over 9 milliarder kroner (+) - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2021-12-30T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZl9BZU5GTWpsVXRPZTdKb0JXbXZGazhIdDNOMUFyOTlNQzBkN3VHbVFpU1NWbUVxa3dhM2FrZzFkOU4xQjJMc3BXN0NMR1BkQ3JTQ0tBUEFWVk52ZmZvaXgwUGZiOVlFOHlBMXVpY2pCS2hWSUlxcmdYbEtZN2pXd0RvQUNBclpRUFVLUV9FSmVzcnFkalpDNzRJV0pWVkJOVUg4ZmJBVnBiTndEQTY5VnViWEIzYmYx?oc=5\" target=\"_blank\">Ewos tok markedsandeler og økte omsetningen til over 9 milliarder kroner (+)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>"
+    },
+    {
+      "id": 792903,
+      "story_id": 2877,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSk56ZUM0VU9aYlRXMUFWcE00Y0VWNVp1enpKVTdwZktSUzdwZlFjZ2dGazQwT2ZRMGNoWjNzNkwtMS1oRFhMSUFzSnFYRTBHa3Y0ZGlCa0RlQ2d3ZkNpbmV3STd1bGVYV25SckNtbllfb1oxZWctU0Y1d29rX2puZ1RwZjd5QkFBVk5NT2JCN0JRVEd1VWcyZVF1V0lNQXd5d3M4UmZ5OA?oc=5",
+      "title": "Dette er de beste folkene på merdkanten - se vinnerne 2020 her - Intrafish",
+      "source_name": "IntraFish",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-01-10T08:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSk56ZUM0VU9aYlRXMUFWcE00Y0VWNVp1enpKVTdwZktSUzdwZlFjZ2dGazQwT2ZRMGNoWjNzNkwtMS1oRFhMSUFzSnFYRTBHa3Y0ZGlCa0RlQ2d3ZkNpbmV3STd1bGVYV25SckNtbllfb1oxZWctU0Y1d29rX2puZ1RwZjd5QkFBVk5NT2JCN0JRVEd1VWcyZVF1V0lNQXd5d3M4UmZ5OA?oc=5\" target=\"_blank\">Dette er de beste folkene på merdkanten - se vinnerne 2020 her</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Intrafish</font>"
     }
   ],
   "share_of_voice": {
@@ -130979,7 +131093,7 @@
       {
         "week": "2020-W02",
         "BioMar": 1,
-        "Cargill": 1,
+        "Cargill": 2,
         "Skretting": 0
       },
       {
@@ -131519,7 +131633,7 @@
       {
         "week": "2021-W52",
         "BioMar": 0,
-        "Cargill": 0,
+        "Cargill": 1,
         "Skretting": 2
       },
       {
@@ -132988,7 +133102,7 @@
       },
       {
         "week": "2026-W47",
-        "BioMar": 5,
+        "BioMar": 6,
         "Cargill": 0,
         "Skretting": 3
       }
@@ -132996,11 +133110,11 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2095
+        "count": 2096
       },
       {
         "company": "Cargill",
-        "count": 317
+        "count": 319
       },
       {
         "company": "Skretting",
