@@ -1,14 +1,15 @@
 {
-  "generated_at": "2026-11-23T21:34:04+00:00",
+  "generated_at": "2026-11-24T02:47:28+00:00",
   "stats": {
-    "mention_count": 3730,
-    "story_count": 2710,
-    "analyzed_count": 2099,
-    "off_topic_mentions": 143,
+    "mention_count": 3737,
+    "story_count": 2714,
+    "analyzed_count": 2105,
+    "off_topic_mentions": 144,
     "off_topic_stories": 89
   },
   "outlets": [
     ".: El Sol de Margarita :.",
+    "16性格辞典",
     "20Minutos",
     "ABC",
     "ABC News & Headlines – Australian Broadcasting Corporation",
@@ -113,6 +114,7 @@
     "El Correo de Burgos",
     "El Desconcierto",
     "El Día de Soria",
+    "El Día de Valladolid",
     "El Español",
     "El Mostrador",
     "El Mundo",
@@ -437,12 +439,12 @@
       "headline": "Schouw & Co. share buy-back programme, week 47 2026 - StreetInsider",
       "story_summary": "Schouw & Co. announced execution of its share buy-back programme during week 47 of 2026. The article reports standard corporate capital allocation activity with no material operational or strategic developments mentioned.",
       "first_seen": "2026-11-23T20:02:19+00:00",
-      "last_seen": "2026-11-23T20:02:19+00:00",
+      "last_seen": "2026-11-23T20:11:52+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -462,15 +464,15 @@
     },
     {
       "id": 2879,
-      "headline": "Aktieselskabet Schouw & Co. (5RF.F) Gráfico de rendimientos estacionales - Yahoo Finanzas",
-      "story_summary": "Yahoo Finanzas publishes a seasonal stock performance chart for Aktieselskabet Schouw & Co (ticker 5RF.F). The article is a technical financial data visualization tool with no narrative content or commentary about the company's operations or news events.",
-      "first_seen": "2026-11-22T04:44:30+00:00",
+      "headline": "Aktieselskabet Schouw & Co. (5RF.F) Seasonal returns chart - Yahoo Finance UK",
+      "story_summary": "Yahoo Finance UK publishes a seasonal returns chart for Schouw & Co. (ticker: 5RF.F) listing on the Frankfurt exchange. The article is a data-driven financial tool with no narrative commentary or news angle beyond displaying historical price patterns by season or calendar period.",
+      "first_seen": "2026-11-22T04:43:01+00:00",
       "last_seen": "2026-11-22T04:44:30+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -825,6 +827,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2885,
+      "headline": "BioMar inaugura la primera fase de la ampliación de su capacidad de producción en Ecuador - misPeces",
+      "story_summary": "BioMar has inaugurated the first phase of a production capacity expansion project at its facility in Ecuador. The expansion is being implemented in multiple phases as part of the company's growth strategy in the region.",
+      "first_seen": "2026-11-09T08:00:00+00:00",
+      "last_seen": "2026-11-09T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2806,
       "headline": "Nordea eleva el precio objetivo de Schouw & Co. a 895 DKK (880) y reitera comprar - MarketScreener España",
       "story_summary": "Nordea has raised its price target for Schouw & Co to 895 DKK and maintained a buy recommendation on the stock. The upgrade reflects analyst confidence in the company's valuation and prospects.",
@@ -1050,6 +1066,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2884,
+      "headline": "BioMar logra un tercer trimestre récord y mejora sus previsiones para 2026 - misPeces",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2VMRE5GeHRwMVNhc1BOOUtEZUNPUURSNjdWNnpoS3VRa0pwbDBqNDhYb21nak9OeHBzOEE0cE9WVmozLThRN01QQWJEWXUwZTBJeG9CbVVhY2ZmV25uendqQ1B2TnNCNDFLZFF0cXlQaXk2YXcycEhsZWw1SG15WHdZRnZseWFSNHc5U2ZlUnR1QnlCUUlValJfZlh5dTBNNXlLc0RzZFQzOEhrQXc?oc=5\" target=\"_blank\">BioMar logra un tercer trimestre récord y mejora sus previsiones para 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>",
+      "first_seen": "2026-11-04T11:24:31+00:00",
+      "last_seen": "2026-11-04T11:24:31+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2809,
       "headline": "Ikke alle ansatte blir med videre: – Stemningen er forferdelig - Nettavisen",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWVvT2JCcHltV3lLaTFpM3hGbDMtTG41TnZ4NGJZWEg0U3NBa1JsTXpBYzZWNVlQelBLeUxqWGFwX2VrYU5WRTd2b256eDhtRDlGSjQ1bmU5Ri0tQ2NkM1ZFUVZEME1rNkhoNkM3ZFU5ZE1temdwUnBHVGF5Q0FuV1M5QUpfa2lTdFdJRWN6WnZubTZkRXNRZ3VyQzM4Vnl3UHBoZmJkZ2VOMzNGUU1JeENlb3U2cEVFaHhmNg?oc=5\" target=\"_blank\">Ikke alle ansatte blir med videre: – Stemningen er forferdelig</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nettavisen</font>",
@@ -1086,6 +1116,20 @@
       "primary_sentiment": "positive",
       "risk_flags": [
         "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2883,
+      "headline": "Food News Latam - BioMar eleva 50% su EBIT impulsada por alimento para salmón - 16性格辞典",
+      "story_summary": "BioMar reported a 50% increase in EBIT, with salmon feed products serving as a primary driver of the company's financial growth. The result demonstrates strong performance in the aquaculture feed segment.",
+      "first_seen": "2026-11-04T08:00:00+00:00",
+      "last_seen": "2026-11-04T08:00:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
       ],
       "pickup_count": 1,
       "is_about_target_brand": true,
@@ -11588,7 +11632,7 @@
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 5,
+      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -34322,6 +34366,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
+    },
+    {
+      "id": 2882,
+      "headline": "Aktieselskabet Schouw & Co. (SCHO.CO) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+      "story_summary": "This is a Yahoo Finance page displaying the options chain for Schouw & Co shares traded on the Copenhagen Stock Exchange. The article is a standard financial data presentation with no news content or commentary about the company's operations or performance.",
+      "first_seen": "2017-06-17T07:58:00+00:00",
+      "last_seen": "2017-06-17T07:58:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
     },
     {
       "id": 1218,
@@ -129528,6 +129586,183 @@
         "none"
       ],
       "summary": "Schouw & Co. announced execution of its share buy-back programme during week 47 of 2026. The article reports standard corporate capital allocation activity with no material operational or strategic developments mentioned."
+    },
+    {
+      "id": 794254,
+      "story_id": 2883,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX193R3QtNHFjMnpBbjZRZFdVcHp4ZThKWUFnSENSRWtCWDJHamhHU3dYWEstd3dSVnBNUEMyNm9uUVlpbWRLUGpjRzZvRktQd08yWXpMNGlJbTNiODBaT1FFNjRnNnF0LXk0QTBadmN5Uk1LWEZPVlVqN1F1Q2ltN2FaX1gtWFNvR3JEQnFISGZ6aXV6dFR1dGV4QzlWVmZCVGg5cllpR3JFTDFOV1pUWUJaMEtrR0U1Nm1CUg?oc=5",
+      "title": "Food News Latam - BioMar eleva 50% su EBIT impulsada por alimento para salmón - 16性格辞典",
+      "source_name": "16性格辞典",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar achieves significant EBIT growth driven by salmon feed sales",
+      "key_claims": [
+        "BioMar increased EBIT by 50%",
+        "Growth was driven by salmon feed products"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar reported a 50% increase in EBIT, with salmon feed products serving as a primary driver of the company's financial growth. The result demonstrates strong performance in the aquaculture feed segment."
+    },
+    {
+      "id": 794271,
+      "story_id": 2885,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDVYTk9BcHhOSWlteUhFVmIyTGZvem9aZHlWVWRXSnc2Sm5maGk4TkNGaHdIOXNKN2trXzk5UVk3M2lxQ2lndUVGZm1Fc0FiVG1UakppN2Foc0FhVHNFQmptMXBucjRZVG14WU1VUkxrYWkxR2dqc21GWFAxTVdqN1FsSnRubk9jdUE5RWQ5UnpDVUxIODlhNzB2a01WdEpBYWp1N1NaY3o0LU51VmlxbGdBOFUtZ0NYYkNUWHdKcFZhQQ?oc=5",
+      "title": "BioMar inaugura la primera fase de la ampliación de su capacidad de producción en Ecuador - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar opens first phase of production capacity expansion in Ecuador",
+      "key_claims": [
+        "BioMar is expanding its production capacity in Ecuador",
+        "The expansion is being rolled out in phases",
+        "The first phase of the expansion has been inaugurated"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "BioMar has inaugurated the first phase of a production capacity expansion project at its facility in Ecuador. The expansion is being implemented in multiple phases as part of the company's growth strategy in the region."
+    },
+    {
+      "id": 794276,
+      "story_id": 2884,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2VMRE5GeHRwMVNhc1BOOUtEZUNPUURSNjdWNnpoS3VRa0pwbDBqNDhYb21nak9OeHBzOEE0cE9WVmozLThRN01QQWJEWXUwZTBJeG9CbVVhY2ZmV25uendqQ1B2TnNCNDFLZFF0cXlQaXk2YXcycEhsZWw1SG15WHdZRnZseWFSNHc5U2ZlUnR1QnlCUUlValJfZlh5dTBNNXlLc0RzZFQzOEhrQXc?oc=5",
+      "title": "BioMar logra un tercer trimestre récord y mejora sus previsiones para 2026 - misPeces",
+      "source_name": "misPeces",
+      "language": "es",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2026-11-04T11:24:31+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2VMRE5GeHRwMVNhc1BOOUtEZUNPUURSNjdWNnpoS3VRa0pwbDBqNDhYb21nak9OeHBzOEE0cE9WVmozLThRN01QQWJEWXUwZTBJeG9CbVVhY2ZmV25uendqQ1B2TnNCNDFLZFF0cXlQaXk2YXcycEhsZWw1SG15WHdZRnZseWFSNHc5U2ZlUnR1QnlCUUlValJfZlh5dTBNNXlLc0RzZFQzOEhrQXc?oc=5\" target=\"_blank\">BioMar logra un tercer trimestre récord y mejora sus previsiones para 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">misPeces</font>"
+    },
+    {
+      "id": 794343,
+      "story_id": 282,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRnJ2cnE0X2lVVUliWVVKcFZYOXlUUnhsLVF2eEVBZlRMWTd1cUlEMUpqTFVadkJISndnT0FJMXFmcWtZMUVPMG0wQlo5R2Z1RlJEVDk5eVAzQk9jRXYzQTluOWtUellsYXJBZjd4TzRZd1d2ZkZTQnk1dkRHejlHQUw2ek1kbXNUcGdlRHFLbEY4b0NvYWJrTlF2V1BwMzhqaTdQQ01oR0pYYnFRem95bW1ib3c2N3IwbGFYN2RQVnFzX3MtcnZaSVduM0x4NGpRWHc?oc=5",
+      "title": "Golpe a Biomar: más allá del fraude de 300 millones - El Día de Valladolid",
+      "source_name": "El Día de Valladolid",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2025-12-28T08:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "negative",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Spanish VAT fraud investigation against Biomar S.A.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "The article reports on a significant fraud case involving Biomar, a Spanish company accused of a 300-million euro VAT scheme. This appears to be coverage of a Spanish hydrocarbons or trading company unrelated to the Danish aquaculture feed producer BioMar Group.,"
+    },
+    {
+      "id": 794350,
+      "story_id": 2881,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTTBpTWJFTVJCbXFqTFBJNjVTN0xVNWJ4OUlrWURlZDdvN3pvUVZ0ZXZLcFZXNWtPei1OUFBzZ3ZvcWR0Y3dFQ2ZsaXFfeG81dlM0OExQSUlQZTFqQ3VRQ1RMTGZiT3N4QXFiaGlrRGVPTi1WcWZrNVExQVZ6YWJWQjRGVC1rWGQ1SEhtcnFxS0hiVmFaSHZzd1BFZGd3OWg1TWpkdHowOXcxM09oeTFlUDlmZ21YWl80OU5iZFJR0gHDAUFVX3lxTFBpTWFUNUJvaW9Ha0loN096VFoyYy1LbmlwOHhlLXBsNUhZSEtJTGtObWduSVZ4UGNqNE5fQ3pmRjdjSWhrMHo1WjZjVVgyOWc4NXBTRVlZa2pBdU5tRVdmMDhWNXVGbWdZbm9MamFIblpHMnZkLXBaVklkLWR5bXNwNFdjT2hQSUF4aW53Q0s5Vldxdkp1TDU2RTQ4N1hycmNPTl9oa2FmRGw5YU1LVmJrdnd3TXBPeWZWUVNGR2JQTEZ3Zw?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 47 2026 - The Manila Times",
+      "source_name": "The Manila Times",
+      "language": "en",
+      "country": "PH",
+      "outlet_kind": "press",
+      "published_at": "2026-11-23T20:11:52+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share buy-back programme in week 47 2026",
+      "key_claims": [
+        "Schouw & Co. conducted a share buy-back programme during week 47 of 2026"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Schouw & Co. announced or executed a share buy-back programme during week 47 of 2026. Share buy-backs are a standard capital allocation and investor return mechanism for publicly traded companies."
+    },
+    {
+      "id": 794367,
+      "story_id": 2879,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xOEZOV0NvelNHYlBRZ1gxbmRVMG9rN3c0OWRlZnBYS0lwZXU0N19fWjllMFJybGd5WXFlYnVQUmhyb1hfLXNsQmdJdjZkOG0xSl9STXE4X3l0ZWRWX3ZhZ1htNA?oc=5",
+      "title": "Aktieselskabet Schouw & Co. (5RF.F) Seasonal returns chart - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-22T04:43:01+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock seasonal returns chart data visualization",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance UK publishes a seasonal returns chart for Schouw & Co. (ticker: 5RF.F) listing on the Frankfurt exchange. The article is a data-driven financial tool with no narrative commentary or news angle beyond displaying historical price patterns by season or calendar period."
+    },
+    {
+      "id": 794374,
+      "story_id": 2882,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40WHRSRzBYbURseHBma1RWUzYtV0NiUnZEUm9UTEpiWFZnMVdLLTNoallLYTQ1NERoY3FXanZ5b1M4dzFvS0xCb1k0R1NCQ1FLTUNXTXNCUDZTZHdYOXhSSg?oc=5",
+      "title": "Aktieselskabet Schouw & Co. (SCHO.CO) Options Chain - Yahoo Finance - Yahoo! Finance Canada",
+      "source_name": "Yahoo! Finance Canada",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2017-06-17T07:58:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data page for Schouw & Co stock options.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance page displaying the options chain for Schouw & Co shares traded on the Copenhagen Stock Exchange. The article is a standard financial data presentation with no news content or commentary about the company's operations or performance."
     }
   ],
   "share_of_voice": {
@@ -130595,7 +130830,7 @@
       },
       {
         "week": "2017-W24",
-        "BioMar": 0,
+        "BioMar": 1,
         "Cargill": 1,
         "Skretting": 0
       },
@@ -132947,7 +133182,7 @@
       },
       {
         "week": "2025-W52",
-        "BioMar": 7,
+        "BioMar": 8,
         "Cargill": 0,
         "Skretting": 26
       },
@@ -133217,25 +133452,25 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 64,
+        "BioMar": 66,
         "Cargill": 1,
         "Skretting": 8
       },
       {
         "week": "2026-W46",
-        "BioMar": 21,
+        "BioMar": 22,
         "Cargill": 0,
         "Skretting": 11
       },
       {
         "week": "2026-W47",
-        "BioMar": 6,
+        "BioMar": 7,
         "Cargill": 0,
         "Skretting": 4
       },
       {
         "week": "2026-W48",
-        "BioMar": 3,
+        "BioMar": 4,
         "Cargill": 0,
         "Skretting": 0
       }
@@ -133243,7 +133478,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2099
+        "count": 2106
       },
       {
         "company": "Cargill",
