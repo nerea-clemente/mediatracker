@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-25T15:57:38+00:00",
+  "generated_at": "2026-11-25T19:28:30+00:00",
   "stats": {
-    "mention_count": 3755,
-    "story_count": 2720,
-    "analyzed_count": 2122,
+    "mention_count": 3770,
+    "story_count": 2725,
+    "analyzed_count": 2132,
     "off_topic_mentions": 147,
     "off_topic_stories": 91
   },
@@ -435,6 +435,62 @@
   ],
   "stories": [
     {
+      "id": 2896,
+      "headline": "Skretting om fôrråvarekrisen: – Har truffet oss mye raskere og hardere enn vi forventet - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObTVxczRydEFELWtYcnFGR2FzY2dNazlPaU1XNlBiV1BIWWVmMmJfQmN1ajk1RUpLZE5kRVBfOFd2Y0J5OHhfUG9SXzhBQnktbnRleVFOa1d1eFNXbmRISXVrVWJ2QzQ0Smg2YjgwelRWaG9qVlBMLTEyUkRkdWtNSHlfcHozNWhSOTZnMV9VNEgwdVBJZGJXUDItVkJxNER5cTlGVg?oc=5\" target=\"_blank\">Skretting om fôrråvarekrisen: – Har truffet oss mye raskere og hardere enn vi forventet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2026-11-25T15:21:22+00:00",
+      "last_seen": "2026-11-25T15:21:22+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2873,
+      "headline": "BioMar Group A/S (BIOMAC.XC) income statement - Yahoo Finance Australia",
+      "story_summary": "Yahoo Finance Australia published financial statement data for BioMar Group A/S, the aquaculture feed producer listed on the exchange under ticker BIOMAC.XC. The article is a standard financial reporting page providing income statement information to investors and analysts tracking the company's performance metrics and earnings data.",
+      "first_seen": "2026-11-18T15:54:57+00:00",
+      "last_seen": "2026-11-25T12:44:36+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 12,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2895,
+      "headline": "News - AKVA chief set to join Grieg Seafood board - Fish Farmer",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWZNLXlBd3dvZG5hNWpfbVYyNlZtUXNDSWVtaFZUMmt4Z2VxdngzVmxkRE90WlBBNG5QR2pwdjFicTRocG10RE8xT2lzR0dWaE1jVWZ3U0pQcEZhTFo4UVk3bzJPZ2lFU1dwcFJmckpVM0RtbWFVbG5NUHFKMXNFMVhQWVhjcnlYZ2c?oc=5\" target=\"_blank\">News - AKVA chief set to join Grieg Seafood board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fish Farmer</font>",
+      "first_seen": "2026-11-25T12:05:08+00:00",
+      "last_seen": "2026-11-25T12:05:08+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2886,
+      "headline": "BioMar Group A/S (BIOMAC.XC) cash flow – Yahoo Finance - Yahoo Finance Singapore",
+      "story_summary": "Yahoo Finance Singapore published a cash flow data page for BioMar Group A/S (ticker: BIOMAC.XC). The article is a standard financial information resource with no editorial commentary or news angle reported here.",
+      "first_seen": "2026-11-17T00:09:13+00:00",
+      "last_seen": "2026-11-24T20:29:31+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 9,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2890,
       "headline": "BioMar supera una de sus metas climáticas y proyecta nuevos desafíos hacia 2030 - Salmonexpert",
       "story_summary": "BioMar has surpassed one of its established climate targets and is now outlining additional environmental objectives for 2030. The article frames the company's progress on sustainability commitments as part of its ongoing corporate strategy.",
@@ -487,34 +543,6 @@
         "financial"
       ],
       "pickup_count": 3,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2886,
-      "headline": "BioMar Group A/S (BIOMAC.XC) cash flow – Yahoo Finance - Yahoo Finance Singapore",
-      "story_summary": "Yahoo Finance Singapore published a cash flow data page for BioMar Group A/S (ticker: BIOMAC.XC). The article is a standard financial information resource with no editorial commentary or news angle reported here.",
-      "first_seen": "2026-11-17T00:09:13+00:00",
-      "last_seen": "2026-11-23T13:55:54+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 5,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2873,
-      "headline": "BioMar Group A/S (BIOMAC.XD) latest press releases and corporate news - Yahoo Finance UK",
-      "story_summary": "This is a Yahoo Finance UK aggregation page displaying BioMar Group A/S (BIOMAC.XD) press releases and corporate news. The page itself contains no substantive article content, only links to external news sources.",
-      "first_seen": "2026-11-18T15:54:57+00:00",
-      "last_seen": "2026-11-23T11:53:10+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 6,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -19252,6 +19280,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2894,
+      "headline": "Skretting appoints Kontali analyst as new product manager for land-based aquaculture - WEAREAQUACULTURE",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHNvZm84OEFxLUhsd1VweVhhbW1TX3JZTGRTanBMcWxCbGRUUzFKRVhQcXJhRG5OVTVCWE8wVHMzeXktTGFkZlhwVElLWTdYY1Nja1QyaDB3Y1RYS1F3Mm9TeVp1bEwtUjZKY0dCN0d0QjN0MG5JLXpRcHpvUms4NHhTNThvOXVpM1NvX2h1SkIwbW9sTTByMGdGRkRyTnRDMjJCOENGV2VNSk9WTXZ5ei1HemRPdzZZNXV3ONIBygFBVV95cUxNZGNFWnVjZUtOdmUxYWliazJUVkRQMElHajhmaVJBc2w4cUE0aE9NVlJnYmNORzcyVVdDZnJTTThTVTNqT3huYVJ6ZjlselY4OHpzeDB6WG5vRm9OLUZlN09hUFdzcHVLWVVOWHNmSXhmOHM4c1pjWFMyLW1EZVN5NnVQMDh0NW01WHlWbHZlOWduZE1jQTZPUU1uMTRuT000VHBwYm12NVBaT3JpVzRxMnF0bVpub1lXUVJNT3JlXzlUNV9CWGpjb053?oc=5\" target=\"_blank\">Skretting appoints Kontali analyst as new product manager for land-based aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>",
+      "first_seen": "2024-08-26T07:00:00+00:00",
+      "last_seen": "2024-08-26T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 1781,
       "headline": "Skretting stored feed bags SKT-01362_500 - SalmonBusiness",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1PcVVrUkNIcDA1UkxrLWlUR3lfeWM4NS0xV0hNOWlXdGJtWHp3U0gyc204WUd2Y0pqUXpVQXZ2cTM5Wm9ZU3ZJajREaV8zbk9uV3BwelRYdDRkdHYyN2dIckpWb19CNWtRUnk4dU5KcU16Z2VCX2hJb3ZjeDQ?oc=5\" target=\"_blank\">Skretting stored feed bags SKT-01362_500</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SalmonBusiness</font>",
@@ -29100,6 +29142,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2893,
+      "headline": "Skretting CEO Therese Log Bergjord named IntraFish Person of the Year 2020 - www.intrafish.com",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHJXbHFMNzdqLVk3d0NiMzVHNUdnU09hR1E1VUoxYVZEY1VpWVI3R0JEWWVMSlkyUVZQX0JXME8zQVJZWUE0STExcWFDOWNXOGlqZjZUYlhxcE9NaFRxTlQ2RVRLTlEtbGcyaWdpT2RPUDVDbEduSGpyZ0dCZHlELXI3NUdYTTlXSUZpZ1dNei1zdDhXMjdwMUVNUm9pd0cyWnhfTjFERWt1b1lldEpEbUFJemh1VWZER1E?oc=5\" target=\"_blank\">Skretting CEO Therese Log Bergjord named IntraFish Person of the Year 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.intrafish.com</font>",
+      "first_seen": "2020-09-23T07:00:00+00:00",
+      "last_seen": "2020-09-23T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 477,
       "headline": "Skretting se asocia con proveedor de ingredientes alternativos para alimento de peces - Salmonexpert",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdE5kdnN3bXAyT29NNzJhZ1I1VWMwU2ZYckJYOHE4a1VrYkp5dFNRX1kxal83bElCUlB2VmJ5NTFOV3FQbEJWRkoyTkQ4YlpUcHVWUmlTOVkyTjJ5Y0FDSm5xNFNTSTVNNkZYclM2NnpPYTE4Q1R6MjRUOEJOeVFIbURBLWtlVDF3TGNraDBEMlJrTTNnWW5FSWlZeS0yLXd0b0J3TmlkeDVOdmRLem82YnRtNVQtdlhxWHI1N0t0TjZuX3RPbFU2bnNPWGYxNGJuUTluUUdMQnUtZHZPc1dsZDBxSTc2VzVP?oc=5\" target=\"_blank\">Skretting se asocia con proveedor de ingredientes alternativos para alimento de peces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Salmonexpert</font>",
@@ -30516,6 +30572,20 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
+    },
+    {
+      "id": 2892,
+      "headline": "Skretting Chile crea el primer bosque de la acuicultura nacional - aqua.cl",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVNwVmF4aE5WMXNnZWcwdUNCNTNqVlZfUF9lVmJDTGNna3g5Rlc3N3ZIdEM4SXQ5TjB1Zzc5NmM2UGQwVmwwalFuNEFNUGg0b1VXaktOdWs5V2tCd1JBZWVNMmlvTFhsLUVNNmdYeExBMHpPbWk4c1Q0TkdZbnZ0MVBZWTczVzJvT3dkQUZ3?oc=5\" target=\"_blank\">Skretting Chile crea el primer bosque de la acuicultura nacional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>",
+      "first_seen": "2019-12-18T08:00:00+00:00",
+      "last_seen": "2019-12-18T08:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
     },
     {
       "id": 1784,
@@ -130282,6 +130352,366 @@
         "none"
       ],
       "summary": "Schouw & Co. announced the execution of its share buy-back programme during week 47 of 2026. The article reports on the routine repurchase activity as part of the company's capital allocation strategy."
+    },
+    {
+      "id": 797822,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42VGVfUHZtVTVWd3hkc2RKVGstd1JEdVBoUXJydEZEN1RRdHB4NDJDNW1RVzNmdVhDb1o3MllySldsMll0c2dJdnhkMUthLUdVMUxmNWNfWnY?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) stock price, news, quote and history - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-25T12:44:36+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock listing and company information page",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance UK stock information page for BioMar Group A/S (ticker BIOMAC.XC), providing access to stock price data, news, quotes, and historical information. The page serves as a financial data aggregator rather than a news article with editorial content or analysis."
+    },
+    {
+      "id": 797826,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80aXNVbnQtSi1yNGRrQ0x0dVBWUGtBSEd1a0RPV1lUYjVtRDRaYTJBN1FMTThLdTRHckVrZUxTNUlPNHFZNXVJTmxnaWpOM0JNelZzTDR6TkRUdlRTaHN5WQ?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) interactive stock chart - Yahoo Finance Australia",
+      "source_name": "Yahoo Finance Australia",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T15:34:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock chart and trading information page",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance Australia page providing an interactive stock chart for BioMar Group A/S trading under the ticker BIOMAC.XC. The page serves as a financial data tool for investors tracking the company's share price and performance metrics."
+    },
+    {
+      "id": 797827,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZeWowandyejRhM19GeXlNWHlpWEtodG9wS2xUMGp4UkNzNXFwU2lmM0dVbFE3bDU1d2Vvb0xaWlAxd3pyQVB2ZGYxb2J6Ui1fcnN1Q3FKYUtjZzhlaTlTRU5HVQ?oc=5",
+      "title": "BioMar Group A/S (BIOMAR.CO) options chain - Yahoo Finance Australia",
+      "source_name": "Yahoo Finance Australia",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T07:27:08+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data page for BioMar Group stock options.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance Australia published a financial data page displaying the options chain for BioMar Group A/S shares traded on the Copenhagen Stock Exchange. The page is a standard market data tool with no news, commentary, or editorial content."
+    },
+    {
+      "id": 797828,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JMWtxN0JCUi1tSDFYV1Q4T2ViNTZQVUxNS3lHOUowM2xIN2o2X0ZmMDQyX1QxSnhWem9UTkdFQzF3UnFDaTFiXy0yLXFJbG5RSUxDVEktRmE2bFdqc2hjSDNpQUc4eDBMbXY1Qw?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XD) Latest Press Releases & Corporate News - Yahoo Finance - Yahoo! Finance Canada",
+      "source_name": "Yahoo! Finance Canada",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T14:37:21+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial news aggregator listing BioMar press releases",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo! Finance Canada landing page aggregating BioMar Group A/S press releases and corporate news. The article itself contains no substantive reporting, claims, or commentary."
+    },
+    {
+      "id": 797829,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwR09oeTlGNm1SM0FrRkQ2eF9KeGxta3FrQ1g5RjhUMEQ4czFIMlYyMHJIRkZDLVBISEJpdkZoYUtVYkRqOWxSOTJMVG1ZUGZlUENOdlBvZVRqd3hkaERKR0ZSOA?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) stock major holders - Yahoo Finance Australia",
+      "source_name": "Yahoo Finance Australia",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T20:29:31+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock major shareholders listing for BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance Australia published a data page listing major shareholders of BioMar Group A/S (ticker BIOMAC.XC). The article contains no narrative content, claims, or commentary beyond identifying key stock holders."
+    },
+    {
+      "id": 797831,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KX3k4ajY0ejJMMUNXS2xoSnB2U2wzVkF2QjFkRENlZXcyb2NMZE56aHRKSDBxSmFRTzRGdFRpdDl6WDJPWV8xeFlpbHBEV0NnVDFF?oc=5",
+      "title": "BIOMAC.XC Interactive Stock Chart | BioMar Group A/S Stock - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-11-24T15:37:02+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock chart and trading interface for BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance stock chart and trading interface page for BioMar Group A/S (ticker: BIOMAC.XC). The article contains no substantive news, claims, or commentary about the company."
+    },
+    {
+      "id": 797832,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5MzlmVzhPV2ZPVUlvbEtlb2pycmt2Vlc3a1BidDZ4UFN3SkJHUUwxdlF6RWtWX1pTbTlOdkExSG44Qi1pUEROekhrMW9iTC1oT1lVVTNoRTU3dW94T01oOEJrenJlUFVNLUdzWWVzc2QzekpQ?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) recent insider transactions - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T10:06:26+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Insider trading activity disclosure for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance UK reports on recent insider transactions involving BioMar Group A/S shares traded on the BIOMAC.XC exchange. The article is a standard financial data disclosure with no evaluative commentary or narrative context provided in the available summary text."
+    },
+    {
+      "id": 797833,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tbm5tOWdnZV9tX1FTVEtWbFdkNkZPVS1VZzJvYi04QjVXZXZzemFSREx5YU5TSms0YTF3NGdsX0xXUXluTWdIeXpfcXFkSjdxSVEzZktEZ2tuTmdqVXVMX0NBMA?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) options chain - Yahoo Finance Australia",
+      "source_name": "Yahoo Finance Australia",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T17:17:12+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data page listing options trading information",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance Australia page displaying the options chain for BioMar Group A/S shares traded under ticker BIOMAC.XC. The content is a standard financial data presentation without news, commentary, or analysis of the company itself."
+    },
+    {
+      "id": 797835,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03a1ZHSzY0OFBMZlZEcmthcUhTOVlQTlJTc3VIMFpJMElPTHM2UWFtb3Zua2ZxNDVSUWQwRmlSSW5XLXl5TWpPTUNCcmF0SGdlZU5GZzY3WGRFSEltUzZvSWpmQnFWZw?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XD) Stock Forum & Discussion - Yahoo Finance - Yahoo! Finance Canada",
+      "source_name": "Yahoo! Finance Canada",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-21T13:33:41+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock forum and discussion listing for BioMar Group shares.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance Canada page listing BioMar Group A/S (ticker BIOMAC.XD) as part of a stock forum and discussion section. The entry serves as a directory or index entry rather than editorial content about the company itself."
+    },
+    {
+      "id": 797837,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Z0E2MWRzWWpIdTlkQURtTEE2SWRmZ0c4UXpkYnd5SXZSVXE2ZG5Sel80X3lRRkxTSkhOemQ4Q2lXcDlfZDVrOVZyUjBpSGEzbUVHemR5c20wSkhVYlRDY2lUblBWVHc?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) income statement - Yahoo Finance Australia",
+      "source_name": "Yahoo Finance Australia",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T13:03:13+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Financial data presentation for BioMar Group A/S stock listing",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance Australia published financial statement data for BioMar Group A/S, the aquaculture feed producer listed on the exchange under ticker BIOMAC.XC. The article is a standard financial reporting page providing income statement information to investors and analysts tracking the company's performance metrics and earnings data."
+    },
+    {
+      "id": 798267,
+      "story_id": 2895,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWZNLXlBd3dvZG5hNWpfbVYyNlZtUXNDSWVtaFZUMmt4Z2VxdngzVmxkRE90WlBBNG5QR2pwdjFicTRocG10RE8xT2lzR0dWaE1jVWZ3U0pQcEZhTFo4UVk3bzJPZ2lFU1dwcFJmckpVM0RtbWFVbG5NUHFKMXNFMVhQWVhjcnlYZ2c?oc=5",
+      "title": "News - AKVA chief set to join Grieg Seafood board - Fish Farmer",
+      "source_name": "Fish Farmer",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-25T12:05:08+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWZNLXlBd3dvZG5hNWpfbVYyNlZtUXNDSWVtaFZUMmt4Z2VxdngzVmxkRE90WlBBNG5QR2pwdjFicTRocG10RE8xT2lzR0dWaE1jVWZ3U0pQcEZhTFo4UVk3bzJPZ2lFU1dwcFJmckpVM0RtbWFVbG5NUHFKMXNFMVhQWVhjcnlYZ2c?oc=5\" target=\"_blank\">News - AKVA chief set to join Grieg Seafood board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fish Farmer</font>"
+    },
+    {
+      "id": 798346,
+      "story_id": 2894,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHNvZm84OEFxLUhsd1VweVhhbW1TX3JZTGRTanBMcWxCbGRUUzFKRVhQcXJhRG5OVTVCWE8wVHMzeXktTGFkZlhwVElLWTdYY1Nja1QyaDB3Y1RYS1F3Mm9TeVp1bEwtUjZKY0dCN0d0QjN0MG5JLXpRcHpvUms4NHhTNThvOXVpM1NvX2h1SkIwbW9sTTByMGdGRkRyTnRDMjJCOENGV2VNSk9WTXZ5ei1HemRPdzZZNXV3ONIBygFBVV95cUxNZGNFWnVjZUtOdmUxYWliazJUVkRQMElHajhmaVJBc2w4cUE0aE9NVlJnYmNORzcyVVdDZnJTTThTVTNqT3huYVJ6ZjlselY4OHpzeDB6WG5vRm9OLUZlN09hUFdzcHVLWVVOWHNmSXhmOHM4c1pjWFMyLW1EZVN5NnVQMDh0NW01WHlWbHZlOWduZE1jQTZPUU1uMTRuT000VHBwYm12NVBaT3JpVzRxMnF0bVpub1lXUVJNT3JlXzlUNV9CWGpjb053?oc=5",
+      "title": "Skretting appoints Kontali analyst as new product manager for land-based aquaculture - WEAREAQUACULTURE",
+      "source_name": "WEAREAQUACULTURE",
+      "language": "en",
+      "country": "ES",
+      "outlet_kind": "press",
+      "published_at": "2024-08-26T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHNvZm84OEFxLUhsd1VweVhhbW1TX3JZTGRTanBMcWxCbGRUUzFKRVhQcXJhRG5OVTVCWE8wVHMzeXktTGFkZlhwVElLWTdYY1Nja1QyaDB3Y1RYS1F3Mm9TeVp1bEwtUjZKY0dCN0d0QjN0MG5JLXpRcHpvUms4NHhTNThvOXVpM1NvX2h1SkIwbW9sTTByMGdGRkRyTnRDMjJCOENGV2VNSk9WTXZ5ei1HemRPdzZZNXV3ONIBygFBVV95cUxNZGNFWnVjZUtOdmUxYWliazJUVkRQMElHajhmaVJBc2w4cUE0aE9NVlJnYmNORzcyVVdDZnJTTThTVTNqT3huYVJ6ZjlselY4OHpzeDB6WG5vRm9OLUZlN09hUFdzcHVLWVVOWHNmSXhmOHM4c1pjWFMyLW1EZVN5NnVQMDh0NW01WHlWbHZlOWduZE1jQTZPUU1uMTRuT000VHBwYm12NVBaT3JpVzRxMnF0bVpub1lXUVJNT3JlXzlUNV9CWGpjb053?oc=5\" target=\"_blank\">Skretting appoints Kontali analyst as new product manager for land-based aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAREAQUACULTURE</font>"
+    },
+    {
+      "id": 798352,
+      "story_id": 2893,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHJXbHFMNzdqLVk3d0NiMzVHNUdnU09hR1E1VUoxYVZEY1VpWVI3R0JEWWVMSlkyUVZQX0JXME8zQVJZWUE0STExcWFDOWNXOGlqZjZUYlhxcE9NaFRxTlQ2RVRLTlEtbGcyaWdpT2RPUDVDbEduSGpyZ0dCZHlELXI3NUdYTTlXSUZpZ1dNei1zdDhXMjdwMUVNUm9pd0cyWnhfTjFERWt1b1lldEpEbUFJemh1VWZER1E?oc=5",
+      "title": "Skretting CEO Therese Log Bergjord named IntraFish Person of the Year 2020 - www.intrafish.com",
+      "source_name": "www.intrafish.com",
+      "language": "en",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2020-09-23T07:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQWHJXbHFMNzdqLVk3d0NiMzVHNUdnU09hR1E1VUoxYVZEY1VpWVI3R0JEWWVMSlkyUVZQX0JXME8zQVJZWUE0STExcWFDOWNXOGlqZjZUYlhxcE9NaFRxTlQ2RVRLTlEtbGcyaWdpT2RPUDVDbEduSGpyZ0dCZHlELXI3NUdYTTlXSUZpZ1dNei1zdDhXMjdwMUVNUm9pd0cyWnhfTjFERWt1b1lldEpEbUFJemh1VWZER1E?oc=5\" target=\"_blank\">Skretting CEO Therese Log Bergjord named IntraFish Person of the Year 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.intrafish.com</font>"
+    },
+    {
+      "id": 798366,
+      "story_id": 2896,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTVxczRydEFELWtYcnFGR2FzY2dNazlPaU1XNlBiV1BIWWVmMmJfQmN1ajk1RUpLZE5kRVBfOFd2Y0J5OHhfUG9SXzhBQnktbnRleVFOa1d1eFNXbmRISXVrVWJ2QzQ0Smg2YjgwelRWaG9qVlBMLTEyUkRkdWtNSHlfcHozNWhSOTZnMV9VNEgwdVBJZGJXUDItVkJxNER5cTlGVg?oc=5",
+      "title": "Skretting om fôrråvarekrisen: – Har truffet oss mye raskere og hardere enn vi forventet - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-25T15:21:22+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObTVxczRydEFELWtYcnFGR2FzY2dNazlPaU1XNlBiV1BIWWVmMmJfQmN1ajk1RUpLZE5kRVBfOFd2Y0J5OHhfUG9SXzhBQnktbnRleVFOa1d1eFNXbmRISXVrVWJ2QzQ0Smg2YjgwelRWaG9qVlBMLTEyUkRkdWtNSHlfcHozNWhSOTZnMV9VNEgwdVBJZGJXUDItVkJxNER5cTlGVg?oc=5\" target=\"_blank\">Skretting om fôrråvarekrisen: – Har truffet oss mye raskere og hardere enn vi forventet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 798526,
+      "story_id": 2892,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVNwVmF4aE5WMXNnZWcwdUNCNTNqVlZfUF9lVmJDTGNna3g5Rlc3N3ZIdEM4SXQ5TjB1Zzc5NmM2UGQwVmwwalFuNEFNUGg0b1VXaktOdWs5V2tCd1JBZWVNMmlvTFhsLUVNNmdYeExBMHpPbWk4c1Q0TkdZbnZ0MVBZWTczVzJvT3dkQUZ3?oc=5",
+      "title": "Skretting Chile crea el primer bosque de la acuicultura nacional - aqua.cl",
+      "source_name": "aqua.cl",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2019-12-18T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVNwVmF4aE5WMXNnZWcwdUNCNTNqVlZfUF9lVmJDTGNna3g5Rlc3N3ZIdEM4SXQ5TjB1Zzc5NmM2UGQwVmwwalFuNEFNUGg0b1VXaktOdWs5V2tCd1JBZWVNMmlvTFhsLUVNNmdYeExBMHpPbWk4c1Q0TkdZbnZ0MVBZWTczVzJvT3dkQUZ3?oc=5\" target=\"_blank\">Skretting Chile crea el primer bosque de la acuicultura nacional</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aqua.cl</font>"
     }
   ],
   "share_of_voice": {
@@ -131963,7 +132393,7 @@
         "week": "2019-W51",
         "BioMar": 8,
         "Cargill": 5,
-        "Skretting": 1
+        "Skretting": 2
       },
       {
         "week": "2019-W52",
@@ -132159,6 +132589,12 @@
       },
       {
         "week": "2020-W38",
+        "BioMar": 0,
+        "Cargill": 0,
+        "Skretting": 1
+      },
+      {
+        "week": "2020-W39",
         "BioMar": 0,
         "Cargill": 0,
         "Skretting": 1
@@ -133289,7 +133725,7 @@
         "week": "2024-W35",
         "BioMar": 0,
         "Cargill": 0,
-        "Skretting": 2
+        "Skretting": 3
       },
       {
         "week": "2024-W36",
@@ -133983,21 +134419,21 @@
       },
       {
         "week": "2026-W47",
-        "BioMar": 13,
+        "BioMar": 14,
         "Cargill": 0,
         "Skretting": 4
       },
       {
         "week": "2026-W48",
-        "BioMar": 12,
+        "BioMar": 21,
         "Cargill": 0,
-        "Skretting": 0
+        "Skretting": 2
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2122
+        "count": 2132
       },
       {
         "company": "Cargill",
@@ -134005,7 +134441,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1313
+        "count": 1318
       }
     ]
   }
