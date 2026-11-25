@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-24T20:19:09+00:00",
+  "generated_at": "2026-11-25T00:25:57+00:00",
   "stats": {
-    "mention_count": 3749,
-    "story_count": 2717,
-    "analyzed_count": 2117,
+    "mention_count": 3752,
+    "story_count": 2719,
+    "analyzed_count": 2119,
     "off_topic_mentions": 145,
     "off_topic_stories": 90
   },
@@ -434,6 +434,20 @@
     "ytringen"
   ],
   "stories": [
+    {
+      "id": 2890,
+      "headline": "BioMar supera una de sus metas climáticas y proyecta nuevos desafíos hacia 2030 - Salmonexpert",
+      "story_summary": "BioMar has surpassed one of its established climate targets and is now outlining additional environmental objectives for 2030. The article frames the company's progress on sustainability commitments as part of its ongoing corporate strategy.",
+      "first_seen": "2026-11-24T08:40:00+00:00",
+      "last_seen": "2026-11-24T08:40:00+00:00",
+      "primary_sentiment": "positive",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2888,
       "headline": "BIO Mar 2027 370.000 call (BIO270319C00370000) stock historical prices and data - Yahoo Finance UK",
@@ -1109,15 +1123,15 @@
     },
     {
       "id": 2809,
-      "headline": "Ikke alle ansatte blir med videre: – Stemningen er forferdelig - Nettavisen",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWVvT2JCcHltV3lLaTFpM3hGbDMtTG41TnZ4NGJZWEg0U3NBa1JsTXpBYzZWNVlQelBLeUxqWGFwX2VrYU5WRTd2b256eDhtRDlGSjQ1bmU5Ri0tQ2NkM1ZFUVZEME1rNkhoNkM3ZFU5ZE1temdwUnBHVGF5Q0FuV1M5QUpfa2lTdFdJRWN6WnZubTZkRXNRZ3VyQzM4Vnl3UHBoZmJkZ2VOMzNGUU1JeENlb3U2cEVFaHhmNg?oc=5\" target=\"_blank\">Ikke alle ansatte blir med videre: – Stemningen er forferdelig</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nettavisen</font>",
-      "first_seen": "2026-11-04T10:04:18+00:00",
+      "headline": "Ganddal, Arbeidsliv | Legger ned på Kvål: – Stemningen er forferdelig - Sandnesposten",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXpDckJTVFdJUUs2LWRpSFp0M1BxTk5MOHdZOU1VTWNJSUhmeF9mRG9xTW9ibkwzV016dXcwQzRCWHA4XzZmTnhjazdWd0FYc0Z3czhETFZhb01aQU9QdEtncm9qS0hFOEdsTkF2N3NWenJNZHdDZU0wV21xcjh0dUdpSHM5cjE3dGoza0lhN1d6a0FCVzFiNzVYT2YzanVHN0hUM29FYk54aFR4?oc=5\" target=\"_blank\">Ganddal, Arbeidsliv | Legger ned på Kvål: – Stemningen er forferdelig</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>",
+      "first_seen": "2026-11-03T08:00:00+00:00",
       "last_seen": "2026-11-04T10:04:18+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
       ],
-      "pickup_count": 1,
+      "pickup_count": 2,
       "is_about_target_brand": true,
       "company": "Skretting"
     },
@@ -28512,7 +28526,7 @@
     {
       "id": 2887,
       "headline": "Sju personer satt i karantene etter smitte hos BioMar - iLaks",
-      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0wXzQ2TjItd3F6WEtscE80NHhtZjhIZ0I2ekFXTXZab3VEQ01rQ00wNXJFa1VYMnNwMUZqbkMzLWRWYWNodmp4ZkZpMW5KZFNLZjJhMTF2U2M0S2FIMk5JWklNeC1wdE1QVk9TVFNBMHgtT3JITWdBNm5pTQ?oc=5\" target=\"_blank\">Sju personer satt i karantene etter smitte hos BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "story_summary": "Seven people were placed in quarantine following a confirmed COVID-19 infection at a BioMar location. The article reports on pandemic-related health and safety protocols being implemented at the aquaculture feed producer's operations in Norway (implied from iLaks coverage).",
       "first_seen": "2021-01-12T08:00:00+00:00",
       "last_seen": "2021-01-12T08:00:00+00:00",
       "primary_sentiment": "neutral",
@@ -35134,6 +35148,20 @@
         "none"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "Cargill"
+    },
+    {
+      "id": 2889,
+      "headline": "Cargill and EWOS inaugurate landmark fish health center in Chile - PR Newswire",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzBiVlhhVllFZENCazgzNE43Z2xWYVY5Rlh6Z3FLcm5EZjMzUmNEc3NWZFhxSVk5YWEwbkR4VVBacEhlOWhxeFc0WG81NUVsN2dvdk51V2ZYTVEzQ1dWSHNPVS1yc1FyU0JiS3NBVzZ2eWdubWJ2bnJ6LWpGY0oxclJHdlo3WGV6S1E2OXZ4WFJac3g4cFFRb3dKQlRwdDJlQ3B2VFZZZDhKN0c2YlNOSEZyUVlITFhYQTFxSg?oc=5\" target=\"_blank\">Cargill and EWOS inaugurate landmark fish health center in Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "first_seen": "2016-10-18T07:00:00+00:00",
+      "last_seen": "2016-10-18T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Cargill"
     },
@@ -130084,6 +130112,57 @@
       "company": "BioMar",
       "is_about_target_brand": true,
       "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "secondary",
+      "angle": "COVID-19 quarantine measures at BioMar facility",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Seven people were placed in quarantine following a confirmed COVID-19 infection at a BioMar location. The article reports on pandemic-related health and safety protocols being implemented at the aquaculture feed producer's operations in Norway (implied from iLaks coverage)."
+    },
+    {
+      "id": 796424,
+      "story_id": 2890,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcTNGb296MHNzQ2R5M1M2ejN5TnV2cVJrN0lGM0ZwdjZqaE56X0lHWWpjR3ItS185S0ZxOVdDRmxPVnRRMkpaUlNjdkIwenpUT2lLbGVtRDFsdE04QkhsejZyTHJNSFdCNFlFX1Q1cEQ4VkNoTmQ0eEwzMVlzY3hNQmdEb3BoZXZ2LXMza2ZUWVFKM0JyYmlpZkxVLTUyTFMzbDZYUWdRZXlWQVhWOEp4Nm5VZHVUX2w0eUJQekt4Yjc1WE54Mmp4TktKQUZuOUV3VF9seVFBWTB4V1U3Z0xBMHdObHVwRVlxWUg0OEJrNHhlelQ2bmc3UC1UVQ?oc=5",
+      "title": "BioMar supera una de sus metas climáticas y proyecta nuevos desafíos hacia 2030 - Salmonexpert",
+      "source_name": "Salmonexpert",
+      "language": "es",
+      "country": "CL",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T08:40:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "BioMar achieves climate target and sets new sustainability goals",
+      "key_claims": [
+        "BioMar exceeded one of its climate targets",
+        "The company is projecting new sustainability challenges toward 2030"
+      ],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "BioMar has surpassed one of its established climate targets and is now outlining additional environmental objectives for 2030. The article frames the company's progress on sustainability commitments as part of its ongoing corporate strategy."
+    },
+    {
+      "id": 796700,
+      "story_id": 2809,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXpDckJTVFdJUUs2LWRpSFp0M1BxTk5MOHdZOU1VTWNJSUhmeF9mRG9xTW9ibkwzV016dXcwQzRCWHA4XzZmTnhjazdWd0FYc0Z3czhETFZhb01aQU9QdEtncm9qS0hFOEdsTkF2N3NWenJNZHdDZU0wV21xcjh0dUdpSHM5cjE3dGoza0lhN1d6a0FCVzFiNzVYT2YzanVHN0hUM29FYk54aFR4?oc=5",
+      "title": "Ganddal, Arbeidsliv | Legger ned på Kvål: – Stemningen er forferdelig - Sandnesposten",
+      "source_name": "Sandnesposten",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
       "sentiment_confidence": 0.0,
       "prominence": "passing",
       "angle": "",
@@ -130092,7 +130171,31 @@
       "risk_flags": [
         "none"
       ],
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE0wXzQ2TjItd3F6WEtscE80NHhtZjhIZ0I2ekFXTXZab3VEQ01rQ00wNXJFa1VYMnNwMUZqbkMzLWRWYWNodmp4ZkZpMW5KZFNLZjJhMTF2U2M0S2FIMk5JWklNeC1wdE1QVk9TVFNBMHgtT3JITWdBNm5pTQ?oc=5\" target=\"_blank\">Sju personer satt i karantene etter smitte hos BioMar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXpDckJTVFdJUUs2LWRpSFp0M1BxTk5MOHdZOU1VTWNJSUhmeF9mRG9xTW9ibkwzV016dXcwQzRCWHA4XzZmTnhjazdWd0FYc0Z3czhETFZhb01aQU9QdEtncm9qS0hFOEdsTkF2N3NWenJNZHdDZU0wV21xcjh0dUdpSHM5cjE3dGoza0lhN1d6a0FCVzFiNzVYT2YzanVHN0hUM29FYk54aFR4?oc=5\" target=\"_blank\">Ganddal, Arbeidsliv | Legger ned på Kvål: – Stemningen er forferdelig</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>"
+    },
+    {
+      "id": 796930,
+      "story_id": 2889,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzBiVlhhVllFZENCazgzNE43Z2xWYVY5Rlh6Z3FLcm5EZjMzUmNEc3NWZFhxSVk5YWEwbkR4VVBacEhlOWhxeFc0WG81NUVsN2dvdk51V2ZYTVEzQ1dWSHNPVS1yc1FyU0JiS3NBVzZ2eWdubWJ2bnJ6LWpGY0oxclJHdlo3WGV6S1E2OXZ4WFJac3g4cFFRb3dKQlRwdDJlQ3B2VFZZZDhKN0c2YlNOSEZyUVlITFhYQTFxSg?oc=5",
+      "title": "Cargill and EWOS inaugurate landmark fish health center in Chile - PR Newswire",
+      "source_name": "PR Newswire",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2016-10-18T07:00:00+00:00",
+      "matched_keyword": "Cargill Aqua",
+      "company": "Cargill",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzBiVlhhVllFZENCazgzNE43Z2xWYVY5Rlh6Z3FLcm5EZjMzUmNEc3NWZFhxSVk5YWEwbkR4VVBacEhlOWhxeFc0WG81NUVsN2dvdk51V2ZYTVEzQ1dWSHNPVS1yc1FyU0JiS3NBVzZ2eWdubWJ2bnJ6LWpGY0oxclJHdlo3WGV6S1E2OXZ4WFJac3g4cFFRb3dKQlRwdDJlQ3B2VFZZZDhKN0c2YlNOSEZyUVlITFhYQTFxSg?oc=5\" target=\"_blank\">Cargill and EWOS inaugurate landmark fish health center in Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
     }
   ],
   "share_of_voice": {
@@ -131017,7 +131120,7 @@
       {
         "week": "2016-W42",
         "BioMar": 1,
-        "Cargill": 2,
+        "Cargill": 3,
         "Skretting": 0
       },
       {
@@ -133784,7 +133887,7 @@
         "week": "2026-W45",
         "BioMar": 66,
         "Cargill": 1,
-        "Skretting": 8
+        "Skretting": 9
       },
       {
         "week": "2026-W46",
@@ -133800,7 +133903,7 @@
       },
       {
         "week": "2026-W48",
-        "BioMar": 8,
+        "BioMar": 9,
         "Cargill": 0,
         "Skretting": 0
       }
@@ -133808,15 +133911,15 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2118
+        "count": 2119
       },
       {
         "company": "Cargill",
-        "count": 319
+        "count": 320
       },
       {
         "company": "Skretting",
-        "count": 1312
+        "count": 1313
       }
     ]
   }
