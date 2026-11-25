@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T00:25:57+00:00",
+  "generated_at": "2026-11-25T04:45:32+00:00",
   "stats": {
-    "mention_count": 3752,
-    "story_count": 2719,
-    "analyzed_count": 2119,
-    "off_topic_mentions": 145,
-    "off_topic_stories": 90
+    "mention_count": 3755,
+    "story_count": 2720,
+    "analyzed_count": 2122,
+    "off_topic_mentions": 147,
+    "off_topic_stories": 91
   },
   "outlets": [
     ".: El Sol de Margarita :.",
@@ -449,6 +449,20 @@
       "company": "BioMar"
     },
     {
+      "id": 2891,
+      "headline": "Precios históricos de acciones y datos de BIO Mar 2027 370.000 call (BIO270319C00370000) - Yahoo Finanzas",
+      "story_summary": "This article appears to be a financial data listing for a BIO options contract (call option with strike price 370,000, expiring March 19, 2027) on Yahoo Finanzas. The content is a technical market data page rather than news coverage of a company or brand.",
+      "first_seen": "2026-11-23T20:54:23+00:00",
+      "last_seen": "2026-11-23T20:56:21+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
       "id": 2888,
       "headline": "BIO Mar 2027 370.000 call (BIO270319C00370000) stock historical prices and data - Yahoo Finance UK",
       "story_summary": "This article is a financial data page displaying historical prices and information for a stock options contract (BIO call option). It is not editorial content about BioMar Group or any company's business activities, news, or announcements.",
@@ -465,14 +479,14 @@
     {
       "id": 2881,
       "headline": "Schouw & Co. share buy-back programme, week 47 2026 - StreetInsider",
-      "story_summary": "Schouw & Co. announced execution of its share buy-back programme during week 47 of 2026. The article reports standard corporate capital allocation activity with no material operational or strategic developments mentioned.",
-      "first_seen": "2026-11-23T20:02:19+00:00",
+      "story_summary": "Schouw & Co. announced the execution of its share buy-back programme during week 47 of 2026. The article reports on the routine repurchase activity as part of the company's capital allocation strategy.",
+      "first_seen": "2026-11-23T20:00:00+00:00",
       "last_seen": "2026-11-23T20:11:52+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -130196,6 +130210,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzBiVlhhVllFZENCazgzNE43Z2xWYVY5Rlh6Z3FLcm5EZjMzUmNEc3NWZFhxSVk5YWEwbkR4VVBacEhlOWhxeFc0WG81NUVsN2dvdk51V2ZYTVEzQ1dWSHNPVS1yc1FyU0JiS3NBVzZ2eWdubWJ2bnJ6LWpGY0oxclJHdlo3WGV6S1E2OXZ4WFJac3g4cFFRb3dKQlRwdDJlQ3B2VFZZZDhKN0c2YlNOSEZyUVlITFhYQTFxSg?oc=5\" target=\"_blank\">Cargill and EWOS inaugurate landmark fish health center in Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+    },
+    {
+      "id": 797241,
+      "story_id": 2891,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tcjdlNXg4T0ZZQU9IN2wyeWVOcFRqckE5MVF0XzZXN1BJSUxaUEZaaTZaVHFDMHQzNDlueE5Lc0MzdjBHUDFYNUloeVdGVndmcEZVQWFuQWVXc2ROSGdobHZGZDZiZ19jV19saXdwVQ?oc=5",
+      "title": "Datos y precios históricos de acciones de BIO Mar 2027 370.000 call (BIO270319C00370000) - Yahoo",
+      "source_name": "Yahoo",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-23T20:56:21+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data page for BIO Mar options trading",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance page displaying historical stock price data and options trading information for a BIO Mar ticker symbol. The article is not substantive news coverage but rather a data reference page for financial derivatives trading."
+    },
+    {
+      "id": 797245,
+      "story_id": 2891,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOEc0QXJEaFNWd3ZRWjNiUURNdF92ZW82bXhpVWdPNDlQTjI1Q19CMTJzY1JzX1hqU1Uzb2lSX3R5THJscFkzdVFJeW5rVTZkS3M3RXA3YWliTzhrRFc5aUFadVlLbjNVbWxmY0EteS1Oa1VR?oc=5",
+      "title": "Precios históricos de acciones y datos de BIO Mar 2027 370.000 call (BIO270319C00370000) - Yahoo Finanzas",
+      "source_name": "Yahoo Finanzas",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-23T20:54:23+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data and historical stock prices for options contract",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This article appears to be a financial data listing for a BIO options contract (call option with strike price 370,000, expiring March 19, 2027) on Yahoo Finanzas. The content is a technical market data page rather than news coverage of a company or brand."
+    },
+    {
+      "id": 797359,
+      "story_id": 2881,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CVGlpTVg0WVo2OVBQSXNIRE9JSVkzck1XTThkMjZMakxld0hUc0szS1lCRnRnYXZRcC11em0zcUtlZ280TGVaYktxX2UzTk15SjlmTjd4VFR2UFJ0WUpudTdSSTNiV0xsTDkxag?oc=5",
+      "title": "Schouw & Co. share buy-back programme, week 47 2026 - StreetInsider",
+      "source_name": "StreetInsider",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-23T20:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Schouw & Co. executes share repurchase program in week 47 2026",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co. announced the execution of its share buy-back programme during week 47 of 2026. The article reports on the routine repurchase activity as part of the company's capital allocation strategy."
     }
   ],
   "share_of_voice": {
@@ -133903,7 +133989,7 @@
       },
       {
         "week": "2026-W48",
-        "BioMar": 9,
+        "BioMar": 12,
         "Cargill": 0,
         "Skretting": 0
       }
@@ -133911,7 +133997,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2119
+        "count": 2122
       },
       {
         "company": "Cargill",
