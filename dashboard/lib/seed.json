@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-26T15:35:28+00:00",
+  "generated_at": "2026-11-26T19:09:57+00:00",
   "stats": {
-    "mention_count": 3775,
+    "mention_count": 3778,
     "story_count": 2728,
-    "analyzed_count": 2134,
+    "analyzed_count": 2137,
     "off_topic_mentions": 147,
     "off_topic_stories": 91
   },
@@ -449,6 +449,20 @@
       "company": "Skretting"
     },
     {
+      "id": 2886,
+      "headline": "BioMar Group A/S (BIOMAC.XC) cash flow – Yahoo Finance - Yahoo Finance Singapore",
+      "story_summary": "Yahoo Finance Singapore published a cash flow data page for BioMar Group A/S (ticker: BIOMAC.XC). The article is a standard financial information resource with no editorial commentary or news angle reported here.",
+      "first_seen": "2026-11-17T00:09:13+00:00",
+      "last_seen": "2026-11-25T23:36:51+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 13,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2897,
       "headline": "Omsatte for 110 millioner fra en brakke på Ganddal: – Tar steget videre etter seks år - Sandnesposten",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ2FnMC1tTE5jS2lFYlprUDQzM2VHckpwblRCYnhVYnpQX2xlMm1xUjdJUTBmQ3dMTHoyc19iWWRhdzNyaWhKaEQ0dV8wS2RvVFA4UVAwMXhtOHZ1UHpoNFVVQ2ppTkVaczhmck9zM1c3aXJKckhDVkd1NkVVd0gwTGpyWWpBa21UaUhyYzJxSWhYYXFZOWxzQVNTdUxMNXJOTUZOTzMzaE9pZEl2UjZaR0NMaDNFM0xNYVRLenBuVzM4dkV6?oc=5\" target=\"_blank\">Omsatte for 110 millioner fra en brakke på Ganddal: – Tar steget videre etter seks år</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>",
@@ -461,20 +475,6 @@
       "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "Skretting"
-    },
-    {
-      "id": 2886,
-      "headline": "BioMar Group A/S (BIOMAC.XC) cash flow – Yahoo Finance - Yahoo Finance Singapore",
-      "story_summary": "Yahoo Finance Singapore published a cash flow data page for BioMar Group A/S (ticker: BIOMAC.XC). The article is a standard financial information resource with no editorial commentary or news angle reported here.",
-      "first_seen": "2026-11-17T00:09:13+00:00",
-      "last_seen": "2026-11-25T19:50:24+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 10,
-      "is_about_target_brand": true,
-      "company": "BioMar"
     },
     {
       "id": 2896,
@@ -130877,6 +130877,78 @@
         "none"
       ],
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8zZnlJUFlkYm9TM2hoOXpxNnNYMFlSODV3elN0UGRqRkVUNm5DUHNvYVp5ek1BSHE5NzBZaDMwemtPcDRmVmUyWnl4LW1EVEg4aWVEdW1zWkVBdlEzUy1pVGVra2hSQUY2RXUwT1dhNTlLeXV2VUE?oc=5\" target=\"_blank\">– Fôret er nøkkelen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
+    },
+    {
+      "id": 801073,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qR1phODRBNXBJQUpjZWFlV252ZWh2dkpzRUx6djMzZ29RNHlvRHU4UUs3aHp1eXZEVnhwOWxRcjctUHlDdm1KWXpoODZFNnRxQXhONElYc195UjZKdFE?oc=5",
+      "title": "BioMar Group A/S (2IT.F) company profile and facts - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-25T23:36:51+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Company profile and factual overview of BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance UK publishes a company profile page for BioMar Group A/S listing on the Frankfurt exchange under ticker 2IT.F. The article presents factual information about the aquaculture feed producer without editorial commentary or specific claims."
+    },
+    {
+      "id": 801079,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mQWNzcXJaT0NXWkcxNmV5Mk82dGE3ak1HMzhrWExsdnRzQnVkZ0dkalpGVnFjQXlNOU1TR2hyMWRPU2ZRN3pVd1I5Sld6MUh3VkpFQ18zLWVnazc0Zm9CWkNPd0Q0ZDQ?oc=5",
+      "title": "BioMar Group A/S (2IT.F) insider ownership and holdings – Yahoo Finance - Yahoo Finance Singapore",
+      "source_name": "Yahoo Finance Singapore",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-11-25T20:34:39+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Insider ownership and holdings disclosure for BioMar Group A/S",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance Singapore published a financial disclosure page detailing insider ownership and holdings for BioMar Group A/S (ticker 2IT.F). The article serves as a reference resource for investor information regarding executive and insider stake positions in the company."
+    },
+    {
+      "id": 801086,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00UHpxOHFQTHU1OFUxc2h0RjZnc21STVk4dDJWOWc2Rjc5S3ZWXzhrdFQxTS1TbGMzSkZXZVlfcTBiS0I3SGI0UUFLR2NVaGJEYTJQTHQ0RjkyR2RuZlE?oc=5",
+      "title": "BioMar Group A/S (2IT.F) stock major holders - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-25T19:08:23+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock ownership structure and major shareholders listing.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance UK publishes a financial data page listing the major shareholders of BioMar Group A/S (ticker 2IT.F). The article is a standard reference document providing shareholding information without editorial commentary or news developments."
     }
   ],
   "share_of_voice": {
@@ -134590,7 +134662,7 @@
       },
       {
         "week": "2026-W48",
-        "BioMar": 22,
+        "BioMar": 25,
         "Cargill": 0,
         "Skretting": 5
       }
@@ -134598,7 +134670,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2134
+        "count": 2137
       },
       {
         "company": "Cargill",
