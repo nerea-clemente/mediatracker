@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-26T03:55:05+00:00",
+  "generated_at": "2026-11-26T15:35:28+00:00",
   "stats": {
-    "mention_count": 3772,
-    "story_count": 2726,
-    "analyzed_count": 2133,
+    "mention_count": 3775,
+    "story_count": 2728,
+    "analyzed_count": 2134,
     "off_topic_mentions": 147,
     "off_topic_stories": 91
   },
@@ -435,6 +435,20 @@
   ],
   "stories": [
     {
+      "id": 2899,
+      "headline": "Skretting om råvarekrisen: – Vi er flinke til å finne løsninger når vi blir presset - iLaks",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOY190MVE4Sk5CajE2R0lJaEI4clNoYmZKbkRVRjMyZnp5OVNVU3FrRFFsWWpVaFJvZXFYeVE5eW0ya0NiNmJFWWdoOFFqY19WMklmNGJLSDY1eVVNeFd5azZ5MFJ3bUZKcElIV0ZpQ0drQUdEZWwtWXh4Ykc2R2F1Z2VheGdrdHJYU1VFeTRTa3pGMXFpZTBUdXU3YVpwLUVTMnVJQVNB?oc=5\" target=\"_blank\">Skretting om råvarekrisen: – Vi er flinke til å finne løsninger når vi blir presset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
+      "first_seen": "2026-11-26T12:47:23+00:00",
+      "last_seen": "2026-11-26T12:47:23+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
       "id": 2897,
       "headline": "Omsatte for 110 millioner fra en brakke på Ganddal: – Tar steget videre etter seks år - Sandnesposten",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ2FnMC1tTE5jS2lFYlprUDQzM2VHckpwblRCYnhVYnpQX2xlMm1xUjdJUTBmQ3dMTHoyc19iWWRhdzNyaWhKaEQ0dV8wS2RvVFA4UVAwMXhtOHZ1UHpoNFVVQ2ppTkVaczhmck9zM1c3aXJKckhDVkd1NkVVd0gwTGpyWWpBa21UaUhyYzJxSWhYYXFZOWxzQVNTdUxMNXJOTUZOTzMzaE9pZEl2UjZaR0NMaDNFM0xNYVRLenBuVzM4dkV6?oc=5\" target=\"_blank\">Omsatte for 110 millioner fra en brakke på Ganddal: – Tar steget videre etter seks år</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sandnesposten</font>",
@@ -496,6 +510,20 @@
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWZNLXlBd3dvZG5hNWpfbVYyNlZtUXNDSWVtaFZUMmt4Z2VxdngzVmxkRE90WlBBNG5QR2pwdjFicTRocG10RE8xT2lzR0dWaE1jVWZ3U0pQcEZhTFo4UVk3bzJPZ2lFU1dwcFJmckpVM0RtbWFVbG5NUHFKMXNFMVhQWVhjcnlYZ2c?oc=5\" target=\"_blank\">News - AKVA chief set to join Grieg Seafood board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fish Farmer</font>",
       "first_seen": "2026-11-25T12:05:08+00:00",
       "last_seen": "2026-11-25T12:05:08+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "Skretting"
+    },
+    {
+      "id": 2898,
+      "headline": "– Fôret er nøkkelen - Kyst.no",
+      "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8zZnlJUFlkYm9TM2hoOXpxNnNYMFlSODV3elN0UGRqRkVUNm5DUHNvYVp5ek1BSHE5NzBZaDMwemtPcDRmVmUyWnl4LW1EVEg4aWVEdW1zWkVBdlEzUy1pVGVra2hSQUY2RXUwT1dhNTlLeXV2VUE?oc=5\" target=\"_blank\">– Fôret er nøkkelen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>",
+      "first_seen": "2026-11-25T10:04:18+00:00",
+      "last_seen": "2026-11-25T10:04:18+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
         "none"
@@ -1046,7 +1074,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 2,
+      "pickup_count": 3,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -130777,6 +130805,78 @@
         "financial"
       ],
       "summary": "Yahoo Finance Singapore published a report documenting recent insider transactions at BioMar Group A/S, which trades on the Frankfurt stock exchange. The article provides factual disclosure of insider trading activity without editorial commentary or analysis."
+    },
+    {
+      "id": 800495,
+      "story_id": 2815,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3FrR0o2V3RaRDdTUi16dno5X3h6OWhyY2hOMS0tT3FhWmFvWF9tUjB0NXF1TDM1TjJ5QjdhNEFkaUg4X0FhODJWdXZacEZWOThCbE93U2pLZ3ppMmVhMFRUUlJlZ0VSQTRCV283X2IwLXhrdE1rS0YxOUowU3BkMjFMY01WWHlROFQwQTRuUUcxOXozeExHaHgyUFhXRlI1TUx4Y1lGejctYW53a2E4djdMa0tITS1ZMTYxb2J5NmY3WnBP?oc=5",
+      "title": "Schouw & Co. Increases Consolidated Earnings Guidance for the Full Year 2026 - www.marketscreener.com",
+      "source_name": "www.marketscreener.com",
+      "language": "en",
+      "country": "US",
+      "outlet_kind": "press",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "matched_keyword": "Schouw",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "positive",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Parent company Schouw & Co raises full-year 2026 earnings guidance",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Schouw & Co announced an increase to its consolidated earnings guidance for the full year 2026. The upgrade reflects improved financial performance across the conglomerate's portfolio, which includes BioMar Group among its subsidiaries. This action signals confidence in the company's trajectory and underlying business momentum through year-end 2026."
+    },
+    {
+      "id": 800691,
+      "story_id": 2899,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY190MVE4Sk5CajE2R0lJaEI4clNoYmZKbkRVRjMyZnp5OVNVU3FrRFFsWWpVaFJvZXFYeVE5eW0ya0NiNmJFWWdoOFFqY19WMklmNGJLSDY1eVVNeFd5azZ5MFJ3bUZKcElIV0ZpQ0drQUdEZWwtWXh4Ykc2R2F1Z2VheGdrdHJYU1VFeTRTa3pGMXFpZTBUdXU3YVpwLUVTMnVJQVNB?oc=5",
+      "title": "Skretting om råvarekrisen: – Vi er flinke til å finne løsninger når vi blir presset - iLaks",
+      "source_name": "iLaks",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-26T12:47:23+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOY190MVE4Sk5CajE2R0lJaEI4clNoYmZKbkRVRjMyZnp5OVNVU3FrRFFsWWpVaFJvZXFYeVE5eW0ya0NiNmJFWWdoOFFqY19WMklmNGJLSDY1eVVNeFd5azZ5MFJ3bUZKcElIV0ZpQ0drQUdEZWwtWXh4Ykc2R2F1Z2VheGdrdHJYU1VFeTRTa3pGMXFpZTBUdXU3YVpwLUVTMnVJQVNB?oc=5\" target=\"_blank\">Skretting om råvarekrisen: – Vi er flinke til å finne løsninger når vi blir presset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>"
+    },
+    {
+      "id": 800695,
+      "story_id": 2898,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zZnlJUFlkYm9TM2hoOXpxNnNYMFlSODV3elN0UGRqRkVUNm5DUHNvYVp5ek1BSHE5NzBZaDMwemtPcDRmVmUyWnl4LW1EVEg4aWVEdW1zWkVBdlEzUy1pVGVra2hSQUY2RXUwT1dhNTlLeXV2VUE?oc=5",
+      "title": "– Fôret er nøkkelen - Kyst.no",
+      "source_name": "Kyst.no",
+      "language": "no",
+      "country": "NO",
+      "outlet_kind": "press",
+      "published_at": "2026-11-25T10:04:18+00:00",
+      "matched_keyword": "Skretting",
+      "company": "Skretting",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.0,
+      "prominence": "passing",
+      "angle": "",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8zZnlJUFlkYm9TM2hoOXpxNnNYMFlSODV3elN0UGRqRkVUNm5DUHNvYVp5ek1BSHE5NzBZaDMwemtPcDRmVmUyWnl4LW1EVEg4aWVEdW1zWkVBdlEzUy1pVGVra2hSQUY2RXUwT1dhNTlLeXV2VUE?oc=5\" target=\"_blank\">– Fôret er nøkkelen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyst.no</font>"
     }
   ],
   "share_of_voice": {
@@ -134472,7 +134572,7 @@
       },
       {
         "week": "2026-W45",
-        "BioMar": 66,
+        "BioMar": 67,
         "Cargill": 1,
         "Skretting": 9
       },
@@ -134492,13 +134592,13 @@
         "week": "2026-W48",
         "BioMar": 22,
         "Cargill": 0,
-        "Skretting": 3
+        "Skretting": 5
       }
     ],
     "totals": [
       {
         "company": "BioMar",
-        "count": 2133
+        "count": 2134
       },
       {
         "company": "Cargill",
@@ -134506,7 +134606,7 @@
       },
       {
         "company": "Skretting",
-        "count": 1319
+        "count": 1321
       }
     ]
   }
