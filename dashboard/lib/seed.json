@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-27T15:27:55+00:00",
+  "generated_at": "2026-11-27T19:05:18+00:00",
   "stats": {
-    "mention_count": 3789,
+    "mention_count": 3792,
     "story_count": 2731,
-    "analyzed_count": 2148,
+    "analyzed_count": 2151,
     "off_topic_mentions": 148,
     "off_topic_stories": 91
   },
@@ -435,6 +435,20 @@
   ],
   "stories": [
     {
+      "id": 2873,
+      "headline": "BioMar Group A/S (BIOMAC.XC) income statement - Yahoo Finance Australia",
+      "story_summary": "Yahoo Finance Australia published financial statement data for BioMar Group A/S, the aquaculture feed producer listed on the exchange under ticker BIOMAC.XC. The article is a standard financial reporting page providing income statement information to investors and analysts tracking the company's performance metrics and earnings data.",
+      "first_seen": "2026-11-18T15:54:57+00:00",
+      "last_seen": "2026-11-26T23:38:24+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 18,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2899,
       "headline": "Skretting om råvarekrisen: – Vi er flinke til å finne løsninger når vi blir presset - iLaks",
       "story_summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOY190MVE4Sk5CajE2R0lJaEI4clNoYmZKbkRVRjMyZnp5OVNVU3FrRFFsWWpVaFJvZXFYeVE5eW0ya0NiNmJFWWdoOFFqY19WMklmNGJLSDY1eVVNeFd5azZ5MFJ3bUZKcElIV0ZpQ0drQUdEZWwtWXh4Ykc2R2F1Z2VheGdrdHJYU1VFeTRTa3pGMXFpZTBUdXU3YVpwLUVTMnVJQVNB?oc=5\" target=\"_blank\">Skretting om råvarekrisen: – Vi er flinke til å finne løsninger når vi blir presset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iLaks</font>",
@@ -486,7 +500,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 16,
+      "pickup_count": 17,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -529,20 +543,6 @@
         "financial"
       ],
       "pickup_count": 1,
-      "is_about_target_brand": true,
-      "company": "BioMar"
-    },
-    {
-      "id": 2873,
-      "headline": "BioMar Group A/S (BIOMAC.XC) income statement - Yahoo Finance Australia",
-      "story_summary": "Yahoo Finance Australia published financial statement data for BioMar Group A/S, the aquaculture feed producer listed on the exchange under ticker BIOMAC.XC. The article is a standard financial reporting page providing income statement information to investors and analysts tracking the company's performance metrics and earnings data.",
-      "first_seen": "2026-11-18T15:54:57+00:00",
-      "last_seen": "2026-11-25T12:44:36+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "financial"
-      ],
-      "pickup_count": 16,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -131255,6 +131255,78 @@
         "none"
       ],
       "summary": "This is a company profile page on Yahoo Finance providing standardized corporate information and trading data for BioMar Group A/S. The article presents factual company details without editorial commentary or narrative analysis."
+    },
+    {
+      "id": 804332,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43ZDV5YTV6cXBJQVhSSGtBWEhUVUtCTjI4QzNTc3JodTFGbThuc1pLZVlieEVfWDN6azV0WTBLLTJkb3otSGFoY251ZEZPT1NWVUlWdFVJNklDMWo0M0NqaFlB?oc=5",
+      "title": "BioMar Group A/S (2IT.F) stock price, news, quote and history - Yahoo Finance - Yahoo Finance Singapore",
+      "source_name": "Yahoo Finance Singapore",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-11-26T23:38:24+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock listing and financial information aggregator page",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance index or aggregator page for BioMar Group A/S stock ticker 2IT.F. The article contains no substantive news, claims, or editorial content about the company itself."
+    },
+    {
+      "id": 804337,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80eXBVaDc3cEhERkRDQ2dnSWRjVk9rX05xRFdXMnZOaWVIZ0Qwbml1LXJVa1ptUEFPa3lueHo4dk5DUEpBMVdyQTE4ckl5b3NyM2gyNlp1OXIyc0hMRkJFbA?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) interactive stock chart - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T11:56:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock market listing and interactive chart for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance UK provides an interactive stock chart for BioMar Group A/S trading under ticker BIOMAC.XC. The article is a standard financial data presentation with no editorial commentary or news content beyond the chart tool itself."
+    },
+    {
+      "id": 804358,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pX2FOS1lpOFRWd0hRdXJGNTdZSjVjRUZVYkN0SkEyZTBuZmhSTVR2U1pvVXp3UWl2NEVmd2VVRDBOOExyUHR4OUpOcjNCdUxFR3BIUEVnWnJrOS13Q1pBYnp6UQ?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) stock major holders - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T11:56:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock ownership structure of BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance page listing the major shareholders of BioMar Group A/S (ticker: BIOMAC.XC). The article provides factual information about stock ownership without commentary on company performance or strategic developments."
     }
   ],
   "share_of_voice": {
@@ -134968,7 +135040,7 @@
       },
       {
         "week": "2026-W48",
-        "BioMar": 35,
+        "BioMar": 38,
         "Cargill": 0,
         "Skretting": 5
       }
@@ -134976,7 +135048,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2148
+        "count": 2151
       },
       {
         "company": "Cargill",
