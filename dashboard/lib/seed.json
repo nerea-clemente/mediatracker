@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-27T03:54:57+00:00",
+  "generated_at": "2026-11-27T15:27:55+00:00",
   "stats": {
-    "mention_count": 3779,
-    "story_count": 2729,
-    "analyzed_count": 2138,
-    "off_topic_mentions": 147,
+    "mention_count": 3789,
+    "story_count": 2731,
+    "analyzed_count": 2148,
+    "off_topic_mentions": 148,
     "off_topic_stories": 91
   },
   "outlets": [
@@ -449,6 +449,34 @@
       "company": "Skretting"
     },
     {
+      "id": 2888,
+      "headline": "BIO Mar 2027 370.000 call (BIO270319C00370000) stock historical prices and data - Yahoo Finance UK",
+      "story_summary": "This article is a financial data page displaying historical prices and information for a stock options contract (BIO call option). It is not editorial content about BioMar Group or any company's business activities, news, or announcements.",
+      "first_seen": "2026-11-23T20:40:12+00:00",
+      "last_seen": "2026-11-26T04:30:11+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 2,
+      "is_about_target_brand": false,
+      "company": "BioMar"
+    },
+    {
+      "id": 2902,
+      "headline": "Perfil y datos de empresa de BioMar Group A/S (2IT.F) - Yahoo",
+      "story_summary": "This is a company profile page on Yahoo Finance providing standardized corporate information and trading data for BioMar Group A/S. The article presents factual company details without editorial commentary or narrative analysis.",
+      "first_seen": "2026-11-25T23:37:33+00:00",
+      "last_seen": "2026-11-25T23:37:33+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
       "id": 2886,
       "headline": "BioMar Group A/S (BIOMAC.XC) cash flow – Yahoo Finance - Yahoo Finance Singapore",
       "story_summary": "Yahoo Finance Singapore published a cash flow data page for BioMar Group A/S (ticker: BIOMAC.XC). The article is a standard financial information resource with no editorial commentary or news angle reported here.",
@@ -458,7 +486,7 @@
       "risk_flags": [
         "financial"
       ],
-      "pickup_count": 13,
+      "pickup_count": 16,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -512,9 +540,9 @@
       "last_seen": "2026-11-25T12:44:36+00:00",
       "primary_sentiment": "neutral",
       "risk_flags": [
-        "none"
+        "financial"
       ],
-      "pickup_count": 12,
+      "pickup_count": 16,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -571,20 +599,6 @@
         "none"
       ],
       "pickup_count": 2,
-      "is_about_target_brand": false,
-      "company": "BioMar"
-    },
-    {
-      "id": 2888,
-      "headline": "BIO Mar 2027 370.000 call (BIO270319C00370000) stock historical prices and data - Yahoo Finance UK",
-      "story_summary": "This article is a financial data page displaying historical prices and information for a stock options contract (BIO call option). It is not editorial content about BioMar Group or any company's business activities, news, or announcements.",
-      "first_seen": "2026-11-23T20:40:12+00:00",
-      "last_seen": "2026-11-23T20:40:12+00:00",
-      "primary_sentiment": "neutral",
-      "risk_flags": [
-        "none"
-      ],
-      "pickup_count": 1,
       "is_about_target_brand": false,
       "company": "BioMar"
     },
@@ -4577,6 +4591,20 @@
         "financial"
       ],
       "pickup_count": 2,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
+    {
+      "id": 2901,
+      "headline": "BioMar Group A/S (BIOMAC.XC) Q2 FY2026 earnings call transcript - Yahoo Finance",
+      "story_summary": "Yahoo Finance has published the transcript of BioMar Group A/S's Q2 FY2026 earnings call. The article provides access to the company's quarterly financial results discussion.",
+      "first_seen": "2026-08-13T07:00:00+00:00",
+      "last_seen": "2026-08-13T07:00:00+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "financial"
+      ],
+      "pickup_count": 1,
       "is_about_target_brand": true,
       "company": "BioMar"
     },
@@ -130987,6 +131015,246 @@
         "financial"
       ],
       "summary": "TradingView reports on ETFs that hold Schouw & Co stock positions. The article is an informational listing of investment fund holdings related to the company."
+    },
+    {
+      "id": 803407,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zZWJ1OXRMRHBRZzFZdXpIWGVTeUdfeDlnRnQ4UzhWeWRuei11WWJxWDRBOE5wUGMydGlhRUpLNUtvc01aLWhlamdiMmYxVDkwVS15cTQxcDlSMC02NXJn?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) latest stock news and headlines - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T11:56:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Stock market listing page aggregating BioMar headlines",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a Yahoo Finance UK stock listing page for BioMar Group A/S (BIOMAC.XC) that aggregates news headlines and stock information. The page serves as a financial data hub rather than presenting original reporting or analysis."
+    },
+    {
+      "id": 803410,
+      "story_id": 2888,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JSG1ENGdWclFCbk1mTlhzM0NtZmdfY25QTS1PcXF1UWlRcms4RDdxS0YzSm1WRURGZUkzcURxcW5SY2ttenV0dC1YOTJhSkptYTF2T3VfRjVHSDFfcE51cVVYWHE1QlJkdldhSXZrdUZpajBy?oc=5",
+      "title": "BIO Mar 2027 370.000 call (BIO270319C00370000) Seasonal returns chart - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-26T04:30:11+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": false,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial options trading data for unrelated ticker symbol",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This article is a technical financial chart and analysis for a call option contract (ticker BIO, strike 370.000, expiration March 2027). It is not related to BioMar Group, the aquaculture feed producer."
+    },
+    {
+      "id": 803411,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GTUhfVmgwS1otVm03bnpuNHNHYndUXzlwWlpqcHFpbTViQ3lfT05WaWhjWkEtcktsY21lbndkNkhZNHFRbXhYczFWUVl2VVlJM1VfYUwyUmRYc2dJWDJyYUF6cw?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) company profile and facts - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T11:56:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Company profile and financial information factsheet",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance UK published a company profile and facts page for BioMar Group A/S (BIOMAC.XC) on its platform. The article provides standard corporate information and financial data for the aquaculture feed producer listed on the stock exchange."
+    },
+    {
+      "id": 803416,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MSDI0akVjT19KWWtUNkdQaktrSVNFSU9VeEVLNFJkdmw4bEtHYmlkQlY0Tk83T3FxZHNYcHF2SVZIMkhCMF9zNW9EZEZncGpTWDRSZWE4Q1VaR0M0SkRxZTNrQU5HWkd5a0dneQ?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) insider ownership and holdings - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T11:56:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Insider ownership and holdings disclosure for listed company",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance UK publishes a data page on insider ownership and shareholding positions at BioMar Group A/S (ticker BIOMAC.XC). The page is a standard corporate governance reference document containing no news, commentary, or material developments about the company's operations or performance."
+    },
+    {
+      "id": 803418,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTlJrU2hEaGpfRGw0TFloaUNXbzJNTXIzejNxZ1RDRHJBV3R1ZV9jZDhjamJ1dUd0UUZrbTJ3Y29SN25qRjRMZ1BtTDlrNmtGLUcyMl9FUXpXLXRkaTcxNDkyN1U?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) analyst ratings, estimates and forecasts - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T11:56:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial analyst ratings and forecasts for BioMar Group stock",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance UK publishes analyst ratings, estimates, and forecasts for BioMar Group A/S (ticker: BIOMAC.XC). The article is a standard financial data aggregation page providing investment analysis tools for the company's stock performance and outlook."
+    },
+    {
+      "id": 803426,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zTVBlR1JId1hIYndYMUd2UFdtQnBCTDBYSW8tanJnNUhhdGV5Tk00NHlkV3I5YktuQUYwMDNqeUdfSzRZS1RUdzRXZHRRTWNaYTZScjVfY01lZXdfcXRPdzF0VQ?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) options chain - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T11:56:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data page listing BioMar options trading information",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "This is a Yahoo Finance UK page displaying options chain data for BioMar Group A/S shares traded on the BIOMAC.XC ticker. The article serves a purely informational function for investors tracking derivatives trading on the company's stock."
+    },
+    {
+      "id": 803427,
+      "story_id": 2873,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vVGdkZmg2VFY1dFZZZGZnMGx2M2RFa045aUlTRkVpQ1M3U2NYWHo0dTRpbVRWOEVhMUl3bkJBMzYzTl9aQjBnOUI0d2FlRHJMNTltdzlTWEQ5Qm9kNXlEYkQ0N3NUd0U?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) income statement - Yahoo Finance UK",
+      "source_name": "Yahoo Finance UK",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-24T11:56:22+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data page linking to BioMar Group income statement",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "This is a Yahoo Finance UK page providing access to BioMar Group A/S's income statement and financial data. The article itself contains no substantive reporting, analysis, or claims about the company."
+    },
+    {
+      "id": 803428,
+      "story_id": 2886,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wR0ZtSzRqZnhDSU9pUG1tRGk1WlA5XzJkQktoY1NqWkgwcGE3Mkh3eGhMdnhfcWszX0tzWDFhb2llRkZSLXNTOU9SQWctZmlyX1A1Z3dZaElNQXpSR3c?oc=5",
+      "title": "BioMar Group A/S (2IT.F) options chain – Yahoo Finance - Yahoo Finance Singapore",
+      "source_name": "Yahoo Finance Singapore",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-11-25T07:09:31+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial data and options chain listing for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "Yahoo Finance Singapore published an options chain page for BioMar Group A/S (ticker 2IT.F), providing trading and derivative data for the company's securities. The article is a standard financial data listing with no news content, analysis, or commentary about the company's operations or performance."
+    },
+    {
+      "id": 803473,
+      "story_id": 2901,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbFNjZEdfX0IxTlJOWG1uM01YT0RLSElHaHNCbXN3cEhfQnVrY01CTEx2ZnNlRTN4UUFLUDNNSWZJMU9DNWp3VE5VRkZrdVByRHE2ZmdQS1hWX2hLZmtTZXdQQnR4OXhHM1lidkVmVjlDRlEyN1hWNkZUckoyRzF4bFc4dnpDSUppZTZKZGljTlNoSktPb0RGeERn?oc=5",
+      "title": "BioMar Group A/S (BIOMAC.XC) Q2 FY2026 earnings call transcript - Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "language": "en",
+      "country": "INT",
+      "outlet_kind": "release",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.85,
+      "prominence": "primary",
+      "angle": "Q2 FY2026 earnings call transcript publication",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "financial"
+      ],
+      "summary": "Yahoo Finance has published the transcript of BioMar Group A/S's Q2 FY2026 earnings call. The article provides access to the company's quarterly financial results discussion."
+    },
+    {
+      "id": 803709,
+      "story_id": 2902,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hR0RJSjkzblF3NVN5Z0xweFlISjlNdURfcThiczVtMWxNWk9hRDlBSnBScWJHOV9kR05qY3FQVHMxdnVOemxCXy05bmw4ZEROM0dXXzZrNE5OMktjV0E?oc=5",
+      "title": "Perfil y datos de empresa de BioMar Group A/S (2IT.F) - Yahoo",
+      "source_name": "Yahoo",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-25T23:37:33+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "primary",
+      "angle": "Company profile and financial data for BioMar Group",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This is a company profile page on Yahoo Finance providing standardized corporate information and trading data for BioMar Group A/S. The article presents factual company details without editorial commentary or narrative analysis."
     }
   ],
   "share_of_voice": {
@@ -134610,7 +134878,7 @@
       },
       {
         "week": "2026-W33",
-        "BioMar": 88,
+        "BioMar": 89,
         "Cargill": 0,
         "Skretting": 4
       },
@@ -134700,7 +134968,7 @@
       },
       {
         "week": "2026-W48",
-        "BioMar": 26,
+        "BioMar": 35,
         "Cargill": 0,
         "Skretting": 5
       }
@@ -134708,7 +134976,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2138
+        "count": 2148
       },
       {
         "company": "Cargill",
