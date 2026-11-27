@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-27T19:05:18+00:00",
+  "generated_at": "2026-11-27T23:56:28+00:00",
   "stats": {
-    "mention_count": 3792,
-    "story_count": 2731,
-    "analyzed_count": 2151,
+    "mention_count": 3793,
+    "story_count": 2732,
+    "analyzed_count": 2152,
     "off_topic_mentions": 148,
     "off_topic_stories": 91
   },
@@ -434,6 +434,20 @@
     "ytringen"
   ],
   "stories": [
+    {
+      "id": 2903,
+      "headline": "Ratio deuda a largo plazo/activos totales de BioMar Group A/S – HAM:2IT - TradingView",
+      "story_summary": "This TradingView page displays the long-term debt-to-total-assets ratio for BioMar Group A/S trading under ticker HAM:2IT. The article is a financial data presentation rather than news coverage or analysis of the company's business or operations.",
+      "first_seen": "2026-11-27T04:25:18+00:00",
+      "last_seen": "2026-11-27T04:25:18+00:00",
+      "primary_sentiment": "neutral",
+      "risk_flags": [
+        "none"
+      ],
+      "pickup_count": 1,
+      "is_about_target_brand": true,
+      "company": "BioMar"
+    },
     {
       "id": 2873,
       "headline": "BioMar Group A/S (BIOMAC.XC) income statement - Yahoo Finance Australia",
@@ -131327,6 +131341,30 @@
         "none"
       ],
       "summary": "This is a Yahoo Finance page listing the major shareholders of BioMar Group A/S (ticker: BIOMAC.XC). The article provides factual information about stock ownership without commentary on company performance or strategic developments."
+    },
+    {
+      "id": 805421,
+      "story_id": 2903,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVmplbDZMTzhvVkNQbF9lMmw4VWFQeDNNNm92WElKLUFRZlF0SS1pTks0VVd2UUU1Y1JZcjNvdGQ0M3IzTG1iSG5MN0hRNExTS044aWdjdURyR3pkdXY3ME8tbG8zZkNkWmNqTTVzcDRvd0c2OHB6cmtUMXJKZ2hBbnBsYTJ3ZHNublpJNEw4d0lUSnM0NE83aW9UTjFQVmtlMS0w?oc=5",
+      "title": "Ratio deuda a largo plazo/activos totales de BioMar Group A/S – HAM:2IT - TradingView",
+      "source_name": "TradingView",
+      "language": "es",
+      "country": "INT",
+      "outlet_kind": "press",
+      "published_at": "2026-11-27T04:25:18+00:00",
+      "matched_keyword": "BioMar",
+      "company": "BioMar",
+      "is_about_target_brand": true,
+      "sentiment": "neutral",
+      "sentiment_confidence": 0.95,
+      "prominence": "passing",
+      "angle": "Financial metric reporting on BioMar Group's long-term debt ratio.",
+      "key_claims": [],
+      "people_quoted": [],
+      "risk_flags": [
+        "none"
+      ],
+      "summary": "This TradingView page displays the long-term debt-to-total-assets ratio for BioMar Group A/S trading under ticker HAM:2IT. The article is a financial data presentation rather than news coverage or analysis of the company's business or operations."
     }
   ],
   "share_of_voice": {
@@ -135040,7 +135078,7 @@
       },
       {
         "week": "2026-W48",
-        "BioMar": 38,
+        "BioMar": 39,
         "Cargill": 0,
         "Skretting": 5
       }
@@ -135048,7 +135086,7 @@
     "totals": [
       {
         "company": "BioMar",
-        "count": 2151
+        "count": 2152
       },
       {
         "company": "Cargill",
